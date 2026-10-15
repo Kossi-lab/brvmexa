@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-15T18:03:50.492Z",
+ "updatedAt": "2026-10-15T18:14:35.349Z",
  "items": [
   {
    "id": "sika-64985",
@@ -174,6 +174,20 @@
    "premium": false,
    "publishedAt": "2026-10-06T00:00:00.000Z",
    "symbols": []
+  },
+  {
+   "id": "gn-1ra4zxf",
+   "title": "BRVM : Sonatel atteint un seuil psychologique à 45 000 FCFA",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcG1Dd0tqZVFjTkszeFNoeDF3T3hnTlpFT0ZfNDFvRGRKdFVWTDl0clc2amp5ZVM4VDRUbHozNHB3VXhVM1B6MjRtZzQxMGp5ZnBjcGlHdS1XMm8wNDk4cFdla1RiOXRWdkhmbGNUbVRRdmZmdksyTlZCYlNWN1l2NFJVY3VNUGpvUC1WbDBDcEFtaXhDMnpNNkl6TXlYYW12?oc=5",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-09-30T07:00:00.000Z",
+   "symbols": [
+    "SNTS"
+   ]
   },
   {
    "id": "gn-bphdnm",
@@ -1343,6 +1357,18 @@
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-01-02T08:00:00.000Z",
+   "symbols": []
+  },
+  {
+   "id": "gn-hpzeix",
+   "title": "La BRVM clôture 2025 avec une progression remarquable de 25,26%",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWFk2UWdXOWZZTk9kUDRrb0pTYkhLcnBQX01fY1Z2anVKaUlVTW9jMlMydF83WmZnRldub3F5X2Q1c2tYMlFrbDVXalR1YXpFdTdwUWFoMnhLMnh5RV93SFVIbzNUZ05YaDJucEFWOXk0bEFPS3NXUF9CZFZZWEI4bkJFSHhyZDdkOGhuY0hQU2dFLXI1QTg3Vlo4OUQzaHJCdllJZjhYUQ?oc=5",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2025-12-31T08:00:00.000Z",
    "symbols": []
   },
   {
