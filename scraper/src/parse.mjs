@@ -75,17 +75,22 @@ export function parseQuotes(html) {
   };
   return table.rows
     .map((r) => {
-      const prevClose = parseNumber(r[col.prev]);
       const close = parseNumber(r[col.close]);
       const open = parseNumber(r[col.open]);
+      const change = parseNumber(r[col.change]) ?? 0;
+      // Sur brvm.org, la variation officielle se calcule par rapport à la clôture de la séance
+      // précédente, qui n'est PAS la colonne « Cours veille » (cours de référence publié).
+      // On reconstitue donc la vraie clôture précédente à partir de la variation.
+      const prevClose = close != null ? Math.round(close / (1 + change / 100)) : null;
       return {
         symbol: clean(r[col.symbol]).toUpperCase(),
         name: clean(r[col.name]),
         volume: parseNumber(r[col.volume]) ?? 0,
         prevClose,
+        refPrice: parseNumber(r[col.prev]),
         open: open || null, // 0 = pas d'échange dans la séance
         close,
-        change: parseNumber(r[col.change]) ?? 0,
+        change,
         changeAbs: close != null && prevClose != null ? close - prevClose : null,
       };
     })
