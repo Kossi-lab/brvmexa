@@ -1,0 +1,38 @@
+:root {
+  --bg: #0A0F1A; --surface: #111827; --border: #1F2A3D;
+  --text: #F3F6FB; --sec: #A3AEC2; --muted: #6B778C; --accent: #16C47F;
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; background: var(--bg); color: var(--text); }
+body { font-family: Inter, -apple-system, "Segoe UI", Roboto, Arial, sans-serif; line-height: 1.6; }
+a { color: var(--accent); text-decoration: none; }
+a:hover { text-decoration: underline; }
+.wrap { max-width: 760px; margin: 0 auto; padding: 0 20px; }
+header { border-bottom: 1px solid var(--border); }
+header .wrap { display: flex; align-items: center; justify-content: space-between; height: 68px; }
+.brand { display: flex; align-items: center; gap: 10px; color: var(--text); font-weight: 800; font-size: 20px; letter-spacing: -0.3px; }
+.brand img { width: 34px; height: 34px; border-radius: 9px; }
+.brand span { color: var(--accent); }
+nav a { color: var(--sec); margin-left: 18px; font-size: 14px; }
+main { padding: 48px 0 64px; }
+h1 { font-size: 34px; line-height: 1.2; letter-spacing: -0.6px; margin: 0 0 8px; }
+h2 { font-size: 20px; margin: 36px 0 8px; }
+p, li { color: var(--sec); }
+.updated { color: var(--muted); font-size: 14px; margin-bottom: 32px; }
+.hero { text-align: center; padding: 40px 0 24px; }
+.hero img { width: 112px; height: 112px; border-radius: 26px; }
+.hero h1 { font-size: 46px; margin-top: 22px; }
+.hero h1 span { color: var(--accent); }
+.hero .slogan { font-size: 19px; color: var(--sec); margin: 6px 0 0; }
+.grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 14px; margin-top: 40px; }
+.card { background: var(--surface); border: 1px solid var(--border); border-radius: 16px; padding: 20px; }
+.card h3 { margin: 0 0 6px; font-size: 17px; }
+.card p { margin: 0; font-size: 15px; }
+.note { background: var(--surface); border: 1px solid var(--border); border-radius: 14px; padding: 16px 18px; font-size: 14px; color: var(--sec); margin-top: 36px; }
+footer { border-top: 1px solid var(--border); padding: 28px 0 40px; color: var(--muted); font-size: 14px; }
+footer a { color: var(--sec); margin-right: 16px; }
+@media (max-width: 520px) {
+  nav { display: none; }
+  h1 { font-size: 28px; }
+  .hero h1 { font-size: 38px; }
+}
