@@ -1,0 +1,18 @@
+{
+  "name": "brvmexa-scraper",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Robot de collecte BRVMexa : cours, indices, palmarès et actualités de la BRVM",
+  "scripts": {
+    "update": "node src/run.mjs",
+    "backfill": "node src/backfill.mjs",
+    "test": "node --test test/*.test.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "cheerio": "^1.2.0"
+  }
+}

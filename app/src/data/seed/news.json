@@ -1,0 +1,41 @@
+{
+ "updatedAt": "2026-10-15T17:00:00.000Z",
+ "items": [
+  {
+   "id": "seed-64953",
+   "title": "BRVM : séance du 14 octobre dominée par les baisses",
+   "summary": null,
+   "url": "https://www.sikafinance.com/marches/brvm-29-valeurs-en-repli-dictent-la-tendance-journaliere_64953",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-14T16:15:00Z",
+   "symbols": []
+  },
+  {
+   "id": "seed-64957",
+   "title": "Orange CI lance une campagne de sensibilisation à la cybersécurité",
+   "summary": null,
+   "url": "https://www.sikafinance.com/marches/octobre-cyber-connect-orange-ci-lance-sa-campagne-de-sensibilisation-a-la-cybersecurite-avant-le-rassemblement-de-novembre_64957",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-14T16:37:00Z",
+   "symbols": ["ORAC"]
+  },
+  {
+   "id": "seed-64959",
+   "title": "Côte d’Ivoire : projet de budget 2027 proche de 18 500 milliards FCFA",
+   "summary": null,
+   "url": "https://www.sikafinance.com/marches/cote-divoire-un-budget-2027-de-pres-de-18-500-milliards-fcfa-dont-100-milliards-pour-le-fonds-souverain_64959",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-14T17:37:00Z",
+   "symbols": []
+  }
+ ]
+}

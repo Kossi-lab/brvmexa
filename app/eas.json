@@ -1,0 +1,14 @@
+{
+  "cli": { "version": ">= 16.0.0", "appVersionSource": "remote" },
+  "build": {
+    "apk": {
+      "android": { "buildType": "apk" },
+      "env": { "EXPO_PUBLIC_DATA_URL": "https://raw.githubusercontent.com/Kossi-lab/brvmexa/main/data" }
+    },
+    "production": {
+      "autoIncrement": true,
+      "env": { "EXPO_PUBLIC_DATA_URL": "https://raw.githubusercontent.com/Kossi-lab/brvmexa/main/data" }
+    }
+  },
+  "submit": { "production": {} }
+}
