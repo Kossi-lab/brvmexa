@@ -42,11 +42,25 @@ async function sb(pathname, init = {}) {
   return res.status === 204 ? null : res.json().catch(() => null);
 }
 
-async function main() {
-  if (!URL_ || !KEY) {
-    console.log('Alertes : secrets Supabase absents, vérification côté robot ignorée.');
-    return;
+
+/** Envoie les notifications via le service d'Expo, par paquets de 100 */
+export async function sendPush(messages) {
+  for (let i = 0; i < messages.length; i += 100) {
+    const res = await fetch('https://exp.host/--/api/v2/push/send', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
+      body: JSON.stringify(messages.slice(i, i + 100)),
+    });
+    const json = await res.json().catch(() => null);
+    const tickets = Array.isArray(json?.data) ? json.data : [];
+    const ok = tickets.filter((t) => t.status === 'ok').length;
+    console.log(`Notifications : ${ok}/${Math.min(100, messages.length - i)} acceptées par Expo (HTTP ${res.status})`);
+    for (const t of tickets) if (t.status !== 'ok') console.log(`  refusée : ${t.details?.error ?? ''} ${t.message ?? ''}`);
+    if (json?.errors) console.log('  erreur Expo :', JSON.stringify(json.errors));
   }
+}
+
+async function checkPriceAlerts() {
   const quotes = JSON.parse(await fs.readFile(path.join(DATA, 'quotes.json'), 'utf8')).items;
   const indices = JSON.parse(await fs.readFile(path.join(DATA, 'indices.json'), 'utf8')).items;
   const bySym = new Map(quotes.map((q) => [q.symbol, q]));
@@ -61,7 +75,7 @@ async function main() {
   console.log(`Alertes : ${alerts?.length ?? 0} actives, ${hits.length} atteintes`);
   const tokenCount = await sb('push_tokens?select=token', { headers: { Prefer: '' } });
   console.log(`Téléphones enregistrés pour les notifications : ${tokenCount?.length ?? 0}`);
-  if (!hits.length) return;
+  if (!hits.length) return { hits: 0 };
 
   const userIds = [...new Set(hits.map((h) => h.a.user_id))];
   const tokens = await sb(`push_tokens?select=token,user_id&user_id=in.(${userIds.join(',')})`, { headers: { Prefer: '' } });
@@ -84,21 +98,25 @@ async function main() {
     }
     await sb(`alerts?id=eq.${a.id}`, { method: 'PATCH', body: JSON.stringify({ active: false, triggered_at: now, triggered_price: q.close }) });
   }
-  // Service de notifications d'Expo, par paquets de 100
-  for (let i = 0; i < messages.length; i += 100) {
-    const res = await fetch('https://exp.host/--/api/v2/push/send', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
-      body: JSON.stringify(messages.slice(i, i + 100)),
-    });
-    const json = await res.json().catch(() => null);
-    const tickets = Array.isArray(json?.data) ? json.data : [];
-    const ok = tickets.filter((t) => t.status === 'ok').length;
-    console.log(`Notifications : ${ok}/${Math.min(100, messages.length - i)} acceptées par Expo (HTTP ${res.status})`);
-    for (const t of tickets) if (t.status !== 'ok') console.log(`  refusée : ${t.details?.error ?? ''} ${t.message ?? ''}`);
-    if (json?.errors) console.log('  erreur Expo :', JSON.stringify(json.errors));
-  }
+  await sendPush(messages);
+  return { hits: hits.length };
 }
+
+async function main() {
+  if (!URL_ || !KEY) {
+    console.log('Notifications : secrets Supabase absents (SUPABASE_URL, SUPABASE_SECRET_KEY), envoi ignoré.');
+    return;
+  }
+  let failed = false;
+  try { await checkPriceAlerts(); } catch (e) { failed = true; console.error('Alertes de cours :', e.message); }
+  try {
+    const { simNotifications } = await import('./notify-sim.mjs');
+    await simNotifications({ sb, sendPush, dataDir: DATA });
+  } catch (e) { failed = true; console.error('Simulateur :', e.message); }
+  if (failed) process.exitCode = 1;
+}
+
+export { sb };
 
 if (process.argv[1] === fileURLToPath(import.meta.url)) {
   main().catch((e) => {

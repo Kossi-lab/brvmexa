@@ -157,3 +157,25 @@ test('performances sur plusieurs périodes', async () => {
   const short = computePerf([{ d: '2026-10-01', c: 100 }], '2026-10-16', 110);
   assert.deepEqual([short.w1, short.m1, short.y1, short.ytd, short.full52], [10, null, null, null, false]);
 });
+
+test('notifications du simulateur (ordres limités, expiration, dividendes)', async () => {
+  const { simEvents } = await import('../src/notify-sim.mjs');
+  const now = new Date('2026-10-16T12:00:00Z');
+  const market = { bySym: new Map([['SNTS', { close: 40000 }], ['ORAC', { close: 15000 }]]), sessionDate: '2026-10-16', updatedAt: '2026-10-16T11:50:00Z' };
+  const state = {
+    cash: 1_000_000, createdAt: '2026-01-01T00:00:00Z',
+    positions: { ORAC: { symbol: 'ORAC', qty: 10, cost: 140000 } },
+    orders: [{ symbol: 'ORAC', side: 'buy', qty: 10, date: '2026-09-01T10:00:00Z' }],
+    pending: [
+      { id: 'a', symbol: 'SNTS', side: 'buy', qty: 5, limit: 41000, createdAt: '2026-10-15T09:00:00Z', expiresAt: '2026-11-15T09:00:00Z' },
+      { id: 'b', symbol: 'SNTS', side: 'buy', qty: 5, limit: 39000, createdAt: '2026-10-15T09:00:00Z', expiresAt: '2026-11-15T09:00:00Z' },
+      { id: 'c', symbol: 'ORAC', side: 'sell', qty: 50, limit: 14000, createdAt: '2026-10-15T09:00:00Z', expiresAt: '2026-11-15T09:00:00Z' },
+      { id: 'd', symbol: 'ORAC', side: 'sell', qty: 5, limit: 20000, createdAt: '2026-09-15T09:00:00Z', expiresAt: '2026-10-15T09:00:00Z' },
+      { id: 'e', symbol: 'SNTS', side: 'buy', qty: 100, limit: 41000, createdAt: '2026-10-15T09:00:00Z', expiresAt: '2026-11-15T09:00:00Z' },
+    ],
+  };
+  const div = { ORAC: { history: [{ d: '2026-10-15', a: 800 }, { d: '2026-06-05', a: 700 }] } };
+  const ev = simEvents('u1', state, market, div, now);
+  assert.deepEqual(ev.map((e) => e.key).sort(), ['div:u1:ORAC:2026-10-15', 'exp:d', 'fill:a']);
+  assert.match(ev.find((e) => e.key === 'div:u1:ORAC:2026-10-15').body, /8 000 F/);
+});
