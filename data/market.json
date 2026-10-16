@@ -1,124 +1,16 @@
 {
- "updatedAt": "2026-10-16T08:36:23.809Z",
- "sessionDate": "2026-10-15",
- "sessionTime": "22:45",
+ "updatedAt": "2026-10-16T09:25:14.753Z",
+ "sessionDate": "2026-10-16",
+ "sessionTime": "09:15",
  "source": "brvm.org",
- "transactionsValue": 2847918510,
+ "transactionsValue": 0,
  "capitalisationActions": 21084742131710,
- "capitalisationBonds": 13506436773335,
- "advancing": 14,
- "declining": 28,
- "unchanged": 6,
- "totalVolume": 522727,
- "gainers": [
-  {
-   "symbol": "ORAC",
-   "shortName": "Orange Côte d’Ivoire",
-   "close": 21500,
-   "change": 4.85,
-   "volume": 4484
-  },
-  {
-   "symbol": "SDCC",
-   "shortName": "SODECI",
-   "close": 12985,
-   "change": 3.88,
-   "volume": 288
-  },
-  {
-   "symbol": "SPHC",
-   "shortName": "SAPH CI",
-   "close": 7800,
-   "change": 3.24,
-   "volume": 8167
-  },
-  {
-   "symbol": "CBIBF",
-   "shortName": "Coris Bank International",
-   "close": 31000,
-   "change": 1.64,
-   "volume": 1562
-  },
-  {
-   "symbol": "UNXC",
-   "shortName": "Uniwax CI",
-   "close": 2180,
-   "change": 1.4,
-   "volume": 4446
-  }
- ],
- "losers": [
-  {
-   "symbol": "CFAC",
-   "shortName": "CFAO Motors CI",
-   "close": 1350,
-   "change": -4.93,
-   "volume": 6132
-  },
-  {
-   "symbol": "BOAM",
-   "shortName": "BOA Mali",
-   "close": 5700,
-   "change": -4.92,
-   "volume": 3930
-  },
-  {
-   "symbol": "ONTBF",
-   "shortName": "Onatel Burkina Faso",
-   "close": 2900,
-   "change": -4.76,
-   "volume": 6361
-  },
-  {
-   "symbol": "STAC",
-   "shortName": "SETAO CI",
-   "close": 1905,
-   "change": -4.75,
-   "volume": 5000
-  },
-  {
-   "symbol": "SAFC",
-   "shortName": "SAFCA CI",
-   "close": 3900,
-   "change": -4.18,
-   "volume": 3395
-  }
- ],
- "mostActive": [
-  {
-   "symbol": "SNTS",
-   "shortName": "Sonatel",
-   "close": 43900,
-   "change": -1.79,
-   "volume": 37543
-  },
-  {
-   "symbol": "SGBC",
-   "shortName": "Société Générale CI",
-   "close": 38995,
-   "change": -0.01,
-   "volume": 3041
-  },
-  {
-   "symbol": "ORAC",
-   "shortName": "Orange Côte d’Ivoire",
-   "close": 21500,
-   "change": 4.85,
-   "volume": 4484
-  },
-  {
-   "symbol": "SIBC",
-   "shortName": "Société Ivoirienne de Banque",
-   "close": 8900,
-   "change": 1.14,
-   "volume": 10667
-  },
-  {
-   "symbol": "BBGC",
-   "shortName": "Bridge Bank Group CI",
-   "close": 10495,
-   "change": 0.91,
-   "volume": 8003
-  }
- ]
+ "capitalisationBonds": 13494837643335,
+ "advancing": 0,
+ "declining": 0,
+ "unchanged": 48,
+ "totalVolume": 0,
+ "gainers": [],
+ "losers": [],
+ "mostActive": []
 }
