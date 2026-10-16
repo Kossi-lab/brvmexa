@@ -1,124 +1,124 @@
 {
- "updatedAt": "2026-10-16T11:01:46.265Z",
+ "updatedAt": "2026-10-16T11:31:17.546Z",
  "sessionDate": "2026-10-16",
- "sessionTime": "10:45",
+ "sessionTime": "11:30",
  "source": "brvm.org",
- "transactionsValue": 1174256253,
- "capitalisationActions": 21089473628557,
+ "transactionsValue": 1460021314,
+ "capitalisationActions": 21066272915575,
  "capitalisationBonds": 13488434415626,
  "advancing": 14,
- "declining": 20,
- "unchanged": 14,
- "totalVolume": 506896,
+ "declining": 22,
+ "unchanged": 12,
+ "totalVolume": 955320,
  "gainers": [
+  {
+   "symbol": "ONTBF",
+   "shortName": "Onatel Burkina Faso",
+   "close": 3050,
+   "change": 5.17,
+   "volume": 1678
+  },
   {
    "symbol": "TTLC",
    "shortName": "TotalEnergies Marketing CI",
-   "close": 3150,
-   "change": 5,
-   "volume": 259
+   "close": 3100,
+   "change": 3.33,
+   "volume": 1022
   },
   {
    "symbol": "CFAC",
    "shortName": "CFAO Motors CI",
    "close": 1380,
    "change": 2.22,
-   "volume": 1299
+   "volume": 1380
   },
   {
-   "symbol": "ETIT",
-   "shortName": "Ecobank Transnational (ETI)",
-   "close": 66,
-   "change": 1.54,
-   "volume": 453055
-  },
-  {
-   "symbol": "STBC",
-   "shortName": "SITAB CI",
-   "close": 21500,
-   "change": 1.42,
-   "volume": 135
+   "symbol": "UNLC",
+   "shortName": "Unilever CI",
+   "close": 45000,
+   "change": 1.33,
+   "volume": 4
   },
   {
    "symbol": "CBIBF",
    "shortName": "Coris Bank International",
-   "close": 31400,
-   "change": 1.29,
-   "volume": 99
+   "close": 31395,
+   "change": 1.27,
+   "volume": 116
   }
  ],
  "losers": [
   {
-   "symbol": "NTLC",
-   "shortName": "Nestlé CI",
-   "close": 14500,
-   "change": -6.45,
-   "volume": 885
-  },
-  {
-   "symbol": "BOAN",
-   "shortName": "BOA Niger",
-   "close": 4500,
-   "change": -3.74,
-   "volume": 1814
-  },
-  {
    "symbol": "SDSC",
    "shortName": "Africa Global Logistics CI",
-   "close": 2985,
-   "change": -2.61,
-   "volume": 163
+   "close": 2875,
+   "change": -6.2,
+   "volume": 1927
   },
   {
-   "symbol": "SOGC",
-   "shortName": "SOGB CI",
-   "close": 7500,
-   "change": -2.6,
-   "volume": 244
+   "symbol": "BOAB",
+   "shortName": "BOA Bénin",
+   "close": 8900,
+   "change": -3.31,
+   "volume": 5768
+  },
+  {
+   "symbol": "NTLC",
+   "shortName": "Nestlé CI",
+   "close": 15000,
+   "change": -3.23,
+   "volume": 907
+  },
+  {
+   "symbol": "SCRC",
+   "shortName": "Sucrivoire CI",
+   "close": 2285,
+   "change": -2.56,
+   "volume": 2401
   },
   {
    "symbol": "SIBC",
    "shortName": "Société Ivoirienne de Banque",
-   "close": 8700,
-   "change": -2.25,
-   "volume": 4811
+   "close": 8705,
+   "change": -2.19,
+   "volume": 6899
   }
  ],
  "mostActive": [
   {
    "symbol": "SNTS",
    "shortName": "Sonatel",
-   "close": 43850,
-   "change": -0.11,
-   "volume": 6845
+   "close": 43840,
+   "change": -0.14,
+   "volume": 8591
+  },
+  {
+   "symbol": "BOAS",
+   "shortName": "BOA Sénégal",
+   "close": 8000,
+   "change": -1.78,
+   "volume": 8669
+  },
+  {
+   "symbol": "SIBC",
+   "shortName": "Société Ivoirienne de Banque",
+   "close": 8705,
+   "change": -2.19,
+   "volume": 6899
+  },
+  {
+   "symbol": "ETIT",
+   "shortName": "Ecobank Transnational (ETI)",
+   "close": 65,
+   "change": 0,
+   "volume": 875019
   },
   {
    "symbol": "BOAM",
    "shortName": "BOA Mali",
    "close": 5700,
    "change": 0,
-   "volume": 9232
-  },
-  {
-   "symbol": "BOAB",
-   "shortName": "BOA Bénin",
-   "close": 9150,
-   "change": -0.6,
-   "volume": 5001
-  },
-  {
-   "symbol": "SIBC",
-   "shortName": "Société Ivoirienne de Banque",
-   "close": 8700,
-   "change": -2.25,
-   "volume": 4811
-  },
-  {
-   "symbol": "SGBC",
-   "shortName": "Société Générale CI",
-   "close": 39200,
-   "change": 0.53,
-   "volume": 778
+   "volume": 9476
   }
  ]
 }
