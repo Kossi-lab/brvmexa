@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-16T19:32:46.807Z",
+ "updatedAt": "2026-10-16T20:32:37.694Z",
  "items": [
   {
    "id": "sika-65013",
@@ -38,10 +38,10 @@
    "symbols": []
   },
   {
-   "id": "sika-65009",
+   "id": "sika-65017",
    "title": "Côte d’Ivoire : AGRA lance à Abidjan VALUE4HER pour connecter les entreprises féminines aux financements et aux marchés",
    "summary": "AGRA lance à Abidjan, la plateforme VALUE4HER, destinée à renforcer les entreprises agroalimentaires dirigées par des fe...",
-   "url": "https://www.sikafinance.com/marches/cote-divoire-agra-lance-a-abidjan-value4her-pour-connecter-les-entreprises-feminines-aux-financements-et-aux-marches_65009",
+   "url": "https://www.sikafinance.com/marches/cote-divoire-agra-lance-a-abidjan-value4her-pour-connecter-les-entreprises-feminines-aux-financements-et-aux-marches_65017",
    "image": null,
    "source": "Sika Finance",
    "category": "Marchés",
@@ -362,6 +362,20 @@
    ]
   },
   {
+   "id": "gn-p6xrw2",
+   "title": "BRVM : Bridge Bank Group Côte d'Ivoire entre en Bourse après une IPO de 67,5 milliards FCFA",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd1NKUWNaNkFtNjdsbWJwc1E0SnFwcVRkS2VkVmg5OW9FRWlTZzh3LS1VenhFalN6REE5OWVaeHgwNXpzM0xCRTI4cE9aeU1BWUhDUGdNUTJwUklnSDFWUmFpTUVfdHlKUlNLZkZOM3VLLXVCOGJCU2ZvZjAwLWF6emlfcENqem5ZTFB3bVhSSURCSmlHb1RMNmtGWGhkdnVPdFpaUVQxUGZUTVNBLWMxQTlDZGd6SDRiZDNz?oc=5",
+   "image": null,
+   "source": "Journal du Niger",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-09-25T10:24:49.000Z",
+   "symbols": [
+    "BBGC"
+   ]
+  },
+  {
    "id": "gn-1aoqpmg",
    "title": "Bridge Bank Group CI entre à la BRVM avec un taux de souscription de 142 %",
    "summary": null,
@@ -387,20 +401,6 @@
    "publishedAt": "2026-09-24T12:26:00.000Z",
    "symbols": [
     "UNXC"
-   ]
-  },
-  {
-   "id": "gn-p6xrw2",
-   "title": "BRVM : Bridge Bank Group Côte d'Ivoire entre en Bourse après une IPO de 67,5 milliards FCFA",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd1NKUWNaNkFtNjdsbWJwc1E0SnFwcVRkS2VkVmg5OW9FRWlTZzh3LS1VenhFalN6REE5OWVaeHgwNXpzM0xCRTI4cE9aeU1BWUhDUGdNUTJwUklnSDFWUmFpTUVfdHlKUlNLZkZOM3VLLXVCOGJCU2ZvZjAwLWF6emlfcENqem5ZTFB3bVhSSURCSmlHb1RMNmtGWGhkdnVPdFpaUVQxUGZUTVNBLWMxQTlDZGd6SDRiZDNz?oc=5",
-   "image": null,
-   "source": "Journal du Niger",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-09-24T07:00:00.000Z",
-   "symbols": [
-    "BBGC"
    ]
   },
   {
