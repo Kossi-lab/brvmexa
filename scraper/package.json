@@ -7,7 +7,8 @@
   "scripts": {
     "update": "node src/run.mjs",
     "backfill": "node src/backfill.mjs",
-    "test": "node --test test/*.test.mjs"
+    "test": "node --test test/*.test.mjs",
+    "alerts": "node src/alerts.mjs"
   },
   "engines": {
     "node": ">=20"

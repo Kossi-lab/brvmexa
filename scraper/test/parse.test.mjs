@@ -30,10 +30,15 @@ test('cours des actions', () => {
   assert.equal(q.length, 48);
   const snts = q.find((x) => x.symbol === 'SNTS');
   assert.deepEqual(
-    { prev: snts.prevClose, open: snts.open, close: snts.close, vol: snts.volume, ch: snts.change },
-    { prev: 44295, open: 44900, close: 44700, vol: 22254, ch: -0.45 },
+    { ref: snts.refPrice, open: snts.open, close: snts.close, vol: snts.volume, ch: snts.change },
+    { ref: 44295, open: 44900, close: 44700, vol: 22254, ch: -0.45 },
   );
   assert.equal(q.find((x) => x.symbol === 'SEMC').open, null);
+  // Clôture précédente déduite de la variation officielle (cas réel du 15/10/2026 : 44 700 → 43 900, -1,79 %)
+  const html2 = html.replace('<td>SNTS</td><td>SONATEL SENEGAL</td><td>22&nbsp;254</td><td>44&nbsp;295</td>', '<td>SNTS</td><td>SONATEL SENEGAL</td><td>37&nbsp;543</td><td>43&nbsp;850</td>')
+    .replace('<td>44&nbsp;700</td><td><span class="text-bad">-0,45</span>', '<td>43&nbsp;900</td><td><span class="text-bad">-1,79</span>');
+  const s2 = parseQuotes(html2).find((x) => x.symbol === 'SNTS');
+  assert.deepEqual([s2.prevClose, s2.changeAbs, s2.refPrice], [44700, -800, 43850]);
   assert.deepEqual(parseLastUpdate(html), { date: '2026-10-14', time: '20:30' });
 });
 
@@ -79,4 +84,13 @@ test('pays et tickers', () => {
   assert.equal(countryFromSymbol('SNTS'), 'SN');
   assert.equal(countryFromSymbol('ETIT'), 'TG');
   assert.equal(sikaTicker('LNBB'), 'LNBB.bj');
+});
+
+test('alertes : conditions', async () => {
+  const { isMet, describe } = await import('../src/alerts.mjs');
+  assert.equal(isMet({ kind: 'above', value: '44000' }, 44100, 0), true);
+  assert.equal(isMet({ kind: 'below', value: '44000' }, 44100, 0), false);
+  assert.equal(isMet({ kind: 'change_up', value: '3' }, 1, 3.2), true);
+  assert.equal(isMet({ kind: 'change_down', value: '3' }, 1, -2.9), false);
+  assert.equal(describe({ kind: 'above', value: 45000, is_index: false }), 'Cours ≥ 45 000 FCFA');
 });
