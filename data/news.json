@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-16T01:40:28.127Z",
+ "updatedAt": "2026-10-16T08:36:57.153Z",
  "items": [
   {
    "id": "sika-64985",
@@ -912,6 +912,20 @@
    "premium": false,
    "publishedAt": "2026-07-07T07:00:00.000Z",
    "symbols": []
+  },
+  {
+   "id": "gn-1m6h1fm",
+   "title": "Bridge Bank Côte d’Ivoire cédera 20 % de son capital sur la BRVM pour 117,6 millions $",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORTZxZV9LSlVnc1NaZEdTV0Y3eHRGWmlfcXlFM09nYTQ5Q1NCRmJvd0lIeE9maWpWT09MSmtTM0pXZUdvVzk0WkVaWEwyM0treDNacFZKdEp5b1YzZ1drSjlCOFBhTFpCY1RpSUlUMjR6STZqSHVKV2Z0RWtOdnZka0FhUENFTHJXcnBaN1FtVk8yZjFrSlFydU1UMXZzMHUtYnc4YnU0cjlEZXV6VmR4UTB4dl9vRTVlei1zazFiRUZBOHVQN3ZfR0x5MWVZMXJlVXAzMWV0NWZDQQ?oc=5",
+   "image": null,
+   "source": "AGENCE ECOFIN",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-07-07T07:00:00.000Z",
+   "symbols": [
+    "BBGC"
+   ]
   },
   {
    "id": "gn-1yvdkq5",
