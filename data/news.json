@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-16T10:02:53.226Z",
+ "updatedAt": "2026-10-16T10:25:41.655Z",
  "items": [
   {
    "id": "sika-64996",
@@ -240,20 +240,6 @@
    ]
   },
   {
-   "id": "gn-p6xrw2",
-   "title": "BRVM : Bridge Bank Group Côte d'Ivoire entre en Bourse après une IPO de 67,5 milliards FCFA",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd1NKUWNaNkFtNjdsbWJwc1E0SnFwcVRkS2VkVmg5OW9FRWlTZzh3LS1VenhFalN6REE5OWVaeHgwNXpzM0xCRTI4cE9aeU1BWUhDUGdNUTJwUklnSDFWUmFpTUVfdHlKUlNLZkZOM3VLLXVCOGJCU2ZvZjAwLWF6emlfcENqem5ZTFB3bVhSSURCSmlHb1RMNmtGWGhkdnVPdFpaUVQxUGZUTVNBLWMxQTlDZGd6SDRiZDNz?oc=5",
-   "image": null,
-   "source": "Journal du Niger",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-09-25T10:24:49.000Z",
-   "symbols": [
-    "BBGC"
-   ]
-  },
-  {
    "id": "gn-1aoqpmg",
    "title": "Bridge Bank Group CI entre à la BRVM avec un taux de souscription de 142 %",
    "summary": null,
@@ -279,6 +265,20 @@
    "publishedAt": "2026-09-24T12:26:00.000Z",
    "symbols": [
     "UNXC"
+   ]
+  },
+  {
+   "id": "gn-p6xrw2",
+   "title": "BRVM : Bridge Bank Group Côte d'Ivoire entre en Bourse après une IPO de 67,5 milliards FCFA",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd1NKUWNaNkFtNjdsbWJwc1E0SnFwcVRkS2VkVmg5OW9FRWlTZzh3LS1VenhFalN6REE5OWVaeHgwNXpzM0xCRTI4cE9aeU1BWUhDUGdNUTJwUklnSDFWUmFpTUVfdHlKUlNLZkZOM3VLLXVCOGJCU2ZvZjAwLWF6emlfcENqem5ZTFB3bVhSSURCSmlHb1RMNmtGWGhkdnVPdFpaUVQxUGZUTVNBLWMxQTlDZGd6SDRiZDNz?oc=5",
+   "image": null,
+   "source": "Journal du Niger",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-09-24T07:00:00.000Z",
+   "symbols": [
+    "BBGC"
    ]
   },
   {
@@ -322,15 +322,15 @@
    ]
   },
   {
-   "id": "gn-vie2vz",
+   "id": "gn-i6zxzi",
    "title": "BRVM : Investir en bourse, est-ce vraimant pour les Maliens ?",
    "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWnpHcFIyVlBxVHJqWk1XRHROUXBYLVp3emlVTVBGbll0LVNkZFJ2QS1SZ0VNbk5NZUxKYXRQeUQyZ0xLYzNCWHJPTmlzOUJuMHI3cmpVcVU3akVPcXVoQ21VMnhSN0gyZno2VmR2X0JmZDdaWGNKX3FBeTRaMmUtMzBUM2xRaUxqY2NUd183N2poUU9BejdidzBfQlJZRTRLUElSQTh6aUM2UmZoY1EtOHpIdkZTUDZob081R19ZalU3ZEtUODQyNg?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbFhBYnhVMHYySHFpcTNfTzllMW9rXzczUndTSk1iWmtxa1JXb2NSNmR5NHE1RHZVWGVNZ0NMVHBUdWZuamw1ajRjTS1QWVA3eGh6NktoLW1fbUVLNzh3T0I4M3FhOXFvQkVrY3k2UTlKUVBjX1ZjWGhwUTRGNnVYTTEtZ3pwUXVhQ2ZjZndaRWswX0I3cW9pc1kwUGRUQXVvR1lJcEUwZXZ1Q3JaMHFTa1pGYUMtbUtIRDg4UWZ5NkhkYVJISVhkbg?oc=5",
    "image": null,
    "source": "CANAL+",
    "category": "Presse",
    "premium": false,
-   "publishedAt": "2026-09-19T06:22:45.000Z",
+   "publishedAt": "2026-09-22T01:26:34.000Z",
    "symbols": []
   },
   {
@@ -926,20 +926,6 @@
    "symbols": []
   },
   {
-   "id": "gn-1yvdkq5",
-   "title": "BRVM : Les investisseurs engagent plus de 1,5 milliard FCFA sur ECOBANK CI",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSmlpUjNzX3E5QzMtYzhDOWJvcndFbjlRWEZxQzVvclZCYjBzS1ZkM1RxN2g5VElyd2doSVVWaEVUZmNsT0VCamZGLTZNZEs3SnhLbFN0blh2eE5ISVQtdWthOGFLamlmUFBFNlZYM053aXFYMWNybUZjV0taYjZfWm1jVmNSV3hSOXVMWnhHY25jRGtQbDJoMzd6RVlUOFI2UTZqVG91WE9tLVd3cEo1TVBWcUY?oc=5",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-07-07T07:00:00.000Z",
-   "symbols": [
-    "ECOC"
-   ]
-  },
-  {
    "id": "gn-1m6h1fm",
    "title": "Bridge Bank Côte d’Ivoire cédera 20 % de son capital sur la BRVM pour 117,6 millions $",
    "summary": null,
@@ -951,6 +937,20 @@
    "publishedAt": "2026-07-07T07:00:00.000Z",
    "symbols": [
     "BBGC"
+   ]
+  },
+  {
+   "id": "gn-1yvdkq5",
+   "title": "BRVM : Les investisseurs engagent plus de 1,5 milliard FCFA sur ECOBANK CI",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSmlpUjNzX3E5QzMtYzhDOWJvcndFbjlRWEZxQzVvclZCYjBzS1ZkM1RxN2g5VElyd2doSVVWaEVUZmNsT0VCamZGLTZNZEs3SnhLbFN0blh2eE5ISVQtdWthOGFLamlmUFBFNlZYM053aXFYMWNybUZjV0taYjZfWm1jVmNSV3hSOXVMWnhHY25jRGtQbDJoMzd6RVlUOFI2UTZqVG91WE9tLVd3cEo1TVBWcUY?oc=5",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-07-07T07:00:00.000Z",
+   "symbols": [
+    "ECOC"
    ]
   },
   {
@@ -1040,24 +1040,24 @@
    "symbols": []
   },
   {
-   "id": "gn-143ic70",
-   "title": "Côte d’Ivoire : la start-up Kaydan Technology prépare son entrée à la BRVM",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZ3VQOEtySDRnU3pQWTJSRWtMejJDU25FbnUtTHBTZ19nSzh2WFp3TUtmakdUN0MzWlN2M2pTd0hzXzY0UzVsNXE3SzBwZTNNNXFuMWxIRUR6UTlXQ2Zvd3VWM0FuNnQtYWlQWWJQY1dEQjk1NThNR2hXZ3h5YkJSUkpuN2h1RXhwcFJSanhCYmd3Sk9MaDROQmpQWTF5QjJzRksycEpDY3FWalk4ZWQ2WXRvQ21sS2JpdWx4OEg5eDBJenlWRVRqR0s2bVA?oc=5",
-   "image": null,
-   "source": "AGENCE ECOFIN",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-05-21T07:00:00.000Z",
-   "symbols": []
-  },
-  {
    "id": "gn-afheld",
    "title": "KAYDAN Technology accueille la BRVM : un pas décisif vers l’émergence d’un champion technologique ivoirien coté en bourse",
    "summary": null,
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSV9oMmItRlRiamJqakFTMlNlSHczM01mbE9sVHRpTFVRMWloRG9FX1NyLU9EemJBOXl3MnN4Y1VCM1NvbFAzOElhM2NGbHlTV0Q4c2ZhZm5GMXd2bWJsZXpwVXFBclBXcUIzdHY5dndiLUpWWFFhRUs3SjQ1NmVzZHdqbHdkcjdpTW9meGV0UFJnbHAzQmhBMThnTzA0eGMyOWJWYmlERDFtR0JDZVV5S3RvSUZoY2tCUWVGai13X0psZ0t6REpyeWl2VjhlR1BZLXQzTw?oc=5",
    "image": null,
    "source": "CIO Mag",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-05-21T07:00:00.000Z",
+   "symbols": []
+  },
+  {
+   "id": "gn-143ic70",
+   "title": "Côte d’Ivoire : la start-up Kaydan Technology prépare son entrée à la BRVM",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZ3VQOEtySDRnU3pQWTJSRWtMejJDU25FbnUtTHBTZ19nSzh2WFp3TUtmakdUN0MzWlN2M2pTd0hzXzY0UzVsNXE3SzBwZTNNNXFuMWxIRUR6UTlXQ2Zvd3VWM0FuNnQtYWlQWWJQY1dEQjk1NThNR2hXZ3h5YkJSUkpuN2h1RXhwcFJSanhCYmd3Sk9MaDROQmpQWTF5QjJzRksycEpDY3FWalk4ZWQ2WXRvQ21sS2JpdWx4OEg5eDBJenlWRVRqR0s2bVA?oc=5",
+   "image": null,
+   "source": "AGENCE ECOFIN",
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-05-21T07:00:00.000Z",
@@ -1152,24 +1152,24 @@
    "symbols": []
   },
   {
-   "id": "gn-bx2iup",
-   "title": "Les BRVM Investment Days à l’affiche à New York",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUWg0MEstaVk5QWpseUQwSWpZTEtUNTlLbW5pblBGODlUclNEdlRUY3pXemNReXBxMVNNRGlzaXdlQml3UGlqTktyU3h1UVZGSk03NVozdkJHdVBQTW41LU90YlhSNnVEamdYT0MtY1ozNHAwaXpUNjY0TTVoSjJGVXRxWVc5ajA4b1BnaGRQUkswM0U?oc=5",
-   "image": null,
-   "source": "Financial Afrik",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-04-20T07:00:00.000Z",
-   "symbols": []
-  },
-  {
    "id": "gn-1yuou68",
    "title": "La BRVM déroule ses Investment Days au Nasdaq de New York",
    "summary": null,
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNelREcTV0b2sycHJiLUdQRDN1VVB5blIwbHVEQU91N2ZXR3Zadk5fTlR3Rjg0TVVLTDJraXFsazJIUUpFTENuOXVkWjVQb05EdXM1OG5RTVhUVjJCbTFPRTMzQ1FnRHEzb1ZLcVFVSlhrU0FUeDdWcUJ0d2dlV05xcWs5QTdpYTFqdFIyYVRNNGpORGdD?oc=5",
    "image": null,
    "source": "Africtelegraph",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-04-20T07:00:00.000Z",
+   "symbols": []
+  },
+  {
+   "id": "gn-bx2iup",
+   "title": "Les BRVM Investment Days à l’affiche à New York",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUWg0MEstaVk5QWpseUQwSWpZTEtUNTlLbW5pblBGODlUclNEdlRUY3pXemNReXBxMVNNRGlzaXdlQml3UGlqTktyU3h1UVZGSk03NVozdkJHdVBQTW41LU90YlhSNnVEamdYT0MtY1ozNHAwaXpUNjY0TTVoSjJGVXRxWVc5ajA4b1BnaGRQUkswM0U?oc=5",
+   "image": null,
+   "source": "Financial Afrik",
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-04-20T07:00:00.000Z",
