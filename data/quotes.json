@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-10-16T14:45:26.651Z",
+ "updatedAt": "2026-10-16T15:12:52.757Z",
  "sessionDate": "2026-10-16",
- "sessionTime": "14:45",
+ "sessionTime": "15:06",
  "source": "brvm.org",
  "items": [
   {
@@ -202,7 +202,7 @@
   {
    "symbol": "CFAC",
    "name": "CFAO MOTORS COTE D'IVOIRE",
-   "volume": 2680,
+   "volume": 2685,
    "prevClose": 1350,
    "refPrice": 1450,
    "open": 1350,
@@ -397,7 +397,7 @@
   {
    "symbol": "PRSC",
    "name": "TRACTAFRIC MOTORS COTE D'IVOIRE",
-   "volume": 289,
+   "volume": 299,
    "prevClose": 4250,
    "refPrice": 4290,
    "open": 4300,
@@ -637,7 +637,7 @@
   {
    "symbol": "STAC",
    "name": "SETAO COTE D'IVOIRE",
-   "volume": 6129,
+   "volume": 6134,
    "prevClose": 1905,
    "refPrice": 2025,
    "open": 1905,
