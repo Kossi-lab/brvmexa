@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-10-16T16:35:03.721Z",
+ "updatedAt": "2026-10-16T17:32:53.162Z",
  "items": [
+  {
+   "id": "sika-65013",
+   "title": "Côte d’Ivoire : Le Fonds de l’OPEP prévoit jusqu’à 500 millions de dollars de financements sur 2026-2029",
+   "summary": "La Côte d'Ivoire pourrait bénéficier de 500 millions de dollars, soit environ 297 milliards de FCFA, de financeme...",
+   "url": "https://www.sikafinance.com/marches/cote-divoire-le-fonds-de-lopep-prevoit-jusqua-500-millions-de-dollars-de-financements-sur-2026-2029_65013",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-16T17:12:00Z",
+   "symbols": []
+  },
   {
    "id": "sika-65012",
    "title": "BRVM : Le marché perd pied face à 23 valeurs en repli",
@@ -350,6 +362,20 @@
    ]
   },
   {
+   "id": "gn-p6xrw2",
+   "title": "BRVM : Bridge Bank Group Côte d'Ivoire entre en Bourse après une IPO de 67,5 milliards FCFA",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd1NKUWNaNkFtNjdsbWJwc1E0SnFwcVRkS2VkVmg5OW9FRWlTZzh3LS1VenhFalN6REE5OWVaeHgwNXpzM0xCRTI4cE9aeU1BWUhDUGdNUTJwUklnSDFWUmFpTUVfdHlKUlNLZkZOM3VLLXVCOGJCU2ZvZjAwLWF6emlfcENqem5ZTFB3bVhSSURCSmlHb1RMNmtGWGhkdnVPdFpaUVQxUGZUTVNBLWMxQTlDZGd6SDRiZDNz?oc=5",
+   "image": null,
+   "source": "Journal du Niger",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-09-25T10:24:49.000Z",
+   "symbols": [
+    "BBGC"
+   ]
+  },
+  {
    "id": "gn-1aoqpmg",
    "title": "Bridge Bank Group CI entre à la BRVM avec un taux de souscription de 142 %",
    "summary": null,
@@ -375,20 +401,6 @@
    "publishedAt": "2026-09-24T12:26:00.000Z",
    "symbols": [
     "UNXC"
-   ]
-  },
-  {
-   "id": "gn-p6xrw2",
-   "title": "BRVM : Bridge Bank Group Côte d'Ivoire entre en Bourse après une IPO de 67,5 milliards FCFA",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd1NKUWNaNkFtNjdsbWJwc1E0SnFwcVRkS2VkVmg5OW9FRWlTZzh3LS1VenhFalN6REE5OWVaeHgwNXpzM0xCRTI4cE9aeU1BWUhDUGdNUTJwUklnSDFWUmFpTUVfdHlKUlNLZkZOM3VLLXVCOGJCU2ZvZjAwLWF6emlfcENqem5ZTFB3bVhSSURCSmlHb1RMNmtGWGhkdnVPdFpaUVQxUGZUTVNBLWMxQTlDZGd6SDRiZDNz?oc=5",
-   "image": null,
-   "source": "Journal du Niger",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-09-24T07:00:00.000Z",
-   "symbols": [
-    "BBGC"
    ]
   },
   {
