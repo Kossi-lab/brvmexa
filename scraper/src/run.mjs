@@ -100,6 +100,16 @@ async function updateMarket() {
     };
   });
 
+  // Clôture précise de la veille : dernière séance de l'historique, si elle concorde avec la variation officielle
+  for (const q of items) {
+    const hist = await readHistory(path.join(DATA, 'history', `${q.symbol}.json`));
+    const prev = hist.filter((p) => p.d < session.date).at(-1)?.c;
+    if (prev > 0 && q.close != null && Math.abs(((q.close / prev) - 1) * 100 - q.change) < 0.006) {
+      q.prevClose = prev;
+      q.changeAbs = q.close - prev;
+    }
+  }
+
   const indicesHtml = await fetchText(`${BRVM}/indices`);
   const indices = parseIndices(indicesHtml);
   if (indices.length < 3) throw new Error(`Seulement ${indices.length} indices lus`);
