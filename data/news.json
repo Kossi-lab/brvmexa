@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-16T22:31:22.348Z",
+ "updatedAt": "2026-10-16T22:33:12.186Z",
  "items": [
   {
    "id": "sika-65013",
@@ -307,6 +307,18 @@
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-10-06T00:00:00.000Z",
+   "symbols": []
+  },
+  {
+   "id": "gn-4ruro3",
+   "title": "BRVM-30 : La BRVM actualise son indice de liquidité pour le 4ème trimestre",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcnhEV1U2LXd3SVB5YWRPWVZydW9TR3BjSTQtZGhLOGdjOVRONEVaQXNoSElqVEFfVzAtdVFUTzkyMEVydTdBUFQtVW5IZjNvMnNXNm11SUdzLWY2OGQ1NWdkVVVsdWhOSDlSZmV6d1NFMkFUUXdPYjJZNHRXNl9walQ1Q0tqMms2Yl9sZGtIY2FucDZCaktCMlRhbW14Qi1pV0kzRU9CaUhFdjlGVHlUUU5OZUU?oc=5",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-10-02T07:00:00.000Z",
    "symbols": []
   },
   {
@@ -812,15 +824,15 @@
    ]
   },
   {
-   "id": "gn-hpqlie",
+   "id": "gn-6k4xbp",
    "title": "BRVM : 4 actions phares en forte progression, ETIT bondit de +97,3% en 30 jours",
    "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9henNlZGxWdkhHZzNaUkk1S2lTRW1XNUNNNjFsamtQOHphYllzTnJEdkl4MUItUUpVMVlRQ1VvLXl2R0pXbDdmZzB4QkVzWFBYZ3VsNUpBSnFaWlFfNjRxMW9XajNfS2UyUUVDak9xcGlZeVo1Q0ZjMGtB?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qdm9LZFFIeVI4eDhHYlJITGJNQ1pXR0d4bGpWdExRXzZfT2ZKcGNKcUh2YUx0R3VwUlpIZjBjRDYzd3ZvZDFISDYzX1hDNm9xVTlCTUpLT3NDcXVNVzloZzh5di03Y2JkM2t5SXNEbVMwVGhR?oc=5",
    "image": null,
    "source": "Dabafinance",
    "category": "Presse",
    "premium": false,
-   "publishedAt": "2026-07-25T07:00:00.000Z",
+   "publishedAt": "2026-07-24T07:00:00.000Z",
    "symbols": [
     "ETIT"
    ]
@@ -982,20 +994,6 @@
    "symbols": []
   },
   {
-   "id": "gn-ouv3pt",
-   "title": "BRVM : Quatre titres en hausse notable, Total Senegal mène le bal avec +22.3% sur 30 jours",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcGFWN2cxNVdwZ1ZUTkZaNWJDYmg4NENEWjNNOW43OW1EaW9sY3pCSkJOT1lSck4zR21RR3RKMk1qSHN0X1Y5SVhEc2ZHTE96bnZlNk5VdnUwbGUzaTNoSUVDeGpGNTA0azZnZ3hfUk5wbXc2MGV6bEdFY2NEZEFucw?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-07-09T07:00:00.000Z",
-   "symbols": [
-    "TTLS"
-   ]
-  },
-  {
    "id": "gn-1edrf8f",
    "title": "Bridge Bank lance une introduction en bourse de 118 millions de dollars sur la BRVM d'Afrique de l'Ouest",
    "summary": null,
@@ -1007,6 +1005,20 @@
    "publishedAt": "2026-07-09T07:00:00.000Z",
    "symbols": [
     "BBGC"
+   ]
+  },
+  {
+   "id": "gn-ouv3pt",
+   "title": "BRVM : Quatre titres en hausse notable, Total Senegal mène le bal avec +22.3% sur 30 jours",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcGFWN2cxNVdwZ1ZUTkZaNWJDYmg4NENEWjNNOW43OW1EaW9sY3pCSkJOT1lSck4zR21RR3RKMk1qSHN0X1Y5SVhEc2ZHTE96bnZlNk5VdnUwbGUzaTNoSUVDeGpGNTA0azZnZ3hfUk5wbXc2MGV6bEdFY2NEZEFucw?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-07-09T07:00:00.000Z",
+   "symbols": [
+    "TTLS"
    ]
   },
   {
@@ -1162,6 +1174,18 @@
    "symbols": []
   },
   {
+   "id": "gn-1jptdpg",
+   "title": "Afrique | Souveraineté financière : Constantin Dabiré de SA2IF veut coter à la BRVM les ressources du continent",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcTY2WWVUMDhXVElqTzhJTExLMGRzTk5lX2xydDlFUU02aXhuS0NLNDZrQzNjcnVlV29uWHlTSVFoeUk2STNpOHJIdUUxSGhwcjVkUkhOYkdnclQ3RXB0dWdFSGdrM3FibEpZUy1zQllsclc3cmYtUHZuTWNuVW1JRUpQV2xzVzJ2R0lPdGFybElPWTRzX2ZMZGZYcnF0NEZLR2w3TVE2VHVYXzY1QWpJY2tUVDhaNWFSQVBn?oc=5",
+   "image": null,
+   "source": "Afrimag",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-05-27T07:00:00.000Z",
+   "symbols": []
+  },
+  {
    "id": "gn-afheld",
    "title": "KAYDAN Technology accueille la BRVM : un pas décisif vers l’émergence d’un champion technologique ivoirien coté en bourse",
    "summary": null,
@@ -1274,24 +1298,24 @@
    "symbols": []
   },
   {
-   "id": "gn-1yuou68",
-   "title": "La BRVM déroule ses Investment Days au Nasdaq de New York",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNelREcTV0b2sycHJiLUdQRDN1VVB5blIwbHVEQU91N2ZXR3Zadk5fTlR3Rjg0TVVLTDJraXFsazJIUUpFTENuOXVkWjVQb05EdXM1OG5RTVhUVjJCbTFPRTMzQ1FnRHEzb1ZLcVFVSlhrU0FUeDdWcUJ0d2dlV05xcWs5QTdpYTFqdFIyYVRNNGpORGdD?oc=5",
-   "image": null,
-   "source": "Africtelegraph",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-04-20T07:00:00.000Z",
-   "symbols": []
-  },
-  {
    "id": "gn-bx2iup",
    "title": "Les BRVM Investment Days à l’affiche à New York",
    "summary": null,
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUWg0MEstaVk5QWpseUQwSWpZTEtUNTlLbW5pblBGODlUclNEdlRUY3pXemNReXBxMVNNRGlzaXdlQml3UGlqTktyU3h1UVZGSk03NVozdkJHdVBQTW41LU90YlhSNnVEamdYT0MtY1ozNHAwaXpUNjY0TTVoSjJGVXRxWVc5ajA4b1BnaGRQUkswM0U?oc=5",
    "image": null,
    "source": "Financial Afrik",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-04-20T07:00:00.000Z",
+   "symbols": []
+  },
+  {
+   "id": "gn-1yuou68",
+   "title": "La BRVM déroule ses Investment Days au Nasdaq de New York",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNelREcTV0b2sycHJiLUdQRDN1VVB5blIwbHVEQU91N2ZXR3Zadk5fTlR3Rjg0TVVLTDJraXFsazJIUUpFTENuOXVkWjVQb05EdXM1OG5RTVhUVjJCbTFPRTMzQ1FnRHEzb1ZLcVFVSlhrU0FUeDdWcUJ0d2dlV05xcWs5QTdpYTFqdFIyYVRNNGpORGdD?oc=5",
+   "image": null,
+   "source": "Africtelegraph",
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-04-20T07:00:00.000Z",
@@ -1381,6 +1405,18 @@
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-03-28T07:00:00.000Z",
+   "symbols": []
+  },
+  {
+   "id": "gn-gwpey",
+   "title": "Afrique de l'Ouest: BRVM Awards 2026 - AllAfrica Global Media de nouveau en lice pour le prestigieux prix du \"Média Financier de l'Année\"",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHbnN0MDJSVi1ORXVxSjlobmNFWGpxOVBWTkt2TVA1Z0ZGMTBqMzJHM3BwRUNfYWdyRHNhTm1iZk5xRTBxOUxxbGJNZEtZV0w4N0lFMFYwMVVURTV6UlFV?oc=5",
+   "image": null,
+   "source": "allAfrica.fr",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-03-26T07:00:00.000Z",
    "symbols": []
   },
   {
