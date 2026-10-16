@@ -47,6 +47,14 @@ jobs:
         run: |
           if [ "$(date -u +%u)" -ge 6 ]; then npm run update -- news; else npm run update; fi
 
+      - name: Alertes de cours (notifications push)
+        if: github.event_name == 'schedule' || inputs.task == 'update'
+        continue-on-error: true
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SECRET_KEY: ${{ secrets.SUPABASE_SECRET_KEY }}
+        run: npm run alerts
+
       - name: Historique des cours (une seule fois)
         if: inputs.task == 'backfill'
         run: npm run backfill
