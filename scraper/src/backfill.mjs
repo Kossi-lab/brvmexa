@@ -1,12 +1,13 @@
 // Récupération ponctuelle de l'historique des cours (à lancer une seule fois, manuellement,
 // depuis l'onglet Actions de GitHub → « Mise à jour des données » → Run workflow → backfill).
-// Source : l'API publique utilisée par les graphiques de sikafinance.com.
-// Cette API n'est pas documentée : si elle change, ce script échoue sans rien abîmer,
-// et l'historique se construit quand même jour après jour avec la collecte quotidienne.
+// Actions : archive publique github.com/blakro/brvm (voir history.mjs). Le robot le fait aussi tout seul.
+// Indices : API des graphiques de sikafinance.com (non documentée : en cas d'échec, rien n'est abîmé
+// et l'historique des indices se construit jour après jour avec la collecte).
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { sikaTicker } from './companies.mjs';
+import { fillFromArchive, readHistory, writeHistory, MIN_POINTS } from './history.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..', '..');
 const DATA = process.env.DATA_DIR ?? path.join(ROOT, 'data');
@@ -33,8 +34,7 @@ async function getHistos(ticker, from, to) {
 
 async function backfill(id, ticker, isIndex) {
   const file = path.join(DATA, 'history', `${id}.json`);
-  let hist = [];
-  try { hist = JSON.parse(await fs.readFile(file, 'utf8')); } catch {}
+  const hist = await readHistory(file);
   const byDate = new Map(hist.map((p) => [p.d, p]));
   const end = new Date();
   // L'API limite chaque requête à ~3 mois : on avance par tranches de 89 jours
@@ -46,20 +46,23 @@ async function backfill(id, ticker, isIndex) {
     start = new Date(stop.getTime() + 864e5);
     await new Promise((r) => setTimeout(r, 400));
   }
-  const out = [...byDate.values()].sort((a, b) => a.d.localeCompare(b.d));
-  await fs.mkdir(path.dirname(file), { recursive: true });
-  await fs.writeFile(file, JSON.stringify(out, null, 1) + '\n');
-  return out.length;
+  return writeHistory(file, [...byDate.values()]);
 }
 
 const quotes = JSON.parse(await fs.readFile(path.join(DATA, 'quotes.json'), 'utf8')).items;
-let failures = 0;
+let ok = 0;
+// 1. Actions : archive publique
+try { await fillFromArchive(DATA, quotes.map((q) => q.symbol)); ok++; }
+catch (e) { console.warn('Archive indisponible :', e.message); }
+// 2. Actions encore incomplètes : Sika Finance en secours
 for (const q of quotes) {
-  try { console.log(q.symbol, await backfill(q.symbol, sikaTicker(q.symbol), false), 'jours'); }
-  catch (e) { failures++; console.warn(q.symbol, 'échec :', e.message); }
+  if ((await readHistory(path.join(DATA, 'history', `${q.symbol}.json`))).length >= MIN_POINTS) continue;
+  try { console.log(q.symbol, await backfill(q.symbol, sikaTicker(q.symbol), false), 'jours'); ok++; }
+  catch (e) { console.warn(q.symbol, 'échec Sika Finance :', e.message); }
 }
+// 3. Indices
 for (const [id, t] of Object.entries(INDEX_TICKERS)) {
-  try { console.log(id, await backfill(id, t, true), 'jours'); }
-  catch (e) { failures++; console.warn(id, 'échec :', e.message); }
+  try { console.log(id, await backfill(id, t, true), 'jours'); ok++; }
+  catch (e) { console.warn(id, 'échec :', e.message); }
 }
-if (failures === quotes.length + Object.keys(INDEX_TICKERS).length) process.exitCode = 1;
+if (!ok) process.exitCode = 1;

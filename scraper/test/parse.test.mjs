@@ -94,3 +94,22 @@ test('alertes : conditions', async () => {
   assert.equal(isMet({ kind: 'change_down', value: '3' }, 1, -2.9), false);
   assert.equal(describe({ kind: 'above', value: 45000, is_index: false }), 'Cours ≥ 45 000 FCFA');
 });
+
+test('historique : archive CSV', async () => {
+  const { parseArchiveCsv, fillFromArchive } = await import('../src/history.mjs');
+  const csv = 'date,ticker,ouverture,haut,bas,cloture,volume_titres,volume_fcfa\n'
+    + '2026-10-14,SNTS,44000.0,,,44700.0,22254.0,1\n2026-10-15,SNTS,,,,43900.0,37543.0,1\n2026-10-15,XXXX,1,,,1,1,1\n2026-10-15,ORAC,1,,,,1,1\n';
+  const r = parseArchiveCsv(csv, new Set(['SNTS', 'ORAC']));
+  assert.deepEqual(r.SNTS, [{ d: '2026-10-14', o: 44000, c: 44700, v: 22254 }, { d: '2026-10-15', o: null, c: 43900, v: 37543 }]);
+  assert.equal(r.ORAC, undefined);
+  // Fusion : nos propres points ne sont jamais écrasés
+  const os = await import('node:os'); const fs = await import('node:fs/promises'); const path = await import('node:path');
+  const dir = await fs.mkdtemp(path.join(os.tmpdir(), 'bx-'));
+  await fs.mkdir(path.join(dir, 'history'));
+  await fs.writeFile(path.join(dir, 'history', 'SNTS.json'), JSON.stringify([{ d: '2026-10-15', o: 44705, c: 43900, v: 37543 }]));
+  const fetchImpl = async () => ({ ok: true, text: async () => csv });
+  assert.equal(await fillFromArchive(dir, ['SNTS'], { log: () => {}, fetchImpl }), 1);
+  const h = JSON.parse(await fs.readFile(path.join(dir, 'history', 'SNTS.json'), 'utf8'));
+  assert.deepEqual(h.map((p) => [p.d, p.o]), [['2026-10-14', 44000], ['2026-10-15', 44705]]);
+  assert.equal(await fillFromArchive(dir, ['SNTS'], { log: () => {}, fetchImpl }), 0);
+});

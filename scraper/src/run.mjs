@@ -9,12 +9,12 @@ import {
   parseSikaNewsList, parseRss, tagSymbols,
 } from './parse.mjs';
 import { COMPANIES, COUNTRIES, SECTORS, countryFromSymbol } from './companies.mjs';
+import { readHistory, writeHistory, ensureHistory } from './history.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..', '..');
 const DATA = process.env.DATA_DIR ?? path.join(ROOT, 'data');
 const BRVM = 'https://www.brvm.org/fr';
 const NEWS_MAX = 150;
-const HISTORY_MAX_DAYS = 3000;
 
 const log = (...a) => console.log(new Date().toISOString().slice(11, 19), ...a);
 
@@ -65,12 +65,11 @@ async function writeJson(file, data) {
 /** Ajoute ou remplace le point du jour dans l'historique d'un instrument */
 async function appendHistory(id, date, point) {
   const file = path.join(DATA, 'history', `${id}.json`);
-  const hist = await readJson(file, []);
+  const hist = await readHistory(file);
   const idx = hist.findIndex((p) => p.d === date);
   const row = { d: date, ...point };
   if (idx >= 0) hist[idx] = row; else hist.push(row);
-  hist.sort((a, b) => a.d.localeCompare(b.d));
-  await writeJson(file, hist.slice(-HISTORY_MAX_DAYS));
+  await writeHistory(file, hist);
 }
 
 // ───────────────────────────── Cours ─────────────────────────────
@@ -132,6 +131,11 @@ async function updateMarket() {
 
   for (const q of items) await appendHistory(q.symbol, session.date, { o: q.open, c: q.close, v: q.volume });
   for (const ix of indices) await appendHistory(ix.id, session.date, { c: ix.close });
+  // Séances passées (graphiques) : comblées automatiquement depuis l'archive publique
+  if (!FIXTURES) {
+    try { await ensureHistory(DATA, items.map((q) => q.symbol), { log }); }
+    catch (e) { log('Historique : archive indisponible pour le moment :', e.message); }
+  }
 
   log(`Cours : ${items.length} actions, ${indices.length} indices, ${bonds.length} obligations (séance du ${session.date})`);
   return items;
