@@ -59,6 +59,8 @@ async function main() {
     if (q && isMet(a, q.close, q.change)) hits.push({ a, q });
   }
   console.log(`Alertes : ${alerts?.length ?? 0} actives, ${hits.length} atteintes`);
+  const tokenCount = await sb('push_tokens?select=token', { headers: { Prefer: '' } });
+  console.log(`Téléphones enregistrés pour les notifications : ${tokenCount?.length ?? 0}`);
   if (!hits.length) return;
 
   const userIds = [...new Set(hits.map((h) => h.a.user_id))];
@@ -69,6 +71,7 @@ async function main() {
   const now = new Date().toISOString();
   const messages = [];
   for (const { a, q } of hits) {
+    if (!tokensByUser.get(a.user_id)?.length) console.log(`  ${a.target} : aucun téléphone enregistré pour cet utilisateur`);
     for (const to of tokensByUser.get(a.user_id) ?? []) {
       messages.push({
         to,
@@ -88,7 +91,12 @@ async function main() {
       headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
       body: JSON.stringify(messages.slice(i, i + 100)),
     });
-    console.log(`Notifications envoyées : ${Math.min(100, messages.length - i)} (HTTP ${res.status})`);
+    const json = await res.json().catch(() => null);
+    const tickets = Array.isArray(json?.data) ? json.data : [];
+    const ok = tickets.filter((t) => t.status === 'ok').length;
+    console.log(`Notifications : ${ok}/${Math.min(100, messages.length - i)} acceptées par Expo (HTTP ${res.status})`);
+    for (const t of tickets) if (t.status !== 'ok') console.log(`  refusée : ${t.details?.error ?? ''} ${t.message ?? ''}`);
+    if (json?.errors) console.log('  erreur Expo :', JSON.stringify(json.errors));
   }
 }
 

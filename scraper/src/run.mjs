@@ -10,6 +10,7 @@ import {
 } from './parse.mjs';
 import { COMPANIES, COUNTRIES, SECTORS, countryFromSymbol } from './companies.mjs';
 import { readHistory, writeHistory, ensureHistory } from './history.mjs';
+import { updateDividends } from './dividends.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..', '..');
 const DATA = process.env.DATA_DIR ?? path.join(ROOT, 'data');
@@ -145,6 +146,8 @@ async function updateMarket() {
   if (!FIXTURES) {
     try { await ensureHistory(DATA, items.map((q) => q.symbol), { log }); }
     catch (e) { log('Historique : archive indisponible pour le moment :', e.message); }
+    try { await updateDividends(DATA, items.map((q) => q.symbol), { log }); }
+    catch (e) { log('Dividendes : source indisponible pour le moment :', e.message); }
   }
 
   log(`Cours : ${items.length} actions, ${indices.length} indices, ${bonds.length} obligations (séance du ${session.date})`);

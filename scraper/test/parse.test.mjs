@@ -113,3 +113,30 @@ test('historique : archive CSV', async () => {
   assert.deepEqual(h.map((p) => [p.d, p.o]), [['2026-10-14', 44000], ['2026-10-15', 44705]]);
   assert.equal(await fillFromArchive(dir, ['SNTS'], { log: () => {}, fetchImpl }), 0);
 });
+
+test('dividendes : nettoyage et synthèse', async () => {
+  const { parseDividendsCsv, cleanDividends, summarize } = await import('../src/dividends.mjs');
+  const csv = 'ticker,date_detachement,montant,exercice\n'
+    + 'ECOC,2024-05-28,594.0,2023.0\nECOC,2025-05-31,804.0,2024.0\nECOC,2026-05-22,888.0,2025.0\nECOC,2026-06-29,0.9,2025.0\n'
+    + 'TTLS,2024-06-26,207.58,2023.0\nTTLS,2024-06-27,207.58,2023.0\nTTLS,2025-07-09,222.4,2024.0\n'
+    + 'UNXC,2022-07-27,60.75,2021.0\n';
+  const raw = parseDividendsCsv(csv);
+  const ecoc = cleanDividends(raw.ECOC);
+  assert.deepEqual(ecoc.map((p) => p.a), [594, 804, 888]);
+  assert.equal(summarize(ecoc, '2026-10-16').annual, 888);
+  const ttls = cleanDividends(raw.TTLS);
+  assert.equal(ttls.length, 2);
+  // Dernier versement de plus de 12 mois mais moins de 18 : on le garde
+  assert.equal(summarize(ttls, '2026-10-16').annual, 222.4);
+  // Plus rien depuis 2022 : rendement nul
+  assert.equal(summarize(cleanDividends(raw.UNXC), '2026-10-16').annual, 0);
+});
+
+test('dividendes : versement exceptionnel', async () => {
+  const { summarize } = await import('../src/dividends.mjs');
+  const l = [['2020-07-04', 125], ['2021-07-28', 235], ['2024-09-26', 143.1], ['2025-02-01', 110], ['2025-09-26', 1320]].map(([d, a]) => ({ d, a, ex: null }));
+  const s = summarize(l, '2026-01-10');
+  assert.equal(s.exceptional, true);
+  assert.equal(s.usual, 143.1);
+  assert.equal(summarize(l.slice(0, 4), '2025-06-01').exceptional, false);
+});
