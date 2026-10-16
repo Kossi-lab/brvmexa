@@ -11,6 +11,7 @@ import {
 import { COMPANIES, COUNTRIES, SECTORS, countryFromSymbol } from './companies.mjs';
 import { readHistory, writeHistory, ensureHistory } from './history.mjs';
 import { updateDividends } from './dividends.mjs';
+import { writePerformance } from './performance.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..', '..');
 const DATA = process.env.DATA_DIR ?? path.join(ROOT, 'data');
@@ -149,6 +150,8 @@ async function updateMarket() {
     try { await updateDividends(DATA, items.map((q) => q.symbol), { log }); }
     catch (e) { log('Dividendes : source indisponible pour le moment :', e.message); }
   }
+  try { await writePerformance(DATA, session, [...items, ...indices], { log }); }
+  catch (e) { log('Performances ignorées :', e.message); }
 
   log(`Cours : ${items.length} actions, ${indices.length} indices, ${bonds.length} obligations (séance du ${session.date})`);
   return items;

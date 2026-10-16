@@ -140,3 +140,20 @@ test('dividendes : versement exceptionnel', async () => {
   assert.equal(s.usual, 143.1);
   assert.equal(summarize(l.slice(0, 4), '2025-06-01').exceptional, false);
 });
+
+test('performances sur plusieurs périodes', async () => {
+  const { computePerf } = await import('../src/performance.mjs');
+  const hist = [
+    { d: '2025-10-10', c: 80 }, { d: '2025-12-31', c: 100 }, { d: '2026-05-04', c: 150 },
+    { d: '2026-09-15', c: 110 }, { d: '2026-10-08', c: 125 }, { d: '2026-10-15', c: 119 },
+  ];
+  const p = computePerf(hist, '2026-10-16', 120);
+  assert.equal(p.w1, -4);          // vs 125 (8 oct.)
+  assert.equal(p.m1, 9.09);        // vs 110 (15 sept.)
+  assert.equal(p.ytd, 20);         // vs 100 (31 déc.)
+  assert.equal(p.y1, 50);          // vs 80 (10 oct. 2025)
+  assert.deepEqual([p.hi52, p.lo52, p.full52], [150, 100, true]); // 80 date de plus d'un an
+  // Historique trop court : pas de chiffre inventé
+  const short = computePerf([{ d: '2026-10-01', c: 100 }], '2026-10-16', 110);
+  assert.deepEqual([short.w1, short.m1, short.y1, short.ytd, short.full52], [10, null, null, null, false]);
+});
