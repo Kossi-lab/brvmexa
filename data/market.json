@@ -1,124 +1,124 @@
 {
- "updatedAt": "2026-10-16T12:01:39.597Z",
+ "updatedAt": "2026-10-16T12:38:16.340Z",
  "sessionDate": "2026-10-16",
- "sessionTime": "11:45",
+ "sessionTime": "12:30",
  "source": "brvm.org",
- "transactionsValue": 1528538619,
- "capitalisationActions": 21037275586418,
- "capitalisationBonds": 13488434415626,
- "advancing": 14,
+ "transactionsValue": 1728339226,
+ "capitalisationActions": 21052982629045,
+ "capitalisationBonds": 13487343730876,
+ "advancing": 16,
  "declining": 21,
- "unchanged": 13,
- "totalVolume": 978932,
+ "unchanged": 11,
+ "totalVolume": 1072822,
  "gainers": [
-  {
-   "symbol": "TTLC",
-   "shortName": "TotalEnergies Marketing CI",
-   "close": 3100,
-   "change": 3.33,
-   "volume": 1022
-  },
-  {
-   "symbol": "CFAC",
-   "shortName": "CFAO Motors CI",
-   "close": 1380,
-   "change": 2.22,
-   "volume": 1412
-  },
   {
    "symbol": "ONTBF",
    "shortName": "Onatel Burkina Faso",
-   "close": 2955,
-   "change": 1.9,
-   "volume": 1713
+   "close": 3040,
+   "change": 4.83,
+   "volume": 1826
   },
   {
    "symbol": "BNBC",
    "shortName": "Bernabé CI",
-   "close": 1800,
-   "change": 1.41,
-   "volume": 230
+   "close": 1850,
+   "change": 4.23,
+   "volume": 1129
   },
   {
-   "symbol": "UNLC",
-   "shortName": "Unilever CI",
-   "close": 45000,
+   "symbol": "BOAM",
+   "shortName": "BOA Mali",
+   "close": 5800,
+   "change": 1.75,
+   "volume": 10212
+  },
+  {
+   "symbol": "CFAC",
+   "shortName": "CFAO Motors CI",
+   "close": 1370,
+   "change": 1.48,
+   "volume": 1508
+  },
+  {
+   "symbol": "SLBC",
+   "shortName": "Solibra CI",
+   "close": 39000,
    "change": 1.33,
-   "volume": 4
+   "volume": 128
   }
  ],
  "losers": [
   {
-   "symbol": "BOAB",
-   "shortName": "BOA Bénin",
-   "close": 8795,
-   "change": -4.45,
-   "volume": 5821
+   "symbol": "SDSC",
+   "shortName": "Africa Global Logistics CI",
+   "close": 2860,
+   "change": -6.69,
+   "volume": 9370
+  },
+  {
+   "symbol": "SPHC",
+   "shortName": "SAPH CI",
+   "close": 7500,
+   "change": -3.85,
+   "volume": 2733
   },
   {
    "symbol": "NTLC",
    "shortName": "Nestlé CI",
-   "close": 14950,
-   "change": -3.55,
-   "volume": 908
+   "close": 14995,
+   "change": -3.26,
+   "volume": 985
   },
   {
-   "symbol": "SDSC",
-   "shortName": "Africa Global Logistics CI",
-   "close": 2985,
-   "change": -2.61,
-   "volume": 2246
+   "symbol": "UNXC",
+   "shortName": "Uniwax CI",
+   "close": 2120,
+   "change": -2.75,
+   "volume": 3595
   },
   {
-   "symbol": "SCRC",
-   "shortName": "Sucrivoire CI",
-   "close": 2290,
-   "change": -2.35,
-   "volume": 2752
-  },
-  {
-   "symbol": "ABJC",
-   "shortName": "Servair Abidjan",
-   "close": 3040,
-   "change": -1.94,
-   "volume": 78
+   "symbol": "STAC",
+   "shortName": "SETAO CI",
+   "close": 1855,
+   "change": -2.62,
+   "volume": 943
   }
  ],
  "mostActive": [
   {
    "symbol": "SNTS",
    "shortName": "Sonatel",
-   "close": 43800,
-   "change": -0.23,
-   "volume": 9074
+   "close": 43750,
+   "change": -0.34,
+   "volume": 10566
   },
   {
    "symbol": "BOAS",
    "shortName": "BOA Sénégal",
-   "close": 8145,
-   "change": 0,
-   "volume": 8759
+   "close": 8150,
+   "change": 0.06,
+   "volume": 8856
   },
   {
    "symbol": "SIBC",
    "shortName": "Société Ivoirienne de Banque",
-   "close": 8750,
-   "change": -1.69,
-   "volume": 7169
+   "close": 8985,
+   "change": 0.96,
+   "volume": 7454
   },
   {
    "symbol": "ETIT",
    "shortName": "Ecobank Transnational (ETI)",
-   "close": 64,
-   "change": -1.54,
-   "volume": 892817
+   "close": 65,
+   "change": 0,
+   "volume": 959541
   },
   {
    "symbol": "BOAM",
    "shortName": "BOA Mali",
-   "close": 5700,
-   "change": 0,
-   "volume": 9493
+   "close": 5800,
+   "change": 1.75,
+   "volume": 10212
   }
  ]
 }
