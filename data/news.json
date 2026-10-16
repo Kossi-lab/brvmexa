@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-16T21:32:10.242Z",
+ "updatedAt": "2026-10-16T22:08:24.013Z",
  "items": [
   {
    "id": "sika-65013",
@@ -688,18 +688,6 @@
    "symbols": []
   },
   {
-   "id": "gn-rscwmz",
-   "title": "BRVM Rally: 9 Stocks Show Notable Upward Moves",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14cEdlcjRKOUxPWTU5Z0RtTUFwWll1c2k2b2VFUkhYSFotNzQyYXZkaldtcmlNeUlRcWU4OHhid0dQT0ljTVNiT0Y4d0s0cVdWQWNOUHVZRkNZSXdYQVhGV2tuZy0wMW5XQ3ZiUl8zb2N4YXRGRms5Q1BnYXF0TkE?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-08-21T07:00:00.000Z",
-   "symbols": []
-  },
-  {
    "id": "gn-3d44yk",
    "title": "La BRVM franchit le cap des 20 000 milliards FCFA de capitalisation",
    "summary": null,
@@ -718,6 +706,18 @@
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZFBrNTAyNlZkaFJTXzRfZk5HdGV2bURaNGdGdEpZSm1fNzk4Zm04clJ6Q1QtZ1gtZlFYUTNqMUJuVkZSZHpLZnVoZE5kWXUxZWFyeEJOZm9lRUtNN2lEc0k0SzM0VG9xaGlKUTRjNTgzODhCTUE3Z0JhNDJGTjFHU1hCSHNZWjNNMTNpem5hX1FyUWpEV05lUVpsNA?oc=5",
    "image": null,
    "source": "Africtelegraph",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-08-21T07:00:00.000Z",
+   "symbols": []
+  },
+  {
+   "id": "gn-rscwmz",
+   "title": "BRVM Rally: 9 Stocks Show Notable Upward Moves",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14cEdlcjRKOUxPWTU5Z0RtTUFwWll1c2k2b2VFUkhYSFotNzQyYXZkaldtcmlNeUlRcWU4OHhid0dQT0ljTVNiT0Y4d0s0cVdWQWNOUHVZRkNZSXdYQVhGV2tuZy0wMW5XQ3ZiUl8zb2N4YXRGRms5Q1BnYXF0TkE?oc=5",
+   "image": null,
+   "source": "Dabafinance",
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-08-21T07:00:00.000Z",
@@ -982,20 +982,6 @@
    "symbols": []
   },
   {
-   "id": "gn-ouv3pt",
-   "title": "BRVM : Quatre titres en hausse notable, Total Senegal mène le bal avec +22.3% sur 30 jours",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcGFWN2cxNVdwZ1ZUTkZaNWJDYmg4NENEWjNNOW43OW1EaW9sY3pCSkJOT1lSck4zR21RR3RKMk1qSHN0X1Y5SVhEc2ZHTE96bnZlNk5VdnUwbGUzaTNoSUVDeGpGNTA0azZnZ3hfUk5wbXc2MGV6bEdFY2NEZEFucw?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-07-09T07:00:00.000Z",
-   "symbols": [
-    "TTLS"
-   ]
-  },
-  {
    "id": "gn-1edrf8f",
    "title": "Bridge Bank lance une introduction en bourse de 118 millions de dollars sur la BRVM d'Afrique de l'Ouest",
    "summary": null,
@@ -1007,6 +993,20 @@
    "publishedAt": "2026-07-09T07:00:00.000Z",
    "symbols": [
     "BBGC"
+   ]
+  },
+  {
+   "id": "gn-ouv3pt",
+   "title": "BRVM : Quatre titres en hausse notable, Total Senegal mène le bal avec +22.3% sur 30 jours",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcGFWN2cxNVdwZ1ZUTkZaNWJDYmg4NENEWjNNOW43OW1EaW9sY3pCSkJOT1lSck4zR21RR3RKMk1qSHN0X1Y5SVhEc2ZHTE96bnZlNk5VdnUwbGUzaTNoSUVDeGpGNTA0azZnZ3hfUk5wbXc2MGV6bEdFY2NEZEFucw?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-07-09T07:00:00.000Z",
+   "symbols": [
+    "TTLS"
    ]
   },
   {
