@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-10-16T09:25:14.753Z",
+ "updatedAt": "2026-10-16T09:59:52.317Z",
  "sessionDate": "2026-10-16",
- "sessionTime": "09:15",
+ "sessionTime": "09:45",
  "source": "brvm.org",
  "items": [
   {
@@ -9,8 +9,8 @@
    "name": "BRVM 30",
    "group": "main",
    "prevClose": 260.32,
-   "close": 260.32,
-   "change": 0,
+   "close": 260.11,
+   "change": -0.08,
    "ytd": 1.97
   },
   {
@@ -18,8 +18,8 @@
    "name": "BRVM Composite",
    "group": "main",
    "prevClose": 537.67,
-   "close": 537.67,
-   "change": 0,
+   "close": 537.29,
+   "change": -0.07,
    "ytd": 1.7
   },
   {
@@ -27,8 +27,8 @@
    "name": "BRVM Prestige",
    "group": "main",
    "prevClose": 200.13,
-   "close": 200.13,
-   "change": 0,
+   "close": 200.11,
+   "change": -0.01,
    "ytd": 1.47
   },
   {
@@ -36,8 +36,8 @@
    "name": "BRVM Principal",
    "group": "main",
    "prevClose": 373.12,
-   "close": 373.12,
-   "change": 0,
+   "close": 372.54,
+   "change": -0.16,
    "ytd": 0.78
   },
   {
@@ -45,8 +45,8 @@
    "name": "BRVM Consommation de Base",
    "group": "main",
    "prevClose": 261.41,
-   "close": 261.41,
-   "change": 0,
+   "close": 261.32,
+   "change": -0.03,
    "ytd": 1.51
   },
   {
@@ -54,8 +54,8 @@
    "name": "BRVM Consommation Discrétionnaire",
    "group": "main",
    "prevClose": 179.57,
-   "close": 179.57,
-   "change": 0,
+   "close": 179.76,
+   "change": 0.11,
    "ytd": -0.87
   },
   {
@@ -72,8 +72,8 @@
    "name": "BRVM Industriels",
    "group": "main",
    "prevClose": 216.22,
-   "close": 216.22,
-   "change": 0,
+   "close": 216.26,
+   "change": 0.02,
    "ytd": 0.12
   },
   {
@@ -81,8 +81,8 @@
    "name": "BRVM Services Financiers",
    "group": "main",
    "prevClose": 243.49,
-   "close": 243.49,
-   "change": 0,
+   "close": 243.09,
+   "change": -0.16,
    "ytd": 0.56
   },
   {
@@ -108,8 +108,8 @@
    "name": "BRVM Composite Total Return",
    "group": "total_return",
    "prevClose": 216.6,
-   "close": 216.6,
-   "change": 0,
+   "close": 216.45,
+   "change": -0.07,
    "ytd": 1.7
   }
  ]
