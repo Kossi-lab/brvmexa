@@ -30,6 +30,30 @@
     });
   }
 
+
+  // Visite guidée de l'accueil : le téléphone de droite affiche l'écran du chapitre lu
+  var steps = document.querySelectorAll('[data-tour-step]');
+  if (steps.length) {
+    var shots = document.querySelectorAll('[data-tour-shot]');
+    var links = document.querySelectorAll('[data-tour-link]');
+    var count = document.querySelector('[data-tour-count]');
+    var setActive = function (i) {
+      steps.forEach(function (s) { s.classList.toggle('is-active', s.getAttribute('data-tour-step') === String(i)); });
+      shots.forEach(function (s) { s.classList.toggle('is-active', s.getAttribute('data-tour-shot') === String(i)); });
+      links.forEach(function (l) { l.classList.toggle('is-active', l.getAttribute('data-tour-link') === String(i)); });
+      if (count) count.textContent = (i + 1 < 10 ? '0' : '') + (i + 1);
+    };
+    setActive(0);
+    if ('IntersectionObserver' in window) {
+      var tio = new IntersectionObserver(function (entries) {
+        entries.forEach(function (entry) {
+          if (entry.isIntersecting) setActive(Number(entry.target.getAttribute('data-tour-step')));
+        });
+      }, { rootMargin: '-45% 0px -45% 0px', threshold: 0 });
+      steps.forEach(function (s) { tio.observe(s); });
+    }
+  }
+
   var items = document.querySelectorAll('.reveal');
   if (!('IntersectionObserver' in window)) {
     items.forEach(function (el) { el.classList.add('is-visible'); });
