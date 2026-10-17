@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-17T00:52:50.830Z",
+ "updatedAt": "2026-10-17T04:41:22.878Z",
  "items": [
   {
    "id": "sika-65013",
@@ -1008,20 +1008,6 @@
    "symbols": []
   },
   {
-   "id": "gn-ouv3pt",
-   "title": "BRVM : Quatre titres en hausse notable, Total Senegal mène le bal avec +22.3% sur 30 jours",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcGFWN2cxNVdwZ1ZUTkZaNWJDYmg4NENEWjNNOW43OW1EaW9sY3pCSkJOT1lSck4zR21RR3RKMk1qSHN0X1Y5SVhEc2ZHTE96bnZlNk5VdnUwbGUzaTNoSUVDeGpGNTA0azZnZ3hfUk5wbXc2MGV6bEdFY2NEZEFucw?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-07-09T07:00:00.000Z",
-   "symbols": [
-    "TTLS"
-   ]
-  },
-  {
    "id": "gn-1edrf8f",
    "title": "Bridge Bank lance une introduction en bourse de 118 millions de dollars sur la BRVM d'Afrique de l'Ouest",
    "summary": null,
@@ -1033,6 +1019,20 @@
    "publishedAt": "2026-07-09T07:00:00.000Z",
    "symbols": [
     "BBGC"
+   ]
+  },
+  {
+   "id": "gn-ouv3pt",
+   "title": "BRVM : Quatre titres en hausse notable, Total Senegal mène le bal avec +22.3% sur 30 jours",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcGFWN2cxNVdwZ1ZUTkZaNWJDYmg4NENEWjNNOW43OW1EaW9sY3pCSkJOT1lSck4zR21RR3RKMk1qSHN0X1Y5SVhEc2ZHTE96bnZlNk5VdnUwbGUzaTNoSUVDeGpGNTA0azZnZ3hfUk5wbXc2MGV6bEdFY2NEZEFucw?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-07-09T07:00:00.000Z",
+   "symbols": [
+    "TTLS"
    ]
   },
   {
@@ -1312,24 +1312,24 @@
    "symbols": []
   },
   {
-   "id": "gn-bx2iup",
-   "title": "Les BRVM Investment Days à l’affiche à New York",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUWg0MEstaVk5QWpseUQwSWpZTEtUNTlLbW5pblBGODlUclNEdlRUY3pXemNReXBxMVNNRGlzaXdlQml3UGlqTktyU3h1UVZGSk03NVozdkJHdVBQTW41LU90YlhSNnVEamdYT0MtY1ozNHAwaXpUNjY0TTVoSjJGVXRxWVc5ajA4b1BnaGRQUkswM0U?oc=5",
-   "image": null,
-   "source": "Financial Afrik",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-04-20T07:00:00.000Z",
-   "symbols": []
-  },
-  {
    "id": "gn-1yuou68",
    "title": "La BRVM déroule ses Investment Days au Nasdaq de New York",
    "summary": null,
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNelREcTV0b2sycHJiLUdQRDN1VVB5blIwbHVEQU91N2ZXR3Zadk5fTlR3Rjg0TVVLTDJraXFsazJIUUpFTENuOXVkWjVQb05EdXM1OG5RTVhUVjJCbTFPRTMzQ1FnRHEzb1ZLcVFVSlhrU0FUeDdWcUJ0d2dlV05xcWs5QTdpYTFqdFIyYVRNNGpORGdD?oc=5",
    "image": null,
    "source": "Africtelegraph",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-04-20T07:00:00.000Z",
+   "symbols": []
+  },
+  {
+   "id": "gn-bx2iup",
+   "title": "Les BRVM Investment Days à l’affiche à New York",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUWg0MEstaVk5QWpseUQwSWpZTEtUNTlLbW5pblBGODlUclNEdlRUY3pXemNReXBxMVNNRGlzaXdlQml3UGlqTktyU3h1UVZGSk03NVozdkJHdVBQTW41LU90YlhSNnVEamdYT0MtY1ozNHAwaXpUNjY0TTVoSjJGVXRxWVc5ajA4b1BnaGRQUkswM0U?oc=5",
+   "image": null,
+   "source": "Financial Afrik",
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-04-20T07:00:00.000Z",
