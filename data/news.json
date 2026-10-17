@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-16T22:33:12.186Z",
+ "updatedAt": "2026-10-17T00:52:50.830Z",
  "items": [
   {
    "id": "sika-65013",
@@ -380,6 +380,20 @@
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdHVEWW16ZVU1SlBYd0VMYmRwWGhwVENPbjBqdHNramxzRFQtYnFaZlpnRWQzZE9mcVlBdThpU2loNDlIWXRuN0Vjd1lqMzFlTDVvOUFvaElTc0VGVGlfTVF4aEtQa01iNjdjX0p6YmNiYlN3YTgxNGJDcTlJNXk4YzhDb0VqR215bDR5T0pqUnc0dFJleXk3Uk16YVhWUUdzUmJMYlhycHpKMzNWUkF4VmdnVkYyZ3p3MHNZS05qMFhGM1hCczlIUlhTRzA?oc=5",
    "image": null,
    "source": "AGENCE ECOFIN",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-09-25T07:00:00.000Z",
+   "symbols": [
+    "BBGC"
+   ]
+  },
+  {
+   "id": "gn-125fzzi",
+   "title": "Bridge Bank Group Côte d’Ivoire s’introduit à la BRVM",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWV8xTlM4NGFVZHJ0ZHVMdTE4bVpTdlgyUFdFNzhtZG9VNFBNd3Z6TjVYZE5KMTFxZ3I2V1Jaano3TWgyTDBacHFVMVk5WkRQMUYtalpoTDBIQTdscGF1SHRRWndoLWlrNVZIVEtleU1HQWhyNm5ad25pdEpUNGt0SU1NZFpVOFhycjBWNQ?oc=5",
+   "image": null,
+   "source": "Africtelegraph",
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-09-25T07:00:00.000Z",
@@ -824,15 +838,15 @@
    ]
   },
   {
-   "id": "gn-6k4xbp",
+   "id": "gn-hpqlie",
    "title": "BRVM : 4 actions phares en forte progression, ETIT bondit de +97,3% en 30 jours",
    "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qdm9LZFFIeVI4eDhHYlJITGJNQ1pXR0d4bGpWdExRXzZfT2ZKcGNKcUh2YUx0R3VwUlpIZjBjRDYzd3ZvZDFISDYzX1hDNm9xVTlCTUpLT3NDcXVNVzloZzh5di03Y2JkM2t5SXNEbVMwVGhR?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9henNlZGxWdkhHZzNaUkk1S2lTRW1XNUNNNjFsamtQOHphYllzTnJEdkl4MUItUUpVMVlRQ1VvLXl2R0pXbDdmZzB4QkVzWFBYZ3VsNUpBSnFaWlFfNjRxMW9XajNfS2UyUUVDak9xcGlZeVo1Q0ZjMGtB?oc=5",
    "image": null,
    "source": "Dabafinance",
    "category": "Presse",
    "premium": false,
-   "publishedAt": "2026-07-24T07:00:00.000Z",
+   "publishedAt": "2026-07-25T07:00:00.000Z",
    "symbols": [
     "ETIT"
    ]
@@ -994,20 +1008,6 @@
    "symbols": []
   },
   {
-   "id": "gn-1edrf8f",
-   "title": "Bridge Bank lance une introduction en bourse de 118 millions de dollars sur la BRVM d'Afrique de l'Ouest",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeGR3QUlsVFo0ZF9ZdU0zWGNnMVFvdmJ0a2sxZ2FWV2h3MWRRejJTZGZCT01EQV9TNEFiQS1EdnJfVHNfelB6eWdPQWZiT3RnMERHLUdfQ2FqYjVub1J4b0RrMnc2XzVhZi1jTXAtZGhZS2tYelVSSWdCaTFXZmRrbzJoUkdMZGFhNkhZ?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-07-09T07:00:00.000Z",
-   "symbols": [
-    "BBGC"
-   ]
-  },
-  {
    "id": "gn-ouv3pt",
    "title": "BRVM : Quatre titres en hausse notable, Total Senegal mène le bal avec +22.3% sur 30 jours",
    "summary": null,
@@ -1019,6 +1019,20 @@
    "publishedAt": "2026-07-09T07:00:00.000Z",
    "symbols": [
     "TTLS"
+   ]
+  },
+  {
+   "id": "gn-1edrf8f",
+   "title": "Bridge Bank lance une introduction en bourse de 118 millions de dollars sur la BRVM d'Afrique de l'Ouest",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeGR3QUlsVFo0ZF9ZdU0zWGNnMVFvdmJ0a2sxZ2FWV2h3MWRRejJTZGZCT01EQV9TNEFiQS1EdnJfVHNfelB6eWdPQWZiT3RnMERHLUdfQ2FqYjVub1J4b0RrMnc2XzVhZi1jTXAtZGhZS2tYelVSSWdCaTFXZmRrbzJoUkdMZGFhNkhZ?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-07-09T07:00:00.000Z",
+   "symbols": [
+    "BBGC"
    ]
   },
   {
