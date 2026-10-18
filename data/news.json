@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-10-18T04:41:17.144Z",
+ "updatedAt": "2026-10-18T08:40:16.711Z",
  "items": [
+  {
+   "id": "gn-vx3yvp",
+   "title": "Sonatel engage un fractionnement 1 pour 10 de son action à la BRVM",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQmhQaGVwYlhjbk01NTlJTUgzY0JnMWhZWVpNSGV2UG9hN29DTW90UVdZSUhaYVBMZUQ5SjZMX2wyY1ZrSUZtcWZpRTZtN05xVWY3Yk9vd2tkMUFOeG00UDlHT3Z4eVVoNmdpSmJ4NXdnRG9XVWVTQjJtTFJTTkxISTBZZU9MYWZHYWI5OURsel9nVUE0ZTRESi14eTBpc1Nx?oc=5",
+   "image": null,
+   "source": "Africtelegraph",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-10-18T05:05:36.000Z",
+   "symbols": [
+    "SNTS"
+   ]
+  },
   {
    "id": "sika-65020",
    "title": "Congo : Comment les nouveaux investissements pétroliers et gaziers renforcent l'activité des entreprises parapétrolières",
@@ -1046,20 +1060,6 @@
    "symbols": []
   },
   {
-   "id": "gn-1edrf8f",
-   "title": "Bridge Bank lance une introduction en bourse de 118 millions de dollars sur la BRVM d'Afrique de l'Ouest",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeGR3QUlsVFo0ZF9ZdU0zWGNnMVFvdmJ0a2sxZ2FWV2h3MWRRejJTZGZCT01EQV9TNEFiQS1EdnJfVHNfelB6eWdPQWZiT3RnMERHLUdfQ2FqYjVub1J4b0RrMnc2XzVhZi1jTXAtZGhZS2tYelVSSWdCaTFXZmRrbzJoUkdMZGFhNkhZ?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-07-09T07:00:00.000Z",
-   "symbols": [
-    "BBGC"
-   ]
-  },
-  {
    "id": "gn-ouv3pt",
    "title": "BRVM : Quatre titres en hausse notable, Total Senegal mène le bal avec +22.3% sur 30 jours",
    "summary": null,
@@ -1071,6 +1071,20 @@
    "publishedAt": "2026-07-09T07:00:00.000Z",
    "symbols": [
     "TTLS"
+   ]
+  },
+  {
+   "id": "gn-1edrf8f",
+   "title": "Bridge Bank lance une introduction en bourse de 118 millions de dollars sur la BRVM d'Afrique de l'Ouest",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeGR3QUlsVFo0ZF9ZdU0zWGNnMVFvdmJ0a2sxZ2FWV2h3MWRRejJTZGZCT01EQV9TNEFiQS1EdnJfVHNfelB6eWdPQWZiT3RnMERHLUdfQ2FqYjVub1J4b0RrMnc2XzVhZi1jTXAtZGhZS2tYelVSSWdCaTFXZmRrbzJoUkdMZGFhNkhZ?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-07-09T07:00:00.000Z",
+   "symbols": [
+    "BBGC"
    ]
   },
   {
