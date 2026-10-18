@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-17T20:38:10.482Z",
+ "updatedAt": "2026-10-18T00:53:19.194Z",
  "items": [
   {
    "id": "sika-65020",
@@ -146,6 +146,20 @@
    "premium": false,
    "publishedAt": "2026-10-16T09:22:00Z",
    "symbols": []
+  },
+  {
+   "id": "gn-1lzzfnd",
+   "title": "Bank of Africa - Benin (BOAB) — BRVM",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE04a2FES05hTmtBQk4tOGt5WTU0M0IzTl9DLUlmaDNPOVFwX0w1QzZwM3V3Nk9pNklRcUxCVWVmaFFkUjRJeXp6Q3JRMlRLNTdmMHlrb2JXVmxWVy1Pei04WHBBclBXZw?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-10-16T07:00:00.000Z",
+   "symbols": [
+    "BOAB"
+   ]
   },
   {
    "id": "sika-64985",
@@ -640,20 +654,6 @@
    ]
   },
   {
-   "id": "gn-1lzzfnd",
-   "title": "Bank of Africa - Benin (BOAB) — BRVM",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE04a2FES05hTmtBQk4tOGt5WTU0M0IzTl9DLUlmaDNPOVFwX0w1QzZwM3V3Nk9pNklRcUxCVWVmaFFkUjRJeXp6Q3JRMlRLNTdmMHlrb2JXVmxWVy1Pei04WHBBclBXZw?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-09-03T01:08:34.000Z",
-   "symbols": [
-    "BOAB"
-   ]
-  },
-  {
    "id": "gn-g3jdn0",
    "title": "Afrique économie - BRVM, la bourse solidaire de l’Afrique de l’Ouest [2/5]",
    "summary": null,
@@ -750,24 +750,24 @@
    "symbols": []
   },
   {
-   "id": "gn-3d44yk",
-   "title": "La BRVM franchit le cap des 20 000 milliards FCFA de capitalisation",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYTVmVE1YeXZzNVR5SlFRSjdmUmFlenlFUzBOSkN2NjB1MFhoTzhkWlJ5MW9xSWdONFJBTU00V2RVR2stdXZvLVB3ZndSYVk4cWhRUlRLVGpPZTNvd3BHXzJCemJnZmo3U1ZkQVJjMkp2bHZXMDduOW84X0VTNUlNdGhsWVlwMHBDR3pEbEdsNTFfSXRDbWl0bzBLSEdRSVBwWHdlN3M2MjM1bndzaFE?oc=5",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-08-21T07:00:00.000Z",
-   "symbols": []
-  },
-  {
    "id": "gn-ojzu9x",
    "title": "La BRVM dépasse pour la première fois 20 000 milliards de FCFA",
    "summary": null,
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZFBrNTAyNlZkaFJTXzRfZk5HdGV2bURaNGdGdEpZSm1fNzk4Zm04clJ6Q1QtZ1gtZlFYUTNqMUJuVkZSZHpLZnVoZE5kWXUxZWFyeEJOZm9lRUtNN2lEc0k0SzM0VG9xaGlKUTRjNTgzODhCTUE3Z0JhNDJGTjFHU1hCSHNZWjNNMTNpem5hX1FyUWpEV05lUVpsNA?oc=5",
    "image": null,
    "source": "Africtelegraph",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-08-21T07:00:00.000Z",
+   "symbols": []
+  },
+  {
+   "id": "gn-3d44yk",
+   "title": "La BRVM franchit le cap des 20 000 milliards FCFA de capitalisation",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYTVmVE1YeXZzNVR5SlFRSjdmUmFlenlFUzBOSkN2NjB1MFhoTzhkWlJ5MW9xSWdONFJBTU00V2RVR2stdXZvLVB3ZndSYVk4cWhRUlRLVGpPZTNvd3BHXzJCemJnZmo3U1ZkQVJjMkp2bHZXMDduOW84X0VTNUlNdGhsWVlwMHBDR3pEbEdsNTFfSXRDbWl0bzBLSEdRSVBwWHdlN3M2MjM1bndzaFE?oc=5",
+   "image": null,
+   "source": "Sika Finance",
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-08-21T07:00:00.000Z",
