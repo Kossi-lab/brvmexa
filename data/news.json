@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-18T12:45:37.600Z",
+ "updatedAt": "2026-10-18T16:40:19.338Z",
  "items": [
   {
    "id": "gn-vx3yvp",
@@ -864,6 +864,21 @@
    "symbols": []
   },
   {
+   "id": "gn-1wiek6d",
+   "title": "BRVM : Safca Côte d'Ivoire (SAFC) bondit de +45,71% et Bank of Africa (BOAC) de +6,47%",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRlA5MGFuTTdhXzdUQl9udjJHZEJ1MERZNHhvUFc3c2E3V0hFalh5eFQ0YjRWTlZXbk1WT29iWEhuZHZoQlZkTFZ5MmY5cnRqT05Vek84MU4wX2VncVlRcldhdTAyNS1iN3ZNN2xRN2ZweXY3dEtiQzM0QmN2VjkyZHFVTmM?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-08-04T07:00:00.000Z",
+   "symbols": [
+    "BOAC",
+    "SAFC"
+   ]
+  },
+  {
    "id": "gn-1ty0sws",
    "title": "Achat d'actions à la BRVM : Comment la digitalisation révolutionne l'accès aux investisseurs individuels",
    "summary": null,
@@ -1060,20 +1075,6 @@
    "symbols": []
   },
   {
-   "id": "gn-1edrf8f",
-   "title": "Bridge Bank lance une introduction en bourse de 118 millions de dollars sur la BRVM d'Afrique de l'Ouest",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeGR3QUlsVFo0ZF9ZdU0zWGNnMVFvdmJ0a2sxZ2FWV2h3MWRRejJTZGZCT01EQV9TNEFiQS1EdnJfVHNfelB6eWdPQWZiT3RnMERHLUdfQ2FqYjVub1J4b0RrMnc2XzVhZi1jTXAtZGhZS2tYelVSSWdCaTFXZmRrbzJoUkdMZGFhNkhZ?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-07-09T07:00:00.000Z",
-   "symbols": [
-    "BBGC"
-   ]
-  },
-  {
    "id": "gn-ouv3pt",
    "title": "BRVM : Quatre titres en hausse notable, Total Senegal mène le bal avec +22.3% sur 30 jours",
    "summary": null,
@@ -1085,6 +1086,20 @@
    "publishedAt": "2026-07-09T07:00:00.000Z",
    "symbols": [
     "TTLS"
+   ]
+  },
+  {
+   "id": "gn-1edrf8f",
+   "title": "Bridge Bank lance une introduction en bourse de 118 millions de dollars sur la BRVM d'Afrique de l'Ouest",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeGR3QUlsVFo0ZF9ZdU0zWGNnMVFvdmJ0a2sxZ2FWV2h3MWRRejJTZGZCT01EQV9TNEFiQS1EdnJfVHNfelB6eWdPQWZiT3RnMERHLUdfQ2FqYjVub1J4b0RrMnc2XzVhZi1jTXAtZGhZS2tYelVSSWdCaTFXZmRrbzJoUkdMZGFhNkhZ?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-07-09T07:00:00.000Z",
+   "symbols": [
+    "BBGC"
    ]
   },
   {
