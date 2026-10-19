@@ -1,6 +1,56 @@
 {
- "updatedAt": "2026-10-19T11:47:32.781Z",
+ "updatedAt": "2026-10-19T12:17:56.885Z",
  "items": [
+  {
+   "id": "sika-65047",
+   "title": "Le groupe bancaire Vista Bank lance Vista Bank France à Bangkok",
+   "summary": "Bangkok, 19 octobre 2026 – Le Groupe bancaire Vista Bank annonce le lancement officiel de Vista Bank France, sa p...",
+   "url": "https://www.sikafinance.com/marches/le-groupe-bancaire-vista-bank-lance-vista-bank-france-a-bangkok_65047",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-19T12:05:00Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65048",
+   "title": "Banques : Alassane Kaboré prend la tête de Coris Bank International Côte d’Ivoire",
+   "summary": "Après sept années passées à la direction générale de Coris Bank International Togo, le banquier burkinabè Alassane Kabo...",
+   "url": "https://www.sikafinance.com/marches/banques-alassane-kabore-prend-la-tete-de-coris-bank-international-cote-divoire_65048",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-19T11:50:00Z",
+   "symbols": [
+    "CBIBF"
+   ]
+  },
+  {
+   "id": "sika-65046",
+   "title": "Afrique : Ces 10 économies qui devraient afficher la plus forte croissance en 2026",
+   "summary": "Alors que la croissance économique de l'Afrique est attendue à 4,6 % en 2026 selon le FMI, certaines économies du conti...",
+   "url": "https://www.sikafinance.com/marches/afrique-ces-10-economies-qui-devraient-afficher-la-plus-forte-croissance-en-2026_65046",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-10-19T11:43:00Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65044",
+   "title": "Sénégal : Le Premier ministre Ahmadou Alhaminou Mohamed LO à Abidjan pour le renforcement de la coopération",
+   "summary": "Le Premier ministre sénégalais Ahmadou Alhaminou Mohamed LO est en visite de travail et d'amitié du 18 au 19 oct...",
+   "url": "https://www.sikafinance.com/marches/senegal-le-premier-ministre-ahmadou-alhaminou-mohamed-lo-a-abidjan-pour-le-renforcement-de-la-cooperation_65044",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-19T11:16:00Z",
+   "symbols": []
+  },
   {
    "id": "sika-65042",
    "title": "Côte d’Ivoire / Mobile money : Alerte sur les fraudes par substitution de QR code",
@@ -637,7 +687,7 @@
    "source": "Dabafinance",
    "category": "Presse",
    "premium": false,
-   "publishedAt": "2026-09-24T07:00:00.000Z",
+   "publishedAt": "2026-09-24T12:26:00.000Z",
    "symbols": [
     "UNXC"
    ]
@@ -1843,30 +1893,6 @@
    "category": "Presse",
    "premium": false,
    "publishedAt": "2025-12-04T08:00:00.000Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-o76v2g",
-   "title": "Les transactions sur la BRVM seront désormais réglées deux jours ouvrables après leur exécution.",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeDdmUGsxNWNTN2lCaVB4YWtmck8ycU1MQ3RCWTdBNzUzQTFpVWkzUnZGUHQ5ek1ycVhKM2hVb0Z1QUpQNXZ4ZmxsSmZGaEt6WE9Fck5tczl3RXJWQ0l3WDJnVlNTemVuMGlnNHhEUlBhTXdpLVotMi05Tkx4bTFQcQ?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2025-12-01T08:00:00.000Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-zvf34z",
-   "title": "Les marchés d'actions africains dopés par la croissance du continent et par la guerre commerciale mondiale",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNLTY2aUZYOXIzbVVLYm5ISlJDWS1GQWlfZW4yX3dsVUt0WVJsVjBoTVEwUzZSOUFha1FuX1ZLWC1rRTc0NHZZU196bUwzYzdqWEotY1lrOGctbEhjaElRTHRPTTNvbjR3NXpCbkRtbEFYU3dfaExacUNJOEVTWkpxMVJJdzlmVW9rWDNiRU5QV2NiQ211cEUyT2lGck1yclRhYlAtZF9HUHM0aHV2bUY1eTVIcE5KVVNZX3lFa3U3SlBMU3FTM1A0ekYxX1Rfc2lCQnJMenp5ZGk5OXo2Qy0wYVdzdGFFNFprcERPb0x0cnJxWUJVa3ZucEVEYllOOHU1RG5WRlpIeEhDdw?oc=5",
-   "image": null,
-   "source": "RFI",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2025-11-18T08:00:00.000Z",
    "symbols": []
   }
  ]
