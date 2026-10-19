@@ -1,6 +1,30 @@
 {
- "updatedAt": "2026-10-19T16:38:13.193Z",
+ "updatedAt": "2026-10-19T17:34:33.486Z",
  "items": [
+  {
+   "id": "sika-65061",
+   "title": "Côte d’Ivoire : L’australien Eminence Minerals se positionne sur cinq projets aurifères ''prometteurs'' dans le Nord et l’Ouest",
+   "summary": "La junior minière a conclu trois accords d'option lui permettant d'acquérir progressivement jusqu'à 85 % de cinq projet...",
+   "url": "https://www.sikafinance.com/marches/cote-divoire-laustralien-eminence-minerals-se-positionne-sur-cinq-projets-auriferes--prometteurs--dans-le-nord-et-louest_65061",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-19T17:30:00Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65063",
+   "title": "Guinée : Vista Group mobilise 13 milliards FCFA auprès de la BADEA pour financer les PME",
+   "summary": "La Banque arabe pour le développement économique en Afrique (BADEA) accorde 20 millions d'euros, soit environ 13,1 mill...",
+   "url": "https://www.sikafinance.com/marches/guinee-vista-group-mobilise-13-milliards-fcfa-aupres-de-la-badea-pour-financer-les-pme_65063",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-19T17:15:00Z",
+   "symbols": []
+  },
   {
    "id": "sika-65057",
    "title": "BRVM : La cote démarre la semaine sous le poids de 27 valeurs en baisse",
@@ -1869,32 +1893,6 @@
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-01-09T08:00:00.000Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-7beat0",
-   "title": "L'action SIEM d'Eviosys Packaging mène les gains de la BRVM après la reprise des négociations",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdWhGdmVaM1RQSlVEanNMZWp2d09heXdzNGpscWtad3E5aUk1RzhvU2xzNm11VkVvel9zcDI2YTBodXdraWF6b2d6T0hOUGNSRkk1V3JNNlVxS1lfOTlvY0twSGpvWjdlZlFRYkl6Q05uaG05RTZLTnpxMnhzUEJvcGF6WTFKYlRRaVBMbkg0aVVHYS1jMTlsX3VUQQ?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-01-07T08:00:00.000Z",
-   "symbols": [
-    "SEMC"
-   ]
-  },
-  {
-   "id": "gn-1r0u7hv",
-   "title": "Bourse: la BRVM dévoile la nouvelle composition des indices BRVM Prestige et BRVM 30",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaHpQMm9pRWJZS2dhZ016R3ZPOHJwbmxzY1pJUFZLT0lkaVJJRGp4dzlqNFlBRHlpRlQ4NW5EbjVNYVBnUlR3Mlp2ZEdQTWszMzZRSEMtSEZSSnppeWNCRU9uQ2x6SnRiOHFid0IwMlRTOHFMWk03Wm4zX1FqU3pQZnFpQlhrOXZCV0lOeGlwellNdEZEMmR0SFJBYkMwbTRhZ0dNMWNtUHhwcHNtWkxDTE9tNThMMnZFUFcxSUpYRi1TVzF6?oc=5",
-   "image": null,
-   "source": "Financial Afrik",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-01-05T08:00:00.000Z",
    "symbols": []
   }
  ]
