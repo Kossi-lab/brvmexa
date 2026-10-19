@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-10-19T13:16:28.953Z",
+ "updatedAt": "2026-10-19T14:03:02.619Z",
  "items": [
+  {
+   "id": "sika-65050",
+   "title": "Adrian Fielding, DG AFIS : ‘’Notre rôle est de créer les conditions pour orienter davantage les ressources vers les secteurs productifs’’",
+   "summary": "Adrian Fielding, directeur général de l'AFIS : Notre rôle est de créer les conditions pour orienter davantag...",
+   "url": "https://www.sikafinance.com/marches/adrian-fielding-dg-afis-notre-role-est-de-creer-les-conditions-pour-orienter-davantage-les-ressources-vers-les-secteurs-productifs_65050",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-19T12:35:00Z",
+   "symbols": []
+  },
   {
    "id": "sika-65047",
    "title": "Le groupe bancaire Vista Bank lance Vista Bank France à Bangkok",
@@ -699,7 +711,7 @@
    "source": "Dabafinance",
    "category": "Presse",
    "premium": false,
-   "publishedAt": "2026-09-24T12:26:00.000Z",
+   "publishedAt": "2026-09-24T07:00:00.000Z",
    "symbols": [
     "UNXC"
    ]
@@ -1881,18 +1893,6 @@
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-01-02T08:00:00.000Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-hpzeix",
-   "title": "La BRVM clôture 2025 avec une progression remarquable de 25,26%",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWFk2UWdXOWZZTk9kUDRrb0pTYkhLcnBQX01fY1Z2anVKaUlVTW9jMlMydF83WmZnRldub3F5X2Q1c2tYMlFrbDVXalR1YXpFdTdwUWFoMnhLMnh5RV93SFVIbzNUZ05YaDJucEFWOXk0bEFPS3NXUF9CZFZZWEI4bkJFSHhyZDdkOGhuY0hQU2dFLXI1QTg3Vlo4OUQzaHJCdllJZjhYUQ?oc=5",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2025-12-31T08:00:00.000Z",
    "symbols": []
   }
  ]
