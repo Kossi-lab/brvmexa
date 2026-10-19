@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-10-18T20:37:49.979Z",
+ "updatedAt": "2026-10-19T08:43:25.187Z",
  "items": [
+  {
+   "id": "sika-65024",
+   "title": "Le Sénégal et le Ghana champions de l’innovation en Afrique de l’Ouest",
+   "summary": "La capacité d'innovation constitue désormais un levier essentiel de la compétitivité et de la croissance des économies....",
+   "url": "https://www.sikafinance.com/marches/le-senegal-et-le-ghana-champions-de-linnovation-en-afrique-de-louest_65024",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-10-19T08:26:00Z",
+   "symbols": []
+  },
   {
    "id": "gn-xadya0",
    "title": "Les actions de la BRVM perdent 559 milliards de CFA alors que le marché recule de 2,61 % lors d'une vague de ventes hebdomadaire",
@@ -494,6 +506,20 @@
    ]
   },
   {
+   "id": "gn-1y4yd2",
+   "title": "Pour sa cotation à la BRVM : les performances financières de Bridge Bank à l’origine de son entrée en Bourse",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORFVkZnBiOXBieW40Sk1MMnpGOUpNWW1Da3I3QzlDTHdFM1MyNl9qaU1rX2FGQ0dZUmEtYU1uYlFJMzBPV0VoMkxXSlIzeTdQRXBwN0xkTXNHZXlOcm1rUjlYYmJ5blNldVF6a3pBU3B1dm5MMV9TamR5a0V4ZDVrdm9TT0ROMVk2OVVVdV9lWDlVZXZlTEQ3TU1HSS0wMWIxMmplektISzdaSVRtMHlhUFlwRjc1OU5nU21zYVV4eVFyNjltUE44TzVoMS1EcXdQdEtaRkFXcGo3X2s1?oc=5",
+   "image": null,
+   "source": "Pressecotedivoire",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-09-24T07:00:00.000Z",
+   "symbols": [
+    "BBGC"
+   ]
+  },
+  {
    "id": "gn-p6xrw2",
    "title": "BRVM : Bridge Bank Group Côte d'Ivoire entre en Bourse après une IPO de 67,5 milliards FCFA",
    "summary": null,
@@ -503,20 +529,6 @@
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-09-24T07:00:00.000Z",
-   "symbols": [
-    "BBGC"
-   ]
-  },
-  {
-   "id": "gn-1y4yd2",
-   "title": "Pour sa cotation à la BRVM : les performances financières de Bridge Bank à l’origine de son entrée en Bourse",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORFVkZnBiOXBieW40Sk1MMnpGOUpNWW1Da3I3QzlDTHdFM1MyNl9qaU1rX2FGQ0dZUmEtYU1uYlFJMzBPV0VoMkxXSlIzeTdQRXBwN0xkTXNHZXlOcm1rUjlYYmJ5blNldVF6a3pBU3B1dm5MMV9TamR5a0V4ZDVrdm9TT0ROMVk2OVVVdV9lWDlVZXZlTEQ3TU1HSS0wMWIxMmplektISzdaSVRtMHlhUFlwRjc1OU5nU21zYVV4eVFyNjltUE44TzVoMS1EcXdQdEtaRkFXcGo3X2s1?oc=5",
-   "image": null,
-   "source": "Pressecotedivoire",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-09-24T02:42:06.000Z",
    "symbols": [
     "BBGC"
    ]
@@ -742,24 +754,24 @@
    "symbols": []
   },
   {
-   "id": "gn-1srhh9b",
-   "title": "BRVM : la capitalisation franchit les 20 000 milliards de FCFA",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPa0dsNW94eG5sWVpscklXQTE2SEZoOEZBelNRUFpFRjlOQmotYmNwckR2WUhOeVB0TE9VTnhFeEVpcUl5UVhuLTVzc29DWVhJSkVMZC1xZWF3TW05NkNZUnZmaHZPclJIVFdFVGJSLXg3azV1blJMVHRIa1ZFRDZoTElGY3VYWVl1V3VycGxqUjBOMkhQTFQwRW1WTk1IX295UWlhSWdB?oc=5",
-   "image": null,
-   "source": "APAnews - Agence de Presse Africaine",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-08-24T07:00:00.000Z",
-   "symbols": []
-  },
-  {
    "id": "gn-nh7606",
    "title": "Les OPCVM actions de l’UEMOA affichent jusqu’à 40,5 % de gain en 2026",
    "summary": null,
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRTNDd0RPdmJiRy05b1I0WXRwaGVCNTlOejZNeEI4c2pHYWtvUU9lb05xQVF0NDFha2tpZUQ0SlQ0N0F6YW1ac3lfVm5TaU42ZFZZSU5vNndza1BpT240bjlvTWpFMmFzWGgxeXRIeEUyR3pWV3E0aVNEQVVwRGxtMkZwQ0VUUWFReHBUSm5xS3BGOVJQTDZTRHpMaGRwQQ?oc=5",
    "image": null,
    "source": "Africtelegraph",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-08-24T07:00:00.000Z",
+   "symbols": []
+  },
+  {
+   "id": "gn-1srhh9b",
+   "title": "BRVM : la capitalisation franchit les 20 000 milliards de FCFA",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPa0dsNW94eG5sWVpscklXQTE2SEZoOEZBelNRUFpFRjlOQmotYmNwckR2WUhOeVB0TE9VTnhFeEVpcUl5UVhuLTVzc29DWVhJSkVMZC1xZWF3TW05NkNZUnZmaHZPclJIVFdFVGJSLXg3azV1blJMVHRIa1ZFRDZoTElGY3VYWVl1V3VycGxqUjBOMkhQTFQwRW1WTk1IX295UWlhSWdB?oc=5",
+   "image": null,
+   "source": "APAnews - Agence de Presse Africaine",
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-08-24T07:00:00.000Z",
@@ -876,18 +888,6 @@
    "symbols": []
   },
   {
-   "id": "gn-1ty0sws",
-   "title": "Achat d'actions à la BRVM : Comment la digitalisation révolutionne l'accès aux investisseurs individuels",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNU3Zjcy02WFhpRkhhbDM3dDRVV09abG42WFRKU2FKZmphcVFPdWhxM2dwa194U1JsTkt5Uy1xaldGWTRfdk5IYzVCeUVTMDM5SWpMRmFrRnhCMGNUMFFQaWo5dmMtS0E4ZWItQVc4RVIzdUY4Tmd2eVN3amY1OFhxQ2JJSlUxajRjZmFvUmkzamhjSXB1V19IeEZyNWJ5SnlIcHN6ZTN2ZUM0THFDRWZtU2FlUWc2cDFqeXVWVEQ2YnpKZVVra0xTYUszNWNsR3h3a2hwejFON2JwMTB2?oc=5",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-08-04T07:00:00.000Z",
-   "symbols": []
-  },
-  {
    "id": "gn-1wiek6d",
    "title": "BRVM : Safca Côte d'Ivoire (SAFC) bondit de +45,71% et Bank of Africa (BOAC) de +6,47%",
    "summary": null,
@@ -901,6 +901,18 @@
     "BOAC",
     "SAFC"
    ]
+  },
+  {
+   "id": "gn-1ty0sws",
+   "title": "Achat d'actions à la BRVM : Comment la digitalisation révolutionne l'accès aux investisseurs individuels",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNU3Zjcy02WFhpRkhhbDM3dDRVV09abG42WFRKU2FKZmphcVFPdWhxM2dwa194U1JsTkt5Uy1xaldGWTRfdk5IYzVCeUVTMDM5SWpMRmFrRnhCMGNUMFFQaWo5dmMtS0E4ZWItQVc4RVIzdUY4Tmd2eVN3amY1OFhxQ2JJSlUxajRjZmFvUmkzamhjSXB1V19IeEZyNWJ5SnlIcHN6ZTN2ZUM0THFDRWZtU2FlUWc2cDFqeXVWVEQ2YnpKZVVra0xTYUszNWNsR3h3a2hwejFON2JwMTB2?oc=5",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-08-04T07:00:00.000Z",
+   "symbols": []
   },
   {
    "id": "gn-hvwzkw",
