@@ -1,16 +1,40 @@
 {
- "updatedAt": "2026-10-19T17:34:33.486Z",
+ "updatedAt": "2026-10-19T18:41:27.475Z",
  "items": [
   {
+   "id": "sika-65066",
+   "title": "Air Côte d’Ivoire et Air France s’allient sur la ligne Paris-Abidjan",
+   "summary": "À compter du 25 octobre 2026, les deux compagnies commercialiseront réciproquement leurs vols entre Abidjan et P...",
+   "url": "https://www.sikafinance.com/marches/air-cote-divoire-et-air-france-sallient-sur-la-ligne-paris-abidjan_65066",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-19T17:46:00Z",
+   "symbols": []
+  },
+  {
    "id": "sika-65061",
-   "title": "Côte d’Ivoire : L’australien Eminence Minerals se positionne sur cinq projets aurifères ''prometteurs'' dans le Nord et l’Ouest",
+   "title": "Côte d’Ivoire : L’australien Eminence Minerals se positionne sur 5 projets aurifères ‘’prometteurs’’ dans le Nord et l’Ouest",
    "summary": "La junior minière a conclu trois accords d'option lui permettant d'acquérir progressivement jusqu'à 85 % de cinq projet...",
-   "url": "https://www.sikafinance.com/marches/cote-divoire-laustralien-eminence-minerals-se-positionne-sur-cinq-projets-auriferes--prometteurs--dans-le-nord-et-louest_65061",
+   "url": "https://www.sikafinance.com/marches/cote-divoire-laustralien-eminence-minerals-se-positionne-sur-5-projets-auriferes-prometteurs-dans-le-nord-et-louest_65061",
    "image": null,
    "source": "Sika Finance",
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-10-19T17:30:00Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65065",
+   "title": "Le Ghana lance un parc industriel de 501 hectares pour accueillir plus de 120 entreprises",
+   "summary": "Le Ghana accélère sa stratégie d'industrialisation. En effet, le président John Dramani Mahama a procédé le 15 octobre ...",
+   "url": "https://www.sikafinance.com/marches/le-ghana-lance-un-parc-industriel-de-501-hectares-pour-accueillir-plus-de-120-entreprises_65065",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-19T17:21:00Z",
    "symbols": []
   },
   {
@@ -747,7 +771,7 @@
    "source": "Dabafinance",
    "category": "Presse",
    "premium": false,
-   "publishedAt": "2026-09-24T12:26:00.000Z",
+   "publishedAt": "2026-09-24T07:00:00.000Z",
    "symbols": [
     "UNXC"
    ]
@@ -1869,30 +1893,6 @@
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-01-13T08:00:00.000Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-cuf8vb",
-   "title": "Le Social Bond de la CRRH-UEMOA décroche une double cotation à la BRVM et à la Bourse de Luxembourg",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUmVFSlJrX0RqcFBIT3JSQW1UV0VOcV9HXy1ZRFdfTzUweGg4VzFITldNVTBFVW5nc05YMWMtNW83NWhPYkgtTmFBc2FvZzJ1VHEyT0RoVGFjVll2cG5hcVZKV2xtWERRQlREUS1PRFhtSzNrc1lmVzg2NVA0YXBRUWtuWHJHdVVLQUdvVVQxUGswd1Zsb25KZnBZTEM0QzhXaEdGbG9zaHBtVjVFMWtJbFNlVEhRQUtNUzRTREtrRC03RlNJTjVWNUhTLXBnSUh4S0NmWTRHSGhTZw?oc=5",
-   "image": null,
-   "source": "Financial Afrik",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-01-12T08:00:00.000Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-kyxyr4",
-   "title": "Marchés financiers : comment la place d’Abidjan veut entrer dans la cour des grands",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVVBGWEVNRXpMbFNSMlhpTWZJMVVKVW1TNXluTV9xb0VvUlYtRnB1dFZhVlltVW5qdHZwRXJUaVh1YXFmUmdlQkhaSHhtSmhjTG1vYnh2dG4yeHcxLXBkOEZlTFpHTkF2REcxeV9HMHZRWkFLVndiVVppbk1fVGdNbm0xV2k5M2hyUjhwUldwMjFaSTZaanNsd3VKb1RKMmJIOGFWaGNrY2o5d2ZITExQSUdjeXhadTIzbERQNGVPTHhkYmRiOG4xdC1vdFhQUS1ZeUxBWl93?oc=5",
-   "image": null,
-   "source": "Jeune Afrique",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-01-09T08:00:00.000Z",
    "symbols": []
   }
  ]
