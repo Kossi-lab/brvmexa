@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-19T14:37:10.547Z",
+ "updatedAt": "2026-10-19T15:19:07.166Z",
  "items": [
   {
    "id": "sika-65050",
@@ -1222,6 +1222,20 @@
    ]
   },
   {
+   "id": "gn-jgv3b9",
+   "title": "Bridge Bank Côte d’Ivoire : L’opération de souscription pour l’introduction en bourse bouclée en moins de 24 heures",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPV3BuN0dwRkpFMFhnVkp2SEloSGJ2TVh4NG1xNHJad2YzNmJEWXFFNkFVUHVUWV9OS3hVbk4wQ1VDV3lMc3M3RWlsXzlDYW1zOGUwdUlMbzdLdGw2aGFqSDBVeFAtZ1ZVeTVPODVqMERVS2pRVkhWTVpsZFdQa3ZPZlJfcVBLX1N5RV9qZEV6Y2p6c2JnUlJsT29XaVBiajJqRnItSzBwMllXNXpBU3VJMGk4TTJxTWdRU0FsYWxhYWtmaXhFR21MdF9pN1VEcGp1di10eWwwbENEUU8tS0xUNF85bHZJLWM?oc=5",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-07-21T07:00:00.000Z",
+   "symbols": [
+    "BBGC"
+   ]
+  },
+  {
    "id": "gn-i8btnb",
    "title": "Nigeria : la raffinerie de Dangote lève 2,5 milliards $ en capital avant son entrée en Bourse",
    "summary": null,
@@ -1881,18 +1895,6 @@
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-01-04T08:00:00.000Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-vvb873",
-   "title": "BRVM en 2025 : les actions terminent l’année sur de solides gains",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSUlQLVNYRlZuaGhfSEY5ZFdodVluN1VqNHpsd1dfUlFPUTVyc1JYNDV0VEtsT1FlQnpxc25Gd2hCekZ2NlltSHRZUkJ1RW9lRWxYUFZZVDFuTTdibVUxUUFDUlVrbnhEVTBpc2I2LXFlY0pZQk9lRkRzRS1rR1QyTXFSMjJIVThxV0FHWDdQUkNxQWktcEFndkRfMkVrOWdFVl9FOENR?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-01-02T08:00:00.000Z",
    "symbols": []
   }
  ]
