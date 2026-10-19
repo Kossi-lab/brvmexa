@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-19T12:17:56.885Z",
+ "updatedAt": "2026-10-19T13:16:28.953Z",
  "items": [
   {
    "id": "sika-65047",
@@ -37,6 +37,18 @@
    "category": "Marchés",
    "premium": true,
    "publishedAt": "2026-10-19T11:43:00Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65044",
+   "title": "Sénégal : En visite en Côte d’Ivoire, le Premier ministre Ahmadou Mohamed LO aura un tête à tête avec le Président Ouattara",
+   "summary": "Le Premier ministre sénégalais Ahmadou Alhaminou Mohamed LO est en visite de travail et d'amitié du 18 au 19 oct...",
+   "url": "https://www.sikafinance.com/marches/senegal-en-visite-en-cote-divoire-le-premier-ministre-ahmadou-mohamed-lo-aura-un-tete-a-tete-avec-le-president-ouattara_65044",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-19T11:16:00Z",
    "symbols": []
   },
   {
@@ -1881,18 +1893,6 @@
    "category": "Presse",
    "premium": false,
    "publishedAt": "2025-12-31T08:00:00.000Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-19tboxg",
-   "title": "Transactions plus rapides, règlement plus rapide : BRVM passe à T+2",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSmJ5ODI5QlpHZGtscFFBRHVPM29wd0FETFJ0RWRxYXV4NTNMZXdHUGxqczBhU2dyTjhUdDhYU3ExbS1ydUxrYy1PTEhBeEJGUWNUenhZeGIyUE9QcFJfaWN5ajcxTWFXczgtOWJkNXpMREtZMWhkdUEwUjVEZWZYbmYyQ0tEQ3FNNy1RTkJabG9sdXFCd2VCaDNqR0tVT2lCejdNbUdGUmpQUQ?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2025-12-04T08:00:00.000Z",
    "symbols": []
   }
  ]
