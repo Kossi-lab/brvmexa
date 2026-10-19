@@ -1,6 +1,30 @@
 {
- "updatedAt": "2026-10-19T16:00:06.091Z",
+ "updatedAt": "2026-10-19T16:38:13.193Z",
  "items": [
+  {
+   "id": "sika-65057",
+   "title": "BRVM : La cote démarre la semaine sous le poids de 27 valeurs en baisse",
+   "summary": "La BRVM entame la nouvelle semaine sur un ton timoré, avec une nette domination des valeurs en baisse : 27 titres recul...",
+   "url": "https://www.sikafinance.com/marches/brvm-la-cote-demarre-la-semaine-sous-le-poids-de-27-valeurs-en-baisse_65057",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-19T16:24:00Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65056",
+   "title": "Congo : Des obligations souveraines de 1,55 milliard USD débarquent à la Bourse de Dubaï",
+   "summary": "Selon un communiqué diffusé le 19 octobre 2026 sur la plateforme internationale Newswire, la République du Congo a fait...",
+   "url": "https://www.sikafinance.com/marches/congo-des-obligations-souveraines-de-1-55-milliard-usd-debarquent-a-la-bourse-de-duba%C3%AF_65056",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-19T15:52:00Z",
+   "symbols": []
+  },
   {
    "id": "sika-65050",
    "title": "Adrian Fielding, DG AFIS : ‘’Notre rôle est de créer les conditions pour orienter davantage les ressources vers les secteurs productifs’’",
@@ -56,18 +80,6 @@
    "title": "Sénégal : En visite en Côte d’Ivoire, le Premier ministre Ahmadou Mohamed LO aura un tête à tête avec le Président Ouattara",
    "summary": "Le Premier ministre sénégalais Ahmadou Alhaminou Mohamed LO est en visite de travail et d'amitié du 18 au 19 oct...",
    "url": "https://www.sikafinance.com/marches/senegal-en-visite-en-cote-divoire-le-premier-ministre-ahmadou-mohamed-lo-aura-un-tete-a-tete-avec-le-president-ouattara_65044",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-19T11:16:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65044",
-   "title": "Sénégal : Le Premier ministre Ahmadou Alhaminou Mohamed LO à Abidjan pour le renforcement de la coopération",
-   "summary": "Le Premier ministre sénégalais Ahmadou Alhaminou Mohamed LO est en visite de travail et d'amitié du 18 au 19 oct...",
-   "url": "https://www.sikafinance.com/marches/senegal-le-premier-ministre-ahmadou-alhaminou-mohamed-lo-a-abidjan-pour-le-renforcement-de-la-cooperation_65044",
    "image": null,
    "source": "Sika Finance",
    "category": "Marchés",
@@ -711,7 +723,7 @@
    "source": "Dabafinance",
    "category": "Presse",
    "premium": false,
-   "publishedAt": "2026-09-24T07:00:00.000Z",
+   "publishedAt": "2026-09-24T12:26:00.000Z",
    "symbols": [
     "UNXC"
    ]
@@ -1883,18 +1895,6 @@
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-01-05T08:00:00.000Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-13w7ztd",
-   "title": "Top 10 des actions du BRVM à surveiller en 2026",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQXcxSG5iVlRabGRocm5JSm9LTWt5eE1JaEY3UmNvRVh2VHRYNDRGS013aHBBckh0a0tFYVBYdEgyQzdYYzR1LWowcm5SSGdOb0hpc0laeEhxaks1Q1p2Wmd5UlRMcGJLRjVEc2YtdmNhM3RhV3h5XzNhUVNHRzl6LVpEZkNMdWFzV2J6cVphYnNEZw?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-01-04T08:00:00.000Z",
    "symbols": []
   }
  ]
