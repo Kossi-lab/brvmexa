@@ -175,10 +175,14 @@ async function updateNews() {
   const file = path.join(DATA, 'news.json');
   // Les articles d'exemple livrés avec le projet disparaissent dès la première vraie collecte
   const old = (await readJson(file, { items: [] })).items.filter((n) => !fresh.length || !n.id.startsWith('seed-'));
+  // Un article = une entrée : même identifiant (titre modifié par le site) ou même titre → on garde la version la plus récente
   const merged = new Map();
+  const seenIds = new Set();
   for (const n of [...fresh, ...old]) {
     const key = n.title.toLowerCase().replace(/\W+/g, '').slice(0, 80);
-    if (!merged.has(key)) merged.set(key, { ...n, symbols: tagSymbols(n, COMPANIES) });
+    if (merged.has(key) || seenIds.has(n.id)) continue;
+    seenIds.add(n.id);
+    merged.set(key, { ...n, symbols: tagSymbols(n, COMPANIES) });
   }
   const items = [...merged.values()]
     .sort((a, b) => (b.publishedAt ?? '').localeCompare(a.publishedAt ?? ''))

@@ -50,7 +50,7 @@ export function simEvents(userId, state, market, dividends, now = new Date()) {
       }
     }
     const exp = Date.parse(p.expiresAt);
-    if (nowIso > p.expiresAt && Date.now() - exp < 3 * DAY) {
+    if (nowIso > p.expiresAt && now.getTime() - exp < 3 * DAY) {
       out.push({
         key: `exp:${p.id}`,
         title: `⌛ Ordre expiré : ${what}`,
