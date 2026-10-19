@@ -1,16 +1,54 @@
 {
- "updatedAt": "2026-10-19T08:43:25.187Z",
+ "updatedAt": "2026-10-19T09:31:16.073Z",
  "items": [
   {
-   "id": "sika-65024",
-   "title": "Le Sénégal et le Ghana champions de l’innovation en Afrique de l’Ouest",
-   "summary": "La capacité d'innovation constitue désormais un levier essentiel de la compétitivité et de la croissance des économies....",
-   "url": "https://www.sikafinance.com/marches/le-senegal-et-le-ghana-champions-de-linnovation-en-afrique-de-louest_65024",
+   "id": "sika-65029",
+   "title": "Servair Abidjan : Le bénéfice se stabilise à 1,33 milliard FCFA à fin septembre 2026",
+   "summary": "Après un premier semestre marqué par des tensions sur ses coûts, Servair Abidjan affiche un relatif redressement....",
+   "url": "https://www.sikafinance.com/marches/servair-abidjan-le-benefice-se-stabilise-a-1-33-milliard-fcfa-a-fin-septembre-2026_65029",
    "image": null,
    "source": "Sika Finance",
    "category": "Marchés",
    "premium": true,
-   "publishedAt": "2026-10-19T08:26:00Z",
+   "publishedAt": "2026-10-19T09:15:00Z",
+   "symbols": [
+    "ABJC"
+   ]
+  },
+  {
+   "id": "sika-65027",
+   "title": "Le Sénégal et le Ghana champions de l’innovation en Afrique de l'Ouest",
+   "summary": "La capacité d'innovation constitue désormais un levier essentiel de la compétitivité et de la croissance des économies....",
+   "url": "https://www.sikafinance.com/marches/le-senegal-et-le-ghana-champions-de-linnovation-en-afrique-de-l-ouest_65027",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-10-19T09:04:00Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65028",
+   "title": "Biodiversité : 7 600 milliards USD de capital naturel, un potentiel encore inexploité en Afrique",
+   "summary": "L'Afrique possède dans ses forêts, ses terres et sa faune une richesse considérable, mais peine encore à en tirer une p...",
+   "url": "https://www.sikafinance.com/marches/biodiversite-7-600-milliards-usd-de-capital-naturel-un-potentiel-encore-inexploite-en-afrique_65028",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-19T09:01:00Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65026",
+   "title": "Le Sénégal se dote d’une taxonomie verte",
+   "summary": "Le Sénégal se dote d'une taxonomie verte. Le lancement est prévu ce 19 octobre 2026. Cette orientation est portée par l...",
+   "url": "https://www.sikafinance.com/marches/le-senegal-se-dote-dune-taxonomie-verte_65026",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-19T08:52:00Z",
    "symbols": []
   },
   {
