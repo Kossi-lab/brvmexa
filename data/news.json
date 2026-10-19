@@ -1,6 +1,42 @@
 {
- "updatedAt": "2026-10-19T10:09:07.347Z",
+ "updatedAt": "2026-10-19T10:43:58.250Z",
  "items": [
+  {
+   "id": "sika-65038",
+   "title": "Immigration intra-africaine : 3 indicateurs économiques confirment l’intérêt d’une intégration renforcée",
+   "summary": "L'immigration entre pays africains est associée à une amélioration du compte courant, à un renforcement des échanges com...",
+   "url": "https://www.sikafinance.com/marches/immigration-intra-africaine-3-indicateurs-economiques-confirment-linteret-dune-integration-renforcee_65038",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-19T10:37:00Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65039",
+   "title": "Congo : Le FMI pourrait ouvrir la voie à de nouveaux appuis budgétaires internationaux",
+   "summary": "Le Congo cherche à obtenir de nouveaux financements internationaux en renouant avec le Fonds monétaire international (F...",
+   "url": "https://www.sikafinance.com/marches/congo-le-fmi-pourrait-ouvrir-la-voie-a-de-nouveaux-appuis-budgetaires-internationaux_65039",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-19T10:35:00Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65037",
+   "title": "SIKA COMMODITIES WEEKLY 41 : Le café bondit, le Brent flirte avec 110 dollars",
+   "summary": "L'arabica et le pétrole ont dominé les marchés cette semaine, portés par des inquiétudes sur les approvisionnements. Le...",
+   "url": "https://www.sikafinance.com/marches/sika-commodities-weekly-41-le-cafe-bondit-le-brent-flirte-avec-110-dollars_65037",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-19T10:26:00Z",
+   "symbols": []
+  },
   {
    "id": "sika-65033",
    "title": "Congo : Eni atteint 170 000 barils par jour et envisage une centrale électrique de 1 000 MW à Djéno",
@@ -12,6 +48,21 @@
    "premium": false,
    "publishedAt": "2026-10-19T09:54:00Z",
    "symbols": []
+  },
+  {
+   "id": "sika-65035",
+   "title": "BRVM / SEMAINE 41 : TOTAL CI et CORIS BANK BF se distinguent à contre-courant du marché",
+   "summary": "La BRVM bascule dans une correction marquée au cours de la semaine du 12 octobre, après la stabilité relative observée ...",
+   "url": "https://www.sikafinance.com/marches/brvm-semaine-41-total-ci-et-coris-bank-bf-se-distinguent-a-contre-courant-du-marche_65035",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-10-19T09:53:00Z",
+   "symbols": [
+    "CBIBF",
+    "TTLC"
+   ]
   },
   {
    "id": "sika-65029",
