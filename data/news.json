@@ -1,6 +1,42 @@
 {
- "updatedAt": "2026-10-20T12:39:46.514Z",
+ "updatedAt": "2026-10-20T13:23:55.259Z",
  "items": [
+  {
+   "id": "sika-65088",
+   "title": "Mobile money : Pourquoi le cash reste roi pour les gros paiements en Afrique",
+   "summary": "L'Afrique subsaharienne, qui abrite environ la moitié des comptes mobile money enregistrés dans le monde (plus de 396 m...",
+   "url": "https://www.sikafinance.com/marches/mobile-money-pourquoi-le-cash-reste-roi-pour-les-gros-paiements-en-afrique_65088",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-10-20T13:20:00Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65087",
+   "title": "Congo : 1 670,7 milliards FCFA remboursés sur 1 779,6 milliards FCFA de service de la dette prévu entre janvier et juillet 2026",
+   "summary": "Entre janvier et juillet 2026, la République du Congo a consacré 1 670,7 milliards FCFA au remboursement du principal d...",
+   "url": "https://www.sikafinance.com/marches/congo-1-670-7-milliards-fcfa-rembourses-sur-1-779-6-milliards-fcfa-de-service-de-la-dette-prevu-entre-janvier-et-juillet-2026_65087",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-20T13:09:00Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65085",
+   "title": "La Banque mondiale mise sur le capital privé pour sauver 800 millions d’emplois",
+   "summary": "Les chiffres ont la brutalité des évidences. D'ici 15 ans, 1,2 milliard de jeunes frapperont à la porte du marché du tr...",
+   "url": "https://www.sikafinance.com/marches/la-banque-mondiale-mise-sur-le-capital-prive-pour-sauver-800-millions-demplois_65085",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-20T13:00:00Z",
+   "symbols": []
+  },
   {
    "id": "sika-65082",
    "title": "La Banque mondiale lance sa 1ère stratégie numérique pour stimuler l’emploi dans les pays en développement",
@@ -1857,44 +1893,6 @@
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-03-28T07:00:00.000Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-gwpey",
-   "title": "Afrique de l'Ouest: BRVM Awards 2026 - AllAfrica Global Media de nouveau en lice pour le prestigieux prix du \"Média Financier de l'Année\"",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHbnN0MDJSVi1ORXVxSjlobmNFWGpxOVBWTkt2TVA1Z0ZGMTBqMzJHM3BwRUNfYWdyRHNhTm1iZk5xRTBxOUxxbGJNZEtZV0w4N0lFMFYwMVVURTV6UlFV?oc=5",
-   "image": null,
-   "source": "allAfrica.fr",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-03-26T07:00:00.000Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-1krrw61",
-   "title": "BRVM : le FCTC « Keur Samba NSIA Banque Bénin » fait son entrée en Bourse avec 44 milliards FCFA",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRktqckpPTE5WR2VZVVRoZ0tVVlhaQV9Lc1RiSDBDYms4a05xMjZJRkhqTFVEZkhuZWlSMWF1eUd0SUo0dGlacGE0M0QzbWdQQkpmX05qYWIzbzdfazdESGFzQVl2bWxvZFRWalpUdUVNVDJOVXFjZWc5MlJ3a1VpX1pWR2cycWR4eTRJME5BbzQwQl9KZEFjY3IyZWk5Z0FJeFpoRHR5bXRJYXUtZnRscGE3TXUzRWFma3NRb2xKYVl5Vm1FUUIwTFNIZmhTdw?oc=5",
-   "image": null,
-   "source": "Financial Afrik",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-03-13T07:00:00.000Z",
-   "symbols": [
-    "NSBC"
-   ]
-  },
-  {
-   "id": "gn-1d63zde",
-   "title": "Les BRVM Investment Days 2026 arrivent le 21 avril 2026 à New York",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYXdwbndRemRyQlRvc1J3eEpMUTFLemJxdW16QUgyV3drLVVxZm0wNnhzUmJoSGlZUEtkVUpkVjd2OURPb3hkZVlKUFQ5Zy1HaWlfM1B2Q3ZPZlBKZWRaOTZtSFZKYml4d1djWUNYVExrM2luNGRZOGNuNW9VcWJIX1U2S0RmN1BBOUVESGkzbzB5aXNqYU5hMWJJOGhwWjE0R1FQNHJhbGhWUng3aHc?oc=5",
-   "image": null,
-   "source": "Financial Afrik",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-03-05T08:00:00.000Z",
    "symbols": []
   }
  ]
