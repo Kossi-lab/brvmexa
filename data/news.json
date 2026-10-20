@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-10-20T10:30:07.847Z",
+ "updatedAt": "2026-10-20T11:03:05.239Z",
  "items": [
+  {
+   "id": "sika-65082",
+   "title": "La Banque mondiale lance sa 1ère stratégie numérique pour stimuler l’emploi dans les pays en développement",
+   "summary": "Le groupe de la Banque mondiale entend faire du numérique un levier de croissance économique et de création d'emplois d...",
+   "url": "https://www.sikafinance.com/marches/la-banque-mondiale-lance-sa-1ere-strategie-numerique-pour-stimuler-lemploi-dans-les-pays-en-developpement_65082",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-20T10:42:00Z",
+   "symbols": []
+  },
   {
    "id": "sika-65078",
    "title": "Congo : Dès janvier 2027, les opérateurs de transferts d'argent devront utiliser des terminaux électroniques",
@@ -1883,18 +1895,6 @@
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-03-05T08:00:00.000Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-1o5qc5b",
-   "title": "Les actions de la BRVM se redressent alors que les marchés mondiaux chutent à cause de la chute de la technologie et des crypto-monnaies",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPckw2eF80ZmtOb3RBcnpIM29hOG14NWFUN29BSFlnQ2NIY2oxVUZUUWNaMmY1N1BHMUI4d29CYjZBQ081SHAzWGJqSzBGd2VmVEtVZXV2NTdKbDVsNUZfRGxiOWl6LXRHdVNTVUx1VWVnQUJIVnRnS1M0UF9zM05nWU5OMlZhWGo3UkwzcjZfcDV3VldxWDFzUWNMMlZBM3phbmVqcFNFSmgtNmZk?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-02-06T08:00:00.000Z",
    "symbols": []
   }
  ]
