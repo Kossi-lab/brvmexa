@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-10-20T13:23:55.259Z",
+ "updatedAt": "2026-10-20T14:07:12.722Z",
  "items": [
+  {
+   "id": "sika-65090",
+   "title": "Logistique, transport, fintech…Où va l’argent des startups africaines ?",
+   "summary": "Les dynamiques sectorielles et géographiques se sont profondément réorganisées et ont fortement impacté l'ensemble du c...",
+   "url": "https://www.sikafinance.com/marches/logistique-transport-fintechou-va-largent-des-startups-africaines-_65090",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-20T13:49:00Z",
+   "symbols": []
+  },
   {
    "id": "sika-65088",
    "title": "Mobile money : Pourquoi le cash reste roi pour les gros paiements en Afrique",
@@ -1881,18 +1893,6 @@
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-04-01T07:00:00.000Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-fc6tx0",
-   "title": "Kalidou Diallo, l’art de diriger sans bruit : CGF Bourse désignée meilleure SGI aux BRVM Awards",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNT1V3MFFQYmNRUGQzeXBTTDZDWVBYT1oxM1J3UlVuMDd0endvUTRCVG9rN1B0djJEeUFsOUEtbFREaVN5X0Fpb1hLaXphVVB4Y0VDMXlPeVY0ZE0xcU5jR2wxa01oNVFxNVlHNUNLV0d1WlFHSF9YeWQyOXNyTm9yRVpqQk9KbXhYMWI5VHh1M0hBV3MyZnNMVkNtcVZVenNOUjU2MExIOXBaZFJHeXk4YlVVRzJFX2R0b1Fub3lZNnlDUkhzNXlURVhWenNMX1k?oc=5",
-   "image": null,
-   "source": "Financial Afrik",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-03-28T07:00:00.000Z",
    "symbols": []
   }
  ]
