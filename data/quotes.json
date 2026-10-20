@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-10-20T14:45:18.377Z",
+ "updatedAt": "2026-10-20T15:17:49.777Z",
  "sessionDate": "2026-10-20",
- "sessionTime": "14:45",
+ "sessionTime": "15:15",
  "source": "brvm.org",
  "items": [
   {
@@ -112,7 +112,7 @@
   {
    "symbol": "BOAC",
    "name": "BANK OF AFRICA COTE D'IVOIRE",
-   "volume": 3429,
+   "volume": 3432,
    "prevClose": 11310,
    "refPrice": 11310,
    "open": 11300,
@@ -157,7 +157,7 @@
   {
    "symbol": "BOAS",
    "name": "BANK OF AFRICA SENEGAL",
-   "volume": 6186,
+   "volume": 6191,
    "prevClose": 8100,
    "refPrice": 8100,
    "open": 8100,
@@ -247,7 +247,7 @@
   {
    "symbol": "ETIT",
    "name": "Ecobank Transnational Incorporated TOGO",
-   "volume": 955003,
+   "volume": 955048,
    "prevClose": 65,
    "refPrice": 65,
    "open": 65,
@@ -592,7 +592,7 @@
   {
    "symbol": "SNTS",
    "name": "SONATEL SENEGAL",
-   "volume": 102219,
+   "volume": 102221,
    "prevClose": 42800,
    "refPrice": 41875,
    "open": 42800,

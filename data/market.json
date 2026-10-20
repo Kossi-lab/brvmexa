@@ -1,15 +1,15 @@
 {
- "updatedAt": "2026-10-20T14:45:18.377Z",
+ "updatedAt": "2026-10-20T15:17:49.777Z",
  "sessionDate": "2026-10-20",
- "sessionTime": "14:45",
+ "sessionTime": "15:15",
  "source": "brvm.org",
- "transactionsValue": 8074873402,
+ "transactionsValue": 8075033837,
  "capitalisationActions": 20569126649885,
  "capitalisationBonds": 13473460607386,
  "advancing": 15,
  "declining": 22,
  "unchanged": 11,
- "totalVolume": 1256821,
+ "totalVolume": 1256876,
  "gainers": [
   {
    "symbol": "ONTBF",
@@ -90,7 +90,7 @@
    "shortName": "Sonatel",
    "close": 41880,
    "change": -2.15,
-   "volume": 102219
+   "volume": 102221
   },
   {
    "symbol": "SGBC",
