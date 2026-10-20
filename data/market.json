@@ -1,29 +1,29 @@
 {
- "updatedAt": "2026-10-20T11:30:59.010Z",
+ "updatedAt": "2026-10-20T12:01:54.174Z",
  "sessionDate": "2026-10-20",
- "sessionTime": "11:30",
+ "sessionTime": "11:45",
  "source": "brvm.org",
- "transactionsValue": 1978162513,
- "capitalisationActions": 20748410574525,
+ "transactionsValue": 2194846870,
+ "capitalisationActions": 20762290000845,
  "capitalisationBonds": 13471214032431,
- "advancing": 13,
- "declining": 26,
- "unchanged": 9,
- "totalVolume": 525334,
+ "advancing": 15,
+ "declining": 25,
+ "unchanged": 8,
+ "totalVolume": 534406,
  "gainers": [
-  {
-   "symbol": "SOGC",
-   "shortName": "SOGB CI",
-   "close": 7850,
-   "change": 4.53,
-   "volume": 1013
-  },
   {
    "symbol": "TTLC",
    "shortName": "TotalEnergies Marketing CI",
-   "close": 3000,
-   "change": 4.35,
-   "volume": 1493
+   "close": 3050,
+   "change": 6.09,
+   "volume": 1613
+  },
+  {
+   "symbol": "SOGC",
+   "shortName": "SOGB CI",
+   "close": 7780,
+   "change": 3.6,
+   "volume": 1017
   },
   {
    "symbol": "BOAN",
@@ -33,18 +33,18 @@
    "volume": 4752
   },
   {
+   "symbol": "ORAC",
+   "shortName": "Orange Côte d’Ivoire",
+   "close": 21235,
+   "change": 2.34,
+   "volume": 469
+  },
+  {
    "symbol": "CBIBF",
    "shortName": "Coris Bank International",
    "close": 31000,
    "change": 1.62,
    "volume": 96
-  },
-  {
-   "symbol": "TTLS",
-   "shortName": "TotalEnergies Marketing Sénégal",
-   "close": 3700,
-   "change": 1.37,
-   "volume": 4851
   }
  ],
  "losers": [
@@ -74,51 +74,51 @@
    "shortName": "Vivo Energy CI",
    "close": 2060,
    "change": -5.29,
-   "volume": 1033
+   "volume": 1158
   },
   {
    "symbol": "BBGC",
    "shortName": "Bridge Bank Group CI",
    "close": 9850,
    "change": -4.83,
-   "volume": 7360
+   "volume": 7935
   }
  ],
  "mostActive": [
   {
    "symbol": "SNTS",
    "shortName": "Sonatel",
-   "close": 42485,
-   "change": -0.74,
-   "volume": 11411
+   "close": 42480,
+   "change": -0.75,
+   "volume": 12185
   },
   {
    "symbol": "SGBC",
    "shortName": "Société Générale CI",
-   "close": 38955,
-   "change": 0,
-   "volume": 2049
+   "close": 38950,
+   "change": -0.01,
+   "volume": 2202
   },
   {
    "symbol": "BBGC",
    "shortName": "Bridge Bank Group CI",
    "close": 9850,
    "change": -4.83,
-   "volume": 7360
+   "volume": 7935
   },
   {
    "symbol": "ETIT",
    "shortName": "Ecobank Transnational (ETI)",
    "close": 65,
    "change": 0,
-   "volume": 443523
+   "volume": 447374
   },
   {
    "symbol": "BOAS",
    "shortName": "BOA Sénégal",
    "close": 8090,
    "change": -0.12,
-   "volume": 2831
+   "volume": 2898
   }
  ]
 }
