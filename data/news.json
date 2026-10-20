@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-10-20T16:03:28.707Z",
+ "updatedAt": "2026-10-20T16:36:12.415Z",
  "items": [
+  {
+   "id": "sika-65094",
+   "title": "BRVM : Les investisseurs engagent plus de 5 milliards FCFA dans un marché en repli",
+   "summary": "La BRVM poursuit son mouvement de baisse lors de cette deuxième séance de la semaine. Les trois principaux indices term...",
+   "url": "https://www.sikafinance.com/marches/brvm-les-investisseurs-engagent-plus-de-5-milliards-fcfa-dans-un-marche-en-repli_65094",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-20T16:25:00Z",
+   "symbols": []
+  },
   {
    "id": "sika-65091",
    "title": "Côte d’Ivoire : Empress Royalty acquiert des droits partiels sur l’or de Tongon pour 60 millions USD",
@@ -1881,18 +1893,6 @@
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-04-07T07:00:00.000Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-l35zz",
-   "title": "La BRVM prépare le lancement de ses premiers ETF et produits dérivés",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWk9TRGd6d1lHYUM2MTdaaUFlOGhuTFVMLVFteDVGR2t1YS1NN3p3ekdsVDhMQXo2Sl94MWw1SzJMUnY5NS1hLWdLRzU4WkJtZ2pWdHpBeF9Uc2dELU9FSUJ6TV8zRFktbk5zMVNRenZVa0lEMTkxcGoza0x0YzI2QjVkcS1nMHNmUWVjVW9FWWg3bEdZUUZ4NjVsdjBzbDhXVFNkMWVDSU01eEo1Z0lRYV9ZaW1jdTdqWkVMZDZlb1lzaWVSSDN3?oc=5",
-   "image": null,
-   "source": "AGENCE ECOFIN",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-04-06T07:00:00.000Z",
    "symbols": []
   }
  ]
