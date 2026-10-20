@@ -1,124 +1,124 @@
 {
- "updatedAt": "2026-10-20T10:00:43.740Z",
+ "updatedAt": "2026-10-20T10:29:38.904Z",
  "sessionDate": "2026-10-20",
- "sessionTime": "09:45",
+ "sessionTime": "10:15",
  "source": "brvm.org",
- "transactionsValue": 203219350,
- "capitalisationActions": 20739525689780,
- "capitalisationBonds": 13467065907431,
- "advancing": 8,
- "declining": 8,
- "unchanged": 32,
- "totalVolume": 30112,
+ "transactionsValue": 1434649616,
+ "capitalisationActions": 20783811320190,
+ "capitalisationBonds": 13470815907431,
+ "advancing": 11,
+ "declining": 17,
+ "unchanged": 20,
+ "totalVolume": 103208,
  "gainers": [
   {
-   "symbol": "LNBB",
-   "shortName": "Loterie Nationale du Bénin",
-   "close": 4075,
-   "change": 1.88,
-   "volume": 8
+   "symbol": "ONTBF",
+   "shortName": "Onatel Burkina Faso",
+   "close": 2980,
+   "change": 2.76,
+   "volume": 120
   },
   {
-   "symbol": "CBIBF",
-   "shortName": "Coris Bank International",
-   "close": 31000,
-   "change": 1.62,
-   "volume": 11
+   "symbol": "ORAC",
+   "shortName": "Orange Côte d’Ivoire",
+   "close": 21300,
+   "change": 2.65,
+   "volume": 229
   },
   {
-   "symbol": "BOAM",
-   "shortName": "BOA Mali",
-   "close": 5750,
-   "change": 0.88,
-   "volume": 108
+   "symbol": "ABJC",
+   "shortName": "Servair Abidjan",
+   "close": 3085,
+   "change": 2.49,
+   "volume": 128
   },
   {
-   "symbol": "TTLS",
-   "shortName": "TotalEnergies Marketing Sénégal",
-   "close": 3675,
-   "change": 0.68,
-   "volume": 93
+   "symbol": "NSBC",
+   "shortName": "NSIA Banque CI",
+   "close": 20995,
+   "change": 0.94,
+   "volume": 140
   },
   {
-   "symbol": "ORGT",
-   "shortName": "Oragroup Togo",
-   "close": 2800,
-   "change": 0.36,
-   "volume": 300
+   "symbol": "TTLC",
+   "shortName": "TotalEnergies Marketing CI",
+   "close": 2900,
+   "change": 0.87,
+   "volume": 170
   }
  ],
  "losers": [
   {
-   "symbol": "SGBC",
-   "shortName": "Société Générale CI",
-   "close": 38400,
-   "change": -1.42,
-   "volume": 1056
+   "symbol": "SHEC",
+   "shortName": "Vivo Energy CI",
+   "close": 2060,
+   "change": -5.29,
+   "volume": 275
   },
   {
-   "symbol": "PALC",
-   "shortName": "Palm CI",
-   "close": 7600,
-   "change": -1.36,
-   "volume": 75
+   "symbol": "PRSC",
+   "shortName": "Tractafric Motors CI",
+   "close": 4050,
+   "change": -3.57,
+   "volume": 10
   },
   {
-   "symbol": "UNXC",
-   "shortName": "Uniwax CI",
-   "close": 2085,
-   "change": -0.95,
-   "volume": 89
+   "symbol": "BBGC",
+   "shortName": "Bridge Bank Group CI",
+   "close": 10000,
+   "change": -3.38,
+   "volume": 4945
   },
   {
-   "symbol": "NEIC",
-   "shortName": "NEI-CEDA CI",
-   "close": 2075,
-   "change": -0.72,
-   "volume": 50
+   "symbol": "SDCC",
+   "shortName": "SODECI",
+   "close": 12510,
+   "change": -2.91,
+   "volume": 359
   },
   {
-   "symbol": "BICB",
-   "shortName": "BIIC Bénin",
-   "close": 8400,
-   "change": -0.71,
-   "volume": 94
+   "symbol": "BOABF",
+   "shortName": "BOA Burkina Faso",
+   "close": 7800,
+   "change": -1.83,
+   "volume": 297
   }
  ],
  "mostActive": [
   {
    "symbol": "SNTS",
    "shortName": "Sonatel",
-   "close": 42600,
-   "change": -0.47,
-   "volume": 2582
-  },
-  {
-   "symbol": "SGBC",
-   "shortName": "Société Générale CI",
-   "close": 38400,
-   "change": -1.42,
-   "volume": 1056
+   "close": 42650,
+   "change": -0.35,
+   "volume": 5723
   },
   {
    "symbol": "BBGC",
    "shortName": "Bridge Bank Group CI",
-   "close": 10300,
-   "change": -0.48,
-   "volume": 1009
+   "close": 10000,
+   "change": -3.38,
+   "volume": 4945
+  },
+  {
+   "symbol": "SGBC",
+   "shortName": "Société Générale CI",
+   "close": 38955,
+   "change": 0,
+   "volume": 1101
   },
   {
    "symbol": "BOAC",
    "shortName": "BOA Côte d’Ivoire",
-   "close": 11310,
-   "change": 0,
-   "volume": 630
+   "close": 11300,
+   "change": -0.09,
+   "volume": 788
   },
   {
-   "symbol": "BOAB",
-   "shortName": "BOA Bénin",
-   "close": 9200,
-   "change": 0,
-   "volume": 359
+   "symbol": "BOAN",
+   "shortName": "BOA Niger",
+   "close": 4505,
+   "change": 0.11,
+   "volume": 1747
   }
  ]
 }

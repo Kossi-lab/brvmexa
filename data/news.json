@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-10-20T10:02:18.440Z",
+ "updatedAt": "2026-10-20T10:30:07.847Z",
  "items": [
+  {
+   "id": "sika-65078",
+   "title": "Congo : Dès janvier 2027, les opérateurs de transferts d'argent devront utiliser des terminaux électroniques",
+   "summary": "À compter de janvier 2027, les opérateurs de transferts d'argent au Congo devront utiliser des terminaux électro...",
+   "url": "https://www.sikafinance.com/marches/congo-des-janvier-2027-les-operateurs-de-transferts-d-argent-devront-utiliser-des-terminaux-electroniques_65078",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-20T10:05:00Z",
+   "symbols": []
+  },
   {
    "id": "sika-65076",
    "title": "Journées Portes Ouvertes à Daloa : La SIB au plus près des acteurs économiques du Haut-Sassandra",
@@ -1883,18 +1895,6 @@
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-02-06T08:00:00.000Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-ytxl34",
-   "title": "Félix Amenounve, l’architecte togolais de la finance ouest-africaine",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQczNDMUNOZkE2a0ZlRW9hc2ZuX0xYTFFSM3EwalpoODd1TWlVNm5JeU4wcmlmUUpfXzlDNU45dlRnSDRCUTEtV0tXLWlkRDZZUUdOeWJST3BKbWFSRU1OdVVFcHVGTDFjRzN0NUZvMnI4Y1dmeWh0MWpGR2FxSDFVUEVPUXUzeFhKLVBLdzkzajZnV1ZhU1EzWDJpZldLN0kyUTFNOXo5TWxsWDQwUEdITzl0elJlUHBHSTNHTUJoTEdDQ2M?oc=5",
-   "image": null,
-   "source": "Jeune Afrique",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-02-04T08:00:00.000Z",
    "symbols": []
   }
  ]
