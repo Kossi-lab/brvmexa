@@ -1,124 +1,16 @@
 {
- "updatedAt": "2026-10-20T08:37:34.364Z",
- "sessionDate": "2026-10-19",
- "sessionTime": "22:45",
+ "updatedAt": "2026-10-20T09:26:31.508Z",
+ "sessionDate": "2026-10-20",
+ "sessionTime": "09:15",
  "source": "brvm.org",
- "transactionsValue": 1937595319,
+ "transactionsValue": 0,
  "capitalisationActions": 20764665920175,
- "capitalisationBonds": 13472560707431,
- "advancing": 13,
- "declining": 27,
- "unchanged": 8,
- "totalVolume": 1363225,
- "gainers": [
-  {
-   "symbol": "BNBC",
-   "shortName": "Bernabé CI",
-   "close": 1850,
-   "change": 2.49,
-   "volume": 1455
-  },
-  {
-   "symbol": "BOAB",
-   "shortName": "BOA Bénin",
-   "close": 9200,
-   "change": 2.22,
-   "volume": 1001
-  },
-  {
-   "symbol": "ECOC",
-   "shortName": "Ecobank Côte d’Ivoire",
-   "close": 16200,
-   "change": 1.89,
-   "volume": 473
-  },
-  {
-   "symbol": "NSBC",
-   "shortName": "NSIA Banque CI",
-   "close": 20800,
-   "change": 1.41,
-   "volume": 926
-  },
-  {
-   "symbol": "PALC",
-   "shortName": "Palm CI",
-   "close": 7705,
-   "change": 1.38,
-   "volume": 2726
-  }
- ],
- "losers": [
-  {
-   "symbol": "TTLC",
-   "shortName": "TotalEnergies Marketing CI",
-   "close": 2875,
-   "change": -7.26,
-   "volume": 1030
-  },
-  {
-   "symbol": "SCRC",
-   "shortName": "Sucrivoire CI",
-   "close": 2150,
-   "change": -5.29,
-   "volume": 9166
-  },
-  {
-   "symbol": "CIEC",
-   "shortName": "CIE Côte d’Ivoire",
-   "close": 5550,
-   "change": -4.31,
-   "volume": 4199
-  },
-  {
-   "symbol": "BOAN",
-   "shortName": "BOA Niger",
-   "close": 4500,
-   "change": -4.26,
-   "volume": 7948
-  },
-  {
-   "symbol": "ONTBF",
-   "shortName": "Onatel Burkina Faso",
-   "close": 2900,
-   "change": -3.17,
-   "volume": 5215
-  }
- ],
- "mostActive": [
-  {
-   "symbol": "SNTS",
-   "shortName": "Sonatel",
-   "close": 42800,
-   "change": -1.61,
-   "volume": 20681
-  },
-  {
-   "symbol": "SGBC",
-   "shortName": "Société Générale CI",
-   "close": 38955,
-   "change": -0.13,
-   "volume": 3609
-  },
-  {
-   "symbol": "BBGC",
-   "shortName": "Bridge Bank Group CI",
-   "close": 10350,
-   "change": -0.38,
-   "volume": 8436
-  },
-  {
-   "symbol": "ETIT",
-   "shortName": "Ecobank Transnational (ETI)",
-   "close": 65,
-   "change": 0,
-   "volume": 1197821
-  },
-  {
-   "symbol": "BOABF",
-   "shortName": "BOA Burkina Faso",
-   "close": 7945,
-   "change": -0.81,
-   "volume": 9544
-  }
- ]
+ "capitalisationBonds": 13467065907431,
+ "advancing": 0,
+ "declining": 0,
+ "unchanged": 48,
+ "totalVolume": 0,
+ "gainers": [],
+ "losers": [],
+ "mostActive": []
 }

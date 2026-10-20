@@ -1,6 +1,32 @@
 {
- "updatedAt": "2026-10-20T08:37:57.669Z",
+ "updatedAt": "2026-10-20T09:26:56.003Z",
  "items": [
+  {
+   "id": "sika-65076",
+   "title": "Journées Portes Ouvertes à Daloa : La SIB au plus près des acteurs économiques du Haut-Sassandra",
+   "summary": "Daloa, Côte d'Ivoire – Fidèle à son engagement de proximité, la Société Ivoirienne de Banque (SIB) a lancé ...",
+   "url": "https://www.sikafinance.com/marches/journees-portes-ouvertes-a-daloa-la-sib-au-plus-pres-des-acteurs-economiques-du-haut-sassandra_65076",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-20T08:40:00Z",
+   "symbols": [
+    "SIBC"
+   ]
+  },
+  {
+   "id": "sika-65075",
+   "title": "Sénégal : Ousmane Sonko appelle à un blocage de la loi de finances rectificative",
+   "summary": "Au Sénégal, une confrontation s'annonce entre le gouvernement et l'Assemblée nationale. Une situation qui risque d'affe...",
+   "url": "https://www.sikafinance.com/marches/senegal-ousmane-sonko-appelle-a-un-blocage-de-la-loi-de-finances-rectificative_65075",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-20T08:35:00Z",
+   "symbols": []
+  },
   {
    "id": "sika-65073",
    "title": "Shelter Afrique Development Bank et Vista Group Holding s’allient pour accélérer le financement de logements abordables en Afrique de l’Ouest",
@@ -1869,30 +1895,6 @@
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-02-04T08:00:00.000Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-11brl6j",
-   "title": "Comment gagner de l’argent en investissant en bourse en 2026",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR29HODNMUmRrZTBTXzJSRVlmcTBiNG0yZ1hDclhNNFdlOTNRbUhYUVdkc2x6ZkQxR29XdnkzVkptS2NWRXdKcFN2VkFSdVNZRDJFSmQ3RjVnd2hpWk42N1pXTDBKZkZJUDlGYUY5Y3I1ajlTZXdDdHRzT0NnbndKTnN1bU81emxsajExeGJ4SXlwTEhJQTRoekR3bDc1OW9UMVdjVQ?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-01-25T08:00:00.000Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-w0dfo7",
-   "title": "Comment la Bourse d’Abidjan cherche à sortir de l’ombre des États",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbmdic2Y4WmFRbzhSYlZGbno3Z2JkUlg3eUYtZlhvMG13YmxaSXBoMVRGX1hXUUJsQldCSS1wREU3c0p1ZGUtUnZzcl9lakJ3VWxtdXVGMnNIQjRTSy1oaU9ZVEVwVUh2UGRRS3ZibzdGMU1hNTdCZllPeXpITTF3bTQwd0M3QXRfTFVmN3hqNE9YV1RSNGxRZE9iZEpNRzZTd0NpUy1SREtpVDdfWlJUMDdsZ2R5OEZQSkkyQi0tUQ?oc=5",
-   "image": null,
-   "source": "Jeune Afrique",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-01-21T08:00:00.000Z",
    "symbols": []
   }
  ]
