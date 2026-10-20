@@ -1,6 +1,30 @@
 {
- "updatedAt": "2026-10-20T16:36:12.415Z",
+ "updatedAt": "2026-10-20T17:38:09.470Z",
  "items": [
+  {
+   "id": "gn-1i44ytm",
+   "title": "La quotidienne des marchés boursiers africains….",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQ1RlQk1qYXc5WVA0Z1NuTzY1VzdIejFMTngwTXRCWDlqamF1Ti1mOXBac29RQXNwcHA1TlFIRWNudlZDaHl3T28tRlIwX1NBSGJxckxmNFA4NEMyeWVSX1FIdTNlMWZHTWxEajd5M0xucGNIeC1QT1N0azlLbnlESU1VZm1zU2hfMXFJNU9nYUkwak0?oc=5",
+   "image": null,
+   "source": "Financial Afrik",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-10-20T17:21:03.000Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65099",
+   "title": "Burkina Faso : Les investissements dans les services publics affichent une efficacité de seulement 37%",
+   "summary": "Ouagadougou veut bâtir ses routes, ses centrales et ses retenues d'eau sans creuser sa dette. Le pari tient en tr...",
+   "url": "https://www.sikafinance.com/marches/burkina-faso-les-investissements-dans-les-services-publics-affichent-une-efficacite-de-seulement-37_65099",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-10-20T17:12:00Z",
+   "symbols": []
+  },
   {
    "id": "sika-65094",
    "title": "BRVM : Les investisseurs engagent plus de 5 milliards FCFA dans un marché en repli",
@@ -51,9 +75,9 @@
   },
   {
    "id": "sika-65087",
-   "title": "Congo : 1 670,7 milliards FCFA remboursés sur 1 779,6 milliards FCFA de service de la dette prévu entre janvier et juillet 2026",
+   "title": "Congo : 1 671 milliards FCFA remboursés sur 1 780 milliards FCFA de service de la dette prévu entre janvier et juillet 2026",
    "summary": "Entre janvier et juillet 2026, la République du Congo a consacré 1 670,7 milliards FCFA au remboursement du principal d...",
-   "url": "https://www.sikafinance.com/marches/congo-1-670-7-milliards-fcfa-rembourses-sur-1-779-6-milliards-fcfa-de-service-de-la-dette-prevu-entre-janvier-et-juillet-2026_65087",
+   "url": "https://www.sikafinance.com/marches/congo-1-671-milliards-fcfa-rembourses-sur-1-780-milliards-fcfa-de-service-de-la-dette-prevu-entre-janvier-et-juillet-2026_65087",
    "image": null,
    "source": "Sika Finance",
    "category": "Marchés",
@@ -880,6 +904,20 @@
    "publishedAt": "2026-09-25T07:00:00.000Z",
    "symbols": [
     "BBGC"
+   ]
+  },
+  {
+   "id": "gn-1pgu4xj",
+   "title": "Marchés africains : Sonatel veut élargir sa base d’investisseurs",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxON2tmR2lYYlJ4OU91TUdZODJvN0tuOGZtNWh2QU9FT0dLUzNzaGJlcEQ4WmI4SUpBc3ZwTXp0S2Y0aXZSblphaE93djMyTDdRaGUxZm9XYXczR3ZJek41ZVV1TUVEd3pEMmtxVExsNUFMUWlJa0RkamNlelg0MWJzcGNGNzhRY3gxMGcwcUE2Mmh5MTZ1UEFR?oc=5",
+   "image": null,
+   "source": "Capmad",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-09-24T07:00:00.000Z",
+   "symbols": [
+    "SNTS"
    ]
   },
   {
@@ -1855,44 +1893,6 @@
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-04-18T07:00:00.000Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-1pda131",
-   "title": "NSIA Banque CI : première cotation des obligations de titrisation « FCTC Keur Samba » sur la BRVM",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPdEJoQjJoTlpJa1h2X2ZYQ2ZQcUhYYS1wYUdMdFVsMU0wRHZuSERPM3lhNG01ZkRoaDdJY0R5Umh2OXZKSG9ldEp0NzQxYXd6U0VOYjZBSVN4VjVUNGRCVXZzbWxGdzVjX3ZjSGlZWmtfQVIyb0VfN0tid05uNUtZLVEzV1NzT0hMQnZSbEUxRmktMG9Wa3pWSkFzNG8xSURZUTNYTmg0UzBETkFwTEVxUTBPRHNfSVhzemJWQ0lpZHF2MkppbUJYcDkwWnVaT1RTVUNjRnpNWU85UGhRTXhQMVhYMEpiUQ?oc=5",
-   "image": null,
-   "source": "AGENCE ECOFIN",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-04-10T07:00:00.000Z",
-   "symbols": [
-    "NSBC"
-   ]
-  },
-  {
-   "id": "gn-a1o1w3",
-   "title": "La BRVM Se Prépare À Lancer Ses Premiers ETF Et Produits Dérivés",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMG1Ickd6c0JpVVVyQk1uYk5nME1qUXFGYnV2YVhvS2twaUNVV2tZcU5CelllanBzUVR5MC11ZzlPOWxCc0Uta1pzQ1AxRGVyQTZuMl92OFdzejhkeGdzS3JRaWVyM0RBVWc0V1RqNmplaXRXSFplb0dEamZpazlWRnRsekVpU2YzeHBvMzZPaXRDQnIzSlE?oc=5",
-   "image": null,
-   "source": "Forbes Afrique",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-04-07T07:00:00.000Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-14uanug",
-   "title": "L’introduction en bourse de la raffinerie de Dangote sur plusieurs marchés, dont la BRVM, en discussion",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQeS1tVjFaM2x5ZC0yZGZjWTdEN2xlalVUWUt1LWluSlNDY3pTQTJZd3FjQ3JOd3BtSTgzeFZWMWgyblU2WWh3RHlUZjYxUDVxdnZiUy1kcUwwRy1vdDMwaDFLREllalp4TzZvTHp4U1dTMVdVY1E0TTdDRTFIUWxOeEM3ZlU3ODFiYnc5RkR3cHIySTktbklNZGxBY2RnSmo4RVJjWTV4eXZ5MjRTUVloVXBnLWUwMEdadlFodXBBUHNDSmtwZmdhN01ZMFBMYXRzbGFIYkVzNERlQQ?oc=5",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-04-07T07:00:00.000Z",
    "symbols": []
   }
  ]
