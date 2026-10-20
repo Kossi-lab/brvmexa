@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-20T14:07:12.722Z",
+ "updatedAt": "2026-10-20T14:46:22.258Z",
  "items": [
   {
    "id": "sika-65090",
@@ -72,6 +72,20 @@
    "premium": false,
    "publishedAt": "2026-10-20T10:05:00Z",
    "symbols": []
+  },
+  {
+   "id": "gn-pfcddy",
+   "title": "Bridge Bank Group (BBGC) — BRVM",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VWFNIS3puU1RSY09PZGRsWkVIcnh4cHM3ZXFnd2lVbmR1OGU3dFRfMG92UENpbkdnVjNnNGpvckliaWthcXBZaVBjeVVFZXBodzNCZEpSU1hBN1FXbDlLSC0yb0Nvdw?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-10-20T08:51:29.000Z",
+   "symbols": [
+    "BBGC"
+   ]
   },
   {
    "id": "sika-65076",
@@ -567,34 +581,6 @@
    "symbols": []
   },
   {
-   "id": "gn-1lzzfnd",
-   "title": "Bank of Africa - Benin (BOAB) — BRVM",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE04a2FES05hTmtBQk4tOGt5WTU0M0IzTl9DLUlmaDNPOVFwX0w1QzZwM3V3Nk9pNklRcUxCVWVmaFFkUjRJeXp6Q3JRMlRLNTdmMHlrb2JXVmxWVy1Pei04WHBBclBXZw?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-10-16T07:00:00.000Z",
-   "symbols": [
-    "BOAB"
-   ]
-  },
-  {
-   "id": "gn-pfcddy",
-   "title": "Bridge Bank Group (BBGC) — BRVM",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VWFNIS3puU1RSY09PZGRsWkVIcnh4cHM3ZXFnd2lVbmR1OGU3dFRfMG92UENpbkdnVjNnNGpvckliaWthcXBZaVBjeVVFZXBodzNCZEpSU1hBN1FXbDlLSC0yb0Nvdw?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-10-16T07:00:00.000Z",
-   "symbols": [
-    "BBGC"
-   ]
-  },
-  {
    "id": "sika-64985",
    "title": "Côte d’Ivoire/5G : Le gouvernement fixe les modalités financières de libération des fréquences",
    "summary": "Le gouvernement ivoirien a adopté le mercredi 14 octobre 2026 à Abidjan un décret capital fixant les modalités financiè...",
@@ -1084,6 +1070,20 @@
    "publishedAt": "2026-09-03T01:08:53.000Z",
    "symbols": [
     "BOABF"
+   ]
+  },
+  {
+   "id": "gn-1lzzfnd",
+   "title": "Bank of Africa - Benin (BOAB) — BRVM",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE04a2FES05hTmtBQk4tOGt5WTU0M0IzTl9DLUlmaDNPOVFwX0w1QzZwM3V3Nk9pNklRcUxCVWVmaFFkUjRJeXp6Q3JRMlRLNTdmMHlrb2JXVmxWVy1Pei04WHBBclBXZw?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-09-03T01:08:34.000Z",
+   "symbols": [
+    "BOAB"
    ]
   },
   {
