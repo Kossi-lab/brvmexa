@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-10-21T16:36:42.770Z",
+ "updatedAt": "2026-10-21T17:34:02.079Z",
  "items": [
+  {
+   "id": "sika-65153",
+   "title": "Budgets 2027 : Le Burkina Faso et le Bénin plafonnent leur déficit sous 3% du PIB",
+   "summary": "Deux États, deux partitions, un même métronome. À Ouagadougou comme à Cotonou, les gouvernements ont calé...",
+   "url": "https://www.sikafinance.com/marches/budgets-2027-le-burkina-faso-et-le-benin-plafonnent-leur-deficit-sous-3-du-pib_65153",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-21T17:29:00Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65152",
+   "title": "AFG Holding récompensé pour la conduite du changement",
+   "summary": "AFG Holding a reçu le Trophée ESSEC Business School de la Transformation, une distinction qui met en lumière le ...",
+   "url": "https://www.sikafinance.com/marches/afg-holding-recompense-pour-la-conduite-du-changement_65152",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-21T17:15:00Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65150",
+   "title": "BRVM : Total Sénégal gagne plus de 7 % dans un marché toujours attentiste",
+   "summary": "La BRVM peine à retrouver son souffle. Pour cette nouvelle séance, la tendance baissière se prolonge, avec une large pr...",
+   "url": "https://www.sikafinance.com/marches/brvm-total-senegal-gagne-plus-de-7-dans-un-marche-toujours-attentiste_65150",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-21T16:36:00Z",
+   "symbols": [
+    "TTLS"
+   ]
+  },
   {
    "id": "sika-65148",
    "title": "Data science, IA, Ingénierie… : Le Benin veut attirer les nouveaux talents dans l’administration publique",
@@ -1489,24 +1527,24 @@
    "symbols": []
   },
   {
-   "id": "gn-3d44yk",
-   "title": "La BRVM franchit le cap des 20 000 milliards FCFA de capitalisation",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYTVmVE1YeXZzNVR5SlFRSjdmUmFlenlFUzBOSkN2NjB1MFhoTzhkWlJ5MW9xSWdONFJBTU00V2RVR2stdXZvLVB3ZndSYVk4cWhRUlRLVGpPZTNvd3BHXzJCemJnZmo3U1ZkQVJjMkp2bHZXMDduOW84X0VTNUlNdGhsWVlwMHBDR3pEbEdsNTFfSXRDbWl0bzBLSEdRSVBwWHdlN3M2MjM1bndzaFE?oc=5",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-08-21T07:00:00.000Z",
-   "symbols": []
-  },
-  {
    "id": "gn-jc7rf2",
    "title": "La BRVM franchit le cap des 20 000 milliards de Fcfa",
    "summary": null,
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTEpXYXVkUGx3QkJvSGFRN0QwcU5rOEI0TTJ3cHZ4eXk3STNJNS10M05qRDV5NDRpeU9RYzJmVGhVNUZ5anVScGFiWGlxd1hnUGk4dGRRUy00bTlxRkZBZW9XaG13UXhGRXNITVdpU255X1czdnMxUWtzUmdRbzY5YXRaZDlYU1JqZDRDWU9B?oc=5",
    "image": null,
    "source": "APAnews - Agence de Presse Africaine",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-08-21T07:00:00.000Z",
+   "symbols": []
+  },
+  {
+   "id": "gn-3d44yk",
+   "title": "La BRVM franchit le cap des 20 000 milliards FCFA de capitalisation",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYTVmVE1YeXZzNVR5SlFRSjdmUmFlenlFUzBOSkN2NjB1MFhoTzhkWlJ5MW9xSWdONFJBTU00V2RVR2stdXZvLVB3ZndSYVk4cWhRUlRLVGpPZTNvd3BHXzJCemJnZmo3U1ZkQVJjMkp2bHZXMDduOW84X0VTNUlNdGhsWVlwMHBDR3pEbEdsNTFfSXRDbWl0bzBLSEdRSVBwWHdlN3M2MjM1bndzaFE?oc=5",
+   "image": null,
+   "source": "Sika Finance",
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-08-21T07:00:00.000Z",
@@ -1851,46 +1889,6 @@
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-07-07T07:00:00.000Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-1m6h1fm",
-   "title": "Bridge Bank Côte d’Ivoire cédera 20 % de son capital sur la BRVM pour 117,6 millions $",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORTZxZV9LSlVnc1NaZEdTV0Y3eHRGWmlfcXlFM09nYTQ5Q1NCRmJvd0lIeE9maWpWT09MSmtTM0pXZUdvVzk0WkVaWEwyM0treDNacFZKdEp5b1YzZ1drSjlCOFBhTFpCY1RpSUlUMjR6STZqSHVKV2Z0RWtOdnZka0FhUENFTHJXcnBaN1FtVk8yZjFrSlFydU1UMXZzMHUtYnc4YnU0cjlEZXV6VmR4UTB4dl9vRTVlei1zazFiRUZBOHVQN3ZfR0x5MWVZMXJlVXAzMWV0NWZDQQ?oc=5",
-   "image": null,
-   "source": "AGENCE ECOFIN",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-07-07T07:00:00.000Z",
-   "symbols": [
-    "BBGC"
-   ]
-  },
-  {
-   "id": "gn-1yvdkq5",
-   "title": "BRVM : Les investisseurs engagent plus de 1,5 milliard FCFA sur ECOBANK CI",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSmlpUjNzX3E5QzMtYzhDOWJvcndFbjlRWEZxQzVvclZCYjBzS1ZkM1RxN2g5VElyd2doSVVWaEVUZmNsT0VCamZGLTZNZEs3SnhLbFN0blh2eE5ISVQtdWthOGFLamlmUFBFNlZYM053aXFYMWNybUZjV0taYjZfWm1jVmNSV3hSOXVMWnhHY25jRGtQbDJoMzd6RVlUOFI2UTZqVG91WE9tLVd3cEo1TVBWcUY?oc=5",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-07-07T07:00:00.000Z",
-   "symbols": [
-    "ECOC"
-   ]
-  },
-  {
-   "id": "gn-mgmy2c",
-   "title": "Ce que l’on sait de l’envolée boursière d’Ecobank à la BRVM",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVU10TlNRNWlRdWtJUWFjZ1YxbUphZks2bmlNSlRsVkJFTjJQbGF0SUY0bWhMcDliZU50djFpS0M2cldKZ3l2QUVEdlJHUTIwRGtVTml3dzBoX2YtM1ZHOEVWaG9objJPNUtqalBtYnV6RmxXcjVTWGJMQ3pKVkZ1Y2owcEZJTXJ6Z2lJeDhqXzJBSkROcFdZRThrOWxNR2dxSVhuNVJreVUxemFsUTA1VEd6Y3NXdw?oc=5",
-   "image": null,
-   "source": "Jeune Afrique",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-07-04T07:00:00.000Z",
    "symbols": []
   }
  ]
