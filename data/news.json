@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-10-21T13:57:35.781Z",
+ "updatedAt": "2026-10-21T14:28:08.811Z",
  "items": [
+  {
+   "id": "sika-65140",
+   "title": "Dabali Xpress ouvre un 6è restaurant dans la grande commune de Yopougon, à Abidjan",
+   "summary": "La chaîne ivoirienne de restauration rapide Dabali Xpress ouvrira, le 5 novembre 2026, une nouvelle adresse à Abi...",
+   "url": "https://www.sikafinance.com/marches/dabali-xpress-ouvre-un-6e-restaurant-dans-la-grande-commune-de-yopougon-a-abidjan_65140",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-21T14:30:00Z",
+   "symbols": []
+  },
   {
    "id": "sika-65138",
    "title": "Corridor Ghana - Nigeria : Le PAPSS intègre le mobile money aux paiements transfrontaliers pour contourner le dollar",
@@ -1879,18 +1891,6 @@
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-06-09T07:00:00.000Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-182iorg",
-   "title": "La BRVM alerte sur l’utilisation abusive de son image et appelle à la vigilance",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPaVVlSkZ2Smc4aTlDWV9vNFJlemRrZkMyWlE2a21CUU5abjFiQ1F4eFdaOHFGb0s2OGVPcm1hVkRSSTF6U2V0QlRLWEFOTEw3RkRVSmxjOEp3Y2JXN1dSeWxyeEJhcm90SjdMM1d0TnVfU3ZLYlN0X1ExM1RJWVljZHFkLVg5RktVR2FmV0VlQ1BRdWhyMVdqQUFDekRIb1FSNEEwSjdQa09jeG9nNUkzVTFxWXhSOFJEbGhEaEMweWJMeWZubER2UEVlLWE3VEpRQWdYUkJOaUhaZzl1MXdqZy1tb2RZdnhBZ1dBdTFLd1B1VEI3WWZHMlpnZGpnUQ?oc=5",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-06-08T07:00:00.000Z",
    "symbols": []
   }
  ]
