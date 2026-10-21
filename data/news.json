@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-10-21T12:28:52.146Z",
+ "updatedAt": "2026-10-21T13:17:09.390Z",
  "items": [
+  {
+   "id": "sika-65133",
+   "title": "Côte d’Ivoire : Canal+ inaugure les studios Mancala, un complexe audiovisuel aux standards internationaux",
+   "summary": "Faire émerger des productions capables de séduire les téléspectateurs au-delà des frontières suppose aussi de disposer ...",
+   "url": "https://www.sikafinance.com/marches/cote-divoire-canal-inaugure-les-studios-mancala-un-complexe-audiovisuel-aux-standards-internationaux_65133",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-21T12:23:00Z",
+   "symbols": []
+  },
   {
    "id": "sika-65126",
    "title": "Côte d’Ivoire : AG CONSULTING veut accroître la compétitivité des entreprises via son offre en Intelligence Économique",
@@ -1061,24 +1073,24 @@
    ]
   },
   {
-   "id": "gn-1hvzco1",
-   "title": "BRVM : Le marché retient son souffle, le composite cédant plus de 3%",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb1A2WDFGeEJJYUgwQUw1dXh5UTlzTHppMmROZEZVWXhsbXBFSHg4eFZaVHphclFaQTZCZzRQSjJmWDdyVFdFNllsUU55YVNHYlJnbWtCZEZKd0dnd3JvbFZ2cjkwcjk0ZWhHdWtHdTE0SGNaS2g3aTJaM3U2RElqa09TV1k2QVcxU2ZaQU51N3pFV1JkVDhFWWhETkwzTjQ0V3NwZmlVc0Ytdw?oc=5",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-09-23T07:00:00.000Z",
-   "symbols": []
-  },
-  {
    "id": "gn-mle0vk",
    "title": "Le Sénégal réussit sa première cotation obligataire à la BRVM",
    "summary": null,
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNXlETjYxcUplM2VubTZJdFAtbHE2WTNFUkszTGFyVS1IVXRSS2U4dDBPbEM0RlZ3S3lQR2c4VVM2MWJIWjFDaU1NN1owdFZwdFFlVmxQbkhYWVMxVEV2Qlp0bVY3M2tkOTF0YTBrYVZTRXhpWkpCdmE4cEFyQWRZRTdjUGFQN0FORzdFcXBPdE1iaEIxSGRDWmdB?oc=5",
    "image": null,
    "source": "Africtelegraph",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-09-23T07:00:00.000Z",
+   "symbols": []
+  },
+  {
+   "id": "gn-1hvzco1",
+   "title": "BRVM : Le marché retient son souffle, le composite cédant plus de 3%",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb1A2WDFGeEJJYUgwQUw1dXh5UTlzTHppMmROZEZVWXhsbXBFSHg4eFZaVHphclFaQTZCZzRQSjJmWDdyVFdFNllsUU55YVNHYlJnbWtCZEZKd0dnd3JvbFZ2cjkwcjk0ZWhHdWtHdTE0SGNaS2g3aTJaM3U2RElqa09TV1k2QVcxU2ZaQU51N3pFV1JkVDhFWWhETkwzTjQ0V3NwZmlVc0Ytdw?oc=5",
+   "image": null,
+   "source": "Sika Finance",
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-09-23T07:00:00.000Z",
@@ -1506,15 +1518,15 @@
    ]
   },
   {
-   "id": "gn-hpqlie",
+   "id": "gn-6k4xbp",
    "title": "BRVM : 4 actions phares en forte progression, ETIT bondit de +97,3% en 30 jours",
    "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9henNlZGxWdkhHZzNaUkk1S2lTRW1XNUNNNjFsamtQOHphYllzTnJEdkl4MUItUUpVMVlRQ1VvLXl2R0pXbDdmZzB4QkVzWFBYZ3VsNUpBSnFaWlFfNjRxMW9XajNfS2UyUUVDak9xcGlZeVo1Q0ZjMGtB?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qdm9LZFFIeVI4eDhHYlJITGJNQ1pXR0d4bGpWdExRXzZfT2ZKcGNKcUh2YUx0R3VwUlpIZjBjRDYzd3ZvZDFISDYzX1hDNm9xVTlCTUpLT3NDcXVNVzloZzh5di03Y2JkM2t5SXNEbVMwVGhR?oc=5",
    "image": null,
    "source": "Dabafinance",
    "category": "Presse",
    "premium": false,
-   "publishedAt": "2026-07-25T07:00:00.000Z",
+   "publishedAt": "2026-07-24T07:00:00.000Z",
    "symbols": [
     "ETIT"
    ]
@@ -1879,18 +1891,6 @@
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-05-27T07:00:00.000Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-afheld",
-   "title": "KAYDAN Technology accueille la BRVM : un pas décisif vers l’émergence d’un champion technologique ivoirien coté en bourse",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSV9oMmItRlRiamJqakFTMlNlSHczM01mbE9sVHRpTFVRMWloRG9FX1NyLU9EemJBOXl3MnN4Y1VCM1NvbFAzOElhM2NGbHlTV0Q4c2ZhZm5GMXd2bWJsZXpwVXFBclBXcUIzdHY5dndiLUpWWFFhRUs3SjQ1NmVzZHdqbHdkcjdpTW9meGV0UFJnbHAzQmhBMThnTzA0eGMyOWJWYmlERDFtR0JDZVV5S3RvSUZoY2tCUWVGai13X0psZ0t6REpyeWl2VjhlR1BZLXQzTw?oc=5",
-   "image": null,
-   "source": "CIO Mag",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-05-21T07:00:00.000Z",
    "symbols": []
   }
  ]
