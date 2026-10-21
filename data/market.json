@@ -1,16 +1,110 @@
 {
- "updatedAt": "2026-10-21T09:26:38.878Z",
+ "updatedAt": "2026-10-21T10:02:22.020Z",
  "sessionDate": "2026-10-21",
- "sessionTime": "09:15",
+ "sessionTime": "09:45",
  "source": "brvm.org",
- "transactionsValue": 0,
- "capitalisationActions": 20569126649885,
- "capitalisationBonds": 13473460607386,
- "advancing": 0,
- "declining": 0,
- "unchanged": 48,
- "totalVolume": 0,
- "gainers": [],
- "losers": [],
- "mostActive": []
+ "transactionsValue": 209903510,
+ "capitalisationActions": 20553478022435,
+ "capitalisationBonds": 13473465358089,
+ "advancing": 3,
+ "declining": 10,
+ "unchanged": 35,
+ "totalVolume": 72650,
+ "gainers": [
+  {
+   "symbol": "BOAS",
+   "shortName": "BOA Sénégal",
+   "close": 8100,
+   "change": 1.25,
+   "volume": 104
+  },
+  {
+   "symbol": "SLBC",
+   "shortName": "Solibra CI",
+   "close": 38990,
+   "change": 1.21,
+   "volume": 17
+  },
+  {
+   "symbol": "BOAC",
+   "shortName": "BOA Côte d’Ivoire",
+   "close": 11300,
+   "change": 0.44,
+   "volume": 277
+  }
+ ],
+ "losers": [
+  {
+   "symbol": "TTLS",
+   "shortName": "TotalEnergies Marketing Sénégal",
+   "close": 3400,
+   "change": -1.45,
+   "volume": 1196
+  },
+  {
+   "symbol": "SIBC",
+   "shortName": "Société Ivoirienne de Banque",
+   "close": 8600,
+   "change": -1.43,
+   "volume": 458
+  },
+  {
+   "symbol": "SIVC",
+   "shortName": "Erium CI",
+   "close": 1680,
+   "change": -1.18,
+   "volume": 430
+  },
+  {
+   "symbol": "CIEC",
+   "shortName": "CIE Côte d’Ivoire",
+   "close": 5150,
+   "change": -0.96,
+   "volume": 1462
+  },
+  {
+   "symbol": "UNXC",
+   "shortName": "Uniwax CI",
+   "close": 2080,
+   "change": -0.95,
+   "volume": 60
+  }
+ ],
+ "mostActive": [
+  {
+   "symbol": "SNTS",
+   "shortName": "Sonatel",
+   "close": 41800,
+   "change": -0.19,
+   "volume": 2126
+  },
+  {
+   "symbol": "SGBC",
+   "shortName": "Société Générale CI",
+   "close": 39000,
+   "change": 0,
+   "volume": 1390
+  },
+  {
+   "symbol": "BBGC",
+   "shortName": "Bridge Bank Group CI",
+   "close": 9750,
+   "change": -0.51,
+   "volume": 1272
+  },
+  {
+   "symbol": "SDCC",
+   "shortName": "SODECI",
+   "close": 12000,
+   "change": -0.08,
+   "volume": 951
+  },
+  {
+   "symbol": "CIEC",
+   "shortName": "CIE Côte d’Ivoire",
+   "close": 5150,
+   "change": -0.96,
+   "volume": 1462
+  }
+ ]
 }
