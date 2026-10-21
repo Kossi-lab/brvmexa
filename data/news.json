@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-21T11:51:03.674Z",
+ "updatedAt": "2026-10-21T12:28:52.146Z",
  "items": [
   {
    "id": "sika-65126",
@@ -1061,6 +1061,18 @@
    ]
   },
   {
+   "id": "gn-1hvzco1",
+   "title": "BRVM : Le marché retient son souffle, le composite cédant plus de 3%",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb1A2WDFGeEJJYUgwQUw1dXh5UTlzTHppMmROZEZVWXhsbXBFSHg4eFZaVHphclFaQTZCZzRQSjJmWDdyVFdFNllsUU55YVNHYlJnbWtCZEZKd0dnd3JvbFZ2cjkwcjk0ZWhHdWtHdTE0SGNaS2g3aTJaM3U2RElqa09TV1k2QVcxU2ZaQU51N3pFV1JkVDhFWWhETkwzTjQ0V3NwZmlVc0Ytdw?oc=5",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-09-23T07:00:00.000Z",
+   "symbols": []
+  },
+  {
    "id": "gn-mle0vk",
    "title": "Le Sénégal réussit sa première cotation obligataire à la BRVM",
    "summary": null,
@@ -1494,15 +1506,15 @@
    ]
   },
   {
-   "id": "gn-6k4xbp",
+   "id": "gn-hpqlie",
    "title": "BRVM : 4 actions phares en forte progression, ETIT bondit de +97,3% en 30 jours",
    "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qdm9LZFFIeVI4eDhHYlJITGJNQ1pXR0d4bGpWdExRXzZfT2ZKcGNKcUh2YUx0R3VwUlpIZjBjRDYzd3ZvZDFISDYzX1hDNm9xVTlCTUpLT3NDcXVNVzloZzh5di03Y2JkM2t5SXNEbVMwVGhR?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9henNlZGxWdkhHZzNaUkk1S2lTRW1XNUNNNjFsamtQOHphYllzTnJEdkl4MUItUUpVMVlRQ1VvLXl2R0pXbDdmZzB4QkVzWFBYZ3VsNUpBSnFaWlFfNjRxMW9XajNfS2UyUUVDak9xcGlZeVo1Q0ZjMGtB?oc=5",
    "image": null,
    "source": "Dabafinance",
    "category": "Presse",
    "premium": false,
-   "publishedAt": "2026-07-24T07:00:00.000Z",
+   "publishedAt": "2026-07-25T07:00:00.000Z",
    "symbols": [
     "ETIT"
    ]
@@ -1876,18 +1888,6 @@
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSV9oMmItRlRiamJqakFTMlNlSHczM01mbE9sVHRpTFVRMWloRG9FX1NyLU9EemJBOXl3MnN4Y1VCM1NvbFAzOElhM2NGbHlTV0Q4c2ZhZm5GMXd2bWJsZXpwVXFBclBXcUIzdHY5dndiLUpWWFFhRUs3SjQ1NmVzZHdqbHdkcjdpTW9meGV0UFJnbHAzQmhBMThnTzA0eGMyOWJWYmlERDFtR0JDZVV5S3RvSUZoY2tCUWVGai13X0psZ0t6REpyeWl2VjhlR1BZLXQzTw?oc=5",
    "image": null,
    "source": "CIO Mag",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-05-21T07:00:00.000Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-143ic70",
-   "title": "Côte d’Ivoire : la start-up Kaydan Technology prépare son entrée à la BRVM",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZ3VQOEtySDRnU3pQWTJSRWtMejJDU25FbnUtTHBTZ19nSzh2WFp3TUtmakdUN0MzWlN2M2pTd0hzXzY0UzVsNXE3SzBwZTNNNXFuMWxIRUR6UTlXQ2Zvd3VWM0FuNnQtYWlQWWJQY1dEQjk1NThNR2hXZ3h5YkJSUkpuN2h1RXhwcFJSanhCYmd3Sk9MaDROQmpQWTF5QjJzRksycEpDY3FWalk4ZWQ2WXRvQ21sS2JpdWx4OEg5eDBJenlWRVRqR0s2bVA?oc=5",
-   "image": null,
-   "source": "AGENCE ECOFIN",
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-05-21T07:00:00.000Z",
