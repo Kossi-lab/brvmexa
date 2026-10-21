@@ -1,6 +1,42 @@
 {
- "updatedAt": "2026-10-21T11:16:24.419Z",
+ "updatedAt": "2026-10-21T11:51:03.674Z",
  "items": [
+  {
+   "id": "sika-65126",
+   "title": "Côte d’Ivoire : AG CONSULTING veut accroître la compétitivité des entreprises via son offre en Intelligence Économique",
+   "summary": "Le dynamisme de l'environnement économique commande aux dirigeants de se donner les moyens pour capter la bonne informa...",
+   "url": "https://www.sikafinance.com/marches/cote-divoire-ag-consulting-veut-accroitre-la-competitivite-des-entreprises-via-son-offre-en-intelligence-economique_65126",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-21T11:26:00Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65124",
+   "title": "Sénégal : Les menaces de blocage budgétaire d’Ousmane Sonko font chuter les obligations",
+   "summary": "Au Sénégal, l'incertitude politique se paie déjà sur les marchés financiers. Les déclarations d'Ousmane Sonko, qui mena...",
+   "url": "https://www.sikafinance.com/marches/senegal-les-menaces-de-blocage-budgetaire-dousmane-sonko-font-chuter-les-obligations_65124",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-21T11:19:00Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65123",
+   "title": "Côte d’Ivoire : 50 millions d’euros pour le projet solaire de Kong",
+   "summary": "Le projet de centrale photovoltaïque de Kong, dans le Nord de la Côte d'Ivoire, passe le cap d'une nouvelle ...",
+   "url": "https://www.sikafinance.com/marches/cote-divoire-50-millions-deuros-pour-le-projet-solaire-de-kong_65123",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-21T11:11:00Z",
+   "symbols": []
+  },
   {
    "id": "sika-65113",
    "title": "Technologies financières : La BCEAO lance un laboratoire d’innovation pour expérimenter des services sécurisés",
@@ -1855,42 +1891,6 @@
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-05-21T07:00:00.000Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-1pwdzix",
-   "title": "La BRVM et la BADEA Renforcent leur Partenariat en Faveur des PME",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWUstRXJMVG9faE9tOUpsU3AyQlctMWhnM0RXdVRsWHpnYWo2cFJVVGt3RGNadXQyTUQxREdzSnlTRkJjcm1LeWhyRHlfRjA1Qkc5VkxUWU1VcUdwN3RKVkV1UEZaTTlES2NlTndSVHhfU2pWQ3hQbWhacjRHRzhJa2R6dE9oSkd2eGlTX2VpREN3YU9BTkdN?oc=5",
-   "image": null,
-   "source": "Forbes Afrique",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-05-18T07:00:00.000Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-1cz24jn",
-   "title": "La BRVM prépare un accord stratégique avec la Bourse du Rwanda pour élargir l’offre boursière",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeEdKbXpoaUoxeHV4RTByTDUwc1h6MWU2QXNxUDBONW1Ja3dHdE5xYzMxc240c0pXSF9tdlBJQWoyckxNclZfVkdDYjUyUEFrLW1wQlk1VHlFRXdqNW5rbGk1enEtbjVYTE1FMHZBOEpNOGJ5a2FJb0lKU0NNMjRVbXBLQ0poQ0pBamozRjgtZUt5WGFDOVg2SXdsakpqR0lTUm5LRXRGQnFMdTlhN0ktd3hOTW5PS2toeVdiSWp1SVZfcGtkUllCSGtpc3FiN1p3czBWZks2LWJWMk9pZ1h5RWhkVDVsN3Mt?oc=5",
-   "image": null,
-   "source": "AGENCE ECOFIN",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-05-15T07:00:00.000Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-120b3wz",
-   "title": "Les actions de la BRVM progressent pour la troisième semaine consécutive grâce à l'augmentation des volumes",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeTNweFlVTHZlZ0cwMkF3LVVXMHJxa3NlcnRUREItSXl4SVlxcGdUaVE5bjJuclhUZHVpUTRyMXBxRWhVYzVnTUxmQjZ1TjhGXy1JZGJhU0NNNUp6NE1uSERvTnJyTU5qTDJxa3YyLUZteGxMMGViYUo2ZHhXS2JlQzRva2lmNVJldUpz?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-05-09T07:00:00.000Z",
    "symbols": []
   }
  ]
