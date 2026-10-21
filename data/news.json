@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-10-21T13:17:09.390Z",
+ "updatedAt": "2026-10-21T13:57:35.781Z",
  "items": [
+  {
+   "id": "sika-65138",
+   "title": "Corridor Ghana - Nigeria : Le PAPSS intègre le mobile money aux paiements transfrontaliers pour contourner le dollar",
+   "summary": "La Banque du Ghana étend le Système panafricain de paiement et de règlement (PAPSS) aux portefeuilles mobiles le long d...",
+   "url": "https://www.sikafinance.com/marches/corridor-ghana--nigeria-le-papss-integre-le-mobile-money-aux-paiements-transfrontaliers-pour-contourner-le-dollar_65138",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-21T13:36:00Z",
+   "symbols": []
+  },
   {
    "id": "sika-65133",
    "title": "Côte d’Ivoire : Canal+ inaugure les studios Mancala, un complexe audiovisuel aux standards internationaux",
@@ -1879,18 +1891,6 @@
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-06-08T07:00:00.000Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-1jptdpg",
-   "title": "Afrique | Souveraineté financière : Constantin Dabiré de SA2IF veut coter à la BRVM les ressources du continent",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcTY2WWVUMDhXVElqTzhJTExLMGRzTk5lX2xydDlFUU02aXhuS0NLNDZrQzNjcnVlV29uWHlTSVFoeUk2STNpOHJIdUUxSGhwcjVkUkhOYkdnclQ3RXB0dWdFSGdrM3FibEpZUy1zQllsclc3cmYtUHZuTWNuVW1JRUpQV2xzVzJ2R0lPdGFybElPWTRzX2ZMZGZYcnF0NEZLR2w3TVE2VHVYXzY1QWpJY2tUVDhaNWFSQVBn?oc=5",
-   "image": null,
-   "source": "Afrimag",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-05-27T07:00:00.000Z",
    "symbols": []
   }
  ]
