@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-10-21T15:47:10.192Z",
+ "updatedAt": "2026-10-21T16:17:51.602Z",
  "items": [
+  {
+   "id": "sika-65146",
+   "title": "RDC : Le Chinois SFQ Global décroche un contrat de 41,4 millions USD pour une centrale solaire",
+   "summary": "Le groupe chinois SFQ Global, coté à la Bourse de Hong Kong, a obtenu un contrat de 41,4 millions USD pour la co...",
+   "url": "https://www.sikafinance.com/marches/rdc-le-chinois-sfq-global-decroche-un-contrat-de-41-4-millions-usd-pour-une-centrale-solaire_65146",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-21T15:59:00Z",
+   "symbols": []
+  },
   {
    "id": "sika-65143",
    "title": "Bénin : Romuald Wadagni veut réduire le coût des concours publics",
@@ -1317,6 +1329,20 @@
    ]
   },
   {
+   "id": "gn-1bkqz72",
+   "title": "Saph Côte d'Ivoire (SPHC) — BRVM",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1zVWZyMmlqQ1JyNjFwRnlINzU3WEp4VDh1Ykszano4RXU1TzJSa3RTaklKVWN1UTZDNllocVY4d05fcDNXdVN1M0pyWDE1RU9zS2xLSzN0UEtuZVE5RExzR1N5amN3QQ?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-09-03T01:08:41.000Z",
+   "symbols": [
+    "SPHC"
+   ]
+  },
+  {
    "id": "gn-1lzzfnd",
    "title": "Bank of Africa - Benin (BOAB) — BRVM",
    "summary": null,
@@ -1451,24 +1477,24 @@
    "symbols": []
   },
   {
-   "id": "gn-3d44yk",
-   "title": "La BRVM franchit le cap des 20 000 milliards FCFA de capitalisation",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYTVmVE1YeXZzNVR5SlFRSjdmUmFlenlFUzBOSkN2NjB1MFhoTzhkWlJ5MW9xSWdONFJBTU00V2RVR2stdXZvLVB3ZndSYVk4cWhRUlRLVGpPZTNvd3BHXzJCemJnZmo3U1ZkQVJjMkp2bHZXMDduOW84X0VTNUlNdGhsWVlwMHBDR3pEbEdsNTFfSXRDbWl0bzBLSEdRSVBwWHdlN3M2MjM1bndzaFE?oc=5",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-08-21T07:00:00.000Z",
-   "symbols": []
-  },
-  {
    "id": "gn-jc7rf2",
    "title": "La BRVM franchit le cap des 20 000 milliards de Fcfa",
    "summary": null,
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTEpXYXVkUGx3QkJvSGFRN0QwcU5rOEI0TTJ3cHZ4eXk3STNJNS10M05qRDV5NDRpeU9RYzJmVGhVNUZ5anVScGFiWGlxd1hnUGk4dGRRUy00bTlxRkZBZW9XaG13UXhGRXNITVdpU255X1czdnMxUWtzUmdRbzY5YXRaZDlYU1JqZDRDWU9B?oc=5",
    "image": null,
    "source": "APAnews - Agence de Presse Africaine",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-08-21T07:00:00.000Z",
+   "symbols": []
+  },
+  {
+   "id": "gn-3d44yk",
+   "title": "La BRVM franchit le cap des 20 000 milliards FCFA de capitalisation",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYTVmVE1YeXZzNVR5SlFRSjdmUmFlenlFUzBOSkN2NjB1MFhoTzhkWlJ5MW9xSWdONFJBTU00V2RVR2stdXZvLVB3ZndSYVk4cWhRUlRLVGpPZTNvd3BHXzJCemJnZmo3U1ZkQVJjMkp2bHZXMDduOW84X0VTNUlNdGhsWVlwMHBDR3pEbEdsNTFfSXRDbWl0bzBLSEdRSVBwWHdlN3M2MjM1bndzaFE?oc=5",
+   "image": null,
+   "source": "Sika Finance",
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-08-21T07:00:00.000Z",
@@ -1566,15 +1592,15 @@
    ]
   },
   {
-   "id": "gn-hpqlie",
+   "id": "gn-6k4xbp",
    "title": "BRVM : 4 actions phares en forte progression, ETIT bondit de +97,3% en 30 jours",
    "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9henNlZGxWdkhHZzNaUkk1S2lTRW1XNUNNNjFsamtQOHphYllzTnJEdkl4MUItUUpVMVlRQ1VvLXl2R0pXbDdmZzB4QkVzWFBYZ3VsNUpBSnFaWlFfNjRxMW9XajNfS2UyUUVDak9xcGlZeVo1Q0ZjMGtB?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qdm9LZFFIeVI4eDhHYlJITGJNQ1pXR0d4bGpWdExRXzZfT2ZKcGNKcUh2YUx0R3VwUlpIZjBjRDYzd3ZvZDFISDYzX1hDNm9xVTlCTUpLT3NDcXVNVzloZzh5di03Y2JkM2t5SXNEbVMwVGhR?oc=5",
    "image": null,
    "source": "Dabafinance",
    "category": "Presse",
    "premium": false,
-   "publishedAt": "2026-07-25T07:00:00.000Z",
+   "publishedAt": "2026-07-24T07:00:00.000Z",
    "symbols": [
     "ETIT"
    ]
@@ -1866,32 +1892,6 @@
    "premium": false,
    "publishedAt": "2026-07-04T07:00:00.000Z",
    "symbols": []
-  },
-  {
-   "id": "gn-1nv7g6x",
-   "title": "Publication du Bulletin Officiel de la Cote de la BRVM – 02 Juillet 2026",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUnhqR0E0bDdrLTNPdzU0b1ZORjBJdXpYQzFXbTRURGhCNGJiVG5vbzZwX2h2SThsRVdLS1I3RHZxNXp1M0NXUlJNbUJDUTNkeTlaaUFId0gyUWk0dGltY09LUC1KUS0zek1lbkxKamp3OWhUc1ljaktNV3BwajRFbFBzOTRhWkU?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-07-02T07:00:00.000Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-1n9gzug",
-   "title": "BRVM : Orange CI tire la capitalisation à un nouveau sommet régional",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVm5pbmwyeFdMYXBtcHF1UmUzbW0taXMwamJIaDlvS1NfS1RuMkh1VzJUWkxuSEZHVkFWV3VsalN1RkhIclE2RmZSaWJ2eHlIZ2k3Tm1Hc2wtbFRabFA3LWxaNU9VVjJqTDRZWWpFOWNMMjEzZDFKaHIxazFQOHVPcVZSR3ZPRVFNMHg0RDBuR0xZUXBuNU9JLUJCbnk0dw?oc=5",
-   "image": null,
-   "source": "Capmad",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-06-29T07:00:00.000Z",
-   "symbols": [
-    "ORAC"
-   ]
   }
  ]
 }
