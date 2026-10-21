@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-21T10:45:01.937Z",
+ "updatedAt": "2026-10-21T11:16:24.419Z",
  "items": [
   {
    "id": "sika-65113",
@@ -48,6 +48,20 @@
    "premium": false,
    "publishedAt": "2026-10-21T09:03:00Z",
    "symbols": []
+  },
+  {
+   "id": "gn-1lr0nmy",
+   "title": "Onatel Burkina Faso (ONTBF) — BRVM",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tMVRXdFVBdDhJeEhBSUhIMjdZS2RaWXZtX2F3YUNaV0lJczZDRnVPa19OeE41Rm9BcjE2N0ZGc3FONVpfX1VTVzdJRkpMLVR1V0JFNUZtR3Q3czN1dVVaTlZRYTgtdDg?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-10-21T07:45:23.000Z",
+   "symbols": [
+    "ONTBF"
+   ]
   },
   {
    "id": "gn-1i44ytm",
@@ -1444,15 +1458,15 @@
    ]
   },
   {
-   "id": "gn-hpqlie",
+   "id": "gn-6k4xbp",
    "title": "BRVM : 4 actions phares en forte progression, ETIT bondit de +97,3% en 30 jours",
    "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9henNlZGxWdkhHZzNaUkk1S2lTRW1XNUNNNjFsamtQOHphYllzTnJEdkl4MUItUUpVMVlRQ1VvLXl2R0pXbDdmZzB4QkVzWFBYZ3VsNUpBSnFaWlFfNjRxMW9XajNfS2UyUUVDak9xcGlZeVo1Q0ZjMGtB?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qdm9LZFFIeVI4eDhHYlJITGJNQ1pXR0d4bGpWdExRXzZfT2ZKcGNKcUh2YUx0R3VwUlpIZjBjRDYzd3ZvZDFISDYzX1hDNm9xVTlCTUpLT3NDcXVNVzloZzh5di03Y2JkM2t5SXNEbVMwVGhR?oc=5",
    "image": null,
    "source": "Dabafinance",
    "category": "Presse",
    "premium": false,
-   "publishedAt": "2026-07-25T07:00:00.000Z",
+   "publishedAt": "2026-07-24T07:00:00.000Z",
    "symbols": [
     "ETIT"
    ]
@@ -1878,20 +1892,6 @@
    "premium": false,
    "publishedAt": "2026-05-09T07:00:00.000Z",
    "symbols": []
-  },
-  {
-   "id": "gn-r7dv25",
-   "title": "Le prêteur ivoirien Bridge Bank prévoirait une introduction en bourse de 120 millions de dollars à la BRVM",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONy1KV3F5WXpQTUdlRTF6Z0hUVVhSVGJQUHZ5d2tiM0VMYlNCQXQ5N25ldlFuSFV1Nzl6amw0QldNOVVQUXVxYzlrbWpaOGY2OWN2WDZfdkQtb19KUGEwNV9qbm9laF9QRG1CaW9mbHpRN3NKZnZTSUN3dWxsRW1wM0RxRG02UVNTVXZXZkZxVzNONm9ZMWpOLVBDMERxb1diY2xJbGFocXhzTXQ3cXZWU29NSWl5RjVSdEFCTVZCNHl3dHFlWlN6RnlyWnFFc3dCaDdyc1BENA?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-05-08T07:00:00.000Z",
-   "symbols": [
-    "BBGC"
-   ]
   }
  ]
 }
