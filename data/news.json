@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-21T19:36:55.562Z",
+ "updatedAt": "2026-10-21T20:34:58.287Z",
  "items": [
   {
    "id": "sika-65153",
@@ -1141,20 +1141,6 @@
    ]
   },
   {
-   "id": "gn-1im50v3",
-   "title": "BRVM : UNIWAX CI publie un communiqué sur les déclarations de franchissement de seuil",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOXRPTU9VdHN4V3poVjBKamwtNkdWOGhoMzloc1MxWllPT1hoYnVzNzNTdG5lbHc4akhGR21aOFVoaUJjQlB2QXJJa2FjUmNEWVJtTEtCN0RWU2ttZEpCVTBlQzVPTWFSY0w5cURaWVZfX2MxRkJ5MWFNZEVjSjZUYnBlX3VTUlk0dzhHdFVMZF8?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-09-24T07:00:00.000Z",
-   "symbols": [
-    "UNXC"
-   ]
-  },
-  {
    "id": "gn-1y4yd2",
    "title": "Pour sa cotation à la BRVM : les performances financières de Bridge Bank à l’origine de son entrée en Bourse",
    "summary": null,
@@ -1166,6 +1152,20 @@
    "publishedAt": "2026-09-24T07:00:00.000Z",
    "symbols": [
     "BBGC"
+   ]
+  },
+  {
+   "id": "gn-1im50v3",
+   "title": "BRVM : UNIWAX CI publie un communiqué sur les déclarations de franchissement de seuil",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOXRPTU9VdHN4V3poVjBKamwtNkdWOGhoMzloc1MxWllPT1hoYnVzNzNTdG5lbHc4akhGR21aOFVoaUJjQlB2QXJJa2FjUmNEWVJtTEtCN0RWU2ttZEpCVTBlQzVPTWFSY0w5cURaWVZfX2MxRkJ5MWFNZEVjSjZUYnBlX3VTUlk0dzhHdFVMZF8?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-09-24T07:00:00.000Z",
+   "symbols": [
+    "UNXC"
    ]
   },
   {
@@ -1207,10 +1207,10 @@
    "symbols": []
   },
   {
-   "id": "gn-9g52bw",
+   "id": "gn-51tp45",
    "title": "Bridge Bank fera son entrée à la BRVM le 24 septembre après une introduction en bourse sursouscrite",
    "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYUppck9VYWp1YU9aOTB2OEFHMDloN3d5NXgxT0dyTFNQVVZwek9kaC1XeHpTYk1RUENpNi12XzEtZXRYdmZ0cmlLV2Ywb0JSRFl2Q2ZYbDZ4R2VxMFk0SWpuT2lYOVZjMllBYU5kd3FPNkpFMWcwWndRZDBVeXA1Y1NPczZqTk45QmJ5Y3hLb3JfN29FN2YxbktBNDNYcllGMkswWXVWWHpwLXUtWVZMSi01cDdOVG9CN1RRRy1IVFhFTjAzVVk1cVE4X2YzQk0?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNT1FpUmQyRE0wLVZXdi1lQ3VyYTQxaFg0SnhzeGZsOU9rekxLTVVnOU9DNC1hbnRNRjR3M2NJbEk1WDM5cmVESmFNeEo5TmRyY1hucUFqTEdUWGhubkp1UWFzREkteHRBbVhQd0hOVFljRk42WVg4WDl0TW94dVktbmRVZkROUkFxSG9RQ1VqLVF1dkFyRmZIS19acnJJS01vclJyNV9RdGlpUHdEWk4tVmdjQmJUWHJ4cE92emtsbWZBQ0ozOXBnSw?oc=5",
    "image": null,
    "source": "Dabafinance",
    "category": "Presse",
@@ -1221,15 +1221,15 @@
    ]
   },
   {
-   "id": "gn-xd6og3",
+   "id": "gn-1n3bz8d",
    "title": "BRVM : Investir en bourse, est-ce vraimant pour les Maliens ?",
    "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOemRhRHFSNkNSMnFVM05ydGxMVE94X2FkRlI0Y1RKaVpIc05VMWVpSDRyRkRaVnB0UFNtakNmdTh6T1JmbGNucUwxTWpkNVRIcFd3WS1weWY5eVl1T3V6elB1U0xtXzhyMXJ3Q1hhOG9tV0NoTTBObEpsdlR2WlB3dU1VeUZZYVNYaEItR3UzaGhDS3BhLUF0Z3FlcDNGTG9pQ3hWckhyQ01CUlpRUmREQndYQXJpVTRFa3lKTFRHeWI0LTN5THlDbg?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQem1aMDF4MlpLSWtqZE00NW5TQzZvdzREUGgzUWhTMGxkeDNJWmg4QlhRZ1Q4aTRjWGhMZ2VGYm5RdFZ5VE1xTlktLUMzZmNqbFBOZUlkalo0Y1NobDJkY2VXU1lva0xZd2dmMV9yRjRUU0NzUHB5SGRMTFJpczRHbkw4djRMeFBpWlU1UW1TTEVlRWZweXdsMjZieWN1NGREVldXRDA4LS1vNUtBQmpua0hYZE1uR0xndEVUVDJwaS1uc3JFQWRjYg?oc=5",
    "image": null,
-   "source": "CANAL+",
+   "source": "Canal+",
    "category": "Presse",
    "premium": false,
-   "publishedAt": "2026-09-17T17:23:21.000Z",
+   "publishedAt": "2026-09-19T17:10:22.000Z",
    "symbols": []
   },
   {
@@ -1527,24 +1527,24 @@
    "symbols": []
   },
   {
-   "id": "gn-jc7rf2",
-   "title": "La BRVM franchit le cap des 20 000 milliards de Fcfa",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTEpXYXVkUGx3QkJvSGFRN0QwcU5rOEI0TTJ3cHZ4eXk3STNJNS10M05qRDV5NDRpeU9RYzJmVGhVNUZ5anVScGFiWGlxd1hnUGk4dGRRUy00bTlxRkZBZW9XaG13UXhGRXNITVdpU255X1czdnMxUWtzUmdRbzY5YXRaZDlYU1JqZDRDWU9B?oc=5",
-   "image": null,
-   "source": "APAnews - Agence de Presse Africaine",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-08-21T07:00:00.000Z",
-   "symbols": []
-  },
-  {
    "id": "gn-3d44yk",
    "title": "La BRVM franchit le cap des 20 000 milliards FCFA de capitalisation",
    "summary": null,
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYTVmVE1YeXZzNVR5SlFRSjdmUmFlenlFUzBOSkN2NjB1MFhoTzhkWlJ5MW9xSWdONFJBTU00V2RVR2stdXZvLVB3ZndSYVk4cWhRUlRLVGpPZTNvd3BHXzJCemJnZmo3U1ZkQVJjMkp2bHZXMDduOW84X0VTNUlNdGhsWVlwMHBDR3pEbEdsNTFfSXRDbWl0bzBLSEdRSVBwWHdlN3M2MjM1bndzaFE?oc=5",
    "image": null,
    "source": "Sika Finance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-08-21T07:00:00.000Z",
+   "symbols": []
+  },
+  {
+   "id": "gn-jc7rf2",
+   "title": "La BRVM franchit le cap des 20 000 milliards de Fcfa",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTEpXYXVkUGx3QkJvSGFRN0QwcU5rOEI0TTJ3cHZ4eXk3STNJNS10M05qRDV5NDRpeU9RYzJmVGhVNUZ5anVScGFiWGlxd1hnUGk4dGRRUy00bTlxRkZBZW9XaG13UXhGRXNITVdpU255X1czdnMxUWtzUmdRbzY5YXRaZDlYU1JqZDRDWU9B?oc=5",
+   "image": null,
+   "source": "APAnews - Agence de Presse Africaine",
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-08-21T07:00:00.000Z",
@@ -1601,6 +1601,18 @@
    "symbols": []
   },
   {
+   "id": "gn-1ty0sws",
+   "title": "Achat d'actions à la BRVM : Comment la digitalisation révolutionne l'accès aux investisseurs individuels",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNU3Zjcy02WFhpRkhhbDM3dDRVV09abG42WFRKU2FKZmphcVFPdWhxM2dwa194U1JsTkt5Uy1xaldGWTRfdk5IYzVCeUVTMDM5SWpMRmFrRnhCMGNUMFFQaWo5dmMtS0E4ZWItQVc4RVIzdUY4Tmd2eVN3amY1OFhxQ2JJSlUxajRjZmFvUmkzamhjSXB1V19IeEZyNWJ5SnlIcHN6ZTN2ZUM0THFDRWZtU2FlUWc2cDFqeXVWVEQ2YnpKZVVra0xTYUszNWNsR3h3a2hwejFON2JwMTB2?oc=5",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-08-04T07:00:00.000Z",
+   "symbols": []
+  },
+  {
    "id": "gn-1wiek6d",
    "title": "BRVM : Safca Côte d'Ivoire (SAFC) bondit de +45,71% et Bank of Africa (BOAC) de +6,47%",
    "summary": null,
@@ -1614,18 +1626,6 @@
     "BOAC",
     "SAFC"
    ]
-  },
-  {
-   "id": "gn-1ty0sws",
-   "title": "Achat d'actions à la BRVM : Comment la digitalisation révolutionne l'accès aux investisseurs individuels",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNU3Zjcy02WFhpRkhhbDM3dDRVV09abG42WFRKU2FKZmphcVFPdWhxM2dwa194U1JsTkt5Uy1xaldGWTRfdk5IYzVCeUVTMDM5SWpMRmFrRnhCMGNUMFFQaWo5dmMtS0E4ZWItQVc4RVIzdUY4Tmd2eVN3amY1OFhxQ2JJSlUxajRjZmFvUmkzamhjSXB1V19IeEZyNWJ5SnlIcHN6ZTN2ZUM0THFDRWZtU2FlUWc2cDFqeXVWVEQ2YnpKZVVra0xTYUszNWNsR3h3a2hwejFON2JwMTB2?oc=5",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-08-04T07:00:00.000Z",
-   "symbols": []
   },
   {
    "id": "gn-hvwzkw",
@@ -1656,20 +1656,6 @@
    ]
   },
   {
-   "id": "gn-1etny21",
-   "title": "BRVM : Forte activité et hausses notables pour 5 actions clés, ETIT bondit de +100%",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYjVDQ3ZUemc5ckRIQ2g0dFhxUW05akd3c0FneGxfNjJSUFlCNjEyYUF4YzBYNnVOT1VJenYwSFA4ZlZsQ2NjT3RHOElGbnVBSVItWTE5UVdNRF96VTdFRFJRbEZ3bkx5SzN6Y0lCZ3R4Qm9HTGVpY053VFhoZmZfZkk3U3dBN1hiTXI3Z1ZmbGpNc1V4dXBXbHB3UQ?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-07-23T07:00:00.000Z",
-   "symbols": [
-    "ETIT"
-   ]
-  },
-  {
    "id": "gn-v3ndzf",
    "title": "Bridge Bank : les dessous de l’IPO éclair à la BRVM",
    "summary": null,
@@ -1681,6 +1667,20 @@
    "publishedAt": "2026-07-23T07:00:00.000Z",
    "symbols": [
     "BBGC"
+   ]
+  },
+  {
+   "id": "gn-1etny21",
+   "title": "BRVM : Forte activité et hausses notables pour 5 actions clés, ETIT bondit de +100%",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYjVDQ3ZUemc5ckRIQ2g0dFhxUW05akd3c0FneGxfNjJSUFlCNjEyYUF4YzBYNnVOT1VJenYwSFA4ZlZsQ2NjT3RHOElGbnVBSVItWTE5UVdNRF96VTdFRFJRbEZ3bkx5SzN6Y0lCZ3R4Qm9HTGVpY053VFhoZmZfZkk3U3dBN1hiTXI3Z1ZmbGpNc1V4dXBXbHB3UQ?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-07-23T07:00:00.000Z",
+   "symbols": [
+    "ETIT"
    ]
   },
   {
@@ -1826,20 +1826,6 @@
    "symbols": []
   },
   {
-   "id": "gn-ouv3pt",
-   "title": "BRVM : Quatre titres en hausse notable, Total Senegal mène le bal avec +22.3% sur 30 jours",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcGFWN2cxNVdwZ1ZUTkZaNWJDYmg4NENEWjNNOW43OW1EaW9sY3pCSkJOT1lSck4zR21RR3RKMk1qSHN0X1Y5SVhEc2ZHTE96bnZlNk5VdnUwbGUzaTNoSUVDeGpGNTA0azZnZ3hfUk5wbXc2MGV6bEdFY2NEZEFucw?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-07-09T07:00:00.000Z",
-   "symbols": [
-    "TTLS"
-   ]
-  },
-  {
    "id": "gn-1edrf8f",
    "title": "Bridge Bank lance une introduction en bourse de 118 millions de dollars sur la BRVM d'Afrique de l'Ouest",
    "summary": null,
@@ -1851,6 +1837,20 @@
    "publishedAt": "2026-07-09T07:00:00.000Z",
    "symbols": [
     "BBGC"
+   ]
+  },
+  {
+   "id": "gn-ouv3pt",
+   "title": "BRVM : Quatre titres en hausse notable, Total Senegal mène le bal avec +22.3% sur 30 jours",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcGFWN2cxNVdwZ1ZUTkZaNWJDYmg4NENEWjNNOW43OW1EaW9sY3pCSkJOT1lSck4zR21RR3RKMk1qSHN0X1Y5SVhEc2ZHTE96bnZlNk5VdnUwbGUzaTNoSUVDeGpGNTA0azZnZ3hfUk5wbXc2MGV6bEdFY2NEZEFucw?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-07-09T07:00:00.000Z",
+   "symbols": [
+    "TTLS"
    ]
   },
   {
