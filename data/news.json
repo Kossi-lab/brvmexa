@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-20T22:33:50.639Z",
+ "updatedAt": "2026-10-21T08:39:41.821Z",
  "items": [
   {
    "id": "gn-1i44ytm",
@@ -907,6 +907,20 @@
    ]
   },
   {
+   "id": "gn-1pgu4xj",
+   "title": "Marchés africains : Sonatel veut élargir sa base d’investisseurs",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxON2tmR2lYYlJ4OU91TUdZODJvN0tuOGZtNWh2QU9FT0dLUzNzaGJlcEQ4WmI4SUpBc3ZwTXp0S2Y0aXZSblphaE93djMyTDdRaGUxZm9XYXczR3ZJek41ZVV1TUVEd3pEMmtxVExsNUFMUWlJa0RkamNlelg0MWJzcGNGNzhRY3gxMGcwcUE2Mmh5MTZ1UEFR?oc=5",
+   "image": null,
+   "source": "Capmad",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-09-24T07:00:00.000Z",
+   "symbols": [
+    "SNTS"
+   ]
+  },
+  {
    "id": "gn-1im50v3",
    "title": "BRVM : UNIWAX CI publie un communiqué sur les déclarations de franchissement de seuil",
    "summary": null,
@@ -946,20 +960,6 @@
    "publishedAt": "2026-09-24T07:00:00.000Z",
    "symbols": [
     "BBGC"
-   ]
-  },
-  {
-   "id": "gn-1pgu4xj",
-   "title": "Marchés africains : Sonatel veut élargir sa base d’investisseurs",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxON2tmR2lYYlJ4OU91TUdZODJvN0tuOGZtNWh2QU9FT0dLUzNzaGJlcEQ4WmI4SUpBc3ZwTXp0S2Y0aXZSblphaE93djMyTDdRaGUxZm9XYXczR3ZJek41ZVV1TUVEd3pEMmtxVExsNUFMUWlJa0RkamNlelg0MWJzcGNGNzhRY3gxMGcwcUE2Mmh5MTZ1UEFR?oc=5",
-   "image": null,
-   "source": "Capmad",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-09-24T07:00:00.000Z",
-   "symbols": [
-    "SNTS"
    ]
   },
   {
@@ -1158,6 +1158,18 @@
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-09-01T07:00:00.000Z",
+   "symbols": []
+  },
+  {
+   "id": "gn-zj7j2s",
+   "title": "Raffinerie Dangote : les Bourses africaines sont-elles prêtes à absorber une introduction à cinq milliards de dollars ?",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOZnBGQTlQVThuM0FFNFNvRWNOTUE3dEZkU2dIV2MyU2F1VzJkbTVaU2IwZ1VMVExycmRJUWZXUjFWNUJfWDdZbVR0eEVBajlGaktqT0FSUlV6SF9HdzNnS21QTW92UDV0Uk5qODliMzNHUk54elBsa1NsU1JNSFJQYTVPLXl2SFdXTl80NDZxaWh4ZUNsS1B3ZmFyejR4am1YYl9KLXg2SlJkYnQxYmhjTUN0Y3ltc0RfWWJqTnFjQlY1ZEx0ZDg2VFFYYVVVQnduZFNVSW1YSVZUUndHTnQ2U1RFRS1LS0J3MVlaNmh6SkhTLVh1VWVtMGJBMHpqY2NfX3R0dQ?oc=5",
+   "image": null,
+   "source": "Jeune Afrique",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-08-30T07:00:00.000Z",
    "symbols": []
   },
   {
@@ -1881,18 +1893,6 @@
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-04-20T07:00:00.000Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-1kc6mm",
-   "title": "BRVM : une petite bourse face aux géants mondiaux, quel avenir pour l’Afrique ?",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVHJIZlpxcWZzUjBOaF9YU1Y5WDVwOUQ1WS1mOW5FSURkc2ZjNDNLankxR1NySE9xNUtsX2dhLU5jRWZDclY2M2tRQWlmWWgwZFFHSm9GeDhMZ2ZpblI1U2NuNl9jWXNXSC1lNjlMWjFZN09qR3RkZFhVSFlSVHBrWjVJWThXTGlhcmREWjR2RUIxSXNOWDJxbm9Iem0zWkZ5SjF0Mzd2UnAxYTU2cXUyZmJhbWVldnRCMlhHemNuVWU5M29Hdnc?oc=5",
-   "image": null,
-   "source": "France 24",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-04-18T07:00:00.000Z",
    "symbols": []
   }
  ]
