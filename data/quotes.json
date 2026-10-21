@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-10-21T15:02:17.220Z",
+ "updatedAt": "2026-10-21T15:46:26.128Z",
  "sessionDate": "2026-10-21",
- "sessionTime": "14:45",
+ "sessionTime": "15:45",
  "source": "brvm.org",
  "items": [
   {
@@ -247,7 +247,7 @@
   {
    "symbol": "ETIT",
    "name": "Ecobank Transnational Incorporated TOGO",
-   "volume": 1015368,
+   "volume": 1025368,
    "prevClose": 65,
    "refPrice": 63,
    "open": 65,
@@ -682,7 +682,7 @@
   {
    "symbol": "TTLS",
    "name": "TOTALENERGIES MARKETING SENEGAL",
-   "volume": 2282,
+   "volume": 2283,
    "prevClose": 3450,
    "refPrice": 3650,
    "open": 3400,

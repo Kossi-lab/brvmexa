@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-10-21T15:03:35.827Z",
+ "updatedAt": "2026-10-21T15:47:10.192Z",
  "items": [
+  {
+   "id": "sika-65143",
+   "title": "Bénin : Romuald Wadagni veut réduire le coût des concours publics",
+   "summary": "Le Bénin envisage de revoir les modalités de recrutement dans la fonction publique afin de réduire les dépenses support...",
+   "url": "https://www.sikafinance.com/marches/benin-romuald-wadagni-veut-reduire-le-cout-des-concours-publics_65143",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-21T15:38:00Z",
+   "symbols": []
+  },
   {
    "id": "sika-65140",
    "title": "Dabali Xpress ouvre un 6è restaurant dans la grande commune de Yopougon, à Abidjan",
@@ -1880,18 +1892,6 @@
    "symbols": [
     "ORAC"
    ]
-  },
-  {
-   "id": "gn-xs7r2a",
-   "title": "Edoh Kossi AMENOUNVE, Directeur général de la BRVM",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMEYtYjA0LVdXZ0lNdDJuc1FsRHBZR3NjM01MQl9kamEyQ095N05FYUozc3hRcmNJaG9KX1FqYWJZTGZGeXpxWk5jODBXMHVmZTFTc2hkSmlFcTEtTUR4bmpuNjFsVXh0eTJScHc2Z2ZCZWpaOWQ0NGF5VWd0WGNoT1NRcllmWVlfV0l2bWw1M3V1VU1zTXJHNmwwRTl6cTdBWGFZTnZR?oc=5",
-   "image": null,
-   "source": "Togo First",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-06-29T07:00:00.000Z",
-   "symbols": []
   }
  ]
 }

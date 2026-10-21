@@ -1,22 +1,22 @@
 {
- "updatedAt": "2026-10-21T15:02:17.220Z",
+ "updatedAt": "2026-10-21T15:46:26.128Z",
  "sessionDate": "2026-10-21",
- "sessionTime": "14:45",
+ "sessionTime": "15:45",
  "source": "brvm.org",
- "transactionsValue": 2807001786,
+ "transactionsValue": 2807635486,
  "capitalisationActions": 20402293029296,
  "capitalisationBonds": 13466970861882,
  "advancing": 9,
  "declining": 30,
  "unchanged": 9,
- "totalVolume": 1234965,
+ "totalVolume": 1244966,
  "gainers": [
   {
    "symbol": "TTLS",
    "shortName": "TotalEnergies Marketing Sénégal",
    "close": 3700,
    "change": 7.25,
-   "volume": 2282
+   "volume": 2283
   },
   {
    "symbol": "SHEC",
