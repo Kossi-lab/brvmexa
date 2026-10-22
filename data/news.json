@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-10-22T15:19:42.729Z",
+ "updatedAt": "2026-10-22T16:02:13.925Z",
  "items": [
+  {
+   "id": "sika-65189",
+   "title": "Après la Côte d’Ivoire et le Burkina Faso, MOLO MOLO PAY met le cap sur la RDC",
+   "summary": "La fintech africaine MOLO MOLO PAY poursuit ses ambitions d'expansion sur le continent. Après avoir franchi le cap du m...",
+   "url": "https://www.sikafinance.com/marches/apres-la-cote-divoire-et-le-burkina-faso-molo-molo-pay-met-le-cap-sur-la-rdc_65189",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-22T15:06:00Z",
+   "symbols": []
+  },
   {
    "id": "sika-65179",
    "title": "Ghana : Les salaires des travailleurs miniers au cœur de la réforme du secteur",
@@ -1872,18 +1884,6 @@
    "symbols": [
     "BBGC"
    ]
-  },
-  {
-   "id": "gn-17lbadw",
-   "title": "BRVM : 23 valeurs portent le rebond du marché",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaTRaQUkzRU13M2k5UkozSE93V1ZMTVFMNEI3Tm9TQTRFVS14ZENFcnBRemk4YWM1X3E1VDVCbUZxdjd2NjFWbkVkdTNnYS04OEJuMGpoSjR2b3FIc3V2ZWlHdzhKUktmY0hwbXBwbDhVOWhLcjhnb2FxZFpuelR0aEIwMDBMcVFyOC1nQ0x3?oc=5",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-07-22T07:00:00.000Z",
-   "symbols": []
   }
  ]
 }
