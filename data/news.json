@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-21T22:34:35.991Z",
+ "updatedAt": "2026-10-22T08:41:47.637Z",
  "items": [
   {
    "id": "sika-65153",
@@ -340,20 +340,6 @@
    "premium": false,
    "publishedAt": "2026-10-20T10:05:00Z",
    "symbols": []
-  },
-  {
-   "id": "gn-pfcddy",
-   "title": "Bridge Bank Group (BBGC) — BRVM",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VWFNIS3puU1RSY09PZGRsWkVIcnh4cHM3ZXFnd2lVbmR1OGU3dFRfMG92UENpbkdnVjNnNGpvckliaWthcXBZaVBjeVVFZXBodzNCZEpSU1hBN1FXbDlLSC0yb0Nvdw?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-10-20T08:51:29.000Z",
-   "symbols": [
-    "BBGC"
-   ]
   },
   {
    "id": "sika-65076",
@@ -1069,7 +1055,7 @@
    "source": "Africtelegraph",
    "category": "Presse",
    "premium": false,
-   "publishedAt": "2026-09-29T14:05:02.000Z",
+   "publishedAt": "2026-09-29T07:00:00.000Z",
    "symbols": []
   },
   {
@@ -1122,6 +1108,20 @@
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-09-25T07:00:00.000Z",
+   "symbols": [
+    "BBGC"
+   ]
+  },
+  {
+   "id": "gn-pfcddy",
+   "title": "Bridge Bank Group (BBGC) — BRVM",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VWFNIS3puU1RSY09PZGRsWkVIcnh4cHM3ZXFnd2lVbmR1OGU3dFRfMG92UENpbkdnVjNnNGpvckliaWthcXBZaVBjeVVFZXBodzNCZEpSU1hBN1FXbDlLSC0yb0Nvdw?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-09-24T13:42:27.000Z",
    "symbols": [
     "BBGC"
    ]
@@ -1183,24 +1183,24 @@
    ]
   },
   {
-   "id": "gn-1hvzco1",
-   "title": "BRVM : Le marché retient son souffle, le composite cédant plus de 3%",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb1A2WDFGeEJJYUgwQUw1dXh5UTlzTHppMmROZEZVWXhsbXBFSHg4eFZaVHphclFaQTZCZzRQSjJmWDdyVFdFNllsUU55YVNHYlJnbWtCZEZKd0dnd3JvbFZ2cjkwcjk0ZWhHdWtHdTE0SGNaS2g3aTJaM3U2RElqa09TV1k2QVcxU2ZaQU51N3pFV1JkVDhFWWhETkwzTjQ0V3NwZmlVc0Ytdw?oc=5",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-09-23T07:00:00.000Z",
-   "symbols": []
-  },
-  {
    "id": "gn-mle0vk",
    "title": "Le Sénégal réussit sa première cotation obligataire à la BRVM",
    "summary": null,
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNXlETjYxcUplM2VubTZJdFAtbHE2WTNFUkszTGFyVS1IVXRSS2U4dDBPbEM0RlZ3S3lQR2c4VVM2MWJIWjFDaU1NN1owdFZwdFFlVmxQbkhYWVMxVEV2Qlp0bVY3M2tkOTF0YTBrYVZTRXhpWkpCdmE4cEFyQWRZRTdjUGFQN0FORzdFcXBPdE1iaEIxSGRDWmdB?oc=5",
    "image": null,
    "source": "Africtelegraph",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-09-23T07:00:00.000Z",
+   "symbols": []
+  },
+  {
+   "id": "gn-1hvzco1",
+   "title": "BRVM : Le marché retient son souffle, le composite cédant plus de 3%",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb1A2WDFGeEJJYUgwQUw1dXh5UTlzTHppMmROZEZVWXhsbXBFSHg4eFZaVHphclFaQTZCZzRQSjJmWDdyVFdFNllsUU55YVNHYlJnbWtCZEZKd0dnd3JvbFZ2cjkwcjk0ZWhHdWtHdTE0SGNaS2g3aTJaM3U2RElqa09TV1k2QVcxU2ZaQU51N3pFV1JkVDhFWWhETkwzTjQ0V3NwZmlVc0Ytdw?oc=5",
+   "image": null,
+   "source": "Sika Finance",
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-09-23T07:00:00.000Z",
@@ -1407,6 +1407,20 @@
    ]
   },
   {
+   "id": "gn-c25ulg",
+   "title": "Nsia Banque Côte d'Ivoire (NSBC) — BRVM",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sWnZodnlzMzFOTjBpZDZnTGMwcTlQcndqaF9mbWlNN053QkRMRUlZMGtHUFVaM3Q2RGNQc3RjNzBXdk5VR2Y5OFgta0lidndUdGw5X3hMNUJKaXh1ejhtNkZkUXM1QQ?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-09-02T21:05:05.000Z",
+   "symbols": [
+    "NSBC"
+   ]
+  },
+  {
    "id": "gn-g3jdn0",
    "title": "Afrique économie - BRVM, la bourse solidaire de l’Afrique de l’Ouest [2/5]",
    "summary": null,
@@ -1467,24 +1481,24 @@
    "symbols": []
   },
   {
-   "id": "gn-nh7606",
-   "title": "Les OPCVM actions de l’UEMOA affichent jusqu’à 40,5 % de gain en 2026",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRTNDd0RPdmJiRy05b1I0WXRwaGVCNTlOejZNeEI4c2pHYWtvUU9lb05xQVF0NDFha2tpZUQ0SlQ0N0F6YW1ac3lfVm5TaU42ZFZZSU5vNndza1BpT240bjlvTWpFMmFzWGgxeXRIeEUyR3pWV3E0aVNEQVVwRGxtMkZwQ0VUUWFReHBUSm5xS3BGOVJQTDZTRHpMaGRwQQ?oc=5",
-   "image": null,
-   "source": "Africtelegraph",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-08-24T07:00:00.000Z",
-   "symbols": []
-  },
-  {
    "id": "gn-1srhh9b",
    "title": "BRVM : la capitalisation franchit les 20 000 milliards de FCFA",
    "summary": null,
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPa0dsNW94eG5sWVpscklXQTE2SEZoOEZBelNRUFpFRjlOQmotYmNwckR2WUhOeVB0TE9VTnhFeEVpcUl5UVhuLTVzc29DWVhJSkVMZC1xZWF3TW05NkNZUnZmaHZPclJIVFdFVGJSLXg3azV1blJMVHRIa1ZFRDZoTElGY3VYWVl1V3VycGxqUjBOMkhQTFQwRW1WTk1IX295UWlhSWdB?oc=5",
    "image": null,
    "source": "APAnews - Agence de Presse Africaine",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-08-24T07:00:00.000Z",
+   "symbols": []
+  },
+  {
+   "id": "gn-nh7606",
+   "title": "Les OPCVM actions de l’UEMOA affichent jusqu’à 40,5 % de gain en 2026",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRTNDd0RPdmJiRy05b1I0WXRwaGVCNTlOejZNeEI4c2pHYWtvUU9lb05xQVF0NDFha2tpZUQ0SlQ0N0F6YW1ac3lfVm5TaU42ZFZZSU5vNndza1BpT240bjlvTWpFMmFzWGgxeXRIeEUyR3pWV3E0aVNEQVVwRGxtMkZwQ0VUUWFReHBUSm5xS3BGOVJQTDZTRHpMaGRwQQ?oc=5",
+   "image": null,
+   "source": "Africtelegraph",
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-08-24T07:00:00.000Z",
@@ -1877,18 +1891,6 @@
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-07-08T07:00:00.000Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-1f8y0sg",
-   "title": "Mines : la BRVM cherche des ponts avec la Bourse de Toronto",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNa1JKN3JmbE1sSGpMNHF4aUNSOEs5MDJZcnRmWlVUekU3bV9Vb3prQ2N6U0REaUpvZ1ZSZmJFVVc2YXZPVG14UWdXLUVMYmw3SVdYVlJQVlJYT0E4TDVCUFlPckZjdGZZQWVCcl8xMl9JdWlqTzMtcVo5dXJHY054T2xFUHRvR2lhRXZreXpMMHNySlRNT3d1VDF3d2MxOFJTUkhkdEpB?oc=5",
-   "image": null,
-   "source": "africabusinessplus.com",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-07-07T07:00:00.000Z",
    "symbols": []
   }
  ]
