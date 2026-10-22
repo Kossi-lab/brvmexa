@@ -1,6 +1,22 @@
 {
- "updatedAt": "2026-10-22T16:02:13.925Z",
+ "updatedAt": "2026-10-22T16:38:10.992Z",
  "items": [
+  {
+   "id": "sika-65192",
+   "title": "BRVM : Sucrivoire, Erium et Bernabé CI rebondissent avec le marché",
+   "summary": "Après plusieurs séances de baisse, la BRVM reprend son souffle et esquisse un rebond. Les trois principaux indices reno...",
+   "url": "https://www.sikafinance.com/marches/brvm-sucrivoire-erium-et-bernabe-ci-rebondissent-avec-le-marche_65192",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-22T16:23:00Z",
+   "symbols": [
+    "BNBC",
+    "SCRC",
+    "SIVC"
+   ]
+  },
   {
    "id": "sika-65189",
    "title": "Après la Côte d’Ivoire et le Burkina Faso, MOLO MOLO PAY met le cap sur la RDC",
@@ -1867,20 +1883,6 @@
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-07-23T07:00:00.000Z",
-   "symbols": [
-    "BBGC"
-   ]
-  },
-  {
-   "id": "gn-1xa3q75",
-   "title": "Bridge Bank en Bourse (BRVM) : au-delà du succès, le test du Price-to-Book",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWHZiQi1zTXlIMGxUY3gtUE5acFVOaFNfTnNULVltWnFQSWx4aHptRVpsZV9RTmZMcjZyQkxWNEhGcFRnSUR6dW9NdG5nWlJFM1ZGYkNUcjRpak1Ub1VwTUpzSHZ6a0dqcTNfOHF6a0t3cGMwZGJUUW9rZ25fUE9YUy1rY2E3N3AyYW5iYnpFdFYtcFQ1ZE1UUTY4dlBoMUlKU21uWlhlbHF3WTZwQk02dA?oc=5",
-   "image": null,
-   "source": "Financial Afrik",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-07-22T07:00:00.000Z",
    "symbols": [
     "BBGC"
    ]
