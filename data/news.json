@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-10-22T17:13:04.778Z",
+ "updatedAt": "2026-10-22T17:33:21.498Z",
  "items": [
+  {
+   "id": "sika-65194",
+   "title": "Ghana : 10 milliards USD annoncés sur 5 ans pour accélérer l’industrialisation et créer des emplois",
+   "summary": "Du redressement budgétaire à la création d'emplois, le Ghana entend convertir sa reprise économique en investissements ...",
+   "url": "https://www.sikafinance.com/marches/ghana-10-milliards-usd-annonces-sur-5-ans-pour-accelerer-lindustrialisation-et-creer-des-emplois_65194",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-22T17:24:00Z",
+   "symbols": []
+  },
   {
    "id": "sika-65193",
    "title": "Côte d’Ivoire : Skylark Minerals porte à 90 % sa participation dans le projet Zaranou, dont les ressources franchissent le million d’onces d’or",
@@ -1865,20 +1877,6 @@
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-07-29T07:00:00.000Z",
-   "symbols": [
-    "ETIT"
-   ]
-  },
-  {
-   "id": "gn-6k4xbp",
-   "title": "BRVM : 4 actions phares en forte progression, ETIT bondit de +97,3% en 30 jours",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qdm9LZFFIeVI4eDhHYlJITGJNQ1pXR0d4bGpWdExRXzZfT2ZKcGNKcUh2YUx0R3VwUlpIZjBjRDYzd3ZvZDFISDYzX1hDNm9xVTlCTUpLT3NDcXVNVzloZzh5di03Y2JkM2t5SXNEbVMwVGhR?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-07-24T07:00:00.000Z",
    "symbols": [
     "ETIT"
    ]
