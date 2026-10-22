@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-10-22T11:47:51.164Z",
+ "updatedAt": "2026-10-22T12:32:10.896Z",
  "items": [
+  {
+   "id": "sika-65179",
+   "title": "Ghana : Les salaires des travailleurs miniers au cœur de la réforme du secteur",
+   "summary": "Le Ghana entend encadrer les conditions de travail dans son industrie minière alors que le pays prépare le transfert de...",
+   "url": "https://www.sikafinance.com/marches/ghana-les-salaires-des-travailleurs-miniers-au-c%C5%93ur-de-la-reforme-du-secteur_65179",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-22T12:05:00Z",
+   "symbols": []
+  },
   {
    "id": "sika-65177",
    "title": "Alerte cybersécurité : Deux failles critiques dans PHP menacent plus de 70% des sites web dans le monde",
@@ -1875,18 +1887,6 @@
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-07-20T07:00:00.000Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-5ivs3c",
-   "title": "BRVM : 6 actions clés en forte progression, Bank of Africa – Niger en tête",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUW41NXRBUHJJMF9Kdld1Njk2Tm9HdDF0d0praUFzblVkZHlBa2pMak4yRzZFSHRYbHBfMTNram9YaFNGU2NqSE5tSXdTUGc2TWpScnhBRThSTGc2dkJUeVNaOEZaWXNCSXRPa1NfeDA0N3R0UHE3UXhRR0RPNmx4NEQ2LTF1QW5iTDBtX053?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-07-18T07:00:00.000Z",
    "symbols": []
   }
  ]
