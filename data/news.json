@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-10-22T16:38:10.992Z",
+ "updatedAt": "2026-10-22T17:13:04.778Z",
  "items": [
+  {
+   "id": "sika-65193",
+   "title": "Côte d’Ivoire : Skylark Minerals porte à 90 % sa participation dans le projet Zaranou, dont les ressources franchissent le million d’onces d’or",
+   "summary": "Le projet aurifère de Zaranou abrite désormais 1,2 million d'onces de ressources, soit environ 37 tonnes d...",
+   "url": "https://www.sikafinance.com/marches/cote-divoire-skylark-minerals-porte-a-90-sa-participation-dans-le-projet-zaranou-dont-les-ressources-franchissent-le-million-donces-dor_65193",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-22T16:59:00Z",
+   "symbols": []
+  },
   {
    "id": "sika-65192",
    "title": "BRVM : Sucrivoire, Erium et Bernabé CI rebondissent avec le marché",
@@ -1225,6 +1237,18 @@
    ]
   },
   {
+   "id": "gn-1y4sfk2",
+   "title": "BRVM : Le rebond s’affirme, sept valeurs frôlent la hausse maximale",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMjRzUEJkd0t2ZW5BN0EzNWM1akFPRllUSmNjT0VPMHhVbDFHYWZQZ0lFQkVzZ3o2akgxSWlEcWlkbXdjY2E0VnRDeWVMa2ZrRGdXOG9uamZDelEtQkZZUlNldEZCemhpMGc4ZVUwMHY3RWI3cXdYQ1paLWExT0Q4SDVSd1RfZHdxTXI4ZXJRNjZYU1BYWHhjazBGOTNBdG9lbUVXSXJ0VEM?oc=5",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-09-25T07:00:00.000Z",
+   "symbols": []
+  },
+  {
    "id": "gn-1aoqpmg",
    "title": "Bridge Bank Group CI entre à la BRVM avec un taux de souscription de 142 %",
    "summary": null,
@@ -1671,24 +1695,24 @@
    "symbols": []
   },
   {
-   "id": "gn-nh7606",
-   "title": "Les OPCVM actions de l’UEMOA affichent jusqu’à 40,5 % de gain en 2026",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRTNDd0RPdmJiRy05b1I0WXRwaGVCNTlOejZNeEI4c2pHYWtvUU9lb05xQVF0NDFha2tpZUQ0SlQ0N0F6YW1ac3lfVm5TaU42ZFZZSU5vNndza1BpT240bjlvTWpFMmFzWGgxeXRIeEUyR3pWV3E0aVNEQVVwRGxtMkZwQ0VUUWFReHBUSm5xS3BGOVJQTDZTRHpMaGRwQQ?oc=5",
-   "image": null,
-   "source": "Africtelegraph",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-08-24T07:00:00.000Z",
-   "symbols": []
-  },
-  {
    "id": "gn-1srhh9b",
    "title": "BRVM : la capitalisation franchit les 20 000 milliards de FCFA",
    "summary": null,
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPa0dsNW94eG5sWVpscklXQTE2SEZoOEZBelNRUFpFRjlOQmotYmNwckR2WUhOeVB0TE9VTnhFeEVpcUl5UVhuLTVzc29DWVhJSkVMZC1xZWF3TW05NkNZUnZmaHZPclJIVFdFVGJSLXg3azV1blJMVHRIa1ZFRDZoTElGY3VYWVl1V3VycGxqUjBOMkhQTFQwRW1WTk1IX295UWlhSWdB?oc=5",
    "image": null,
    "source": "APAnews - Agence de Presse Africaine",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-08-24T07:00:00.000Z",
+   "symbols": []
+  },
+  {
+   "id": "gn-nh7606",
+   "title": "Les OPCVM actions de l’UEMOA affichent jusqu’à 40,5 % de gain en 2026",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRTNDd0RPdmJiRy05b1I0WXRwaGVCNTlOejZNeEI4c2pHYWtvUU9lb05xQVF0NDFha2tpZUQ0SlQ0N0F6YW1ac3lfVm5TaU42ZFZZSU5vNndza1BpT240bjlvTWpFMmFzWGgxeXRIeEUyR3pWV3E0aVNEQVVwRGxtMkZwQ0VUUWFReHBUSm5xS3BGOVJQTDZTRHpMaGRwQQ?oc=5",
+   "image": null,
+   "source": "Africtelegraph",
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-08-24T07:00:00.000Z",
@@ -1857,34 +1881,6 @@
    "publishedAt": "2026-07-24T07:00:00.000Z",
    "symbols": [
     "ETIT"
-   ]
-  },
-  {
-   "id": "gn-1etny21",
-   "title": "BRVM : Forte activité et hausses notables pour 5 actions clés, ETIT bondit de +100%",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYjVDQ3ZUemc5ckRIQ2g0dFhxUW05akd3c0FneGxfNjJSUFlCNjEyYUF4YzBYNnVOT1VJenYwSFA4ZlZsQ2NjT3RHOElGbnVBSVItWTE5UVdNRF96VTdFRFJRbEZ3bkx5SzN6Y0lCZ3R4Qm9HTGVpY053VFhoZmZfZkk3U3dBN1hiTXI3Z1ZmbGpNc1V4dXBXbHB3UQ?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-07-23T07:00:00.000Z",
-   "symbols": [
-    "ETIT"
-   ]
-  },
-  {
-   "id": "gn-v3ndzf",
-   "title": "Bridge Bank : les dessous de l’IPO éclair à la BRVM",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTV9QY0ZhMkV6SEhGTmliamFxbUJianFTczE5U09jM01pU1FyME5CZnlScGhZeGR3eWg5VjJaTlcySHp5M2RjTUlGakZFRDdobDlfR01SR3lueEhtN3lHT0NlZjN4ZGdvMENUUjZBek9SWkN4MHJfRDJzY0dzYTYyUVc3LWd4M2x3TG51OE5ISzVfM05LZUlLaUlGWF9YRDZIRFc0bEEtb0JUTms?oc=5",
-   "image": null,
-   "source": "Jeune Afrique",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-07-23T07:00:00.000Z",
-   "symbols": [
-    "BBGC"
    ]
   }
  ]
