@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-10-22T10:43:39.169Z",
+ "updatedAt": "2026-10-22T11:15:08.875Z",
  "items": [
+  {
+   "id": "sika-65172",
+   "title": "Bénin : L’énergie, les PME et le port de Cotonou au cœur du dialogue avec l’UE",
+   "summary": "L'extension du réseau électrique, la modernisation du Port autonome de Cotonou et l'accès des petites et moyennes entre...",
+   "url": "https://www.sikafinance.com/marches/benin-lenergie-les-pme-et-le-port-de-cotonou-au-c%C5%93ur-du-dialogue-avec-lue_65172",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-22T10:36:00Z",
+   "symbols": []
+  },
   {
    "id": "sika-65164",
    "title": "UEMOA : Le mobile money explose, plus de 200 000 milliards FCFA de transactions en 2025 selon la BCEAO",
@@ -1221,24 +1233,24 @@
    ]
   },
   {
-   "id": "gn-mle0vk",
-   "title": "Le Sénégal réussit sa première cotation obligataire à la BRVM",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNXlETjYxcUplM2VubTZJdFAtbHE2WTNFUkszTGFyVS1IVXRSS2U4dDBPbEM0RlZ3S3lQR2c4VVM2MWJIWjFDaU1NN1owdFZwdFFlVmxQbkhYWVMxVEV2Qlp0bVY3M2tkOTF0YTBrYVZTRXhpWkpCdmE4cEFyQWRZRTdjUGFQN0FORzdFcXBPdE1iaEIxSGRDWmdB?oc=5",
-   "image": null,
-   "source": "Africtelegraph",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-09-23T07:00:00.000Z",
-   "symbols": []
-  },
-  {
    "id": "gn-1hvzco1",
    "title": "BRVM : Le marché retient son souffle, le composite cédant plus de 3%",
    "summary": null,
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb1A2WDFGeEJJYUgwQUw1dXh5UTlzTHppMmROZEZVWXhsbXBFSHg4eFZaVHphclFaQTZCZzRQSjJmWDdyVFdFNllsUU55YVNHYlJnbWtCZEZKd0dnd3JvbFZ2cjkwcjk0ZWhHdWtHdTE0SGNaS2g3aTJaM3U2RElqa09TV1k2QVcxU2ZaQU51N3pFV1JkVDhFWWhETkwzTjQ0V3NwZmlVc0Ytdw?oc=5",
    "image": null,
    "source": "Sika Finance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-09-23T07:00:00.000Z",
+   "symbols": []
+  },
+  {
+   "id": "gn-mle0vk",
+   "title": "Le Sénégal réussit sa première cotation obligataire à la BRVM",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNXlETjYxcUplM2VubTZJdFAtbHE2WTNFUkszTGFyVS1IVXRSS2U4dDBPbEM0RlZ3S3lQR2c4VVM2MWJIWjFDaU1NN1owdFZwdFFlVmxQbkhYWVMxVEV2Qlp0bVY3M2tkOTF0YTBrYVZTRXhpWkpCdmE4cEFyQWRZRTdjUGFQN0FORzdFcXBPdE1iaEIxSGRDWmdB?oc=5",
+   "image": null,
+   "source": "Africtelegraph",
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-09-23T07:00:00.000Z",
@@ -1454,6 +1466,20 @@
    "publishedAt": "2026-09-03T01:08:34.000Z",
    "symbols": [
     "BOAB"
+   ]
+  },
+  {
+   "id": "gn-1gfad7o",
+   "title": "Sogb Côte d'Ivoire (SOGC) — BRVM",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sZUtjYXhXV041LTR6dVZsNkFvNzVIUXFtWlBibk55VUdnOV9OcEVSQzY3N1EzMGlhbEVJRFdBaUdPZ3dXLUpSUWppRXZZT1JTU29NeVJibE5XQU9UMkdLTWMyNEhzdw?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-09-03T01:08:25.000Z",
+   "symbols": [
+    "SOGC"
    ]
   },
   {
@@ -1863,30 +1889,6 @@
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-07-12T07:00:00.000Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-dz4fsi",
-   "title": "La BRVM ajoute trois sociétés à son indice 30 dans le cadre de son remaniement trimestriel",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPXzdpbG5zRTFmVjZoTHctYm43RExNaWU3WE5aaTNUSGxwYzZ5ZVN1bkszbTRfU3g3dWdzWmdYclMybFdZcEV4VnZsY3BuWmJSR29TZFQ1NlFlV2VIS3V0aG9NV1g3WEczR0Q3b3RpR2ZPbnZUVFp2cHY5aGZhdEdMaQ?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-07-11T07:00:00.000Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-18vdu6r",
-   "title": "La remontée du groupe Ecobank propulse la BRVM vers une nouvelle hausse hebdomadaire",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5PT19SYThYY1hnNE5UaUNVZm8tMVZkUE55WEU3SVFaMktGZUxheENnS2ZzWWtmWHE4bHJNZVVPQmg4eDZvcmpGdWl3MXZFOVdFRk9NWnlTTngySFdWbVU0VEN0SDNFSzBFNUF2ei1vdHdIei02MHdBSDl3?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-07-11T07:00:00.000Z",
    "symbols": []
   }
  ]
