@@ -1,6 +1,30 @@
 {
- "updatedAt": "2026-10-22T11:15:08.875Z",
+ "updatedAt": "2026-10-22T11:47:51.164Z",
  "items": [
+  {
+   "id": "sika-65177",
+   "title": "Alerte cybersécurité : Deux failles critiques dans PHP menacent plus de 70% des sites web dans le monde",
+   "summary": "Dans le cadre de sa veille en cybersécurité, l'équipe PHP a annoncé, le 21 octobre 2026, des correctifs urgents pour de...",
+   "url": "https://www.sikafinance.com/marches/alerte-cybersecurite-deux-failles-critiques-dans-php-menacent-plus-de-70-des-sites-web-dans-le-monde_65177",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-10-22T11:42:00Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65176",
+   "title": "Afrique-Asie : Un financement de plus de 1 milliard USD espéré sous 6 mois",
+   "summary": "L'Afrique et l'Asie commercent à grande échelle, mais les capitaux ne circulent pas encore à la hauteur de leurs échang...",
+   "url": "https://www.sikafinance.com/marches/afrique-asie-un-financement-de-plus-de-1-milliard-usd-espere-sous-6-mois_65176",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-22T11:20:00Z",
+   "symbols": []
+  },
   {
    "id": "sika-65172",
    "title": "Bénin : L’énergie, les PME et le port de Cotonou au cœur du dialogue avec l’UE",
@@ -749,6 +773,20 @@
    "premium": false,
    "publishedAt": "2026-10-17T12:55:00Z",
    "symbols": []
+  },
+  {
+   "id": "gn-b4sjlr",
+   "title": "Bourse : Sonatel divise la valeur de ses actions, ce qui va changer pour les investisseurs",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPYnVYOW1YLVQ5aUFkT1JuZ3d2a3JSVWtjZTFsdklSYzZSWlFsZVFMRTR0am5aRUxRNGhzX3BmNERfVmVSZTdPUWdVU2szUXBkRjFWdS03Yzdpa0FVWE5UUUJ1SDF6T2xVS1F4VkJSbDEzUXhEd0dWdElKd0dYdGtyYWVfRGxhYlhQcS1IQkpraEk0WXRYMzE0NklxWjlBb0JLQ0tLY3pienpOUkRYNTFCSHpPZy1YNzhIYmp4SHNqRUFZNzNZckl2azNZX0JlZXB2WDVlWllQWlROakRlNnc?oc=5",
+   "image": null,
+   "source": "Seneweb",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-10-17T09:56:01.000Z",
+   "symbols": [
+    "SNTS"
+   ]
   },
   {
    "id": "sika-65013",
@@ -1849,46 +1887,6 @@
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-07-18T07:00:00.000Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-1vjq1ih",
-   "title": "Les actions du BRVM enregistrent une nouvelle hausse hebdomadaire, emmenées par Uniwax",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUF9RU2FTMk5xbFRSWGVzS0ZzRENya2dIZG1oOGIxUzlUOXF1Nkk4endPSFJ3dEhZYVVRdm9oRlJQc0xMNFJfUlplWFZ2NVRSN0Q3bkdtbGNhSDFOcnFuTzhHaWtUeGFjc2xPUlNXNmpXbDQ0bWNlYTEwdkNwOFhiYmloOWo0UnZFSjRpUWd3U0U?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-07-18T07:00:00.000Z",
-   "symbols": [
-    "UNXC"
-   ]
-  },
-  {
-   "id": "gn-121kgsn",
-   "title": "Bridge Bank Group Côte d’Ivoire lance son IPO à la BRVM pour lever 67,5 milliards FCFA",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRV8xVm1BZXdSdG1Ia0J1RGI1ejdTR3J2RWx1a2cxak9fQzZDUXBSaFlocF9na2ItSHM2dTI2bkhuVEVuOFF2YWdCcEVTS3lhSmNSMURyd1V3RjBMYlF6MmF3V2NDR3c0TkFtSVFsenczeG0zYzZxQWItemlOVVFQSXVFTXA4SF9yZ0dKdEk3MWM3eTlrb3haM00xUGJVVXN3UGpOTnd4aWxJTFEteGN4ZmZpUUxfUQ?oc=5",
-   "image": null,
-   "source": "Capmad",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-07-17T07:00:00.000Z",
-   "symbols": [
-    "BBGC"
-   ]
-  },
-  {
-   "id": "gn-1iq8oz2",
-   "title": "Devenez actionnaire de l'une des meilleures banques d'Afrique de l'Ouest : l'introduction en bourse ...",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQck42Tlh5SXcyUXpUQkhNcWpIZkpuR2ZoNEp2X3c1UmZITjAyS2ZPeWU5OGkybDJpVzRuNHAyU19XMlpIZ3lmVlUtYUR3SGZWWlo4bS0yT25VdVRNXzM4N0h3cEhEUWtoLWRLR3lHZHJjaGNMYkxuekZTbnpLZUF3OWUtZ28teUZjNXJFbkhMSG9hV1dxb3M5dmJ3?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-07-12T07:00:00.000Z",
    "symbols": []
   }
  ]

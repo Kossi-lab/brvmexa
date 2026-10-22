@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-10-22T11:14:31.903Z",
+ "updatedAt": "2026-10-22T11:47:28.040Z",
  "sessionDate": "2026-10-22",
- "sessionTime": "11:06",
+ "sessionTime": "11:45",
  "source": "brvm.org",
  "items": [
   {
@@ -9,8 +9,8 @@
    "name": "BRVM 30",
    "group": "main",
    "prevClose": 252.04,
-   "close": 252.79,
-   "change": 0.3,
+   "close": 254.27,
+   "change": 0.88,
    "ytd": 1.97
   },
   {
@@ -18,8 +18,8 @@
    "name": "BRVM Composite",
    "group": "main",
    "prevClose": 520.27,
-   "close": 521.81,
-   "change": 0.3,
+   "close": 524.49,
+   "change": 0.81,
    "ytd": 1.7
   },
   {
@@ -27,8 +27,8 @@
    "name": "BRVM Prestige",
    "group": "main",
    "prevClose": 192.83,
-   "close": 193.67,
-   "change": 0.44,
+   "close": 194.79,
+   "change": 1.02,
    "ytd": 1.47
   },
   {
@@ -36,8 +36,8 @@
    "name": "BRVM Principal",
    "group": "main",
    "prevClose": 366.64,
-   "close": 366.59,
-   "change": -0.01,
+   "close": 366.9,
+   "change": 0.07,
    "ytd": 0.78
   },
   {
@@ -45,8 +45,8 @@
    "name": "BRVM Consommation de Base",
    "group": "main",
    "prevClose": 259.34,
-   "close": 259.86,
-   "change": 0.2,
+   "close": 259.73,
+   "change": 0.15,
    "ytd": 1.51
   },
   {
@@ -54,8 +54,8 @@
    "name": "BRVM Consommation Discrétionnaire",
    "group": "main",
    "prevClose": 183,
-   "close": 176.84,
-   "change": -3.37,
+   "close": 180.33,
+   "change": -1.46,
    "ytd": -0.87
   },
   {
@@ -63,8 +63,8 @@
    "name": "BRVM Énergie",
    "group": "main",
    "prevClose": 155.55,
-   "close": 155.98,
-   "change": 0.28,
+   "close": 156.76,
+   "change": 0.78,
    "ytd": -0.11
   },
   {
@@ -72,8 +72,8 @@
    "name": "BRVM Industriels",
    "group": "main",
    "prevClose": 210.8,
-   "close": 210.44,
-   "change": -0.17,
+   "close": 211,
+   "change": 0.09,
    "ytd": 0.12
   },
   {
@@ -81,8 +81,8 @@
    "name": "BRVM Services Financiers",
    "group": "main",
    "prevClose": 239.76,
-   "close": 240.37,
-   "change": 0.25,
+   "close": 240.1,
+   "change": 0.14,
    "ytd": 0.56
   },
   {
@@ -90,8 +90,8 @@
    "name": "BRVM Services Publics",
    "group": "main",
    "prevClose": 220.84,
-   "close": 215.99,
-   "change": -2.2,
+   "close": 217.59,
+   "change": -1.47,
    "ytd": 3.3
   },
   {
@@ -99,8 +99,8 @@
    "name": "BRVM Télécommunications",
    "group": "main",
    "prevClose": 142.17,
-   "close": 143.26,
-   "change": 0.77,
+   "close": 145.2,
+   "change": 2.13,
    "ytd": 3.44
   },
   {
@@ -108,8 +108,8 @@
    "name": "BRVM Composite Total Return",
    "group": "total_return",
    "prevClose": 209.59,
-   "close": 210.23,
-   "change": 0.31,
+   "close": 211.31,
+   "change": 0.82,
    "ytd": 1.7
   }
  ]
