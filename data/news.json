@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-10-22T19:36:28.054Z",
+ "updatedAt": "2026-10-22T20:33:39.695Z",
  "items": [
+  {
+   "id": "sika-65195",
+   "title": "Côte d’Ivoire : 68 000 certificats fonciers délivrés en 2026 contre 4 000 en 2017 grâce au numérique",
+   "summary": "La scène se déroule en mars 2026, à Bongouanou, dans la région du Moronou, à l'Est de la Côte d'Ivoire. Dame M'Bl...",
+   "url": "https://www.sikafinance.com/marches/cote-divoire-68-000-certificats-fonciers-delivres-en-2026-contre-4-000-en-2017-grace-au-numerique_65195",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-22T19:48:00Z",
+   "symbols": []
+  },
   {
    "id": "sika-65194",
    "title": "Ghana : 10 milliards USD annoncés sur 5 ans pour accélérer l’industrialisation et créer des emplois",
@@ -1149,6 +1161,18 @@
    ]
   },
   {
+   "id": "gn-1ffmfb6",
+   "title": "BRVM / BOA : La rentabilité prend le dessus sur la croissance au 1er semestre 2026",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQclNIX0gxaXNHdFhaeXl5eFZTMzdmMlJMR3BuTE1jcExqVDhWUHhZNWp3bGY2Y3ExUVpuYjRQWXFiX09yNm5VM0lvVXoyeVl4VTl3ZGtDdk9xbWxVWjFucVh0VWxsOEFmNDBBbHVwZk0weUtfNGltVEhoRVc0eFdEVEhnZE51OTJNdjZxamt3eWtmRFBtMW9xNEg1ZXNnaVFISWg0eVppT096eTQ0OXVCekJCQ1YzLTdLSFdfcQ?oc=5",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-10-06T13:43:47.000Z",
+   "symbols": []
+  },
+  {
    "id": "gn-vw1wj7",
    "title": "Bourse de Casablanca et BRVM: les places africaines qui aimantent les capitaux étrangers",
    "summary": null,
@@ -1853,32 +1877,6 @@
    "symbols": [
     "BOAC",
     "SAFC"
-   ]
-  },
-  {
-   "id": "gn-1ty0sws",
-   "title": "Achat d'actions à la BRVM : Comment la digitalisation révolutionne l'accès aux investisseurs individuels",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNU3Zjcy02WFhpRkhhbDM3dDRVV09abG42WFRKU2FKZmphcVFPdWhxM2dwa194U1JsTkt5Uy1xaldGWTRfdk5IYzVCeUVTMDM5SWpMRmFrRnhCMGNUMFFQaWo5dmMtS0E4ZWItQVc4RVIzdUY4Tmd2eVN3amY1OFhxQ2JJSlUxajRjZmFvUmkzamhjSXB1V19IeEZyNWJ5SnlIcHN6ZTN2ZUM0THFDRWZtU2FlUWc2cDFqeXVWVEQ2YnpKZVVra0xTYUszNWNsR3h3a2hwejFON2JwMTB2?oc=5",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-08-04T07:00:00.000Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-hvwzkw",
-   "title": "BRVM : la chute d’ETI efface 90 milliards FCFA de capitalisation en une séance",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT2dPYjZGOEFhMG5VWmtsbm5yT2tMSHdUYXhYaEp2enlPWnp6VlV6LVE2ZlpSZFJWZHBWdnFVUHBEX1NBSi1tdE52d1dCRTJvbnZ4WTZDUjc4TU1LamlveVotbzJrQXJXdmFIcmhhZXJ5UGNoUDZ2bTl1ZnliMnZxREswdWtKQ004cDA0OV9HYzZSXzgyZlgxU0JYSTdjRjFGUy1mUlhQUFlodw?oc=5",
-   "image": null,
-   "source": "Capmad",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-07-29T07:00:00.000Z",
-   "symbols": [
-    "ETIT"
    ]
   }
  ]
