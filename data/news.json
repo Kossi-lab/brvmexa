@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-10-22T20:33:39.695Z",
+ "updatedAt": "2026-10-22T21:33:33.952Z",
  "items": [
+  {
+   "id": "gn-1xs0wj0",
+   "title": "AFIS 2026 :la BRVM plaide pour une intégration accrue des marchés de capitaux africains",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNFV4cDhraTV0cEp0UU5VT0pkNUdIR01BdVJCU1VORFl3a2tka1hGUGFHcVJ4VUZKMnpBN09ldE4yME95amdmU1BScHRydWU2cVdpeTJpSHpOTnhoXzVHdXc4OHZ4bEpWWXBiS0ctbXdRem5YT3Jsb2Z4X2RQT2dWVzRmMXhmVVZCWVVNYnlJWGFNV0J3Y3VHNFpNY1MwRF82TVFQZ0V5S1ZkdkM4eG1QbUFHRld0Z1RRMTJ2dE5OSWtqaG53dmxFVg?oc=5",
+   "image": null,
+   "source": "Financial Afrik",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-10-22T20:52:41.000Z",
+   "symbols": []
+  },
   {
    "id": "sika-65195",
    "title": "Côte d’Ivoire : 68 000 certificats fonciers délivrés en 2026 contre 4 000 en 2017 grâce au numérique",
@@ -1863,21 +1875,6 @@
    "premium": false,
    "publishedAt": "2026-08-06T07:00:00.000Z",
    "symbols": []
-  },
-  {
-   "id": "gn-1wiek6d",
-   "title": "BRVM : Safca Côte d'Ivoire (SAFC) bondit de +45,71% et Bank of Africa (BOAC) de +6,47%",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRlA5MGFuTTdhXzdUQl9udjJHZEJ1MERZNHhvUFc3c2E3V0hFalh5eFQ0YjRWTlZXbk1WT29iWEhuZHZoQlZkTFZ5MmY5cnRqT05Vek84MU4wX2VncVlRcldhdTAyNS1iN3ZNN2xRN2ZweXY3dEtiQzM0QmN2VjkyZHFVTmM?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-08-04T07:00:00.000Z",
-   "symbols": [
-    "BOAC",
-    "SAFC"
-   ]
   }
  ]
 }
