@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-22T14:09:00.192Z",
+ "updatedAt": "2026-10-22T14:46:42.859Z",
  "items": [
   {
    "id": "sika-65179",
@@ -1239,20 +1239,6 @@
    ]
   },
   {
-   "id": "gn-1im50v3",
-   "title": "BRVM : UNIWAX CI publie un communiqué sur les déclarations de franchissement de seuil",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOXRPTU9VdHN4V3poVjBKamwtNkdWOGhoMzloc1MxWllPT1hoYnVzNzNTdG5lbHc4akhGR21aOFVoaUJjQlB2QXJJa2FjUmNEWVJtTEtCN0RWU2ttZEpCVTBlQzVPTWFSY0w5cURaWVZfX2MxRkJ5MWFNZEVjSjZUYnBlX3VTUlk0dzhHdFVMZF8?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-09-24T07:00:00.000Z",
-   "symbols": [
-    "UNXC"
-   ]
-  },
-  {
    "id": "gn-1pgu4xj",
    "title": "Marchés africains : Sonatel veut élargir sa base d’investisseurs",
    "summary": null,
@@ -1267,17 +1253,17 @@
    ]
   },
   {
-   "id": "gn-p6xrw2",
-   "title": "BRVM : Bridge Bank Group Côte d'Ivoire entre en Bourse après une IPO de 67,5 milliards FCFA",
+   "id": "gn-1im50v3",
+   "title": "BRVM : UNIWAX CI publie un communiqué sur les déclarations de franchissement de seuil",
    "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd1NKUWNaNkFtNjdsbWJwc1E0SnFwcVRkS2VkVmg5OW9FRWlTZzh3LS1VenhFalN6REE5OWVaeHgwNXpzM0xCRTI4cE9aeU1BWUhDUGdNUTJwUklnSDFWUmFpTUVfdHlKUlNLZkZOM3VLLXVCOGJCU2ZvZjAwLWF6emlfcENqem5ZTFB3bVhSSURCSmlHb1RMNmtGWGhkdnVPdFpaUVQxUGZUTVNBLWMxQTlDZGd6SDRiZDNz?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOXRPTU9VdHN4V3poVjBKamwtNkdWOGhoMzloc1MxWllPT1hoYnVzNzNTdG5lbHc4akhGR21aOFVoaUJjQlB2QXJJa2FjUmNEWVJtTEtCN0RWU2ttZEpCVTBlQzVPTWFSY0w5cURaWVZfX2MxRkJ5MWFNZEVjSjZUYnBlX3VTUlk0dzhHdFVMZF8?oc=5",
    "image": null,
-   "source": "Journal du Niger",
+   "source": "Dabafinance",
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-09-24T07:00:00.000Z",
    "symbols": [
-    "BBGC"
+    "UNXC"
    ]
   },
   {
@@ -1287,6 +1273,20 @@
    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORFVkZnBiOXBieW40Sk1MMnpGOUpNWW1Da3I3QzlDTHdFM1MyNl9qaU1rX2FGQ0dZUmEtYU1uYlFJMzBPV0VoMkxXSlIzeTdQRXBwN0xkTXNHZXlOcm1rUjlYYmJ5blNldVF6a3pBU3B1dm5MMV9TamR5a0V4ZDVrdm9TT0ROMVk2OVVVdV9lWDlVZXZlTEQ3TU1HSS0wMWIxMmplektISzdaSVRtMHlhUFlwRjc1OU5nU21zYVV4eVFyNjltUE44TzVoMS1EcXdQdEtaRkFXcGo3X2s1?oc=5",
    "image": null,
    "source": "Pressecotedivoire",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-09-24T07:00:00.000Z",
+   "symbols": [
+    "BBGC"
+   ]
+  },
+  {
+   "id": "gn-p6xrw2",
+   "title": "BRVM : Bridge Bank Group Côte d'Ivoire entre en Bourse après une IPO de 67,5 milliards FCFA",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd1NKUWNaNkFtNjdsbWJwc1E0SnFwcVRkS2VkVmg5OW9FRWlTZzh3LS1VenhFalN6REE5OWVaeHgwNXpzM0xCRTI4cE9aeU1BWUhDUGdNUTJwUklnSDFWUmFpTUVfdHlKUlNLZkZOM3VLLXVCOGJCU2ZvZjAwLWF6emlfcENqem5ZTFB3bVhSSURCSmlHb1RMNmtGWGhkdnVPdFpaUVQxUGZUTVNBLWMxQTlDZGd6SDRiZDNz?oc=5",
+   "image": null,
+   "source": "Journal du Niger",
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-09-24T07:00:00.000Z",
@@ -1643,24 +1643,24 @@
    "symbols": []
   },
   {
-   "id": "gn-1srhh9b",
-   "title": "BRVM : la capitalisation franchit les 20 000 milliards de FCFA",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPa0dsNW94eG5sWVpscklXQTE2SEZoOEZBelNRUFpFRjlOQmotYmNwckR2WUhOeVB0TE9VTnhFeEVpcUl5UVhuLTVzc29DWVhJSkVMZC1xZWF3TW05NkNZUnZmaHZPclJIVFdFVGJSLXg3azV1blJMVHRIa1ZFRDZoTElGY3VYWVl1V3VycGxqUjBOMkhQTFQwRW1WTk1IX295UWlhSWdB?oc=5",
-   "image": null,
-   "source": "APAnews - Agence de Presse Africaine",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-08-24T07:00:00.000Z",
-   "symbols": []
-  },
-  {
    "id": "gn-nh7606",
    "title": "Les OPCVM actions de l’UEMOA affichent jusqu’à 40,5 % de gain en 2026",
    "summary": null,
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRTNDd0RPdmJiRy05b1I0WXRwaGVCNTlOejZNeEI4c2pHYWtvUU9lb05xQVF0NDFha2tpZUQ0SlQ0N0F6YW1ac3lfVm5TaU42ZFZZSU5vNndza1BpT240bjlvTWpFMmFzWGgxeXRIeEUyR3pWV3E0aVNEQVVwRGxtMkZwQ0VUUWFReHBUSm5xS3BGOVJQTDZTRHpMaGRwQQ?oc=5",
    "image": null,
    "source": "Africtelegraph",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-08-24T07:00:00.000Z",
+   "symbols": []
+  },
+  {
+   "id": "gn-1srhh9b",
+   "title": "BRVM : la capitalisation franchit les 20 000 milliards de FCFA",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPa0dsNW94eG5sWVpscklXQTE2SEZoOEZBelNRUFpFRjlOQmotYmNwckR2WUhOeVB0TE9VTnhFeEVpcUl5UVhuLTVzc29DWVhJSkVMZC1xZWF3TW05NkNZUnZmaHZPclJIVFdFVGJSLXg3azV1blJMVHRIa1ZFRDZoTElGY3VYWVl1V3VycGxqUjBOMkhQTFQwRW1WTk1IX295UWlhSWdB?oc=5",
+   "image": null,
+   "source": "APAnews - Agence de Presse Africaine",
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-08-24T07:00:00.000Z",
@@ -1679,24 +1679,24 @@
    "symbols": []
   },
   {
-   "id": "gn-jc7rf2",
-   "title": "La BRVM franchit le cap des 20 000 milliards de Fcfa",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTEpXYXVkUGx3QkJvSGFRN0QwcU5rOEI0TTJ3cHZ4eXk3STNJNS10M05qRDV5NDRpeU9RYzJmVGhVNUZ5anVScGFiWGlxd1hnUGk4dGRRUy00bTlxRkZBZW9XaG13UXhGRXNITVdpU255X1czdnMxUWtzUmdRbzY5YXRaZDlYU1JqZDRDWU9B?oc=5",
-   "image": null,
-   "source": "APAnews - Agence de Presse Africaine",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-08-21T07:00:00.000Z",
-   "symbols": []
-  },
-  {
    "id": "gn-ojzu9x",
    "title": "La BRVM dépasse pour la première fois 20 000 milliards de FCFA",
    "summary": null,
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZFBrNTAyNlZkaFJTXzRfZk5HdGV2bURaNGdGdEpZSm1fNzk4Zm04clJ6Q1QtZ1gtZlFYUTNqMUJuVkZSZHpLZnVoZE5kWXUxZWFyeEJOZm9lRUtNN2lEc0k0SzM0VG9xaGlKUTRjNTgzODhCTUE3Z0JhNDJGTjFHU1hCSHNZWjNNMTNpem5hX1FyUWpEV05lUVpsNA?oc=5",
    "image": null,
    "source": "Africtelegraph",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-08-21T07:00:00.000Z",
+   "symbols": []
+  },
+  {
+   "id": "gn-jc7rf2",
+   "title": "La BRVM franchit le cap des 20 000 milliards de Fcfa",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTEpXYXVkUGx3QkJvSGFRN0QwcU5rOEI0TTJ3cHZ4eXk3STNJNS10M05qRDV5NDRpeU9RYzJmVGhVNUZ5anVScGFiWGlxd1hnUGk4dGRRUy00bTlxRkZBZW9XaG13UXhGRXNITVdpU255X1czdnMxUWtzUmdRbzY5YXRaZDlYU1JqZDRDWU9B?oc=5",
+   "image": null,
+   "source": "APAnews - Agence de Presse Africaine",
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-08-21T07:00:00.000Z",
@@ -1860,18 +1860,6 @@
    ]
   },
   {
-   "id": "gn-17lbadw",
-   "title": "BRVM : 23 valeurs portent le rebond du marché",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaTRaQUkzRU13M2k5UkozSE93V1ZMTVFMNEI3Tm9TQTRFVS14ZENFcnBRemk4YWM1X3E1VDVCbUZxdjd2NjFWbkVkdTNnYS04OEJuMGpoSjR2b3FIc3V2ZWlHdzhKUktmY0hwbXBwbDhVOWhLcjhnb2FxZFpuelR0aEIwMDBMcVFyOC1nQ0x3?oc=5",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-07-22T07:00:00.000Z",
-   "symbols": []
-  },
-  {
    "id": "gn-1xa3q75",
    "title": "Bridge Bank en Bourse (BRVM) : au-delà du succès, le test du Price-to-Book",
    "summary": null,
@@ -1884,6 +1872,18 @@
    "symbols": [
     "BBGC"
    ]
+  },
+  {
+   "id": "gn-17lbadw",
+   "title": "BRVM : 23 valeurs portent le rebond du marché",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaTRaQUkzRU13M2k5UkozSE93V1ZMTVFMNEI3Tm9TQTRFVS14ZENFcnBRemk4YWM1X3E1VDVCbUZxdjd2NjFWbkVkdTNnYS04OEJuMGpoSjR2b3FIc3V2ZWlHdzhKUktmY0hwbXBwbDhVOWhLcjhnb2FxZFpuelR0aEIwMDBMcVFyOC1nQ0x3?oc=5",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-07-22T07:00:00.000Z",
+   "symbols": []
   }
  ]
 }
