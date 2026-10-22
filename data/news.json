@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-10-22T08:41:47.637Z",
+ "updatedAt": "2026-10-22T09:28:15.024Z",
  "items": [
+  {
+   "id": "sika-65164",
+   "title": "UEMOA : Le mobile money explose, plus de 200 000 milliards FCFA de transactions en 2025 selon la BCEAO",
+   "summary": "Le mobile money confirme son rôle de moteur incontournable de l'inclusion financière avec un volume de transactio...",
+   "url": "https://www.sikafinance.com/marches/uemoa-le-mobile-money-explose-plus-de-200-000-milliards-fcfa-de-transactions-en-2025-selon-la-bceao_65164",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-22T09:11:00Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65165",
+   "title": "Sénégal : L’activité économique s’est accrue de 2,3 % en juillet 2026",
+   "summary": "L'activité économique interne du Sénégal a progressé de 2,3 % en juillet 2026 par rapport au mois précédent, portée not...",
+   "url": "https://www.sikafinance.com/marches/senegal-lactivite-economique-sest-accrue-de-2-3-en-juillet-2026_65165",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-22T09:08:00Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65162",
+   "title": "Le résultat net de BOA Sénégal progresse de 11% à fin septembre 2026",
+   "summary": "Dans un environnement bancaire où la croissance des revenus et la maîtrise des risques demeurent des enjeu...",
+   "url": "https://www.sikafinance.com/marches/le-resultat-net-de-boa-senegal-progresse-de-11-a-fin-septembre-2026_65162",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-10-22T09:03:00Z",
+   "symbols": [
+    "BOAS"
+   ]
+  },
   {
    "id": "sika-65153",
    "title": "Budgets 2027 : Le Burkina Faso et le Bénin plafonnent leur déficit sous 3% du PIB",
@@ -1341,6 +1379,18 @@
    "symbols": []
   },
   {
+   "id": "gn-i5twj8",
+   "title": "BRVM admet à la cote les Diaspora Bonds du Burkina Faso après une levée record",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPU2JSNjV2QVM3WTM0S2ZEWXpZUVhsbXMxbjBtWmdsQnp1T2h0NnFqVzZQVjlZd1U0b0JJUVliTXFMMVJtVUFEcEtwbDlzOWRlbU9qZWk2WTlMSzJvWTJ6Wk9DZHowQ2o4VnZCNFF4bFo3aHdvbklIcW54dWVGRWh4SU5ya3BURTZPaEU3MmkwOTMzczU0MDVOdlJ4SXIxbEhfQXNGNjJWT2otN3JodHc?oc=5",
+   "image": null,
+   "source": "Capmad",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-09-07T07:00:00.000Z",
+   "symbols": []
+  },
+  {
    "id": "gn-170bpkg",
    "title": "La Bourse de la BRVM poursuit sa remontée alors que sa capitalisation boursière dépasse les 21 T XOF",
    "summary": null,
@@ -1517,18 +1567,6 @@
    "symbols": []
   },
   {
-   "id": "gn-rscwmz",
-   "title": "BRVM Rally: 9 Stocks Show Notable Upward Moves",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14cEdlcjRKOUxPWTU5Z0RtTUFwWll1c2k2b2VFUkhYSFotNzQyYXZkaldtcmlNeUlRcWU4OHhid0dQT0ljTVNiT0Y4d0s0cVdWQWNOUHVZRkNZSXdYQVhGV2tuZy0wMW5XQ3ZiUl8zb2N4YXRGRms5Q1BnYXF0TkE?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-08-21T07:00:00.000Z",
-   "symbols": []
-  },
-  {
    "id": "gn-ojzu9x",
    "title": "La BRVM dépasse pour la première fois 20 000 milliards de FCFA",
    "summary": null,
@@ -1559,6 +1597,18 @@
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTEpXYXVkUGx3QkJvSGFRN0QwcU5rOEI0TTJ3cHZ4eXk3STNJNS10M05qRDV5NDRpeU9RYzJmVGhVNUZ5anVScGFiWGlxd1hnUGk4dGRRUy00bTlxRkZBZW9XaG13UXhGRXNITVdpU255X1czdnMxUWtzUmdRbzY5YXRaZDlYU1JqZDRDWU9B?oc=5",
    "image": null,
    "source": "APAnews - Agence de Presse Africaine",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-08-21T07:00:00.000Z",
+   "symbols": []
+  },
+  {
+   "id": "gn-rscwmz",
+   "title": "BRVM Rally: 9 Stocks Show Notable Upward Moves",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14cEdlcjRKOUxPWTU5Z0RtTUFwWll1c2k2b2VFUkhYSFotNzQyYXZkaldtcmlNeUlRcWU4OHhid0dQT0ljTVNiT0Y4d0s0cVdWQWNOUHVZRkNZSXdYQVhGV2tuZy0wMW5XQ3ZiUl8zb2N4YXRGRms5Q1BnYXF0TkE?oc=5",
+   "image": null,
+   "source": "Dabafinance",
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-08-21T07:00:00.000Z",
@@ -1837,60 +1887,6 @@
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-07-11T07:00:00.000Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-ouv3pt",
-   "title": "BRVM : Quatre titres en hausse notable, Total Senegal mène le bal avec +22.3% sur 30 jours",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcGFWN2cxNVdwZ1ZUTkZaNWJDYmg4NENEWjNNOW43OW1EaW9sY3pCSkJOT1lSck4zR21RR3RKMk1qSHN0X1Y5SVhEc2ZHTE96bnZlNk5VdnUwbGUzaTNoSUVDeGpGNTA0azZnZ3hfUk5wbXc2MGV6bEdFY2NEZEFucw?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-07-09T07:00:00.000Z",
-   "symbols": [
-    "TTLS"
-   ]
-  },
-  {
-   "id": "gn-1edrf8f",
-   "title": "Bridge Bank lance une introduction en bourse de 118 millions de dollars sur la BRVM d'Afrique de l'Ouest",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeGR3QUlsVFo0ZF9ZdU0zWGNnMVFvdmJ0a2sxZ2FWV2h3MWRRejJTZGZCT01EQV9TNEFiQS1EdnJfVHNfelB6eWdPQWZiT3RnMERHLUdfQ2FqYjVub1J4b0RrMnc2XzVhZi1jTXAtZGhZS2tYelVSSWdCaTFXZmRrbzJoUkdMZGFhNkhZ?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-07-09T07:00:00.000Z",
-   "symbols": [
-    "BBGC"
-   ]
-  },
-  {
-   "id": "gn-qd5ssa",
-   "title": "Bridge Bank Group Côte d’Ivoire officialise son introduction à la BRVM avec une OPV de 20 % du capital",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQUlmTHFxVlpsU3o0ZWFpNDF5NDZxeFlnenJ4bGdUaUVzYzZENG5uMWNZUEV4eURzemU1NFMtLUtlcXhRLThwZTdRNlExd3MwbVBRNW4xWmx0SlVObEc4NFFOT1ppSjNObW1DbVc3UWhtd0FXY1pYMWUwWUtaeXpKUmdUcVlydGJLbkVNRmNaSjEzN1B4SmhkT2dBd0hXT2ctOHR1aG9sVkJPU0NYMG04bnpXVXB3OTV6Mlk4MzFOZjlIbnpFdVFadlR3?oc=5",
-   "image": null,
-   "source": "Capmad",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-07-08T07:00:00.000Z",
-   "symbols": [
-    "BBGC"
-   ]
-  },
-  {
-   "id": "gn-fogxhy",
-   "title": "BRVM Daily Market Report: July 7th, 2026 – Your West African Market Update",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGhMX3Y4cVpWeVljMmpxbGx4S29vV2UtVFVSWHE5NWlqbkszbVRUVlp1V1REWlF2dmN3ZWlhOW9xQUpGVlM5UDhLRG1ETXBQWlc1cTZCWGxvZTYwWUNLVlZOMjZVLWJhVXNSb2JPWHdSM0V1ejJUVGszT2lGdWp4VE9Zbw?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-07-08T07:00:00.000Z",
    "symbols": []
   }
  ]

@@ -1,124 +1,16 @@
 {
- "updatedAt": "2026-10-22T08:41:20.278Z",
- "sessionDate": "2026-10-21",
- "sessionTime": "22:45",
+ "updatedAt": "2026-10-22T09:27:52.101Z",
+ "sessionDate": "2026-10-22",
+ "sessionTime": "09:15",
  "source": "brvm.org",
- "transactionsValue": 2807635486,
+ "transactionsValue": 0,
  "capitalisationActions": 20402293029296,
  "capitalisationBonds": 13466970861882,
- "advancing": 9,
- "declining": 30,
- "unchanged": 9,
- "totalVolume": 1244966,
- "gainers": [
-  {
-   "symbol": "TTLS",
-   "shortName": "TotalEnergies Marketing Sénégal",
-   "close": 3700,
-   "change": 7.25,
-   "volume": 2283
-  },
-  {
-   "symbol": "SHEC",
-   "shortName": "Vivo Energy CI",
-   "close": 2160,
-   "change": 4.35,
-   "volume": 2110
-  },
-  {
-   "symbol": "STAC",
-   "shortName": "SETAO CI",
-   "close": 1975,
-   "change": 4.22,
-   "volume": 846
-  },
-  {
-   "symbol": "SCRC",
-   "shortName": "Sucrivoire CI",
-   "close": 2150,
-   "change": 1.42,
-   "volume": 4704
-  },
-  {
-   "symbol": "SLBC",
-   "shortName": "Solibra CI",
-   "close": 38990,
-   "change": 1.21,
-   "volume": 154
-  }
- ],
- "losers": [
-  {
-   "symbol": "SIVC",
-   "shortName": "Erium CI",
-   "close": 1610,
-   "change": -5.29,
-   "volume": 4302
-  },
-  {
-   "symbol": "CIEC",
-   "shortName": "CIE Côte d’Ivoire",
-   "close": 5000,
-   "change": -3.85,
-   "volume": 10335
-  },
-  {
-   "symbol": "BICC",
-   "shortName": "BICI Côte d’Ivoire",
-   "close": 30800,
-   "change": -3.78,
-   "volume": 559
-  },
-  {
-   "symbol": "TTLC",
-   "shortName": "TotalEnergies Marketing CI",
-   "close": 2895,
-   "change": -3.5,
-   "volume": 1317
-  },
-  {
-   "symbol": "SDCC",
-   "shortName": "SODECI",
-   "close": 11605,
-   "change": -3.37,
-   "volume": 1941
-  }
- ],
- "mostActive": [
-  {
-   "symbol": "SNTS",
-   "shortName": "Sonatel",
-   "close": 41745,
-   "change": -0.32,
-   "volume": 34251
-  },
-  {
-   "symbol": "BOAC",
-   "shortName": "BOA Côte d’Ivoire",
-   "close": 11250,
-   "change": 0,
-   "volume": 12450
-  },
-  {
-   "symbol": "SGBC",
-   "shortName": "Société Générale CI",
-   "close": 39000,
-   "change": 0,
-   "volume": 2643
-  },
-  {
-   "symbol": "NEIC",
-   "shortName": "NEI-CEDA CI",
-   "close": 2130,
-   "change": -0.23,
-   "volume": 48380
-  },
-  {
-   "symbol": "ORAC",
-   "shortName": "Orange Côte d’Ivoire",
-   "close": 19900,
-   "change": -1.14,
-   "volume": 4828
-  }
- ]
+ "advancing": 0,
+ "declining": 0,
+ "unchanged": 48,
+ "totalVolume": 0,
+ "gainers": [],
+ "losers": [],
+ "mostActive": []
 }
