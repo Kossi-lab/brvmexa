@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-22T09:28:15.024Z",
+ "updatedAt": "2026-10-22T10:09:28.870Z",
  "items": [
   {
    "id": "sika-65164",
@@ -1221,24 +1221,24 @@
    ]
   },
   {
-   "id": "gn-mle0vk",
-   "title": "Le Sénégal réussit sa première cotation obligataire à la BRVM",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNXlETjYxcUplM2VubTZJdFAtbHE2WTNFUkszTGFyVS1IVXRSS2U4dDBPbEM0RlZ3S3lQR2c4VVM2MWJIWjFDaU1NN1owdFZwdFFlVmxQbkhYWVMxVEV2Qlp0bVY3M2tkOTF0YTBrYVZTRXhpWkpCdmE4cEFyQWRZRTdjUGFQN0FORzdFcXBPdE1iaEIxSGRDWmdB?oc=5",
-   "image": null,
-   "source": "Africtelegraph",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-09-23T07:00:00.000Z",
-   "symbols": []
-  },
-  {
    "id": "gn-1hvzco1",
    "title": "BRVM : Le marché retient son souffle, le composite cédant plus de 3%",
    "summary": null,
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb1A2WDFGeEJJYUgwQUw1dXh5UTlzTHppMmROZEZVWXhsbXBFSHg4eFZaVHphclFaQTZCZzRQSjJmWDdyVFdFNllsUU55YVNHYlJnbWtCZEZKd0dnd3JvbFZ2cjkwcjk0ZWhHdWtHdTE0SGNaS2g3aTJaM3U2RElqa09TV1k2QVcxU2ZaQU51N3pFV1JkVDhFWWhETkwzTjQ0V3NwZmlVc0Ytdw?oc=5",
    "image": null,
    "source": "Sika Finance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-09-23T07:00:00.000Z",
+   "symbols": []
+  },
+  {
+   "id": "gn-mle0vk",
+   "title": "Le Sénégal réussit sa première cotation obligataire à la BRVM",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNXlETjYxcUplM2VubTZJdFAtbHE2WTNFUkszTGFyVS1IVXRSS2U4dDBPbEM0RlZ3S3lQR2c4VVM2MWJIWjFDaU1NN1owdFZwdFFlVmxQbkhYWVMxVEV2Qlp0bVY3M2tkOTF0YTBrYVZTRXhpWkpCdmE4cEFyQWRZRTdjUGFQN0FORzdFcXBPdE1iaEIxSGRDWmdB?oc=5",
+   "image": null,
+   "source": "Africtelegraph",
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-09-23T07:00:00.000Z",
@@ -1531,24 +1531,24 @@
    "symbols": []
   },
   {
-   "id": "gn-1srhh9b",
-   "title": "BRVM : la capitalisation franchit les 20 000 milliards de FCFA",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPa0dsNW94eG5sWVpscklXQTE2SEZoOEZBelNRUFpFRjlOQmotYmNwckR2WUhOeVB0TE9VTnhFeEVpcUl5UVhuLTVzc29DWVhJSkVMZC1xZWF3TW05NkNZUnZmaHZPclJIVFdFVGJSLXg3azV1blJMVHRIa1ZFRDZoTElGY3VYWVl1V3VycGxqUjBOMkhQTFQwRW1WTk1IX295UWlhSWdB?oc=5",
-   "image": null,
-   "source": "APAnews - Agence de Presse Africaine",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-08-24T07:00:00.000Z",
-   "symbols": []
-  },
-  {
    "id": "gn-nh7606",
    "title": "Les OPCVM actions de l’UEMOA affichent jusqu’à 40,5 % de gain en 2026",
    "summary": null,
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRTNDd0RPdmJiRy05b1I0WXRwaGVCNTlOejZNeEI4c2pHYWtvUU9lb05xQVF0NDFha2tpZUQ0SlQ0N0F6YW1ac3lfVm5TaU42ZFZZSU5vNndza1BpT240bjlvTWpFMmFzWGgxeXRIeEUyR3pWV3E0aVNEQVVwRGxtMkZwQ0VUUWFReHBUSm5xS3BGOVJQTDZTRHpMaGRwQQ?oc=5",
    "image": null,
    "source": "Africtelegraph",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-08-24T07:00:00.000Z",
+   "symbols": []
+  },
+  {
+   "id": "gn-1srhh9b",
+   "title": "BRVM : la capitalisation franchit les 20 000 milliards de FCFA",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPa0dsNW94eG5sWVpscklXQTE2SEZoOEZBelNRUFpFRjlOQmotYmNwckR2WUhOeVB0TE9VTnhFeEVpcUl5UVhuLTVzc29DWVhJSkVMZC1xZWF3TW05NkNZUnZmaHZPclJIVFdFVGJSLXg3azV1blJMVHRIa1ZFRDZoTElGY3VYWVl1V3VycGxqUjBOMkhQTFQwRW1WTk1IX295UWlhSWdB?oc=5",
+   "image": null,
+   "source": "APAnews - Agence de Presse Africaine",
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-08-24T07:00:00.000Z",
@@ -1564,6 +1564,18 @@
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-08-22T07:00:00.000Z",
+   "symbols": []
+  },
+  {
+   "id": "gn-rscwmz",
+   "title": "BRVM Rally: 9 Stocks Show Notable Upward Moves",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14cEdlcjRKOUxPWTU5Z0RtTUFwWll1c2k2b2VFUkhYSFotNzQyYXZkaldtcmlNeUlRcWU4OHhid0dQT0ljTVNiT0Y4d0s0cVdWQWNOUHVZRkNZSXdYQVhGV2tuZy0wMW5XQ3ZiUl8zb2N4YXRGRms5Q1BnYXF0TkE?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-08-21T07:00:00.000Z",
    "symbols": []
   },
   {
@@ -1597,18 +1609,6 @@
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTEpXYXVkUGx3QkJvSGFRN0QwcU5rOEI0TTJ3cHZ4eXk3STNJNS10M05qRDV5NDRpeU9RYzJmVGhVNUZ5anVScGFiWGlxd1hnUGk4dGRRUy00bTlxRkZBZW9XaG13UXhGRXNITVdpU255X1czdnMxUWtzUmdRbzY5YXRaZDlYU1JqZDRDWU9B?oc=5",
    "image": null,
    "source": "APAnews - Agence de Presse Africaine",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-08-21T07:00:00.000Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-rscwmz",
-   "title": "BRVM Rally: 9 Stocks Show Notable Upward Moves",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14cEdlcjRKOUxPWTU5Z0RtTUFwWll1c2k2b2VFUkhYSFotNzQyYXZkaldtcmlNeUlRcWU4OHhid0dQT0ljTVNiT0Y4d0s0cVdWQWNOUHVZRkNZSXdYQVhGV2tuZy0wMW5XQ3ZiUl8zb2N4YXRGRms5Q1BnYXF0TkE?oc=5",
-   "image": null,
-   "source": "Dabafinance",
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-08-21T07:00:00.000Z",
