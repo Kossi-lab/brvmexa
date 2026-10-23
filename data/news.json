@@ -1,11 +1,23 @@
 {
- "updatedAt": "2026-10-23T11:44:54.887Z",
+ "updatedAt": "2026-10-23T12:10:52.866Z",
  "items": [
   {
+   "id": "sika-65212",
+   "title": "Côte d’Ivoire/Internet fixe : 32 milliards FCFA de revenus tirés par la fibre optique au T2 2026",
+   "summary": "Le chiffre d'affaires de l'Internet fixe en Côte d'Ivoire a progressé de 23,7% au deuxième trimestre 2026 par rap...",
+   "url": "https://www.sikafinance.com/marches/cote-divoireinternet-fixe-32-milliards-fcfa-de-revenus-tires-par-la-fibre-optique-au-t2-2026_65212",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-10-23T12:06:00Z",
+   "symbols": []
+  },
+  {
    "id": "sika-65211",
-   "title": "Côte d’Ivoire : Mamadou Sangafowa Coulibaly lance les travaux de la centrale solaire de de Katiola de 50 MWc",
+   "title": "Côte d’Ivoire : Mamadou Sangafowa Coulibaly lance les travaux de la centrale solaire de Katiola de 50 MWc",
    "summary": "Attendue dans quinze mois, la centrale portée par Katiola Solar Power doit renforcer l'offre électrique nationale et so...",
-   "url": "https://www.sikafinance.com/marches/cote-divoire-mamadou-sangafowa-coulibaly-lance-les-travaux-de-la-centrale-solaire-de-de-katiola-de-50-mwc_65211",
+   "url": "https://www.sikafinance.com/marches/cote-divoire-mamadou-sangafowa-coulibaly-lance-les-travaux-de-la-centrale-solaire-de-katiola-de-50-mwc_65211",
    "image": null,
    "source": "Sika Finance",
    "category": "Marchés",
@@ -1862,18 +1874,6 @@
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-08-22T07:00:00.000Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-ojzu9x",
-   "title": "La BRVM dépasse pour la première fois 20 000 milliards de FCFA",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZFBrNTAyNlZkaFJTXzRfZk5HdGV2bURaNGdGdEpZSm1fNzk4Zm04clJ6Q1QtZ1gtZlFYUTNqMUJuVkZSZHpLZnVoZE5kWXUxZWFyeEJOZm9lRUtNN2lEc0k0SzM0VG9xaGlKUTRjNTgzODhCTUE3Z0JhNDJGTjFHU1hCSHNZWjNNMTNpem5hX1FyUWpEV05lUVpsNA?oc=5",
-   "image": null,
-   "source": "Africtelegraph",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-08-21T07:00:00.000Z",
    "symbols": []
   }
  ]
