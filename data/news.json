@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-10-23T09:26:24.895Z",
+ "updatedAt": "2026-10-23T10:02:13.574Z",
  "items": [
+  {
+   "id": "sika-65204",
+   "title": "Nestlé CI : Un bénéfice quasi stable à fin septembre malgré une hausse de 11 % du chiffre d’affaires",
+   "summary": "Dans l'industrie agroalimentaire, la hausse des coûts de production peut peser sur la rentabilité, même lor...",
+   "url": "https://www.sikafinance.com/marches/nestle-ci-un-benefice-quasi-stable-a-fin-septembre-malgre-une-hausse-de-11-du-chiffre-daffaires_65204",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-10-23T09:18:00Z",
+   "symbols": [
+    "NTLC"
+   ]
+  },
   {
    "id": "sika-65200",
    "title": "Niger : La BAD approuve 80 milliards FCFA pour soutenir l’énergie et le secteur privé",
@@ -1863,18 +1877,6 @@
    "symbols": [
     "NEIC"
    ]
-  },
-  {
-   "id": "gn-1rqsvqf",
-   "title": "Récapitulatif Hebdomadaire BRVM : Hausse de 0,59% et Mouvements Clés à Surveiller",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8tT3NoWE9GOG9sb0tfZklBX0pWQ0IxYklHNHpsY2ZtN2MtTFVfeHEzX2xuS3RFTkpNSEpiaEtwekpoU25FYmJ4X1JGRW9seUxEVV9FX1FlaDFtNFZ0RW85QXI3QTZQaEEycVp5WlE5SEdieks1a2FUV0RR?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-08-09T07:00:00.000Z",
-   "symbols": []
   }
  ]
 }

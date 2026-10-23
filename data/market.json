@@ -1,16 +1,124 @@
 {
- "updatedAt": "2026-10-23T09:26:21.509Z",
+ "updatedAt": "2026-10-23T10:02:09.662Z",
  "sessionDate": "2026-10-23",
- "sessionTime": "09:15",
+ "sessionTime": "09:45",
  "source": "brvm.org",
- "transactionsValue": 0,
- "capitalisationActions": 20469684080958,
+ "transactionsValue": 121728182,
+ "capitalisationActions": 20493947799493,
  "capitalisationBonds": 13462196398805,
- "advancing": 0,
- "declining": 0,
- "unchanged": 48,
- "totalVolume": 0,
- "gainers": [],
- "losers": [],
- "mostActive": []
+ "advancing": 7,
+ "declining": 8,
+ "unchanged": 33,
+ "totalVolume": 107299,
+ "gainers": [
+  {
+   "symbol": "SOGC",
+   "shortName": "SOGB CI",
+   "close": 7750,
+   "change": 1.97,
+   "volume": 20
+  },
+  {
+   "symbol": "SNTS",
+   "shortName": "Sonatel",
+   "close": 42500,
+   "change": 1.19,
+   "volume": 1099
+  },
+  {
+   "symbol": "BNBC",
+   "shortName": "Bernabé CI",
+   "close": 1800,
+   "change": 0.56,
+   "volume": 191
+  },
+  {
+   "symbol": "NEIC",
+   "shortName": "NEI-CEDA CI",
+   "close": 2135,
+   "change": 0.23,
+   "volume": 47
+  },
+  {
+   "symbol": "TTLC",
+   "shortName": "TotalEnergies Marketing CI",
+   "close": 2905,
+   "change": 0.17,
+   "volume": 43
+  }
+ ],
+ "losers": [
+  {
+   "symbol": "SCRC",
+   "shortName": "Sucrivoire CI",
+   "close": 2265,
+   "change": -1.52,
+   "volume": 743
+  },
+  {
+   "symbol": "SGBC",
+   "shortName": "Société Générale CI",
+   "close": 38415,
+   "change": -1.25,
+   "volume": 108
+  },
+  {
+   "symbol": "CBIBF",
+   "shortName": "Coris Bank International",
+   "close": 30600,
+   "change": -0.97,
+   "volume": 20
+  },
+  {
+   "symbol": "ONTBF",
+   "shortName": "Onatel Burkina Faso",
+   "close": 3080,
+   "change": -0.32,
+   "volume": 424
+  },
+  {
+   "symbol": "ECOC",
+   "shortName": "Ecobank Côte d’Ivoire",
+   "close": 15905,
+   "change": -0.28,
+   "volume": 22
+  }
+ ],
+ "mostActive": [
+  {
+   "symbol": "SNTS",
+   "shortName": "Sonatel",
+   "close": 42500,
+   "change": 1.19,
+   "volume": 1099
+  },
+  {
+   "symbol": "BOAS",
+   "shortName": "BOA Sénégal",
+   "close": 8150,
+   "change": 0,
+   "volume": 1162
+  },
+  {
+   "symbol": "BBGC",
+   "shortName": "Bridge Bank Group CI",
+   "close": 9800,
+   "change": 0,
+   "volume": 727
+  },
+  {
+   "symbol": "CIEC",
+   "shortName": "CIE Côte d’Ivoire",
+   "close": 4900,
+   "change": -0.1,
+   "volume": 1284
+  },
+  {
+   "symbol": "ETIT",
+   "shortName": "Ecobank Transnational (ETI)",
+   "close": 64,
+   "change": 0,
+   "volume": 95252
+  }
+ ]
 }
