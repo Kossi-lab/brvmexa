@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-23T12:52:18.728Z",
+ "updatedAt": "2026-10-23T13:34:05.342Z",
  "items": [
   {
    "id": "sika-65212",
@@ -11,6 +11,18 @@
    "category": "Marchés",
    "premium": true,
    "publishedAt": "2026-10-23T12:06:00Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65213",
+   "title": "Côte d’Ivoire : ARCHIBAT lance les préparatifs de sa 11e édition prévue en octobre 2027",
+   "summary": "Se loger, se déplacer, accéder aux services essentiels et vivre dans un environnement sain. À mesure que les vil...",
+   "url": "https://www.sikafinance.com/marches/cote-divoire-archibat-lance-les-preparatifs-de-sa-11e-edition-prevue-en-octobre-2027_65213",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-23T12:02:00Z",
    "symbols": []
   },
   {
@@ -1862,18 +1874,6 @@
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-08-24T07:00:00.000Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-1fjcczd",
-   "title": "La BRVM franchit le cap historique des 20 000 milliards de francs CFA de capitalisation",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNc3RLNHNFd3NwNEdyMFBHUDdOblF2enhjY0l0TjlCMXRIYm1mdzFmNVl5elNIY1M2RThUeGx3OE5CQS1wMDdFeFpNVGhsZ3lXN2RWc2gtblNLd2RSQTd5UXVXVVRfS1FrMDBpU3BtRFBvcDRFYlJIcGJNR1BTRDUtbXY3YzJUMTAtMFc5QXJyNWJiZVJOQm40dk0zQ3lUc3k2YVVMNXJ0ckl0MXNsMFE0NDlOTEk?oc=5",
-   "image": null,
-   "source": "Forbes Afrique",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-08-22T07:00:00.000Z",
    "symbols": []
   }
  ]
