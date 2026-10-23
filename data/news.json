@@ -1,6 +1,30 @@
 {
- "updatedAt": "2026-10-23T11:04:27.318Z",
+ "updatedAt": "2026-10-23T11:44:54.887Z",
  "items": [
+  {
+   "id": "sika-65211",
+   "title": "Côte d’Ivoire : Mamadou Sangafowa Coulibaly lance les travaux de la centrale solaire de de Katiola de 50 MWc",
+   "summary": "Attendue dans quinze mois, la centrale portée par Katiola Solar Power doit renforcer l'offre électrique nationale et so...",
+   "url": "https://www.sikafinance.com/marches/cote-divoire-mamadou-sangafowa-coulibaly-lance-les-travaux-de-la-centrale-solaire-de-de-katiola-de-50-mwc_65211",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-23T11:40:00Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65210",
+   "title": "Marina Da Silva, DG IFM : ‘’Le facility management participe à des enjeux de qualité de vie au travail et d’attractivité de l’entreprise''",
+   "summary": "Marina Da Silva, DG d'Ivoire Facility Management (IFM) : Le facility management participe à des enjeux de qualité d...",
+   "url": "https://www.sikafinance.com/marches/marina-da-silva-dg-ifm-le-facility-management-participe-a-des-enjeux-de-qualite-de-vie-au-travail-et-dattractivite-de-lentreprise-_65210",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-23T11:19:00Z",
+   "symbols": []
+  },
   {
    "id": "sika-65206",
    "title": "Mali : 6 370 milliards FCFA à mobiliser sur 3 ans pour couvrir les besoins de financement de l’État",
@@ -1235,24 +1259,24 @@
    "symbols": []
   },
   {
-   "id": "gn-vw1wj7",
-   "title": "Bourse de Casablanca et BRVM: les places africaines qui aimantent les capitaux étrangers",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNLXBWRG80VGJvRVhqS0U5T1BvTVByTzd5UFdqRXZxek5mbURGRjFRaG5IaWlJLVdwV2k1MG9YbktkNWNZbTh3a045bFFYbnk5eTFldmxGMU9iSHpaN0tvejNJcVpXX29pMUZycDBPeENmM2g4R2tlVmhTTDNBckxfQ3JmdDZoZ1lsRXNKZ1ptLUFUeUtOMGI5Q0JJRlN2cEQtbGtfaVhma3BHNTBFVlF1YnJQb0IzODdrcmtpRnp5dk1jZzM5V1piV195cjlUMFNyMkJSMjR5MUdhZ2d6?oc=5",
-   "image": null,
-   "source": "Le360",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-10-06T11:39:00.000Z",
-   "symbols": []
-  },
-  {
    "id": "gn-zhui3z",
    "title": "De Casablanca à Abidjan, comment les deux places boursières séduisent les investisseurs étrangers",
    "summary": null,
    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVklZekZVSk5HWTZ6c1M3MldDLVRrMk4wcnU0Q0RGNW1YM3pWZFpfdDMwb05aWVdCek4tdm5RZjFMV0JzZW5nUHJNa1ZxU3d4NjBmMjlYN3RDdWtmZFl4MjFkMEVrdXFaT2hiMWlpN1ptcUpXZS10Vjd1ZVo4MHRtdHZ0VFh3eHMxZTQzWU5sZGVhOGdUNXNPQkU0Y0ZRZV8tbVBqeWFLNWtCTzg5NGo0ZDVxSHpRYTVrQ1R2b2h4ZWJIRXoycDB3SnVkSzluRjZCa0RGbG5pXzdpbi1wNnRBSVZ0SW8zb0RtdkJj?oc=5",
    "image": null,
    "source": "Jeune Afrique",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-10-06T07:00:00.000Z",
+   "symbols": []
+  },
+  {
+   "id": "gn-vw1wj7",
+   "title": "Bourse de Casablanca et BRVM: les places africaines qui aimantent les capitaux étrangers",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNLXBWRG80VGJvRVhqS0U5T1BvTVByTzd5UFdqRXZxek5mbURGRjFRaG5IaWlJLVdwV2k1MG9YbktkNWNZbTh3a045bFFYbnk5eTFldmxGMU9iSHpaN0tvejNJcVpXX29pMUZycDBPeENmM2g4R2tlVmhTTDNBckxfQ3JmdDZoZ1lsRXNKZ1ptLUFUeUtOMGI5Q0JJRlN2cEQtbGtfaVhma3BHNTBFVlF1YnJQb0IzODdrcmtpRnp5dk1jZzM5V1piV195cjlUMFNyMkJSMjR5MUdhZ2d6?oc=5",
+   "image": null,
+   "source": "Le360",
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-10-06T07:00:00.000Z",
@@ -1847,30 +1871,6 @@
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZFBrNTAyNlZkaFJTXzRfZk5HdGV2bURaNGdGdEpZSm1fNzk4Zm04clJ6Q1QtZ1gtZlFYUTNqMUJuVkZSZHpLZnVoZE5kWXUxZWFyeEJOZm9lRUtNN2lEc0k0SzM0VG9xaGlKUTRjNTgzODhCTUE3Z0JhNDJGTjFHU1hCSHNZWjNNMTNpem5hX1FyUWpEV05lUVpsNA?oc=5",
    "image": null,
    "source": "Africtelegraph",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-08-21T07:00:00.000Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-jc7rf2",
-   "title": "La BRVM franchit le cap des 20 000 milliards de Fcfa",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTEpXYXVkUGx3QkJvSGFRN0QwcU5rOEI0TTJ3cHZ4eXk3STNJNS10M05qRDV5NDRpeU9RYzJmVGhVNUZ5anVScGFiWGlxd1hnUGk4dGRRUy00bTlxRkZBZW9XaG13UXhGRXNITVdpU255X1czdnMxUWtzUmdRbzY5YXRaZDlYU1JqZDRDWU9B?oc=5",
-   "image": null,
-   "source": "APAnews - Agence de Presse Africaine",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-08-21T07:00:00.000Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-3d44yk",
-   "title": "La BRVM franchit le cap des 20 000 milliards FCFA de capitalisation",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYTVmVE1YeXZzNVR5SlFRSjdmUmFlenlFUzBOSkN2NjB1MFhoTzhkWlJ5MW9xSWdONFJBTU00V2RVR2stdXZvLVB3ZndSYVk4cWhRUlRLVGpPZTNvd3BHXzJCemJnZmo3U1ZkQVJjMkp2bHZXMDduOW84X0VTNUlNdGhsWVlwMHBDR3pEbEdsNTFfSXRDbWl0bzBLSEdRSVBwWHdlN3M2MjM1bndzaFE?oc=5",
-   "image": null,
-   "source": "Sika Finance",
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-08-21T07:00:00.000Z",
