@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-10-22T22:32:36.485Z",
+ "updatedAt": "2026-10-23T08:37:46.008Z",
  "items": [
+  {
+   "id": "sika-65200",
+   "title": "Niger : La BAD approuve 80 milliards FCFA pour soutenir l’énergie et le secteur privé",
+   "summary": "Le Groupe de la Banque africaine de développement a approuvé, le 21 octobre 2026, un financement de 144,34 millions de ...",
+   "url": "https://www.sikafinance.com/marches/niger-la-bad-approuve-80-milliards-fcfa-pour-soutenir-lenergie-et-le-secteur-prive_65200",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-23T08:02:00Z",
+   "symbols": []
+  },
   {
    "id": "gn-1xs0wj0",
    "title": "AFIS 2026 :la BRVM plaide pour une intégration accrue des marchés de capitaux africains",
@@ -1433,6 +1445,18 @@
    ]
   },
   {
+   "id": "gn-1oqzxb9",
+   "title": "BRVM : La baisse se généralise, 35 valeurs dans le rouge",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa25GX0JtbW45SWRjYUpXOHl1RGYtSV9KYldUcDBwQWk4UWpqVEJzaVpqOVBBVkZDZjM4VDU0Ni1PNXItMmZicHhQdm04RFhET1RMckJGTEd1by0xaEs4NC00S2xxUWlfRWNPa0ZoR010NWxjRkdaMW94YUZMOW1EY3ZvbDhGdFVRdUFvamduSFNkY2pnUmVyTlg0TQ?oc=5",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-09-22T07:00:00.000Z",
+   "symbols": []
+  },
+  {
    "id": "gn-xd6og3",
    "title": "BRVM : Investir en bourse, est-ce vraimant pour les Maliens ?",
    "summary": null,
@@ -1850,30 +1874,6 @@
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-08-09T07:00:00.000Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-xi29kb",
-   "title": "Le Marché de la BRVM en Effervescence : 4 Actions Clés Affichent des Gains Notables",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNODNwelhhdklCcU1sbGtpVnd5UlBzUWVrV0VQUUZQZHlyY2dPV3lIX3FGeVlZSVlhTmVCd2wwVVNZM0VvXzlwZUtobzkxa0hPeklzUlJPNHdMRGk2cXpQZXBuWjBZUnZnSC0zdnl3emNtZVN1c2F6TzAzOTNhN3c5U2x4Yk1GY1A5RHdpTEhtRzlCenoy?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-08-06T07:00:00.000Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-17vmrx7",
-   "title": "Raffinerie Dangote : Johannesburg veut sa part de la plus grosse introduction en Bourse jamais tentée en Afrique",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPRUNNOG9lUHJCZ0pOUUVSYTdLTlJoQmZWbXRmYnlLclYyanUzV29ySTJHVk5ReGE2bVdBdjNrc3JkVk1nWXJfaVdmWUtaQWl2bjltQWxsaWYzU25pNFVLRHI5akNYUjdHRE53bll6TV9yMnVpVkpMQ2RaR1dpTHI5bTFDUXN4R20tdGxDTW5tSUtEYVI5aDlabmlUXzJhTXFEbTFSSTNVSTVHd2dYd1ZxZHBzS1pvQ3otaWdGYTZMcG5OWGo3SF92M0VUbW9FT1lyY2JFa0IxTmpmbnJ4ZkhkLVBRd1MwYllPaV9nVHI1emM4VUxm?oc=5",
-   "image": null,
-   "source": "AGENCE ECOFIN",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-08-06T07:00:00.000Z",
    "symbols": []
   }
  ]
