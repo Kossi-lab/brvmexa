@@ -1,6 +1,30 @@
 {
- "updatedAt": "2026-10-23T16:38:43.207Z",
+ "updatedAt": "2026-10-23T17:33:31.958Z",
  "items": [
+  {
+   "id": "sika-65226",
+   "title": "CEDEAO : 2,61 milliards USD pour accélérer 121 projets d’intégration régionale",
+   "summary": "L'intégration régionale ouest-africaine doit désormais se mesurer à l'aune des projets concrètement réalisés. Le Groupe...",
+   "url": "https://www.sikafinance.com/marches/cedeao-2-61-milliards-usd-pour-accelerer-121-projets-dintegration-regionale_65226",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-23T17:11:00Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65225",
+   "title": "Secoué en Bourse, Netflix sacrifie 6 % de ses effectifs et licencie son plus haut dirigeant en Afrique",
+   "summary": "Le géant américain du streaming Netflix prend des mesures radicales face à la tourmente financière. Confronté à une chu...",
+   "url": "https://www.sikafinance.com/marches/secoue-en-bourse-netflix-sacrifie-6-de-ses-effectifs-et-licencie-son-plus-haut-dirigeant-en-afrique_65225",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-23T16:39:00Z",
+   "symbols": []
+  },
   {
    "id": "sika-65223",
    "title": "UEMOA : A 50,6%, le taux d’inclusion financière passe la barre de la moitié des adultes à fin 2025",
@@ -1501,20 +1525,6 @@
    ]
   },
   {
-   "id": "gn-1im50v3",
-   "title": "BRVM : UNIWAX CI publie un communiqué sur les déclarations de franchissement de seuil",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOXRPTU9VdHN4V3poVjBKamwtNkdWOGhoMzloc1MxWllPT1hoYnVzNzNTdG5lbHc4akhGR21aOFVoaUJjQlB2QXJJa2FjUmNEWVJtTEtCN0RWU2ttZEpCVTBlQzVPTWFSY0w5cURaWVZfX2MxRkJ5MWFNZEVjSjZUYnBlX3VTUlk0dzhHdFVMZF8?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-09-24T07:00:00.000Z",
-   "symbols": [
-    "UNXC"
-   ]
-  },
-  {
    "id": "gn-1pgu4xj",
    "title": "Marchés africains : Sonatel veut élargir sa base d’investisseurs",
    "summary": null,
@@ -1526,6 +1536,20 @@
    "publishedAt": "2026-09-24T07:00:00.000Z",
    "symbols": [
     "SNTS"
+   ]
+  },
+  {
+   "id": "gn-1im50v3",
+   "title": "BRVM : UNIWAX CI publie un communiqué sur les déclarations de franchissement de seuil",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOXRPTU9VdHN4V3poVjBKamwtNkdWOGhoMzloc1MxWllPT1hoYnVzNzNTdG5lbHc4akhGR21aOFVoaUJjQlB2QXJJa2FjUmNEWVJtTEtCN0RWU2ttZEpCVTBlQzVPTWFSY0w5cURaWVZfX2MxRkJ5MWFNZEVjSjZUYnBlX3VTUlk0dzhHdFVMZF8?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-09-24T07:00:00.000Z",
+   "symbols": [
+    "UNXC"
    ]
   },
   {
@@ -1751,24 +1775,24 @@
    "symbols": []
   },
   {
-   "id": "gn-i5ff03",
-   "title": "Burkina Faso/BRVM : Le Groupe Vista fait coter les 151,5 milliards FCFA des Diaspora Bonds",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdVZhVTB3Uk9KN3Y2Y24tM2M4Wi1EajRoMFpLczU5RU1GTUk0X2tMbmJDOV9xQlNJTU84aTNfY0d0WTV4bHR2Yk1lX0Z3X0xEeVgyekJ1TGE2OGtIVnBvNkk2NEFESXpRVVFVNFpJRWdadHpMT3pRSmdxOGM3OXkxOHprYktISEU2NGdqSWxCNzlnVnViVTdOUGtpNUxpejE0bTZaR0FqZF9SMnVIc0ZjaFFZb1NEbjZfdjVKcXZnbGhsTEtXdGFrLTZR?oc=5",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-09-03T07:00:00.000Z",
-   "symbols": []
-  },
-  {
    "id": "gn-16ia63z",
    "title": "BRVM : des Diaspora Bonds du Burkina Faso admis à la cote",
    "summary": null,
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMXBJUnlNNlFTeEt0cF9pS01ubmh4RUV1dDB2VmVDZ3JMSXFvWnI0NXZrSUdXR0tweGdJSUthRWtRc3BfLUNYSjlXMHpUTDBwd2diNF9sa1BMcmZucGoyd3dIQVJfeGtrOUNaZHM1NjFCUkY4YmRPYlJabUNwLXJTNUd0ckVFWTZ0LWIzaHNjU0RTbHoxUG1j?oc=5",
    "image": null,
    "source": "APAnews - Agence de Presse Africaine",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-09-03T07:00:00.000Z",
+   "symbols": []
+  },
+  {
+   "id": "gn-i5ff03",
+   "title": "Burkina Faso/BRVM : Le Groupe Vista fait coter les 151,5 milliards FCFA des Diaspora Bonds",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdVZhVTB3Uk9KN3Y2Y24tM2M4Wi1EajRoMFpLczU5RU1GTUk0X2tMbmJDOV9xQlNJTU84aTNfY0d0WTV4bHR2Yk1lX0Z3X0xEeVgyekJ1TGE2OGtIVnBvNkk2NEFESXpRVVFVNFpJRWdadHpMT3pRSmdxOGM3OXkxOHprYktISEU2NGdqSWxCNzlnVnViVTdOUGtpNUxpejE0bTZaR0FqZF9SMnVIc0ZjaFFZb1NEbjZfdjVKcXZnbGhsTEtXdGFrLTZR?oc=5",
+   "image": null,
+   "source": "Sika Finance",
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-09-03T07:00:00.000Z",
@@ -1852,30 +1876,6 @@
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-09-01T07:00:00.000Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-zj7j2s",
-   "title": "Raffinerie Dangote : les Bourses africaines sont-elles prêtes à absorber une introduction à cinq milliards de dollars ?",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOZnBGQTlQVThuM0FFNFNvRWNOTUE3dEZkU2dIV2MyU2F1VzJkbTVaU2IwZ1VMVExycmRJUWZXUjFWNUJfWDdZbVR0eEVBajlGaktqT0FSUlV6SF9HdzNnS21QTW92UDV0Uk5qODliMzNHUk54elBsa1NsU1JNSFJQYTVPLXl2SFdXTl80NDZxaWh4ZUNsS1B3ZmFyejR4am1YYl9KLXg2SlJkYnQxYmhjTUN0Y3ltc0RfWWJqTnFjQlY1ZEx0ZDg2VFFYYVVVQnduZFNVSW1YSVZUUndHTnQ2U1RFRS1LS0J3MVlaNmh6SkhTLVh1VWVtMGJBMHpqY2NfX3R0dQ?oc=5",
-   "image": null,
-   "source": "Jeune Afrique",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-08-30T07:00:00.000Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-lcxppt",
-   "title": "Accra, BRVM et Tunis en tête des Bourses africaines : un rally étroit et fragile",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZjY1WkdxZHV3UFBNNnl1XzdsMnAzV2VUSDR2QllrU3R4R1R0QTd5ZUs1QUxqa01hVi1DOEdDNDFud1kxakpfa3F1REEydXI2dnVLU3FKaTBaX0QtVk1GNUxfYXpVSlJLSUxONFFTX0dtbWdaZXNIOW4tRUZ1emFKU2t3QnhDaWdLNDlBcE9RZlBPYmVzc1d5dFBNalNOMFJSVFltOWZHZFhyRk8w?oc=5",
-   "image": null,
-   "source": "Capmad",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-08-28T07:00:00.000Z",
    "symbols": []
   }
  ]
