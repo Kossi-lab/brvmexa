@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-23T15:06:25.166Z",
+ "updatedAt": "2026-10-23T15:47:59.685Z",
  "items": [
   {
    "id": "sika-65220",
@@ -12,6 +12,20 @@
    "premium": false,
    "publishedAt": "2026-10-23T14:35:00Z",
    "symbols": []
+  },
+  {
+   "id": "gn-1gfad7o",
+   "title": "Sogb Côte d'Ivoire (SOGC) — BRVM",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sZUtjYXhXV041LTR6dVZsNkFvNzVIUXFtWlBibk55VUdnOV9OcEVSQzY3N1EzMGlhbEVJRFdBaUdPZ3dXLUpSUWppRXZZT1JTU29NeVJibE5XQU9UMkdLTWMyNEhzdw?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-10-23T12:34:41.000Z",
+   "symbols": [
+    "SOGC"
+   ]
   },
   {
    "id": "sika-65212",
@@ -27,7 +41,7 @@
   },
   {
    "id": "sika-65213",
-   "title": "Côte d'Ivoire: Archibat lance son édition 2027 autour des défis de l’urbanisation",
+   "title": "Côte d'Ivoire : Archibat lance son édition 2027 autour des défis de l’urbanisation",
    "summary": "Se loger, se déplacer, accéder aux services essentiels et vivre dans un environnement sain. À mesure que les vil...",
    "url": "https://www.sikafinance.com/marches/cote-d-ivoire-archibat-lance-son-edition-2027-autour-des-defis-de-lurbanisation_65213",
    "image": null,
@@ -1449,20 +1463,6 @@
    ]
   },
   {
-   "id": "gn-1pgu4xj",
-   "title": "Marchés africains : Sonatel veut élargir sa base d’investisseurs",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxON2tmR2lYYlJ4OU91TUdZODJvN0tuOGZtNWh2QU9FT0dLUzNzaGJlcEQ4WmI4SUpBc3ZwTXp0S2Y0aXZSblphaE93djMyTDdRaGUxZm9XYXczR3ZJek41ZVV1TUVEd3pEMmtxVExsNUFMUWlJa0RkamNlelg0MWJzcGNGNzhRY3gxMGcwcUE2Mmh5MTZ1UEFR?oc=5",
-   "image": null,
-   "source": "Capmad",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-09-24T07:00:00.000Z",
-   "symbols": [
-    "SNTS"
-   ]
-  },
-  {
    "id": "gn-1im50v3",
    "title": "BRVM : UNIWAX CI publie un communiqué sur les déclarations de franchissement de seuil",
    "summary": null,
@@ -1474,6 +1474,20 @@
    "publishedAt": "2026-09-24T07:00:00.000Z",
    "symbols": [
     "UNXC"
+   ]
+  },
+  {
+   "id": "gn-1pgu4xj",
+   "title": "Marchés africains : Sonatel veut élargir sa base d’investisseurs",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxON2tmR2lYYlJ4OU91TUdZODJvN0tuOGZtNWh2QU9FT0dLUzNzaGJlcEQ4WmI4SUpBc3ZwTXp0S2Y0aXZSblphaE93djMyTDdRaGUxZm9XYXczR3ZJek41ZVV1TUVEd3pEMmtxVExsNUFMUWlJa0RkamNlelg0MWJzcGNGNzhRY3gxMGcwcUE2Mmh5MTZ1UEFR?oc=5",
+   "image": null,
+   "source": "Capmad",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-09-24T07:00:00.000Z",
+   "symbols": [
+    "SNTS"
    ]
   },
   {
@@ -1699,24 +1713,24 @@
    "symbols": []
   },
   {
-   "id": "gn-16ia63z",
-   "title": "BRVM : des Diaspora Bonds du Burkina Faso admis à la cote",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMXBJUnlNNlFTeEt0cF9pS01ubmh4RUV1dDB2VmVDZ3JMSXFvWnI0NXZrSUdXR0tweGdJSUthRWtRc3BfLUNYSjlXMHpUTDBwd2diNF9sa1BMcmZucGoyd3dIQVJfeGtrOUNaZHM1NjFCUkY4YmRPYlJabUNwLXJTNUd0ckVFWTZ0LWIzaHNjU0RTbHoxUG1j?oc=5",
-   "image": null,
-   "source": "APAnews - Agence de Presse Africaine",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-09-03T07:00:00.000Z",
-   "symbols": []
-  },
-  {
    "id": "gn-i5ff03",
    "title": "Burkina Faso/BRVM : Le Groupe Vista fait coter les 151,5 milliards FCFA des Diaspora Bonds",
    "summary": null,
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdVZhVTB3Uk9KN3Y2Y24tM2M4Wi1EajRoMFpLczU5RU1GTUk0X2tMbmJDOV9xQlNJTU84aTNfY0d0WTV4bHR2Yk1lX0Z3X0xEeVgyekJ1TGE2OGtIVnBvNkk2NEFESXpRVVFVNFpJRWdadHpMT3pRSmdxOGM3OXkxOHprYktISEU2NGdqSWxCNzlnVnViVTdOUGtpNUxpejE0bTZaR0FqZF9SMnVIc0ZjaFFZb1NEbjZfdjVKcXZnbGhsTEtXdGFrLTZR?oc=5",
    "image": null,
    "source": "Sika Finance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-09-03T07:00:00.000Z",
+   "symbols": []
+  },
+  {
+   "id": "gn-16ia63z",
+   "title": "BRVM : des Diaspora Bonds du Burkina Faso admis à la cote",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMXBJUnlNNlFTeEt0cF9pS01ubmh4RUV1dDB2VmVDZ3JMSXFvWnI0NXZrSUdXR0tweGdJSUthRWtRc3BfLUNYSjlXMHpUTDBwd2diNF9sa1BMcmZucGoyd3dIQVJfeGtrOUNaZHM1NjFCUkY4YmRPYlJabUNwLXJTNUd0ckVFWTZ0LWIzaHNjU0RTbHoxUG1j?oc=5",
+   "image": null,
+   "source": "APAnews - Agence de Presse Africaine",
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-09-03T07:00:00.000Z",
@@ -1762,20 +1776,6 @@
    "publishedAt": "2026-09-03T01:08:34.000Z",
    "symbols": [
     "BOAB"
-   ]
-  },
-  {
-   "id": "gn-1gfad7o",
-   "title": "Sogb Côte d'Ivoire (SOGC) — BRVM",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sZUtjYXhXV041LTR6dVZsNkFvNzVIUXFtWlBibk55VUdnOV9OcEVSQzY3N1EzMGlhbEVJRFdBaUdPZ3dXLUpSUWppRXZZT1JTU29NeVJibE5XQU9UMkdLTWMyNEhzdw?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-09-03T01:08:25.000Z",
-   "symbols": [
-    "SOGC"
    ]
   },
   {
