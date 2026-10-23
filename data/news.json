@@ -1,6 +1,32 @@
 {
- "updatedAt": "2026-10-23T15:47:59.685Z",
+ "updatedAt": "2026-10-23T16:38:43.207Z",
  "items": [
+  {
+   "id": "sika-65223",
+   "title": "UEMOA : A 50,6%, le taux d’inclusion financière passe la barre de la moitié des adultes à fin 2025",
+   "summary": "Pile ou face. En 2015, un adulte de l'UEMOA avait deux chances sur trois d'être tenu à l'écart du système financier. En...",
+   "url": "https://www.sikafinance.com/marches/uemoa-a-50-6-le-taux-dinclusion-financiere-passe-la-barre-de-la-moitie-des-adultes-a-fin-2025_65223",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-10-23T16:01:00Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65222",
+   "title": "BRVM : Sonatel mène le rebond avec une hausse de 185 milliards FCFA de capitalisation",
+   "summary": "Après plusieurs séances consécutives de baisse, Sonatel signe un retournement et redonne de l'élan à la BRVM pour cette...",
+   "url": "https://www.sikafinance.com/marches/brvm-sonatel-mene-le-rebond-avec-une-hausse-de-185-milliards-fcfa-de-capitalisation_65222",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-23T15:47:00Z",
+   "symbols": [
+    "SNTS"
+   ]
+  },
   {
    "id": "sika-65220",
    "title": "La BAD et UK Export Finance s’allient pour cofinancer des projets en Afrique",
@@ -11,6 +37,18 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-10-23T14:35:00Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65224",
+   "title": "Togo : Le budget 2027 en baisse de 2,5 % à 2 684 milliards FCFA",
+   "summary": "Le Togo prévoit de consacrer 2 684,1 milliards FCFA aux dépenses publiques en 2027, contre 2 751,5 milliards de FCFA da...",
+   "url": "https://www.sikafinance.com/marches/togo-le-budget-2027-en-baisse-de-2-5-a-2-684-milliards-fcfa_65224",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-23T14:21:00Z",
    "symbols": []
   },
   {
@@ -1838,42 +1876,6 @@
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-08-28T07:00:00.000Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-1xxrmqx",
-   "title": "BRVM et Ghana Stock Exchange: les champions africains de la performance depuis le 1er janvier",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTG5pSzd0SlQyNnR1b3g2cDJ4Uzg4eTNzQWdEQzJIeXAxbDA0dTVjWFVlaml1WWRNUlVTcmlrT215SDgtSDFKWlRUOHlBQzN5QnlpZlowbHFEQXJWMm5ZSGN4QWJkR3pmdGJnaFJMSExBc3dnNnc1Uk43U2tVX2xkOTRoTlc1clVqTU5UeHBIcUVlRVJzWlFfV3pLZlFhV1pDQ3JJTFZFNm5EQ2MyWktoaHlra081bDJDeWFRS1phbmk?oc=5",
-   "image": null,
-   "source": "Capmad",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-08-26T07:00:00.000Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-gettwp",
-   "title": "Quotidienne des Bourses africaines : la BRVM et la GSE (Ghana) en tête des performances annuelles",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNFF0TzgtWlR2LVRhNmZRZEQxaXpoSkhDRDMzYUkyNnBiV0dkWkh5Vzd1RV90UEw2bWpuWXFUVUlUYTJBYTVNb25PdFNIajRCMkZhRGk2NTlGVTFnYnVwOW5OVGhNTnRreHh6MloycDZLZHE0Ul92eE9hNkRuYm9kaW9lamRhS0NvYW5LaVFIdTBxa0g2eDEzSF9XbU45QV96c0NxcjFzQlNCX3FNWUlPdUVuMVZNS1JYZ0lDRDl5Q01JbWgwM0lCaUl5TU4zQWZoaGc?oc=5",
-   "image": null,
-   "source": "Financial Afrik",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-08-24T07:00:00.000Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-1srhh9b",
-   "title": "BRVM : la capitalisation franchit les 20 000 milliards de FCFA",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPa0dsNW94eG5sWVpscklXQTE2SEZoOEZBelNRUFpFRjlOQmotYmNwckR2WUhOeVB0TE9VTnhFeEVpcUl5UVhuLTVzc29DWVhJSkVMZC1xZWF3TW05NkNZUnZmaHZPclJIVFdFVGJSLXg3azV1blJMVHRIa1ZFRDZoTElGY3VYWVl1V3VycGxqUjBOMkhQTFQwRW1WTk1IX295UWlhSWdB?oc=5",
-   "image": null,
-   "source": "APAnews - Agence de Presse Africaine",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-08-24T07:00:00.000Z",
    "symbols": []
   }
  ]
