@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-10-23T10:02:13.574Z",
+ "updatedAt": "2026-10-23T10:32:08.596Z",
  "items": [
+  {
+   "id": "sika-65206",
+   "title": "Mali : 6 370 milliards FCFA à mobiliser sur 3 ans pour couvrir les besoins de financement de l’État",
+   "summary": "Le Mali veut financer ses ambitions de développement sans fragiliser davantage ses finances publiques. Dans sa Stratégi...",
+   "url": "https://www.sikafinance.com/marches/mali-6-370-milliards-fcfa-a-mobiliser-sur-3-ans-pour-couvrir-les-besoins-de-financement-de-letat_65206",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-10-23T10:08:00Z",
+   "symbols": []
+  },
   {
    "id": "sika-65204",
    "title": "Nestlé CI : Un bénéfice quasi stable à fin septembre malgré une hausse de 11 % du chiffre d’affaires",
@@ -1863,20 +1875,6 @@
    "premium": false,
    "publishedAt": "2026-08-21T07:00:00.000Z",
    "symbols": []
-  },
-  {
-   "id": "gn-12f5q1s",
-   "title": "BRVM : 5 actions africaines en forte hausse – NEIC bondit de +69,66%",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMENRQzJoR3lvSG1fZHY0R29zc3lfeEN6Mk5Da05qRFdPM1hpTEd6YS1NZkFra1BkSldxT3k2SlF4cFh0c0QzblhuamMyS1lMNWh0UmNpNWlUM2ozdno4Z2wxUWNQczRoMnJOUHJJZ09JWHBFRklBcTBhcVFtcENOSldJZU53MGVjdUdB?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-08-11T07:00:00.000Z",
-   "symbols": [
-    "NEIC"
-   ]
   }
  ]
 }
