@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-23T10:32:08.596Z",
+ "updatedAt": "2026-10-23T11:04:27.318Z",
  "items": [
   {
    "id": "sika-65206",
@@ -26,6 +26,18 @@
    "symbols": [
     "NTLC"
    ]
+  },
+  {
+   "id": "sika-65207",
+   "title": "Côte d’Ivoire : L'édition 2026 du Salon de l’épargne appelle à un changement concret des habitudes financières",
+   "summary": "Après huit éditions consacrées à la sensibilisation aux enjeux de l'épargne, de l'investissement et de la gestion du pa...",
+   "url": "https://www.sikafinance.com/marches/cote-divoire-l-edition-2026-du-salon-de-lepargne-appelle-a-un-changement-concret-des-habitudes-financieres_65207",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-23T09:06:00Z",
+   "symbols": []
   },
   {
    "id": "sika-65200",
@@ -1859,18 +1871,6 @@
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYTVmVE1YeXZzNVR5SlFRSjdmUmFlenlFUzBOSkN2NjB1MFhoTzhkWlJ5MW9xSWdONFJBTU00V2RVR2stdXZvLVB3ZndSYVk4cWhRUlRLVGpPZTNvd3BHXzJCemJnZmo3U1ZkQVJjMkp2bHZXMDduOW84X0VTNUlNdGhsWVlwMHBDR3pEbEdsNTFfSXRDbWl0bzBLSEdRSVBwWHdlN3M2MjM1bndzaFE?oc=5",
    "image": null,
    "source": "Sika Finance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-08-21T07:00:00.000Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-rscwmz",
-   "title": "BRVM Rally: 9 Stocks Show Notable Upward Moves",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14cEdlcjRKOUxPWTU5Z0RtTUFwWll1c2k2b2VFUkhYSFotNzQyYXZkaldtcmlNeUlRcWU4OHhid0dQT0ljTVNiT0Y4d0s0cVdWQWNOUHVZRkNZSXdYQVhGV2tuZy0wMW5XQ3ZiUl8zb2N4YXRGRms5Q1BnYXF0TkE?oc=5",
-   "image": null,
-   "source": "Dabafinance",
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-08-21T07:00:00.000Z",
