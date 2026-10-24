@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-10-24T04:41:01.393Z",
+ "updatedAt": "2026-10-24T08:42:06.268Z",
  "items": [
+  {
+   "id": "gn-1lr0nmy",
+   "title": "Onatel Burkina Faso (ONTBF) — BRVM",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tMVRXdFVBdDhJeEhBSUhIMjdZS2RaWXZtX2F3YUNaV0lJczZDRnVPa19OeE41Rm9BcjE2N0ZGc3FONVpfX1VTVzdJRkpMLVR1V0JFNUZtR3Q3czN1dVVaTlZRYTgtdDg?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-10-24T05:35:05.000Z",
+   "symbols": [
+    "ONTBF"
+   ]
+  },
   {
    "id": "sika-65226",
    "title": "CEDEAO : 2,61 milliards USD pour accélérer 121 projets d’intégration régionale",
@@ -49,6 +63,20 @@
    "publishedAt": "2026-10-23T15:47:00Z",
    "symbols": [
     "SNTS"
+   ]
+  },
+  {
+   "id": "gn-1apynbn",
+   "title": "Air Liquide Côte d'Ivoire (SIVC) — BRVM",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01TU9WZUExelpvaEV5MlVDV0Y5blVQalVYRmVkWXFWUVVvS3RZUXctR1dObXR5di1GeFoyc2lTN0dmNTgzbEpYVGtWdVpod0FrS0Jfc0hCcmZGTmhYakpnNEZWM3Nrdw?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-10-23T15:04:07.000Z",
+   "symbols": [
+    "SIVC"
    ]
   },
   {
@@ -554,20 +582,6 @@
    "premium": false,
    "publishedAt": "2026-10-21T09:03:00Z",
    "symbols": []
-  },
-  {
-   "id": "gn-1lr0nmy",
-   "title": "Onatel Burkina Faso (ONTBF) — BRVM",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tMVRXdFVBdDhJeEhBSUhIMjdZS2RaWXZtX2F3YUNaV0lJczZDRnVPa19OeE41Rm9BcjE2N0ZGc3FONVpfX1VTVzdJRkpMLVR1V0JFNUZtR3Q3czN1dVVaTlZRYTgtdDg?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-10-21T07:45:23.000Z",
-   "symbols": [
-    "ONTBF"
-   ]
   },
   {
    "id": "gn-1i44ytm",
@@ -1631,15 +1645,15 @@
    "symbols": []
   },
   {
-   "id": "gn-xd6og3",
+   "id": "gn-1n3bz8d",
    "title": "BRVM : Investir en bourse, est-ce vraimant pour les Maliens ?",
    "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOemRhRHFSNkNSMnFVM05ydGxMVE94X2FkRlI0Y1RKaVpIc05VMWVpSDRyRkRaVnB0UFNtakNmdTh6T1JmbGNucUwxTWpkNVRIcFd3WS1weWY5eVl1T3V6elB1U0xtXzhyMXJ3Q1hhOG9tV0NoTTBObEpsdlR2WlB3dU1VeUZZYVNYaEItR3UzaGhDS3BhLUF0Z3FlcDNGTG9pQ3hWckhyQ01CUlpRUmREQndYQXJpVTRFa3lKTFRHeWI0LTN5THlDbg?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQem1aMDF4MlpLSWtqZE00NW5TQzZvdzREUGgzUWhTMGxkeDNJWmg4QlhRZ1Q4aTRjWGhMZ2VGYm5RdFZ5VE1xTlktLUMzZmNqbFBOZUlkalo0Y1NobDJkY2VXU1lva0xZd2dmMV9yRjRUU0NzUHB5SGRMTFJpczRHbkw4djRMeFBpWlU1UW1TTEVlRWZweXdsMjZieWN1NGREVldXRDA4LS1vNUtBQmpua0hYZE1uR0xndEVUVDJwaS1uc3JFQWRjYg?oc=5",
    "image": null,
-   "source": "CANAL+",
+   "source": "Canal+",
    "category": "Presse",
    "premium": false,
-   "publishedAt": "2026-09-17T17:23:21.000Z",
+   "publishedAt": "2026-09-19T17:10:22.000Z",
    "symbols": []
   },
   {
@@ -1775,24 +1789,24 @@
    "symbols": []
   },
   {
-   "id": "gn-16ia63z",
-   "title": "BRVM : des Diaspora Bonds du Burkina Faso admis à la cote",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMXBJUnlNNlFTeEt0cF9pS01ubmh4RUV1dDB2VmVDZ3JMSXFvWnI0NXZrSUdXR0tweGdJSUthRWtRc3BfLUNYSjlXMHpUTDBwd2diNF9sa1BMcmZucGoyd3dIQVJfeGtrOUNaZHM1NjFCUkY4YmRPYlJabUNwLXJTNUd0ckVFWTZ0LWIzaHNjU0RTbHoxUG1j?oc=5",
-   "image": null,
-   "source": "APAnews - Agence de Presse Africaine",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-09-03T07:00:00.000Z",
-   "symbols": []
-  },
-  {
    "id": "gn-i5ff03",
    "title": "Burkina Faso/BRVM : Le Groupe Vista fait coter les 151,5 milliards FCFA des Diaspora Bonds",
    "summary": null,
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdVZhVTB3Uk9KN3Y2Y24tM2M4Wi1EajRoMFpLczU5RU1GTUk0X2tMbmJDOV9xQlNJTU84aTNfY0d0WTV4bHR2Yk1lX0Z3X0xEeVgyekJ1TGE2OGtIVnBvNkk2NEFESXpRVVFVNFpJRWdadHpMT3pRSmdxOGM3OXkxOHprYktISEU2NGdqSWxCNzlnVnViVTdOUGtpNUxpejE0bTZaR0FqZF9SMnVIc0ZjaFFZb1NEbjZfdjVKcXZnbGhsTEtXdGFrLTZR?oc=5",
    "image": null,
    "source": "Sika Finance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-09-03T07:00:00.000Z",
+   "symbols": []
+  },
+  {
+   "id": "gn-16ia63z",
+   "title": "BRVM : des Diaspora Bonds du Burkina Faso admis à la cote",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMXBJUnlNNlFTeEt0cF9pS01ubmh4RUV1dDB2VmVDZ3JMSXFvWnI0NXZrSUdXR0tweGdJSUthRWtRc3BfLUNYSjlXMHpUTDBwd2diNF9sa1BMcmZucGoyd3dIQVJfeGtrOUNaZHM1NjFCUkY4YmRPYlJabUNwLXJTNUd0ckVFWTZ0LWIzaHNjU0RTbHoxUG1j?oc=5",
+   "image": null,
+   "source": "APAnews - Agence de Presse Africaine",
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-09-03T07:00:00.000Z",
@@ -1861,18 +1875,6 @@
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNR0VhUklZQ0piV0tnUV9zQXZoS2lpaVpfdlU4WUJWSmYxa0N0V1pveV81VWViVk5makxJN3dCMFYwUHZKajJMek1HdktvTGxKbmI5bWZoSFFSbEJVbm83TDdTX2N2UGRJRGdzN1hmaG5jUHBWc2wyaF9YYnNzVzVlZ2pKWFNiV2U0Z0dUQ0prVVA5Um90R2VnQi1XUnBabUVWeHZ3MUJlMkR5N1B5cG5SM2Vqb0w?oc=5",
    "image": null,
    "source": "RFI",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-09-01T07:00:00.000Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-187pyb",
-   "title": "Afrique de l'Ouest: BRVM - Fortes hausses des indices phares de la bourse en début septembre 2026.",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1WMnJYeTB6MXNadDlmbmFwMVBRcDBjQ2VvSFlzVlc0OXZ4Q1NuWW1sZXFSY2VRdXpGUHBBclZzbWJQeGxvdmw5dzZoNGZYRm9GZndvYTJHVU5KX2VqVDVz?oc=5",
-   "image": null,
-   "source": "allAfrica.fr",
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-09-01T07:00:00.000Z",
