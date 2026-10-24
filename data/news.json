@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-10-24T08:42:06.268Z",
+ "updatedAt": "2026-10-24T12:48:44.821Z",
  "items": [
+  {
+   "id": "gn-1apynbn",
+   "title": "Air Liquide Côte d'Ivoire (SIVC) — BRVM",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01TU9WZUExelpvaEV5MlVDV0Y5blVQalVYRmVkWXFWUVVvS3RZUXctR1dObXR5di1GeFoyc2lTN0dmNTgzbEpYVGtWdVpod0FrS0Jfc0hCcmZGTmhYakpnNEZWM3Nrdw?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-10-24T09:14:46.000Z",
+   "symbols": [
+    "SIVC"
+   ]
+  },
   {
    "id": "gn-1lr0nmy",
    "title": "Onatel Burkina Faso (ONTBF) — BRVM",
@@ -63,20 +77,6 @@
    "publishedAt": "2026-10-23T15:47:00Z",
    "symbols": [
     "SNTS"
-   ]
-  },
-  {
-   "id": "gn-1apynbn",
-   "title": "Air Liquide Côte d'Ivoire (SIVC) — BRVM",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01TU9WZUExelpvaEV5MlVDV0Y5blVQalVYRmVkWXFWUVVvS3RZUXctR1dObXR5di1GeFoyc2lTN0dmNTgzbEpYVGtWdVpod0FrS0Jfc0hCcmZGTmhYakpnNEZWM3Nrdw?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-10-23T15:04:07.000Z",
-   "symbols": [
-    "SIVC"
    ]
   },
   {
@@ -1459,18 +1459,6 @@
    "symbols": []
   },
   {
-   "id": "gn-ducjkb",
-   "title": "Bourses africaines : une séance contrastée entre rebond et stabilité",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZEN4UXdneWpSaUhCMjJ4SUZrUDljd3l1RzR0ZnZidGRtR0xoaU53OWhmdmsxUHNaaDNaN1c1UVdReDZuSjRvLVpiamltMXZEdzI0V050TkJfVnJzUmo0ckVrRWdubXZHckxLR3pOS1NTNnFOdzI4VnN2UzdXckNUMy11NGlLVGxBY1RTeXB2bkVwNzlSMEI5SktzaHdLdw?oc=5",
-   "image": null,
-   "source": "Capmad",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-09-28T22:51:00.000Z",
-   "symbols": []
-  },
-  {
    "id": "gn-tdxxlq",
    "title": "Bridge Bank Group Côte d’Ivoire dévoile des résultats semestriels en forte hausse après son entrée à la BRVM",
    "summary": null,
@@ -1483,6 +1471,18 @@
    "symbols": [
     "BBGC"
    ]
+  },
+  {
+   "id": "gn-ducjkb",
+   "title": "Bourses africaines : une séance contrastée entre rebond et stabilité",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZEN4UXdneWpSaUhCMjJ4SUZrUDljd3l1RzR0ZnZidGRtR0xoaU53OWhmdmsxUHNaaDNaN1c1UVdReDZuSjRvLVpiamltMXZEdzI0V050TkJfVnJzUmo0ckVrRWdubXZHckxLR3pOS1NTNnFOdzI4VnN2UzdXckNUMy11NGlLVGxBY1RTeXB2bkVwNzlSMEI5SktzaHdLdw?oc=5",
+   "image": null,
+   "source": "Capmad",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-09-26T07:00:00.000Z",
+   "symbols": []
   },
   {
    "id": "gn-1y4sfk2",
@@ -1789,24 +1789,24 @@
    "symbols": []
   },
   {
-   "id": "gn-i5ff03",
-   "title": "Burkina Faso/BRVM : Le Groupe Vista fait coter les 151,5 milliards FCFA des Diaspora Bonds",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdVZhVTB3Uk9KN3Y2Y24tM2M4Wi1EajRoMFpLczU5RU1GTUk0X2tMbmJDOV9xQlNJTU84aTNfY0d0WTV4bHR2Yk1lX0Z3X0xEeVgyekJ1TGE2OGtIVnBvNkk2NEFESXpRVVFVNFpJRWdadHpMT3pRSmdxOGM3OXkxOHprYktISEU2NGdqSWxCNzlnVnViVTdOUGtpNUxpejE0bTZaR0FqZF9SMnVIc0ZjaFFZb1NEbjZfdjVKcXZnbGhsTEtXdGFrLTZR?oc=5",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-09-03T07:00:00.000Z",
-   "symbols": []
-  },
-  {
    "id": "gn-16ia63z",
    "title": "BRVM : des Diaspora Bonds du Burkina Faso admis à la cote",
    "summary": null,
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMXBJUnlNNlFTeEt0cF9pS01ubmh4RUV1dDB2VmVDZ3JMSXFvWnI0NXZrSUdXR0tweGdJSUthRWtRc3BfLUNYSjlXMHpUTDBwd2diNF9sa1BMcmZucGoyd3dIQVJfeGtrOUNaZHM1NjFCUkY4YmRPYlJabUNwLXJTNUd0ckVFWTZ0LWIzaHNjU0RTbHoxUG1j?oc=5",
    "image": null,
    "source": "APAnews - Agence de Presse Africaine",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-09-03T07:00:00.000Z",
+   "symbols": []
+  },
+  {
+   "id": "gn-i5ff03",
+   "title": "Burkina Faso/BRVM : Le Groupe Vista fait coter les 151,5 milliards FCFA des Diaspora Bonds",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdVZhVTB3Uk9KN3Y2Y24tM2M4Wi1EajRoMFpLczU5RU1GTUk0X2tMbmJDOV9xQlNJTU84aTNfY0d0WTV4bHR2Yk1lX0Z3X0xEeVgyekJ1TGE2OGtIVnBvNkk2NEFESXpRVVFVNFpJRWdadHpMT3pRSmdxOGM3OXkxOHprYktISEU2NGdqSWxCNzlnVnViVTdOUGtpNUxpejE0bTZaR0FqZF9SMnVIc0ZjaFFZb1NEbjZfdjVKcXZnbGhsTEtXdGFrLTZR?oc=5",
+   "image": null,
+   "source": "Sika Finance",
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-09-03T07:00:00.000Z",
