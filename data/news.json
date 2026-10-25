@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-25T08:42:05.227Z",
+ "updatedAt": "2026-10-25T12:47:53.315Z",
  "items": [
   {
    "id": "gn-1apynbn",
@@ -200,6 +200,20 @@
    "premium": false,
    "publishedAt": "2026-10-23T08:02:00Z",
    "symbols": []
+  },
+  {
+   "id": "gn-1bkqz72",
+   "title": "Saph Côte d'Ivoire (SPHC) — BRVM",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1zVWZyMmlqQ1JyNjFwRnlINzU3WEp4VDh1Ykszano4RXU1TzJSa3RTaklKVWN1UTZDNllocVY4d05fcDNXdVN1M0pyWDE1RU9zS2xLSzN0UEtuZVE5RExzR1N5amN3QQ?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-10-23T07:00:00.000Z",
+   "symbols": [
+    "SPHC"
+   ]
   },
   {
    "id": "gn-1gfad7o",
@@ -1824,20 +1838,6 @@
    "publishedAt": "2026-09-03T01:08:53.000Z",
    "symbols": [
     "BOABF"
-   ]
-  },
-  {
-   "id": "gn-1bkqz72",
-   "title": "Saph Côte d'Ivoire (SPHC) — BRVM",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1zVWZyMmlqQ1JyNjFwRnlINzU3WEp4VDh1Ykszano4RXU1TzJSa3RTaklKVWN1UTZDNllocVY4d05fcDNXdVN1M0pyWDE1RU9zS2xLSzN0UEtuZVE5RExzR1N5amN3QQ?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-09-03T01:08:41.000Z",
-   "symbols": [
-    "SPHC"
    ]
   },
   {
