@@ -1,34 +1,6 @@
 {
- "updatedAt": "2026-10-25T16:41:32.893Z",
+ "updatedAt": "2026-10-25T20:38:01.744Z",
  "items": [
-  {
-   "id": "gn-1apynbn",
-   "title": "Air Liquide Côte d'Ivoire (SIVC) — BRVM",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01TU9WZUExelpvaEV5MlVDV0Y5blVQalVYRmVkWXFWUVVvS3RZUXctR1dObXR5di1GeFoyc2lTN0dmNTgzbEpYVGtWdVpod0FrS0Jfc0hCcmZGTmhYakpnNEZWM3Nrdw?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-10-24T09:14:46.000Z",
-   "symbols": [
-    "SIVC"
-   ]
-  },
-  {
-   "id": "gn-1lr0nmy",
-   "title": "Onatel Burkina Faso (ONTBF) — BRVM",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tMVRXdFVBdDhJeEhBSUhIMjdZS2RaWXZtX2F3YUNaV0lJczZDRnVPa19OeE41Rm9BcjE2N0ZGc3FONVpfX1VTVzdJRkpMLVR1V0JFNUZtR3Q3czN1dVVaTlZRYTgtdDg?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-10-24T05:35:05.000Z",
-   "symbols": [
-    "ONTBF"
-   ]
-  },
   {
    "id": "sika-65226",
    "title": "CEDEAO : 2,61 milliards USD pour accélérer 121 projets d’intégration régionale",
@@ -202,6 +174,34 @@
    "symbols": []
   },
   {
+   "id": "gn-1apynbn",
+   "title": "Air Liquide Côte d'Ivoire (SIVC) — BRVM",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01TU9WZUExelpvaEV5MlVDV0Y5blVQalVYRmVkWXFWUVVvS3RZUXctR1dObXR5di1GeFoyc2lTN0dmNTgzbEpYVGtWdVpod0FrS0Jfc0hCcmZGTmhYakpnNEZWM3Nrdw?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-10-23T07:00:00.000Z",
+   "symbols": [
+    "SIVC"
+   ]
+  },
+  {
+   "id": "gn-1bkqz72",
+   "title": "Saph Côte d'Ivoire (SPHC) — BRVM",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1zVWZyMmlqQ1JyNjFwRnlINzU3WEp4VDh1Ykszano4RXU1TzJSa3RTaklKVWN1UTZDNllocVY4d05fcDNXdVN1M0pyWDE1RU9zS2xLSzN0UEtuZVE5RExzR1N5amN3QQ?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-10-23T07:00:00.000Z",
+   "symbols": [
+    "SPHC"
+   ]
+  },
+  {
    "id": "gn-1gfad7o",
    "title": "Sogb Côte d'Ivoire (SOGC) — BRVM",
    "summary": null,
@@ -213,6 +213,20 @@
    "publishedAt": "2026-10-23T07:00:00.000Z",
    "symbols": [
     "SOGC"
+   ]
+  },
+  {
+   "id": "gn-1lr0nmy",
+   "title": "Onatel Burkina Faso (ONTBF) — BRVM",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tMVRXdFVBdDhJeEhBSUhIMjdZS2RaWXZtX2F3YUNaV0lJczZDRnVPa19OeE41Rm9BcjE2N0ZGc3FONVpfX1VTVzdJRkpMLVR1V0JFNUZtR3Q3czN1dVVaTlZRYTgtdDg?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-10-23T07:00:00.000Z",
+   "symbols": [
+    "ONTBF"
    ]
   },
   {
@@ -1824,20 +1838,6 @@
    "publishedAt": "2026-09-03T01:08:53.000Z",
    "symbols": [
     "BOABF"
-   ]
-  },
-  {
-   "id": "gn-1bkqz72",
-   "title": "Saph Côte d'Ivoire (SPHC) — BRVM",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1zVWZyMmlqQ1JyNjFwRnlINzU3WEp4VDh1Ykszano4RXU1TzJSa3RTaklKVWN1UTZDNllocVY4d05fcDNXdVN1M0pyWDE1RU9zS2xLSzN0UEtuZVE5RExzR1N5amN3QQ?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-09-03T01:08:41.000Z",
-   "symbols": [
-    "SPHC"
    ]
   },
   {
