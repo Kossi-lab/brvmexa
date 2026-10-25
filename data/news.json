@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-25T12:47:53.315Z",
+ "updatedAt": "2026-10-25T16:41:32.893Z",
  "items": [
   {
    "id": "gn-1apynbn",
@@ -200,20 +200,6 @@
    "premium": false,
    "publishedAt": "2026-10-23T08:02:00Z",
    "symbols": []
-  },
-  {
-   "id": "gn-1bkqz72",
-   "title": "Saph Côte d'Ivoire (SPHC) — BRVM",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1zVWZyMmlqQ1JyNjFwRnlINzU3WEp4VDh1Ykszano4RXU1TzJSa3RTaklKVWN1UTZDNllocVY4d05fcDNXdVN1M0pyWDE1RU9zS2xLSzN0UEtuZVE5RExzR1N5amN3QQ?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-10-23T07:00:00.000Z",
-   "symbols": [
-    "SPHC"
-   ]
   },
   {
    "id": "gn-1gfad7o",
@@ -1553,20 +1539,6 @@
    ]
   },
   {
-   "id": "gn-1pgu4xj",
-   "title": "Marchés africains : Sonatel veut élargir sa base d’investisseurs",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxON2tmR2lYYlJ4OU91TUdZODJvN0tuOGZtNWh2QU9FT0dLUzNzaGJlcEQ4WmI4SUpBc3ZwTXp0S2Y0aXZSblphaE93djMyTDdRaGUxZm9XYXczR3ZJek41ZVV1TUVEd3pEMmtxVExsNUFMUWlJa0RkamNlelg0MWJzcGNGNzhRY3gxMGcwcUE2Mmh5MTZ1UEFR?oc=5",
-   "image": null,
-   "source": "Capmad",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-09-24T07:00:00.000Z",
-   "symbols": [
-    "SNTS"
-   ]
-  },
-  {
    "id": "gn-1im50v3",
    "title": "BRVM : UNIWAX CI publie un communiqué sur les déclarations de franchissement de seuil",
    "summary": null,
@@ -1578,6 +1550,20 @@
    "publishedAt": "2026-09-24T07:00:00.000Z",
    "symbols": [
     "UNXC"
+   ]
+  },
+  {
+   "id": "gn-1pgu4xj",
+   "title": "Marchés africains : Sonatel veut élargir sa base d’investisseurs",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxON2tmR2lYYlJ4OU91TUdZODJvN0tuOGZtNWh2QU9FT0dLUzNzaGJlcEQ4WmI4SUpBc3ZwTXp0S2Y0aXZSblphaE93djMyTDdRaGUxZm9XYXczR3ZJek41ZVV1TUVEd3pEMmtxVExsNUFMUWlJa0RkamNlelg0MWJzcGNGNzhRY3gxMGcwcUE2Mmh5MTZ1UEFR?oc=5",
+   "image": null,
+   "source": "Capmad",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-09-24T07:00:00.000Z",
+   "symbols": [
+    "SNTS"
    ]
   },
   {
@@ -1838,6 +1824,20 @@
    "publishedAt": "2026-09-03T01:08:53.000Z",
    "symbols": [
     "BOABF"
+   ]
+  },
+  {
+   "id": "gn-1bkqz72",
+   "title": "Saph Côte d'Ivoire (SPHC) — BRVM",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1zVWZyMmlqQ1JyNjFwRnlINzU3WEp4VDh1Ykszano4RXU1TzJSa3RTaklKVWN1UTZDNllocVY4d05fcDNXdVN1M0pyWDE1RU9zS2xLSzN0UEtuZVE5RExzR1N5amN3QQ?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-09-03T01:08:41.000Z",
+   "symbols": [
+    "SPHC"
    ]
   },
   {
