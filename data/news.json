@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-24T20:37:55.006Z",
+ "updatedAt": "2026-10-25T00:50:18.539Z",
  "items": [
   {
    "id": "gn-1apynbn",
@@ -104,20 +104,6 @@
    "symbols": []
   },
   {
-   "id": "gn-1gfad7o",
-   "title": "Sogb Côte d'Ivoire (SOGC) — BRVM",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sZUtjYXhXV041LTR6dVZsNkFvNzVIUXFtWlBibk55VUdnOV9OcEVSQzY3N1EzMGlhbEVJRFdBaUdPZ3dXLUpSUWppRXZZT1JTU29NeVJibE5XQU9UMkdLTWMyNEhzdw?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-10-23T12:34:41.000Z",
-   "symbols": [
-    "SOGC"
-   ]
-  },
-  {
    "id": "sika-65212",
    "title": "Côte d’Ivoire/Internet fixe : 32 milliards FCFA de revenus tirés par la fibre optique au T2 2026",
    "summary": "Le chiffre d'affaires de l'Internet fixe en Côte d'Ivoire a progressé de 23,7% au deuxième trimestre 2026 par rap...",
@@ -214,6 +200,20 @@
    "premium": false,
    "publishedAt": "2026-10-23T08:02:00Z",
    "symbols": []
+  },
+  {
+   "id": "gn-1gfad7o",
+   "title": "Sogb Côte d'Ivoire (SOGC) — BRVM",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sZUtjYXhXV041LTR6dVZsNkFvNzVIUXFtWlBibk55VUdnOV9OcEVSQzY3N1EzMGlhbEVJRFdBaUdPZ3dXLUpSUWppRXZZT1JTU29NeVJibE5XQU9UMkdLTWMyNEhzdw?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-10-23T07:00:00.000Z",
+   "symbols": [
+    "SOGC"
+   ]
   },
   {
    "id": "gn-1xs0wj0",
