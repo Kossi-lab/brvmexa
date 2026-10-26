@@ -1,6 +1,32 @@
 {
- "updatedAt": "2026-10-26T16:11:16.636Z",
+ "updatedAt": "2026-10-26T16:47:21.497Z",
  "items": [
+  {
+   "id": "sika-65256",
+   "title": "BRVM : Le fractionnement de Sonatel attise l’engouement des investisseurs",
+   "summary": "La BRVM démarre la semaine sur une note résolument positive. Les trois principaux indices s'inscrivent en hausse...",
+   "url": "https://www.sikafinance.com/marches/brvm-le-fractionnement-de-sonatel-attise-lengouement-des-investisseurs_65256",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-26T16:40:00Z",
+   "symbols": [
+    "SNTS"
+   ]
+  },
+  {
+   "id": "sika-65254",
+   "title": "UEMOA : La masse monétaire bondit de plus de 10 300 milliards FCFA en un an, à fin juillet",
+   "summary": "La monnaie circule à un rythme soutenu dans l'UEMOA. À fin juillet 2026, la masse monétaire a augmenté de 19% à ...",
+   "url": "https://www.sikafinance.com/marches/uemoa-la-masse-monetaire-bondit-de-plus-de-10-300-milliards-fcfa-en-un-an-a-fin-juillet_65254",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-26T16:11:00Z",
+   "symbols": []
+  },
   {
    "id": "sika-65252",
    "title": "Startups africaines : Avec 583 millions USD levés, le 3e trimestre dissipe les craintes d’un ralentissement prolongé",
@@ -12,6 +38,20 @@
    "premium": true,
    "publishedAt": "2026-10-26T16:05:00Z",
    "symbols": []
+  },
+  {
+   "id": "sika-65253",
+   "title": "NSIA Banque Côte d’Ivoire consolide ses revenus et renforce ses fonds propres au premier semestre 2026",
+   "summary": "La banque ivoirienne a enregistré un produit net bancaire de 53,7 milliards FCFA, en hausse de 6%, et un résultat brut d...",
+   "url": "https://www.sikafinance.com/marches/nsia-banque-cote-divoire-consolide-ses-revenus-et-renforce-ses-fonds-propres-au-premier-semestre-2026_65253",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-26T15:40:00Z",
+   "symbols": [
+    "NSBC"
+   ]
   },
   {
    "id": "sika-65251",
@@ -1714,20 +1754,6 @@
    ]
   },
   {
-   "id": "gn-1im50v3",
-   "title": "BRVM : UNIWAX CI publie un communiqué sur les déclarations de franchissement de seuil",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOXRPTU9VdHN4V3poVjBKamwtNkdWOGhoMzloc1MxWllPT1hoYnVzNzNTdG5lbHc4akhGR21aOFVoaUJjQlB2QXJJa2FjUmNEWVJtTEtCN0RWU2ttZEpCVTBlQzVPTWFSY0w5cURaWVZfX2MxRkJ5MWFNZEVjSjZUYnBlX3VTUlk0dzhHdFVMZF8?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-09-24T07:00:00.000Z",
-   "symbols": [
-    "UNXC"
-   ]
-  },
-  {
    "id": "gn-1pgu4xj",
    "title": "Marchés africains : Sonatel veut élargir sa base d’investisseurs",
    "summary": null,
@@ -1739,6 +1765,20 @@
    "publishedAt": "2026-09-24T07:00:00.000Z",
    "symbols": [
     "SNTS"
+   ]
+  },
+  {
+   "id": "gn-1im50v3",
+   "title": "BRVM : UNIWAX CI publie un communiqué sur les déclarations de franchissement de seuil",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOXRPTU9VdHN4V3poVjBKamwtNkdWOGhoMzloc1MxWllPT1hoYnVzNzNTdG5lbHc4akhGR21aOFVoaUJjQlB2QXJJa2FjUmNEWVJtTEtCN0RWU2ttZEpCVTBlQzVPTWFSY0w5cURaWVZfX2MxRkJ5MWFNZEVjSjZUYnBlX3VTUlk0dzhHdFVMZF8?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-09-24T07:00:00.000Z",
+   "symbols": [
+    "UNXC"
    ]
   },
   {
@@ -1830,50 +1870,6 @@
    "premium": false,
    "publishedAt": "2026-09-17T17:23:21.000Z",
    "symbols": []
-  },
-  {
-   "id": "gn-1vubffr",
-   "title": "Sucrivoire, SONOCO et SICOR suspendues de cotation à la BRVM",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN2JkQktreFd5VU0yZ0d5WHItR20zWmdBWVFkbmNiMkNnelRnMjB5VXFqNi1CV1RnbkVFNTJrd1V3Y2Y0SHhXYkdMWnB6R2ZMazF0WDYxUVFtSVVQSTAxRjBnZ05JOGlNTm54N2VzRDRsaEFBMTVfWk02bG52NmpOMHB5VTZ3c2E5Q1ZlRDFWS0psNDROY0Q0d1VzR0MwVFBzUGZjY3k3NXl1bURlTDdkSFhHcXZUZE5YbzRz?oc=5",
-   "image": null,
-   "source": "AGENCE ECOFIN",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-09-17T07:00:00.000Z",
-   "symbols": [
-    "SCRC",
-    "SICC"
-   ]
-  },
-  {
-   "id": "gn-jv3hlp",
-   "title": "Sucrivoire et SIEM suspendus sur la BRVM",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQU2Q5M2R2MUR0WHYzNHozWl9NOGlMRWc3U2dJYmUwd3BlOU1oSFlKelEwYndmdnhqVG4zbTN1X2lCSWFRb0V3M0U1aE4zTnN2eV9tMVZvUGZJSW9kMG1qZHRkTmxsQ0JuQnpyMzREUjQ2Y3Fidk9FM3FoY3E3ei11QnJhLTZvdi1GOU5pcFhDdDNZRmt4V2VEUVBPZ2kxRk1oMWlEcDlLck5jcVMyYVYw?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-09-17T07:00:00.000Z",
-   "symbols": [
-    "SCRC",
-    "SEMC"
-   ]
-  },
-  {
-   "id": "gn-1wdk68y",
-   "title": "BRVM : 3 Actions Africaines en Forte Hausse, NEI-CEDA S’Envole de +95,04%",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRDMyT1A3SDVMS2R5QWF6VV9Kd1Q2ZjRLTXJCYXZ2ZGtLN19Bci1Ea2NWR1o1dFVwNnRQS1lGTmYxbU15d04wVzJPLXVQQ2pjMmIybkY3aVhnQ25OMmNMSmpWMzdhZF9aTHdKNzJaQ1pTVlFDd1pvWEJUWFAtQ2tnNVNYYw?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-09-16T07:00:00.000Z",
-   "symbols": [
-    "NEIC"
-   ]
   }
  ]
 }
