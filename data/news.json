@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-26T21:36:10.194Z",
+ "updatedAt": "2026-10-26T22:36:42.589Z",
  "items": [
   {
    "id": "sika-65257",
@@ -167,18 +167,6 @@
    ]
   },
   {
-   "id": "gn-10qvyms",
-   "title": "UEMOA: Afriland obtient un feu vert du régulateur pour lancer sa société de Bourse",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOXFLRzBXVEJwSDhmRm9NaEU3WFZYcTM2azFXRjFmRnFZNUhIalAzSUpZQUUtcFpQLUNfdEpmbWgzNHZkTzg1cVp5TGprREQwSzhFYUo4YU5wQWtpdzRheDVRZXdDcXZOUDFKdVNZdERMMUNIV0M1SGJwRmQ4OTVfTG1ubGdlZjNVTk5hUHgzRWRKRG1uVlVOelVzb0kyR0U4WWhnWQ?oc=5",
-   "image": null,
-   "source": "EcoMatin",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-10-26T09:50:19.000Z",
-   "symbols": []
-  },
-  {
    "id": "sika-65238",
    "title": "Côte d’Ivoire : Innov Immobilier réinvente l’appart’hôtel sur le marché du séjour haut de gamme",
    "summary": "Créée en 2021, l'entreprise ivoirienne gère aujourd'hui plus de 200 appartements et emploie plus de 100 personnes. Avec ...",
@@ -200,6 +188,18 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-10-26T09:08:00Z",
+   "symbols": []
+  },
+  {
+   "id": "gn-10qvyms",
+   "title": "UEMOA: Afriland obtient un feu vert du régulateur pour lancer sa société de Bourse",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOXFLRzBXVEJwSDhmRm9NaEU3WFZYcTM2azFXRjFmRnFZNUhIalAzSUpZQUUtcFpQLUNfdEpmbWgzNHZkTzg1cVp5TGprREQwSzhFYUo4YU5wQWtpdzRheDVRZXdDcXZOUDFKdVNZdERMMUNIV0M1SGJwRmQ4OTVfTG1ubGdlZjNVTk5hUHgzRWRKRG1uVlVOelVzb0kyR0U4WWhnWQ?oc=5",
+   "image": null,
+   "source": "EcoMatin",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-10-26T01:50:19.000Z",
    "symbols": []
   },
   {
@@ -1754,20 +1754,6 @@
    ]
   },
   {
-   "id": "gn-1pgu4xj",
-   "title": "Marchés africains : Sonatel veut élargir sa base d’investisseurs",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxON2tmR2lYYlJ4OU91TUdZODJvN0tuOGZtNWh2QU9FT0dLUzNzaGJlcEQ4WmI4SUpBc3ZwTXp0S2Y0aXZSblphaE93djMyTDdRaGUxZm9XYXczR3ZJek41ZVV1TUVEd3pEMmtxVExsNUFMUWlJa0RkamNlelg0MWJzcGNGNzhRY3gxMGcwcUE2Mmh5MTZ1UEFR?oc=5",
-   "image": null,
-   "source": "Capmad",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-09-24T07:00:00.000Z",
-   "symbols": [
-    "SNTS"
-   ]
-  },
-  {
    "id": "gn-1im50v3",
    "title": "BRVM : UNIWAX CI publie un communiqué sur les déclarations de franchissement de seuil",
    "summary": null,
@@ -1779,6 +1765,20 @@
    "publishedAt": "2026-09-24T07:00:00.000Z",
    "symbols": [
     "UNXC"
+   ]
+  },
+  {
+   "id": "gn-1pgu4xj",
+   "title": "Marchés africains : Sonatel veut élargir sa base d’investisseurs",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxON2tmR2lYYlJ4OU91TUdZODJvN0tuOGZtNWh2QU9FT0dLUzNzaGJlcEQ4WmI4SUpBc3ZwTXp0S2Y0aXZSblphaE93djMyTDdRaGUxZm9XYXczR3ZJek41ZVV1TUVEd3pEMmtxVExsNUFMUWlJa0RkamNlelg0MWJzcGNGNzhRY3gxMGcwcUE2Mmh5MTZ1UEFR?oc=5",
+   "image": null,
+   "source": "Capmad",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-09-24T07:00:00.000Z",
+   "symbols": [
+    "SNTS"
    ]
   },
   {
