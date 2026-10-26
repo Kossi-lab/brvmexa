@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-10-26T16:47:21.497Z",
+ "updatedAt": "2026-10-26T17:39:47.430Z",
  "items": [
+  {
+   "id": "sika-65257",
+   "title": "ONATEL : La croissance de l’activité mise à l’épreuve par la hausse des charges au 3ème trimestre",
+   "summary": "À fin septembre 2026, Moov Africa BF poursuit son développement, porté par l'essor des usages numériques et les ...",
+   "url": "https://www.sikafinance.com/marches/onatel-la-croissance-de-lactivite-mise-a-lepreuve-par-la-hausse-des-charges-au-3eme-trimestre_65257",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-10-26T16:49:00Z",
+   "symbols": [
+    "ONTBF"
+   ]
+  },
   {
    "id": "sika-65256",
    "title": "BRVM : Le fractionnement de Sonatel attise l’engouement des investisseurs",
@@ -1754,20 +1768,6 @@
    ]
   },
   {
-   "id": "gn-1pgu4xj",
-   "title": "Marchés africains : Sonatel veut élargir sa base d’investisseurs",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxON2tmR2lYYlJ4OU91TUdZODJvN0tuOGZtNWh2QU9FT0dLUzNzaGJlcEQ4WmI4SUpBc3ZwTXp0S2Y0aXZSblphaE93djMyTDdRaGUxZm9XYXczR3ZJek41ZVV1TUVEd3pEMmtxVExsNUFMUWlJa0RkamNlelg0MWJzcGNGNzhRY3gxMGcwcUE2Mmh5MTZ1UEFR?oc=5",
-   "image": null,
-   "source": "Capmad",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-09-24T07:00:00.000Z",
-   "symbols": [
-    "SNTS"
-   ]
-  },
-  {
    "id": "gn-1im50v3",
    "title": "BRVM : UNIWAX CI publie un communiqué sur les déclarations de franchissement de seuil",
    "summary": null,
@@ -1779,6 +1779,20 @@
    "publishedAt": "2026-09-24T07:00:00.000Z",
    "symbols": [
     "UNXC"
+   ]
+  },
+  {
+   "id": "gn-1pgu4xj",
+   "title": "Marchés africains : Sonatel veut élargir sa base d’investisseurs",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxON2tmR2lYYlJ4OU91TUdZODJvN0tuOGZtNWh2QU9FT0dLUzNzaGJlcEQ4WmI4SUpBc3ZwTXp0S2Y0aXZSblphaE93djMyTDdRaGUxZm9XYXczR3ZJek41ZVV1TUVEd3pEMmtxVExsNUFMUWlJa0RkamNlelg0MWJzcGNGNzhRY3gxMGcwcUE2Mmh5MTZ1UEFR?oc=5",
+   "image": null,
+   "source": "Capmad",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-09-24T07:00:00.000Z",
+   "symbols": [
+    "SNTS"
    ]
   },
   {
@@ -1857,18 +1871,6 @@
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-09-22T07:00:00.000Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-xd6og3",
-   "title": "BRVM : Investir en bourse, est-ce vraimant pour les Maliens ?",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOemRhRHFSNkNSMnFVM05ydGxMVE94X2FkRlI0Y1RKaVpIc05VMWVpSDRyRkRaVnB0UFNtakNmdTh6T1JmbGNucUwxTWpkNVRIcFd3WS1weWY5eVl1T3V6elB1U0xtXzhyMXJ3Q1hhOG9tV0NoTTBObEpsdlR2WlB3dU1VeUZZYVNYaEItR3UzaGhDS3BhLUF0Z3FlcDNGTG9pQ3hWckhyQ01CUlpRUmREQndYQXJpVTRFa3lKTFRHeWI0LTN5THlDbg?oc=5",
-   "image": null,
-   "source": "Canal+",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-09-17T17:23:21.000Z",
    "symbols": []
   }
  ]
