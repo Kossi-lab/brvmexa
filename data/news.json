@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-10-26T08:46:45.285Z",
+ "updatedAt": "2026-10-26T09:33:39.939Z",
  "items": [
+  {
+   "id": "sika-65236",
+   "title": "Sénégal : Un passage en force de l’exécutif envisagé en cas de blocage du projet de Loi de finances rectificative 2026",
+   "summary": "Au Sénégal, une grosse menace pèse sur le projet de loi de finances rectificative 2026 et sur le bon fonctionnement de ...",
+   "url": "https://www.sikafinance.com/marches/senegal-un-passage-en-force-de-lexecutif-envisage-en-cas-de-blocage-du-projet-de-loi-de-finances-rectificative-2026_65236",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-26T09:08:00Z",
+   "symbols": []
+  },
   {
    "id": "sika-65226",
    "title": "CEDEAO : 2,61 milliards USD pour accélérer 121 projets d’intégration régionale",
@@ -1864,20 +1876,6 @@
    "publishedAt": "2026-09-03T01:08:53.000Z",
    "symbols": [
     "BOABF"
-   ]
-  },
-  {
-   "id": "gn-1lzzfnd",
-   "title": "Bank of Africa - Benin (BOAB) — BRVM",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE04a2FES05hTmtBQk4tOGt5WTU0M0IzTl9DLUlmaDNPOVFwX0w1QzZwM3V3Nk9pNklRcUxCVWVmaFFkUjRJeXp6Q3JRMlRLNTdmMHlrb2JXVmxWVy1Pei04WHBBclBXZw?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-09-03T01:08:34.000Z",
-   "symbols": [
-    "BOAB"
    ]
   }
  ]
