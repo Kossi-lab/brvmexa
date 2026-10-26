@@ -1,6 +1,33 @@
 {
- "updatedAt": "2026-10-26T10:22:21.985Z",
+ "updatedAt": "2026-10-26T11:07:57.746Z",
  "items": [
+  {
+   "id": "sika-65241",
+   "title": "Afreximbank affiche un bénéfice de 813,5 millions USD à fin septembre 2026, en hausse de 24%",
+   "summary": "Dans un environnement mondial marqué par les incertitudes économiques et géopolitiques, Afreximbank confirme la solidit...",
+   "url": "https://www.sikafinance.com/marches/afreximbank-affiche-un-benefice-de-813-5-millions-usd-a-fin-septembre-2026-en-hausse-de-24_65241",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-26T10:50:00Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65240",
+   "title": "BRVM / SEMAINE 42 : La prudence reste de mise, Unilever CI et SAPH tirent leur épingle du jeu",
+   "summary": "Le marché actions de la BRVM a poursuivi sa consolidation pour la deuxième semaine consécutive. Le BRVM-Composite recul...",
+   "url": "https://www.sikafinance.com/marches/brvm-semaine-42-la-prudence-reste-de-mise-unilever-ci-et-saph-tirent-leur-epingle-du-jeu_65240",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-10-26T10:24:00Z",
+   "symbols": [
+    "SPHC",
+    "UNLC"
+   ]
+  },
   {
    "id": "sika-65238",
    "title": "Côte d’Ivoire : Innov Immobilier réinvente l’appart’hôtel sur le marché du séjour haut de gamme",
@@ -1850,30 +1877,6 @@
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-09-07T07:00:00.000Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-170bpkg",
-   "title": "La Bourse de la BRVM poursuit sa remontée alors que sa capitalisation boursière dépasse les 21 T XOF",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeHphV3QwQUVSM3NlakFZU2UtaTlLQ1ptaDZYeFFoOTQyOWhtQkRUbEhuRk52TGF3cHFPM0tzZmFjbmlubkM4MDlGSlozTGo1TTJ6WF9LaGRPQkZHbjUzQ3VaN0RHRWk5Z0dCZ1ZfVld6RlJpY0VFMFJ0VzlOSlBoS3Y4MXF3Y1BrYW5qLVByd1lTVDg3dkFqcy16VFhvMko3X1UxMlg2aU82QURQMHljX2oydw?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-09-06T07:00:00.000Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-16ia63z",
-   "title": "BRVM : des Diaspora Bonds du Burkina Faso admis à la cote",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMXBJUnlNNlFTeEt0cF9pS01ubmh4RUV1dDB2VmVDZ3JMSXFvWnI0NXZrSUdXR0tweGdJSUthRWtRc3BfLUNYSjlXMHpUTDBwd2diNF9sa1BMcmZucGoyd3dIQVJfeGtrOUNaZHM1NjFCUkY4YmRPYlJabUNwLXJTNUd0ckVFWTZ0LWIzaHNjU0RTbHoxUG1j?oc=5",
-   "image": null,
-   "source": "APAnews - Agence de Presse Africaine",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-09-03T07:00:00.000Z",
    "symbols": []
   }
  ]
