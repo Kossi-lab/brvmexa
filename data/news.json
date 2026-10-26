@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-10-26T12:38:37.137Z",
+ "updatedAt": "2026-10-26T15:05:22.116Z",
  "items": [
+  {
+   "id": "sika-65248",
+   "title": "Congo : L’offre de crédit recule de 19 %, mais son coût baisse de 44 % au deuxième trimestre",
+   "summary": "Au deuxième trimestre 2026, les banques opérant en République du Congo ont accordé 345,6 milliards de FCFA de nouveaux ...",
+   "url": "https://www.sikafinance.com/marches/congo-loffre-de-credit-recule-de-19--mais-son-cout-baisse-de-44-au-deuxieme-trimestre_65248",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-26T13:20:00Z",
+   "symbols": []
+  },
   {
    "id": "sika-65245",
    "title": "Nigeria : Débloquer 5,79 milliards USD de financements privés visés grâce au Groupe de la Banque mondiale",
@@ -1864,18 +1876,6 @@
    "symbols": [
     "BICB"
    ]
-  },
-  {
-   "id": "gn-1gxqa98",
-   "title": "Le BRVM atteint les 555 points alors que la reprise se prolonge en septembre",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOUZaM1UxcW44SWRvTzdLcnFDbDZ5VjZqY0Y3ekVxM0JmbzcyZXZPd3ZacW1KQUpoeENJcTQ0WEFlS01ibGdDeUZkX09QdWpnMXhnMFJLZFRyU3ppNHVmNHVYYXoybmY0ald0VW9qRFVtdFlMTUYwWW01clFBb1BISEZuc1ZSemxqOVRGMnBzZWdNcTBwQ1lXZkFIWTd0TU9kNzFOVmRSLVc3NkNNUjFF?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-09-13T07:00:00.000Z",
-   "symbols": []
   }
  ]
 }
