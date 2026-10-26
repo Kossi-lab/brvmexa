@@ -1,16 +1,40 @@
 {
- "updatedAt": "2026-10-26T09:33:39.939Z",
+ "updatedAt": "2026-10-26T10:22:21.985Z",
  "items": [
   {
+   "id": "sika-65238",
+   "title": "Côte d’Ivoire : Innov Immobilier réinvente l’appart’hôtel sur le marché du séjour haut de gamme",
+   "summary": "Créée en 2021, l'entreprise ivoirienne gère aujourd'hui plus de 200 appartements et emploie plus de 100 personnes. Avec ...",
+   "url": "https://www.sikafinance.com/marches/cote-divoire-innov-immobilier-reinvente-lapparthotel-sur-le-marche-du-sejour-haut-de-gamme_65238",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-26T09:49:00Z",
+   "symbols": []
+  },
+  {
    "id": "sika-65236",
-   "title": "Sénégal : Un passage en force de l’exécutif envisagé en cas de blocage du projet de Loi de finances rectificative 2026",
+   "title": "Sénégal : Jusqu’où l’exécutif ira-t-il pour faire adopter le budget rectificatif 2026 ?",
    "summary": "Au Sénégal, une grosse menace pèse sur le projet de loi de finances rectificative 2026 et sur le bon fonctionnement de ...",
-   "url": "https://www.sikafinance.com/marches/senegal-un-passage-en-force-de-lexecutif-envisage-en-cas-de-blocage-du-projet-de-loi-de-finances-rectificative-2026_65236",
+   "url": "https://www.sikafinance.com/marches/senegal-jusquou-lexecutif-ira-t-il-pour-faire-adopter-le-budget-rectificatif-2026-_65236",
    "image": null,
    "source": "Sika Finance",
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-10-26T09:08:00Z",
+   "symbols": []
+  },
+  {
+   "id": "gn-10qvyms",
+   "title": "UEMOA: Afriland obtient un feu vert du régulateur pour lancer sa société de Bourse",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOXFLRzBXVEJwSDhmRm9NaEU3WFZYcTM2azFXRjFmRnFZNUhIalAzSUpZQUUtcFpQLUNfdEpmbWgzNHZkTzg1cVp5TGprREQwSzhFYUo4YU5wQWtpdzRheDVRZXdDcXZOUDFKdVNZdERMMUNIV0M1SGJwRmQ4OTVfTG1ubGdlZjNVTk5hUHgzRWRKRG1uVlVOelVzb0kyR0U4WWhnWQ?oc=5",
+   "image": null,
+   "source": "EcoMatin",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-10-26T01:50:19.000Z",
    "symbols": []
   },
   {
@@ -1851,32 +1875,6 @@
    "premium": false,
    "publishedAt": "2026-09-03T07:00:00.000Z",
    "symbols": []
-  },
-  {
-   "id": "gn-i5ff03",
-   "title": "Burkina Faso/BRVM : Le Groupe Vista fait coter les 151,5 milliards FCFA des Diaspora Bonds",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdVZhVTB3Uk9KN3Y2Y24tM2M4Wi1EajRoMFpLczU5RU1GTUk0X2tMbmJDOV9xQlNJTU84aTNfY0d0WTV4bHR2Yk1lX0Z3X0xEeVgyekJ1TGE2OGtIVnBvNkk2NEFESXpRVVFVNFpJRWdadHpMT3pRSmdxOGM3OXkxOHprYktISEU2NGdqSWxCNzlnVnViVTdOUGtpNUxpejE0bTZaR0FqZF9SMnVIc0ZjaFFZb1NEbjZfdjVKcXZnbGhsTEtXdGFrLTZR?oc=5",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-09-03T07:00:00.000Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-27sa5h",
-   "title": "Bank of Africa - Burkina Faso (BOABF) — BRVM",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxVWttTXJDR2d1QVk1TFdsQUhGeG9kMXZ3eFUwaHl2dXBkdlBLb1EwTjdMLWw2VjVzbU9vblZxTkpiS29CZGwzNkhteE4zTTFwcXVDUWhrME9vQjFGd1ZJMEtIUGJGS2M?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-09-03T01:08:53.000Z",
-   "symbols": [
-    "BOABF"
-   ]
   }
  ]
 }
