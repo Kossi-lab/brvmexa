@@ -1,6 +1,54 @@
 {
- "updatedAt": "2026-10-26T11:07:57.746Z",
+ "updatedAt": "2026-10-26T12:38:37.137Z",
  "items": [
+  {
+   "id": "sika-65245",
+   "title": "Nigeria : Débloquer 5,79 milliards USD de financements privés visés grâce au Groupe de la Banque mondiale",
+   "summary": "Au Nigeria, l'enjeu des réformes économiques se mesure désormais à leur capacité à attirer des capitaux. Depuis la mi-2...",
+   "url": "https://www.sikafinance.com/marches/nigeria-debloquer-5-79-milliards-usd-de-financements-prives-vises-grace-au-groupe-de-la-banque-mondiale_65245",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-10-26T11:55:00Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65244",
+   "title": "Côte d’Ivoire : Avec Tongon et Binguébougou, plus de 100 MWc de solaire vont renforcer le réseau électrique",
+   "summary": "Deux centrales photovoltaïques totalisant 102 MWc doivent être construites dans la région du Poro, dans le nord de...",
+   "url": "https://www.sikafinance.com/marches/cote-divoire-avec-tongon-et-binguebougou-plus-de-100-mwc-de-solaire-vont-renforcer-le-reseau-electrique_65244",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-26T11:18:00Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65243",
+   "title": "Télécoms : La Côte d’Ivoire confirme sa dynamique avec 368 milliards FCFA de revenus trimestriels",
+   "summary": "Les chiffres du deuxième trimestre 2026 du marché des télécommunications en Côte d'Ivoire mettent en lumière une ...",
+   "url": "https://www.sikafinance.com/marches/telecoms-la-cote-divoire-confirme-sa-dynamique-avec-368-milliards-fcfa-de-revenus-trimestriels_65243",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-10-26T11:10:00Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65242",
+   "title": "Côte d’Ivoire : Innov Finance se lance dans la mésofinance pour faciliter l’accès des PME au crédit",
+   "summary": "Le paysage financier ivoirien accueille un nouvel acteur, avec le lancement officiel des activités d'Innov Finance, ce ...",
+   "url": "https://www.sikafinance.com/marches/cote-divoire-innov-finance-se-lance-dans-la-mesofinance-pour-faciliter-lacces-des-pme-au-credit_65242",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-26T10:55:00Z",
+   "symbols": []
+  },
   {
    "id": "sika-65241",
    "title": "Afreximbank affiche un bénéfice de 813,5 millions USD à fin septembre 2026, en hausse de 24%",
@@ -1827,56 +1875,6 @@
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-09-13T07:00:00.000Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-zho28j",
-   "title": "BRVM : après une OPV souscrite à 142 %, Bridge Bank sera cotée le 24 septembre",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaDB0Z3ZZTEN3eTZEN2h0Z0RtVTREZ1dURHFzTzF6em9VYVlsREZGekVIVFpZbExWYkpfTHp5UWNCRjBVaFlVUnJsVTdtSE84MGEwQkpyRFNDUXFkendLVEVoczc2WUdHNnhkYWVmQlQtZjctZWM0UUlNdEJaOHREX3E3RFg2UjFieHVFdFNCeU5fMXYxcXA2YXZ4VGlyX3JFSEE1Y0RFRFNta1hnNnRJalh3SlZwb0I4TW16eTE1ODBjbWRCb3UxZUlOZ3phZw?oc=5",
-   "image": null,
-   "source": "AGENCE ECOFIN",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-09-09T07:00:00.000Z",
-   "symbols": [
-    "BBGC"
-   ]
-  },
-  {
-   "id": "gn-aijb39",
-   "title": "Lagos, Abidjan, Nairobi… Ce qui dope la rentabilité exceptionnelle des Bourses africaines",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRURMMVVjTkVyWUdEclZBZmtSU1A2eFNUaGQyWVk1cTNFWGxpZC1hb1ZSUXZaeDVJNFV0akpOZUJqT0JxT1BDeGJfMlFIdTNJOS1SNmprUlZUbkFtSk5CT0xacTl0NW5qYnRzemJ4MVRCOGowU2ZQeENNbGhCVmlDZkY2a01JMGx0MUNoOFZwMEVWNC14bElvSnl6emNPSThVWGIycHFINEJpZkUtTFJTV0dSY0gtQ3owLUtzUUVjX2hRMHM4WkJzSVdZc1pjZTFRZVNBMVhSa1JCTkgxOUE?oc=5",
-   "image": null,
-   "source": "Jeune Afrique",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-09-07T07:00:00.000Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-i5twj8",
-   "title": "BRVM admet à la cote les Diaspora Bonds du Burkina Faso après une levée record",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPU2JSNjV2QVM3WTM0S2ZEWXpZUVhsbXMxbjBtWmdsQnp1T2h0NnFqVzZQVjlZd1U0b0JJUVliTXFMMVJtVUFEcEtwbDlzOWRlbU9qZWk2WTlMSzJvWTJ6Wk9DZHowQ2o4VnZCNFF4bFo3aHdvbklIcW54dWVGRWh4SU5ya3BURTZPaEU3MmkwOTMzczU0MDVOdlJ4SXIxbEhfQXNGNjJWT2otN3JodHc?oc=5",
-   "image": null,
-   "source": "Capmad",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-09-07T07:00:00.000Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-tdjc4r",
-   "title": "CGF Bourse lève 90 milliards FCFA en trois émissions obligataires UEMOA",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYlhkWXYxVG9Qc2RqT2pKd1dtRHpLakFMSWZPdlNsaGMxMnd4OW5xZTJMY3lHYkh1WDR1dllaVm5aOGtrU3o0ZW1BeGVxTnhGYVhkM3JPRXFJVXRkamx3WTU1S2syektiQnljOXI2WjNQSkhnZmdfYUQ0M3RXT1R0Q0RENHB1dEtQY3FCVW5FYlJlWEV5dm9oUlljbWl2elBjSTgxekNRZw?oc=5",
-   "image": null,
-   "source": "Africtelegraph",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-09-07T07:00:00.000Z",
    "symbols": []
   }
  ]
