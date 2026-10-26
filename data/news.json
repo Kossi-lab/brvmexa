@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-25T20:38:01.744Z",
+ "updatedAt": "2026-10-26T08:46:45.285Z",
  "items": [
   {
    "id": "sika-65226",
@@ -172,6 +172,20 @@
    "premium": false,
    "publishedAt": "2026-10-23T08:02:00Z",
    "symbols": []
+  },
+  {
+   "id": "gn-c25ulg",
+   "title": "Nsia Banque Côte d'Ivoire (NSBC) — BRVM",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sWnZodnlzMzFOTjBpZDZnTGMwcTlQcndqaF9mbWlNN053QkRMRUlZMGtHUFVaM3Q2RGNQc3RjNzBXdk5VR2Y5OFgta0lidndUdGw5X3hMNUJKaXh1ejhtNkZkUXM1QQ?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-10-23T07:00:00.000Z",
+   "symbols": [
+    "NSBC"
+   ]
   },
   {
    "id": "gn-1apynbn",
@@ -1659,15 +1673,15 @@
    "symbols": []
   },
   {
-   "id": "gn-1n3bz8d",
+   "id": "gn-xd6og3",
    "title": "BRVM : Investir en bourse, est-ce vraimant pour les Maliens ?",
    "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQem1aMDF4MlpLSWtqZE00NW5TQzZvdzREUGgzUWhTMGxkeDNJWmg4QlhRZ1Q4aTRjWGhMZ2VGYm5RdFZ5VE1xTlktLUMzZmNqbFBOZUlkalo0Y1NobDJkY2VXU1lva0xZd2dmMV9yRjRUU0NzUHB5SGRMTFJpczRHbkw4djRMeFBpWlU1UW1TTEVlRWZweXdsMjZieWN1NGREVldXRDA4LS1vNUtBQmpua0hYZE1uR0xndEVUVDJwaS1uc3JFQWRjYg?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOemRhRHFSNkNSMnFVM05ydGxMVE94X2FkRlI0Y1RKaVpIc05VMWVpSDRyRkRaVnB0UFNtakNmdTh6T1JmbGNucUwxTWpkNVRIcFd3WS1weWY5eVl1T3V6elB1U0xtXzhyMXJ3Q1hhOG9tV0NoTTBObEpsdlR2WlB3dU1VeUZZYVNYaEItR3UzaGhDS3BhLUF0Z3FlcDNGTG9pQ3hWckhyQ01CUlpRUmREQndYQXJpVTRFa3lKTFRHeWI0LTN5THlDbg?oc=5",
    "image": null,
    "source": "Canal+",
    "category": "Presse",
    "premium": false,
-   "publishedAt": "2026-09-19T17:10:22.000Z",
+   "publishedAt": "2026-09-17T17:23:21.000Z",
    "symbols": []
   },
   {
@@ -1791,6 +1805,18 @@
    "symbols": []
   },
   {
+   "id": "gn-tdjc4r",
+   "title": "CGF Bourse lève 90 milliards FCFA en trois émissions obligataires UEMOA",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYlhkWXYxVG9Qc2RqT2pKd1dtRHpLakFMSWZPdlNsaGMxMnd4OW5xZTJMY3lHYkh1WDR1dllaVm5aOGtrU3o0ZW1BeGVxTnhGYVhkM3JPRXFJVXRkamx3WTU1S2syektiQnljOXI2WjNQSkhnZmdfYUQ0M3RXT1R0Q0RENHB1dEtQY3FCVW5FYlJlWEV5dm9oUlljbWl2elBjSTgxekNRZw?oc=5",
+   "image": null,
+   "source": "Africtelegraph",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-09-07T07:00:00.000Z",
+   "symbols": []
+  },
+  {
    "id": "gn-170bpkg",
    "title": "La Bourse de la BRVM poursuit sa remontée alors que sa capitalisation boursière dépasse les 21 T XOF",
    "summary": null,
@@ -1853,32 +1879,6 @@
    "symbols": [
     "BOAB"
    ]
-  },
-  {
-   "id": "gn-c25ulg",
-   "title": "Nsia Banque Côte d'Ivoire (NSBC) — BRVM",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sWnZodnlzMzFOTjBpZDZnTGMwcTlQcndqaF9mbWlNN053QkRMRUlZMGtHUFVaM3Q2RGNQc3RjNzBXdk5VR2Y5OFgta0lidndUdGw5X3hMNUJKaXh1ejhtNkZkUXM1QQ?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-09-02T21:05:05.000Z",
-   "symbols": [
-    "NSBC"
-   ]
-  },
-  {
-   "id": "gn-g3jdn0",
-   "title": "Afrique économie - BRVM, la bourse solidaire de l’Afrique de l’Ouest [2/5]",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNR0VhUklZQ0piV0tnUV9zQXZoS2lpaVpfdlU4WUJWSmYxa0N0V1pveV81VWViVk5makxJN3dCMFYwUHZKajJMek1HdktvTGxKbmI5bWZoSFFSbEJVbm83TDdTX2N2UGRJRGdzN1hmaG5jUHBWc2wyaF9YYnNzVzVlZ2pKWFNiV2U0Z0dUQ0prVVA5Um90R2VnQi1XUnBabUVWeHZ3MUJlMkR5N1B5cG5SM2Vqb0w?oc=5",
-   "image": null,
-   "source": "RFI",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-09-01T07:00:00.000Z",
-   "symbols": []
   }
  ]
 }
