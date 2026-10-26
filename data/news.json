@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-26T18:48:23.685Z",
+ "updatedAt": "2026-10-26T19:43:32.364Z",
  "items": [
   {
    "id": "sika-65257",
@@ -1768,20 +1768,6 @@
    ]
   },
   {
-   "id": "gn-1im50v3",
-   "title": "BRVM : UNIWAX CI publie un communiqué sur les déclarations de franchissement de seuil",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOXRPTU9VdHN4V3poVjBKamwtNkdWOGhoMzloc1MxWllPT1hoYnVzNzNTdG5lbHc4akhGR21aOFVoaUJjQlB2QXJJa2FjUmNEWVJtTEtCN0RWU2ttZEpCVTBlQzVPTWFSY0w5cURaWVZfX2MxRkJ5MWFNZEVjSjZUYnBlX3VTUlk0dzhHdFVMZF8?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-09-24T07:00:00.000Z",
-   "symbols": [
-    "UNXC"
-   ]
-  },
-  {
    "id": "gn-1pgu4xj",
    "title": "Marchés africains : Sonatel veut élargir sa base d’investisseurs",
    "summary": null,
@@ -1793,6 +1779,20 @@
    "publishedAt": "2026-09-24T07:00:00.000Z",
    "symbols": [
     "SNTS"
+   ]
+  },
+  {
+   "id": "gn-1im50v3",
+   "title": "BRVM : UNIWAX CI publie un communiqué sur les déclarations de franchissement de seuil",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOXRPTU9VdHN4V3poVjBKamwtNkdWOGhoMzloc1MxWllPT1hoYnVzNzNTdG5lbHc4akhGR21aOFVoaUJjQlB2QXJJa2FjUmNEWVJtTEtCN0RWU2ttZEpCVTBlQzVPTWFSY0w5cURaWVZfX2MxRkJ5MWFNZEVjSjZUYnBlX3VTUlk0dzhHdFVMZF8?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-09-24T07:00:00.000Z",
+   "symbols": [
+    "UNXC"
    ]
   },
   {
