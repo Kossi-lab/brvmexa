@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-10-27T15:28:52.260Z",
+ "updatedAt": "2026-10-27T16:13:53.568Z",
  "items": [
+  {
+   "id": "sika-65283",
+   "title": "Energie solaire hors réseau : 11,4 milliards USD pour électrifier des centaines de millions de personnes",
+   "summary": "L'électricité solaire peut éclairer des centaines de millions de foyers sans attendre l'extension des réseaux nationaux...",
+   "url": "https://www.sikafinance.com/marches/energie-solaire-hors-reseau-11-4-milliards-usd-pour-electrifier-des-centaines-de-millions-de-personnes_65283",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-10-27T15:39:00Z",
+   "symbols": []
+  },
   {
    "id": "sika-65281",
    "title": "Côte d’Ivoire : Le canadien Waraba Gold offre 2 milliards FCFA pour 80 % d’un permis aurifère à Tengrela",
@@ -1849,18 +1861,6 @@
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-09-26T07:00:00.000Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-1y4sfk2",
-   "title": "BRVM : Le rebond s’affirme, sept valeurs frôlent la hausse maximale",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMjRzUEJkd0t2ZW5BN0EzNWM1akFPRllUSmNjT0VPMHhVbDFHYWZQZ0lFQkVzZ3o2akgxSWlEcWlkbXdjY2E0VnRDeWVMa2ZrRGdXOG9uamZDelEtQkZZUlNldEZCemhpMGc4ZVUwMHY3RWI3cXdYQ1paLWExT0Q4SDVSd1RfZHdxTXI4ZXJRNjZYU1BYWHhjazBGOTNBdG9lbUVXSXJ0VEM?oc=5",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-09-25T07:00:00.000Z",
    "symbols": []
   }
  ]
