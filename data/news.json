@@ -1,6 +1,30 @@
 {
- "updatedAt": "2026-10-27T16:48:39.119Z",
+ "updatedAt": "2026-10-27T17:47:05.890Z",
  "items": [
+  {
+   "id": "sika-65291",
+   "title": "L’AFC et Munich Re mobilisent 1 milliard USD pour accélérer le financement du commerce africain",
+   "summary": "Alors que les besoins de financement du commerce africain se heurtent aux contraintes de liquidité et de risque des ban...",
+   "url": "https://www.sikafinance.com/marches/lafc-et-munich-re-mobilisent-1-milliard-usd-pour-accelerer-le-financement-du-commerce-africain_65291",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-27T17:28:00Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65290",
+   "title": "Le fisc ivoirien mobilise près de 4 500 milliards FCFA entre janvier et septembre 2026",
+   "summary": "L'administration fiscale ivoirienne a mobilisé 1 476,2 milliards de FCFA de recettes brutes au troisième trimestre 2026...",
+   "url": "https://www.sikafinance.com/marches/le-fisc-ivoirien-mobilise-pres-de-4-500-milliards-fcfa-entre-janvier-et-septembre-2026_65290",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-27T17:10:00Z",
+   "symbols": []
+  },
   {
    "id": "sika-65287",
    "title": "BRVM : SODECI et CIE signent une percée de plus de 7 % dans un marché baissier",
@@ -1836,34 +1860,6 @@
    "premium": false,
    "publishedAt": "2026-09-29T07:00:00.000Z",
    "symbols": []
-  },
-  {
-   "id": "gn-tdxxlq",
-   "title": "Bridge Bank Group Côte d’Ivoire dévoile des résultats semestriels en forte hausse après son entrée à la BRVM",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPend1azNRd0ZKRThMLThESTN2bU5oa3ktRFc3X0xNbExTSDNLR3V2aERlXzd6alVfVm5Zc2t4Rl9oN0xWbHVTLTNFVXBUUHhnOTRTTDhaQTM2OXJGNEV5LXJPQ1IzQ1NjQWNKeDVCZU9MWElHc1lkdmtRWDlZWFlNZHVWMmFYNFczd2tIT1ZhN3RWY1ZtZk1jVGZ6OGlJV2htbE5XQzZDUEFuNDc4dkJwQ2JsY3pWRnFySnhoUklZd1FZS0ZkWF9BOW5abVVzM0E?oc=5",
-   "image": null,
-   "source": "Forbes Afrique",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-09-28T07:00:00.000Z",
-   "symbols": [
-    "BBGC"
-   ]
-  },
-  {
-   "id": "gn-1gtvveo",
-   "title": "BRVM : BOA Niger bondit sous la houlette des résultats semestriels",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX1QyaDV4VVEwZVljbUZfZG5BaGl4dG5wcTBBaUFvUE5lZEZHLXNDQWdvLXA4a3liQzZ3RFk1aVI1WGxUN1dqTS04OVVWRFJXVjdib1NQT0pEejRqYWxoWUg1Mm5jTzdkWXZuVm40cWQzYm9BN3p0dGxWY0F6SUNmZU1oY2pfM0dDWDl4RHNYNXo4RDhGZ09xODVUZllZZGNMa1BhbWg2Z2JjUQ?oc=5",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-09-28T07:00:00.000Z",
-   "symbols": [
-    "BOAN"
-   ]
   }
  ]
 }
