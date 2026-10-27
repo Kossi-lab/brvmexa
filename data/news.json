@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-27T12:06:06.085Z",
+ "updatedAt": "2026-10-27T12:55:54.198Z",
  "items": [
   {
    "id": "sika-65277",
@@ -100,6 +100,20 @@
    "premium": false,
    "publishedAt": "2026-10-27T08:42:00Z",
    "symbols": []
+  },
+  {
+   "id": "gn-1gfad7o",
+   "title": "Sogb Côte d'Ivoire (SOGC) — BRVM",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sZUtjYXhXV041LTR6dVZsNkFvNzVIUXFtWlBibk55VUdnOV9OcEVSQzY3N1EzMGlhbEVJRFdBaUdPZ3dXLUpSUWppRXZZT1JTU29NeVJibE5XQU9UMkdLTWMyNEhzdw?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-10-27T08:28:07.000Z",
+   "symbols": [
+    "SOGC"
+   ]
   },
   {
    "id": "sika-65257",
@@ -500,20 +514,6 @@
    "publishedAt": "2026-10-23T07:00:00.000Z",
    "symbols": [
     "SPHC"
-   ]
-  },
-  {
-   "id": "gn-1gfad7o",
-   "title": "Sogb Côte d'Ivoire (SOGC) — BRVM",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sZUtjYXhXV041LTR6dVZsNkFvNzVIUXFtWlBibk55VUdnOV9OcEVSQzY3N1EzMGlhbEVJRFdBaUdPZ3dXLUpSUWppRXZZT1JTU29NeVJibE5XQU9UMkdLTWMyNEhzdw?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-10-23T07:00:00.000Z",
-   "symbols": [
-    "SOGC"
    ]
   },
   {
@@ -1788,6 +1788,20 @@
    ]
   },
   {
+   "id": "gn-1gtvveo",
+   "title": "BRVM : BOA Niger bondit sous la houlette des résultats semestriels",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX1QyaDV4VVEwZVljbUZfZG5BaGl4dG5wcTBBaUFvUE5lZEZHLXNDQWdvLXA4a3liQzZ3RFk1aVI1WGxUN1dqTS04OVVWRFJXVjdib1NQT0pEejRqYWxoWUg1Mm5jTzdkWXZuVm40cWQzYm9BN3p0dGxWY0F6SUNmZU1oY2pfM0dDWDl4RHNYNXo4RDhGZ09xODVUZllZZGNMa1BhbWg2Z2JjUQ?oc=5",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-09-28T07:00:00.000Z",
+   "symbols": [
+    "BOAN"
+   ]
+  },
+  {
    "id": "gn-ducjkb",
    "title": "Bourses africaines : une séance contrastée entre rebond et stabilité",
    "summary": null,
@@ -1851,20 +1865,6 @@
    "publishedAt": "2026-09-24T13:42:27.000Z",
    "symbols": [
     "BBGC"
-   ]
-  },
-  {
-   "id": "gn-1pgu4xj",
-   "title": "Marchés africains : Sonatel veut élargir sa base d’investisseurs",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxON2tmR2lYYlJ4OU91TUdZODJvN0tuOGZtNWh2QU9FT0dLUzNzaGJlcEQ4WmI4SUpBc3ZwTXp0S2Y0aXZSblphaE93djMyTDdRaGUxZm9XYXczR3ZJek41ZVV1TUVEd3pEMmtxVExsNUFMUWlJa0RkamNlelg0MWJzcGNGNzhRY3gxMGcwcUE2Mmh5MTZ1UEFR?oc=5",
-   "image": null,
-   "source": "Capmad",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-09-24T07:00:00.000Z",
-   "symbols": [
-    "SNTS"
    ]
   }
  ]
