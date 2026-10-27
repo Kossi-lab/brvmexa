@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-10-27T12:55:54.198Z",
+ "updatedAt": "2026-10-27T13:44:05.428Z",
  "items": [
+  {
+   "id": "sika-65279",
+   "title": "Aly MBOW, DFC du Groupe Sonatel : ‘’Le fractionnement, un levier pour faciliter l’accès au titre à un plus grand nombre d’investisseurs’’",
+   "summary": "Aly MBOW, DFC du groupe Sonatel : Le fractionnement, un levier pour faciliter l'accès au titre et permettre à un p...",
+   "url": "https://www.sikafinance.com/marches/aly-mbow-dfc-du-groupe-sonatel-le-fractionnement-un-levier-pour-faciliter-lacces-au-titre-a-un-plus-grand-nombre-dinvestisseurs_65279",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-27T13:01:00Z",
+   "symbols": [
+    "SNTS"
+   ]
+  },
   {
    "id": "sika-65277",
    "title": "Sénégal : Les raisons du report du projet Grand Transfert d’eau à 2027",
@@ -1849,20 +1863,6 @@
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-09-25T07:00:00.000Z",
-   "symbols": [
-    "BBGC"
-   ]
-  },
-  {
-   "id": "gn-pfcddy",
-   "title": "Bridge Bank Group (BBGC) — BRVM",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VWFNIS3puU1RSY09PZGRsWkVIcnh4cHM3ZXFnd2lVbmR1OGU3dFRfMG92UENpbkdnVjNnNGpvckliaWthcXBZaVBjeVVFZXBodzNCZEpSU1hBN1FXbDlLSC0yb0Nvdw?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-09-24T13:42:27.000Z",
    "symbols": [
     "BBGC"
    ]
