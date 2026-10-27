@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-10-27T10:50:59.315Z",
+ "updatedAt": "2026-10-27T11:28:59.175Z",
  "items": [
+  {
+   "id": "sika-65274",
+   "title": "Bénin : BSIC mobilise 15 milliards FCFA par titrisation pour financer le logement abordable",
+   "summary": "La banque transforme une partie de ses créances en obligations souscrites sur le marché financier régional. Les ressour...",
+   "url": "https://www.sikafinance.com/marches/benin-bsic-mobilise-15-milliards-fcfa-par-titrisation-pour-financer-le-logement-abordable_65274",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-27T10:52:00Z",
+   "symbols": []
+  },
   {
    "id": "sika-65272",
    "title": "Nigeria : L’OPV de la raffinerie de Dangote suscite un engouement mondial, sursouscrite 3 à 4 fois avec des demandes venues de 119 pays",
@@ -1830,20 +1842,6 @@
    ]
   },
   {
-   "id": "gn-1im50v3",
-   "title": "BRVM : UNIWAX CI publie un communiqué sur les déclarations de franchissement de seuil",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOXRPTU9VdHN4V3poVjBKamwtNkdWOGhoMzloc1MxWllPT1hoYnVzNzNTdG5lbHc4akhGR21aOFVoaUJjQlB2QXJJa2FjUmNEWVJtTEtCN0RWU2ttZEpCVTBlQzVPTWFSY0w5cURaWVZfX2MxRkJ5MWFNZEVjSjZUYnBlX3VTUlk0dzhHdFVMZF8?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-09-24T07:00:00.000Z",
-   "symbols": [
-    "UNXC"
-   ]
-  },
-  {
    "id": "gn-1pgu4xj",
    "title": "Marchés africains : Sonatel veut élargir sa base d’investisseurs",
    "summary": null,
@@ -1858,17 +1856,17 @@
    ]
   },
   {
-   "id": "gn-1y4yd2",
-   "title": "Pour sa cotation à la BRVM : les performances financières de Bridge Bank à l’origine de son entrée en Bourse",
+   "id": "gn-1im50v3",
+   "title": "BRVM : UNIWAX CI publie un communiqué sur les déclarations de franchissement de seuil",
    "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORFVkZnBiOXBieW40Sk1MMnpGOUpNWW1Da3I3QzlDTHdFM1MyNl9qaU1rX2FGQ0dZUmEtYU1uYlFJMzBPV0VoMkxXSlIzeTdQRXBwN0xkTXNHZXlOcm1rUjlYYmJ5blNldVF6a3pBU3B1dm5MMV9TamR5a0V4ZDVrdm9TT0ROMVk2OVVVdV9lWDlVZXZlTEQ3TU1HSS0wMWIxMmplektISzdaSVRtMHlhUFlwRjc1OU5nU21zYVV4eVFyNjltUE44TzVoMS1EcXdQdEtaRkFXcGo3X2s1?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOXRPTU9VdHN4V3poVjBKamwtNkdWOGhoMzloc1MxWllPT1hoYnVzNzNTdG5lbHc4akhGR21aOFVoaUJjQlB2QXJJa2FjUmNEWVJtTEtCN0RWU2ttZEpCVTBlQzVPTWFSY0w5cURaWVZfX2MxRkJ5MWFNZEVjSjZUYnBlX3VTUlk0dzhHdFVMZF8?oc=5",
    "image": null,
-   "source": "Pressecotedivoire",
+   "source": "Dabafinance",
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-09-24T07:00:00.000Z",
    "symbols": [
-    "BBGC"
+    "UNXC"
    ]
   }
  ]
