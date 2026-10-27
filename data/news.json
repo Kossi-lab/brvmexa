@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-10-27T09:32:01.654Z",
+ "updatedAt": "2026-10-27T10:14:00.327Z",
  "items": [
+  {
+   "id": "sika-65272",
+   "title": "Nigeria : L’OPV de la raffinerie de Dangote suscite un engouement mondial, sursouscrite 3 à 4 fois avec des demandes venues de 119 pays",
+   "summary": "L'Afrique tient peut-être l'une de ses plus grandes opérations boursières, avec un paradoxe à la clé, la raffinerie de ...",
+   "url": "https://www.sikafinance.com/marches/nigeria-lopv-de-la-raffinerie-de-dangote-suscite-un-engouement-mondial-sursouscrite-3-a-4-fois-avec-des-demandes-venues-de-119-pays_65272",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-10-27T10:11:00Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65270",
+   "title": "BOA Burkina Faso : Le bénéfice net bondit de 34 % à fin septembre 2026",
+   "summary": "Au terme du troisième trimestre 2026, Bank of Africa Burkina Faso (BOA BF) confirme la bonne orientation de ses perform...",
+   "url": "https://www.sikafinance.com/marches/boa-burkina-faso-le-benefice-net-bondit-de-34-a-fin-septembre-2026_65270",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-10-27T09:45:00Z",
+   "symbols": [
+    "BOABF"
+   ]
+  },
+  {
+   "id": "sika-65269",
+   "title": "Bénin : Le Capital Reach Forum veut rapprocher l’épargne africaine des besoins de financement",
+   "summary": "Réunis les 26 et 27 octobre 2026 à Cotonou à l'initiative de la SGI AGI, responsables publics, institutions financières...",
+   "url": "https://www.sikafinance.com/marches/benin-le-capital-reach-forum-veut-rapprocher-lepargne-africaine-des-besoins-de-financement_65269",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-27T09:31:00Z",
+   "symbols": []
+  },
   {
    "id": "sika-65267",
    "title": "Le bénéfice de Bank Of Africa Niger flambe de 122% à fin septembre 2026",
@@ -1832,44 +1870,6 @@
    "symbols": [
     "BBGC"
    ]
-  },
-  {
-   "id": "gn-p6xrw2",
-   "title": "BRVM : Bridge Bank Group Côte d'Ivoire entre en Bourse après une IPO de 67,5 milliards FCFA",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd1NKUWNaNkFtNjdsbWJwc1E0SnFwcVRkS2VkVmg5OW9FRWlTZzh3LS1VenhFalN6REE5OWVaeHgwNXpzM0xCRTI4cE9aeU1BWUhDUGdNUTJwUklnSDFWUmFpTUVfdHlKUlNLZkZOM3VLLXVCOGJCU2ZvZjAwLWF6emlfcENqem5ZTFB3bVhSSURCSmlHb1RMNmtGWGhkdnVPdFpaUVQxUGZUTVNBLWMxQTlDZGd6SDRiZDNz?oc=5",
-   "image": null,
-   "source": "Journal du Niger",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-09-24T07:00:00.000Z",
-   "symbols": [
-    "BBGC"
-   ]
-  },
-  {
-   "id": "gn-1hvzco1",
-   "title": "BRVM : Le marché retient son souffle, le composite cédant plus de 3%",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb1A2WDFGeEJJYUgwQUw1dXh5UTlzTHppMmROZEZVWXhsbXBFSHg4eFZaVHphclFaQTZCZzRQSjJmWDdyVFdFNllsUU55YVNHYlJnbWtCZEZKd0dnd3JvbFZ2cjkwcjk0ZWhHdWtHdTE0SGNaS2g3aTJaM3U2RElqa09TV1k2QVcxU2ZaQU51N3pFV1JkVDhFWWhETkwzTjQ0V3NwZmlVc0Ytdw?oc=5",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-09-23T07:00:00.000Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-mle0vk",
-   "title": "Le Sénégal réussit sa première cotation obligataire à la BRVM",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNXlETjYxcUplM2VubTZJdFAtbHE2WTNFUkszTGFyVS1IVXRSS2U4dDBPbEM0RlZ3S3lQR2c4VVM2MWJIWjFDaU1NN1owdFZwdFFlVmxQbkhYWVMxVEV2Qlp0bVY3M2tkOTF0YTBrYVZTRXhpWkpCdmE4cEFyQWRZRTdjUGFQN0FORzdFcXBPdE1iaEIxSGRDWmdB?oc=5",
-   "image": null,
-   "source": "Africtelegraph",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-09-23T07:00:00.000Z",
-   "symbols": []
   }
  ]
 }
