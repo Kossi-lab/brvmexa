@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-27T14:32:44.868Z",
+ "updatedAt": "2026-10-27T15:28:52.260Z",
  "items": [
   {
    "id": "sika-65281",
@@ -11,6 +11,18 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-10-27T14:31:00Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65282",
+   "title": "Sénégal : Le projet de loi de finances rectificative 2026 renvoyée en commission",
+   "summary": "On n'en finit pas avec le suspense de la Loi de finances rectificative au Sénégal. Le texte soumis à l'Assemblée nation...",
+   "url": "https://www.sikafinance.com/marches/senegal-le-projet-de-loi-de-finances-rectificative-2026-renvoyee-en-commission_65282",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-27T14:23:00Z",
    "symbols": []
   },
   {
@@ -1850,20 +1862,6 @@
    "premium": false,
    "publishedAt": "2026-09-25T07:00:00.000Z",
    "symbols": []
-  },
-  {
-   "id": "gn-1aoqpmg",
-   "title": "Bridge Bank Group CI entre à la BRVM avec un taux de souscription de 142 %",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdHVEWW16ZVU1SlBYd0VMYmRwWGhwVENPbjBqdHNramxzRFQtYnFaZlpnRWQzZE9mcVlBdThpU2loNDlIWXRuN0Vjd1lqMzFlTDVvOUFvaElTc0VGVGlfTVF4aEtQa01iNjdjX0p6YmNiYlN3YTgxNGJDcTlJNXk4YzhDb0VqR215bDR5T0pqUnc0dFJleXk3Uk16YVhWUUdzUmJMYlhycHpKMzNWUkF4VmdnVkYyZ3p3MHNZS05qMFhGM1hCczlIUlhTRzA?oc=5",
-   "image": null,
-   "source": "AGENCE ECOFIN",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-09-25T07:00:00.000Z",
-   "symbols": [
-    "BBGC"
-   ]
   }
  ]
 }
