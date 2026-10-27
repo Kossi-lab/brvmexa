@@ -1,6 +1,30 @@
 {
- "updatedAt": "2026-10-27T17:47:05.890Z",
+ "updatedAt": "2026-10-27T18:44:57.309Z",
  "items": [
+  {
+   "id": "sika-65294",
+   "title": "Congo : Avec un baril budgété à 71 dollars en 2027, la BAD préconise d'affecter les surplus pétroliers au remboursement de la dette",
+   "summary": "La Banque africaine de développement (BAD) recommande au Congo-Brazzaville de mettre en place un mécanisme automatique p...",
+   "url": "https://www.sikafinance.com/marches/congo-avec-un-baril-budgete-a-71-dollars-en-2027-la-bad-preconise-d-affecter-les-surplus-petroliers-au-remboursement-de-la-dette_65294",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-27T18:14:00Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65292",
+   "title": "Ghana : Avec 3,5 millions USD collectés en août, Accra durcit le recouvrement des loyers fonciers",
+   "summary": "Au Ghana, la modernisation de la gestion foncière s'accompagne d'un tour de vis contre les mauvais payeurs. La Commissi...",
+   "url": "https://www.sikafinance.com/marches/ghana-avec-3-5-millions-usd-collectes-en-aout-accra-durcit-le-recouvrement-des-loyers-fonciers_65292",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-27T18:11:00Z",
+   "symbols": []
+  },
   {
    "id": "sika-65291",
    "title": "L’AFC et Munich Re mobilisent 1 milliard USD pour accélérer le financement du commerce africain",
@@ -1836,30 +1860,6 @@
    "symbols": [
     "SNTS"
    ]
-  },
-  {
-   "id": "gn-bphdnm",
-   "title": "IPO Dangote : la BVMAC et la BRVM opposent leur veto",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPc2JkZXF1MFlTQVRvRUxXVE9UR19qVXFralJiQUdWOXY3MG1idC1PUUdQU2Ywb2RUQk5hV0ZwUmxQY29iMjk3RTFLN0lvZDI2T2sxLXhtclByeHMzTFA4UlNYNnJwY21CMFlKWEV1c2J6OUZRTWdvOVQ4ZDdKOEljS3p1YzlJLUpsM1Rn?oc=5",
-   "image": null,
-   "source": "Africtelegraph",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-09-29T07:00:00.000Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-1181kwb",
-   "title": "IPO de Dangote : barrage des gendarmes de la BVMAC et de la BRVM",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeFNDSmRYYkFBYnNwWlVET1ExakpRX0xSeUk4Q0lkZFFDcDVnZ0c0QTV2aVN0NTBNOTdwT0U4RnR1QlFWT2ZQbEZNUEd3OWNzNmhLV3d1VHBEYmpRSmNFZ3dWbUVwZzV3OGloYXZibHJkVmdFc0lXRzd6RGxKVy02RXdfOGEwajFweHRteU5qWkdCdzFlTElVWG1OOHlCQll4YXVVZ1FUdUs?oc=5",
-   "image": null,
-   "source": "Financial Afrik",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-09-29T07:00:00.000Z",
-   "symbols": []
   }
  ]
 }
