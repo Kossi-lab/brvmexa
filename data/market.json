@@ -1,124 +1,16 @@
 {
- "updatedAt": "2026-10-27T08:43:22.436Z",
- "sessionDate": "2026-10-26",
- "sessionTime": "22:45",
+ "updatedAt": "2026-10-27T09:31:55.949Z",
+ "sessionDate": "2026-10-27",
+ "sessionTime": "09:15",
  "source": "brvm.org",
- "transactionsValue": 2471106335,
+ "transactionsValue": 0,
  "capitalisationActions": 20969762795561,
- "capitalisationBonds": 13464249060701,
- "advancing": 13,
- "declining": 21,
- "unchanged": 14,
- "totalVolume": 1115837,
- "gainers": [
-  {
-   "symbol": "SNTS",
-   "shortName": "Sonatel",
-   "close": 4700,
-   "change": 7.18,
-   "volume": 323351
-  },
-  {
-   "symbol": "BOAM",
-   "shortName": "BOA Mali",
-   "close": 5800,
-   "change": 5.45,
-   "volume": 2221
-  },
-  {
-   "symbol": "PALC",
-   "shortName": "Palm CI",
-   "close": 7500,
-   "change": 4.17,
-   "volume": 1687
-  },
-  {
-   "symbol": "BOAN",
-   "shortName": "BOA Niger",
-   "close": 5050,
-   "change": 4.12,
-   "volume": 19687
-  },
-  {
-   "symbol": "ABJC",
-   "shortName": "Servair Abidjan",
-   "close": 3210,
-   "change": 3.55,
-   "volume": 1287
-  }
- ],
- "losers": [
-  {
-   "symbol": "NSBC",
-   "shortName": "NSIA Banque CI",
-   "close": 19150,
-   "change": -7.49,
-   "volume": 5273
-  },
-  {
-   "symbol": "UNLC",
-   "shortName": "Unilever CI",
-   "close": 45200,
-   "change": -6.53,
-   "volume": 9
-  },
-  {
-   "symbol": "CFAC",
-   "shortName": "CFAO Motors CI",
-   "close": 1350,
-   "change": -5.92,
-   "volume": 4717
-  },
-  {
-   "symbol": "SDCC",
-   "shortName": "SODECI",
-   "close": 11805,
-   "change": -4.02,
-   "volume": 773
-  },
-  {
-   "symbol": "SAFC",
-   "shortName": "SAFCA CI",
-   "close": 3810,
-   "change": -1.68,
-   "volume": 908
-  }
- ],
- "mostActive": [
-  {
-   "symbol": "SNTS",
-   "shortName": "Sonatel",
-   "close": 4700,
-   "change": 7.18,
-   "volume": 323351
-  },
-  {
-   "symbol": "SGBC",
-   "shortName": "Société Générale CI",
-   "close": 38945,
-   "change": -0.01,
-   "volume": 2600
-  },
-  {
-   "symbol": "NSBC",
-   "shortName": "NSIA Banque CI",
-   "close": 19150,
-   "change": -7.49,
-   "volume": 5273
-  },
-  {
-   "symbol": "BOAN",
-   "shortName": "BOA Niger",
-   "close": 5050,
-   "change": 4.12,
-   "volume": 19687
-  },
-  {
-   "symbol": "BOAC",
-   "shortName": "BOA Côte d’Ivoire",
-   "close": 11220,
-   "change": 0.18,
-   "volume": 6224
-  }
- ]
+ "capitalisationBonds": 13458399060701,
+ "advancing": 0,
+ "declining": 0,
+ "unchanged": 48,
+ "totalVolume": 0,
+ "gainers": [],
+ "losers": [],
+ "mostActive": []
 }

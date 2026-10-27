@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-10-27T08:43:29.737Z",
+ "updatedAt": "2026-10-27T09:32:01.654Z",
  "items": [
+  {
+   "id": "sika-65267",
+   "title": "Le bénéfice de Bank Of Africa Niger flambe de 122% à fin septembre 2026",
+   "summary": "Après une année 2025 marquée par de lourdes provisions et une rentabilité fortement dégradée, BOA Niger retrouve des co...",
+   "url": "https://www.sikafinance.com/marches/le-benefice-de-bank-of-africa-niger-flambe-de-122-a-fin-septembre-2026_65267",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-10-27T09:14:00Z",
+   "symbols": [
+    "BOAN"
+   ]
+  },
+  {
+   "id": "sika-65266",
+   "title": "Côte d’Ivoire : Le logiciel national d’état civil déployé, la connectivité reste un défi",
+   "summary": "Le logiciel national central de gestion des faits d'état civil est désormais déployé dans l'ensemble des centres d'état...",
+   "url": "https://www.sikafinance.com/marches/cote-divoire-le-logiciel-national-detat-civil-deploye-la-connectivite-reste-un-defi_65266",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-27T08:48:00Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65265",
+   "title": "Roaming UEMOA : 3 accords scellés entre le Burkina Faso, le Bénin, la Côte d’Ivoire et le Sénégal",
+   "summary": "Sous l'égide de l'UEMOA, le Burkina Faso a signé 3 accords bilatéraux de roaming avec le Bénin, la Côte d'Ivoire ...",
+   "url": "https://www.sikafinance.com/marches/roaming-uemoa-3-accords-scelles-entre-le-burkina-faso-le-benin-la-cote-divoire-et-le-senegal_65265",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-27T08:42:00Z",
+   "symbols": []
+  },
   {
    "id": "sika-65257",
    "title": "ONATEL : La croissance de l’activité mise à l’épreuve par la hausse des charges au 3ème trimestre",
@@ -1754,20 +1792,6 @@
    ]
   },
   {
-   "id": "gn-1pgu4xj",
-   "title": "Marchés africains : Sonatel veut élargir sa base d’investisseurs",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxON2tmR2lYYlJ4OU91TUdZODJvN0tuOGZtNWh2QU9FT0dLUzNzaGJlcEQ4WmI4SUpBc3ZwTXp0S2Y0aXZSblphaE93djMyTDdRaGUxZm9XYXczR3ZJek41ZVV1TUVEd3pEMmtxVExsNUFMUWlJa0RkamNlelg0MWJzcGNGNzhRY3gxMGcwcUE2Mmh5MTZ1UEFR?oc=5",
-   "image": null,
-   "source": "Capmad",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-09-24T07:00:00.000Z",
-   "symbols": [
-    "SNTS"
-   ]
-  },
-  {
    "id": "gn-1im50v3",
    "title": "BRVM : UNIWAX CI publie un communiqué sur les déclarations de franchissement de seuil",
    "summary": null,
@@ -1779,6 +1803,20 @@
    "publishedAt": "2026-09-24T07:00:00.000Z",
    "symbols": [
     "UNXC"
+   ]
+  },
+  {
+   "id": "gn-1pgu4xj",
+   "title": "Marchés africains : Sonatel veut élargir sa base d’investisseurs",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxON2tmR2lYYlJ4OU91TUdZODJvN0tuOGZtNWh2QU9FT0dLUzNzaGJlcEQ4WmI4SUpBc3ZwTXp0S2Y0aXZSblphaE93djMyTDdRaGUxZm9XYXczR3ZJek41ZVV1TUVEd3pEMmtxVExsNUFMUWlJa0RkamNlelg0MWJzcGNGNzhRY3gxMGcwcUE2Mmh5MTZ1UEFR?oc=5",
+   "image": null,
+   "source": "Capmad",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-09-24T07:00:00.000Z",
+   "symbols": [
+    "SNTS"
    ]
   },
   {
@@ -1831,44 +1869,6 @@
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-09-23T07:00:00.000Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-9g52bw",
-   "title": "Bridge Bank fera son entrée à la BRVM le 24 septembre après une introduction en bourse sursouscrite",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYUppck9VYWp1YU9aOTB2OEFHMDloN3d5NXgxT0dyTFNQVVZwek9kaC1XeHpTYk1RUENpNi12XzEtZXRYdmZ0cmlLV2Ywb0JSRFl2Q2ZYbDZ4R2VxMFk0SWpuT2lYOVZjMllBYU5kd3FPNkpFMWcwWndRZDBVeXA1Y1NPczZqTk45QmJ5Y3hLb3JfN29FN2YxbktBNDNYcllGMkswWXVWWHpwLXUtWVZMSi01cDdOVG9CN1RRRy1IVFhFTjAzVVk1cVE4X2YzQk0?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-09-22T07:00:00.000Z",
-   "symbols": [
-    "BBGC"
-   ]
-  },
-  {
-   "id": "gn-1oqzxb9",
-   "title": "BRVM : La baisse se généralise, 35 valeurs dans le rouge",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa25GX0JtbW45SWRjYUpXOHl1RGYtSV9KYldUcDBwQWk4UWpqVEJzaVpqOVBBVkZDZjM4VDU0Ni1PNXItMmZicHhQdm04RFhET1RMckJGTEd1by0xaEs4NC00S2xxUWlfRWNPa0ZoR010NWxjRkdaMW94YUZMOW1EY3ZvbDhGdFVRdUFvamduSFNkY2pnUmVyTlg0TQ?oc=5",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-09-22T07:00:00.000Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-xd6og3",
-   "title": "BRVM : Investir en bourse, est-ce vraimant pour les Maliens ?",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOemRhRHFSNkNSMnFVM05ydGxMVE94X2FkRlI0Y1RKaVpIc05VMWVpSDRyRkRaVnB0UFNtakNmdTh6T1JmbGNucUwxTWpkNVRIcFd3WS1weWY5eVl1T3V6elB1U0xtXzhyMXJ3Q1hhOG9tV0NoTTBObEpsdlR2WlB3dU1VeUZZYVNYaEItR3UzaGhDS3BhLUF0Z3FlcDNGTG9pQ3hWckhyQ01CUlpRUmREQndYQXJpVTRFa3lKTFRHeWI0LTN5THlDbg?oc=5",
-   "image": null,
-   "source": "Canal+",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-09-17T17:23:21.000Z",
    "symbols": []
   }
  ]
