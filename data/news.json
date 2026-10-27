@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-10-27T11:28:59.175Z",
+ "updatedAt": "2026-10-27T12:06:06.085Z",
  "items": [
+  {
+   "id": "sika-65277",
+   "title": "Sénégal : Les raisons du report du projet Grand Transfert d’eau à 2027",
+   "summary": "Jamais un projet n'a suscité autant de débats et de polémique. Le Grand transfert d'Eau, une des sources du différend e...",
+   "url": "https://www.sikafinance.com/marches/senegal-les-raisons-du-report-du-projet-grand-transfert-deau-a-2027_65277",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-27T11:36:00Z",
+   "symbols": []
+  },
   {
    "id": "sika-65274",
    "title": "Bénin : BSIC mobilise 15 milliards FCFA par titrisation pour financer le logement abordable",
@@ -1853,20 +1865,6 @@
    "publishedAt": "2026-09-24T07:00:00.000Z",
    "symbols": [
     "SNTS"
-   ]
-  },
-  {
-   "id": "gn-1im50v3",
-   "title": "BRVM : UNIWAX CI publie un communiqué sur les déclarations de franchissement de seuil",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOXRPTU9VdHN4V3poVjBKamwtNkdWOGhoMzloc1MxWllPT1hoYnVzNzNTdG5lbHc4akhGR21aOFVoaUJjQlB2QXJJa2FjUmNEWVJtTEtCN0RWU2ttZEpCVTBlQzVPTWFSY0w5cURaWVZfX2MxRkJ5MWFNZEVjSjZUYnBlX3VTUlk0dzhHdFVMZF8?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-09-24T07:00:00.000Z",
-   "symbols": [
-    "UNXC"
    ]
   }
  ]
