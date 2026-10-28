@@ -1,6 +1,32 @@
 {
- "updatedAt": "2026-10-28T14:32:50.929Z",
+ "updatedAt": "2026-10-28T15:32:17.803Z",
  "items": [
+  {
+   "id": "sika-65313",
+   "title": "SIREXE 2026 : 24 pays attendus au rendez-vous d’Abidjan pour 5 jours de rencontres dans les mines, le pétrole et l’énergie",
+   "summary": "Du 18 au 22 novembre 2026, Abidjan accueillera des représentants de 24 pays africains à l'occasion du Salon internation...",
+   "url": "https://www.sikafinance.com/marches/sirexe-2026-24-pays-attendus-au-rendez-vous-dabidjan-pour-5-jours-de-rencontres-dans-les-mines-le-petrole-et-lenergie_65313",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-28T15:04:00Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65312",
+   "title": "BERNABÉ CI : Le résultat net repasse dans le vert à fin septembre",
+   "summary": "Bernabé Côte d'Ivoire aborde 2026 sous de meilleurs auspices. Après un premier semestre marqué par une améliorati...",
+   "url": "https://www.sikafinance.com/marches/bernabe-ci-le-resultat-net-repasse-dans-le-vert-a-fin-septembre_65312",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-10-28T15:03:00Z",
+   "symbols": [
+    "BNBC"
+   ]
+  },
   {
    "id": "sika-65309",
    "title": "Côte d’Ivoire : La production industrielle en hausse de 3,2% en 8 mois, portée par le cacao transformé et le raffinage",
@@ -153,6 +179,18 @@
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-10-28T05:40:03.000Z",
+   "symbols": []
+  },
+  {
+   "id": "gn-ado26g",
+   "title": "Au Capital Reach Forum, Abdoulaye Bio Tchané pointe le défi des marchés financiers africains",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbFV5MjByWC15blVQdklIZDMzR0J1VGNkZ2R3UnhwbVc0cVRtS2NmeVNDMDFRaGtwSEs2YktzRHc1aDI3S2k1S0oxOGZiV1dmTVU1dEdGOXVtTlBWWnBUUlNmRTJLd2hyd3RoN0plNzg0Rk40WmI4M3FFb0FycHFsOWZVXzZCZmh1MmpmUm1QRXFpdjFCOXprT28ycThxR2xtOGgteGprZWVlVHpzQTZqc1VuekY2bzVkaUNpZHQ2S0hDcThOU3RRZFlNOA?oc=5",
+   "image": null,
+   "source": "La Nouvelle Tribune",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-10-28T01:36:08.000Z",
    "symbols": []
   },
   {
@@ -1829,44 +1867,6 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-10-15T16:10:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-64986",
-   "title": "BRVM : Orange CI rebondit et entraîne le marché dans son sillage",
-   "summary": "Après plusieurs séances de baisse, la BRVM reprend des couleurs. En tête de ce sursaut, Orange Côte d'Ivoire sign...",
-   "url": "https://www.sikafinance.com/marches/brvm-orange-ci-rebondit-et-entraine-le-marche-dans-son-sillage_64986",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-15T16:05:00Z",
-   "symbols": [
-    "ORAC"
-   ]
-  },
-  {
-   "id": "sika-64984",
-   "title": "Nigeria : L’inflation ralentit à 15 % en septembre 2026",
-   "summary": "L'inflation au Nigeria a poursuivi son repli en septembre 2026, à 14,63 % sur un an, contre 15,39 % en août et 20...",
-   "url": "https://www.sikafinance.com/marches/nigeria-linflation-ralentit-a-15-en-septembre-2026_64984",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-15T15:37:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-64983",
-   "title": "Didier Assemian, Directeur des prestations chez GNA-CI : ''Un assureur se juge le jour du sinistre''",
-   "summary": "Didier Assemian, directeur des prestations chez GNA-CI : Un assureur se juge le jour du sinistre GNA-CI, deuxièm...",
-   "url": "https://www.sikafinance.com/marches/didier-assemian-directeur-des-prestations-chez-gna-ci--un-assureur-se-juge-le-jour-du-sinistre-_64983",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-15T15:12:00Z",
    "symbols": []
   }
  ]
