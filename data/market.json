@@ -1,124 +1,16 @@
 {
- "updatedAt": "2026-10-28T08:52:41.016Z",
- "sessionDate": "2026-10-27",
- "sessionTime": "22:45",
+ "updatedAt": "2026-10-28T09:38:55.558Z",
+ "sessionDate": "2026-10-28",
+ "sessionTime": "09:30",
  "source": "brvm.org",
- "transactionsValue": 3751144892,
+ "transactionsValue": 0,
  "capitalisationActions": 20866062458257,
  "capitalisationBonds": 13458399673201,
- "advancing": 18,
- "declining": 20,
- "unchanged": 10,
- "totalVolume": 1403440,
- "gainers": [
-  {
-   "symbol": "SDCC",
-   "shortName": "SODECI",
-   "close": 12690,
-   "change": 7.5,
-   "volume": 412
-  },
-  {
-   "symbol": "CIEC",
-   "shortName": "CIE Côte d’Ivoire",
-   "close": 5250,
-   "change": 7.47,
-   "volume": 9245
-  },
-  {
-   "symbol": "BOABF",
-   "shortName": "BOA Burkina Faso",
-   "close": 8100,
-   "change": 5.74,
-   "volume": 13682
-  },
-  {
-   "symbol": "CFAC",
-   "shortName": "CFAO Motors CI",
-   "close": 1415,
-   "change": 4.81,
-   "volume": 2859
-  },
-  {
-   "symbol": "SOGC",
-   "shortName": "SOGB CI",
-   "close": 7900,
-   "change": 3.95,
-   "volume": 1911
-  }
- ],
- "losers": [
-  {
-   "symbol": "SCRC",
-   "shortName": "Sucrivoire CI",
-   "close": 2220,
-   "change": -7.5,
-   "volume": 9224
-  },
-  {
-   "symbol": "SDSC",
-   "shortName": "Africa Global Logistics CI",
-   "close": 2810,
-   "change": -6.33,
-   "volume": 12873
-  },
-  {
-   "symbol": "SNTS",
-   "shortName": "Sonatel",
-   "close": 4425,
-   "change": -5.85,
-   "volume": 309660
-  },
-  {
-   "symbol": "STAC",
-   "shortName": "SETAO CI",
-   "close": 1795,
-   "change": -5.03,
-   "volume": 4032
-  },
-  {
-   "symbol": "FTSC",
-   "shortName": "Filtisac CI",
-   "close": 1725,
-   "change": -3.9,
-   "volume": 2809
-  }
- ],
- "mostActive": [
-  {
-   "symbol": "SNTS",
-   "shortName": "Sonatel",
-   "close": 4425,
-   "change": -5.85,
-   "volume": 309660
-  },
-  {
-   "symbol": "BOAC",
-   "shortName": "BOA Côte d’Ivoire",
-   "close": 11290,
-   "change": 0.62,
-   "volume": 15716
-  },
-  {
-   "symbol": "BOAN",
-   "shortName": "BOA Niger",
-   "close": 5000,
-   "change": -0.99,
-   "volume": 31224
-  },
-  {
-   "symbol": "SGBC",
-   "shortName": "Société Générale CI",
-   "close": 38950,
-   "change": 0.01,
-   "volume": 3860
-  },
-  {
-   "symbol": "NSBC",
-   "shortName": "NSIA Banque CI",
-   "close": 19000,
-   "change": -0.78,
-   "volume": 6708
-  }
- ]
+ "advancing": 0,
+ "declining": 0,
+ "unchanged": 48,
+ "totalVolume": 0,
+ "gainers": [],
+ "losers": [],
+ "mostActive": []
 }

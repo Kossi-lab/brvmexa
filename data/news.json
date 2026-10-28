@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-28T08:52:48.531Z",
+ "updatedAt": "2026-10-28T09:38:59.622Z",
  "items": [
   {
    "id": "gn-1l1iy5j",
@@ -26,6 +26,20 @@
    "premium": false,
    "publishedAt": "2026-10-28T05:40:03.000Z",
    "symbols": []
+  },
+  {
+   "id": "gn-1lzzfnd",
+   "title": "Bank of Africa - Benin (BOAB) — BRVM",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE04a2FES05hTmtBQk4tOGt5WTU0M0IzTl9DLUlmaDNPOVFwX0w1QzZwM3V3Nk9pNklRcUxCVWVmaFFkUjRJeXp6Q3JRMlRLNTdmMHlrb2JXVmxWVy1Pei04WHBBclBXZw?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-10-27T21:41:41.000Z",
+   "symbols": [
+    "BOAB"
+   ]
   },
   {
    "id": "sika-65294",
@@ -453,6 +467,20 @@
    "premium": false,
    "publishedAt": "2026-10-26T01:50:19.000Z",
    "symbols": []
+  },
+  {
+   "id": "gn-bk2dr7",
+   "title": "L'indice principal de la BRVM recule pour la deuxième semaine consécutive à l'approche du fractionnement des actions de Sonatel",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSy1jTDczcVNidDBCRVJ3NzRQdVJYeW8yS2VkRm4zVm1JdVVEOGh3Sk1TaW0yR0JKRVBELWJzbVNncGZmQlc5cnVxdEdMdmd4dTNiZnIzT1lfdk9ueEFMZ0w0YkZaeFVhbHRTWnZkb2Q3cTVBa1BFdU1mcHdrb2Ewb3JObFFCbGFPWS05S1kzS1J0RkJxeUw5eWl1dGZ5bXFDel9pMmVic0ZKem1rVU5rdUF2dHpMX1ZkLURJTEpkVXNEN2pPUGd6OEg1VFVDMTZkNVJSVm1xbmhVN0FkcGlKUG5fZ3k5NUk?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-10-24T14:58:00.000Z",
+   "symbols": [
+    "SNTS"
+   ]
   },
   {
    "id": "sika-65226",
@@ -1835,30 +1863,6 @@
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-10-06T13:43:47.000Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-zhui3z",
-   "title": "De Casablanca à Abidjan, comment les deux places boursières séduisent les investisseurs étrangers",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVklZekZVSk5HWTZ6c1M3MldDLVRrMk4wcnU0Q0RGNW1YM3pWZFpfdDMwb05aWVdCek4tdm5RZjFMV0JzZW5nUHJNa1ZxU3d4NjBmMjlYN3RDdWtmZFl4MjFkMEVrdXFaT2hiMWlpN1ptcUpXZS10Vjd1ZVo4MHRtdHZ0VFh3eHMxZTQzWU5sZGVhOGdUNXNPQkU0Y0ZRZV8tbVBqeWFLNWtCTzg5NGo0ZDVxSHpRYTVrQ1R2b2h4ZWJIRXoycDB3SnVkSzluRjZCa0RGbG5pXzdpbi1wNnRBSVZ0SW8zb0RtdkJj?oc=5",
-   "image": null,
-   "source": "Jeune Afrique",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-10-06T07:00:00.000Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-vw1wj7",
-   "title": "Bourse de Casablanca et BRVM: les places africaines qui aimantent les capitaux étrangers",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNLXBWRG80VGJvRVhqS0U5T1BvTVByTzd5UFdqRXZxek5mbURGRjFRaG5IaWlJLVdwV2k1MG9YbktkNWNZbTh3a045bFFYbnk5eTFldmxGMU9iSHpaN0tvejNJcVpXX29pMUZycDBPeENmM2g4R2tlVmhTTDNBckxfQ3JmdDZoZ1lsRXNKZ1ptLUFUeUtOMGI5Q0JJRlN2cEQtbGtfaVhma3BHNTBFVlF1YnJQb0IzODdrcmtpRnp5dk1jZzM5V1piV195cjlUMFNyMkJSMjR5MUdhZ2d6?oc=5",
-   "image": null,
-   "source": "Le360",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-10-06T07:00:00.000Z",
    "symbols": []
   }
  ]
