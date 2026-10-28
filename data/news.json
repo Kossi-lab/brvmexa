@@ -1,6 +1,32 @@
 {
- "updatedAt": "2026-10-28T09:38:59.622Z",
+ "updatedAt": "2026-10-28T10:25:44.759Z",
  "items": [
+  {
+   "id": "sika-65300",
+   "title": "Sénégal : Une hausse généralisée des prix dans tous les segments du secteur de la construction en septembre 2026",
+   "summary": "Au Sénégal, en septembre 2026, les matériaux de construction se renchérissent de 0,3% par rapport au mois précédent sel...",
+   "url": "https://www.sikafinance.com/marches/senegal-une-hausse-generalisee-des-prix-dans-tous-les-segments-du-secteur-de-la-construction-en-septembre-2026_65300",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-28T10:07:00Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65299",
+   "title": "Ecobank CI : Des revenus peu dynamiques et un résultat net en baisse de 12% au 3ème trimestre 2026",
+   "summary": "À fin septembre 2026, Ecobank Côte d'Ivoire affiche un produit net bancaire (PNB) de 98,2 milliards FCFA, ...",
+   "url": "https://www.sikafinance.com/marches/ecobank-ci-des-revenus-peu-dynamiques-et-un-resultat-net-en-baisse-de-12-au-3eme-trimestre-2026_65299",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-10-28T09:54:00Z",
+   "symbols": [
+    "ECOC"
+   ]
+  },
   {
    "id": "gn-1l1iy5j",
    "title": "BRVM : le fractionnement du titre Sonatel dope l’intérêt des investisseurs",
@@ -1837,32 +1863,6 @@
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-10-13T02:40:56.000Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-9emhru",
-   "title": "Le cours de BRVM reste stable tandis que Bridge Bank poursuit sa remontée après son introduction en bourse",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPN09QcHlDOG82U3FZVl9JOVFycGtpanlhMUFIS25XS083QmtFNjlGemh6ckE3eDVnTENDX1dKNUFLM3lrR2x0NVZGRWduUXRsWGpwRHJLMlRvdWZEUHFUYl9Ea1FEdVhZZ1IyYW81bUNKejgxRlBYU0YxdHdfNm01MFIwUXkwQ2ZjeDc3QVhDNkltcEdJU1lSOGdqOXlXSHN6ZVNHODExZFpqTEdCNEdpZllHcG1aTllJWkN6NFFTaHV3emx0X0JB?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-10-11T10:33:00.000Z",
-   "symbols": [
-    "BBGC"
-   ]
-  },
-  {
-   "id": "gn-1ffmfb6",
-   "title": "BRVM / BOA : La rentabilité prend le dessus sur la croissance au 1er semestre 2026",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQclNIX0gxaXNHdFhaeXl5eFZTMzdmMlJMR3BuTE1jcExqVDhWUHhZNWp3bGY2Y3ExUVpuYjRQWXFiX09yNm5VM0lvVXoyeVl4VTl3ZGtDdk9xbWxVWjFucVh0VWxsOEFmNDBBbHVwZk0weUtfNGltVEhoRVc0eFdEVEhnZE51OTJNdjZxamt3eWtmRFBtMW9xNEg1ZXNnaVFISWg0eVppT096eTQ0OXVCekJCQ1YzLTdLSFdfcQ?oc=5",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-10-06T13:43:47.000Z",
    "symbols": []
   }
  ]
