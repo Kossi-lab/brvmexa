@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-10-28T10:25:44.759Z",
+ "updatedAt": "2026-10-28T11:11:11.159Z",
  "items": [
+  {
+   "id": "sika-65304",
+   "title": "‘’Ethics & Compliance Days 2026’’ : Orange CI pose les fondations d’une gouvernance responsable de l’IA",
+   "summary": "Orange Côte d'Ivoire a réuni, ce 27 octobre 2026 à son siège d'Orange Village, dirigeants, experts de la conformit...",
+   "url": "https://www.sikafinance.com/marches/ethics-compliance-days-2026-orange-ci-pose-les-fondations-dune-gouvernance-responsable-de-lia_65304",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-28T11:00:00Z",
+   "symbols": [
+    "ORAC"
+   ]
+  },
+  {
+   "id": "sika-65303",
+   "title": "Burkina Faso : A Bomboré, Orezone Gold vise jusqu’à 5 tonnes d’or en 2026",
+   "summary": "Au Burkina Faso, la mine de Bomboré aborde un tournant industriel. L'entrée en production commerciale de sa nouvelle un...",
+   "url": "https://www.sikafinance.com/marches/burkina-faso-a-bombore-orezone-gold-vise-jusqua-5-tonnes-dor-en-2026_65303",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-10-28T10:41:00Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65301",
+   "title": "SIREXE 2026 : La carte des rendez-vous extractifs africains se redessine à Abidjan",
+   "summary": "Jusqu'en 2024, les grands rendez-vous continentaux du secteur extractif et énergétique étaient concentrés au Cap (Minin...",
+   "url": "https://www.sikafinance.com/marches/sirexe-2026-la-carte-des-rendez-vous-extractifs-africains-se-redessine-a-abidjan_65301",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-28T10:24:00Z",
+   "symbols": []
+  },
   {
    "id": "sika-65300",
    "title": "Sénégal : Une hausse généralisée des prix dans tous les segments du secteur de la construction en septembre 2026",
@@ -1828,42 +1866,6 @@
    "symbols": [
     "CBIBF"
    ]
-  },
-  {
-   "id": "sika-64969",
-   "title": "Côte d’Ivoire : 6 permis miniers accordés pour explorer l’or, le cuivre et le nickel",
-   "summary": "Le sous-sol ivoirien continue d'attirer les ambitions minières. Le Conseil des ministres, du 14 octobre 2026, a en effe...",
-   "url": "https://www.sikafinance.com/marches/cote-divoire-6-permis-miniers-accordes-pour-explorer-lor-le-cuivre-et-le-nickel_64969",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-15T10:19:00Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-jorz0q",
-   "title": "BRVM : Ces mauvais élèves qui font tâche dans le paysage boursier",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeG1oTHNrRUpBeVloYnpjaTU3d1c1S3VZbEZHZHBEVGoxM21DMEF2aVhUVDJJcEhaQ3p5MXl2Z0V5TVQ3YlZJVnpTUkJFa1NLWE5pVnIyTTZmNHZwQ1ZRUmJFMm9zTXNvSWptTE5odXBobUx6MVpuYVFyelB0TWVxeWxqb05majBSUXNJSEVYTGR3b2tIaTFjZnBJc1JDME5HbWtxZXhBZHo?oc=5",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-10-13T14:57:41.000Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-swerxo",
-   "title": "Cameroun : les grandes multinationales bientôt obligées d'ouvrir 20 % de leur capital à la BVMAC ?",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeVBLVUttZ1pqTkFzRFJBZnpwRG0tTGlTd0UzQmJBX1VnMm5lNjRUeTlBazk2RUVMVHZuZlctM1VhM2k4dC1JNGo2LVRBdTZhZHVoZWFCbHFNcGVVb3cwaHllN1JLM2pfbHRaRmxHbE02aG5iM2JMQmRLS1g2Ym5pOV9QY0ZQQnQ5UERBbTI4RmgwNDh5UnByLTI5aHI5WVRwQ3lwLWhPN0lhZXl0VXpnQ2dB?oc=5",
-   "image": null,
-   "source": "EcoMatin",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-10-13T02:40:56.000Z",
-   "symbols": []
   }
  ]
 }
