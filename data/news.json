@@ -1,6 +1,32 @@
 {
- "updatedAt": "2026-10-28T12:37:01.940Z",
+ "updatedAt": "2026-10-28T13:39:26.577Z",
  "items": [
+  {
+   "id": "sika-65309",
+   "title": "Côte d’Ivoire : La production industrielle en hausse de 3,2% en 8 mois, portée par le cacao transformé et le raffinage",
+   "summary": "L'industrie ivoirienne conserve une trajectoire ascendante en 2026, soutenue par le dynamisme manufacturier et énergéti...",
+   "url": "https://www.sikafinance.com/marches/cote-divoire-la-production-industrielle-en-hausse-de-3-2-en-8-mois-portee-par-le-cacao-transforme-et-le-raffinage_65309",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-10-28T13:27:00Z",
+   "symbols": []
+  },
+  {
+   "id": "gn-5cj8d0",
+   "title": "Groupe Sonatel : l’action divisée par dix, bonne affaire ?",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1yMUZZM05yWGlvMlJ5ZWNMWVJKcjZ5R3c2dXJqY3MzUmFTTWZLZGZjeG8xUGlqYy1pMHZOd1BJZnFJOVZzQjdOY0ptX3dVZGVpcUpnQWV1bEFpX2xJMnNBNmNDODRsQjJwMEFFSUJZSWl3NEVX?oc=5",
+   "image": null,
+   "source": "Afrique sur 7",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-10-28T13:10:00.000Z",
+   "symbols": [
+    "SNTS"
+   ]
+  },
   {
    "id": "sika-65308",
    "title": "Ghana : Le chinois Huayou investit plus de 66 millions USD supplémentaires dans le projet de lithium Ewoyaa",
@@ -1841,30 +1867,6 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-10-15T15:12:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-64982",
-   "title": "Côte d’Ivoire : Après 34 ans, le cadre pétrolier se modernise pour intégrer les biocarburants",
-   "summary": "Trente-quatre ans après l'adoption du cadre juridique régissant les activités pétrolières, la Côte d'Ivoire adapt...",
-   "url": "https://www.sikafinance.com/marches/cote-divoire-apres-34-ans-le-cadre-petrolier-se-modernise-pour-integrer-les-biocarburants_64982",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-15T15:04:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-64979",
-   "title": "Cybersécurité en Afrique : 200 000 postes vacants sous la pression des cybercriminels",
-   "summary": "Le continent africain fait face à une grave pénurie de talents en matière de cybersécurité. Aujourd'hui, environ 200 00...",
-   "url": "https://www.sikafinance.com/marches/cybersecurite-en-afrique-200-000-postes-vacants-sous-la-pression-des-cybercriminels_64979",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": true,
-   "publishedAt": "2026-10-15T13:26:00Z",
    "symbols": []
   }
  ]
