@@ -1,6 +1,32 @@
 {
- "updatedAt": "2026-10-27T22:38:53.260Z",
+ "updatedAt": "2026-10-28T08:52:48.531Z",
  "items": [
+  {
+   "id": "gn-1l1iy5j",
+   "title": "BRVM : le fractionnement du titre Sonatel dope l’intérêt des investisseurs",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZjdiRmFsRHNLZUk0MlFXOEFGYkg1OVIwdmZQcWVvSldYak8tUV9raUIwQUt6OVFIQkxIMWNQUFBsWFZIbGVHajlOVkhSSVlVT1ZMN3REaWgwZHBudlFsX3hYNC0wTjFCdkw1RGNGYkt5REpiTklHUmo0bnJhRGhqRnhod2N6UlBDVFdjQXBfdy1JS3NubWUzcGliQnljaFk?oc=5",
+   "image": null,
+   "source": "Forbes Afrique",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-10-28T07:27:52.000Z",
+   "symbols": [
+    "SNTS"
+   ]
+  },
+  {
+   "id": "gn-12hs9fz",
+   "title": "CAPITAL REACH FORUM : ABDOULAYE BIO TCHANE PLAIDE POUR UNE MEILLEURE EXPLOITATION DES MARCHÉS DE CAPITAUX EN AFRIQUE",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOeVN1cFpLQWtjRUF5dDRhTVFMaW5DWFBaUHpVMjJQRllSY1J1aXlGMG1LWFdsOFVHMWNmU015cmJZc196akUwUG5NUEtxdkQ4cUZMZ2NaRmpORjRqRHp1b1ZSQmVHbklNenhDal9VU09Ud3FyTlkxakkwaG4tYWJXZGVBVzgyTGhybkRwNlZRazdVTFRpSUV1dEdOUi0wS2M1UThSQW1Xd19HM3ZlRXZTNTNwZDNkcHY0OEU5TXVackl0QWpTa0JQbmV1d3RZS3N1WlhCQ2JHM1VNenlPV2piT1pyQQ?oc=5",
+   "image": null,
+   "source": "Matin Libre",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-10-28T05:40:03.000Z",
+   "symbols": []
+  },
   {
    "id": "sika-65294",
    "title": "Congo : Avec un baril budgété à 71 dollars en 2027, la BAD préconise d'affecter les surplus pétroliers au remboursement de la dette",
@@ -1834,32 +1860,6 @@
    "premium": false,
    "publishedAt": "2026-10-06T07:00:00.000Z",
    "symbols": []
-  },
-  {
-   "id": "gn-4ruro3",
-   "title": "BRVM-30 : La BRVM actualise son indice de liquidité pour le 4ème trimestre",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcnhEV1U2LXd3SVB5YWRPWVZydW9TR3BjSTQtZGhLOGdjOVRONEVaQXNoSElqVEFfVzAtdVFUTzkyMEVydTdBUFQtVW5IZjNvMnNXNm11SUdzLWY2OGQ1NWdkVVVsdWhOSDlSZmV6d1NFMkFUUXdPYjJZNHRXNl9walQ1Q0tqMms2Yl9sZGtIY2FucDZCaktCMlRhbW14Qi1pV0kzRU9CaUhFdjlGVHlUUU5OZUU?oc=5",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-10-02T07:00:00.000Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-1ra4zxf",
-   "title": "BRVM : Sonatel atteint un seuil psychologique à 45 000 FCFA",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcG1Dd0tqZVFjTkszeFNoeDF3T3hnTlpFT0ZfNDFvRGRKdFVWTDl0clc2amp5ZVM4VDRUbHozNHB3VXhVM1B6MjRtZzQxMGp5ZnBjcGlHdS1XMm8wNDk4cFdla1RiOXRWdkhmbGNUbVRRdmZmdksyTlZCYlNWN1l2NFJVY3VNUGpvUC1WbDBDcEFtaXhDMnpNNkl6TXlYYW12?oc=5",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-09-30T07:00:00.000Z",
-   "symbols": [
-    "SNTS"
-   ]
   }
  ]
 }
