@@ -1,6 +1,42 @@
 {
- "updatedAt": "2026-10-28T17:47:16.508Z",
+ "updatedAt": "2026-10-28T18:48:50.369Z",
  "items": [
+  {
+   "id": "sika-65326",
+   "title": "Afrique : Face au repli de la tech, les capitaux privés s’orientent vers l’énergie et les services B2B",
+   "summary": "L'essoufflement brutal des transactions dans la fintech perturbe profondément l'équilibre des secteurs financier et tec...",
+   "url": "https://www.sikafinance.com/marches/afrique-face-au-repli-de-la-tech-les-capitaux-prives-sorientent-vers-lenergie-et-les-services-b2b_65326",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-10-28T18:16:00Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65325",
+   "title": "Climat des affaires : 20 pays africains se distinguent, la Côte d’Ivoire gagne 11,5 points en 16 ans",
+   "summary": "Quels sont les 20 pays africains offrant le meilleur environnement économique, juridique et institutionnel aux entrepri...",
+   "url": "https://www.sikafinance.com/marches/climat-des-affaires-20-pays-africains-se-distinguent-la-cote-divoire-gagne-11-5-points-en-16-ans_65325",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-10-28T18:05:00Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65324",
+   "title": "Burkina Faso : West African Resources produit 3,6 tonnes d’or en 3 mois et vise jusqu’à 14 tonnes en 2026",
+   "summary": "Dans les sous-sols aurifères du Burkina Faso, West African Resources accélère sa production. Le groupe minier australie...",
+   "url": "https://www.sikafinance.com/marches/burkina-faso-west-african-resources-produit-3-6-tonnes-dor-en-3-mois-et-vise-jusqua-14-tonnes-en-2026_65324",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-10-28T17:50:00Z",
+   "symbols": []
+  },
   {
    "id": "sika-65323",
    "title": "PALMCI : Le bénéfice recule de 12% à fin septembre 2026, malgré un redressement au 3ème trimestre",
@@ -1835,42 +1871,6 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-10-16T16:14:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65010",
-   "title": "AFIS : La 6e édition mise sur la finance africaine pour accélérer la croissance du continent",
-   "summary": "Luanda, le 14 octobre 2026 - Les 3 et 4 novembre, Luanda accueillera la sixième édition de l'Africa Financial Summit (A...",
-   "url": "https://www.sikafinance.com/marches/afis-la-6e-edition-mise-sur-la-finance-africaine-pour-accelerer-la-croissance-du-continent_65010",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-16T15:57:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65017",
-   "title": "Côte d’Ivoire : AGRA lance à Abidjan VALUE4HER pour connecter les entreprises féminines aux financements et aux marchés",
-   "summary": "AGRA lance à Abidjan, la plateforme VALUE4HER, destinée à renforcer les entreprises agroalimentaires dirigées par des fe...",
-   "url": "https://www.sikafinance.com/marches/cote-divoire-agra-lance-a-abidjan-value4her-pour-connecter-les-entreprises-feminines-aux-financements-et-aux-marches_65017",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-16T15:30:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65008",
-   "title": "L’Arcop et le conseil d’Etat renforcent leur collaboration institutionnelle pour la sécurité juridique des marchés publics",
-   "summary": "La complexité et la technicité du droit des marchés publics et des Partenariats Public-Privé requiert une compréhension...",
-   "url": "https://www.sikafinance.com/marches/larcop-et-le-conseil-detat-renforcent-leur-collaboration-institutionnelle-pour-la-securite-juridique-des-marches-publics_65008",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-16T13:34:00Z",
    "symbols": []
   }
  ]
