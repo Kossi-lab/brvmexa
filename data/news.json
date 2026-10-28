@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-10-28T11:53:21.982Z",
+ "updatedAt": "2026-10-28T12:37:01.940Z",
  "items": [
+  {
+   "id": "sika-65308",
+   "title": "Ghana : Le chinois Huayou investit plus de 66 millions USD supplémentaires dans le projet de lithium Ewoyaa",
+   "summary": "Le développement de la filière lithium au Ghana passe un cap nouveau avec l'entrée renforcée du groupe chinois Zhejiang...",
+   "url": "https://www.sikafinance.com/marches/ghana-le-chinois-huayou-investit-plus-de-66-millions-usd-supplementaires-dans-le-projet-de-lithium-ewoyaa_65308",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-28T12:28:00Z",
+   "symbols": []
+  },
+  {
+   "id": "gn-1e6badu",
+   "title": "Bénin : la Bourse régionale des valeurs mobilières enregistre une capitalisation de 24 781,3 milliards de FCFA en 2025",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQzVBZnFqendERDJVU0RxMGE2NjBMU0RrM2FHNVc5SElzN0dBTzU5VTdrYW00RnRqM2JCV1ZONTd2X1RZT2RpRmN3OVZXLXFFbldEMkNDYVNpQjhDTnhLc2h5a1lFNURKaGpzcE42NUttajdmTUs2Y3VRcmU3QlcxS0lKYV9OazVPNUVBOWxaWk1lQzdKU1k4ZGJiZ1V4WnB0TVNuWFRJM2ZWWEN5MFFKTjNTRmJyMmtqNGlOSWlJMlM1eHNzQ3JIT0o1aFMtcW1XcDM0LUFR?oc=5",
+   "image": null,
+   "source": "Africa24 TV",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-10-28T12:25:00.000Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65307",
+   "title": "TotalEnergies Marketing CI : Le bénéfice grimpe de 31% à fin septembre 2026",
+   "summary": "TotalEnergies Marketing Côte d'Ivoire enregistre une accélération de sa croissance bénéficiaire au troisième trim...",
+   "url": "https://www.sikafinance.com/marches/totalenergies-marketing-ci-le-benefice-grimpe-de-31-a-fin-septembre-2026_65307",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-10-28T12:20:00Z",
+   "symbols": [
+    "TTLC"
+   ]
+  },
   {
    "id": "sika-65304",
    "title": "‘’Ethics & Compliance Days 2026’’ : Orange CI pose les fondations d’une gouvernance responsable de l’IA",
@@ -1828,44 +1866,6 @@
    "premium": true,
    "publishedAt": "2026-10-15T13:26:00Z",
    "symbols": []
-  },
-  {
-   "id": "sika-64978",
-   "title": "Afrique : La croissance économique attendue à 4,5% fin 2026 (FMI)",
-   "summary": "L'Afrique résiste aux chocs, mais ses marges de manœuvre s'amenuisent. En marge des Assemblées annuelles du Fonds...",
-   "url": "https://www.sikafinance.com/marches/afrique-la-croissance-economique-attendue-a-4-5-fin-2026-fmi_64978",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-15T13:17:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-64972",
-   "title": "Congo : Les entreprises deviennent plus pessimistes, seules 36% anticipent une hausse de leur chiffre d'affaires",
-   "summary": "Les perspectives commerciales des entreprises congolaises se dégradent, malgré l'amélioration attendue de la croissance...",
-   "url": "https://www.sikafinance.com/marches/congo-les-entreprises-deviennent-plus-pessimistes-seules-36-anticipent-une-hausse-de-leur-chiffre-d-affaires_64972",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-15T11:04:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-64970",
-   "title": "Burkina Faso : Coris Bank mobilise 4 milliards FCFA pour deux entreprises locales",
-   "summary": "Coris Bank International SA accorde 4 milliards FCFA (6,2 millions d'euro) à deux entreprises burkinabè pour soutenir l...",
-   "url": "https://www.sikafinance.com/marches/burkina-faso-coris-bank-mobilise-4-milliards-fcfa-pour-deux-entreprises-locales_64970",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-15T10:29:00Z",
-   "symbols": [
-    "CBIBF"
-   ]
   }
  ]
 }
