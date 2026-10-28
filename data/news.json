@@ -1,6 +1,34 @@
 {
- "updatedAt": "2026-10-28T16:52:25.902Z",
+ "updatedAt": "2026-10-28T17:47:16.508Z",
  "items": [
+  {
+   "id": "sika-65323",
+   "title": "PALMCI : Le bénéfice recule de 12% à fin septembre 2026, malgré un redressement au 3ème trimestre",
+   "summary": "PALMCI affiche un résultat net en baisse à fin septembre 2026, pénalisé par un début d'année difficile et la hausse des...",
+   "url": "https://www.sikafinance.com/marches/palmci-le-benefice-recule-de-12-a-fin-septembre-2026-malgre-un-redressement-au-3eme-trimestre_65323",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-10-28T17:09:00Z",
+   "symbols": [
+    "PALC"
+   ]
+  },
+  {
+   "id": "sika-65321",
+   "title": "BRVM : Sonatel capte un volume historique de 10 milliards FCFA dans un marché hésitant",
+   "summary": "La BRVM prolonge son mouvement de baisse. Les trois principaux indices terminent dans le rouge : le BRVM-Composite recu...",
+   "url": "https://www.sikafinance.com/marches/brvm-sonatel-capte-un-volume-historique-de-10-milliards-fcfa-dans-un-marche-hesitant_65321",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-28T16:41:00Z",
+   "symbols": [
+    "SNTS"
+   ]
+  },
   {
    "id": "sika-65320",
    "title": "Cybersécurité : Interpol et ses partenaires arrêtent près de 1 500 criminels lors d’une vaste opération en Afrique",
@@ -1843,30 +1871,6 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-10-16T13:34:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65007",
-   "title": "Nigeria : L’UE accorde 9,2 milliards FCFA pour préparer un réseau de 90 000 km de fibre optique",
-   "summary": "Le Nigeria entend étendre sa couverture numérique à l'échelle nationale avec l'appui de l'Union européenne (UE), qui ac...",
-   "url": "https://www.sikafinance.com/marches/nigeria-lue-accorde-9-2-milliards-fcfa-pour-preparer-un-reseau-de-90-000-km-de-fibre-optique_65007",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-16T13:25:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65006",
-   "title": "Wave Côte d’Ivoire inaugure son nouveau siège et revendique plus de 50 milliards FCFA d’impôts payés par an",
-   "summary": "Wave Côte d'Ivoire a officiellement inauguré son nouveau siège social, situé dans la commune de Cocody, à Abidjan...",
-   "url": "https://www.sikafinance.com/marches/wave-cote-divoire-inaugure-son-nouveau-siege-et-revendique-plus-de-50-milliards-fcfa-dimpots-payes-par-an_65006",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": true,
-   "publishedAt": "2026-10-16T12:21:00Z",
    "symbols": []
   }
  ]
