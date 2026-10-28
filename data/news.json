@@ -1,11 +1,59 @@
 {
- "updatedAt": "2026-10-28T15:32:17.803Z",
+ "updatedAt": "2026-10-28T16:31:50.507Z",
  "items": [
   {
+   "id": "sika-65320",
+   "title": "Cybersécurité : Interpol et ses partenaires arrêtent près de 1 500 criminels lors d’une vaste opération en Afrique",
+   "summary": "Du 29 juin au 31 août 2026, l'organisation internationale de police criminelle Interpol a orchestré une opération...",
+   "url": "https://www.sikafinance.com/marches/cybersecurite-interpol-et-ses-partenaires-arretent-pres-de-1-500-criminels-lors-dune-vaste-operation-en-afrique_65320",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-10-28T16:28:00Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65319",
+   "title": "Nigeria : Dangote Cement annonce un bénéfice de plus de 245 millions USD au 3e trimestre, en hausse de 51%",
+   "summary": "Le géant nigérian du ciment, Dangote Cement, aborde son projet de cotation secondaire à Londres avec des résultats fina...",
+   "url": "https://www.sikafinance.com/marches/nigeria-dangote-cement-annonce-un-benefice-de-plus-de-245-millions-usd-au-3e-trimestre-en-hausse-de-51_65319",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-10-28T16:18:00Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65318",
+   "title": "RDC : La contrebande d’or rapporte jusqu’à 1,6 million USD par an aux rebelles affiliés à l’État islamique",
+   "summary": "L'or extrait illégalement dans l'est de la République démocratique du Congo (RDC) constitue une importante source de fi...",
+   "url": "https://www.sikafinance.com/marches/rdc-la-contrebande-dor-rapporte-jusqua-1-6-million-usd-par-an-aux-rebelles-affilies-a-letat-islamique_65318",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-28T16:01:00Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65316",
+   "title": "RDC : Glencore veut céder 40 % de ses actifs miniers pour renflouer sa trésorerie",
+   "summary": "Le groupe suisse Glencore prépare la cession de 40 % de ses participations dans deux exploitations de cuivre et ...",
+   "url": "https://www.sikafinance.com/marches/rdc-glencore-veut-ceder-40-de-ses-actifs-miniers-pour-renflouer-sa-tresorerie_65316",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-28T15:56:00Z",
+   "symbols": []
+  },
+  {
    "id": "sika-65313",
-   "title": "SIREXE 2026 : 24 pays attendus au rendez-vous d’Abidjan pour 5 jours de rencontres dans les mines, le pétrole et l’énergie",
-   "summary": "Du 18 au 22 novembre 2026, Abidjan accueillera des représentants de 24 pays africains à l'occasion du Salon internation...",
-   "url": "https://www.sikafinance.com/marches/sirexe-2026-24-pays-attendus-au-rendez-vous-dabidjan-pour-5-jours-de-rencontres-dans-les-mines-le-petrole-et-lenergie_65313",
+   "title": "SIREXE 2026 : Plus de 24 pays attendus au rendez-vous d’Abidjan pour 5 jours de rencontres dans les mines, le pétrole et l’énergie",
+   "summary": "Du 18 au 22 novembre 2026, Abidjan accueillera des représentants de plus de 24 pays africains à l'occasion du Salon int...",
+   "url": "https://www.sikafinance.com/marches/sirexe-2026-plus-de-24-pays-attendus-au-rendez-vous-dabidjan-pour-5-jours-de-rencontres-dans-les-mines-le-petrole-et-lenergie_65313",
    "image": null,
    "source": "Sika Finance",
    "category": "Marchés",
@@ -89,6 +137,20 @@
    "publishedAt": "2026-10-28T12:20:00Z",
    "symbols": [
     "TTLC"
+   ]
+  },
+  {
+   "id": "gn-pfcddy",
+   "title": "Bridge Bank Group (BBGC) — BRVM",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VWFNIS3puU1RSY09PZGRsWkVIcnh4cHM3ZXFnd2lVbmR1OGU3dFRfMG92UENpbkdnVjNnNGpvckliaWthcXBZaVBjeVVFZXBodzNCZEpSU1hBN1FXbDlLSC0yb0Nvdw?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-10-28T11:54:55.000Z",
+   "symbols": [
+    "BBGC"
    ]
   },
   {
@@ -1805,68 +1867,6 @@
    "category": "Marchés",
    "premium": true,
    "publishedAt": "2026-10-16T12:21:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65005",
-   "title": "Côte d’Ivoire : Le PIB progresse à 12 730 milliards FCFA au 2e trimestre, porté par le dynamisme des services",
-   "summary": "L'économie ivoirienne confirme sa capacité à soutenir son expansion. Au deuxième trimestre 2026, le produit intérieur b...",
-   "url": "https://www.sikafinance.com/marches/cote-divoire-le-pib-progresse-a-12-730-milliards-fcfa-au-2e-trimestre-porte-par-le-dynamisme-des-services_65005",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": true,
-   "publishedAt": "2026-10-16T12:10:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-64999",
-   "title": "Perturbations dans le détroit d’Ormuz : Les PME, pilier de 70% de l’emploi mondial, menacées d’éviction du commerce mondial",
-   "summary": "Le commerce mondial peut renouer avec la croissance sans entraîner toutes les entreprises dans son sillage. C'est...",
-   "url": "https://www.sikafinance.com/marches/perturbations-dans-le-detroit-dormuz-les-pme-pilier-de-70-de-lemploi-mondial-menacees-deviction-du-commerce-mondial_64999",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": true,
-   "publishedAt": "2026-10-16T10:34:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65000",
-   "title": "Côte d’Ivoire : PUSH-CI s’allie à quatre partenaires pour sécuriser les paiements agricoles",
-   "summary": "La fintech ivoirienne PUSH-CI renforce ses partenariats avec la BNI, Ecobank Côte d'Ivoire, Versus Bank et Orange ...",
-   "url": "https://www.sikafinance.com/marches/cote-divoire-push-ci-sallie-a-quatre-partenaires-pour-securiser-les-paiements-agricoles_65000",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-16T10:21:00Z",
-   "symbols": [
-    "ECOC"
-   ]
-  },
-  {
-   "id": "sika-64996",
-   "title": "Sénégal : L’économiste Babacar Gaye passe en revue le projet de loi de finances 2027",
-   "summary": "Le projet de Budget 2027 du Sénégal a été rendu public ce 15 octobre. Il est projeté en recettes à 6 012,1 milliards FC...",
-   "url": "https://www.sikafinance.com/marches/senegal-leconomiste-babacar-gaye-passe-en-revue-le-projet-de-loi-de-finances-2027_64996",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-16T09:22:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-64985",
-   "title": "Côte d’Ivoire/5G : Le gouvernement fixe les modalités financières de libération des fréquences",
-   "summary": "Le gouvernement ivoirien a adopté le mercredi 14 octobre 2026 à Abidjan un décret capital fixant les modalités financiè...",
-   "url": "https://www.sikafinance.com/marches/cote-divoire5g-le-gouvernement-fixe-les-modalites-financieres-de-liberation-des-frequences_64985",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-15T16:10:00Z",
    "symbols": []
   }
  ]
