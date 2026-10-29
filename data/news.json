@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-10-29T16:33:37.461Z",
+ "updatedAt": "2026-10-29T16:55:20.482Z",
  "items": [
+  {
+   "id": "sika-65353",
+   "title": "Pareto Labs : La pépite ivoirienne de l’IA intègre la cohorte Askya et vise une enveloppe globale de 500 000 USD",
+   "summary": "Askya Investment Partners annonce la première cohorte de sa plateforme d'accélération Askya AI Growth Platform. Parmi l...",
+   "url": "https://www.sikafinance.com/marches/pareto-labs-la-pepite-ivoirienne-de-lia-integre-la-cohorte-askya-et-vise-une-enveloppe-globale-de-500-000-usd_65353",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-29T16:48:00Z",
+   "symbols": []
+  },
   {
    "id": "sika-65352",
    "title": "BRVM : Bernabé prolonge son ascension dans la foulée de ses bons résultats trimestriels",
@@ -1859,21 +1871,6 @@
    "premium": false,
    "publishedAt": "2026-10-19T09:54:00Z",
    "symbols": []
-  },
-  {
-   "id": "sika-65035",
-   "title": "BRVM / SEMAINE 41 : TOTAL CI et CORIS BANK BF se distinguent à contre-courant du marché",
-   "summary": "La BRVM bascule dans une correction marquée au cours de la semaine du 12 octobre, après la stabilité relative observée ...",
-   "url": "https://www.sikafinance.com/marches/brvm-semaine-41-total-ci-et-coris-bank-bf-se-distinguent-a-contre-courant-du-marche_65035",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": true,
-   "publishedAt": "2026-10-19T09:53:00Z",
-   "symbols": [
-    "CBIBF",
-    "TTLC"
-   ]
   }
  ]
 }
