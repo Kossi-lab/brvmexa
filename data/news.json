@@ -1,6 +1,32 @@
 {
- "updatedAt": "2026-10-29T08:54:45.575Z",
+ "updatedAt": "2026-10-29T09:41:08.956Z",
  "items": [
+  {
+   "id": "sika-65336",
+   "title": "Bénin : Le Capital Reach Forum clôture ses travaux sur les leviers de financement de l’économie",
+   "summary": "Financer une entreprise, faciliter l'accès au logement ou accompagner l'industrialisation ne relève pas uniquement de l...",
+   "url": "https://www.sikafinance.com/marches/benin-le-capital-reach-forum-cloture-ses-travaux-sur-les-leviers-de-financement-de-leconomie_65336",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-29T09:34:00Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65335",
+   "title": "Le bénéfice d’Orange CI progresse de 18% à 141 milliards FCFA à fin septembre 2026",
+   "summary": "Le groupe Orange Côte d'Ivoire confirme sa solide dynamique de croissance, avec un résultat net consolidé de 141 ...",
+   "url": "https://www.sikafinance.com/marches/le-benefice-dorange-ci-progresse-de-18-a-141-milliards-fcfa-a-fin-septembre-2026_65335",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-29T09:28:00Z",
+   "symbols": [
+    "ORAC"
+   ]
+  },
   {
    "id": "sika-65326",
    "title": "Afrique : Face au repli de la tech, les capitaux privés s’orientent vers l’énergie et les services B2B",
@@ -947,20 +973,6 @@
    "symbols": []
   },
   {
-   "id": "gn-1bkqz72",
-   "title": "Saph Côte d'Ivoire (SPHC) — BRVM",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1zVWZyMmlqQ1JyNjFwRnlINzU3WEp4VDh1Ykszano4RXU1TzJSa3RTaklKVWN1UTZDNllocVY4d05fcDNXdVN1M0pyWDE1RU9zS2xLSzN0UEtuZVE5RExzR1N5amN3QQ?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-10-23T07:00:00.000Z",
-   "symbols": [
-    "SPHC"
-   ]
-  },
-  {
    "id": "gn-1lr0nmy",
    "title": "Onatel Burkina Faso (ONTBF) — BRVM",
    "summary": null,
@@ -1857,18 +1869,6 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-10-16T16:14:00Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-jorz0q",
-   "title": "BRVM : Ces mauvais élèves qui font tâche dans le paysage boursier",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeG1oTHNrRUpBeVloYnpjaTU3d1c1S3VZbEZHZHBEVGoxM21DMEF2aVhUVDJJcEhaQ3p5MXl2Z0V5TVQ3YlZJVnpTUkJFa1NLWE5pVnIyTTZmNHZwQ1ZRUmJFMm9zTXNvSWptTE5odXBobUx6MVpuYVFyelB0TWVxeWxqb05majBSUXNJSEVYTGR3b2tIaTFjZnBJc1JDME5HbWtxZXhBZHo?oc=5",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-10-13T14:57:41.000Z",
    "symbols": []
   }
  ]
