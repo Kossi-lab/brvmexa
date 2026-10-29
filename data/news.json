@@ -1,6 +1,32 @@
 {
- "updatedAt": "2026-10-29T16:55:20.482Z",
+ "updatedAt": "2026-10-29T17:50:06.465Z",
  "items": [
+  {
+   "id": "sika-65356",
+   "title": "Nsia banque Côte d’Ivoire mobilise 100 millions d’euros pour renforcer le financement des PME et accélérer la transition énergétique",
+   "summary": "NSIA Banque Côte d'Ivoire franchit une nouvelle étape dans sa stratégie de soutien au développement économi...",
+   "url": "https://www.sikafinance.com/marches/nsia-banque-cote-divoire-mobilise-100-millions-deuros-pour-renforcer-le-financement-des-pme-et-accelerer-la-transition-energetique_65356",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-29T17:03:00Z",
+   "symbols": [
+    "NSBC"
+   ]
+  },
+  {
+   "id": "sika-65355",
+   "title": "Anthropic vise 1 500 milliards USD en Bourse, soit plus que le PIB cumulé des 3 plus grandes économies africaines",
+   "summary": "Voir une seule entreprise technologique de 3 000 employés viser une valorisation supérieure à la richesse produite en u...",
+   "url": "https://www.sikafinance.com/marches/anthropic-vise-1-500-milliards-usd-en-bourse-soit-plus-que-le-pib-cumule-des-3-plus-grandes-economies-africaines_65355",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-10-29T17:00:00Z",
+   "symbols": []
+  },
   {
    "id": "sika-65353",
    "title": "Pareto Labs : La pépite ivoirienne de l’IA intègre la cohorte Askya et vise une enveloppe globale de 500 000 USD",
@@ -26,6 +52,18 @@
    "symbols": [
     "BNBC"
    ]
+  },
+  {
+   "id": "sika-65354",
+   "title": "Côte d’Ivoire : Avec un potentiel qui s’accroît, Turaco Gold veut racheter les parts de son unique associé sur projet aurifère d’Afema",
+   "summary": "La compagnie australienne a conclu un accord pour acquérir les 20 % encore détenus par la firme israélienne Sodim, son ...",
+   "url": "https://www.sikafinance.com/marches/cote-divoire-avec-un-potentiel-qui-saccroit-turaco-gold-veut-racheter-les-parts-de-son-unique-associe-sur-projet-aurifere-dafema_65354",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-29T15:38:00Z",
+   "symbols": []
   },
   {
    "id": "sika-65351",
@@ -712,20 +750,6 @@
    "premium": false,
    "publishedAt": "2026-10-27T08:42:00Z",
    "symbols": []
-  },
-  {
-   "id": "gn-1gfad7o",
-   "title": "Sogb Côte d'Ivoire (SOGC) — BRVM",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sZUtjYXhXV041LTR6dVZsNkFvNzVIUXFtWlBibk55VUdnOV9OcEVSQzY3N1EzMGlhbEVJRFdBaUdPZ3dXLUpSUWppRXZZT1JTU29NeVJibE5XQU9UMkdLTWMyNEhzdw?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-10-27T08:28:07.000Z",
-   "symbols": [
-    "SOGC"
-   ]
   },
   {
    "id": "sika-65257",
@@ -1846,30 +1870,6 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-10-19T10:35:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65037",
-   "title": "SIKA COMMODITIES WEEKLY 41 : Le café bondit, le Brent flirte avec 110 dollars",
-   "summary": "L'arabica et le pétrole ont dominé les marchés cette semaine, portés par des inquiétudes sur les approvisionnements. Le...",
-   "url": "https://www.sikafinance.com/marches/sika-commodities-weekly-41-le-cafe-bondit-le-brent-flirte-avec-110-dollars_65037",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-19T10:26:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65033",
-   "title": "Congo : Eni atteint 170 000 barils par jour et envisage une centrale électrique de 1 000 MW à Djéno",
-   "summary": "Le groupe énergétique italien Eni affirme avoir atteint une production de 170 000 barils par jour au Congo, selon les d...",
-   "url": "https://www.sikafinance.com/marches/congo-eni-atteint-170-000-barils-par-jour-et-envisage-une-centrale-electrique-de-1-000-mw-a-djeno_65033",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-19T09:54:00Z",
    "symbols": []
   }
  ]
