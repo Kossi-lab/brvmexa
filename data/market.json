@@ -1,67 +1,53 @@
 {
- "updatedAt": "2026-10-29T13:41:42.962Z",
+ "updatedAt": "2026-10-29T14:34:03.755Z",
  "sessionDate": "2026-10-29",
- "sessionTime": "13:30",
+ "sessionTime": "14:15",
  "source": "brvm.org",
- "transactionsValue": 1894929142,
- "capitalisationActions": 20701541806016,
+ "transactionsValue": 2165313576,
+ "capitalisationActions": 20736985197836,
  "capitalisationBonds": 13438116097921,
  "advancing": 21,
  "declining": 18,
  "unchanged": 9,
- "totalVolume": 631249,
+ "totalVolume": 786151,
  "gainers": [
   {
    "symbol": "BNBC",
    "shortName": "Bernabé CI",
    "close": 1985,
    "change": 7.3,
-   "volume": 2822
+   "volume": 2832
   },
   {
    "symbol": "CIEC",
    "shortName": "CIE Côte d’Ivoire",
    "close": 5400,
    "change": 5.88,
-   "volume": 1938
+   "volume": 2216
   },
   {
    "symbol": "UNXC",
    "shortName": "Uniwax CI",
    "close": 2100,
    "change": 5,
-   "volume": 19505
+   "volume": 20468
   },
   {
    "symbol": "BOAN",
    "shortName": "BOA Niger",
    "close": 5300,
    "change": 4.02,
-   "volume": 7299
+   "volume": 8588
   },
   {
    "symbol": "ETIT",
    "shortName": "Ecobank Transnational (ETI)",
    "close": 63,
    "change": 3.28,
-   "volume": 285544
+   "volume": 371492
   }
  ],
  "losers": [
-  {
-   "symbol": "SDSC",
-   "shortName": "Africa Global Logistics CI",
-   "close": 2795,
-   "change": -5.57,
-   "volume": 3750
-  },
-  {
-   "symbol": "LNBB",
-   "shortName": "Loterie Nationale du Bénin",
-   "close": 3800,
-   "change": -4.4,
-   "volume": 8637
-  },
   {
    "symbol": "CABC",
    "shortName": "Sicable CI",
@@ -70,55 +56,69 @@
    "volume": 384
   },
   {
-   "symbol": "NSBC",
-   "shortName": "NSIA Banque CI",
-   "close": 18500,
-   "change": -2.63,
-   "volume": 2867
-  },
-  {
    "symbol": "SCRC",
    "shortName": "Sucrivoire CI",
    "close": 2230,
    "change": -2.62,
-   "volume": 2078
+   "volume": 2497
+  },
+  {
+   "symbol": "STAC",
+   "shortName": "SETAO CI",
+   "close": 1745,
+   "change": -2.51,
+   "volume": 1732
+  },
+  {
+   "symbol": "ONTBF",
+   "shortName": "Onatel Burkina Faso",
+   "close": 2990,
+   "change": -2.29,
+   "volume": 1291
+  },
+  {
+   "symbol": "NSBC",
+   "shortName": "NSIA Banque CI",
+   "close": 18650,
+   "change": -1.84,
+   "volume": 3095
   }
  ],
  "mostActive": [
   {
    "symbol": "SNTS",
    "shortName": "Sonatel",
-   "close": 4140,
-   "change": -1.43,
-   "volume": 191677
+   "close": 4150,
+   "change": -1.19,
+   "volume": 215079
   },
   {
    "symbol": "STBC",
    "shortName": "SITAB CI",
    "close": 21300,
    "change": 0.24,
-   "volume": 6448
+   "volume": 6647
+  },
+  {
+   "symbol": "SDSC",
+   "shortName": "Africa Global Logistics CI",
+   "close": 2960,
+   "change": 0,
+   "volume": 40305
   },
   {
    "symbol": "BOAB",
    "shortName": "BOA Bénin",
-   "close": 9400,
-   "change": 0.21,
-   "volume": 11392
+   "close": 9300,
+   "change": -0.85,
+   "volume": 11420
   },
   {
    "symbol": "SIBC",
    "shortName": "Société Ivoirienne de Banque",
-   "close": 8710,
-   "change": -1.02,
-   "volume": 10943
-  },
-  {
-   "symbol": "CBIBF",
-   "shortName": "Coris Bank International",
-   "close": 31510,
-   "change": -2.14,
-   "volume": 2676
+   "close": 8800,
+   "change": 0,
+   "volume": 11146
   }
  ]
 }

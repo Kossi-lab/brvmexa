@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-10-29T13:41:47.276Z",
+ "updatedAt": "2026-10-29T14:34:09.474Z",
  "items": [
+  {
+   "id": "sika-65350",
+   "title": "Les Ivoiriens ont misé plus de 900 milliards FCFA dans les jeux et paris sportifs en 2025",
+   "summary": "Après avoir progressé de 455 milliards FCFA en 2022 à près de 706 milliards en 2024, le marché ivoirien des jeux d'arge...",
+   "url": "https://www.sikafinance.com/marches/les-ivoiriens-ont-mise-plus-de-900-milliards-fcfa-dans-les-jeux-et-paris-sportifs-en-2025_65350",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-10-29T13:00:00Z",
+   "symbols": []
+  },
   {
    "id": "sika-65347",
    "title": "Uniwax CI : Plus de 990 millions FCFA de bénéfice au T3, vers un retour aux profits en 2026 ?",
@@ -1861,18 +1873,6 @@
    "category": "Marchés",
    "premium": true,
    "publishedAt": "2026-10-19T09:04:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65028",
-   "title": "Biodiversité : 7 600 milliards USD de capital naturel, un potentiel encore inexploité en Afrique",
-   "summary": "L'Afrique possède dans ses forêts, ses terres et sa faune une richesse considérable, mais peine encore à en tirer une p...",
-   "url": "https://www.sikafinance.com/marches/biodiversite-7-600-milliards-usd-de-capital-naturel-un-potentiel-encore-inexploite-en-afrique_65028",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-19T09:01:00Z",
    "symbols": []
   }
  ]
