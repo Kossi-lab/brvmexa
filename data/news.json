@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-10-29T11:12:16.939Z",
+ "updatedAt": "2026-10-29T11:54:02.145Z",
  "items": [
+  {
+   "id": "sika-65343",
+   "title": "Datacenters prêts pour l’IA, parc TIC : Le Nigeria lance un complexe numérique de 3 milliards USD",
+   "summary": "Une plateforme panafricaine d'infrastructures numériques de 2 à 3 milliards USD verra le jour au Nigeria. Ce complexe i...",
+   "url": "https://www.sikafinance.com/marches/datacenters-prets-pour-lia-parc-tic-le-nigeria-lance-un-complexe-numerique-de-3-milliards-usd_65343",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-29T11:35:00Z",
+   "symbols": []
+  },
   {
    "id": "sika-65340",
    "title": "Le groupe Ecobank affiche 292 milliards FCFA de bénéfice au 30 septembre 2026",
@@ -1860,18 +1872,6 @@
    "symbols": [
     "SNTS"
    ]
-  },
-  {
-   "id": "sika-65020",
-   "title": "Congo : Comment les nouveaux investissements pétroliers et gaziers renforcent l'activité des entreprises parapétrolières",
-   "summary": "Le Congo devrait enregistrer l'une des plus fortes améliorations de sa contribution à l'activité économique de la CEMAC...",
-   "url": "https://www.sikafinance.com/marches/congo-comment-les-nouveaux-investissements-petroliers-et-gaziers-renforcent-l-activite-des-entreprises-parapetrolieres_65020",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-17T12:55:00Z",
-   "symbols": []
   }
  ]
 }
