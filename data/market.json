@@ -1,16 +1,124 @@
 {
- "updatedAt": "2026-10-29T09:41:04.615Z",
+ "updatedAt": "2026-10-29T10:27:37.691Z",
  "sessionDate": "2026-10-29",
- "sessionTime": "09:30",
+ "sessionTime": "10:15",
  "source": "brvm.org",
- "transactionsValue": 0,
- "capitalisationActions": 20719013178762,
+ "transactionsValue": 401361238,
+ "capitalisationActions": 20683195353906,
  "capitalisationBonds": 13438004988321,
- "advancing": 0,
- "declining": 0,
- "unchanged": 48,
- "totalVolume": 0,
- "gainers": [],
- "losers": [],
- "mostActive": []
+ "advancing": 10,
+ "declining": 20,
+ "unchanged": 18,
+ "totalVolume": 206300,
+ "gainers": [
+  {
+   "symbol": "BNBC",
+   "shortName": "Bernabé CI",
+   "close": 1985,
+   "change": 7.3,
+   "volume": 857
+  },
+  {
+   "symbol": "UNXC",
+   "shortName": "Uniwax CI",
+   "close": 2145,
+   "change": 7.25,
+   "volume": 12567
+  },
+  {
+   "symbol": "ETIT",
+   "shortName": "Ecobank Transnational (ETI)",
+   "close": 63,
+   "change": 3.28,
+   "volume": 115981
+  },
+  {
+   "symbol": "SDCC",
+   "shortName": "SODECI",
+   "close": 12700,
+   "change": 1.6,
+   "volume": 47
+  },
+  {
+   "symbol": "BBGC",
+   "shortName": "Bridge Bank Group CI",
+   "close": 9990,
+   "change": 0.91,
+   "volume": 1744
+  }
+ ],
+ "losers": [
+  {
+   "symbol": "PRSC",
+   "shortName": "Tractafric Motors CI",
+   "close": 3605,
+   "change": -5.13,
+   "volume": 115
+  },
+  {
+   "symbol": "CABC",
+   "shortName": "Sicable CI",
+   "close": 2900,
+   "change": -3.17,
+   "volume": 174
+  },
+  {
+   "symbol": "NTLC",
+   "shortName": "Nestlé CI",
+   "close": 12900,
+   "change": -2.31,
+   "volume": 368
+  },
+  {
+   "symbol": "SAFC",
+   "shortName": "SAFCA CI",
+   "close": 3700,
+   "change": -1.99,
+   "volume": 851
+  },
+  {
+   "symbol": "ABJC",
+   "shortName": "Servair Abidjan",
+   "close": 3230,
+   "change": -1.82,
+   "volume": 70
+  }
+ ],
+ "mostActive": [
+  {
+   "symbol": "SNTS",
+   "shortName": "Sonatel",
+   "close": 4140,
+   "change": -1.43,
+   "volume": 45580
+  },
+  {
+   "symbol": "UNXC",
+   "shortName": "Uniwax CI",
+   "close": 2145,
+   "change": 7.25,
+   "volume": 12567
+  },
+  {
+   "symbol": "LNBB",
+   "shortName": "Loterie Nationale du Bénin",
+   "close": 3950,
+   "change": -0.63,
+   "volume": 5245
+  },
+  {
+   "symbol": "BBGC",
+   "shortName": "Bridge Bank Group CI",
+   "close": 9990,
+   "change": 0.91,
+   "volume": 1744
+  },
+  {
+   "symbol": "NEIC",
+   "shortName": "NEI-CEDA CI",
+   "close": 2240,
+   "change": 0,
+   "volume": 6552
+  }
+ ]
 }

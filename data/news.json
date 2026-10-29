@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-10-29T09:41:08.956Z",
+ "updatedAt": "2026-10-29T10:27:43.743Z",
  "items": [
+  {
+   "id": "sika-65339",
+   "title": "BRIDGE BANK CI : Le bénéfice bondit de 41 % à 24 milliards FCFA à fin septembre 2026",
+   "summary": "Quelques semaines après son entrée à la BRVM, Bridge Bank Group Côte d'Ivoire (BBGCI) livre une première photogra...",
+   "url": "https://www.sikafinance.com/marches/bridge-bank-ci-le-benefice-bondit-de-41-a-24-milliards-fcfa-a-fin-septembre-2026_65339",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-29T10:11:00Z",
+   "symbols": [
+    "BBGC"
+   ]
+  },
   {
    "id": "sika-65336",
    "title": "Bénin : Le Capital Reach Forum clôture ses travaux sur les leviers de financement de l’économie",
@@ -11,6 +25,18 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-10-29T09:34:00Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65338",
+   "title": "Sénégal : Babacar Sène nommé Directeur du développement du secteur privé",
+   "summary": "Au Sénégal, de vastes mouvements ont été opérés dans l'administration économique et financière lors du Conseil des mini...",
+   "url": "https://www.sikafinance.com/marches/senegal-babacar-sene-nomme-directeur-du-developpement-du-secteur-prive_65338",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-29T09:31:00Z",
    "symbols": []
   },
   {
@@ -1846,30 +1872,6 @@
    "symbols": [
     "SNTS"
    ]
-  },
-  {
-   "id": "sika-65013",
-   "title": "Côte d’Ivoire : Le Fonds de l’OPEP prévoit jusqu’à 500 millions de dollars de financements sur 2026-2029",
-   "summary": "La Côte d'Ivoire pourrait bénéficier de 500 millions de dollars, soit environ 297 milliards de FCFA, de financeme...",
-   "url": "https://www.sikafinance.com/marches/cote-divoire-le-fonds-de-lopep-prevoit-jusqua-500-millions-de-dollars-de-financements-sur-2026-2029_65013",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-16T17:12:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65012",
-   "title": "BRVM : Le marché perd pied face à 23 valeurs en repli",
-   "summary": "La BRVM a terminé la séance sur une orientation baissière, avec un recul de ses trois principaux indices. Le BRVM Compo...",
-   "url": "https://www.sikafinance.com/marches/brvm-le-marche-perd-pied-face-a-23-valeurs-en-repli_65012",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-16T16:14:00Z",
-   "symbols": []
   }
  ]
 }
