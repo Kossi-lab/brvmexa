@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-10-29T10:27:43.743Z",
+ "updatedAt": "2026-10-29T11:12:16.939Z",
  "items": [
+  {
+   "id": "sika-65340",
+   "title": "Le groupe Ecobank affiche 292 milliards FCFA de bénéfice au 30 septembre 2026",
+   "summary": "Ecobank Transnational Incorporated (ETI) affiche des résultats en progression au terme des neuf premiers mois de 2026. ...",
+   "url": "https://www.sikafinance.com/marches/le-groupe-ecobank-affiche-292-milliards-fcfa-de-benefice-au-30-septembre-2026_65340",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-10-29T10:35:00Z",
+   "symbols": [
+    "ETIT"
+   ]
+  },
   {
    "id": "sika-65339",
    "title": "BRIDGE BANK CI : Le bénéfice bondit de 41 % à 24 milliards FCFA à fin septembre 2026",
@@ -1858,20 +1872,6 @@
    "premium": false,
    "publishedAt": "2026-10-17T12:55:00Z",
    "symbols": []
-  },
-  {
-   "id": "gn-b4sjlr",
-   "title": "Bourse : Sonatel divise la valeur de ses actions, ce qui va changer pour les investisseurs",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPYnVYOW1YLVQ5aUFkT1JuZ3d2a3JSVWtjZTFsdklSYzZSWlFsZVFMRTR0am5aRUxRNGhzX3BmNERfVmVSZTdPUWdVU2szUXBkRjFWdS03Yzdpa0FVWE5UUUJ1SDF6T2xVS1F4VkJSbDEzUXhEd0dWdElKd0dYdGtyYWVfRGxhYlhQcS1IQkpraEk0WXRYMzE0NklxWjlBb0JLQ0tLY3pienpOUkRYNTFCSHpPZy1YNzhIYmp4SHNqRUFZNzNZckl2azNZX0JlZXB2WDVlWllQWlROakRlNnc?oc=5",
-   "image": null,
-   "source": "Seneweb",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-10-17T09:56:01.000Z",
-   "symbols": [
-    "SNTS"
-   ]
   }
  ]
 }
