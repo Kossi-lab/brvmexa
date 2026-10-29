@@ -1,15 +1,15 @@
 {
- "updatedAt": "2026-10-29T14:34:03.755Z",
+ "updatedAt": "2026-10-29T15:33:29.760Z",
  "sessionDate": "2026-10-29",
- "sessionTime": "14:15",
+ "sessionTime": "15:30",
  "source": "brvm.org",
- "transactionsValue": 2165313576,
- "capitalisationActions": 20736985197836,
+ "transactionsValue": 2193500989,
+ "capitalisationActions": 20715480699558,
  "capitalisationBonds": 13438116097921,
  "advancing": 21,
- "declining": 18,
- "unchanged": 9,
- "totalVolume": 786151,
+ "declining": 16,
+ "unchanged": 11,
+ "totalVolume": 1092399,
  "gainers": [
   {
    "symbol": "BNBC",
@@ -30,31 +30,24 @@
    "shortName": "Uniwax CI",
    "close": 2100,
    "change": 5,
-   "volume": 20468
+   "volume": 20498
+  },
+  {
+   "symbol": "ETIT",
+   "shortName": "Ecobank Transnational (ETI)",
+   "close": 64,
+   "change": 4.92,
+   "volume": 676184
   },
   {
    "symbol": "BOAN",
    "shortName": "BOA Niger",
    "close": 5300,
    "change": 4.02,
-   "volume": 8588
-  },
-  {
-   "symbol": "ETIT",
-   "shortName": "Ecobank Transnational (ETI)",
-   "close": 63,
-   "change": 3.28,
-   "volume": 371492
+   "volume": 8598
   }
  ],
  "losers": [
-  {
-   "symbol": "CABC",
-   "shortName": "Sicable CI",
-   "close": 2900,
-   "change": -3.17,
-   "volume": 384
-  },
   {
    "symbol": "SCRC",
    "shortName": "Sucrivoire CI",
@@ -70,18 +63,25 @@
    "volume": 1732
   },
   {
-   "symbol": "ONTBF",
-   "shortName": "Onatel Burkina Faso",
-   "close": 2990,
-   "change": -2.29,
-   "volume": 1291
+   "symbol": "CABC",
+   "shortName": "Sicable CI",
+   "close": 2925,
+   "change": -2.34,
+   "volume": 387
+  },
+  {
+   "symbol": "ORAC",
+   "shortName": "Orange Côte d’Ivoire",
+   "close": 21000,
+   "change": -2.33,
+   "volume": 828
   },
   {
    "symbol": "NSBC",
    "shortName": "NSIA Banque CI",
    "close": 18650,
    "change": -1.84,
-   "volume": 3095
+   "volume": 3098
   }
  ],
  "mostActive": [
@@ -90,7 +90,7 @@
    "shortName": "Sonatel",
    "close": 4150,
    "change": -1.19,
-   "volume": 215079
+   "volume": 215659
   },
   {
    "symbol": "STBC",

@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-10-29T14:34:09.474Z",
+ "updatedAt": "2026-10-29T15:33:37.343Z",
  "items": [
+  {
+   "id": "sika-65351",
+   "title": "Afrique : Quelles banques centrales détiennent les plus importantes réserves d’or ?",
+   "summary": "Coulés en un unique lingot, les stocks d'or de 12 pays et de la Banque centrale des États de l'Afrique de l'Oues...",
+   "url": "https://www.sikafinance.com/marches/afrique-quelles-banques-centrales-detiennent-les-plus-importantes-reserves-dor-_65351",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-10-29T14:46:00Z",
+   "symbols": []
+  },
   {
    "id": "sika-65350",
    "title": "Les Ivoiriens ont misé plus de 900 milliards FCFA dans les jeux et paris sportifs en 2025",
@@ -1862,18 +1874,6 @@
    "symbols": [
     "ABJC"
    ]
-  },
-  {
-   "id": "sika-65027",
-   "title": "Le Sénégal et le Ghana champions de l’innovation en Afrique de l'Ouest",
-   "summary": "La capacité d'innovation constitue désormais un levier essentiel de la compétitivité et de la croissance des économies....",
-   "url": "https://www.sikafinance.com/marches/le-senegal-et-le-ghana-champions-de-linnovation-en-afrique-de-l-ouest_65027",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": true,
-   "publishedAt": "2026-10-19T09:04:00Z",
-   "symbols": []
   }
  ]
 }
