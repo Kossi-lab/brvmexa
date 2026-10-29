@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-10-29T15:33:37.343Z",
+ "updatedAt": "2026-10-29T16:33:37.461Z",
  "items": [
+  {
+   "id": "sika-65352",
+   "title": "BRVM : Bernabé prolonge son ascension dans la foulée de ses bons résultats trimestriels",
+   "summary": "La BRVM termine la séance du jeudi en léger repli, avec une orientation baissière commune à ses trois principaux indice...",
+   "url": "https://www.sikafinance.com/marches/brvm-bernabe-prolonge-son-ascension-dans-la-foulee-de-ses-bons-resultats-trimestriels_65352",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-29T16:15:00Z",
+   "symbols": [
+    "BNBC"
+   ]
+  },
   {
    "id": "sika-65351",
    "title": "Afrique : Quelles banques centrales détiennent les plus importantes réserves d’or ?",
@@ -1859,20 +1873,6 @@
    "symbols": [
     "CBIBF",
     "TTLC"
-   ]
-  },
-  {
-   "id": "sika-65029",
-   "title": "Servair Abidjan : Le bénéfice se stabilise à 1,33 milliard FCFA à fin septembre 2026",
-   "summary": "Après un premier semestre marqué par des tensions sur ses coûts, Servair Abidjan affiche un relatif redressement....",
-   "url": "https://www.sikafinance.com/marches/servair-abidjan-le-benefice-se-stabilise-a-1-33-milliard-fcfa-a-fin-septembre-2026_65029",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": true,
-   "publishedAt": "2026-10-19T09:15:00Z",
-   "symbols": [
-    "ABJC"
    ]
   }
  ]
