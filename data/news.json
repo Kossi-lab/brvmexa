@@ -1,6 +1,46 @@
 {
- "updatedAt": "2026-10-29T11:54:02.145Z",
+ "updatedAt": "2026-10-29T12:38:20.548Z",
  "items": [
+  {
+   "id": "sika-65347",
+   "title": "Uniwax CI : Plus de 990 millions FCFA de bénéfice au T3, vers un retour aux profits en 2026 ?",
+   "summary": "Uniwax Côte d'Ivoire retrouve un résultat net positif à fin septembre 2026, après quatre exercices annuels défici...",
+   "url": "https://www.sikafinance.com/marches/uniwax-ci-plus-de-990-millions-fcfa-de-benefice-au-t3-vers-un-retour-aux-profits-en-2026-_65347",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-10-29T12:29:00Z",
+   "symbols": [
+    "UNXC"
+   ]
+  },
+  {
+   "id": "sika-65345",
+   "title": "Le bénéfice de la Loterie Nationale du Bénin bondit de 72 % grâce à la maîtrise des charges",
+   "summary": "La Loterie Nationale du Bénin affiche des résultats en nette progression au terme des neuf premiers mois de 2026....",
+   "url": "https://www.sikafinance.com/marches/le-benefice-de-la-loterie-nationale-du-benin-bondit-de-72-grace-a-la-maitrise-des-charges_65345",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-10-29T11:57:00Z",
+   "symbols": [
+    "LNBB"
+   ]
+  },
+  {
+   "id": "sika-65344",
+   "title": "Fintech : Daniel DINDJI, le CEO de CinetPay, décroche 3 distinctions au PADEV 2026 à Kigali",
+   "summary": "Daniel DINDJI, fondateur et directeur général de CinetPay, recevant le Sabre d'honneur du PADEV Trois distinctions en d...",
+   "url": "https://www.sikafinance.com/marches/fintech-daniel-dindji-le-ceo-de-cinetpay-decroche-3-distinctions-au-padev-2026-a-kigali_65344",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-29T11:42:00Z",
+   "symbols": []
+  },
   {
    "id": "sika-65343",
    "title": "Datacenters prêts pour l’IA, parc TIC : Le Nigeria lance un complexe numérique de 3 milliards USD",
@@ -1834,44 +1874,6 @@
    "premium": false,
    "publishedAt": "2026-10-19T09:01:00Z",
    "symbols": []
-  },
-  {
-   "id": "sika-65026",
-   "title": "Le Sénégal se dote d’une taxonomie verte",
-   "summary": "Le Sénégal se dote d'une taxonomie verte. Le lancement est prévu ce 19 octobre 2026. Cette orientation est portée par l...",
-   "url": "https://www.sikafinance.com/marches/le-senegal-se-dote-dune-taxonomie-verte_65026",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-19T08:52:00Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-xadya0",
-   "title": "Les actions de la BRVM perdent 559 milliards de CFA alors que le marché recule de 2,61 % lors d'une vague de ventes hebdomadaire",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcHZFeVdVcFZ1R21vQzdnNHcyR3B1eTdsVmgzZWpNazlVQWgzQjUtNkpTdGxkemhGRGZxdXVpcFdqQmFzcFd6TE5id19UYnRGcDlVOFJwOUxnZmZXbDdwWmhONS10N3hGUDZGRV9mNVFCaHRwREhNbUdZTU40RjFIZ0IzaHIxU1hWQWdhX25mQURxUTRhWENmbi1Tall0dE1ySVUydFQ3SG1UZ3hWdjc3THdCZ2FUXzZRaWM1WTdGdEt6ZGx5OXY4Mm44Tnp5VENRd0JkcVUyOTVaY2ZNOFE0?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-10-18T10:46:00.000Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-vx3yvp",
-   "title": "Sonatel engage un fractionnement 1 pour 10 de son action à la BRVM",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQmhQaGVwYlhjbk01NTlJTUgzY0JnMWhZWVpNSGV2UG9hN29DTW90UVdZSUhaYVBMZUQ5SjZMX2wyY1ZrSUZtcWZpRTZtN05xVWY3Yk9vd2tkMUFOeG00UDlHT3Z4eVVoNmdpSmJ4NXdnRG9XVWVTQjJtTFJTTkxISTBZZU9MYWZHYWI5OURsel9nVUE0ZTRESi14eTBpc1Nx?oc=5",
-   "image": null,
-   "source": "Africtelegraph",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-10-18T05:10:21.000Z",
-   "symbols": [
-    "SNTS"
-   ]
   }
  ]
 }
