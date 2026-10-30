@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-10-30T14:35:52.150Z",
+ "updatedAt": "2026-10-30T15:30:38.125Z",
  "items": [
+  {
+   "id": "sika-65378",
+   "title": "CIE : Le résultat net se hisse à 5 milliards FCFA au 1er semestre 2026",
+   "summary": "La Compagnie Ivoirienne d'Électricité (CIE) améliore son résultat net à fin juin 2026, mais moins rapidement que...",
+   "url": "https://www.sikafinance.com/marches/cie-le-resultat-net-se-hisse-a-5-milliards-fcfa-au-1er-semestre-2026_65378",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-10-30T14:23:00Z",
+   "symbols": [
+    "CIEC"
+   ]
+  },
   {
    "id": "sika-65374",
    "title": "Cyberattaque record chez Binance : 6,3 milliards USD dérobés en une heure",
@@ -1861,20 +1875,6 @@
    "premium": false,
    "publishedAt": "2026-10-19T12:05:00Z",
    "symbols": []
-  },
-  {
-   "id": "sika-65048",
-   "title": "Banques : Alassane Kaboré prend la tête de Coris Bank International Côte d’Ivoire",
-   "summary": "Après sept années passées à la direction générale de Coris Bank International Togo, le banquier burkinabè Alassane Kabo...",
-   "url": "https://www.sikafinance.com/marches/banques-alassane-kabore-prend-la-tete-de-coris-bank-international-cote-divoire_65048",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-19T11:50:00Z",
-   "symbols": [
-    "CBIBF"
-   ]
   }
  ]
 }

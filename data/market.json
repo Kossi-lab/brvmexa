@@ -1,15 +1,15 @@
 {
- "updatedAt": "2026-10-30T14:35:48.430Z",
+ "updatedAt": "2026-10-30T15:30:32.858Z",
  "sessionDate": "2026-10-30",
- "sessionTime": "14:30",
+ "sessionTime": "15:15",
  "source": "brvm.org",
- "transactionsValue": 2104408766,
- "capitalisationActions": 20958039743271,
+ "transactionsValue": 2109543101,
+ "capitalisationActions": 20968742899471,
  "capitalisationBonds": 13443390245828,
- "advancing": 23,
- "declining": 17,
- "unchanged": 8,
- "totalVolume": 938176,
+ "advancing": 25,
+ "declining": 16,
+ "unchanged": 7,
+ "totalVolume": 942081,
  "gainers": [
   {
    "symbol": "UNLC",
@@ -23,7 +23,7 @@
    "shortName": "Sonatel",
    "close": 4350,
    "change": 4.82,
-   "volume": 186374
+   "volume": 186500
   },
   {
    "symbol": "SDSC",
@@ -33,28 +33,21 @@
    "volume": 26685
   },
   {
-   "symbol": "ABJC",
-   "shortName": "Servair Abidjan",
-   "close": 3350,
-   "change": 2.13,
-   "volume": 6217
+   "symbol": "SLBC",
+   "shortName": "Solibra CI",
+   "close": 39990,
+   "change": 2.54,
+   "volume": 325
   },
   {
-   "symbol": "STAC",
-   "shortName": "SETAO CI",
-   "close": 1780,
-   "change": 2.01,
-   "volume": 941
+   "symbol": "TTLC",
+   "shortName": "TotalEnergies Marketing CI",
+   "close": 3100,
+   "change": 2.48,
+   "volume": 1339
   }
  ],
  "losers": [
-  {
-   "symbol": "BNBC",
-   "shortName": "Bernabé CI",
-   "close": 1855,
-   "change": -6.55,
-   "volume": 2678
-  },
   {
    "symbol": "BOAC",
    "shortName": "BOA Côte d’Ivoire",
@@ -82,6 +75,13 @@
    "close": 7360,
    "change": -1.87,
    "volume": 4923
+  },
+  {
+   "symbol": "ETIT",
+   "shortName": "Ecobank Transnational (ETI)",
+   "close": 63,
+   "change": -1.56,
+   "volume": 609513
   }
  ],
  "mostActive": [
@@ -90,7 +90,7 @@
    "shortName": "Sonatel",
    "close": 4350,
    "change": 4.82,
-   "volume": 186374
+   "volume": 186500
   },
   {
    "symbol": "SGBC",
