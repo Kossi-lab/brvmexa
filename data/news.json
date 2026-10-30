@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-10-30T16:20:22.073Z",
+ "updatedAt": "2026-10-30T16:48:58.746Z",
  "items": [
+  {
+   "id": "sika-65385",
+   "title": "Ghana : Le russe Rusal prévoit de construire une raffinerie d’alumine et d’exploiter un gisement de bauxite",
+   "summary": "Le groupe russe Rusal, l'un des plus grands producteurs mondiaux d'aluminium, entend renforcer sa présence en Afrique a...",
+   "url": "https://www.sikafinance.com/marches/ghana-le-russe-rusal-prevoit-de-construire-une-raffinerie-dalumine-et-dexploiter-un-gisement-de-bauxite_65385",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-30T16:20:00Z",
+   "symbols": []
+  },
   {
    "id": "sika-65384",
    "title": "Nigeria : Google Play et Google Wallet font leur entrée officielle sur le marché du paiement mobile",
@@ -1864,18 +1876,6 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-10-19T16:24:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65056",
-   "title": "Congo : Des obligations souveraines de 1,55 milliard USD débarquent à la Bourse de Dubaï",
-   "summary": "Selon un communiqué diffusé le 19 octobre 2026 sur la plateforme internationale Newswire, la République du Congo a fait...",
-   "url": "https://www.sikafinance.com/marches/congo-des-obligations-souveraines-de-1-55-milliard-usd-debarquent-a-la-bourse-de-duba%C3%AF_65056",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-19T15:52:00Z",
    "symbols": []
   }
  ]
