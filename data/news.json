@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-10-30T12:38:32.040Z",
+ "updatedAt": "2026-10-30T13:42:15.976Z",
  "items": [
+  {
+   "id": "sika-65374",
+   "title": "Cyberattaque record chez Binance : 6,3 milliards USD dérobés en une heure",
+   "summary": "Dans la soirée du jeudi 29 octobre 2026, Binance, le géant des plateformes d'échange de cryptomonnaies, a été le thé&ac...",
+   "url": "https://www.sikafinance.com/marches/cyberattaque-record-chez-binance-6-3-milliards-usd-derobes-en-une-heure_65374",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-30T13:30:00Z",
+   "symbols": []
+  },
   {
    "id": "sika-65373",
    "title": "Tractafric Motors CI : La croissance de l'activité ne suffit pas à soutenir le bénéfice au 1er semestre 2026",
@@ -1863,18 +1875,6 @@
    "symbols": [
     "CBIBF"
    ]
-  },
-  {
-   "id": "sika-65046",
-   "title": "Afrique : Ces 10 économies qui devraient afficher la plus forte croissance en 2026",
-   "summary": "Alors que la croissance économique de l'Afrique est attendue à 4,6 % en 2026 selon le FMI, certaines économies du conti...",
-   "url": "https://www.sikafinance.com/marches/afrique-ces-10-economies-qui-devraient-afficher-la-plus-forte-croissance-en-2026_65046",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": true,
-   "publishedAt": "2026-10-19T11:43:00Z",
-   "symbols": []
   }
  ]
 }
