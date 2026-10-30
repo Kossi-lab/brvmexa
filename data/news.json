@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-30T11:09:53.046Z",
+ "updatedAt": "2026-10-30T11:51:13.772Z",
  "items": [
   {
    "id": "gn-11410t8",
@@ -564,20 +564,6 @@
    "premium": false,
    "publishedAt": "2026-10-28T01:36:08.000Z",
    "symbols": []
-  },
-  {
-   "id": "gn-1lzzfnd",
-   "title": "Bank of Africa - Benin (BOAB) — BRVM",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE04a2FES05hTmtBQk4tOGt5WTU0M0IzTl9DLUlmaDNPOVFwX0w1QzZwM3V3Nk9pNklRcUxCVWVmaFFkUjRJeXp6Q3JRMlRLNTdmMHlrb2JXVmxWVy1Pei04WHBBclBXZw?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-10-27T21:41:41.000Z",
-   "symbols": [
-    "BOAB"
-   ]
   },
   {
    "id": "sika-65294",
@@ -1874,6 +1860,18 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-10-19T10:56:00Z",
+   "symbols": []
+  },
+  {
+   "id": "gn-xadya0",
+   "title": "Les actions de la BRVM perdent 559 milliards de CFA alors que le marché recule de 2,61 % lors d'une vague de ventes hebdomadaire",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcHZFeVdVcFZ1R21vQzdnNHcyR3B1eTdsVmgzZWpNazlVQWgzQjUtNkpTdGxkemhGRGZxdXVpcFdqQmFzcFd6TE5id19UYnRGcDlVOFJwOUxnZmZXbDdwWmhONS10N3hGUDZGRV9mNVFCaHRwREhNbUdZTU40RjFIZ0IzaHIxU1hWQWdhX25mQURxUTRhWENmbi1Tall0dE1ySVUydFQ3SG1UZ3hWdjc3THdCZ2FUXzZRaWM1WTdGdEt6ZGx5OXY4Mm44Tnp5VENRd0JkcVUyOTVaY2ZNOFE0?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-10-18T10:46:00.000Z",
    "symbols": []
   }
  ]
