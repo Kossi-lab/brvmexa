@@ -1,6 +1,42 @@
 {
- "updatedAt": "2026-10-30T16:48:58.746Z",
+ "updatedAt": "2026-10-30T17:43:52.608Z",
  "items": [
+  {
+   "id": "sika-65388",
+   "title": "France : La police interpelle un ado de 16 ans lié au vol de données du fisc",
+   "summary": "Trois mois après l'incident informatique, la cyberattaque contre le fisc français livre ses secrets. Selon des i...",
+   "url": "https://www.sikafinance.com/marches/france-la-police-interpelle-un-ado-de-16-ans-lie-au-vol-de-donnees-du-fisc_65388",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-30T17:24:00Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65387",
+   "title": "UEMOA : La BOAD et Proparco mobilisent de nouvelles ressources pour financer le secteur privé",
+   "summary": "Le financement des entreprises dans l'Union économique et monétaire ouest-africaine (UEMOA) repose aussi sur la capacit...",
+   "url": "https://www.sikafinance.com/marches/uemoa-la-boad-et-proparco-mobilisent-de-nouvelles-ressources-pour-financer-le-secteur-prive_65387",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-30T17:18:00Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65386",
+   "title": "Lithium : Après le Mali, Kodal Minerals veut renforcer sa présence en Afrique de l’Ouest en misant sur le Ghana",
+   "summary": "Kodal Minerals veut accélérer son développement dans le lithium en Afrique de l'Ouest. Après la mise en production de s...",
+   "url": "https://www.sikafinance.com/marches/lithium-apres-le-mali-kodal-minerals-veut-renforcer-sa-presence-en-afrique-de-louest-en-misant-sur-le-ghana_65386",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-30T16:44:00Z",
+   "symbols": []
+  },
   {
    "id": "sika-65385",
    "title": "Ghana : Le russe Rusal prévoit de construire une raffinerie d’alumine et d’exploiter un gisement de bauxite",
@@ -1840,42 +1876,6 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-10-19T17:30:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65065",
-   "title": "Le Ghana lance un parc industriel de 501 hectares pour accueillir plus de 120 entreprises",
-   "summary": "Le Ghana accélère sa stratégie d'industrialisation. En effet, le président John Dramani Mahama a procédé le 15 octobre ...",
-   "url": "https://www.sikafinance.com/marches/le-ghana-lance-un-parc-industriel-de-501-hectares-pour-accueillir-plus-de-120-entreprises_65065",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-19T17:21:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65063",
-   "title": "Guinée : Vista Group mobilise 13 milliards FCFA auprès de la BADEA pour financer les PME",
-   "summary": "La Banque arabe pour le développement économique en Afrique (BADEA) accorde 20 millions d'euros, soit environ 13,1 mill...",
-   "url": "https://www.sikafinance.com/marches/guinee-vista-group-mobilise-13-milliards-fcfa-aupres-de-la-badea-pour-financer-les-pme_65063",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-19T17:15:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65057",
-   "title": "BRVM : La cote démarre la semaine sous le poids de 27 valeurs en baisse",
-   "summary": "La BRVM entame la nouvelle semaine sur un ton timoré, avec une nette domination des valeurs en baisse : 27 titres recul...",
-   "url": "https://www.sikafinance.com/marches/brvm-la-cote-demarre-la-semaine-sous-le-poids-de-27-valeurs-en-baisse_65057",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-19T16:24:00Z",
    "symbols": []
   }
  ]
