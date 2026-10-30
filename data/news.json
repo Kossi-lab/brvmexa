@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-10-30T18:47:34.623Z",
+ "updatedAt": "2026-10-30T19:47:39.727Z",
  "items": [
+  {
+   "id": "sika-65390",
+   "title": "Blanchiment de capitaux : La Côte d’Ivoire officiellement retirée de la liste grise du GAFI",
+   "summary": "Le Groupe d'action financière (GAFI) a officiellement acté, ce vendredi 30 octobre 2026 à Paris, le retrait de la C&oci...",
+   "url": "https://www.sikafinance.com/marches/blanchiment-de-capitaux-la-cote-divoire-officiellement-retiree-de-la-liste-grise-du-gafi_65390",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-30T19:24:00Z",
+   "symbols": []
+  },
   {
    "id": "sika-65388",
    "title": "France : La police interpelle un ado de 16 ans lié au vol de données du fisc",
@@ -1864,18 +1876,6 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-10-19T17:46:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65061",
-   "title": "Côte d’Ivoire : L’australien Eminence Minerals se positionne sur 5 projets aurifères ‘’prometteurs’’ dans le Nord et l’Ouest",
-   "summary": "La junior minière a conclu trois accords d'option lui permettant d'acquérir progressivement jusqu'à 85 % de cinq projet...",
-   "url": "https://www.sikafinance.com/marches/cote-divoire-laustralien-eminence-minerals-se-positionne-sur-5-projets-auriferes-prometteurs-dans-le-nord-et-louest_65061",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-19T17:30:00Z",
    "symbols": []
   }
  ]
