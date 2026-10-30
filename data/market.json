@@ -1,124 +1,16 @@
 {
- "updatedAt": "2026-10-30T08:54:34.674Z",
- "sessionDate": "2026-10-29",
- "sessionTime": "22:45",
+ "updatedAt": "2026-10-30T09:42:09.306Z",
+ "sessionDate": "2026-10-30",
+ "sessionTime": "09:30",
  "source": "brvm.org",
- "transactionsValue": 2193500989,
+ "transactionsValue": 0,
  "capitalisationActions": 20715480699558,
  "capitalisationBonds": 13438116097921,
- "advancing": 21,
- "declining": 16,
- "unchanged": 11,
- "totalVolume": 1092399,
- "gainers": [
-  {
-   "symbol": "BNBC",
-   "shortName": "Bernabé CI",
-   "close": 1985,
-   "change": 7.3,
-   "volume": 2832
-  },
-  {
-   "symbol": "CIEC",
-   "shortName": "CIE Côte d’Ivoire",
-   "close": 5400,
-   "change": 5.88,
-   "volume": 2216
-  },
-  {
-   "symbol": "UNXC",
-   "shortName": "Uniwax CI",
-   "close": 2100,
-   "change": 5,
-   "volume": 20498
-  },
-  {
-   "symbol": "ETIT",
-   "shortName": "Ecobank Transnational (ETI)",
-   "close": 64,
-   "change": 4.92,
-   "volume": 676184
-  },
-  {
-   "symbol": "BOAN",
-   "shortName": "BOA Niger",
-   "close": 5300,
-   "change": 4.02,
-   "volume": 8598
-  }
- ],
- "losers": [
-  {
-   "symbol": "SCRC",
-   "shortName": "Sucrivoire CI",
-   "close": 2230,
-   "change": -2.62,
-   "volume": 2497
-  },
-  {
-   "symbol": "STAC",
-   "shortName": "SETAO CI",
-   "close": 1745,
-   "change": -2.51,
-   "volume": 1732
-  },
-  {
-   "symbol": "CABC",
-   "shortName": "Sicable CI",
-   "close": 2925,
-   "change": -2.34,
-   "volume": 387
-  },
-  {
-   "symbol": "ORAC",
-   "shortName": "Orange Côte d’Ivoire",
-   "close": 21000,
-   "change": -2.33,
-   "volume": 828
-  },
-  {
-   "symbol": "NSBC",
-   "shortName": "NSIA Banque CI",
-   "close": 18650,
-   "change": -1.84,
-   "volume": 3098
-  }
- ],
- "mostActive": [
-  {
-   "symbol": "SNTS",
-   "shortName": "Sonatel",
-   "close": 4150,
-   "change": -1.19,
-   "volume": 215659
-  },
-  {
-   "symbol": "STBC",
-   "shortName": "SITAB CI",
-   "close": 21300,
-   "change": 0.24,
-   "volume": 6647
-  },
-  {
-   "symbol": "SDSC",
-   "shortName": "Africa Global Logistics CI",
-   "close": 2960,
-   "change": 0,
-   "volume": 40305
-  },
-  {
-   "symbol": "BOAB",
-   "shortName": "BOA Bénin",
-   "close": 9300,
-   "change": -0.85,
-   "volume": 11420
-  },
-  {
-   "symbol": "SIBC",
-   "shortName": "Société Ivoirienne de Banque",
-   "close": 8800,
-   "change": 0,
-   "volume": 11146
-  }
- ]
+ "advancing": 0,
+ "declining": 0,
+ "unchanged": 48,
+ "totalVolume": 0,
+ "gainers": [],
+ "losers": [],
+ "mostActive": []
 }

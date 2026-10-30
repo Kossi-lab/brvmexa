@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-10-30T08:54:42.642Z",
+ "updatedAt": "2026-10-30T09:42:14.832Z",
  "items": [
+  {
+   "id": "gn-11410t8",
+   "title": "Coris Bank Burkina Faso : le bénéfice progresse de 17,8 %, l'action a presque triplé en Bourse",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTDhhQXpTRS1GdUduMXk0T21FSFVQRTNOdzZCOVlBMjM1QmJaNlFkVGFraU45Sll4UllZY000VHdvN25TWVlJR2MtU3NWRTBSWGxoeGp3dXozMWwxVlJFV1hKLW1UejdwLVZpSE5wWmNYOG9xNzZHR2J5UHpyd1YzOHh6UUdsQ2xPU1BvQzJzeWNMNGVfVElsMzhOQnA4RE5tQU9WVzkxak92OURDNEwzdVJRdmg0TWc5VnpYMW1Kb2toQ2VrWnlhd0xvdU05cmJxSy1ESFdoZ2VlaWtweTNZaUpn?oc=5",
+   "image": null,
+   "source": "AGENCE ECOFIN",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-10-30T09:25:00.000Z",
+   "symbols": [
+    "CBIBF"
+   ]
+  },
   {
    "id": "sika-65362",
    "title": "Sénégal : Moody’s abaisse la dette extérieure à ‘’Ca’’ et anticipe jusqu’à 65% de pertes pour les créanciers",
@@ -29,8 +43,8 @@
   },
   {
    "id": "sika-65356",
-   "title": "Nsia banque Côte d’Ivoire mobilise 100 millions d’euros pour renforcer le financement des PME et accélérer la transition énergétique",
-   "summary": "NSIA Banque Côte d'Ivoire franchit une nouvelle étape dans sa stratégie de soutien au développement économi...",
+   "title": "NSIA Banque Côte d’Ivoire mobilise 100 millions d’euros pour renforcer le financement des PME et accélérer la transition énergétique",
+   "summary": "NSIA Banque Côte d'Ivoire franchit une nouvelle étape dans sa stratégie de soutien au développement économique du...",
    "url": "https://www.sikafinance.com/marches/nsia-banque-cote-divoire-mobilise-100-millions-deuros-pour-renforcer-le-financement-des-pme-et-accelerer-la-transition-energetique_65356",
    "image": null,
    "source": "Sika Finance",
@@ -550,20 +564,6 @@
    "premium": false,
    "publishedAt": "2026-10-28T01:36:08.000Z",
    "symbols": []
-  },
-  {
-   "id": "gn-1lzzfnd",
-   "title": "Bank of Africa - Benin (BOAB) — BRVM",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE04a2FES05hTmtBQk4tOGt5WTU0M0IzTl9DLUlmaDNPOVFwX0w1QzZwM3V3Nk9pNklRcUxCVWVmaFFkUjRJeXp6Q3JRMlRLNTdmMHlrb2JXVmxWVy1Pei04WHBBclBXZw?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-10-27T21:41:41.000Z",
-   "symbols": [
-    "BOAB"
-   ]
   },
   {
    "id": "sika-65294",
