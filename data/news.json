@@ -1,6 +1,32 @@
 {
- "updatedAt": "2026-10-29T22:43:19.938Z",
+ "updatedAt": "2026-10-30T08:54:42.642Z",
  "items": [
+  {
+   "id": "sika-65362",
+   "title": "Sénégal : Moody’s abaisse la dette extérieure à ‘’Ca’’ et anticipe jusqu’à 65% de pertes pour les créanciers",
+   "summary": "L'agence a dégradé de deux crans la note des emprunts sénégalais en devises, désormais classés parmi les dettes présent...",
+   "url": "https://www.sikafinance.com/marches/senegal-moodys-abaisse-la-dette-exterieure-a-ca-et-anticipe-jusqua-65-de-pertes-pour-les-creanciers_65362",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-10-30T08:45:00Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65361",
+   "title": "Hausse de 13% à 354 milliards FCFA du résultat net de Sonatel à fin septembre 2026",
+   "summary": "Le groupe Sonatel poursuit sa croissance à fin septembre 2026, avec un résultat net de 354 milliards FCFA, en progressi...",
+   "url": "https://www.sikafinance.com/marches/hausse-de-13-a-354-milliards-fcfa-du-resultat-net-de-sonatel-a-fin-septembre-2026_65361",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-10-30T08:35:00Z",
+   "symbols": [
+    "SNTS"
+   ]
+  },
   {
    "id": "sika-65356",
    "title": "Nsia banque Côte d’Ivoire mobilise 100 millions d’euros pour renforcer le financement des PME et accélérer la transition énergétique",
@@ -1846,30 +1872,6 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-10-19T10:38:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65038",
-   "title": "Immigration intra-africaine : 3 indicateurs économiques confirment l’intérêt d’une intégration renforcée",
-   "summary": "L'immigration entre pays africains est associée à une amélioration du compte courant, à un renforcement des échanges com...",
-   "url": "https://www.sikafinance.com/marches/immigration-intra-africaine-3-indicateurs-economiques-confirment-linteret-dune-integration-renforcee_65038",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-19T10:37:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65039",
-   "title": "Congo : Le FMI pourrait ouvrir la voie à de nouveaux appuis budgétaires internationaux",
-   "summary": "Le Congo cherche à obtenir de nouveaux financements internationaux en renouant avec le Fonds monétaire international (F...",
-   "url": "https://www.sikafinance.com/marches/congo-le-fmi-pourrait-ouvrir-la-voie-a-de-nouveaux-appuis-budgetaires-internationaux_65039",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-19T10:35:00Z",
    "symbols": []
   }
  ]
