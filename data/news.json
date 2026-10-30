@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-10-30T21:40:12.722Z",
+ "updatedAt": "2026-10-30T22:40:56.034Z",
  "items": [
+  {
+   "id": "gn-1lr0nmy",
+   "title": "Onatel Burkina Faso (ONTBF) — BRVM",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tMVRXdFVBdDhJeEhBSUhIMjdZS2RaWXZtX2F3YUNaV0lJczZDRnVPa19OeE41Rm9BcjE2N0ZGc3FONVpfX1VTVzdJRkpMLVR1V0JFNUZtR3Q3czN1dVVaTlZRYTgtdDg?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-10-30T20:20:07.000Z",
+   "symbols": [
+    "ONTBF"
+   ]
+  },
   {
    "id": "sika-65390",
    "title": "Blanchiment de capitaux : La Côte d’Ivoire officiellement retirée de la liste grise du GAFI",
@@ -1337,20 +1351,6 @@
    "premium": false,
    "publishedAt": "2026-10-23T08:02:00Z",
    "symbols": []
-  },
-  {
-   "id": "gn-1lr0nmy",
-   "title": "Onatel Burkina Faso (ONTBF) — BRVM",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tMVRXdFVBdDhJeEhBSUhIMjdZS2RaWXZtX2F3YUNaV0lJczZDRnVPa19OeE41Rm9BcjE2N0ZGc3FONVpfX1VTVzdJRkpMLVR1V0JFNUZtR3Q3czN1dVVaTlZRYTgtdDg?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-10-23T07:00:00.000Z",
-   "symbols": [
-    "ONTBF"
-   ]
   },
   {
    "id": "gn-1xs0wj0",
