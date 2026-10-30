@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-30T09:42:14.832Z",
+ "updatedAt": "2026-10-30T10:28:47.343Z",
  "items": [
   {
    "id": "gn-11410t8",
@@ -564,6 +564,20 @@
    "premium": false,
    "publishedAt": "2026-10-28T01:36:08.000Z",
    "symbols": []
+  },
+  {
+   "id": "gn-1lzzfnd",
+   "title": "Bank of Africa - Benin (BOAB) — BRVM",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE04a2FES05hTmtBQk4tOGt5WTU0M0IzTl9DLUlmaDNPOVFwX0w1QzZwM3V3Nk9pNklRcUxCVWVmaFFkUjRJeXp6Q3JRMlRLNTdmMHlrb2JXVmxWVy1Pei04WHBBclBXZw?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-10-27T21:41:41.000Z",
+   "symbols": [
+    "BOAB"
+   ]
   },
   {
    "id": "sika-65294",
@@ -1860,18 +1874,6 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-10-19T10:56:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65040",
-   "title": "Sénégal : Les prix des produits importés augmentent de 2% en juin 2026",
-   "summary": "Les prix des produits à l'importation se relèvent de 2,7% en août 2026, comparés au mois précédent. Ce rebond rés...",
-   "url": "https://www.sikafinance.com/marches/senegal-les-prix-des-produits-importes-augmentent-de-2-en-juin-2026_65040",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-19T10:38:00Z",
    "symbols": []
   }
  ]
