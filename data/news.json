@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-10-31T12:56:00.425Z",
+ "updatedAt": "2026-10-31T16:44:40.561Z",
  "items": [
+  {
+   "id": "sika-65395",
+   "title": "Petroci fait face à une fuite enflammée au niveau de son installation de gaz de Vridi",
+   "summary": "Ce matin, à 7h25, une fuite enflammée est survenue sur la ligne de retour de la sphère 1 de notre installation de gaz d...",
+   "url": "https://www.sikafinance.com/marches/petroci-fait-face-a-une-fuite-enflammee-au-niveau-de-son-installation-de-gaz-de-vridi_65395",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-10-31T13:54:00Z",
+   "symbols": []
+  },
   {
    "id": "sika-65391",
    "title": "Jean Damascène NIGNAN, DG UAB Vie : ‘’Notre ambition est de passer d’une logique de reconquête à une logique de leadership durable’’",
@@ -1864,18 +1876,6 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-10-20T08:30:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65066",
-   "title": "Air Côte d’Ivoire et Air France s’allient sur la ligne Paris-Abidjan",
-   "summary": "À compter du 25 octobre 2026, les deux compagnies commercialiseront réciproquement leurs vols entre Abidjan et P...",
-   "url": "https://www.sikafinance.com/marches/air-cote-divoire-et-air-france-sallient-sur-la-ligne-paris-abidjan_65066",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-19T17:46:00Z",
    "symbols": []
   }
  ]
