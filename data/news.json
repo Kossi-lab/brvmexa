@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-11-01T04:57:24.347Z",
+ "updatedAt": "2026-11-01T08:54:43.681Z",
  "items": [
+  {
+   "id": "sika-65402",
+   "title": "Avec la Banque africaine de l’énergie, l’Afrique reprend en main le financement de ses ressources pétrogazières",
+   "summary": "Dotée d'un capital autorisé de 5 milliards de dollars, la nouvelle institution doit financer des projets allant d...",
+   "url": "https://www.sikafinance.com/marches/avec-la-banque-africaine-de-lenergie-lafrique-reprend-en-main-le-financement-de-ses-ressources-petrogazieres_65402",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-01T08:26:00Z",
+   "symbols": []
+  },
   {
    "id": "sika-65395",
    "title": "Petroci fait face à une fuite enflammée au niveau de son installation de gaz de Vridi",
@@ -1864,18 +1876,6 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-10-20T08:35:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65073",
-   "title": "Shelter Afrique Development Bank et Vista Group Holding s’allient pour accélérer le financement de logements abordables en Afrique de l’Ouest",
-   "summary": "Bangkok, Thaïlande, le 16 octobre 2026 : Shelter Afrique Development Bank (ShafDB) et Vista Group Holding SA ...",
-   "url": "https://www.sikafinance.com/marches/shelter-afrique-development-bank-et-vista-group-holding-sallient-pour-accelerer-le-financement-de-logements-abordables-en-afrique-de-louest_65073",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-20T08:30:00Z",
    "symbols": []
   }
  ]
