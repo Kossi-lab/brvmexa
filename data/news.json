@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-01T16:45:17.537Z",
+ "updatedAt": "2026-11-01T20:45:04.915Z",
  "items": [
   {
    "id": "gn-1yhz37v",
@@ -10,7 +10,7 @@
    "source": "République Togolaise",
    "category": "Presse",
    "premium": false,
-   "publishedAt": "2026-11-01T13:15:20.000Z",
+   "publishedAt": "2026-11-01T13:16:31.000Z",
    "symbols": []
   },
   {
@@ -263,6 +263,20 @@
    "publishedAt": "2026-10-30T07:00:00.000Z",
    "symbols": [
     "NSBC"
+   ]
+  },
+  {
+   "id": "gn-1bkqz72",
+   "title": "Saph Côte d'Ivoire (SPHC) — BRVM",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1zVWZyMmlqQ1JyNjFwRnlINzU3WEp4VDh1Ykszano4RXU1TzJSa3RTaklKVWN1UTZDNllocVY4d05fcDNXdVN1M0pyWDE1RU9zS2xLSzN0UEtuZVE5RExzR1N5amN3QQ?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-10-30T07:00:00.000Z",
+   "symbols": [
+    "SPHC"
    ]
   },
   {
@@ -1868,18 +1882,6 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-10-20T13:09:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65085",
-   "title": "La Banque mondiale mise sur le capital privé pour sauver 800 millions d’emplois",
-   "summary": "Les chiffres ont la brutalité des évidences. D'ici 15 ans, 1,2 milliard de jeunes frapperont à la porte du marché du tr...",
-   "url": "https://www.sikafinance.com/marches/la-banque-mondiale-mise-sur-le-capital-prive-pour-sauver-800-millions-demplois_65085",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-20T13:00:00Z",
    "symbols": []
   }
  ]
