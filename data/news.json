@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-11-01T12:56:50.189Z",
+ "updatedAt": "2026-11-01T16:45:17.537Z",
  "items": [
+  {
+   "id": "gn-1yhz37v",
+   "title": "Le patron de la BRVM reçoit la plus haute distinction de l’Université Laval",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQWJ4Yi1SQjVPdUdHWklaTmUtZnBsQXQ2SG1KWm50LWdJcndHRy03Z21jTlJ4V3pUdXdXdm83OWdILWdkSGVhbTBPdVpNMU1Jck9RbUhSOFdfa1lqM3hYekxHbmVHSmJobnMwa2p6VDZUM2Z0Y3BySGJBRFhsVk1JQmlXS0E1Ym5kZUhydVlCaUxDRWtDLUY2RjUwQXFYLUh5U2p6TXVld00ycDExQVhQQjBPeDhYZ042MFJnVVd1N0lWTXhqWVNxZm1ldUFFWVdEZjJkNk5R?oc=5",
+   "image": null,
+   "source": "République Togolaise",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-01T13:15:20.000Z",
+   "symbols": []
+  },
   {
    "id": "sika-65402",
    "title": "Avec la Banque africaine de l’énergie, l’Afrique reprend en main le financement de ses ressources pétrogazières",
@@ -1868,18 +1880,6 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-10-20T13:00:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65082",
-   "title": "La Banque mondiale lance sa 1ère stratégie numérique pour stimuler l’emploi dans les pays en développement",
-   "summary": "Le groupe de la Banque mondiale entend faire du numérique un levier de croissance économique et de création d'emplois d...",
-   "url": "https://www.sikafinance.com/marches/la-banque-mondiale-lance-sa-1ere-strategie-numerique-pour-stimuler-lemploi-dans-les-pays-en-developpement_65082",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-20T10:42:00Z",
    "symbols": []
   }
  ]
