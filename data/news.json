@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-01T08:54:43.681Z",
+ "updatedAt": "2026-11-01T12:56:50.189Z",
  "items": [
   {
    "id": "sika-65402",
@@ -36,20 +36,6 @@
    "premium": false,
    "publishedAt": "2026-10-31T07:13:00Z",
    "symbols": []
-  },
-  {
-   "id": "gn-1lr0nmy",
-   "title": "Onatel Burkina Faso (ONTBF) — BRVM",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tMVRXdFVBdDhJeEhBSUhIMjdZS2RaWXZtX2F3YUNaV0lJczZDRnVPa19OeE41Rm9BcjE2N0ZGc3FONVpfX1VTVzdJRkpMLVR1V0JFNUZtR3Q3czN1dVVaTlZRYTgtdDg?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-10-30T20:20:07.000Z",
-   "symbols": [
-    "ONTBF"
-   ]
   },
   {
    "id": "sika-65390",
@@ -251,6 +237,62 @@
    "publishedAt": "2026-10-30T08:35:00Z",
    "symbols": [
     "SNTS"
+   ]
+  },
+  {
+   "id": "gn-c25ulg",
+   "title": "Nsia Banque Côte d'Ivoire (NSBC) — BRVM",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sWnZodnlzMzFOTjBpZDZnTGMwcTlQcndqaF9mbWlNN053QkRMRUlZMGtHUFVaM3Q2RGNQc3RjNzBXdk5VR2Y5OFgta0lidndUdGw5X3hMNUJKaXh1ejhtNkZkUXM1QQ?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-10-30T07:00:00.000Z",
+   "symbols": [
+    "NSBC"
+   ]
+  },
+  {
+   "id": "gn-1lzzfnd",
+   "title": "Bank of Africa - Benin (BOAB) — BRVM",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE04a2FES05hTmtBQk4tOGt5WTU0M0IzTl9DLUlmaDNPOVFwX0w1QzZwM3V3Nk9pNklRcUxCVWVmaFFkUjRJeXp6Q3JRMlRLNTdmMHlrb2JXVmxWVy1Pei04WHBBclBXZw?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-10-30T07:00:00.000Z",
+   "symbols": [
+    "BOAB"
+   ]
+  },
+  {
+   "id": "gn-1gfad7o",
+   "title": "Sogb Côte d'Ivoire (SOGC) — BRVM",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sZUtjYXhXV041LTR6dVZsNkFvNzVIUXFtWlBibk55VUdnOV9OcEVSQzY3N1EzMGlhbEVJRFdBaUdPZ3dXLUpSUWppRXZZT1JTU29NeVJibE5XQU9UMkdLTWMyNEhzdw?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-10-30T07:00:00.000Z",
+   "symbols": [
+    "SOGC"
+   ]
+  },
+  {
+   "id": "gn-1lr0nmy",
+   "title": "Onatel Burkina Faso (ONTBF) — BRVM",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tMVRXdFVBdDhJeEhBSUhIMjdZS2RaWXZtX2F3YUNaV0lJczZDRnVPa19OeE41Rm9BcjE2N0ZGc3FONVpfX1VTVzdJRkpMLVR1V0JFNUZtR3Q3czN1dVVaTlZRYTgtdDg?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-10-30T07:00:00.000Z",
+   "symbols": [
+    "ONTBF"
    ]
   },
   {
@@ -1838,44 +1880,6 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-10-20T10:42:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65078",
-   "title": "Congo : Dès janvier 2027, les opérateurs de transferts d'argent devront utiliser des terminaux électroniques",
-   "summary": "À compter de janvier 2027, les opérateurs de transferts d'argent au Congo devront utiliser des terminaux électro...",
-   "url": "https://www.sikafinance.com/marches/congo-des-janvier-2027-les-operateurs-de-transferts-d-argent-devront-utiliser-des-terminaux-electroniques_65078",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-20T10:05:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65076",
-   "title": "Journées Portes Ouvertes à Daloa : La SIB au plus près des acteurs économiques du Haut-Sassandra",
-   "summary": "Daloa, Côte d'Ivoire – Fidèle à son engagement de proximité, la Société Ivoirienne de Banque (SIB) a lancé ...",
-   "url": "https://www.sikafinance.com/marches/journees-portes-ouvertes-a-daloa-la-sib-au-plus-pres-des-acteurs-economiques-du-haut-sassandra_65076",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-20T08:40:00Z",
-   "symbols": [
-    "SIBC"
-   ]
-  },
-  {
-   "id": "sika-65075",
-   "title": "Sénégal : Ousmane Sonko appelle à un blocage de la loi de finances rectificative",
-   "summary": "Au Sénégal, une confrontation s'annonce entre le gouvernement et l'Assemblée nationale. Une situation qui risque d'affe...",
-   "url": "https://www.sikafinance.com/marches/senegal-ousmane-sonko-appelle-a-un-blocage-de-la-loi-de-finances-rectificative_65075",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-20T08:35:00Z",
    "symbols": []
   }
  ]
