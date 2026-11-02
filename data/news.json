@@ -1,6 +1,56 @@
 {
- "updatedAt": "2026-11-02T15:50:30.714Z",
+ "updatedAt": "2026-11-02T17:03:37.608Z",
  "items": [
+  {
+   "id": "sika-65437",
+   "title": "BRVM : SMB fait sensation au milieu de la vague de publications trimestrielles",
+   "summary": "La BRVM ouvre la semaine sous pression. Ses trois principaux indices accusent un repli marqué : le BRVM-Composite perd ...",
+   "url": "https://www.sikafinance.com/marches/brvm-smb-fait-sensation-au-milieu-de-la-vague-de-publications-trimestrielles_65437",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-02T16:48:00Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65436",
+   "title": "BICICI : Une croissance de 15 % du bénéfice au 3ème trimestre 2026",
+   "summary": "Au terme des neuf premiers mois de 2026, la Banque internationale pour le commerce et l'industrie de Côte d'Ivoir...",
+   "url": "https://www.sikafinance.com/marches/bicici-une-croissance-de-15-du-benefice-au-3eme-trimestre-2026_65436",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-11-02T16:32:00Z",
+   "symbols": [
+    "BICC"
+   ]
+  },
+  {
+   "id": "sika-65435",
+   "title": "Le nouveau numéro du magazine Sika Finance est disponible, avec à la Une Gilles Thierry Beugré, directeur général de l’ANSUT !",
+   "summary": "Pour cette édition du troisième trimestre 2026, Sika Finance met le cap sur la transformation numérique de l'Afrique, a...",
+   "url": "https://www.sikafinance.com/marches/le-nouveau-numero-du-magazine-sika-finance-est-disponible-avec-a-la-une-gilles-thierry-beugre-directeur-general-de-lansut-_65435",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-02T16:21:00Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65433",
+   "title": "RDC : L'accord commercial avec les Émirats arabes unis entre en vigueur et ouvre l’accès de 6 000 produits au marché émirati",
+   "summary": "Depuis le 30 octobre 2026, quelque 6 000 produits d'origine congolaise peuvent accéder au marché des Émirats ara...",
+   "url": "https://www.sikafinance.com/marches/rdc-l-accord-commercial-avec-les-emirats-arabes-unis-entre-en-vigueur-et-ouvre-lacces-de-6-000-produits-au-marche-emirati_65433",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-02T15:50:00Z",
+   "symbols": []
+  },
   {
    "id": "gn-1qr2q8x",
    "title": "BRVM / Semaine 43 : Les résultats rebattent les cartes, le marché rebondit",
@@ -11,6 +61,18 @@
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-11-02T15:49:01.000Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65434",
+   "title": "Bénin : Proparco et IFC mobilisent 28 millions d’euros pour quatre centrales solaires de 62 MWc",
+   "summary": "Le Bénin entend réduire sa dépendance aux centrales thermiques en s'appuyant davantage sur les investissements privés d...",
+   "url": "https://www.sikafinance.com/marches/benin-proparco-et-ifc-mobilisent-28-millions-deuros-pour-quatre-centrales-solaires-de-62-mwc_65434",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-02T15:44:00Z",
    "symbols": []
   },
   {
@@ -144,18 +206,6 @@
    ]
   },
   {
-   "id": "sika-65414",
-   "title": "BRVM : Edoh Kossi Amenounve reçoit la plus haute distinction de carrière de l’Université Laval au Canada",
-   "summary": "Plus de 30 ans après son parcours doctoral en finance, à la Faculté des sciences de l'administration (FSA) de l'Univers...",
-   "url": "https://www.sikafinance.com/marches/brvm-edoh-kossi-amenounve-recoit-la-plus-haute-distinction-de-carriere-de-luniversite-laval-au-canada_65414",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-02T10:08:00Z",
-   "symbols": []
-  },
-  {
    "id": "sika-65413",
    "title": "Côte d’Ivoire : Perseus Mining, Air France, Port autonome d’Abidjan … ces entreprises qui ont réalisé les plus gros bénéfices en 2025",
    "summary": "Dégager des bénéfices à la fin de chaque exercice est un objectif majeur pour toute entreprise. Mais si certaines peine...",
@@ -177,6 +227,18 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-11-02T09:23:00Z",
+   "symbols": []
+  },
+  {
+   "id": "gn-ax1b8j",
+   "title": "BRVM : Edoh Kossi Amenounve reçoit la plus haute distinction de carrière de l’Université Laval au Canada",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZVNlNTE2TXBnTmJXRUhYMGFTWDBhX2FtVGtiLU5pYWFmWVp1QzY5dmw2Zk5Ud1VEYnhXRWZLQWl5ZnB5c19BRjBfMy0wQ2wtaGMtVHI3dEVhMHlQUS1kM3JvTlBPTXhwMXZOT1c3UTVra1hQLXdTM2dYdG55azVnNTlfdHdHTnFmSU4xUEt6aV9pX1laYWJEd3JyRHAwVFF3Wi1Yc0dhcnpPV292OUhuVlF4WENYZksyeExxV0dWeU9TX1ZVT28za3dlZHN6NU8yOVlVTGN1Yl9rUk0?oc=5",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-02T09:08:38.000Z",
    "symbols": []
   },
   {
@@ -1832,68 +1894,6 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-10-21T17:15:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65150",
-   "title": "BRVM : Total Sénégal gagne plus de 7 % dans un marché toujours attentiste",
-   "summary": "La BRVM peine à retrouver son souffle. Pour cette nouvelle séance, la tendance baissière se prolonge, avec une large pr...",
-   "url": "https://www.sikafinance.com/marches/brvm-total-senegal-gagne-plus-de-7-dans-un-marche-toujours-attentiste_65150",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-21T16:36:00Z",
-   "symbols": [
-    "TTLS"
-   ]
-  },
-  {
-   "id": "sika-65148",
-   "title": "Data science, IA, Ingénierie… : Le Benin veut attirer les nouveaux talents dans l’administration publique",
-   "summary": "Le Bénin envisage de revoir les modalités de recrutement dans la fonction publique afin de réduire les dépenses support...",
-   "url": "https://www.sikafinance.com/marches/data-science-ia-ingenierie-le-benin-veut-attirer-les-nouveaux-talents-dans-ladministration-publique_65148",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-21T16:22:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65146",
-   "title": "RDC : Le Chinois SFQ Global décroche un contrat de 41,4 millions USD pour une centrale solaire",
-   "summary": "Le groupe chinois SFQ Global, coté à la Bourse de Hong Kong, a obtenu un contrat de 41,4 millions USD pour la co...",
-   "url": "https://www.sikafinance.com/marches/rdc-le-chinois-sfq-global-decroche-un-contrat-de-41-4-millions-usd-pour-une-centrale-solaire_65146",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-21T15:59:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65143",
-   "title": "Bénin : Romuald Wadagni veut réduire le coût des concours publics",
-   "summary": "Le Bénin envisage de revoir les modalités de recrutement dans la fonction publique afin de réduire les dépenses support...",
-   "url": "https://www.sikafinance.com/marches/benin-romuald-wadagni-veut-reduire-le-cout-des-concours-publics_65143",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-21T15:38:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65140",
-   "title": "Dabali Xpress ouvre un 6è restaurant dans la grande commune de Yopougon, à Abidjan",
-   "summary": "La chaîne ivoirienne de restauration rapide Dabali Xpress ouvrira, le 5 novembre 2026, une nouvelle adresse à Abi...",
-   "url": "https://www.sikafinance.com/marches/dabali-xpress-ouvre-un-6e-restaurant-dans-la-grande-commune-de-yopougon-a-abidjan_65140",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-21T14:30:00Z",
    "symbols": []
   }
  ]
