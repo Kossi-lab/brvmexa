@@ -1,124 +1,124 @@
 {
- "updatedAt": "2026-11-02T13:51:29.194Z",
+ "updatedAt": "2026-11-02T14:51:44.897Z",
  "sessionDate": "2026-11-02",
- "sessionTime": "13:45",
+ "sessionTime": "14:45",
  "source": "brvm.org",
- "transactionsValue": 2007362857,
- "capitalisationActions": 20744225470887,
+ "transactionsValue": 2580774149,
+ "capitalisationActions": 20599713126537,
  "capitalisationBonds": 13437670674828,
  "advancing": 13,
- "declining": 28,
- "unchanged": 7,
- "totalVolume": 2980604,
+ "declining": 30,
+ "unchanged": 5,
+ "totalVolume": 3124897,
  "gainers": [
   {
    "symbol": "SMBC",
    "shortName": "SMB CI",
    "close": 15695,
    "change": 7.5,
-   "volume": 2330
-  },
-  {
-   "symbol": "SHEC",
-   "shortName": "Vivo Energy CI",
-   "close": 2240,
-   "change": 5.91,
-   "volume": 1589
-  },
-  {
-   "symbol": "ORGT",
-   "shortName": "Oragroup Togo",
-   "close": 2800,
-   "change": 3.51,
-   "volume": 784
+   "volume": 2336
   },
   {
    "symbol": "SOGC",
    "shortName": "SOGB CI",
-   "close": 7880,
-   "change": 2.94,
-   "volume": 534
+   "close": 7775,
+   "change": 1.57,
+   "volume": 584
+  },
+  {
+   "symbol": "SDSC",
+   "shortName": "Africa Global Logistics CI",
+   "close": 3080,
+   "change": 1.15,
+   "volume": 21378
   },
   {
    "symbol": "PRSC",
    "shortName": "Tractafric Motors CI",
    "close": 3750,
    "change": 1.08,
-   "volume": 345
+   "volume": 1001
+  },
+  {
+   "symbol": "NTLC",
+   "shortName": "Nestlé CI",
+   "close": 13495,
+   "change": 0.71,
+   "volume": 652
   }
  ],
  "losers": [
-  {
-   "symbol": "NEIC",
-   "shortName": "NEI-CEDA CI",
-   "close": 2120,
-   "change": -7.42,
-   "volume": 1117
-  },
   {
    "symbol": "CABC",
    "shortName": "Sicable CI",
    "close": 2705,
    "change": -7.36,
-   "volume": 2455
+   "volume": 2589
   },
   {
-   "symbol": "CIEC",
-   "shortName": "CIE Côte d’Ivoire",
-   "close": 5105,
-   "change": -7.18,
-   "volume": 3844
+   "symbol": "SPHC",
+   "shortName": "SAPH CI",
+   "close": 7700,
+   "change": -7.23,
+   "volume": 7473
   },
   {
    "symbol": "CFAC",
    "shortName": "CFAO Motors CI",
-   "close": 1305,
-   "change": -6.79,
-   "volume": 6461
+   "close": 1300,
+   "change": -7.14,
+   "volume": 6787
+  },
+  {
+   "symbol": "NEIC",
+   "shortName": "NEI-CEDA CI",
+   "close": 2145,
+   "change": -6.33,
+   "volume": 3464
   },
   {
    "symbol": "STBC",
    "shortName": "SITAB CI",
-   "close": 20170,
-   "change": -6.19,
-   "volume": 3110
+   "close": 20175,
+   "change": -6.16,
+   "volume": 3323
   }
  ],
  "mostActive": [
   {
    "symbol": "SNTS",
    "shortName": "Sonatel",
-   "close": 4290,
-   "change": -1.38,
-   "volume": 141383
+   "close": 4150,
+   "change": -4.6,
+   "volume": 174837
   },
   {
    "symbol": "BBGC",
    "shortName": "Bridge Bank Group CI",
-   "close": 9780,
-   "change": -0.71,
-   "volume": 22520
+   "close": 9785,
+   "change": -0.66,
+   "volume": 23175
+  },
+  {
+   "symbol": "BOAB",
+   "shortName": "BOA Bénin",
+   "close": 9100,
+   "change": -2.83,
+   "volume": 24889
   },
   {
    "symbol": "ETIT",
    "shortName": "Ecobank Transnational (ETI)",
    "close": 61,
    "change": -3.17,
-   "volume": 2675916
+   "volume": 2721265
   },
   {
    "symbol": "NSBC",
    "shortName": "NSIA Banque CI",
    "close": 17995,
    "change": -3.51,
-   "volume": 7467
-  },
-  {
-   "symbol": "SGBC",
-   "shortName": "Société Générale CI",
-   "close": 38940,
-   "change": -0.71,
-   "volume": 2897
+   "volume": 8201
   }
  ]
 }
