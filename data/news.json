@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-02T17:03:37.608Z",
+ "updatedAt": "2026-11-02T17:57:45.612Z",
  "items": [
+  {
+   "id": "sika-65441",
+   "title": "NEI-CEDA CI : Baisse de 94% du résultat net à fin septembre 2026",
+   "summary": "NEI-CEDA CI retrouve un résultat net positif à fin septembre 2026, après un premier semestre déficitaire marqué p...",
+   "url": "https://www.sikafinance.com/marches/nei-ceda-ci-baisse-de-94-du-resultat-net-a-fin-septembre-2026_65441",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-11-02T17:19:00Z",
+   "symbols": [
+    "NEIC"
+   ]
+  },
   {
    "id": "sika-65437",
    "title": "BRVM : SMB fait sensation au milieu de la vague de publications trimestrielles",
@@ -1882,18 +1896,6 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-10-21T17:29:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65152",
-   "title": "AFG Holding récompensé pour la conduite du changement",
-   "summary": "AFG Holding a reçu le Trophée ESSEC Business School de la Transformation, une distinction qui met en lumière le ...",
-   "url": "https://www.sikafinance.com/marches/afg-holding-recompense-pour-la-conduite-du-changement_65152",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-21T17:15:00Z",
    "symbols": []
   }
  ]
