@@ -1,6 +1,32 @@
 {
- "updatedAt": "2026-11-02T11:44:33.831Z",
+ "updatedAt": "2026-11-02T12:38:34.043Z",
  "items": [
+  {
+   "id": "sika-65420",
+   "title": "NSIA Banque CI réalise un bénéfice de 18 milliards FCFA à fin septembre 2026 sur fond d'une gestion de bilan volontariste",
+   "summary": "Le neuvième mois de l'exercice 2026 marque un coup d'arrêt pour NSIA Banque Côte d'Ivoire. L'établissement, qui a...",
+   "url": "https://www.sikafinance.com/marches/nsia-banque-ci-realise-un-benefice-de-18-milliards-fcfa-a-fin-septembre-2026-sur-fond-d-une-gestion-de-bilan-volontariste_65420",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-02T11:58:00Z",
+   "symbols": [
+    "NSBC"
+   ]
+  },
+  {
+   "id": "sika-65419",
+   "title": "Côte d’Ivoire : Forvis Mazars et Sciences Po lancent une certification pour renforcer les compétences des administrateurs",
+   "summary": "Siéger dans un conseil d'administration ne suffit pas à garantir une bonne gouvernance. Encore faut-il maîtriser ...",
+   "url": "https://www.sikafinance.com/marches/cote-divoire-forvis-mazars-et-sciences-po-lancent-une-certification-pour-renforcer-les-competences-des-administrateurs_65419",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-02T11:55:00Z",
+   "symbols": []
+  },
   {
    "id": "sika-65418",
    "title": "Côte d’Ivoire : L’École d’agriculture numérique inaugurée à l’INP-HB, 50 talents composent la première promotion Agritech",
@@ -1864,30 +1890,6 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-10-21T11:26:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65124",
-   "title": "Sénégal : Les menaces de blocage budgétaire d’Ousmane Sonko font chuter les obligations",
-   "summary": "Au Sénégal, l'incertitude politique se paie déjà sur les marchés financiers. Les déclarations d'Ousmane Sonko, qui mena...",
-   "url": "https://www.sikafinance.com/marches/senegal-les-menaces-de-blocage-budgetaire-dousmane-sonko-font-chuter-les-obligations_65124",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-21T11:19:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65123",
-   "title": "Côte d’Ivoire : 50 millions d’euros pour le projet solaire de Kong",
-   "summary": "Le projet de centrale photovoltaïque de Kong, dans le Nord de la Côte d'Ivoire, passe le cap d'une nouvelle ...",
-   "url": "https://www.sikafinance.com/marches/cote-divoire-50-millions-deuros-pour-le-projet-solaire-de-kong_65123",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-21T11:11:00Z",
    "symbols": []
   }
  ]
