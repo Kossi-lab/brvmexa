@@ -1,6 +1,30 @@
 {
- "updatedAt": "2026-11-02T09:03:02.906Z",
+ "updatedAt": "2026-11-02T09:52:51.875Z",
  "items": [
+  {
+   "id": "sika-65410",
+   "title": "BRVM / Semaine 43 : Les résultats rebattent les cartes, le marché rebondit",
+   "summary": "La BRVM retrouve de l'élan au terme de la semaine du 26 octobre. L'indice BRVM-Composite avance de 1,05 % à 534,71 poin...",
+   "url": "https://www.sikafinance.com/marches/brvm-semaine-43-les-resultats-rebattent-les-cartes-le-marche-rebondit_65410",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-11-02T09:26:00Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65411",
+   "title": "Sénégal : Le gouvernement craint des arriérés et des manquements dans l’approvisionnement des centrales",
+   "summary": "Au Sénégal, le projet de loi de finances rectificative (PLFR) 2026 est rejeté pour la deuxième fois en commission de l'...",
+   "url": "https://www.sikafinance.com/marches/senegal-le-gouvernement-craint-des-arrieres-et-des-manquements-dans-lapprovisionnement-des-centrales_65411",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-02T09:23:00Z",
+   "symbols": []
+  },
   {
    "id": "sika-65407",
    "title": "SIKA COMMODITIES WEEKLY 43 : Le Brent au plus haut en six mois, le sucre encaisse le choc Lula",
@@ -1860,30 +1884,6 @@
    "category": "Marchés",
    "premium": true,
    "publishedAt": "2026-10-20T17:12:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65094",
-   "title": "BRVM : Les investisseurs engagent plus de 5 milliards FCFA dans un marché en repli",
-   "summary": "La BRVM poursuit son mouvement de baisse lors de cette deuxième séance de la semaine. Les trois principaux indices term...",
-   "url": "https://www.sikafinance.com/marches/brvm-les-investisseurs-engagent-plus-de-5-milliards-fcfa-dans-un-marche-en-repli_65094",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-20T16:25:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65090",
-   "title": "Startups africaines : Où se dirigent les milliards investis ?",
-   "summary": "Les dynamiques sectorielles et géographiques se sont profondément réorganisées et ont fortement impacté l'ensemble du c...",
-   "url": "https://www.sikafinance.com/marches/startups-africaines-ou-se-dirigent-les-milliards-investis-_65090",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-20T13:49:00Z",
    "symbols": []
   }
  ]
