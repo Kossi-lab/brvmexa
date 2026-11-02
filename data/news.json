@@ -1,6 +1,30 @@
 {
- "updatedAt": "2026-11-02T09:52:51.875Z",
+ "updatedAt": "2026-11-02T10:50:25.616Z",
  "items": [
+  {
+   "id": "sika-65414",
+   "title": "BRVM : Edoh Kossi Amenounve reçoit la plus haute distinction de carrière de l’Université Laval au Canada",
+   "summary": "Plus de 30 ans après son parcours doctoral en finance, à la Faculté des sciences de l'administration (FSA) de l'Univers...",
+   "url": "https://www.sikafinance.com/marches/brvm-edoh-kossi-amenounve-recoit-la-plus-haute-distinction-de-carriere-de-luniversite-laval-au-canada_65414",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-02T10:08:00Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65413",
+   "title": "Côte d’Ivoire : Perseus Mining, Air France, Port autonome d’Abidjan … ces entreprises qui ont réalisé les plus gros bénéfices en 2025",
+   "summary": "Dégager des bénéfices à la fin de chaque exercice est un objectif majeur pour toute entreprise. Mais si certaines peine...",
+   "url": "https://www.sikafinance.com/marches/cote-divoire-perseus-mining-air-france-port-autonome-dabidjan-ces-entreprises-qui-ont-realise-les-plus-gros-benefices-en-2025_65413",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-11-02T09:45:00Z",
+   "symbols": []
+  },
   {
    "id": "sika-65410",
    "title": "BRVM / Semaine 43 : Les résultats rebattent les cartes, le marché rebondit",
@@ -341,6 +365,20 @@
    "publishedAt": "2026-10-30T07:00:00.000Z",
    "symbols": [
     "BOAB"
+   ]
+  },
+  {
+   "id": "gn-vyoglt",
+   "title": "CIE Côte d'Ivoire (CIEC) — BRVM",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE52QmFSNGNGUXZlQUlaOGFWckF0UkVKMzZZbkdCQjZJM0REang4LWFsRzkwal81VGt6bUR2OWlDcy1ZdlpZQS00R0ZQMDFVemlEdWFiZmh3bnh1SjdYMnpYQmdMaXE1QQ?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-10-30T07:00:00.000Z",
+   "symbols": [
+    "CIEC"
    ]
   },
   {
@@ -1848,42 +1886,6 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-10-21T09:27:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65110",
-   "title": "Sénégal : Un quatrième trimestre de défis économiques et sociaux",
-   "summary": "Le quatrième trimestre 2026 s'avère assez chargé au Sénégal. Dans un contexte de difficultés économiques, le Gouverneme...",
-   "url": "https://www.sikafinance.com/marches/senegal-un-quatrieme-trimestre-de-defis-economiques-et-sociaux_65110",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-21T09:03:00Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-1i44ytm",
-   "title": "La quotidienne des marchés boursiers africains….",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQ1RlQk1qYXc5WVA0Z1NuTzY1VzdIejFMTngwTXRCWDlqamF1Ti1mOXBac29RQXNwcHA1TlFIRWNudlZDaHl3T28tRlIwX1NBSGJxckxmNFA4NEMyeWVSX1FIdTNlMWZHTWxEajd5M0xucGNIeC1QT1N0azlLbnlESU1VZm1zU2hfMXFJNU9nYUkwak0?oc=5",
-   "image": null,
-   "source": "Financial Afrik",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-10-20T18:21:03.000Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65099",
-   "title": "Burkina Faso : Les investissements dans les services publics affichent une efficacité de seulement 37%",
-   "summary": "Ouagadougou veut bâtir ses routes, ses centrales et ses retenues d'eau sans creuser sa dette. Le pari tient en tr...",
-   "url": "https://www.sikafinance.com/marches/burkina-faso-les-investissements-dans-les-services-publics-affichent-une-efficacite-de-seulement-37_65099",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": true,
-   "publishedAt": "2026-10-20T17:12:00Z",
    "symbols": []
   }
  ]
