@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-02T12:38:34.043Z",
+ "updatedAt": "2026-11-02T13:51:35.877Z",
  "items": [
+  {
+   "id": "sika-65422",
+   "title": "SMB CI : Hausse de 57% du résultat net au 30 septembre 2026",
+   "summary": "La Société Multinationale de Bitumes (SMB CI) voit son résultat net nettement progresser à fin septembre 2026, ap...",
+   "url": "https://www.sikafinance.com/marches/smb-ci-hausse-de-57-du-resultat-net-au-30-septembre-2026_65422",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-11-02T13:04:00Z",
+   "symbols": [
+    "SMBC"
+   ]
+  },
   {
    "id": "sika-65420",
    "title": "NSIA Banque CI réalise un bénéfice de 18 milliards FCFA à fin septembre 2026 sur fond d'une gestion de bilan volontariste",
@@ -1878,18 +1892,6 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-10-21T12:23:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65126",
-   "title": "Côte d’Ivoire : AG CONSULTING veut accroître la compétitivité des entreprises via son offre en Intelligence Économique",
-   "summary": "Le dynamisme de l'environnement économique commande aux dirigeants de se donner les moyens pour capter la bonne informa...",
-   "url": "https://www.sikafinance.com/marches/cote-divoire-ag-consulting-veut-accroitre-la-competitivite-des-entreprises-via-son-offre-en-intelligence-economique_65126",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-21T11:26:00Z",
    "symbols": []
   }
  ]
