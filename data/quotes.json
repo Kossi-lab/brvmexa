@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-11-02T14:51:44.897Z",
+ "updatedAt": "2026-11-02T15:50:25.626Z",
  "sessionDate": "2026-11-02",
- "sessionTime": "14:45",
+ "sessionTime": "15:45",
  "source": "brvm.org",
  "items": [
   {
@@ -142,7 +142,7 @@
   {
    "symbol": "BOAN",
    "name": "BANK OF AFRICA NIGER",
-   "volume": 14406,
+   "volume": 14456,
    "prevClose": 5250,
    "refPrice": 5195,
    "open": 5150,
@@ -157,7 +157,7 @@
   {
    "symbol": "BOAS",
    "name": "BANK OF AFRICA SENEGAL",
-   "volume": 3994,
+   "volume": 4084,
    "prevClose": 8260,
    "refPrice": 8260,
    "open": 8205,
@@ -187,7 +187,7 @@
   {
    "symbol": "CBIBF",
    "name": "CORIS BANK INTERNATIONAL BURKINA FASO",
-   "volume": 429,
+   "volume": 529,
    "prevClose": 31900,
    "refPrice": 31900,
    "open": 31610,
@@ -217,7 +217,7 @@
   {
    "symbol": "CIEC",
    "name": "CIE COTE D'IVOIRE",
-   "volume": 3984,
+   "volume": 4084,
    "prevClose": 5500,
    "refPrice": 5200,
    "open": 5500,
@@ -247,7 +247,7 @@
   {
    "symbol": "ETIT",
    "name": "Ecobank Transnational Incorporated TOGO",
-   "volume": 2721265,
+   "volume": 2724265,
    "prevClose": 63,
    "refPrice": 61,
    "open": 59,
@@ -517,7 +517,7 @@
   {
    "symbol": "SIBC",
    "name": "SOCIETE IVOIRIENNE DE BANQUE COTE D'IVOIRE",
-   "volume": 2705,
+   "volume": 2707,
    "prevClose": 8805,
    "refPrice": 8800,
    "open": 8700,

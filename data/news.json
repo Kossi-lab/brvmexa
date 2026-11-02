@@ -1,6 +1,56 @@
 {
- "updatedAt": "2026-11-02T14:51:51.020Z",
+ "updatedAt": "2026-11-02T15:50:30.714Z",
  "items": [
+  {
+   "id": "gn-1qr2q8x",
+   "title": "BRVM / Semaine 43 : Les résultats rebattent les cartes, le marché rebondit",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNzhOcTZOUE00SUZCZ2hXNzlFdHZDYW5aTkhQdVlQWm1ZMXQ5V1ZoNnpiWWs1bGpydHQ0cktyd1pRWVpKN1F6U0hQSzhuZVFDMnM1TkJSU2k0YUkwVm4yTF9CX1JvNkNPQ05TVzB0VDJxcV9DdGJPUVkwdXZwOU1IOXlGdFM0ZHN5VmdJVWdNR1NjbVNMcVpmQ1RUZjYwalhoMkV6TVp1VlZFYmFSX2poaA?oc=5",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-02T15:49:01.000Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65430",
+   "title": "Côte d’Ivoire : Orange mise sur la formation des talents locaux pour accélérer la souveraineté numérique",
+   "summary": "Le développement des compétences numériques s'impose comme un enjeu stratégique pour la Côte d'Ivoire, dans un co...",
+   "url": "https://www.sikafinance.com/marches/cote-divoire-orange-mise-sur-la-formation-des-talents-locaux-pour-accelerer-la-souverainete-numerique_65430",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-02T15:39:00Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65429",
+   "title": "Mediterrania Capital Partners investit dans AFG Assurances, pôle assurance d’Atlantic Group, pour accompagner son expansion en Afrique francophone",
+   "summary": "Cet investissement accompagnera le plan de développement d'AFG Assurances, qui vise à doubler son réseau pour le porter...",
+   "url": "https://www.sikafinance.com/marches/mediterrania-capital-partners-investit-dans-afg-assurances-pole-assurance-datlantic-group-pour-accompagner-son-expansion-en-afrique-francophone_65429",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-02T15:31:00Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65426",
+   "title": "Journées de l'expérience client en Afrique francophone : NSIA Banque Côte d'Ivoire partage sa vision",
+   "summary": "NSIA Banque Côte d'Ivoire a pris part à la 8ᵉ édition des Journées de l'Expérience Client en Afrique Francophone ...",
+   "url": "https://www.sikafinance.com/marches/journees-de-l-experience-client-en-afrique-francophone-nsia-banque-cote-d-ivoire-partage-sa-vision_65426",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-02T15:15:00Z",
+   "symbols": [
+    "NSBC"
+   ]
+  },
   {
    "id": "sika-65422",
    "title": "SMB CI : Hausse de 57% du résultat net au 30 septembre 2026",
@@ -115,18 +165,6 @@
    "category": "Marchés",
    "premium": true,
    "publishedAt": "2026-11-02T09:45:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65410",
-   "title": "BRVM / Semaine 43 : Les résultats rebattent les cartes, le marché rebondit",
-   "summary": "La BRVM retrouve de l'élan au terme de la semaine du 26 octobre. L'indice BRVM-Composite avance de 1,05 % à 534,71 poin...",
-   "url": "https://www.sikafinance.com/marches/brvm-semaine-43-les-resultats-rebattent-les-cartes-le-marche-rebondit_65410",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": true,
-   "publishedAt": "2026-11-02T09:26:00Z",
    "symbols": []
   },
   {
@@ -1856,42 +1894,6 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-10-21T14:30:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65141",
-   "title": "Interopérabilité des identités numériques nationales : Bénin, Ghana et Rwanda réussissent le test pilote",
-   "summary": "C'est une étape importante dans la mise en œuvre d'un marché numérique unique africain. Annoncée le 20 octobre 20...",
-   "url": "https://www.sikafinance.com/marches/interoperabilite-des-identites-numeriques-nationales-benin-ghana-et-rwanda-reussissent-le-test-pilote_65141",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-21T14:19:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65138",
-   "title": "Corridor Ghana - Nigeria : Le PAPSS intègre le mobile money aux paiements transfrontaliers pour contourner le dollar",
-   "summary": "La Banque du Ghana étend le Système panafricain de paiement et de règlement (PAPSS) aux portefeuilles mobiles le long d...",
-   "url": "https://www.sikafinance.com/marches/corridor-ghana--nigeria-le-papss-integre-le-mobile-money-aux-paiements-transfrontaliers-pour-contourner-le-dollar_65138",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-21T13:36:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65133",
-   "title": "Côte d’Ivoire : Canal+ inaugure les studios Mancala, un complexe audiovisuel aux standards internationaux",
-   "summary": "Faire émerger des productions capables de séduire les téléspectateurs au-delà des frontières suppose aussi de disposer ...",
-   "url": "https://www.sikafinance.com/marches/cote-divoire-canal-inaugure-les-studios-mancala-un-complexe-audiovisuel-aux-standards-internationaux_65133",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-21T12:23:00Z",
    "symbols": []
   }
  ]
