@@ -1,6 +1,32 @@
 {
- "updatedAt": "2026-11-01T20:45:04.915Z",
+ "updatedAt": "2026-11-02T09:03:02.906Z",
  "items": [
+  {
+   "id": "sika-65407",
+   "title": "SIKA COMMODITIES WEEKLY 43 : Le Brent au plus haut en six mois, le sucre encaisse le choc Lula",
+   "summary": "La semaine 43 oppose deux chocs de nature très différente, l'un géopolitique et progressif, l'autre politique et instan...",
+   "url": "https://www.sikafinance.com/marches/sika-commodities-weekly-43-le-brent-au-plus-haut-en-six-mois-le-sucre-encaisse-le-choc-lula_65407",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-02T08:33:00Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65406",
+   "title": "SODECI : Des fragilités persistantes qui interrogent, malgré un bénéfice en hausse de 12% fin septembre 2026",
+   "summary": "Le concessionnaire ivoirien de l'eau potable a dégagé un résultat net de 2,13 milliards FCFA sur les neuf premiers mois...",
+   "url": "https://www.sikafinance.com/marches/sodeci-des-fragilites-persistantes-qui-interrogent-malgre-un-benefice-en-hausse-de-12-fin-septembre-2026_65406",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-02T08:25:00Z",
+   "symbols": [
+    "SDCC"
+   ]
+  },
   {
    "id": "gn-1yhz37v",
    "title": "Le patron de la BRVM reçoit la plus haute distinction de l’Université Laval",
@@ -1858,30 +1884,6 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-10-20T13:49:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65088",
-   "title": "Mobile money : Pourquoi le cash reste roi pour les gros paiements en Afrique",
-   "summary": "L'Afrique subsaharienne, qui abrite environ la moitié des comptes mobile money enregistrés dans le monde (plus de 396 m...",
-   "url": "https://www.sikafinance.com/marches/mobile-money-pourquoi-le-cash-reste-roi-pour-les-gros-paiements-en-afrique_65088",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": true,
-   "publishedAt": "2026-10-20T13:20:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65087",
-   "title": "Congo : 1 671 milliards FCFA remboursés sur 1 780 milliards FCFA de service de la dette prévu entre janvier et juillet 2026",
-   "summary": "Entre janvier et juillet 2026, la République du Congo a consacré 1 670,7 milliards FCFA au remboursement du principal d...",
-   "url": "https://www.sikafinance.com/marches/congo-1-671-milliards-fcfa-rembourses-sur-1-780-milliards-fcfa-de-service-de-la-dette-prevu-entre-janvier-et-juillet-2026_65087",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-20T13:09:00Z",
    "symbols": []
   }
  ]
