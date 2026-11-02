@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-11-02T10:50:25.616Z",
+ "updatedAt": "2026-11-02T11:44:33.831Z",
  "items": [
+  {
+   "id": "sika-65418",
+   "title": "Côte d’Ivoire : L’École d’agriculture numérique inaugurée à l’INP-HB, 50 talents composent la première promotion Agritech",
+   "summary": "L'Institut national polytechnique Félix Houphouët-Boigny (INP-HB) et l'Université Mohammed VI Polytechnique (UM6P)...",
+   "url": "https://www.sikafinance.com/marches/cote-divoire-lecole-dagriculture-numerique-inauguree-a-linp-hb-50-talents-composent-la-premiere-promotion-agritech_65418",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-02T11:32:00Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65417",
+   "title": "Connectivité en Afrique : La 24e réunion du Fratel explore les grands défis de l'investissement public et de la régulation",
+   "summary": "L'aménagement numérique des territoires reste un défi majeur pour les pays africains. Un accès équitable aux services n...",
+   "url": "https://www.sikafinance.com/marches/connectivite-en-afrique-la-24e-reunion-du-fratel-explore-les-grands-defis-de-l-investissement-public-et-de-la-regulation_65417",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-02T11:04:00Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65416",
+   "title": "Société Générale CI réalise un résultat net de 80 milliards FCFA à fin septembre 2026",
+   "summary": "Au terme des neuf premiers mois de 2026, Société Générale Côte d'Ivoire affiche des performances contrastées. La ...",
+   "url": "https://www.sikafinance.com/marches/societe-generale-ci-realise-un-resultat-net-de-80-milliards-fcfa-a-fin-septembre-2026_65416",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-02T10:54:00Z",
+   "symbols": [
+    "SGBC"
+   ]
+  },
   {
    "id": "sika-65414",
    "title": "BRVM : Edoh Kossi Amenounve reçoit la plus haute distinction de carrière de l’Université Laval au Canada",
@@ -1850,42 +1888,6 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-10-21T11:11:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65113",
-   "title": "Technologies financières : La BCEAO lance un laboratoire d’innovation pour expérimenter des services sécurisés",
-   "summary": "La Banque centrale des États de l'Afrique de l'Ouest (BCEAO) a lancé un appel à candidatures ouvert jusqu'au 30 ...",
-   "url": "https://www.sikafinance.com/marches/technologies-financieres-la-bceao-lance-un-laboratoire-dinnovation-pour-experimenter-des-services-securises_65113",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-21T09:44:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65112",
-   "title": "Déchets électroniques : La BAD engage 60 millions USD pour promouvoir l'économie circulaire",
-   "summary": "La Banque africaine de développement (BAD) s'associe à plusieurs organisations internationales pour lancer le programme...",
-   "url": "https://www.sikafinance.com/marches/dechets-electroniques-la-bad-engage-60-millions-usd-pour-promouvoir-l-economie-circulaire_65112",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-21T09:32:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65111",
-   "title": "La Côte d’Ivoire veut produire ses premiers litres de carburant vert d’aviation, distillés à partir du manioc d’ici 2029",
-   "summary": "Et si le prochain avion à quitter Abidjan roulait en partie à l'éthanol de manioc ? L'idée, qui aurait fait sourir...",
-   "url": "https://www.sikafinance.com/marches/la-cote-divoire-veut-produire-ses-premiers-litres-de-carburant-vert-daviation-distilles-a-partir-du-manioc-dici-2029_65111",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-21T09:27:00Z",
    "symbols": []
   }
  ]
