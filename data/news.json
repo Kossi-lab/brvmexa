@@ -1,6 +1,32 @@
 {
- "updatedAt": "2026-11-03T09:49:23.760Z",
+ "updatedAt": "2026-11-03T10:48:14.948Z",
  "items": [
+  {
+   "id": "sika-65453",
+   "title": "SITAB : Le bond des ventes au troisième trimestre 2026 ne profite pas au bénéfice",
+   "summary": "La Société ivoirienne des tabacs (SITAB) aborde la seconde moitié de l'exercice 2026 dans un environnement marqué...",
+   "url": "https://www.sikafinance.com/marches/sitab-le-bond-des-ventes-au-troisieme-trimestre-2026-ne-profite-pas-au-benefice_65453",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-11-03T10:23:00Z",
+   "symbols": [
+    "STBC"
+   ]
+  },
+  {
+   "id": "sika-65452",
+   "title": "Bénin : L'obtention du casier judiciaire devient instantanée depuis un téléphone",
+   "summary": "Le ministère de la Justice et de la Législation du Bénin a officiellement lancé, le 1er novembre 2026, la délivrance en...",
+   "url": "https://www.sikafinance.com/marches/benin-l-obtention-du-casier-judiciaire-devient-instantanee-depuis-un-telephone_65452",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-03T10:12:00Z",
+   "symbols": []
+  },
   {
    "id": "sika-65448",
    "title": "SOGB CI : La baisse du résultat net contenue à 34 % à fin septembre 2026",
@@ -1874,30 +1900,6 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-10-22T11:20:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65172",
-   "title": "Bénin : L’énergie, les PME et le port de Cotonou au cœur du dialogue avec l’UE",
-   "summary": "L'extension du réseau électrique, la modernisation du Port autonome de Cotonou et l'accès des petites et moyennes entre...",
-   "url": "https://www.sikafinance.com/marches/benin-lenergie-les-pme-et-le-port-de-cotonou-au-c%C5%93ur-du-dialogue-avec-lue_65172",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-22T10:36:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65164",
-   "title": "UEMOA : Le mobile money explose, plus de 200 000 milliards FCFA de transactions en 2025 selon la BCEAO",
-   "summary": "Le mobile money confirme son rôle de moteur incontournable de l'inclusion financière avec un volume de transactio...",
-   "url": "https://www.sikafinance.com/marches/uemoa-le-mobile-money-explose-plus-de-200-000-milliards-fcfa-de-transactions-en-2025-selon-la-bceao_65164",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-22T09:11:00Z",
    "symbols": []
   }
  ]

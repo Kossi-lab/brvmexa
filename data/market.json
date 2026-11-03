@@ -1,16 +1,124 @@
 {
- "updatedAt": "2026-11-03T09:49:19.601Z",
+ "updatedAt": "2026-11-03T10:48:08.423Z",
  "sessionDate": "2026-11-03",
- "sessionTime": "09:45",
+ "sessionTime": "10:45",
  "source": "brvm.org",
- "transactionsValue": 0,
- "capitalisationActions": 20599713126537,
- "capitalisationBonds": 13437670674828,
- "advancing": 0,
- "declining": 0,
- "unchanged": 48,
- "totalVolume": 0,
- "gainers": [],
- "losers": [],
- "mostActive": []
+ "transactionsValue": 437686021,
+ "capitalisationActions": 20648009063780,
+ "capitalisationBonds": 13433720474828,
+ "advancing": 14,
+ "declining": 21,
+ "unchanged": 13,
+ "totalVolume": 321733,
+ "gainers": [
+  {
+   "symbol": "SMBC",
+   "shortName": "SMB CI",
+   "close": 16860,
+   "change": 7.42,
+   "volume": 589
+  },
+  {
+   "symbol": "SAFC",
+   "shortName": "SAFCA CI",
+   "close": 3940,
+   "change": 6.49,
+   "volume": 10316
+  },
+  {
+   "symbol": "SPHC",
+   "shortName": "SAPH CI",
+   "close": 8095,
+   "change": 5.13,
+   "volume": 60
+  },
+  {
+   "symbol": "BOAB",
+   "shortName": "BOA Bénin",
+   "close": 9370,
+   "change": 2.97,
+   "volume": 800
+  },
+  {
+   "symbol": "SDCC",
+   "shortName": "SODECI",
+   "close": 12500,
+   "change": 1.63,
+   "volume": 54
+  }
+ ],
+ "losers": [
+  {
+   "symbol": "SCRC",
+   "shortName": "Sucrivoire CI",
+   "close": 2035,
+   "change": -7.5,
+   "volume": 2392
+  },
+  {
+   "symbol": "CABC",
+   "shortName": "Sicable CI",
+   "close": 2505,
+   "change": -7.39,
+   "volume": 1025
+  },
+  {
+   "symbol": "FTSC",
+   "shortName": "Filtisac CI",
+   "close": 1595,
+   "change": -7.27,
+   "volume": 3984
+  },
+  {
+   "symbol": "NEIC",
+   "shortName": "NEI-CEDA CI",
+   "close": 2000,
+   "change": -6.76,
+   "volume": 740
+  },
+  {
+   "symbol": "SIVC",
+   "shortName": "Erium CI",
+   "close": 1605,
+   "change": -5.59,
+   "volume": 139
+  }
+ ],
+ "mostActive": [
+  {
+   "symbol": "SNTS",
+   "shortName": "Sonatel",
+   "close": 4200,
+   "change": 1.2,
+   "volume": 33708
+  },
+  {
+   "symbol": "SAFC",
+   "shortName": "SAFCA CI",
+   "close": 3940,
+   "change": 6.49,
+   "volume": 10316
+  },
+  {
+   "symbol": "STBC",
+   "shortName": "SITAB CI",
+   "close": 20175,
+   "change": 0,
+   "volume": 1953
+  },
+  {
+   "symbol": "BOAC",
+   "shortName": "BOA Côte d’Ivoire",
+   "close": 11700,
+   "change": 0,
+   "volume": 3086
+  },
+  {
+   "symbol": "SGBC",
+   "shortName": "Société Générale CI",
+   "close": 38900,
+   "change": 1.03,
+   "volume": 503
+  }
+ ]
 }
