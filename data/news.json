@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-11-03T12:34:55.723Z",
+ "updatedAt": "2026-11-03T13:51:42.693Z",
  "items": [
+  {
+   "id": "sika-65460",
+   "title": "Sénégal : L’Assemblée nationale rejette le projet de loi de finances rectificative 2026",
+   "summary": "Au Sénégal, l'Assemblée nationale a rejeté le projet de loi de finances rectificative 2026, ce mardi 3 novembre 2026. C...",
+   "url": "https://www.sikafinance.com/marches/senegal-lassemblee-nationale-rejette-le-projet-de-loi-de-finances-rectificative-2026_65460",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-03T12:30:00Z",
+   "symbols": []
+  },
   {
    "id": "sika-65459",
    "title": "SUCRIVOIRE ponctionne plus de 8 milliards FCFA sur une activité en forte croissance",
@@ -1882,18 +1894,6 @@
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-10-18T07:00:00.000Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-jorz0q",
-   "title": "BRVM : Ces mauvais élèves qui font tâche dans le paysage boursier",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeG1oTHNrRUpBeVloYnpjaTU3d1c1S3VZbEZHZHBEVGoxM21DMEF2aVhUVDJJcEhaQ3p5MXl2Z0V5TVQ3YlZJVnpTUkJFa1NLWE5pVnIyTTZmNHZwQ1ZRUmJFMm9zTXNvSWptTE5odXBobUx6MVpuYVFyelB0TWVxeWxqb05majBSUXNJSEVYTGR3b2tIaTFjZnBJc1JDME5HbWtxZXhBZHo?oc=5",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-10-13T14:57:41.000Z",
    "symbols": []
   }
  ]
