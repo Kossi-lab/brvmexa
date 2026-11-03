@@ -1,15 +1,15 @@
 {
- "updatedAt": "2026-11-03T14:48:12.612Z",
+ "updatedAt": "2026-11-03T15:40:28.569Z",
  "sessionDate": "2026-11-03",
- "sessionTime": "14:45",
+ "sessionTime": "15:30",
  "source": "brvm.org",
- "transactionsValue": 1467138253,
+ "transactionsValue": 1467233538,
  "capitalisationActions": 20760721305645,
  "capitalisationBonds": 13434480474828,
  "advancing": 21,
  "declining": 20,
  "unchanged": 7,
- "totalVolume": 1221955,
+ "totalVolume": 1222013,
  "gainers": [
   {
    "symbol": "SMBC",
@@ -67,7 +67,7 @@
    "shortName": "Filtisac CI",
    "close": 1595,
    "change": -7.27,
-   "volume": 5799
+   "volume": 5802
   },
   {
    "symbol": "UNXC",
@@ -81,7 +81,7 @@
    "shortName": "NSIA Banque CI",
    "close": 17500,
    "change": -2.75,
-   "volume": 2946
+   "volume": 2951
   }
  ],
  "mostActive": [
