@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-03T11:42:56.172Z",
+ "updatedAt": "2026-11-03T12:34:55.723Z",
  "items": [
+  {
+   "id": "sika-65459",
+   "title": "SUCRIVOIRE ponctionne plus de 8 milliards FCFA sur une activité en forte croissance",
+   "summary": "SUCRIVOIRE produit davantage et améliore nettement sa performance opérationnelle au premier semestre 2026, mais reste d...",
+   "url": "https://www.sikafinance.com/marches/sucrivoire-ponctionne-plus-de-8-milliards-fcfa-sur-une-activite-en-forte-croissance_65459",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-11-03T11:20:00Z",
+   "symbols": [
+    "SCRC"
+   ]
+  },
   {
    "id": "sika-65458",
    "title": "JOJ de Dakar : Une première historique pour l’Afrique",
@@ -1881,20 +1895,6 @@
    "premium": false,
    "publishedAt": "2026-10-13T14:57:41.000Z",
    "symbols": []
-  },
-  {
-   "id": "gn-9emhru",
-   "title": "Le cours de BRVM reste stable tandis que Bridge Bank poursuit sa remontée après son introduction en bourse",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPN09QcHlDOG82U3FZVl9JOVFycGtpanlhMUFIS25XS083QmtFNjlGemh6ckE3eDVnTENDX1dKNUFLM3lrR2x0NVZGRWduUXRsWGpwRHJLMlRvdWZEUHFUYl9Ea1FEdVhZZ1IyYW81bUNKejgxRlBYU0YxdHdfNm01MFIwUXkwQ2ZjeDc3QVhDNkltcEdJU1lSOGdqOXlXSHN6ZVNHODExZFpqTEdCNEdpZllHcG1aTllJWkN6NFFTaHV3emx0X0JB?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-10-11T10:33:00.000Z",
-   "symbols": [
-    "BBGC"
-   ]
   }
  ]
 }

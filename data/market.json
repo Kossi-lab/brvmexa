@@ -1,50 +1,50 @@
 {
- "updatedAt": "2026-11-03T11:42:51.962Z",
+ "updatedAt": "2026-11-03T12:34:51.982Z",
  "sessionDate": "2026-11-03",
- "sessionTime": "11:30",
+ "sessionTime": "12:30",
  "source": "brvm.org",
- "transactionsValue": 710927371,
- "capitalisationActions": 20661009113920,
+ "transactionsValue": 931609763,
+ "capitalisationActions": 20632390604673,
  "capitalisationBonds": 13433720474828,
- "advancing": 14,
+ "advancing": 16,
  "declining": 26,
- "unchanged": 8,
- "totalVolume": 450657,
+ "unchanged": 6,
+ "totalVolume": 844041,
  "gainers": [
   {
    "symbol": "SMBC",
    "shortName": "SMB CI",
-   "close": 16865,
-   "change": 7.45,
-   "volume": 860
+   "close": 16870,
+   "change": 7.49,
+   "volume": 871
   },
   {
    "symbol": "SAFC",
    "shortName": "SAFCA CI",
-   "close": 3975,
-   "change": 7.43,
-   "volume": 11597
+   "close": 3955,
+   "change": 6.89,
+   "volume": 15642
   },
   {
    "symbol": "STAC",
    "shortName": "SETAO CI",
-   "close": 1890,
-   "change": 6.78,
-   "volume": 3158
+   "close": 1880,
+   "change": 6.21,
+   "volume": 3508
   },
   {
    "symbol": "SPHC",
    "shortName": "SAPH CI",
-   "close": 7995,
-   "change": 3.83,
-   "volume": 257
+   "close": 7990,
+   "change": 3.77,
+   "volume": 293
   },
   {
-   "symbol": "SNTS",
-   "shortName": "Sonatel",
-   "close": 4240,
-   "change": 2.17,
-   "volume": 65815
+   "symbol": "STBC",
+   "shortName": "SITAB CI",
+   "close": 20760,
+   "change": 2.9,
+   "volume": 2299
   }
  ],
  "losers": [
@@ -53,72 +53,72 @@
    "shortName": "Sucrivoire CI",
    "close": 2035,
    "change": -7.5,
-   "volume": 2476
+   "volume": 3670
+  },
+  {
+   "symbol": "SDSC",
+   "shortName": "Africa Global Logistics CI",
+   "close": 2850,
+   "change": -7.47,
+   "volume": 9071
   },
   {
    "symbol": "CABC",
    "shortName": "Sicable CI",
    "close": 2505,
    "change": -7.39,
-   "volume": 1246
+   "volume": 1409
   },
   {
    "symbol": "FTSC",
    "shortName": "Filtisac CI",
    "close": 1595,
    "change": -7.27,
-   "volume": 4483
+   "volume": 5271
   },
   {
-   "symbol": "SIVC",
-   "shortName": "Erium CI",
-   "close": 1605,
-   "change": -5.59,
-   "volume": 142
-  },
-  {
-   "symbol": "LNBB",
-   "shortName": "Loterie Nationale du Bénin",
-   "close": 3765,
-   "change": -4.32,
-   "volume": 634
+   "symbol": "NEIC",
+   "shortName": "NEI-CEDA CI",
+   "close": 2040,
+   "change": -4.9,
+   "volume": 1347
   }
  ],
  "mostActive": [
   {
    "symbol": "SNTS",
    "shortName": "Sonatel",
-   "close": 4240,
-   "change": 2.17,
-   "volume": 65815
-  },
-  {
-   "symbol": "BOAC",
-   "shortName": "BOA Côte d’Ivoire",
-   "close": 11745,
-   "change": 0.38,
-   "volume": 3945
+   "close": 4230,
+   "change": 1.93,
+   "volume": 88199
   },
   {
    "symbol": "SAFC",
    "shortName": "SAFCA CI",
-   "close": 3975,
-   "change": 7.43,
-   "volume": 11597
+   "close": 3955,
+   "change": 6.89,
+   "volume": 15642
   },
   {
-   "symbol": "SGBC",
-   "shortName": "Société Générale CI",
-   "close": 38850,
-   "change": 0.9,
-   "volume": 1154
+   "symbol": "BOAC",
+   "shortName": "BOA Côte d’Ivoire",
+   "close": 11740,
+   "change": 0.34,
+   "volume": 4149
   },
   {
    "symbol": "STBC",
    "shortName": "SITAB CI",
-   "close": 20175,
-   "change": 0,
-   "volume": 2174
+   "close": 20760,
+   "change": 2.9,
+   "volume": 2299
+  },
+  {
+   "symbol": "SGBC",
+   "shortName": "Société Générale CI",
+   "close": 38900,
+   "change": 1.03,
+   "volume": 1188
   }
  ]
 }
