@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-11-03T10:48:14.948Z",
+ "updatedAt": "2026-11-03T11:42:56.172Z",
  "items": [
+  {
+   "id": "sika-65458",
+   "title": "JOJ de Dakar : Une première historique pour l’Afrique",
+   "summary": "En faisant confiance aux entreprises du continent pour les différentes prestataires, le Comité d'organisation des Jeux ...",
+   "url": "https://www.sikafinance.com/marches/joj-de-dakar-une-premiere-historique-pour-lafrique_65458",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-03T11:08:00Z",
+   "symbols": []
+  },
   {
    "id": "sika-65453",
    "title": "SITAB : Le bond des ventes au troisième trimestre 2026 ne profite pas au bénéfice",
@@ -17,9 +29,9 @@
   },
   {
    "id": "sika-65452",
-   "title": "Bénin : L'obtention du casier judiciaire devient instantanée depuis un téléphone",
+   "title": "Bénin : L'obtention du casier judiciaire devient instantanée depuis un téléphone portable",
    "summary": "Le ministère de la Justice et de la Législation du Bénin a officiellement lancé, le 1er novembre 2026, la délivrance en...",
-   "url": "https://www.sikafinance.com/marches/benin-l-obtention-du-casier-judiciaire-devient-instantanee-depuis-un-telephone_65452",
+   "url": "https://www.sikafinance.com/marches/benin-l-obtention-du-casier-judiciaire-devient-instantanee-depuis-un-telephone-portable_65452",
    "image": null,
    "source": "Sika Finance",
    "category": "Marchés",
@@ -598,48 +610,6 @@
    ]
   },
   {
-   "id": "gn-c25ulg",
-   "title": "Nsia Banque Côte d'Ivoire (NSBC) — BRVM",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sWnZodnlzMzFOTjBpZDZnTGMwcTlQcndqaF9mbWlNN053QkRMRUlZMGtHUFVaM3Q2RGNQc3RjNzBXdk5VR2Y5OFgta0lidndUdGw5X3hMNUJKaXh1ejhtNkZkUXM1QQ?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-10-30T07:00:00.000Z",
-   "symbols": [
-    "NSBC"
-   ]
-  },
-  {
-   "id": "gn-1bkqz72",
-   "title": "Saph Côte d'Ivoire (SPHC) — BRVM",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1zVWZyMmlqQ1JyNjFwRnlINzU3WEp4VDh1Ykszano4RXU1TzJSa3RTaklKVWN1UTZDNllocVY4d05fcDNXdVN1M0pyWDE1RU9zS2xLSzN0UEtuZVE5RExzR1N5amN3QQ?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-10-30T07:00:00.000Z",
-   "symbols": [
-    "SPHC"
-   ]
-  },
-  {
-   "id": "gn-1lzzfnd",
-   "title": "Bank of Africa - Benin (BOAB) — BRVM",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE04a2FES05hTmtBQk4tOGt5WTU0M0IzTl9DLUlmaDNPOVFwX0w1QzZwM3V3Nk9pNklRcUxCVWVmaFFkUjRJeXp6Q3JRMlRLNTdmMHlrb2JXVmxWVy1Pei04WHBBclBXZw?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-10-30T07:00:00.000Z",
-   "symbols": [
-    "BOAB"
-   ]
-  },
-  {
    "id": "gn-vyoglt",
    "title": "CIE Côte d'Ivoire (CIEC) — BRVM",
    "summary": null,
@@ -651,20 +621,6 @@
    "publishedAt": "2026-10-30T07:00:00.000Z",
    "symbols": [
     "CIEC"
-   ]
-  },
-  {
-   "id": "gn-1gfad7o",
-   "title": "Sogb Côte d'Ivoire (SOGC) — BRVM",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sZUtjYXhXV041LTR6dVZsNkFvNzVIUXFtWlBibk55VUdnOV9OcEVSQzY3N1EzMGlhbEVJRFdBaUdPZ3dXLUpSUWppRXZZT1JTU29NeVJibE5XQU9UMkdLTWMyNEhzdw?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-10-30T07:00:00.000Z",
-   "symbols": [
-    "SOGC"
    ]
   },
   {
@@ -1901,6 +1857,44 @@
    "premium": false,
    "publishedAt": "2026-10-22T11:20:00Z",
    "symbols": []
+  },
+  {
+   "id": "gn-xadya0",
+   "title": "Les actions de la BRVM perdent 559 milliards de CFA alors que le marché recule de 2,61 % lors d'une vague de ventes hebdomadaire",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcHZFeVdVcFZ1R21vQzdnNHcyR3B1eTdsVmgzZWpNazlVQWgzQjUtNkpTdGxkemhGRGZxdXVpcFdqQmFzcFd6TE5id19UYnRGcDlVOFJwOUxnZmZXbDdwWmhONS10N3hGUDZGRV9mNVFCaHRwREhNbUdZTU40RjFIZ0IzaHIxU1hWQWdhX25mQURxUTRhWENmbi1Tall0dE1ySVUydFQ3SG1UZ3hWdjc3THdCZ2FUXzZRaWM1WTdGdEt6ZGx5OXY4Mm44Tnp5VENRd0JkcVUyOTVaY2ZNOFE0?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-10-18T07:00:00.000Z",
+   "symbols": []
+  },
+  {
+   "id": "gn-jorz0q",
+   "title": "BRVM : Ces mauvais élèves qui font tâche dans le paysage boursier",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeG1oTHNrRUpBeVloYnpjaTU3d1c1S3VZbEZHZHBEVGoxM21DMEF2aVhUVDJJcEhaQ3p5MXl2Z0V5TVQ3YlZJVnpTUkJFa1NLWE5pVnIyTTZmNHZwQ1ZRUmJFMm9zTXNvSWptTE5odXBobUx6MVpuYVFyelB0TWVxeWxqb05majBSUXNJSEVYTGR3b2tIaTFjZnBJc1JDME5HbWtxZXhBZHo?oc=5",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-10-13T14:57:41.000Z",
+   "symbols": []
+  },
+  {
+   "id": "gn-9emhru",
+   "title": "Le cours de BRVM reste stable tandis que Bridge Bank poursuit sa remontée après son introduction en bourse",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPN09QcHlDOG82U3FZVl9JOVFycGtpanlhMUFIS25XS083QmtFNjlGemh6ckE3eDVnTENDX1dKNUFLM3lrR2x0NVZGRWduUXRsWGpwRHJLMlRvdWZEUHFUYl9Ea1FEdVhZZ1IyYW81bUNKejgxRlBYU0YxdHdfNm01MFIwUXkwQ2ZjeDc3QVhDNkltcEdJU1lSOGdqOXlXSHN6ZVNHODExZFpqTEdCNEdpZllHcG1aTllJWkN6NFFTaHV3emx0X0JB?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-10-11T10:33:00.000Z",
+   "symbols": [
+    "BBGC"
+   ]
   }
  ]
 }
