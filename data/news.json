@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-03T08:56:47.859Z",
+ "updatedAt": "2026-11-03T09:49:23.760Z",
  "items": [
+  {
+   "id": "sika-65448",
+   "title": "SOGB CI : La baisse du résultat net contenue à 34 % à fin septembre 2026",
+   "summary": "Après un premier semestre marqué par le ralentissement de l'activité hévéicole et des conditions de marché moins favora...",
+   "url": "https://www.sikafinance.com/marches/sogb-ci-la-baisse-du-resultat-net-contenue-a-34-a-fin-septembre-2026_65448",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-11-03T09:04:00Z",
+   "symbols": [
+    "SOGC"
+   ]
+  },
   {
    "id": "sika-65445",
    "title": "ALIOS FINANCE CI : Un bénéfice multiplié par 4 à 1,2 milliard FCFA au 3ème trimestre 2026",
@@ -1884,18 +1898,6 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-10-22T09:11:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65165",
-   "title": "Sénégal : L’activité économique s’est accrue de 2,3 % en juillet 2026",
-   "summary": "L'activité économique interne du Sénégal a progressé de 2,3 % en juillet 2026 par rapport au mois précédent, portée not...",
-   "url": "https://www.sikafinance.com/marches/senegal-lactivite-economique-sest-accrue-de-2-3-en-juillet-2026_65165",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-22T09:08:00Z",
    "symbols": []
   }
  ]
