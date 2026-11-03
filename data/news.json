@@ -1,6 +1,32 @@
 {
- "updatedAt": "2026-11-02T22:42:50.077Z",
+ "updatedAt": "2026-11-03T08:56:47.859Z",
  "items": [
+  {
+   "id": "sika-65445",
+   "title": "ALIOS FINANCE CI : Un bénéfice multiplié par 4 à 1,2 milliard FCFA au 3ème trimestre 2026",
+   "summary": "Le troisième trimestre 2026 marque une étape particulièrement remarquable dans le développement de la Société africaine...",
+   "url": "https://www.sikafinance.com/marches/alios-finance-ci-un-benefice-multiplie-par-4-a-1-2-milliard-fcfa-au-3eme-trimestre-2026_65445",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-03T08:30:00Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65442",
+   "title": "Coris Bank International BF : Le bénéfice progresse de 18% à 62 milliards FCFA à fin septembre 2026",
+   "summary": "Coris Bank International Burkina Faso poursuit sa trajectoire de croissance à fin septembre 2026. La banque consolide s...",
+   "url": "https://www.sikafinance.com/marches/coris-bank-international-bf-le-benefice-progresse-de-18-a-62-milliards-fcfa-a-fin-septembre-2026_65442",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-03T07:22:00Z",
+   "symbols": [
+    "CBIBF"
+   ]
+  },
   {
    "id": "sika-65441",
    "title": "NEI-CEDA CI : Baisse de 94% du résultat net à fin septembre 2026",
@@ -1870,32 +1896,6 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-10-22T09:08:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65162",
-   "title": "Le résultat net de BOA Sénégal progresse de 11% à fin septembre 2026",
-   "summary": "Dans un environnement bancaire où la croissance des revenus et la maîtrise des risques demeurent des enjeu...",
-   "url": "https://www.sikafinance.com/marches/le-resultat-net-de-boa-senegal-progresse-de-11-a-fin-septembre-2026_65162",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": true,
-   "publishedAt": "2026-10-22T09:03:00Z",
-   "symbols": [
-    "BOAS"
-   ]
-  },
-  {
-   "id": "sika-65153",
-   "title": "Budgets 2027 : Le Burkina Faso et le Bénin plafonnent leur déficit sous 3% du PIB",
-   "summary": "Deux États, deux partitions, un même métronome. À Ouagadougou comme à Cotonou, les gouvernements ont calé...",
-   "url": "https://www.sikafinance.com/marches/budgets-2027-le-burkina-faso-et-le-benin-plafonnent-leur-deficit-sous-3-du-pib_65153",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-21T17:29:00Z",
    "symbols": []
   }
  ]
