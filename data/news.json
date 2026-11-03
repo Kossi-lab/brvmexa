@@ -1,6 +1,70 @@
 {
- "updatedAt": "2026-11-03T16:56:46.536Z",
+ "updatedAt": "2026-11-03T17:51:32.621Z",
  "items": [
+  {
+   "id": "sika-65473",
+   "title": "Face à la chute historique de l’aide au développement, l’UEMOA mise sur des financements innovants",
+   "summary": "La contraction des financements extérieurs concessionnels accentue la pression sur les économies de l'Union économique ...",
+   "url": "https://www.sikafinance.com/marches/face-a-la-chute-historique-de-laide-au-developpement-luemoa-mise-sur-des-financements-innovants_65473",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-03T17:14:00Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65471",
+   "title": "BOA Côte d’Ivoire : Après les provisions, les revenus prennent le relais au troisième trimestre 2026",
+   "summary": "Au terme des neuf premiers mois de 2026, la filiale du groupe marocain affiche un résultat net de 29,66 milliards de FC...",
+   "url": "https://www.sikafinance.com/marches/boa-cote-divoire-apres-les-provisions-les-revenus-prennent-le-relais-au-troisieme-trimestre-2026_65471",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-11-03T17:12:00Z",
+   "symbols": [
+    "BOAC"
+   ]
+  },
+  {
+   "id": "sika-65472",
+   "title": "JONPCI 2026 : NSIA Banque CI réaffirme son engagement aux côtés des professionnels de santé",
+   "summary": "À l'occasion des Journées de l'Ordre National des Pharmaciens de Côte d'Ivoire (JNOPCI) 2026, organisées l...",
+   "url": "https://www.sikafinance.com/marches/jonpci-2026-nsia-banque-ci-reaffirme-son-engagement-aux-cotes-des-professionnels-de-sante_65472",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-03T17:03:00Z",
+   "symbols": [
+    "NSBC"
+   ]
+  },
+  {
+   "id": "sika-65470",
+   "title": "BRVM : SMB garde le vent en poupe et signe un nouveau bond de 7,49 %",
+   "summary": "La BRVM termine la séance sur une note positive. Ses trois principaux indices progressent, avec un BRVM-Composite en ha...",
+   "url": "https://www.sikafinance.com/marches/brvm-smb-garde-le-vent-en-poupe-et-signe-un-nouveau-bond-de-7-49-_65470",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-03T17:03:00Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65469",
+   "title": "Congo-Cameroun : bois, ciment et produits alimentaires au cœur de 2,8 milliards FCFA d’échanges informels",
+   "summary": "Le bois, le ciment et les produits alimentaires figurent parmi les principales marchandises exportées de manière inform...",
+   "url": "https://www.sikafinance.com/marches/congo-cameroun-bois-ciment-et-produits-alimentaires-au-c%C5%93ur-de-2-8-milliards-fcfa-dechanges-informels_65469",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-03T16:46:00Z",
+   "symbols": []
+  },
   {
    "id": "sika-65466",
    "title": "AFIS 2026 : À Luanda, la finance africaine face au défi de canaliser 4 000 milliards USD d’épargne vers 400 milliards de besoins annuels",
@@ -662,20 +726,6 @@
    ]
   },
   {
-   "id": "gn-1lzzfnd",
-   "title": "Bank of Africa - Benin (BOAB) — BRVM",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE04a2FES05hTmtBQk4tOGt5WTU0M0IzTl9DLUlmaDNPOVFwX0w1QzZwM3V3Nk9pNklRcUxCVWVmaFFkUjRJeXp6Q3JRMlRLNTdmMHlrb2JXVmxWVy1Pei04WHBBclBXZw?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-10-30T07:00:00.000Z",
-   "symbols": [
-    "BOAB"
-   ]
-  },
-  {
    "id": "gn-vyoglt",
    "title": "CIE Côte d'Ivoire (CIEC) — BRVM",
    "summary": null,
@@ -687,20 +737,6 @@
    "publishedAt": "2026-10-30T07:00:00.000Z",
    "symbols": [
     "CIEC"
-   ]
-  },
-  {
-   "id": "gn-1gfad7o",
-   "title": "Sogb Côte d'Ivoire (SOGC) — BRVM",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sZUtjYXhXV041LTR6dVZsNkFvNzVIUXFtWlBibk55VUdnOV9OcEVSQzY3N1EzMGlhbEVJRFdBaUdPZ3dXLUpSUWppRXZZT1JTU29NeVJibE5XQU9UMkdLTWMyNEhzdw?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-10-30T07:00:00.000Z",
-   "symbols": [
-    "SOGC"
    ]
   },
   {
@@ -1860,46 +1896,6 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-10-22T17:24:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65193",
-   "title": "Côte d’Ivoire : Skylark Minerals porte à 90 % sa participation dans le projet Zaranou, dont les ressources franchissent le million d’onces d’or",
-   "summary": "Le projet aurifère de Zaranou abrite désormais 1,2 million d'onces de ressources, soit environ 37 tonnes d...",
-   "url": "https://www.sikafinance.com/marches/cote-divoire-skylark-minerals-porte-a-90-sa-participation-dans-le-projet-zaranou-dont-les-ressources-franchissent-le-million-donces-dor_65193",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-22T16:59:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65192",
-   "title": "BRVM : Sucrivoire, Erium et Bernabé CI rebondissent avec le marché",
-   "summary": "Après plusieurs séances de baisse, la BRVM reprend son souffle et esquisse un rebond. Les trois principaux indices reno...",
-   "url": "https://www.sikafinance.com/marches/brvm-sucrivoire-erium-et-bernabe-ci-rebondissent-avec-le-marche_65192",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-22T16:23:00Z",
-   "symbols": [
-    "BNBC",
-    "SCRC",
-    "SIVC"
-   ]
-  },
-  {
-   "id": "sika-65189",
-   "title": "Après la Côte d’Ivoire et le Burkina Faso, MOLO MOLO PAY met le cap sur la RDC",
-   "summary": "La fintech africaine MOLO MOLO PAY poursuit ses ambitions d'expansion sur le continent. Après avoir franchi le cap du m...",
-   "url": "https://www.sikafinance.com/marches/apres-la-cote-divoire-et-le-burkina-faso-molo-molo-pay-met-le-cap-sur-la-rdc_65189",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-22T15:06:00Z",
    "symbols": []
   }
  ]
