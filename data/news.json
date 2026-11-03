@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-11-03T15:40:36.898Z",
+ "updatedAt": "2026-11-03T16:32:24.652Z",
  "items": [
+  {
+   "id": "sika-65466",
+   "title": "AFIS 2026 : À Luanda, la finance africaine face au défi de canaliser 4 000 milliards USD d’épargne vers 400 milliards de besoins annuels",
+   "summary": "Ouvert ce 3 novembre 2026 pour deux jours, l'Africa Financial Summit (AFIS) réunit plus de 1 500 décideurs. Quatre alloc...",
+   "url": "https://www.sikafinance.com/marches/afis-2026-a-luanda-la-finance-africaine-face-au-defi-de-canaliser-4-000-milliards-usd-depargne-vers-400-milliards-de-besoins-annuels_65466",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-03T16:12:00Z",
+   "symbols": []
+  },
   {
    "id": "sika-65464",
    "title": "SOLIBRA : La croissance commerciale se heurte à la pression des coûts à fin juin 2026",
@@ -43,9 +55,9 @@
   },
   {
    "id": "sika-65458",
-   "title": "JOJ de Dakar : Une première historique pour l’Afrique",
+   "title": "L'entreprise ivoirienne AYUF Holding met son savoir-faire au service des JOJ de Dakar 2026",
    "summary": "En faisant confiance aux entreprises du continent pour les différentes prestataires, le Comité d'organisation des Jeux ...",
-   "url": "https://www.sikafinance.com/marches/joj-de-dakar-une-premiere-historique-pour-lafrique_65458",
+   "url": "https://www.sikafinance.com/marches/l-entreprise-ivoirienne-ayuf-holding-met-son-savoir-faire-au-service-des-joj-de-dakar-2026_65458",
    "image": null,
    "source": "Sika Finance",
    "category": "Marchés",
@@ -650,6 +662,20 @@
    ]
   },
   {
+   "id": "gn-1lzzfnd",
+   "title": "Bank of Africa - Benin (BOAB) — BRVM",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE04a2FES05hTmtBQk4tOGt5WTU0M0IzTl9DLUlmaDNPOVFwX0w1QzZwM3V3Nk9pNklRcUxCVWVmaFFkUjRJeXp6Q3JRMlRLNTdmMHlrb2JXVmxWVy1Pei04WHBBclBXZw?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-10-30T07:00:00.000Z",
+   "symbols": [
+    "BOAB"
+   ]
+  },
+  {
    "id": "gn-vyoglt",
    "title": "CIE Côte d'Ivoire (CIEC) — BRVM",
    "summary": null,
@@ -661,6 +687,20 @@
    "publishedAt": "2026-10-30T07:00:00.000Z",
    "symbols": [
     "CIEC"
+   ]
+  },
+  {
+   "id": "gn-1gfad7o",
+   "title": "Sogb Côte d'Ivoire (SOGC) — BRVM",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sZUtjYXhXV041LTR6dVZsNkFvNzVIUXFtWlBibk55VUdnOV9OcEVSQzY3N1EzMGlhbEVJRFdBaUdPZ3dXLUpSUWppRXZZT1JTU29NeVJibE5XQU9UMkdLTWMyNEhzdw?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-10-30T07:00:00.000Z",
+   "symbols": [
+    "SOGC"
    ]
   },
   {
@@ -1860,42 +1900,6 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-10-22T15:06:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65179",
-   "title": "Ghana : Les salaires des travailleurs miniers au cœur de la réforme du secteur",
-   "summary": "Le Ghana entend encadrer les conditions de travail dans son industrie minière alors que le pays prépare le transfert de...",
-   "url": "https://www.sikafinance.com/marches/ghana-les-salaires-des-travailleurs-miniers-au-c%C5%93ur-de-la-reforme-du-secteur_65179",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-22T12:05:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65177",
-   "title": "Alerte cybersécurité : Deux failles critiques dans PHP menacent plus de 70% des sites web dans le monde",
-   "summary": "Dans le cadre de sa veille en cybersécurité, l'équipe PHP a annoncé, le 21 octobre 2026, des correctifs urgents pour de...",
-   "url": "https://www.sikafinance.com/marches/alerte-cybersecurite-deux-failles-critiques-dans-php-menacent-plus-de-70-des-sites-web-dans-le-monde_65177",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": true,
-   "publishedAt": "2026-10-22T11:42:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65176",
-   "title": "Afrique-Asie : Un financement de plus de 1 milliard USD espéré sous 6 mois",
-   "summary": "L'Afrique et l'Asie commercent à grande échelle, mais les capitaux ne circulent pas encore à la hauteur de leurs échang...",
-   "url": "https://www.sikafinance.com/marches/afrique-asie-un-financement-de-plus-de-1-milliard-usd-espere-sous-6-mois_65176",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-22T11:20:00Z",
    "symbols": []
   }
  ]
