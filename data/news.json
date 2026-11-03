@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-03T13:51:42.693Z",
+ "updatedAt": "2026-11-03T14:48:19.350Z",
  "items": [
+  {
+   "id": "sika-65464",
+   "title": "SOLIBRA : La croissance commerciale se heurte à la pression des coûts à fin juin 2026",
+   "summary": "La Société de limonaderies et boissons rafraîchissantes d'Afrique poursuit sa progression au premier semestre 202...",
+   "url": "https://www.sikafinance.com/marches/solibra-la-croissance-commerciale-se-heurte-a-la-pression-des-couts-a-fin-juin-2026_65464",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-11-03T14:29:00Z",
+   "symbols": [
+    "SLBC"
+   ]
+  },
   {
    "id": "sika-65460",
    "title": "Sénégal : L’Assemblée nationale rejette le projet de loi de finances rectificative 2026",
@@ -1882,18 +1896,6 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-10-22T11:20:00Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-xadya0",
-   "title": "Les actions de la BRVM perdent 559 milliards de CFA alors que le marché recule de 2,61 % lors d'une vague de ventes hebdomadaire",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcHZFeVdVcFZ1R21vQzdnNHcyR3B1eTdsVmgzZWpNazlVQWgzQjUtNkpTdGxkemhGRGZxdXVpcFdqQmFzcFd6TE5id19UYnRGcDlVOFJwOUxnZmZXbDdwWmhONS10N3hGUDZGRV9mNVFCaHRwREhNbUdZTU40RjFIZ0IzaHIxU1hWQWdhX25mQURxUTRhWENmbi1Tall0dE1ySVUydFQ3SG1UZ3hWdjc3THdCZ2FUXzZRaWM1WTdGdEt6ZGx5OXY4Mm44Tnp5VENRd0JkcVUyOTVaY2ZNOFE0?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-10-18T07:00:00.000Z",
    "symbols": []
   }
  ]
