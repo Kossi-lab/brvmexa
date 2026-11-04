@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-11-04T12:49:26.543Z",
+ "updatedAt": "2026-11-04T14:02:40.320Z",
  "items": [
+  {
+   "id": "sika-65496",
+   "title": "AFIS 2026 : Le 6e Baromètre du secteur financier africain dresse un bilan contrasté des avancées de l’intégration régionale",
+   "summary": "Les dirigeants financiers africains se disent confiants, à 8 sur 10. Pourtant, deux tiers d'entre eux constatent une ha...",
+   "url": "https://www.sikafinance.com/marches/afis-2026-le-6e-barometre-du-secteur-financier-africain-dresse-un-bilan-contraste-des-avancees-de-lintegration-regionale_65496",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-04T13:46:00Z",
+   "symbols": []
+  },
   {
    "id": "sika-65494",
    "title": "Sénégal : Le rejet du budget rectificatif fait planer des incertitudes sur les dépenses sociales et les investissements publics",
@@ -126,15 +138,15 @@
    "symbols": []
   },
   {
-   "id": "sika-65478",
+   "id": "gn-1eb5rqu",
    "title": "BRVM : Sika Finance lance Sika Forecast pour éclairer les choix d’investissement en 2027",
-   "summary": "Prévue le 16 janvier 2027 à Abidjan, la première édition de Sika Forecast sera consacrée aux perspectives économiques et...",
-   "url": "https://www.sikafinance.com/marches/brvm-sika-finance-lance-sika-forecast-pour-eclairer-les-choix-dinvestissement-en-2027_65478",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdGM5ZXpSeFRVeldRemJNNzNtOHlPSHNpMDdFQm84NURxazFYMkNfZ1lRbFhRVHNzenl1YUtreDM0a3ZVeG9lX0taczlKNTZZaHJsUWNUcXZPajBOQmhrNkthZy1TR1RCMmRnRzhNYjhQSnFUR1JqVEsxc3NBUnZsVFdJdHpXV25ob2FsbEltaUVmbVFCWmxwQkdPWDUwRkdNUkpBSDNLZDlmRTBhNDk4TVNqWHhMNGYtZmlJdzdhdUd6SkxkYWc?oc=5",
    "image": null,
    "source": "Sika Finance",
-   "category": "Marchés",
+   "category": "Presse",
    "premium": false,
-   "publishedAt": "2026-11-04T07:29:00Z",
+   "publishedAt": "2026-11-04T06:29:11.000Z",
    "symbols": []
   },
   {
@@ -1885,18 +1897,6 @@
    "symbols": [
     "SNTS"
    ]
-  },
-  {
-   "id": "sika-65220",
-   "title": "La BAD et UK Export Finance s’allient pour cofinancer des projets en Afrique",
-   "summary": "Le Groupe de la Banque africaine de développement (BAD) et UK Export Finance (UKEF), l'agence britannique de crédit à l...",
-   "url": "https://www.sikafinance.com/marches/la-bad-et-uk-export-finance-sallient-pour-cofinancer-des-projets-en-afrique_65220",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-23T14:35:00Z",
-   "symbols": []
   }
  ]
 }

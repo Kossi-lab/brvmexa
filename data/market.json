@@ -1,50 +1,50 @@
 {
- "updatedAt": "2026-11-04T12:49:19.535Z",
+ "updatedAt": "2026-11-04T14:02:35.529Z",
  "sessionDate": "2026-11-04",
- "sessionTime": "12:45",
+ "sessionTime": "13:45",
  "source": "brvm.org",
- "transactionsValue": 847281286,
- "capitalisationActions": 20718322259251,
- "capitalisationBonds": 13434480474828,
- "advancing": 16,
- "declining": 21,
- "unchanged": 11,
- "totalVolume": 788139,
+ "transactionsValue": 1254583669,
+ "capitalisationActions": 20750291574873,
+ "capitalisationBonds": 13435039059628,
+ "advancing": 20,
+ "declining": 16,
+ "unchanged": 12,
+ "totalVolume": 1793218,
  "gainers": [
   {
    "symbol": "SMBC",
    "shortName": "SMB CI",
-   "close": 17890,
-   "change": 6.05,
-   "volume": 1551
+   "close": 17995,
+   "change": 6.67,
+   "volume": 2647
   },
   {
    "symbol": "SIVC",
    "shortName": "Erium CI",
-   "close": 1785,
-   "change": 5.62,
-   "volume": 318
+   "close": 1780,
+   "change": 5.33,
+   "volume": 330
   },
   {
-   "symbol": "CIEC",
-   "shortName": "CIE Côte d’Ivoire",
-   "close": 5450,
-   "change": 4.81,
-   "volume": 2387
+   "symbol": "FTSC",
+   "shortName": "Filtisac CI",
+   "close": 1675,
+   "change": 5.02,
+   "volume": 1174
+  },
+  {
+   "symbol": "CBIBF",
+   "shortName": "Coris Bank International",
+   "close": 32990,
+   "change": 3.06,
+   "volume": 298
   },
   {
    "symbol": "TTLS",
    "shortName": "TotalEnergies Marketing Sénégal",
    "close": 3700,
    "change": 2.35,
-   "volume": 1196
-  },
-  {
-   "symbol": "SIBC",
-   "shortName": "Société Ivoirienne de Banque",
-   "close": 8935,
-   "change": 1.53,
-   "volume": 1411
+   "volume": 1299
   }
  ],
  "losers": [
@@ -53,7 +53,7 @@
    "shortName": "Sucrivoire CI",
    "close": 1885,
    "change": -7.37,
-   "volume": 3933
+   "volume": 4625
   },
   {
    "symbol": "PRSC",
@@ -63,62 +63,62 @@
    "volume": 29
   },
   {
-   "symbol": "STAC",
-   "shortName": "SETAO CI",
-   "close": 1800,
-   "change": -5.26,
-   "volume": 2948
-  },
-  {
    "symbol": "SDSC",
    "shortName": "Africa Global Logistics CI",
    "close": 2940,
    "change": -3.45,
-   "volume": 2959
+   "volume": 12604
   },
   {
-   "symbol": "ETIT",
-   "shortName": "Ecobank Transnational (ETI)",
-   "close": 58,
-   "change": -3.33,
-   "volume": 643451
+   "symbol": "CFAC",
+   "shortName": "CFAO Motors CI",
+   "close": 1250,
+   "change": -3.1,
+   "volume": 2293
+  },
+  {
+   "symbol": "STAC",
+   "shortName": "SETAO CI",
+   "close": 1850,
+   "change": -2.63,
+   "volume": 3651
   }
  ],
  "mostActive": [
   {
    "symbol": "SNTS",
    "shortName": "Sonatel",
-   "close": 4250,
-   "change": -1.16,
-   "volume": 72484
+   "close": 4245,
+   "change": -1.28,
+   "volume": 91096
+  },
+  {
+   "symbol": "ETIT",
+   "shortName": "Ecobank Transnational (ETI)",
+   "close": 59,
+   "change": -1.67,
+   "volume": 1593185
+  },
+  {
+   "symbol": "STBC",
+   "shortName": "SITAB CI",
+   "close": 20950,
+   "change": 0.92,
+   "volume": 3629
   },
   {
    "symbol": "NSBC",
    "shortName": "NSIA Banque CI",
-   "close": 17550,
-   "change": 0.29,
-   "volume": 3611
+   "close": 17800,
+   "change": 1.71,
+   "volume": 3838
   },
   {
    "symbol": "SGBC",
    "shortName": "Société Générale CI",
    "close": 39100,
    "change": 0.53,
-   "volume": 1354
-  },
-  {
-   "symbol": "BOAC",
-   "shortName": "BOA Côte d’Ivoire",
-   "close": 11995,
-   "change": 0.8,
-   "volume": 3417
-  },
-  {
-   "symbol": "ETIT",
-   "shortName": "Ecobank Transnational (ETI)",
-   "close": 58,
-   "change": -3.33,
-   "volume": 643451
+   "volume": 1391
   }
  ]
 }
