@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-04T16:57:11.061Z",
+ "updatedAt": "2026-11-04T17:54:20.707Z",
  "items": [
+  {
+   "id": "sika-65506",
+   "title": "BRVM : NEI Ceda paie le prix de son résultat",
+   "summary": "La BRVM termine la séance de ce mercredi sur une note légèrement négative, pénalisée par le repli de plusieurs valeurs,...",
+   "url": "https://www.sikafinance.com/marches/brvm-nei-ceda-paie-le-prix-de-son-resultat_65506",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-04T16:59:00Z",
+   "symbols": [
+    "NEIC"
+   ]
+  },
   {
    "id": "sika-65505",
    "title": "FILTISAC CI : les ventes bondissent de 40 %, mais le résultat reste sous pression",
@@ -1885,18 +1899,6 @@
     "SPHC",
     "UNLC"
    ]
-  },
-  {
-   "id": "sika-65238",
-   "title": "Côte d’Ivoire : Innov Immobilier réinvente l’appart’hôtel sur le marché du séjour haut de gamme",
-   "summary": "Créée en 2021, l'entreprise ivoirienne gère aujourd'hui plus de 200 appartements et emploie plus de 100 personnes. Avec ...",
-   "url": "https://www.sikafinance.com/marches/cote-divoire-innov-immobilier-reinvente-lapparthotel-sur-le-marche-du-sejour-haut-de-gamme_65238",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-26T09:49:00Z",
-   "symbols": []
   }
  ]
 }
