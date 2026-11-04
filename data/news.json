@@ -1,6 +1,30 @@
 {
- "updatedAt": "2026-11-04T10:59:44.498Z",
+ "updatedAt": "2026-11-04T11:53:06.482Z",
  "items": [
+  {
+   "id": "sika-65490",
+   "title": "Dangote va construire en Namibie un terminal pétrolier, point de départ d’un réseau de pipelines de plus de 2 600 km vers la RDC",
+   "summary": "Le groupe nigérian Dangote Industries lance, ce 4 novembre 2026, les travaux de construction d'un terminal de st...",
+   "url": "https://www.sikafinance.com/marches/dangote-va-construire-en-namibie-un-terminal-petrolier-point-de-depart-dun-reseau-de-pipelines-de-plus-de-2-600-km-vers-la-rdc_65490",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-04T11:28:00Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65489",
+   "title": "Gabon : La TVA prend du poids dans les recettes de l'État avec 570 milliards FCFA attendus en 2027",
+   "summary": "Le gouvernement gabonais table sur 570,58 milliards FCFA de recettes issues de la taxe sur la valeur ajoutée (TVA) en 20...",
+   "url": "https://www.sikafinance.com/marches/gabon-la-tva-prend-du-poids-dans-les-recettes-de-l-etat-avec-570-milliards-fcfa-attendus-en-2027_65489",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-04T11:03:00Z",
+   "symbols": []
+  },
   {
    "id": "sika-65487",
    "title": "Paiements : Mastercard confie son développement en Afrique subsaharienne francophone à Christelle N’Guessan-Rigaud",
@@ -1870,30 +1894,6 @@
    "category": "Marchés",
    "premium": true,
    "publishedAt": "2026-10-23T12:06:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65213",
-   "title": "Côte d'Ivoire : Archibat lance son édition 2027 autour des défis de l’urbanisation",
-   "summary": "Se loger, se déplacer, accéder aux services essentiels et vivre dans un environnement sain. À mesure que les vil...",
-   "url": "https://www.sikafinance.com/marches/cote-d-ivoire-archibat-lance-son-edition-2027-autour-des-defis-de-lurbanisation_65213",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-23T12:02:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65211",
-   "title": "Côte d’Ivoire : Mamadou Sangafowa Coulibaly lance les travaux de la centrale solaire de Katiola de 50 MWc",
-   "summary": "Attendue dans quinze mois, la centrale portée par Katiola Solar Power doit renforcer l'offre électrique nationale et so...",
-   "url": "https://www.sikafinance.com/marches/cote-divoire-mamadou-sangafowa-coulibaly-lance-les-travaux-de-la-centrale-solaire-de-katiola-de-50-mwc_65211",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-23T11:40:00Z",
    "symbols": []
   }
  ]

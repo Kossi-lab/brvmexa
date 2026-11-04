@@ -1,50 +1,50 @@
 {
- "updatedAt": "2026-11-04T10:59:39.560Z",
+ "updatedAt": "2026-11-04T11:52:57.910Z",
  "sessionDate": "2026-11-04",
- "sessionTime": "10:45",
+ "sessionTime": "11:45",
  "source": "brvm.org",
- "transactionsValue": 402642669,
- "capitalisationActions": 20629738183223,
+ "transactionsValue": 642439990,
+ "capitalisationActions": 20666873067353,
  "capitalisationBonds": 13434480474828,
- "advancing": 14,
- "declining": 21,
- "unchanged": 13,
- "totalVolume": 345566,
+ "advancing": 15,
+ "declining": 26,
+ "unchanged": 7,
+ "totalVolume": 495663,
  "gainers": [
   {
    "symbol": "SMBC",
    "shortName": "SMB CI",
-   "close": 18130,
-   "change": 7.47,
-   "volume": 1197
+   "close": 18000,
+   "change": 6.7,
+   "volume": 1490
   },
   {
-   "symbol": "CABC",
-   "shortName": "Sicable CI",
-   "close": 2690,
-   "change": 7.39,
-   "volume": 424
-  },
-  {
-   "symbol": "BNBC",
-   "shortName": "Bernabé CI",
-   "close": 1975,
-   "change": 2.07,
-   "volume": 906
+   "symbol": "NSBC",
+   "shortName": "NSIA Banque CI",
+   "close": 17990,
+   "change": 2.8,
+   "volume": 3271
   },
   {
    "symbol": "CIEC",
    "shortName": "CIE Côte d’Ivoire",
    "close": 5295,
    "change": 1.83,
-   "volume": 366
+   "volume": 549
   },
   {
-   "symbol": "UNXC",
-   "shortName": "Uniwax CI",
-   "close": 2050,
-   "change": 1.23,
-   "volume": 2799
+   "symbol": "FTSC",
+   "shortName": "Filtisac CI",
+   "close": 1620,
+   "change": 1.57,
+   "volume": 512
+  },
+  {
+   "symbol": "ORGT",
+   "shortName": "Oragroup Togo",
+   "close": 2700,
+   "change": 0.93,
+   "volume": 2876
   }
  ],
  "losers": [
@@ -53,21 +53,21 @@
    "shortName": "NEI-CEDA CI",
    "close": 1980,
    "change": -7.48,
-   "volume": 602
+   "volume": 856
   },
   {
    "symbol": "SCRC",
    "shortName": "Sucrivoire CI",
    "close": 1885,
    "change": -7.37,
-   "volume": 2889
+   "volume": 3458
   },
   {
    "symbol": "SDSC",
    "shortName": "Africa Global Logistics CI",
-   "close": 2850,
-   "change": -6.4,
-   "volume": 1570
+   "close": 2855,
+   "change": -6.24,
+   "volume": 1716
   },
   {
    "symbol": "PRSC",
@@ -77,48 +77,48 @@
    "volume": 29
   },
   {
-   "symbol": "STAC",
-   "shortName": "SETAO CI",
-   "close": 1800,
-   "change": -5.26,
-   "volume": 2139
+   "symbol": "SHEC",
+   "shortName": "Vivo Energy CI",
+   "close": 2040,
+   "change": -3.77,
+   "volume": 2982
   }
  ],
  "mostActive": [
   {
    "symbol": "SNTS",
    "shortName": "Sonatel",
-   "close": 4200,
-   "change": -2.33,
-   "volume": 37422
+   "close": 4250,
+   "change": -1.16,
+   "volume": 58005
   },
   {
    "symbol": "NSBC",
    "shortName": "NSIA Banque CI",
-   "close": 17500,
-   "change": 0,
-   "volume": 1358
+   "close": 17990,
+   "change": 2.8,
+   "volume": 3271
+  },
+  {
+   "symbol": "SGBC",
+   "shortName": "Société Générale CI",
+   "close": 38900,
+   "change": 0.01,
+   "volume": 725
   },
   {
    "symbol": "SMBC",
    "shortName": "SMB CI",
-   "close": 18130,
-   "change": 7.47,
-   "volume": 1197
-  },
-  {
-   "symbol": "BBGC",
-   "shortName": "Bridge Bank Group CI",
-   "close": 9700,
-   "change": -0.31,
-   "volume": 2054
+   "close": 18000,
+   "change": 6.7,
+   "volume": 1490
   },
   {
    "symbol": "STBC",
    "shortName": "SITAB CI",
-   "close": 20680,
-   "change": -0.39,
-   "volume": 847
+   "close": 20750,
+   "change": -0.05,
+   "volume": 1279
   }
  ]
 }
