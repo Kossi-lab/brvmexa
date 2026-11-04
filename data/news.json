@@ -1,6 +1,68 @@
 {
- "updatedAt": "2026-11-04T08:57:40.950Z",
+ "updatedAt": "2026-11-04T10:59:44.498Z",
  "items": [
+  {
+   "id": "sika-65487",
+   "title": "Paiements : Mastercard confie son développement en Afrique subsaharienne francophone à Christelle N’Guessan-Rigaud",
+   "summary": "Vice-présidente chargée du développement commercial pays pour l'Afrique subsaharienne francophone depuis juin 2026, la ...",
+   "url": "https://www.sikafinance.com/marches/paiements-mastercard-confie-son-developpement-en-afrique-subsaharienne-francophone-a-christelle-nguessan-rigaud_65487",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-04T10:44:00Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65488",
+   "title": "La BAD conserve pour la 3e fois son titre de banque multilatérale la plus transparente au monde",
+   "summary": "Dans un environnement mondial où la confiance des investisseurs se construit autant sur la qualité des projets q...",
+   "url": "https://www.sikafinance.com/marches/la-bad-conserve-pour-la-3e-fois-son-titre-de-banque-multilaterale-la-plus-transparente-au-monde_65488",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-04T10:38:00Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65486",
+   "title": "Bank Of Africa Bénin : Le résultat net se stabilise à 15 milliards FCFA sur neuf mois",
+   "summary": "L'activité de BANK OF AFRICA Bénin a évolué dans une configuration contrastée au cours des neuf premiers mois de ...",
+   "url": "https://www.sikafinance.com/marches/bank-of-africa-benin-le-resultat-net-se-stabilise-a-15-milliards-fcfa-sur-neuf-mois_65486",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-11-04T10:33:00Z",
+   "symbols": [
+    "BOAB"
+   ]
+  },
+  {
+   "id": "sika-65484",
+   "title": "Côte d’Ivoire : Le gouvernement maintient le prix du coton-graine à 310 FCFA/kg pour la campagne 2026-2027",
+   "summary": "En Côte d'Ivoire, le gouvernement a maintenu à 310 FCFA le prix d'achat du kilogramme de coton-graine de premier ...",
+   "url": "https://www.sikafinance.com/marches/cote-divoire-le-gouvernement-maintient-le-prix-du-coton-graine-a-310-fcfakg-pour-la-campagne-2026-2027_65484",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-04T09:40:00Z",
+   "symbols": []
+  },
+  {
+   "id": "gn-8gfk7z",
+   "title": "Marchés africains : la BRVM rebondit, le Gabon cote 173,5 milliards FCFA de dette et les Eurobonds sénégalais restent sous pression",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQbHAwNFNhd01KREIycnZoaUlEV21tN0Zpc05hcE1jMWI1cURGbEpheFB3T2Q1anN6SEQ3cEpVaUxkWVItSHdhQmFzQUV5aF82U1hhRWwzVkZoamdEOHVyeGZhdV9vRzItaEJWVkc0dkV0cDN5VHNOVEQzd3JrdnhrM2dRZ3hyQUtTVnBJaVo1MXZ6YnYtamxTQndzR1lLWGFLUXdCckJrUmVNcW9pYm42eFFDZDAxeVhxbXRoVGdwWllIOUo3NEFJaG5GV2RubG9QU3hWRUJORnkyZ0RRYzMybmVoR3lZdlpkOG9qX1Vfc1RUWFEwUFZxZTlmeS1PSzg?oc=5",
+   "image": null,
+   "source": "Financial Afrik",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-04T09:21:35.000Z",
+   "symbols": []
+  },
   {
    "id": "sika-65480",
    "title": "Côte d’Ivoire : Sept banques locales mobilisent 148 milliards FCFA pour la construction de la mine d’or de Doropo",
@@ -532,7 +594,7 @@
    "source": "République Togolaise",
    "category": "Presse",
    "premium": false,
-   "publishedAt": "2026-11-01T13:16:31.000Z",
+   "publishedAt": "2026-11-01T13:15:20.000Z",
    "symbols": []
   },
   {
@@ -771,20 +833,6 @@
    "publishedAt": "2026-10-30T08:35:00Z",
    "symbols": [
     "SNTS"
-   ]
-  },
-  {
-   "id": "gn-vyoglt",
-   "title": "CIE Côte d'Ivoire (CIEC) — BRVM",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE52QmFSNGNGUXZlQUlaOGFWckF0UkVKMzZZbkdCQjZJM0REang4LWFsRzkwal81VGt6bUR2OWlDcy1ZdlpZQS00R0ZQMDFVemlEdWFiZmh3bnh1SjdYMnpYQmdMaXE1QQ?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-10-30T07:00:00.000Z",
-   "symbols": [
-    "CIEC"
    ]
   },
   {
@@ -1846,56 +1894,6 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-10-23T11:40:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65210",
-   "title": "Marina Da Silva, DG IFM : ‘’Le facility management participe à des enjeux de qualité de vie au travail et d’attractivité de l’entreprise''",
-   "summary": "Marina Da Silva, DG d'Ivoire Facility Management (IFM) : Le facility management participe à des enjeux de qualité d...",
-   "url": "https://www.sikafinance.com/marches/marina-da-silva-dg-ifm-le-facility-management-participe-a-des-enjeux-de-qualite-de-vie-au-travail-et-dattractivite-de-lentreprise-_65210",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-23T11:19:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65206",
-   "title": "Mali : 6 370 milliards FCFA à mobiliser sur 3 ans pour couvrir les besoins de financement de l’État",
-   "summary": "Le Mali veut financer ses ambitions de développement sans fragiliser davantage ses finances publiques. Dans sa Stratégi...",
-   "url": "https://www.sikafinance.com/marches/mali-6-370-milliards-fcfa-a-mobiliser-sur-3-ans-pour-couvrir-les-besoins-de-financement-de-letat_65206",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": true,
-   "publishedAt": "2026-10-23T10:08:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65204",
-   "title": "Nestlé CI : Un bénéfice quasi stable à fin septembre malgré une hausse de 11 % du chiffre d’affaires",
-   "summary": "Dans l'industrie agroalimentaire, la hausse des coûts de production peut peser sur la rentabilité, même lor...",
-   "url": "https://www.sikafinance.com/marches/nestle-ci-un-benefice-quasi-stable-a-fin-septembre-malgre-une-hausse-de-11-du-chiffre-daffaires_65204",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": true,
-   "publishedAt": "2026-10-23T09:18:00Z",
-   "symbols": [
-    "NTLC"
-   ]
-  },
-  {
-   "id": "sika-65207",
-   "title": "Côte d’Ivoire : L'édition 2026 du Salon de l’épargne appelle à un changement concret des habitudes financières",
-   "summary": "Après huit éditions consacrées à la sensibilisation aux enjeux de l'épargne, de l'investissement et de la gestion du pa...",
-   "url": "https://www.sikafinance.com/marches/cote-divoire-l-edition-2026-du-salon-de-lepargne-appelle-a-un-changement-concret-des-habitudes-financieres_65207",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-23T09:06:00Z",
    "symbols": []
   }
  ]
