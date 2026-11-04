@@ -1,6 +1,42 @@
 {
- "updatedAt": "2026-11-04T14:02:40.320Z",
+ "updatedAt": "2026-11-04T14:59:34.770Z",
  "items": [
+  {
+   "id": "sika-65500",
+   "title": "AFIS Awards 2026 : Wave et 5 autres acteurs récompensés pour leur rôle dans la transformation de la finance africaine",
+   "summary": "La finance africaine ne manque ni de capitaux ni d'ambitions. Son principal défi reste de transformer cette puissance f...",
+   "url": "https://www.sikafinance.com/marches/afis-awards-2026-wave-et-5-autres-acteurs-recompenses-pour-leur-role-dans-la-transformation-de-la-finance-africaine_65500",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-04T14:42:00Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65498",
+   "title": "Afrique : La BAD veut mobiliser le capital de la diaspora pour financer le développement du continent",
+   "summary": "Les transferts d'argent des Africains établis à l'étranger constituent déjà une source importante de financement pour l...",
+   "url": "https://www.sikafinance.com/marches/afrique-la-bad-veut-mobiliser-le-capital-de-la-diaspora-pour-financer-le-developpement-du-continent_65498",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-04T14:19:00Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65497",
+   "title": "Le résultat net de la SIB progresse à 46 milliards FCFA à fin septembre 2026",
+   "summary": "La capacité d'une banque à transformer la croissance de ses revenus en bénéfices constitue un indicateur essentiel de s...",
+   "url": "https://www.sikafinance.com/marches/le-resultat-net-de-la-sib-progresse-a-46-milliards-fcfa-a-fin-septembre-2026_65497",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-04T14:09:00Z",
+   "symbols": []
+  },
   {
    "id": "sika-65496",
    "title": "AFIS 2026 : Le 6e Baromètre du secteur financier africain dresse un bilan contrasté des avancées de l’intégration régionale",
@@ -1859,44 +1895,6 @@
    "premium": false,
    "publishedAt": "2026-10-23T17:11:00Z",
    "symbols": []
-  },
-  {
-   "id": "sika-65225",
-   "title": "Secoué en Bourse, Netflix sacrifie 6 % de ses effectifs et licencie son plus haut dirigeant en Afrique",
-   "summary": "Le géant américain du streaming Netflix prend des mesures radicales face à la tourmente financière. Confronté à une chu...",
-   "url": "https://www.sikafinance.com/marches/secoue-en-bourse-netflix-sacrifie-6-de-ses-effectifs-et-licencie-son-plus-haut-dirigeant-en-afrique_65225",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-23T16:39:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65223",
-   "title": "UEMOA : A 50,6%, le taux d’inclusion financière passe la barre de la moitié des adultes à fin 2025",
-   "summary": "Pile ou face. En 2015, un adulte de l'UEMOA avait deux chances sur trois d'être tenu à l'écart du système financier. En...",
-   "url": "https://www.sikafinance.com/marches/uemoa-a-50-6-le-taux-dinclusion-financiere-passe-la-barre-de-la-moitie-des-adultes-a-fin-2025_65223",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": true,
-   "publishedAt": "2026-10-23T16:01:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65222",
-   "title": "BRVM : Sonatel mène le rebond avec une hausse de 185 milliards FCFA de capitalisation",
-   "summary": "Après plusieurs séances consécutives de baisse, Sonatel signe un retournement et redonne de l'élan à la BRVM pour cette...",
-   "url": "https://www.sikafinance.com/marches/brvm-sonatel-mene-le-rebond-avec-une-hausse-de-185-milliards-fcfa-de-capitalisation_65222",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-23T15:47:00Z",
-   "symbols": [
-    "SNTS"
-   ]
   }
  ]
 }
