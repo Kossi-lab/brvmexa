@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-11-04T20:54:22.754Z",
+ "updatedAt": "2026-11-04T21:50:10.656Z",
  "items": [
+  {
+   "id": "gn-24mewh",
+   "title": "La BRVM évoque l'ouverture de l'introduction en bourse de la raffinerie Dangote",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaEJMeEdnMEk2dWIxMzktWHB5aE55VlhlV3hTR1ppcUo1UU9Tb2I4QmxPZGo3RHBjRk1KMHRfcjVqdUlEMzFwTUJvRWxFczBfQkxlTktRVWFfd0ZWTEVuQU5lYUZydXVKeENhV1gwY1I1OHpSWEZCY0FsYzJCZXYxTzROclZkT3hUWkxGVmxoMTVBNWwzWGNkbWRTS2VyZ3lXM0E?oc=5",
+   "image": null,
+   "source": "energynews.pro",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-04T21:32:22.000Z",
+   "symbols": []
+  },
   {
    "id": "sika-65506",
    "title": "BRVM : NEI Ceda paie le prix de son résultat",
@@ -1884,21 +1896,6 @@
    "premium": false,
    "publishedAt": "2026-10-26T10:50:00Z",
    "symbols": []
-  },
-  {
-   "id": "sika-65240",
-   "title": "BRVM / SEMAINE 42 : La prudence reste de mise, Unilever CI et SAPH tirent leur épingle du jeu",
-   "summary": "Le marché actions de la BRVM a poursuivi sa consolidation pour la deuxième semaine consécutive. Le BRVM-Composite recul...",
-   "url": "https://www.sikafinance.com/marches/brvm-semaine-42-la-prudence-reste-de-mise-unilever-ci-et-saph-tirent-leur-epingle-du-jeu_65240",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": true,
-   "publishedAt": "2026-10-26T10:24:00Z",
-   "symbols": [
-    "SPHC",
-    "UNLC"
-   ]
   }
  ]
 }
