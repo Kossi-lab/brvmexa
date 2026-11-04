@@ -1,6 +1,30 @@
 {
- "updatedAt": "2026-11-04T14:59:34.770Z",
+ "updatedAt": "2026-11-04T15:51:02.789Z",
  "items": [
+  {
+   "id": "sika-65503",
+   "title": "Nigeria : La fintech Bamboo facilite 99 milliards de nairas de souscriptions à l’introduction en bourse de Dangote Refinery",
+   "summary": "Lors de la récente introduction en bourse de la gigantesque raffinerie Dangote au Nigeria, la fintech Bamboo a créé la ...",
+   "url": "https://www.sikafinance.com/marches/nigeria-la-fintech-bamboo-facilite-99-milliards-de-nairas-de-souscriptions-a-lintroduction-en-bourse-de-dangote-refinery_65503",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-04T15:35:00Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65502",
+   "title": "Côte d’Ivoire : Cybastion ouvre un centre régional de cybersécurité",
+   "summary": "L'entreprise technologique américaine Cybastion inaugure, ce jeudi 5 novembre 2026 à Abidjan, un centre régional de cyb...",
+   "url": "https://www.sikafinance.com/marches/cote-divoire-cybastion-ouvre-un-centre-regional-de-cybersecurite_65502",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-04T15:29:00Z",
+   "symbols": []
+  },
   {
    "id": "sika-65500",
    "title": "AFIS Awards 2026 : Wave et 5 autres acteurs récompensés pour leur rôle dans la transformation de la finance africaine",
@@ -1868,32 +1892,6 @@
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-10-26T01:50:19.000Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-bk2dr7",
-   "title": "L'indice principal de la BRVM recule pour la deuxième semaine consécutive à l'approche du fractionnement des actions de Sonatel",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSy1jTDczcVNidDBCRVJ3NzRQdVJYeW8yS2VkRm4zVm1JdVVEOGh3Sk1TaW0yR0JKRVBELWJzbVNncGZmQlc5cnVxdEdMdmd4dTNiZnIzT1lfdk9ueEFMZ0w0YkZaeFVhbHRTWnZkb2Q3cTVBa1BFdU1mcHdrb2Ewb3JObFFCbGFPWS05S1kzS1J0RkJxeUw5eWl1dGZ5bXFDel9pMmVic0ZKem1rVU5rdUF2dHpMX1ZkLURJTEpkVXNEN2pPUGd6OEg1VFVDMTZkNVJSVm1xbmhVN0FkcGlKUG5fZ3k5NUk?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-10-24T14:58:00.000Z",
-   "symbols": [
-    "SNTS"
-   ]
-  },
-  {
-   "id": "sika-65226",
-   "title": "CEDEAO : 2,61 milliards USD pour accélérer 121 projets d’intégration régionale",
-   "summary": "L'intégration régionale ouest-africaine doit désormais se mesurer à l'aune des projets concrètement réalisés. Le Groupe...",
-   "url": "https://www.sikafinance.com/marches/cedeao-2-61-milliards-usd-pour-accelerer-121-projets-dintegration-regionale_65226",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-23T17:11:00Z",
    "symbols": []
   }
  ]
