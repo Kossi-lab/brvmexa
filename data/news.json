@@ -1,6 +1,32 @@
 {
- "updatedAt": "2026-11-04T11:53:06.482Z",
+ "updatedAt": "2026-11-04T12:49:26.543Z",
  "items": [
+  {
+   "id": "sika-65494",
+   "title": "Sénégal : Le rejet du budget rectificatif fait planer des incertitudes sur les dépenses sociales et les investissements publics",
+   "summary": "L'Assemblée nationale du Sénégal a rejeté, mardi 3 novembre 2026, le projet de loi de finances rectificative (LFR) 2026...",
+   "url": "https://www.sikafinance.com/marches/senegal-le-rejet-du-budget-rectificatif-fait-planer-des-incertitudes-sur-les-depenses-sociales-et-les-investissements-publics_65494",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-04T12:17:00Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65491",
+   "title": "SETAO réduit ses pertes dans le sillage de la reprise des grands travaux",
+   "summary": "Dans le secteur du BTP, le calendrier d'exécution des marchés peut peser lourdement sur le rythme de l'activité et la f...",
+   "url": "https://www.sikafinance.com/marches/setao-reduit-ses-pertes-dans-le-sillage-de-la-reprise-des-grands-travaux_65491",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-11-04T11:46:00Z",
+   "symbols": [
+    "STAC"
+   ]
+  },
   {
    "id": "sika-65490",
    "title": "Dangote va construire en Namibie un terminal pétrolier, point de départ d’un réseau de pipelines de plus de 2 600 km vers la RDC",
@@ -1870,30 +1896,6 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-10-23T14:35:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65224",
-   "title": "Togo : Le budget 2027 en baisse de 2,5 % à 2 684 milliards FCFA",
-   "summary": "Le Togo prévoit de consacrer 2 684,1 milliards FCFA aux dépenses publiques en 2027, contre 2 751,5 milliards de FCFA da...",
-   "url": "https://www.sikafinance.com/marches/togo-le-budget-2027-en-baisse-de-2-5-a-2-684-milliards-fcfa_65224",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-23T14:21:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65212",
-   "title": "Côte d’Ivoire/Internet fixe : 32 milliards FCFA de revenus tirés par la fibre optique au T2 2026",
-   "summary": "Le chiffre d'affaires de l'Internet fixe en Côte d'Ivoire a progressé de 23,7% au deuxième trimestre 2026 par rap...",
-   "url": "https://www.sikafinance.com/marches/cote-divoireinternet-fixe-32-milliards-fcfa-de-revenus-tires-par-la-fibre-optique-au-t2-2026_65212",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": true,
-   "publishedAt": "2026-10-23T12:06:00Z",
    "symbols": []
   }
  ]
