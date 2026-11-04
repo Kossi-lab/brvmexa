@@ -1,6 +1,34 @@
 {
- "updatedAt": "2026-11-04T15:51:02.789Z",
+ "updatedAt": "2026-11-04T16:57:11.061Z",
  "items": [
+  {
+   "id": "sika-65505",
+   "title": "FILTISAC CI : les ventes bondissent de 40 %, mais le résultat reste sous pression",
+   "summary": "Avec 25,69 milliards FCFA de chiffre d'affaires sur neuf mois, FILTISAC CI affiche une forte accélération commerciale, ...",
+   "url": "https://www.sikafinance.com/marches/filtisac-ci-les-ventes-bondissent-de-40--mais-le-resultat-reste-sous-pression_65505",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-11-04T16:35:00Z",
+   "symbols": [
+    "FTSC"
+   ]
+  },
+  {
+   "id": "sika-65504",
+   "title": "Easy leasing : NSIA Banque Côte d’Ivoire et Rimco motors facilitent l’accès aux véhicules neufs",
+   "summary": "Jusqu'à 100 % du véhicule financé, sans apport initial exigé sous conditions &nb...",
+   "url": "https://www.sikafinance.com/marches/easy-leasing-nsia-banque-cote-divoire-et-rimco-motors-facilitent-lacces-aux-vehicules-neufs_65504",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-04T15:49:00Z",
+   "symbols": [
+    "NSBC"
+   ]
+  },
   {
    "id": "sika-65503",
    "title": "Nigeria : La fintech Bamboo facilite 99 milliards de nairas de souscriptions à l’introduction en bourse de Dangote Refinery",
@@ -1868,30 +1896,6 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-10-26T09:49:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65236",
-   "title": "Sénégal : Jusqu’où l’exécutif ira-t-il pour faire adopter le budget rectificatif 2026 ?",
-   "summary": "Au Sénégal, une grosse menace pèse sur le projet de loi de finances rectificative 2026 et sur le bon fonctionnement de ...",
-   "url": "https://www.sikafinance.com/marches/senegal-jusquou-lexecutif-ira-t-il-pour-faire-adopter-le-budget-rectificatif-2026-_65236",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-26T09:08:00Z",
-   "symbols": []
-  },
-  {
-   "id": "gn-10qvyms",
-   "title": "UEMOA: Afriland obtient un feu vert du régulateur pour lancer sa société de Bourse",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOXFLRzBXVEJwSDhmRm9NaEU3WFZYcTM2azFXRjFmRnFZNUhIalAzSUpZQUUtcFpQLUNfdEpmbWgzNHZkTzg1cVp5TGprREQwSzhFYUo4YU5wQWtpdzRheDVRZXdDcXZOUDFKdVNZdERMMUNIV0M1SGJwRmQ4OTVfTG1ubGdlZjNVTk5hUHgzRWRKRG1uVlVOelVzb0kyR0U4WWhnWQ?oc=5",
-   "image": null,
-   "source": "EcoMatin",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-10-26T01:50:19.000Z",
    "symbols": []
   }
  ]
