@@ -1,124 +1,124 @@
 {
- "updatedAt": "2026-11-05T08:59:33.157Z",
- "sessionDate": "2026-11-04",
- "sessionTime": "22:45",
+ "updatedAt": "2026-11-05T09:51:30.845Z",
+ "sessionDate": "2026-11-05",
+ "sessionTime": "09:45",
  "source": "brvm.org",
- "transactionsValue": 1441725155,
- "capitalisationActions": 20724929807358,
+ "transactionsValue": 128619031,
+ "capitalisationActions": 20696881374158,
  "capitalisationBonds": 13440077942068,
- "advancing": 18,
- "declining": 20,
- "unchanged": 10,
- "totalVolume": 1894712,
+ "advancing": 10,
+ "declining": 9,
+ "unchanged": 29,
+ "totalVolume": 72864,
  "gainers": [
   {
-   "symbol": "SMBC",
-   "shortName": "SMB CI",
-   "close": 17995,
-   "change": 6.67,
-   "volume": 2788
+   "symbol": "CIEC",
+   "shortName": "CIE Côte d’Ivoire",
+   "close": 5200,
+   "change": 1.96,
+   "volume": 191
   },
   {
-   "symbol": "STAC",
-   "shortName": "SETAO CI",
-   "close": 2000,
-   "change": 5.26,
-   "volume": 4491
+   "symbol": "BICC",
+   "shortName": "BICI Côte d’Ivoire",
+   "close": 31995,
+   "change": 1.49,
+   "volume": 7
   },
   {
-   "symbol": "FTSC",
-   "shortName": "Filtisac CI",
-   "close": 1670,
-   "change": 4.7,
-   "volume": 1570
+   "symbol": "SAFC",
+   "shortName": "SAFCA CI",
+   "close": 3945,
+   "change": 1.28,
+   "volume": 249
   },
   {
-   "symbol": "CBIBF",
-   "shortName": "Coris Bank International",
-   "close": 32990,
-   "change": 3.06,
-   "volume": 298
+   "symbol": "NSBC",
+   "shortName": "NSIA Banque CI",
+   "close": 18000,
+   "change": 1.12,
+   "volume": 139
   },
   {
-   "symbol": "ECOC",
-   "shortName": "Ecobank Côte d’Ivoire",
-   "close": 16200,
-   "change": 1.89,
-   "volume": 2334
+   "symbol": "NTLC",
+   "shortName": "Nestlé CI",
+   "close": 13500,
+   "change": 0.75,
+   "volume": 30
   }
  ],
  "losers": [
   {
-   "symbol": "NEIC",
-   "shortName": "NEI-CEDA CI",
+   "symbol": "PRSC",
+   "shortName": "Tractafric Motors CI",
+   "close": 3750,
+   "change": -1.32,
+   "volume": 27
+  },
+  {
+   "symbol": "SNTS",
+   "shortName": "Sonatel",
+   "close": 4195,
+   "change": -1.18,
+   "volume": 11990
+  },
+  {
+   "symbol": "STAC",
+   "shortName": "SETAO CI",
    "close": 1980,
-   "change": -7.48,
-   "volume": 4057
+   "change": -1,
+   "volume": 15
   },
   {
-   "symbol": "SCRC",
-   "shortName": "Sucrivoire CI",
-   "close": 1885,
-   "change": -7.37,
-   "volume": 4773
+   "symbol": "BOAS",
+   "shortName": "BOA Sénégal",
+   "close": 8305,
+   "change": -0.84,
+   "volume": 84
   },
   {
-   "symbol": "ORGT",
-   "shortName": "Oragroup Togo",
-   "close": 2600,
-   "change": -2.8,
-   "volume": 5476
-  },
-  {
-   "symbol": "CFAC",
-   "shortName": "CFAO Motors CI",
-   "close": 1260,
-   "change": -2.33,
-   "volume": 2320
-  },
-  {
-   "symbol": "CIEC",
-   "shortName": "CIE Côte d’Ivoire",
-   "close": 5100,
-   "change": -1.92,
-   "volume": 3985
+   "symbol": "SIVC",
+   "shortName": "Erium CI",
+   "close": 1690,
+   "change": -0.59,
+   "volume": 79
   }
  ],
  "mostActive": [
   {
    "symbol": "SNTS",
    "shortName": "Sonatel",
-   "close": 4245,
-   "change": -1.28,
-   "volume": 99053
+   "close": 4195,
+   "change": -1.18,
+   "volume": 11990
+  },
+  {
+   "symbol": "SIBC",
+   "shortName": "Société Ivoirienne de Banque",
+   "close": 8805,
+   "change": 0,
+   "volume": 2642
+  },
+  {
+   "symbol": "PALC",
+   "shortName": "Palm CI",
+   "close": 7500,
+   "change": 0,
+   "volume": 2523
+  },
+  {
+   "symbol": "BOAC",
+   "shortName": "BOA Côte d’Ivoire",
+   "close": 11935,
+   "change": 0.29,
+   "volume": 276
   },
   {
    "symbol": "ETIT",
    "shortName": "Ecobank Transnational (ETI)",
    "close": 59,
-   "change": -1.67,
-   "volume": 1664208
-  },
-  {
-   "symbol": "BBGC",
-   "shortName": "Bridge Bank Group CI",
-   "close": 9700,
-   "change": -0.31,
-   "volume": 9207
-  },
-  {
-   "symbol": "STBC",
-   "shortName": "SITAB CI",
-   "close": 21000,
-   "change": 1.16,
-   "volume": 3755
-  },
-  {
-   "symbol": "NSBC",
-   "shortName": "NSIA Banque CI",
-   "close": 17800,
-   "change": 1.71,
-   "volume": 4207
+   "change": 0,
+   "volume": 50134
   }
  ]
 }
