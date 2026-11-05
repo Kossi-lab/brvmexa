@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-11-05T11:49:04.985Z",
+ "updatedAt": "2026-11-05T12:53:38.992Z",
  "items": [
+  {
+   "id": "sika-65522",
+   "title": "Burkina Faso : Le FMI prévoit plus de 87 millions USD de décaissements après deux revues de programme",
+   "summary": "Le Burkina Faso pourrait bénéficier d'un nouveau soutien financier du Fonds monétaire international (FMI), à l'issue de...",
+   "url": "https://www.sikafinance.com/marches/burkina-faso-le-fmi-prevoit-plus-de-87-millions-usd-de-decaissements-apres-deux-revues-de-programme_65522",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-05T12:39:00Z",
+   "symbols": []
+  },
   {
    "id": "sika-65520",
    "title": "Baisse de 89% du bénéfice de SICABLE à fin septembre 2026",
@@ -1888,18 +1900,6 @@
    "symbols": [
     "NSBC"
    ]
-  },
-  {
-   "id": "sika-65251",
-   "title": "Côte d’Ivoire : Baobab célèbre ses 15 ans avec un résultat net de 11 milliards FCFA en 2025",
-   "summary": "Quinze ans après l'ouverture de sa première agence à Abidjan, Baobab Côte d'Ivoire a célébré, ce vendredi 23 octo...",
-   "url": "https://www.sikafinance.com/marches/cote-divoire-baobab-celebre-ses-15-ans-avec-un-resultat-net-de-11-milliards-fcfa-en-2025_65251",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-26T15:24:00Z",
-   "symbols": []
   }
  ]
 }
