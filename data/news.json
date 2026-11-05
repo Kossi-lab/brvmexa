@@ -1,11 +1,47 @@
 {
- "updatedAt": "2026-11-05T12:53:38.992Z",
+ "updatedAt": "2026-11-05T14:11:18.704Z",
  "items": [
   {
+   "id": "sika-65527",
+   "title": "Sénégal : Le solde de la balance commerciale ressort à -29,5 milliards FCFA en septembre 2026",
+   "summary": "Au mois de septembre 2026, les exportations du Sénégal se chiffrent à 566,0 milliards de FCFA contre 711,1 milliards de...",
+   "url": "https://www.sikafinance.com/marches/senegal-le-solde-de-la-balance-commerciale-ressort-a-29-5-milliards-fcfa-en-septembre-2026_65527",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-05T13:49:00Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65523",
+   "title": "Côte d’Ivoire : La mine d’or de Séguéla prévoit d’accroître sa production de plus de 2 tonnes d’ici 2028",
+   "summary": "La mine d'or de Séguéla, exploitée par le groupe canadien Fortuna Mining, a produit 33 744 onces d'or (1,05 tonne) au t...",
+   "url": "https://www.sikafinance.com/marches/cote-divoire-la-mine-dor-de-seguela-prevoit-daccroitre-sa-production-de-plus-de-2-tonnes-dici-2028_65523",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-05T13:00:00Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65525",
+   "title": "RDC : Le FMI ouvre la voie à un décaissement de 771 millions USD attendu en décembre",
+   "summary": "Les services du Fonds monétaire international (FMI) ont conclu, le 4 novembre 2026, un accord au niveau des services su...",
+   "url": "https://www.sikafinance.com/marches/rdc-le-fmi-ouvre-la-voie-a-un-decaissement-de-771-millions-usd-attendu-en-decembre_65525",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-05T12:58:00Z",
+   "symbols": []
+  },
+  {
    "id": "sika-65522",
-   "title": "Burkina Faso : Le FMI prévoit plus de 87 millions USD de décaissements après deux revues de programme",
+   "title": "Burkina : Le FMI prévoit plus de 87 millions USD de décaissements après deux revues de programme",
    "summary": "Le Burkina Faso pourrait bénéficier d'un nouveau soutien financier du Fonds monétaire international (FMI), à l'issue de...",
-   "url": "https://www.sikafinance.com/marches/burkina-faso-le-fmi-prevoit-plus-de-87-millions-usd-de-decaissements-apres-deux-revues-de-programme_65522",
+   "url": "https://www.sikafinance.com/marches/burkina-le-fmi-prevoit-plus-de-87-millions-usd-de-decaissements-apres-deux-revues-de-programme_65522",
    "image": null,
    "source": "Sika Finance",
    "category": "Marchés",
@@ -1861,44 +1897,6 @@
    "publishedAt": "2026-10-26T16:40:00Z",
    "symbols": [
     "SNTS"
-   ]
-  },
-  {
-   "id": "sika-65254",
-   "title": "UEMOA : La masse monétaire bondit de plus de 10 300 milliards FCFA en un an, à fin juillet",
-   "summary": "La monnaie circule à un rythme soutenu dans l'UEMOA. À fin juillet 2026, la masse monétaire a augmenté de 19% à ...",
-   "url": "https://www.sikafinance.com/marches/uemoa-la-masse-monetaire-bondit-de-plus-de-10-300-milliards-fcfa-en-un-an-a-fin-juillet_65254",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-26T16:11:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65252",
-   "title": "Startups africaines : Avec 583 millions USD levés, le 3e trimestre dissipe les craintes d’un ralentissement prolongé",
-   "summary": "Au troisième trimestre 2026, 58 startups du continent ont mobilisé un montant global de 582,8 millions USD, selon le po...",
-   "url": "https://www.sikafinance.com/marches/startups-africaines-avec-583-millions-usd-leves-le-3e-trimestre-dissipe-les-craintes-dun-ralentissement-prolonge_65252",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": true,
-   "publishedAt": "2026-10-26T16:05:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65253",
-   "title": "NSIA Banque Côte d’Ivoire consolide ses revenus et renforce ses fonds propres au premier semestre 2026",
-   "summary": "La banque ivoirienne a enregistré un produit net bancaire de 53,7 milliards FCFA, en hausse de 6%, et un résultat brut d...",
-   "url": "https://www.sikafinance.com/marches/nsia-banque-cote-divoire-consolide-ses-revenus-et-renforce-ses-fonds-propres-au-premier-semestre-2026_65253",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-26T15:40:00Z",
-   "symbols": [
-    "NSBC"
    ]
   }
  ]
