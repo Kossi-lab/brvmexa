@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-11-04T22:48:14.699Z",
+ "updatedAt": "2026-11-05T08:59:38.986Z",
  "items": [
+  {
+   "id": "sika-65511",
+   "title": "Côte d’Ivoire : PETROCI expédie sa première cargaison de brut depuis la reprise du champ Espoir",
+   "summary": "Trois mois après avoir repris les opérations du bloc CI-26, la compagnie pétrolière nationale a procédé, le 31 octobre ...",
+   "url": "https://www.sikafinance.com/marches/cote-divoire-petroci-expedie-sa-premiere-cargaison-de-brut-depuis-la-reprise-du-champ-espoir_65511",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-05T08:33:00Z",
+   "symbols": []
+  },
   {
    "id": "gn-24mewh",
    "title": "La BRVM évoque l'ouverture de l'introduction en bourse de la raffinerie Dangote",
@@ -1883,18 +1895,6 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-10-26T10:55:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65241",
-   "title": "Afreximbank affiche un bénéfice de 813,5 millions USD à fin septembre 2026, en hausse de 24%",
-   "summary": "Dans un environnement mondial marqué par les incertitudes économiques et géopolitiques, Afreximbank confirme la solidit...",
-   "url": "https://www.sikafinance.com/marches/afreximbank-affiche-un-benefice-de-813-5-millions-usd-a-fin-septembre-2026-en-hausse-de-24_65241",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-26T10:50:00Z",
    "symbols": []
   }
  ]
