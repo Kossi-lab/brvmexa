@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-05T10:54:17.978Z",
+ "updatedAt": "2026-11-05T11:49:04.985Z",
  "items": [
+  {
+   "id": "sika-65520",
+   "title": "Baisse de 89% du bénéfice de SICABLE à fin septembre 2026",
+   "summary": "Dans l'industrie du câble, la performance repose autant sur la capacité à capter les commandes que sur la ma&icir...",
+   "url": "https://www.sikafinance.com/marches/baisse-de-89-du-benefice-de-sicable-a-fin-septembre-2026_65520",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-11-05T11:02:00Z",
+   "symbols": [
+    "CABC"
+   ]
+  },
   {
    "id": "sika-65519",
    "title": "TotalEnergies Marketing SN : 7 milliards FCFA de bénéfice à fin septembre 2026",
@@ -1885,18 +1899,6 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-10-26T15:24:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65248",
-   "title": "Congo : L’offre de crédit recule de 19 %, mais son coût baisse de 44 % au deuxième trimestre",
-   "summary": "Au deuxième trimestre 2026, les banques opérant en République du Congo ont accordé 345,6 milliards de FCFA de nouveaux ...",
-   "url": "https://www.sikafinance.com/marches/congo-loffre-de-credit-recule-de-19--mais-son-cout-baisse-de-44-au-deuxieme-trimestre_65248",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-26T13:20:00Z",
    "symbols": []
   }
  ]
