@@ -1,3 +1,6 @@
+/* Sécurité : empêche un autre site d'afficher BRVMexa dans un cadre caché (clickjacking). */
+if (window.top !== window.self) { try { window.top.location.replace(window.location.href); } catch (e) { document.documentElement.style.display = 'none'; } }
+
 /* BRVMexa — interactions du site : en-tête, menu mobile, apparitions au défilement. */
 (function () {
   'use strict';
