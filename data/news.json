@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-05T17:13:49.356Z",
+ "updatedAt": "2026-11-05T18:55:42.819Z",
  "items": [
+  {
+   "id": "sika-65534",
+   "title": "BRVM : SICABLE rebondit après un point bas à 2 500 FCFA",
+   "summary": "La BRVM traverse une séance particulièrement difficile ce jeudi, marquée par un repli accentué de ses principaux indice...",
+   "url": "https://www.sikafinance.com/marches/brvm-sicable-rebondit-apres-un-point-bas-a-2-500-fcfa_65534",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-05T17:09:00Z",
+   "symbols": [
+    "CABC"
+   ]
+  },
   {
    "id": "sika-65533",
    "title": "RDC : Après la confirmation du potentiel cuprifère de Molulu, Critical Metals cherche à sécuriser des débouchés commerciaux",
@@ -1881,18 +1895,6 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-10-27T08:48:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65265",
-   "title": "Roaming UEMOA : 3 accords scellés entre le Burkina Faso, le Bénin, la Côte d’Ivoire et le Sénégal",
-   "summary": "Sous l'égide de l'UEMOA, le Burkina Faso a signé 3 accords bilatéraux de roaming avec le Bénin, la Côte d'Ivoire ...",
-   "url": "https://www.sikafinance.com/marches/roaming-uemoa-3-accords-scelles-entre-le-burkina-faso-le-benin-la-cote-divoire-et-le-senegal_65265",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-27T08:42:00Z",
    "symbols": []
   }
  ]
