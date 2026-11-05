@@ -1,6 +1,30 @@
 {
- "updatedAt": "2026-11-05T15:06:41.112Z",
+ "updatedAt": "2026-11-05T17:13:49.356Z",
  "items": [
+  {
+   "id": "sika-65533",
+   "title": "RDC : Après la confirmation du potentiel cuprifère de Molulu, Critical Metals cherche à sécuriser des débouchés commerciaux",
+   "summary": "Le britannique Critical Metals plc a engagé des discussions avec un acheteur potentiel en vue de commercialiser ...",
+   "url": "https://www.sikafinance.com/marches/rdc-apres-la-confirmation-du-potentiel-cuprifere-de-molulu-critical-metals-cherche-a-securiser-des-debouches-commerciaux_65533",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-05T15:30:00Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65532",
+   "title": "Côte d’Ivoire : Le Japon accorde 48 milliards FCFA pour la deuxième phase du projet de trois échangeurs à Abidjan",
+   "summary": "Le Japon accorde un don de 48,4 milliards FCFA à la Côte d'Ivoire dans le cadre de la deuxième phase du projet de...",
+   "url": "https://www.sikafinance.com/marches/cote-divoire-le-japon-accorde-48-milliards-fcfa-pour-la-deuxieme-phase-du-projet-de-trois-echangeurs-a-abidjan_65532",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-05T14:40:00Z",
+   "symbols": []
+  },
   {
    "id": "sika-65527",
    "title": "Sénégal : Le solde de la balance commerciale ressort à -29,5 milliards FCFA en septembre 2026",
@@ -1870,34 +1894,6 @@
    "premium": false,
    "publishedAt": "2026-10-27T08:42:00Z",
    "symbols": []
-  },
-  {
-   "id": "sika-65257",
-   "title": "ONATEL : La croissance de l’activité mise à l’épreuve par la hausse des charges au 3ème trimestre",
-   "summary": "À fin septembre 2026, Moov Africa BF poursuit son développement, porté par l'essor des usages numériques et les ...",
-   "url": "https://www.sikafinance.com/marches/onatel-la-croissance-de-lactivite-mise-a-lepreuve-par-la-hausse-des-charges-au-3eme-trimestre_65257",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": true,
-   "publishedAt": "2026-10-26T16:49:00Z",
-   "symbols": [
-    "ONTBF"
-   ]
-  },
-  {
-   "id": "sika-65256",
-   "title": "BRVM : Le fractionnement de Sonatel attise l’engouement des investisseurs",
-   "summary": "La BRVM démarre la semaine sur une note résolument positive. Les trois principaux indices s'inscrivent en hausse...",
-   "url": "https://www.sikafinance.com/marches/brvm-le-fractionnement-de-sonatel-attise-lengouement-des-investisseurs_65256",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-26T16:40:00Z",
-   "symbols": [
-    "SNTS"
-   ]
   }
  ]
 }
