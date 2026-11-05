@@ -1,19 +1,43 @@
 {
- "updatedAt": "2026-11-05T09:51:37.242Z",
+ "updatedAt": "2026-11-05T10:54:17.978Z",
  "items": [
   {
-   "id": "sika-65513",
+   "id": "sika-65519",
+   "title": "TotalEnergies Marketing SN : 7 milliards FCFA de bénéfice à fin septembre 2026",
+   "summary": "La baisse du chiffre d'affaires ne rime pas nécessairement avec une dégradation de la rentabilité. Dans le secteur pétr...",
+   "url": "https://www.sikafinance.com/marches/totalenergies-marketing-sn-7-milliards-fcfa-de-benefice-a-fin-septembre-2026_65519",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-11-05T10:40:00Z",
+   "symbols": []
+  },
+  {
+   "id": "sika-65515",
    "title": "Le bénéfice de CFAO Mobility CI recule de 27 % au 1er semestre 2026",
    "summary": "Nonobstant le maintien de sa position de leader sur le marché ivoirien de la distribution automobile, avec 38 % de part...",
-   "url": "https://www.sikafinance.com/marches/le-benefice-de-cfao-mobility-ci-recule-de-27-au-1er-semestre-2026_65513",
+   "url": "https://www.sikafinance.com/marches/le-benefice-de-cfao-mobility-ci-recule-de-27-au-1er-semestre-2026_65515",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-11-05T09:55:00Z",
+   "symbols": [
+    "CFAC"
+   ]
+  },
+  {
+   "id": "sika-65514",
+   "title": "Après le Nigeria, l’Inde met en garde le secteur financier contre les cyberattaques dopées à l’IA",
+   "summary": "À l'instar de la Banque centrale du Nigeria, qui tirait la sonnette d'alarme en septembre dernier, le Centre ind...",
+   "url": "https://www.sikafinance.com/marches/apres-le-nigeria-linde-met-en-garde-le-secteur-financier-contre-les-cyberattaques-dopees-a-lia_65514",
    "image": null,
    "source": "Sika Finance",
    "category": "Marchés",
    "premium": false,
-   "publishedAt": "2026-11-05T09:42:00Z",
-   "symbols": [
-    "CFAC"
-   ]
+   "publishedAt": "2026-11-05T09:49:00Z",
+   "symbols": []
   },
   {
    "id": "gn-1kamwte",
@@ -1873,30 +1897,6 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-10-26T13:20:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65245",
-   "title": "Nigeria : Débloquer 5,79 milliards USD de financements privés visés grâce au Groupe de la Banque mondiale",
-   "summary": "Au Nigeria, l'enjeu des réformes économiques se mesure désormais à leur capacité à attirer des capitaux. Depuis la mi-2...",
-   "url": "https://www.sikafinance.com/marches/nigeria-debloquer-5-79-milliards-usd-de-financements-prives-vises-grace-au-groupe-de-la-banque-mondiale_65245",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": true,
-   "publishedAt": "2026-10-26T11:55:00Z",
-   "symbols": []
-  },
-  {
-   "id": "sika-65244",
-   "title": "Côte d’Ivoire : Avec Tongon et Binguébougou, plus de 100 MWc de solaire vont renforcer le réseau électrique",
-   "summary": "Deux centrales photovoltaïques totalisant 102 MWc doivent être construites dans la région du Poro, dans le nord de...",
-   "url": "https://www.sikafinance.com/marches/cote-divoire-avec-tongon-et-binguebougou-plus-de-100-mwc-de-solaire-vont-renforcer-le-reseau-electrique_65244",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-26T11:18:00Z",
    "symbols": []
   }
  ]
