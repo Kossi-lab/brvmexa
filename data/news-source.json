@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-06T04:17:21.639Z",
+ "updatedAt": "2026-11-06T04:21:39.520Z",
  "items": [
   {
    "id": "sika-65534",
@@ -15,7 +15,7 @@
     "CABC"
    ],
    "status": "new",
-   "tries": 0
+   "tries": 1
   },
   {
    "id": "sika-65533",
@@ -29,7 +29,7 @@
    "publishedAt": "2026-11-05T15:30:00Z",
    "symbols": [],
    "status": "new",
-   "tries": 0
+   "tries": 1
   },
   {
    "id": "sika-65532",
@@ -43,7 +43,7 @@
    "publishedAt": "2026-11-05T14:40:00Z",
    "symbols": [],
    "status": "new",
-   "tries": 0
+   "tries": 1
   },
   {
    "id": "sika-65527",
@@ -57,7 +57,7 @@
    "publishedAt": "2026-11-05T13:49:00Z",
    "symbols": [],
    "status": "new",
-   "tries": 0
+   "tries": 1
   },
   {
    "id": "sika-65523",
@@ -71,7 +71,7 @@
    "publishedAt": "2026-11-05T13:00:00Z",
    "symbols": [],
    "status": "new",
-   "tries": 0
+   "tries": 1
   },
   {
    "id": "sika-65525",
@@ -85,7 +85,7 @@
    "publishedAt": "2026-11-05T12:58:00Z",
    "symbols": [],
    "status": "new",
-   "tries": 0
+   "tries": 1
   },
   {
    "id": "sika-65522",
@@ -99,7 +99,7 @@
    "publishedAt": "2026-11-05T12:39:00Z",
    "symbols": [],
    "status": "new",
-   "tries": 0
+   "tries": 1
   },
   {
    "id": "sika-65520",
@@ -115,7 +115,7 @@
     "CABC"
    ],
    "status": "new",
-   "tries": 0
+   "tries": 1
   },
   {
    "id": "sika-65519",
@@ -129,7 +129,7 @@
    "publishedAt": "2026-11-05T10:40:00Z",
    "symbols": [],
    "status": "new",
-   "tries": 0
+   "tries": 1
   },
   {
    "id": "sika-65515",
@@ -145,7 +145,7 @@
     "CFAC"
    ],
    "status": "new",
-   "tries": 0
+   "tries": 1
   },
   {
    "id": "sika-65514",
@@ -159,7 +159,7 @@
    "publishedAt": "2026-11-05T09:49:00Z",
    "symbols": [],
    "status": "new",
-   "tries": 0
+   "tries": 1
   },
   {
    "id": "gn-1kamwte",
@@ -173,7 +173,7 @@
    "publishedAt": "2026-11-05T09:29:00.000Z",
    "symbols": [],
    "status": "new",
-   "tries": 0
+   "tries": 1
   },
   {
    "id": "sika-65511",
@@ -187,7 +187,7 @@
    "publishedAt": "2026-11-05T08:33:00Z",
    "symbols": [],
    "status": "new",
-   "tries": 0
+   "tries": 1
   },
   {
    "id": "gn-24mewh",
@@ -201,7 +201,7 @@
    "publishedAt": "2026-11-04T21:32:22.000Z",
    "symbols": [],
    "status": "new",
-   "tries": 0
+   "tries": 1
   },
   {
    "id": "sika-65506",
@@ -217,7 +217,7 @@
     "NEIC"
    ],
    "status": "new",
-   "tries": 0
+   "tries": 1
   },
   {
    "id": "sika-65505",
@@ -233,7 +233,7 @@
     "FTSC"
    ],
    "status": "new",
-   "tries": 0
+   "tries": 1
   },
   {
    "id": "sika-65504",
@@ -249,7 +249,7 @@
     "NSBC"
    ],
    "status": "new",
-   "tries": 0
+   "tries": 1
   },
   {
    "id": "sika-65503",
@@ -263,7 +263,7 @@
    "publishedAt": "2026-11-04T15:35:00Z",
    "symbols": [],
    "status": "new",
-   "tries": 0
+   "tries": 1
   },
   {
    "id": "sika-65502",
@@ -277,7 +277,7 @@
    "publishedAt": "2026-11-04T15:29:00Z",
    "symbols": [],
    "status": "new",
-   "tries": 0
+   "tries": 1
   },
   {
    "id": "sika-65500",
@@ -291,7 +291,7 @@
    "publishedAt": "2026-11-04T14:42:00Z",
    "symbols": [],
    "status": "new",
-   "tries": 0
+   "tries": 1
   },
   {
    "id": "sika-65498",
@@ -305,7 +305,7 @@
    "publishedAt": "2026-11-04T14:19:00Z",
    "symbols": [],
    "status": "new",
-   "tries": 0
+   "tries": 1
   },
   {
    "id": "sika-65497",
@@ -319,7 +319,7 @@
    "publishedAt": "2026-11-04T14:09:00Z",
    "symbols": [],
    "status": "new",
-   "tries": 0
+   "tries": 1
   },
   {
    "id": "sika-65496",
@@ -333,7 +333,7 @@
    "publishedAt": "2026-11-04T13:46:00Z",
    "symbols": [],
    "status": "new",
-   "tries": 0
+   "tries": 1
   },
   {
    "id": "sika-65494",
@@ -347,7 +347,7 @@
    "publishedAt": "2026-11-04T12:17:00Z",
    "symbols": [],
    "status": "new",
-   "tries": 0
+   "tries": 1
   },
   {
    "id": "sika-65491",
@@ -363,7 +363,7 @@
     "STAC"
    ],
    "status": "new",
-   "tries": 0
+   "tries": 1
   },
   {
    "id": "sika-65490",
@@ -377,7 +377,7 @@
    "publishedAt": "2026-11-04T11:28:00Z",
    "symbols": [],
    "status": "new",
-   "tries": 0
+   "tries": 1
   },
   {
    "id": "sika-65489",
@@ -391,7 +391,7 @@
    "publishedAt": "2026-11-04T11:03:00Z",
    "symbols": [],
    "status": "new",
-   "tries": 0
+   "tries": 1
   },
   {
    "id": "sika-65487",
@@ -405,7 +405,7 @@
    "publishedAt": "2026-11-04T10:44:00Z",
    "symbols": [],
    "status": "new",
-   "tries": 0
+   "tries": 1
   },
   {
    "id": "sika-65488",
@@ -419,7 +419,7 @@
    "publishedAt": "2026-11-04T10:38:00Z",
    "symbols": [],
    "status": "new",
-   "tries": 0
+   "tries": 1
   },
   {
    "id": "sika-65486",
@@ -435,7 +435,7 @@
     "BOAB"
    ],
    "status": "new",
-   "tries": 0
+   "tries": 1
   },
   {
    "id": "sika-65484",
@@ -2498,6 +2498,20 @@
    "symbols": [
     "TTLC"
    ],
+   "status": "new",
+   "tries": 0
+  },
+  {
+   "id": "gn-15g4gf6",
+   "title": "La BRVM conclut un accord majeur avec la bourse de Luxembourg",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZG1DaUZqXzhsRGEwZVhTa3JSakkwd3FNcmVCcXpuYXB1U1RXSEFRaDZtSVZDLXROVFdrTkQ3ZW5TWGNxQ29IVUZLN3FyZkx5TDJncEloNDFpWTAzTlNSckJWY1o2UW5IYXR5SHU5UUFEX3MyOHI0QjJ5aS0yV3JZdXJJTkZBQVNyVW8ycllPZjlXS21DbzVNZk5hd09yNDg?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2023-10-06T07:00:00.000Z",
+   "symbols": [],
    "status": "new",
    "tries": 0
   },
