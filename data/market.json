@@ -1,22 +1,36 @@
 {
- "updatedAt": "2026-11-06T13:52:44.381Z",
+ "updatedAt": "2026-11-06T14:47:46.644Z",
  "sessionDate": "2026-11-06",
- "sessionTime": "13:45",
+ "sessionTime": "14:30",
  "source": "brvm.org",
- "transactionsValue": 2961107087,
- "capitalisationActions": 20560815461161,
- "capitalisationBonds": 13470432858879,
- "advancing": 22,
- "declining": 16,
- "unchanged": 10,
- "totalVolume": 2195283,
+ "transactionsValue": 3135638868,
+ "capitalisationActions": 20596570326755,
+ "capitalisationBonds": 13470440558879,
+ "advancing": 24,
+ "declining": 13,
+ "unchanged": 11,
+ "totalVolume": 3340125,
  "gainers": [
+  {
+   "symbol": "PALC",
+   "shortName": "Palm CI",
+   "close": 8000,
+   "change": 7.31,
+   "volume": 17058
+  },
   {
    "symbol": "STAC",
    "shortName": "SETAO CI",
    "close": 1950,
    "change": 5.41,
-   "volume": 1257
+   "volume": 1551
+  },
+  {
+   "symbol": "SDSC",
+   "shortName": "Africa Global Logistics CI",
+   "close": 2930,
+   "change": 4.64,
+   "volume": 9545
   },
   {
    "symbol": "CABC",
@@ -26,25 +40,11 @@
    "volume": 154
   },
   {
-   "symbol": "ECOC",
-   "shortName": "Ecobank Côte d’Ivoire",
-   "close": 16045,
-   "change": 3.45,
-   "volume": 639
-  },
-  {
-   "symbol": "SNTS",
-   "shortName": "Sonatel",
-   "close": 4180,
-   "change": 3.21,
-   "volume": 524253
-  },
-  {
-   "symbol": "FTSC",
-   "shortName": "Filtisac CI",
-   "close": 1715,
-   "change": 2.08,
-   "volume": 719
+   "symbol": "LNBB",
+   "shortName": "Loterie Nationale du Bénin",
+   "close": 3935,
+   "change": 3.96,
+   "volume": 229
   }
  ],
  "losers": [
@@ -53,7 +53,7 @@
    "shortName": "Sucrivoire CI",
    "close": 1750,
    "change": -5.41,
-   "volume": 10935
+   "volume": 11538
   },
   {
    "symbol": "BNBC",
@@ -63,62 +63,62 @@
    "volume": 679
   },
   {
-   "symbol": "CBIBF",
-   "shortName": "Coris Bank International",
-   "close": 32000,
-   "change": -1.77,
-   "volume": 165
-  },
-  {
    "symbol": "SAFC",
    "shortName": "SAFCA CI",
-   "close": 3735,
-   "change": -1.71,
-   "volume": 1957
+   "close": 3750,
+   "change": -1.32,
+   "volume": 2403
   },
   {
-   "symbol": "ETIT",
-   "shortName": "Ecobank Transnational (ETI)",
-   "close": 58,
-   "change": -1.69,
-   "volume": 1545946
+   "symbol": "BOAB",
+   "shortName": "BOA Bénin",
+   "close": 9400,
+   "change": -1,
+   "volume": 896
+  },
+  {
+   "symbol": "PRSC",
+   "shortName": "Tractafric Motors CI",
+   "close": 3620,
+   "change": -0.96,
+   "volume": 323
   }
  ],
  "mostActive": [
   {
    "symbol": "SNTS",
    "shortName": "Sonatel",
-   "close": 4180,
-   "change": 3.21,
-   "volume": 524253
+   "close": 4175,
+   "change": 3.09,
+   "volume": 525554
+  },
+  {
+   "symbol": "ETIT",
+   "shortName": "Ecobank Transnational (ETI)",
+   "close": 60,
+   "change": 1.69,
+   "volume": 2676449
   },
   {
    "symbol": "PALC",
    "shortName": "Palm CI",
-   "close": 7550,
-   "change": 1.27,
-   "volume": 15761
+   "close": 8000,
+   "change": 7.31,
+   "volume": 17058
   },
   {
    "symbol": "TTLS",
    "shortName": "TotalEnergies Marketing Sénégal",
    "close": 3700,
    "change": 0,
-   "volume": 28875
+   "volume": 28895
   },
   {
-   "symbol": "ETIT",
-   "shortName": "Ecobank Transnational (ETI)",
-   "close": 58,
-   "change": -1.69,
-   "volume": 1545946
-  },
-  {
-   "symbol": "BOAC",
-   "shortName": "BOA Côte d’Ivoire",
-   "close": 11995,
-   "change": 0.29,
-   "volume": 2551
+   "symbol": "BICB",
+   "shortName": "BIIC Bénin",
+   "close": 8100,
+   "change": 0,
+   "volume": 5026
   }
  ]
 }
