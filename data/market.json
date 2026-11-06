@@ -1,124 +1,16 @@
 {
- "updatedAt": "2026-11-06T08:57:35.841Z",
- "sessionDate": "2026-11-05",
- "sessionTime": "22:45",
+ "updatedAt": "2026-11-06T09:53:26.742Z",
+ "sessionDate": "2026-11-06",
+ "sessionTime": "09:45",
  "source": "brvm.org",
- "transactionsValue": 2189780437,
+ "transactionsValue": 0,
  "capitalisationActions": 20399559438358,
- "capitalisationBonds": 13447429147465,
- "advancing": 17,
- "declining": 23,
- "unchanged": 8,
- "totalVolume": 1527272,
- "gainers": [
-  {
-   "symbol": "CABC",
-   "shortName": "Sicable CI",
-   "close": 2680,
-   "change": 6.99,
-   "volume": 1841
-  },
-  {
-   "symbol": "CIEC",
-   "shortName": "CIE Côte d’Ivoire",
-   "close": 5300,
-   "change": 3.92,
-   "volume": 7029
-  },
-  {
-   "symbol": "ABJC",
-   "shortName": "Servair Abidjan",
-   "close": 3395,
-   "change": 3.51,
-   "volume": 1273
-  },
-  {
-   "symbol": "TTLS",
-   "shortName": "TotalEnergies Marketing Sénégal",
-   "close": 3700,
-   "change": 2.78,
-   "volume": 5005
-  },
-  {
-   "symbol": "BICC",
-   "shortName": "BICI Côte d’Ivoire",
-   "close": 31995,
-   "change": 1.49,
-   "volume": 39
-  }
- ],
- "losers": [
-  {
-   "symbol": "STAC",
-   "shortName": "SETAO CI",
-   "close": 1850,
-   "change": -7.5,
-   "volume": 1266
-  },
-  {
-   "symbol": "SDSC",
-   "shortName": "Africa Global Logistics CI",
-   "close": 2800,
-   "change": -7.44,
-   "volume": 9896
-  },
-  {
-   "symbol": "NEIC",
-   "shortName": "NEI-CEDA CI",
-   "close": 1835,
-   "change": -7.32,
-   "volume": 2022
-  },
-  {
-   "symbol": "LNBB",
-   "shortName": "Loterie Nationale du Bénin",
-   "close": 3785,
-   "change": -5.38,
-   "volume": 675
-  },
-  {
-   "symbol": "SNTS",
-   "shortName": "Sonatel",
-   "close": 4050,
-   "change": -4.59,
-   "volume": 194208
-  }
- ],
- "mostActive": [
-  {
-   "symbol": "SNTS",
-   "shortName": "Sonatel",
-   "close": 4050,
-   "change": -4.59,
-   "volume": 194208
-  },
-  {
-   "symbol": "SGBC",
-   "shortName": "Société Générale CI",
-   "close": 39200,
-   "change": 0.77,
-   "volume": 10018
-  },
-  {
-   "symbol": "BOAC",
-   "shortName": "BOA Côte d’Ivoire",
-   "close": 11960,
-   "change": 0.5,
-   "volume": 9132
-  },
-  {
-   "symbol": "SIBC",
-   "shortName": "Société Ivoirienne de Banque",
-   "close": 8700,
-   "change": -1.19,
-   "volume": 10695
-  },
-  {
-   "symbol": "SCRC",
-   "shortName": "Sucrivoire CI",
-   "close": 1850,
-   "change": -1.86,
-   "volume": 42816
-  }
- ]
+ "capitalisationBonds": 13463190358879,
+ "advancing": 0,
+ "declining": 0,
+ "unchanged": 48,
+ "totalVolume": 0,
+ "gainers": [],
+ "losers": [],
+ "mostActive": []
 }

@@ -1,6 +1,34 @@
 {
- "updatedAt": "2026-11-06T09:01:43.745Z",
+ "updatedAt": "2026-11-06T09:55:00.597Z",
  "items": [
+  {
+   "id": "sika-65538",
+   "title": "InTouch et Yabx misent sur le crédit numérique pour toucher des millions d’Africains",
+   "summary": "Les transactions du quotidien pourraient bientôt devenir un nouveau point d'entrée vers le financement. À ...",
+   "url": "https://www.sikafinance.com/marches/intouch-et-yabx-misent-sur-le-credit-numerique-pour-toucher-des-millions-dafricains_65538",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-06T09:02:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "sika-65539",
+   "title": "La Côte d’Ivoire inaugure la plus grande centrale biomasse d’Afrique de l’Ouest",
+   "summary": "Inaugurée le 5 novembre 2026 à Ayébo, dans le sud-est de la Côte d'Ivoire, la centrale de 46 MW tra...",
+   "url": "https://www.sikafinance.com/marches/la-cote-divoire-inaugure-la-plus-grande-centrale-biomasse-dafrique-de-louest_65539",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-06T08:49:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65534",
    "title": "BRVM : SICABLE rebondit après un point bas à 2 500 FCFA",
@@ -682,8 +710,8 @@
    "symbols": [
     "STBC"
    ],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65452",
@@ -696,8 +724,8 @@
    "premium": false,
    "publishedAt": "2026-11-03T10:12:00Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65448",
@@ -712,8 +740,8 @@
    "symbols": [
     "SOGC"
    ],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65445",
@@ -726,8 +754,8 @@
    "premium": false,
    "publishedAt": "2026-11-03T08:30:00Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65442",
@@ -742,8 +770,8 @@
    "symbols": [
     "CBIBF"
    ],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65441",
@@ -758,8 +786,8 @@
    "symbols": [
     "NEIC"
    ],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65437",
@@ -772,8 +800,8 @@
    "premium": false,
    "publishedAt": "2026-11-02T16:48:00Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65436",
@@ -788,8 +816,8 @@
    "symbols": [
     "BICC"
    ],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65435",
