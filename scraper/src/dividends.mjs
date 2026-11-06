@@ -4,6 +4,7 @@
 // avec le cours du moment.
 import fs from 'node:fs/promises';
 import path from 'node:path';
+import { adjustDividend } from './splits.mjs';
 
 export const DIVIDENDS_URL = process.env.BRVMEXA_DIVIDENDS_URL ?? 'https://raw.githubusercontent.com/blakro/brvm/main/data/dividendes.csv';
 const DAY = 864e5;
@@ -71,16 +72,17 @@ export async function updateDividends(dataDir, symbols, { log = console.log, now
   const today = now.toISOString().slice(0, 10);
   let current = null;
   try { current = JSON.parse(await fs.readFile(file, 'utf8')); } catch {}
-  if (!force && current?.checkedOn === today) return false;
+  // splitAdjusted : force un recalcul unique quand l'ajustement des fractionnements a été ajouté
+  if (!force && current?.checkedOn === today && current?.splitAdjusted) return false;
   const res = await fetchImpl(DIVIDENDS_URL, { signal: AbortSignal.timeout(60000) });
   if (!res.ok) throw new Error(`dividendes : HTTP ${res.status}`);
   const raw = parseDividendsCsv(await res.text());
   const items = {};
   for (const s of symbols) {
-    const sum = summarize(cleanDividends(raw[s] ?? []), today);
+    const sum = summarize(cleanDividends((raw[s] ?? []).map((p) => adjustDividend(s, p))), today);
     if (sum) items[s] = sum;
   }
-  await fs.writeFile(file, JSON.stringify({ updatedAt: now.toISOString(), checkedOn: today, source: DIVIDENDS_URL, currency: 'XOF', gross: true, items }) + '\n');
+  await fs.writeFile(file, JSON.stringify({ updatedAt: now.toISOString(), checkedOn: today, source: DIVIDENDS_URL, currency: 'XOF', gross: true, splitAdjusted: true, items }) + '\n');
   log(`Dividendes : ${Object.keys(items).length} sociétés`);
   return true;
 }

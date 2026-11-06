@@ -110,7 +110,8 @@ test('historique : archive CSV', async () => {
   const fetchImpl = async () => ({ ok: true, text: async () => csv });
   assert.equal(await fillFromArchive(dir, ['SNTS'], { log: () => {}, fetchImpl }), 1);
   const h = JSON.parse(await fs.readFile(path.join(dir, 'history', 'SNTS.json'), 'utf8'));
-  assert.deepEqual(h.map((p) => [p.d, p.o]), [['2026-10-14', 44000], ['2026-10-15', 44705]]);
+  // Le point ajouté depuis l'archive (avant le fractionnement Sonatel du 26/10/2026) est ramené à l'action d'aujourd'hui
+  assert.deepEqual(h.map((p) => [p.d, p.o]), [['2026-10-14', 4400], ['2026-10-15', 44705]]);
   assert.equal(await fillFromArchive(dir, ['SNTS'], { log: () => {}, fetchImpl }), 0);
 });
 
@@ -178,4 +179,24 @@ test('notifications du simulateur (ordres limités, expiration, dividendes)', as
   const ev = simEvents('u1', state, market, div, now);
   assert.deepEqual(ev.map((e) => e.key).sort(), ['div:u1:ORAC:2026-10-15', 'exp:d', 'fill:a']);
   assert.match(ev.find((e) => e.key === 'div:u1:ORAC:2026-10-15').body, /8 000 F/);
+});
+
+test('fractionnements : cours, volumes, dividendes et historique ajustés une seule fois', async () => {
+  const { splitFactor, adjustPoint, adjustDividend, applySplitsToHistory } = await import('../src/splits.mjs');
+  const { readHistory, writeHistory } = await import('../src/history.mjs');
+  assert.equal(splitFactor('SNTS', '2026-10-23'), 10);
+  assert.equal(splitFactor('SNTS', '2026-10-26'), 1);
+  assert.equal(splitFactor('ORAC', '2010-01-01'), 1);
+  assert.deepEqual(adjustPoint('SNTS', { d: '2026-10-23', o: 42500, c: 43850, v: 35656 }), { d: '2026-10-23', o: 4250, c: 4385, v: 356560 });
+  assert.equal(adjustDividend('SNTS', { d: '2026-05-22', a: 1740 }).a, 174);
+  const os = await import('node:os'); const fs = await import('node:fs/promises'); const path = await import('node:path');
+  const dir = await fs.mkdtemp(path.join(os.tmpdir(), 'bx-'));
+  await fs.mkdir(path.join(dir, 'history'));
+  const file = path.join(dir, 'history', 'SNTS.json');
+  await writeHistory(file, [{ d: '2026-10-23', o: 42500, c: 43850, v: 35656 }, { d: '2026-10-26', o: 4710, c: 4700, v: 323351 }]);
+  const io = { log: () => {}, readHistory, writeHistory };
+  assert.equal(await applySplitsToHistory(dir, io), true);
+  assert.equal(await applySplitsToHistory(dir, io), false); // deuxième passage : rien ne change
+  const h = await readHistory(file);
+  assert.deepEqual(h.map((p) => p.c), [4385, 4700]);
 });

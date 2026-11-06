@@ -5,6 +5,7 @@
 //   Le robot y comble automatiquement les jours manquants. Nos propres points ne sont jamais écrasés.
 import fs from 'node:fs/promises';
 import path from 'node:path';
+import { adjustPoint, applySplitsToHistory } from './splits.mjs';
 
 export const ARCHIVE_URL = process.env.BRVMEXA_ARCHIVE_URL ?? 'https://raw.githubusercontent.com/blakro/brvm/main/data/cours.csv';
 export const HISTORY_MAX_DAYS = 3000;
@@ -57,7 +58,8 @@ export async function fillFromArchive(dataDir, symbols, { log = console.log, fet
   const bySym = parseArchiveCsv(await res.text(), new Set(symbols));
   let added = 0;
   for (const sym of symbols) {
-    const rows = bySym[sym];
+    // L'archive donne les cours bruts : ceux d'avant un fractionnement sont ramenés à l'action d'aujourd'hui
+    const rows = bySym[sym]?.map((p) => adjustPoint(sym, p));
     if (!rows?.length) { log(`Historique : ${sym} absent de l’archive`); continue; }
     const file = path.join(dataDir, 'history', `${sym}.json`);
     const hist = await readHistory(file);
@@ -80,6 +82,8 @@ export async function fillFromArchive(dataDir, symbols, { log = console.log, fet
  * et une fois par jour après la séance pour rattraper un éventuel jour manqué.
  */
 export async function ensureHistory(dataDir, symbols, { log = console.log, now = new Date(), fetchImpl = fetch } = {}) {
+  // Fractionnements d'actions : ajuste une seule fois les cours déjà enregistrés
+  await applySplitsToHistory(dataDir, { log, readHistory, writeHistory });
   const metaFile = path.join(dataDir, 'history', '_archive.json');
   let meta = {};
   try { meta = JSON.parse(await fs.readFile(metaFile, 'utf8')); } catch {}
