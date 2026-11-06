@@ -1,6 +1,34 @@
 {
- "updatedAt": "2026-11-06T15:40:53.317Z",
+ "updatedAt": "2026-11-06T16:31:08.125Z",
  "items": [
+  {
+   "id": "sika-65558",
+   "title": "Congo : Une redevance de 10 % sur les mises électroniques des paris et jeux d’argent dès mars 2027",
+   "summary": "Les opérateurs de paris sportifs, de loterie et d'autres jeux d'argent exerçant en République du Congo devront s...",
+   "url": "https://www.sikafinance.com/marches/congo-une-redevance-de-10-sur-les-mises-electroniques-des-paris-et-jeux-dargent-des-mars-2027_65558",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-06T16:17:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "sika-65556",
+   "title": "Sénégal : 190 millions USD pour faire émerger une nouvelle génération de PME à forte croissance",
+   "summary": "Au Sénégal, le défi n'est plus seulement de faire naître des entreprises, mais de leur donner les moyens de chang...",
+   "url": "https://www.sikafinance.com/marches/senegal-190-millions-usd-pour-faire-emerger-une-nouvelle-generation-de-pme-a-forte-croissance_65556",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-11-06T15:52:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65554",
    "title": "Projet aurifère de Doropo : NSIA Banque participe à une mobilisation de 148 milliards FCFA pour une mine stratégique en Côte d’Ivoire",
