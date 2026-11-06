@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-06T12:39:52.108Z",
+ "updatedAt": "2026-11-06T13:53:51.669Z",
  "items": [
   {
    "id": "sika-65548",
@@ -1262,8 +1262,8 @@
    "premium": false,
    "publishedAt": "2026-10-30T17:18:00Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65386",
@@ -1276,8 +1276,8 @@
    "premium": false,
    "publishedAt": "2026-10-30T16:44:00Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65385",
@@ -1290,8 +1290,8 @@
    "premium": false,
    "publishedAt": "2026-10-30T16:20:00Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65384",
@@ -1304,8 +1304,8 @@
    "premium": false,
    "publishedAt": "2026-10-30T16:15:00Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65382",
@@ -1318,8 +1318,8 @@
    "premium": true,
    "publishedAt": "2026-10-30T15:45:00Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65379",
@@ -1334,8 +1334,8 @@
    "symbols": [
     "SNTS"
    ],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65378",
@@ -1350,8 +1350,8 @@
    "symbols": [
     "CIEC"
    ],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65374",
