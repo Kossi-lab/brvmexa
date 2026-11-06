@@ -20,6 +20,7 @@ on:
 
 permissions:
   contents: write
+  models: read   # IA gratuite de GitHub (réécriture des actualités)
 
 concurrency:
   group: update-data
@@ -47,7 +48,9 @@ jobs:
         if: github.event_name == 'schedule' || inputs.task == 'update'
         # Le week-end, seules les actualités changent
         env:
-          # Clé de l'IA qui réécrit les actualités (facultative : sans elle, les dépêches sont publiées telles quelles)
+          # IA qui réécrit les actualités : GitHub Models, gratuit, avec le jeton automatique du robot.
+          # Une clé ANTHROPIC_API_KEY (facultative, payante) est utilisée à la place si elle existe.
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
           if [ "$(date -u +%u)" -ge 6 ]; then npm run update -- news; else npm run update; fi

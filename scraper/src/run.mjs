@@ -12,7 +12,7 @@ import { COMPANIES, COUNTRIES, SECTORS, countryFromSymbol } from './companies.mj
 import { readHistory, writeHistory, ensureHistory } from './history.mjs';
 import { updateDividends } from './dividends.mjs';
 import { writePerformance } from './performance.mjs';
-import { rewriteItem, extractArticle, AUTHOR } from './rewrite.mjs';
+import { rewriteItem, extractArticle, writer, QuotaError, AUTHOR } from './rewrite.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..', '..');
 const DATA = process.env.DATA_DIR ?? path.join(ROOT, 'data');
@@ -192,14 +192,15 @@ async function updateNews() {
   stock = [...byKey.values()].sort((a, b) => (b.publishedAt ?? '').localeCompare(a.publishedAt ?? '')).slice(0, 300);
   if (!fresh.length && !stock.length) throw new Error('Aucune actualité récupérée');
 
-  // 2. Rédaction : chaque nouvelle dépêche est réécrite par l'IA (clé ANTHROPIC_API_KEY dans les secrets GitHub)
-  const key = process.env.ANTHROPIC_API_KEY;
+  // 2. Rédaction : chaque nouvelle dépêche est réécrite par l'IA (GitHub Models gratuit, ou clé ANTHROPIC_API_KEY)
+  const key = writer();
   const mine = new Map(published.filter((n) => n.rewritten).map((n) => [n.id, n]));
   // Au démarrage, on rattrape plus vite pour que la page ne paraisse pas vide
   const limit = Number(process.env.NEWS_REWRITE_MAX || (mine.size < 30 ? 30 : 10));
   const recent = Date.now() - 7 * 86400000;
   const todo = stock.filter((n) => n.status === 'new' && n.tries < 3 && !mine.has(n.id) && (!n.publishedAt || Date.parse(n.publishedAt) > recent)).slice(0, limit);
-  if (!key) log('Actualités : pas de clé ANTHROPIC_API_KEY, réécriture désactivée');
+  if (!key) log('Actualités : aucune IA disponible, réécriture désactivée');
+  else log(`Actualités : réécriture avec ${key.kind === 'github' ? 'GitHub Models (gratuit)' : 'Anthropic'}, ${todo.length} à rédiger`);
   for (const n of key ? todo : []) {
     n.tries += 1;
     try {
@@ -228,14 +229,18 @@ async function updateNews() {
         rewritten: true,
       });
       log(`Actualités : rédigée « ${r.title.slice(0, 70)} » (${text.length} car. de source)`);
-    } catch (e) { log('réécriture impossible :', e.message); }
+    } catch (e) {
+      if (e instanceof QuotaError) { n.tries -= 1; log('Actualités :', e.message, '— reprise au prochain passage'); break; }
+      log('réécriture impossible :', e.message);
+    }
   }
   await writeJson(srcFile, { updatedAt: new Date().toISOString(), items: stock });
 
   // 3. Publication : dès qu'il existe des articles de la rédaction, seuls ceux-ci sont publiés
-  const items = mine.size
-    ? [...mine.values()].sort((a, b) => (b.publishedAt ?? '').localeCompare(a.publishedAt ?? '')).slice(0, NEWS_MAX)
-    : stock.filter((n) => n.status !== 'skip').slice(0, NEWS_MAX).map(({ status, tries, ...n }) => n);
+  // (tant qu'il y en a moins de 12, la liste est complétée par des dépêches pas encore rédigées)
+  const raw = stock.filter((n) => n.status === 'new' && !mine.has(n.id)).map(({ status, tries, ...n }) => n);
+  const items = [...mine.values(), ...raw.slice(0, mine.size ? Math.max(0, 12 - mine.size) : NEWS_MAX)]
+    .sort((a, b) => (b.publishedAt ?? '').localeCompare(a.publishedAt ?? '')).slice(0, NEWS_MAX);
   await writeJson(pubFile, { updatedAt: new Date().toISOString(), items });
   log(`Actualités : ${items.length} articles publiés (${mine.size} rédigés par BRVMexa)`);
 }
