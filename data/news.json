@@ -1,6 +1,61 @@
 {
- "updatedAt": "2026-11-06T16:53:45.005Z",
+ "updatedAt": "2026-11-06T17:50:02.478Z",
  "items": [
+  {
+   "id": "sika-65563",
+   "title": "L'APROMAC célèbre 50 ans d'essor pour la filière ivoirienne du caoutchouc",
+   "summary": "L'Association des professionnels du caoutchouc naturel de Côte d'Ivoire a fêté son cinquantenaire, marquant cinq décennies de structuration ayant propulsé le pays au rang de deuxième producteur mondial.",
+   "body": [
+    "Fondée en 1975, l'APROMAC a célébré son cinquantième anniversaire les 5 et 6 novembre 2026 à Abidjan. Cette organisation interprofessionnelle, qui fédère producteurs et transformateurs, a joué un rôle déterminant dans l'ascension de la Côte d'Ivoire, devenue en 2025 le deuxième producteur mondial de caoutchouc naturel, derrière la Thaïlande. Le secteur, qui assure plus de 85 % de la production africaine, emploie aujourd'hui 180 000 planteurs villageois et soutient 1,5 million de personnes.",
+    "La production nationale a connu une progression fulgurante, passant de 164 138 tonnes en 2005 à 2 millions de tonnes fin 2025, dépassant désormais le cacao en volume d'exportation. Pour maintenir cette dynamique, l'APROMAC mise sur la transformation locale, la labellisation et la formation, via notamment un projet d'académie à Taabo. Parallèlement, l'accent est mis sur la juste rémunération des planteurs, avec l'application de nouveaux mécanismes de prix instaurés en février 2026 pour sécuriser les revenus des producteurs."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65563",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-06T17:28:00Z",
+   "writtenAt": "2026-11-06T17:49:53.384Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/cote-divoire-lapromac-celebre-50-ans-dengagement-au-service-de-la-filiere-hevea_65563",
+    "title": "Côte d’Ivoire : L’APROMAC célèbre 50 ans d’engagement au service de la filière hévéa"
+   },
+   "rewritten": true
+  },
+  {
+   "id": "sika-65562",
+   "title": "La BRVM renoue avec la croissance portée par la performance d'Ecobank CI",
+   "summary": "Après une série de baisses, la Bourse régionale des valeurs mobilières termine la semaine dans le vert, soutenue par une dynamique haussière sur de nombreux titres.",
+   "body": [
+    "La séance du 6 novembre 2026 marque un tournant pour la BRVM, avec une progression de ses trois indices principaux. Le BRVM-Composite progresse de 0,10 % à 520,74 points, le BRVM-30 gagne 0,07 % à 251,79 points, et le BRVM-Prestige enregistre la plus forte hausse avec 0,43 % à 194,71 points. Cette dynamique est largement impulsée par ECOBANK CI, dont l'apport de 29,45 milliards FCFA a significativement renforcé la capitalisation boursière globale.",
+    "Le marché affiche une tendance positive avec 25 valeurs en hausse contre 14 en baisse. PALM CI réalise la meilleure performance (+7,31 %), suivie par SETAO CI (+5,41 %) et AFRICA GLOBAL LOGISTICS CI (+4,64 %). À l'inverse, SUCRIVOIRE subit une correction de 7,03 %. Par ailleurs, les échanges ont atteint 3,33 milliards FCFA, portés majoritairement par SONATEL SN qui totalise 2,38 milliards FCFA de transactions malgré une baisse de 1,23 % de son cours."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65562",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-06T17:21:00Z",
+   "writtenAt": "2026-11-06T17:50:02.475Z",
+   "symbols": [
+    "ECOC",
+    "PALC",
+    "SCRC",
+    "SDSC",
+    "SNTS",
+    "STAC"
+   ],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/cloture-brvm-ecobank-ci-propulse-la-capitalisation-avec-un-gain-de-pres-de-30-milliards-fcfa_65562",
+    "title": "Clôture BRVM : Ecobank CI propulse la capitalisation avec un gain de près de 30 milliards FCFA"
+   },
+   "rewritten": true
+  },
   {
    "id": "sika-65560",
    "title": "Congo : Le gouvernement prévoit 1 132 milliards FCFA d'emprunts pour le budget 2027",

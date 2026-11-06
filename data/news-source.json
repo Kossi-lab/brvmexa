@@ -1,6 +1,36 @@
 {
- "updatedAt": "2026-11-06T16:53:45.003Z",
+ "updatedAt": "2026-11-06T17:50:02.476Z",
  "items": [
+  {
+   "id": "sika-65563",
+   "title": "Côte d’Ivoire : L’APROMAC célèbre 50 ans d’engagement au service de la filière hévéa",
+   "summary": "Deuxième producteur mondial de caoutchouc naturel depuis 2025, la Côte d'Ivoire s'est progressivement imposée sur...",
+   "url": "https://www.sikafinance.com/marches/cote-divoire-lapromac-celebre-50-ans-dengagement-au-service-de-la-filiere-hevea_65563",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-06T17:28:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "sika-65562",
+   "title": "Clôture BRVM : Ecobank CI propulse la capitalisation avec un gain de près de 30 milliards FCFA",
+   "summary": "Après plusieurs séances de repli, la Bourse régionale des valeurs mobilières (BRVM) signe un rebond à l'occasion de sa ...",
+   "url": "https://www.sikafinance.com/marches/cloture-brvm-ecobank-ci-propulse-la-capitalisation-avec-un-gain-de-pres-de-30-milliards-fcfa_65562",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-06T17:21:00Z",
+   "symbols": [
+    "ECOC"
+   ],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65560",
    "title": "Congo : Plus de 1 132 milliards FCFA d'emprunts et de titres publics programmés en 2027",
