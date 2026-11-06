@@ -12,6 +12,7 @@ import { COMPANIES, COUNTRIES, SECTORS, countryFromSymbol } from './companies.mj
 import { readHistory, writeHistory, ensureHistory } from './history.mjs';
 import { updateDividends } from './dividends.mjs';
 import { writePerformance } from './performance.mjs';
+import { rewriteItem, extractArticle, AUTHOR } from './rewrite.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..', '..');
 const DATA = process.env.DATA_DIR ?? path.join(ROOT, 'data');
@@ -172,24 +173,71 @@ async function updateNews() {
       fresh.push(...got);
     } catch (e) { log('source ignorée :', e.message); }
   }
-  const file = path.join(DATA, 'news.json');
-  // Les articles d'exemple livrés avec le projet disparaissent dès la première vraie collecte
-  const old = (await readJson(file, { items: [] })).items.filter((n) => !fresh.length || !n.id.startsWith('seed-'));
-  // Un article = une entrée : même identifiant (titre modifié par le site) ou même titre → on garde la version la plus récente
-  const merged = new Map();
+  // 1. Stock des dépêches collectées (avec leur état de rédaction)
+  const srcFile = path.join(DATA, 'news-source.json');
+  const pubFile = path.join(DATA, 'news.json');
+  const published = (await readJson(pubFile, { items: [] })).items;
+  let stock = (await readJson(srcFile, null))?.items;
+  if (!stock) stock = published.filter((n) => !n.rewritten && !n.id.startsWith('seed-')); // première fois : reprise de l'existant
+  const byKey = new Map();
   const seenIds = new Set();
-  for (const n of [...fresh, ...old]) {
+  const prev = new Map(stock.map((n) => [n.id, n]));
+  for (const n of [...fresh, ...stock]) {
     const key = n.title.toLowerCase().replace(/\W+/g, '').slice(0, 80);
-    if (merged.has(key) || seenIds.has(n.id)) continue;
+    if (byKey.has(key) || seenIds.has(n.id)) continue;
     seenIds.add(n.id);
-    merged.set(key, { ...n, symbols: tagSymbols(n, COMPANIES) });
+    const old = prev.get(n.id);
+    byKey.set(key, { ...n, symbols: tagSymbols(n, COMPANIES), status: old?.status ?? n.status ?? 'new', tries: old?.tries ?? n.tries ?? 0 });
   }
-  const items = [...merged.values()]
-    .sort((a, b) => (b.publishedAt ?? '').localeCompare(a.publishedAt ?? ''))
-    .slice(0, NEWS_MAX);
-  if (!fresh.length && !old.length) throw new Error('Aucune actualité récupérée');
-  await writeJson(file, { updatedAt: new Date().toISOString(), items });
-  log(`Actualités : ${items.length} articles enregistrés`);
+  stock = [...byKey.values()].sort((a, b) => (b.publishedAt ?? '').localeCompare(a.publishedAt ?? '')).slice(0, 300);
+  if (!fresh.length && !stock.length) throw new Error('Aucune actualité récupérée');
+
+  // 2. Rédaction : chaque nouvelle dépêche est réécrite par l'IA (clé ANTHROPIC_API_KEY dans les secrets GitHub)
+  const key = process.env.ANTHROPIC_API_KEY;
+  const mine = new Map(published.filter((n) => n.rewritten).map((n) => [n.id, n]));
+  // Au démarrage, on rattrape plus vite pour que la page ne paraisse pas vide
+  const limit = Number(process.env.NEWS_REWRITE_MAX || (mine.size < 30 ? 30 : 10));
+  const recent = Date.now() - 7 * 86400000;
+  const todo = stock.filter((n) => n.status === 'new' && n.tries < 3 && !mine.has(n.id) && (!n.publishedAt || Date.parse(n.publishedAt) > recent)).slice(0, limit);
+  if (!key) log('Actualités : pas de clé ANTHROPIC_API_KEY, réécriture désactivée');
+  for (const n of key ? todo : []) {
+    n.tries += 1;
+    try {
+      let text = '';
+      if (/sikafinance\.com/.test(n.url) && !n.premium) {
+        try { text = extractArticle(await fetchText(n.url, { retries: 2 })); } catch (e) { log('article illisible :', e.message); }
+      }
+      const r = await rewriteItem(n, text, key);
+      if (r.skip) { n.status = 'skip'; log(`Actualités : écartée « ${n.title.slice(0, 60)} »`); continue; }
+      n.status = 'done';
+      mine.set(n.id, {
+        id: n.id,
+        title: r.title,
+        summary: r.summary,
+        body: r.body,
+        author: AUTHOR,
+        source: AUTHOR,
+        url: `https://www.brvmexa.com/actualites/#${n.id}`,
+        image: null,
+        category: n.category,
+        premium: false,
+        publishedAt: n.publishedAt ?? new Date().toISOString(),
+        writtenAt: new Date().toISOString(),
+        symbols: tagSymbols({ ...n, title: `${n.title} ${r.title}`, summary: r.body.join(' ') }, COMPANIES),
+        origin: { name: n.source, url: n.url, title: n.title },
+        rewritten: true,
+      });
+      log(`Actualités : rédigée « ${r.title.slice(0, 70)} » (${text.length} car. de source)`);
+    } catch (e) { log('réécriture impossible :', e.message); }
+  }
+  await writeJson(srcFile, { updatedAt: new Date().toISOString(), items: stock });
+
+  // 3. Publication : dès qu'il existe des articles de la rédaction, seuls ceux-ci sont publiés
+  const items = mine.size
+    ? [...mine.values()].sort((a, b) => (b.publishedAt ?? '').localeCompare(a.publishedAt ?? '')).slice(0, NEWS_MAX)
+    : stock.filter((n) => n.status !== 'skip').slice(0, NEWS_MAX).map(({ status, tries, ...n }) => n);
+  await writeJson(pubFile, { updatedAt: new Date().toISOString(), items });
+  log(`Actualités : ${items.length} articles publiés (${mine.size} rédigés par BRVMexa)`);
 }
 
 function titleCase(s) {
