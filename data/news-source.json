@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-06T10:55:38.756Z",
+ "updatedAt": "2026-11-06T11:45:20.695Z",
  "items": [
+  {
+   "id": "sika-65547",
+   "title": "Produits de base : Les prix mondiaux attendus en hausse de 23% en 2026 sous l’effet des chocs internationaux",
+   "summary": "Les marchés mondiaux des matières premières encaissent les chocs à répétition. Après 3 années de repli, les prix de l'é...",
+   "url": "https://www.sikafinance.com/marches/produits-de-base-les-prix-mondiaux-attendus-en-hausse-de-23-en-2026-sous-leffet-des-chocs-internationaux_65547",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-06T11:40:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65543",
    "title": "Pays en développement : La dette extérieure atteint un niveau historique de 9 400 milliards USD en 2025, en hausse de 5,5%",
@@ -25,6 +39,20 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-11-06T10:44:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "sika-65546",
+   "title": "Bénin : Damien Mama quitte les Nations unies pour piloter la transformation économique des territoires",
+   "summary": "Après plus de 25 ans de carrière dans le développement international, Damien Mama revient au Bénin pour prendre e...",
+   "url": "https://www.sikafinance.com/marches/benin-damien-mama-quitte-les-nations-unies-pour-piloter-la-transformation-economique-des-territoires_65546",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-06T10:08:00Z",
    "symbols": [],
    "status": "done",
    "tries": 1
@@ -976,8 +1004,8 @@
    "symbols": [
     "NSBC"
    ],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65419",
@@ -990,8 +1018,8 @@
    "premium": false,
    "publishedAt": "2026-11-02T11:55:00Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "gn-1lr0nmy",
@@ -1006,8 +1034,8 @@
    "symbols": [
     "ONTBF"
    ],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65418",
@@ -1020,8 +1048,8 @@
    "premium": false,
    "publishedAt": "2026-11-02T11:32:00Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65417",
@@ -1034,8 +1062,8 @@
    "premium": false,
    "publishedAt": "2026-11-02T11:04:00Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65416",
@@ -1050,8 +1078,8 @@
    "symbols": [
     "SGBC"
    ],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65413",
@@ -1064,8 +1092,8 @@
    "premium": true,
    "publishedAt": "2026-11-02T09:45:00Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65411",
@@ -1078,8 +1106,8 @@
    "premium": false,
    "publishedAt": "2026-11-02T09:23:00Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "gn-ax1b8j",
