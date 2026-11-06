@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-06T04:31:56.031Z",
+ "updatedAt": "2026-11-06T04:42:17.759Z",
  "items": [
   {
    "id": "sika-65534",
@@ -15,7 +15,7 @@
     "CABC"
    ],
    "status": "new",
-   "tries": 0
+   "tries": 1
   },
   {
    "id": "sika-65533",
@@ -28,8 +28,8 @@
    "premium": false,
    "publishedAt": "2026-11-05T15:30:00Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65532",
@@ -42,8 +42,8 @@
    "premium": false,
    "publishedAt": "2026-11-05T14:40:00Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65527",
@@ -57,7 +57,7 @@
    "publishedAt": "2026-11-05T13:49:00Z",
    "symbols": [],
    "status": "new",
-   "tries": 0
+   "tries": 1
   },
   {
    "id": "sika-65523",
@@ -71,7 +71,7 @@
    "publishedAt": "2026-11-05T13:00:00Z",
    "symbols": [],
    "status": "new",
-   "tries": 0
+   "tries": 1
   },
   {
    "id": "sika-65525",
@@ -85,7 +85,7 @@
    "publishedAt": "2026-11-05T12:58:00Z",
    "symbols": [],
    "status": "new",
-   "tries": 0
+   "tries": 1
   },
   {
    "id": "sika-65522",
