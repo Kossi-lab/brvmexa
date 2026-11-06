@@ -24,7 +24,7 @@ async function askGithub(source, key) {
     const res = await fetch(GH_API, {
       method: 'POST',
       signal: AbortSignal.timeout(60000),
-      headers: { 'content-type': 'application/json', authorization: `Bearer ${key}`, accept: 'application/json' },
+      headers: { 'content-type': 'application/json', authorization: `Bearer ${key}`, accept: 'application/vnd.github+json', 'x-github-api-version': '2022-11-28' },
       body: JSON.stringify({
         model,
         temperature: 0.4,
