@@ -202,7 +202,9 @@ async function updateNews() {
   if (!key) log('Actualités : aucune IA disponible, réécriture désactivée');
   else log(`Actualités : réécriture avec ${key.kind === 'gemini' ? 'Google Gemini (gratuit)' : 'Anthropic'}, ${todo.length} à rédiger`);
   let first = true;
+  const deadline = Date.now() + 4 * 60000; // la rédaction ne doit pas retarder la mise à jour des cours
   for (const n of key ? todo : []) {
+    if (Date.now() > deadline) { log('Actualités : temps de rédaction écoulé, la suite au prochain passage'); break; }
     if (!first) await new Promise((r) => setTimeout(r, PAUSE_MS[key.kind] ?? 1000));
     first = false;
     n.tries += 1;

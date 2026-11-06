@@ -8,7 +8,7 @@ const API = process.env.NEWS_API_URL || 'https://api.anthropic.com/v1/messages';
 const MODEL = process.env.NEWS_MODEL || 'claude-haiku-5-5';
 // Option gratuite : Google Gemini (offre gratuite, sans carte bancaire), via son interface compatible OpenAI
 const GEM_API = process.env.NEWS_GEMINI_API_URL || 'https://generativelanguage.googleapis.com/v1beta/openai/chat/completions';
-const GEM_MODELS = (process.env.NEWS_GEMINI_MODEL || 'gemini-flash-latest').split(',');
+const GEM_MODELS = (process.env.NEWS_GEMINI_MODEL || 'gemini-3.1-flash-lite,gemini-flash-lite-latest,gemini-2.5-flash-lite,gemini-flash-latest').split(',');
 export const PAUSE_MS = { gemini: 7000, anthropic: 500 }; // l'offre gratuite limite le nombre de demandes par minute
 
 /** Moteur d'écriture disponible : Gemini (gratuit) sinon Anthropic (payant). */
@@ -40,16 +40,19 @@ async function geminiModels(key) {
 }
 
 async function callGemini(model, source, key) {
-  const res = await fetch(GEM_API, {
+  let res;
+  try {
+    res = await fetch(GEM_API, {
     method: 'POST',
-    signal: AbortSignal.timeout(90000),
+    signal: AbortSignal.timeout(45000),
     headers: { 'content-type': 'application/json', authorization: `Bearer ${key}` },
     body: JSON.stringify({
       model,
       temperature: 0.4,
       messages: [{ role: 'system', content: PROMPT }, { role: 'user', content: source }],
     }),
-  });
+    });
+  } catch (e) { return { error: `${model} : ${e.name === 'TimeoutError' ? 'trop lent' : e.message}` }; }
   const raw = await res.text();
   if (res.status === 429) throw new QuotaError(`quota gratuit Gemini atteint (${raw.slice(0, 160)})`);
   if (res.status === 401 || res.status === 403) throw new QuotaError(`clé Gemini refusée (HTTP ${res.status}) : ${raw.slice(0, 200)}`);
