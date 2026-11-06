@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-06T04:42:17.759Z",
+ "updatedAt": "2026-11-06T04:47:22.764Z",
  "items": [
   {
    "id": "sika-65534",
@@ -14,8 +14,8 @@
    "symbols": [
     "CABC"
    ],
-   "status": "new",
-   "tries": 1
+   "status": "done",
+   "tries": 2
   },
   {
    "id": "sika-65533",
@@ -56,8 +56,8 @@
    "premium": false,
    "publishedAt": "2026-11-05T13:49:00Z",
    "symbols": [],
-   "status": "new",
-   "tries": 1
+   "status": "done",
+   "tries": 2
   },
   {
    "id": "sika-65523",
@@ -70,8 +70,8 @@
    "premium": false,
    "publishedAt": "2026-11-05T13:00:00Z",
    "symbols": [],
-   "status": "new",
-   "tries": 1
+   "status": "done",
+   "tries": 2
   },
   {
    "id": "sika-65525",
@@ -84,8 +84,8 @@
    "premium": false,
    "publishedAt": "2026-11-05T12:58:00Z",
    "symbols": [],
-   "status": "new",
-   "tries": 1
+   "status": "done",
+   "tries": 2
   },
   {
    "id": "sika-65522",
@@ -98,8 +98,8 @@
    "premium": false,
    "publishedAt": "2026-11-05T12:39:00Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65520",
@@ -114,8 +114,8 @@
    "symbols": [
     "CABC"
    ],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65519",
@@ -128,8 +128,8 @@
    "premium": true,
    "publishedAt": "2026-11-05T10:40:00Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65515",
@@ -144,8 +144,8 @@
    "symbols": [
     "CFAC"
    ],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65514",
@@ -158,8 +158,8 @@
    "premium": false,
    "publishedAt": "2026-11-05T09:49:00Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "gn-1kamwte",
@@ -172,8 +172,8 @@
    "premium": false,
    "publishedAt": "2026-11-05T09:29:00.000Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65511",
@@ -186,8 +186,8 @@
    "premium": false,
    "publishedAt": "2026-11-05T08:33:00Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "gn-24mewh",
@@ -200,8 +200,8 @@
    "premium": false,
    "publishedAt": "2026-11-04T21:32:22.000Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65506",
@@ -216,8 +216,8 @@
    "symbols": [
     "NEIC"
    ],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65505",
@@ -232,8 +232,8 @@
    "symbols": [
     "FTSC"
    ],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65504",
@@ -248,8 +248,8 @@
    "symbols": [
     "NSBC"
    ],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65503",
@@ -262,8 +262,8 @@
    "premium": false,
    "publishedAt": "2026-11-04T15:35:00Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65502",
@@ -276,8 +276,8 @@
    "premium": false,
    "publishedAt": "2026-11-04T15:29:00Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65500",
@@ -290,8 +290,8 @@
    "premium": false,
    "publishedAt": "2026-11-04T14:42:00Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65498",

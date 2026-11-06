@@ -1,19 +1,36 @@
 {
- "updatedAt": "2026-11-06T04:42:17.762Z",
+ "updatedAt": "2026-11-06T04:47:22.767Z",
  "items": [
   {
    "id": "sika-65534",
-   "title": "BRVM : SICABLE rebondit après un point bas à 2 500 FCFA",
-   "summary": "La BRVM traverse une séance particulièrement difficile ce jeudi, marquée par un repli accentué de ses principaux indice...",
-   "url": "https://www.sikafinance.com/marches/brvm-sicable-rebondit-apres-un-point-bas-a-2-500-fcfa_65534",
+   "title": "La BRVM en repli marqué malgré la performance notable de Sicable",
+   "summary": "La Bourse régionale des valeurs mobilières a clôturé la séance de ce jeudi en baisse, affectée par le recul des indices majeurs et des titres à forte capitalisation.",
+   "body": [
+    "La journée a été difficile pour le marché financier régional, avec une tendance baissière généralisée. Le BRVM-Composite a reculé de 1,57 % pour s'établir à 520,20 points, tandis que les indices BRVM-30 et BRVM-Prestige ont respectivement perdu 1,73 % et 2,09 %. Au total, 23 titres ont terminé dans le rouge, contre 17 progressions et 8 stagnations, pour un volume d'échanges global de 2,16 milliards FCFA.",
+    "Parmi les valeurs en baisse, SETAO, Africa Global Logistics et NEI Ceda ont enregistré les reculs les plus prononcés. Le titre Sonatel Sénégal, qui a concentré 37 % des transactions, a pesé sur la capitalisation boursière avec une baisse de 4,59 %. À l'inverse, Sicable s'est distingué par une hausse de 6,99 % après avoir touché un point bas la veille, suivi par la CIE, dont le résultat net semestriel est en progression, et Servair Abidjan."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65534",
    "image": null,
-   "source": "Sika Finance",
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-11-05T17:09:00Z",
+   "writtenAt": "2026-11-06T04:43:17.011Z",
    "symbols": [
-    "CABC"
-   ]
+    "ABJC",
+    "CABC",
+    "NEIC",
+    "SDSC",
+    "SNTS",
+    "STAC"
+   ],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/brvm-sicable-rebondit-apres-un-point-bas-a-2-500-fcfa_65534",
+    "title": "BRVM : SICABLE rebondit après un point bas à 2 500 FCFA"
+   },
+   "rewritten": true
   },
   {
    "id": "sika-65533",
@@ -67,115 +84,429 @@
   },
   {
    "id": "sika-65527",
-   "title": "Sénégal : Le solde de la balance commerciale ressort à -29,5 milliards FCFA en septembre 2026",
-   "summary": "Au mois de septembre 2026, les exportations du Sénégal se chiffrent à 566,0 milliards de FCFA contre 711,1 milliards de...",
-   "url": "https://www.sikafinance.com/marches/senegal-le-solde-de-la-balance-commerciale-ressort-a-29-5-milliards-fcfa-en-septembre-2026_65527",
+   "title": "Sénégal : la balance commerciale affiche un déficit de 29,5 milliards FCFA en septembre 2026",
+   "summary": "Le Sénégal enregistre un déficit commercial de 29,5 milliards FCFA en septembre 2026, marqué par un repli des exportations et une hausse des importations par rapport au mois précédent.",
+   "body": [
+    "En septembre 2026, les exportations sénégalaises ont reculé de 20,4 % pour s'établir à 566,0 milliards FCFA, sous l'effet d'une baisse des ventes d'huiles brutes de pétrole, de gaz naturel liquéfié et de phosphates. À l'inverse, les importations ont progressé de 8,1 % pour atteindre 595,6 milliards FCFA, portées par l'augmentation des achats de pétrole brut et d'équipements industriels.",
+    "Cette dynamique a conduit à un solde commercial déficitaire de 29,5 milliards FCFA, contrastant avec l'excédent de 160,0 milliards FCFA observé en août. Malgré ce résultat mensuel, le cumul du solde commercial sur les neuf premiers mois de l'année 2026 reste positif, s'établissant à 56,0 milliards FCFA, contre un déficit de 1 127,0 milliards FCFA sur la même période en 2025."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65527",
    "image": null,
-   "source": "Sika Finance",
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-11-05T13:49:00Z",
-   "symbols": []
+   "writtenAt": "2026-11-06T04:43:26.859Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/senegal-le-solde-de-la-balance-commerciale-ressort-a-29-5-milliards-fcfa-en-septembre-2026_65527",
+    "title": "Sénégal : Le solde de la balance commerciale ressort à -29,5 milliards FCFA en septembre 2026"
+   },
+   "rewritten": true
   },
   {
    "id": "sika-65523",
-   "title": "Côte d’Ivoire : La mine d’or de Séguéla prévoit d’accroître sa production de plus de 2 tonnes d’ici 2028",
-   "summary": "La mine d'or de Séguéla, exploitée par le groupe canadien Fortuna Mining, a produit 33 744 onces d'or (1,05 tonne) au t...",
-   "url": "https://www.sikafinance.com/marches/cote-divoire-la-mine-dor-de-seguela-prevoit-daccroitre-sa-production-de-plus-de-2-tonnes-dici-2028_65523",
+   "title": "Fortuna Mining investit pour booster la production de la mine d'or de Séguéla d'ici 2028",
+   "summary": "Malgré un recul trimestriel lié à des contraintes opérationnelles, la mine ivoirienne de Séguéla affiche une hausse de sa production sur neuf mois et prépare une extension majeure de ses capacités.",
+   "body": [
+    "Au troisième trimestre 2026, la mine de Séguéla, opérée par le groupe canadien Fortuna Mining, a enregistré une production de 1,05 tonne d'or, marquant une baisse de 13 % sur un an. Ce repli s'explique par des difficultés techniques liées aux équipements et une interruption temporaire des activités causée par un blocage de mineurs artisanaux. Malgré ces obstacles, le site demeure le principal contributeur à la production aurifère du groupe, devançant la mine argentine de Lindero.",
+    "Sur les neuf premiers mois de l'année, la production cumulée progresse de 1,7 % pour atteindre 3,65 tonnes, soutenue par une hausse significative du prix de vente moyen de l'once d'or. Pour consolider cette dynamique, Fortuna Mining a validé un investissement de 109 millions de dollars visant à accroître la capacité de traitement de l'usine de 30 %. Ce projet, couplé au développement du gisement souterrain Sunbird, ambitionne de porter la production annuelle au-delà de 6,22 tonnes à partir du second semestre 2028."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65523",
    "image": null,
-   "source": "Sika Finance",
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-11-05T13:00:00Z",
-   "symbols": []
+   "writtenAt": "2026-11-06T04:43:35.784Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/cote-divoire-la-mine-dor-de-seguela-prevoit-daccroitre-sa-production-de-plus-de-2-tonnes-dici-2028_65523",
+    "title": "Côte d’Ivoire : La mine d’or de Séguéla prévoit d’accroître sa production de plus de 2 tonnes d’ici 2028"
+   },
+   "rewritten": true
   },
   {
    "id": "sika-65525",
-   "title": "RDC : Le FMI ouvre la voie à un décaissement de 771 millions USD attendu en décembre",
-   "summary": "Les services du Fonds monétaire international (FMI) ont conclu, le 4 novembre 2026, un accord au niveau des services su...",
-   "url": "https://www.sikafinance.com/marches/rdc-le-fmi-ouvre-la-voie-a-un-decaissement-de-771-millions-usd-attendu-en-decembre_65525",
+   "title": "RDC : Vers un décaissement du FMI de 771 millions USD en décembre 2026",
+   "summary": "Le FMI a conclu un accord technique avec la RDC pour ses programmes de crédit. Une aide financière de 771 millions USD pourrait être débloquée en fin d'année, sous réserve de validation.",
+   "body": [
+    "Le 4 novembre 2026, les services du Fonds monétaire international ont finalisé les revues des programmes de Facilité élargie de crédit et de Facilité pour la résilience et la durabilité en République démocratique du Congo. Cette étape technique précède une décision finale du conseil d'administration du FMI prévue en décembre, qui pourrait permettre le décaissement de 771 millions USD selon le ministère congolais des Finances.",
+    "Le pays fait face à des défis budgétaires accrus, notamment en raison de l'insécurité à l'Est et de l'épidémie d'Ebola. Kinshasa sollicite une plus grande flexibilité budgétaire, tandis que le FMI conditionne son soutien à une meilleure mobilisation des recettes et à une gestion rigoureuse des dépenses. Malgré un ralentissement économique en 2026, la croissance devrait se maintenir au-dessus de 5 %, avec une inflation attendue autour de 9 % en fin d'année."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65525",
    "image": null,
-   "source": "Sika Finance",
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-11-05T12:58:00Z",
-   "symbols": []
+   "writtenAt": "2026-11-06T04:43:45.643Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/rdc-le-fmi-ouvre-la-voie-a-un-decaissement-de-771-millions-usd-attendu-en-decembre_65525",
+    "title": "RDC : Le FMI ouvre la voie à un décaissement de 771 millions USD attendu en décembre"
+   },
+   "rewritten": true
   },
   {
    "id": "sika-65522",
-   "title": "Burkina : Le FMI prévoit plus de 87 millions USD de décaissements après deux revues de programme",
-   "summary": "Le Burkina Faso pourrait bénéficier d'un nouveau soutien financier du Fonds monétaire international (FMI), à l'issue de...",
-   "url": "https://www.sikafinance.com/marches/burkina-le-fmi-prevoit-plus-de-87-millions-usd-de-decaissements-apres-deux-revues-de-programme_65522",
+   "title": "Burkina Faso : un décaissement de 87 millions USD en vue après l'accord avec le FMI",
+   "summary": "Le Burkina Faso a conclu un accord avec le FMI pour débloquer environ 87,67 millions de dollars, sous réserve d'une validation par le Conseil d'administration prévue pour janvier 2027.",
+   "body": [
+    "Les services du FMI et les autorités burkinabè ont finalisé un accord portant sur la sixième revue de la Facilité élargie de crédit (FEC) et la deuxième revue de la Facilité pour la résilience et la durabilité (FRD). Ce soutien financier, qui représente 64,58 millions de DTS, soit environ 87,67 millions de dollars, attend désormais l'approbation du Conseil d'administration de l'institution, prévue à la mi-janvier 2027.",
+    "Le FMI souligne la solidité des performances économiques du pays, portées par le secteur aurifère et une agriculture en phase de redressement. Si la croissance du PIB réel devrait atteindre 4,8 % en 2027, le pays reste toutefois attentif aux pressions inflationnistes et aux défis budgétaires, tout en maintenant ses efforts pour protéger les populations vulnérables et renforcer la gouvernance financière."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65522",
    "image": null,
-   "source": "Sika Finance",
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-11-05T12:39:00Z",
-   "symbols": []
+   "writtenAt": "2026-11-06T04:44:03.314Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/burkina-le-fmi-prevoit-plus-de-87-millions-usd-de-decaissements-apres-deux-revues-de-programme_65522",
+    "title": "Burkina : Le FMI prévoit plus de 87 millions USD de décaissements après deux revues de programme"
+   },
+   "rewritten": true
   },
   {
    "id": "sika-65520",
-   "title": "Baisse de 89% du bénéfice de SICABLE à fin septembre 2026",
-   "summary": "Dans l'industrie du câble, la performance repose autant sur la capacité à capter les commandes que sur la ma&icir...",
-   "url": "https://www.sikafinance.com/marches/baisse-de-89-du-benefice-de-sicable-a-fin-septembre-2026_65520",
+   "title": "SICABLE enregistre une chute de 89% de son bénéfice au 30 septembre 2026",
+   "summary": "La société SICABLE a publié des résultats financiers en forte baisse pour les neuf premiers mois de l'année 2026, marqués par un recul significatif de son profit net.",
+   "body": [
+    "Le fabricant de câbles SICABLE a clôturé la période allant jusqu'au 30 septembre 2026 avec une performance financière en net retrait. Le bénéfice de l'entreprise a subi une contraction importante de 89 % par rapport à l'exercice précédent.",
+    "Ces résultats, rendus publics le 5 novembre 2026, illustrent une période difficile pour la société cotée sur le marché financier régional. Cette chute marquée du résultat net constitue l'information majeure de la dernière communication financière de l'émetteur."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65520",
    "image": null,
-   "source": "Sika Finance",
    "category": "Marchés",
-   "premium": true,
+   "premium": false,
    "publishedAt": "2026-11-05T11:02:00Z",
+   "writtenAt": "2026-11-06T04:44:15.410Z",
    "symbols": [
     "CABC"
-   ]
+   ],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/baisse-de-89-du-benefice-de-sicable-a-fin-septembre-2026_65520",
+    "title": "Baisse de 89% du bénéfice de SICABLE à fin septembre 2026"
+   },
+   "rewritten": true
   },
   {
    "id": "sika-65519",
-   "title": "TotalEnergies Marketing SN : 7 milliards FCFA de bénéfice à fin septembre 2026",
-   "summary": "La baisse du chiffre d'affaires ne rime pas nécessairement avec une dégradation de la rentabilité. Dans le secteur pétr...",
-   "url": "https://www.sikafinance.com/marches/totalenergies-marketing-sn-7-milliards-fcfa-de-benefice-a-fin-septembre-2026_65519",
+   "title": "TotalEnergies Marketing Sénégal affiche un bénéfice de 7 milliards FCFA au troisième trimestre 2026",
+   "summary": "Malgré un repli de son chiffre d'affaires, la filiale sénégalaise de TotalEnergies maintient une solide rentabilité avec un résultat net de 7 milliards FCFA à fin septembre 2026.",
+   "body": [
+    "La société TotalEnergies Marketing Sénégal a publié ses résultats financiers pour la période s'achevant le 30 septembre 2026. L'entreprise enregistre un bénéfice net s'élevant à 7 milliards FCFA.",
+    "Cette performance financière intervient dans un contexte marqué par une diminution du chiffre d'affaires global de la compagnie. Ces chiffres témoignent de la capacité de l'entité à préserver ses marges malgré les fluctuations de son activité commerciale."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65519",
    "image": null,
-   "source": "Sika Finance",
    "category": "Marchés",
-   "premium": true,
+   "premium": false,
    "publishedAt": "2026-11-05T10:40:00Z",
-   "symbols": []
+   "writtenAt": "2026-11-06T04:44:24.768Z",
+   "symbols": [
+    "TTLS"
+   ],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/totalenergies-marketing-sn-7-milliards-fcfa-de-benefice-a-fin-septembre-2026_65519",
+    "title": "TotalEnergies Marketing SN : 7 milliards FCFA de bénéfice à fin septembre 2026"
+   },
+   "rewritten": true
   },
   {
    "id": "sika-65515",
-   "title": "Le bénéfice de CFAO Mobility CI recule de 27 % au 1er semestre 2026",
-   "summary": "Nonobstant le maintien de sa position de leader sur le marché ivoirien de la distribution automobile, avec 38 % de part...",
-   "url": "https://www.sikafinance.com/marches/le-benefice-de-cfao-mobility-ci-recule-de-27-au-1er-semestre-2026_65515",
+   "title": "CFAO Mobility CI : une baisse de 27 % du bénéfice au premier semestre 2026",
+   "summary": "Malgré une position de leader sur le marché automobile ivoirien, CFAO Mobility CI affiche un recul de ses résultats financiers pour le premier semestre 2026.",
+   "body": [
+    "CFAO Mobility CI a clôturé le premier semestre 2026 avec une diminution de 27 % de son bénéfice. Cette contre-performance intervient dans un contexte où l'entreprise conserve néanmoins sa place de premier acteur de la distribution automobile en Côte d'Ivoire.",
+    "La société détient actuellement 38 % de parts de marché dans le secteur. Ces indicateurs financiers reflètent les résultats opérationnels enregistrés par l'entité sur les six premiers mois de l'année 2026."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65515",
    "image": null,
-   "source": "Sika Finance",
    "category": "Marchés",
-   "premium": true,
+   "premium": false,
    "publishedAt": "2026-11-05T09:55:00Z",
+   "writtenAt": "2026-11-06T04:44:34.928Z",
    "symbols": [
     "CFAC"
-   ]
+   ],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/le-benefice-de-cfao-mobility-ci-recule-de-27-au-1er-semestre-2026_65515",
+    "title": "Le bénéfice de CFAO Mobility CI recule de 27 % au 1er semestre 2026"
+   },
+   "rewritten": true
   },
   {
    "id": "sika-65514",
-   "title": "Après le Nigeria, l’Inde met en garde le secteur financier contre les cyberattaques dopées à l’IA",
-   "summary": "À l'instar de la Banque centrale du Nigeria, qui tirait la sonnette d'alarme en septembre dernier, le Centre ind...",
-   "url": "https://www.sikafinance.com/marches/apres-le-nigeria-linde-met-en-garde-le-secteur-financier-contre-les-cyberattaques-dopees-a-lia_65514",
+   "title": "Cybercriminalité : l'Inde et le Nigeria face à la menace de l'intelligence artificielle",
+   "summary": "Le Nigeria et l'Inde ont émis des alertes nationales concernant la recrudescence de cyberattaques utilisant l'intelligence artificielle pour cibler leurs infrastructures bancaires.",
+   "body": [
+    "Le 4 novembre 2026, le Centre indien de lutte contre la cybercriminalité a déclenché une alerte rouge pour protéger le secteur financier contre des attaques automatisées par IA. Cette mesure fait écho à une mise en garde similaire émise par la Banque centrale du Nigeria en septembre dernier. Ces deux pays, pôles économiques majeurs, font face à une vulnérabilité accrue de leurs systèmes bancaires interconnectés, illustrée notamment par la fuite de 3 900 données clients au sein de la State Bank of India.",
+    "Les méthodes des cybercriminels ont évolué : là où les attaques classiques demandaient une intervention humaine, l'usage de logiciels autonomes permet désormais de détecter et d'exploiter les failles de sécurité avec une rapidité inédite. Pour contrer ces risques, les autorités indiennes ont instauré des plafonds de transfert et des contrôles d'identité renforcés, tandis que le Nigeria impose désormais des normes de sécurité informatique strictes pour toute nouvelle offre de services financiers."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65514",
    "image": null,
-   "source": "Sika Finance",
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-11-05T09:49:00Z",
-   "symbols": []
+   "writtenAt": "2026-11-06T04:44:50.387Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/apres-le-nigeria-linde-met-en-garde-le-secteur-financier-contre-les-cyberattaques-dopees-a-lia_65514",
+    "title": "Après le Nigeria, l’Inde met en garde le secteur financier contre les cyberattaques dopées à l’IA"
+   },
+   "rewritten": true
   },
   {
    "id": "gn-1kamwte",
-   "title": "La BRVM reporte à 2027 le lancement de son marché de produits dérivés",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcFU0dDNPMG5vdlVhXzZfV2NqWGNtSWV0amVLdXA5RVh4MVlydGVWcFJjdk83LWdmaUtiQnQta1ZKenliamVpbnhYQ2NqYkVHTzd4YWQ5UHhYMGFGX1pCbW44cmxFS3gwOXktelZ3Tm92VWZ5cWdRbmI4bGFvNGhKTmdmXzIxQzc3OTlXM1BBZ2t1VmU4RFlPYlpGMXE2cjNqWF9TdFJmLS1vNmwyOV81SjVpNV9va1lqa1NQUXNEc2FQVUdmZFVfZQ?oc=5",
+   "title": "Le déploiement du marché des produits dérivés à la BRVM est décalé à 2027",
+   "summary": "La Bourse régionale des valeurs mobilières a officiellement repoussé l'introduction de ses instruments dérivés à l'horizon 2027.",
+   "body": [
+    "La Bourse régionale des valeurs mobilières (BRVM) a annoncé un changement dans son calendrier stratégique. Le lancement tant attendu de son marché dédié aux produits dérivés ne sera finalement pas effectif avant l'année 2027.",
+    "Cette décision, rendue publique le 5 novembre 2026, marque une étape supplémentaire dans la planification opérationnelle de l'institution financière ouest-africaine concernant l'élargissement de sa gamme d'instruments financiers."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#gn-1kamwte",
    "image": null,
-   "source": "AGENCE ECOFIN",
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-11-05T09:29:00.000Z",
-   "symbols": []
+   "writtenAt": "2026-11-06T04:45:04.701Z",
+   "symbols": [],
+   "origin": {
+    "name": "AGENCE ECOFIN",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcFU0dDNPMG5vdlVhXzZfV2NqWGNtSWV0amVLdXA5RVh4MVlydGVWcFJjdk83LWdmaUtiQnQta1ZKenliamVpbnhYQ2NqYkVHTzd4YWQ5UHhYMGFGX1pCbW44cmxFS3gwOXktelZ3Tm92VWZ5cWdRbmI4bGFvNGhKTmdmXzIxQzc3OTlXM1BBZ2t1VmU4RFlPYlpGMXE2cjNqWF9TdFJmLS1vNmwyOV81SjVpNV9va1lqa1NQUXNEc2FQVUdmZFVfZQ?oc=5",
+    "title": "La BRVM reporte à 2027 le lancement de son marché de produits dérivés"
+   },
+   "rewritten": true
+  },
+  {
+   "id": "sika-65511",
+   "title": "PETROCI franchit une étape clé avec sa première cargaison de brut sur le bloc CI-26",
+   "summary": "La compagnie pétrolière nationale ivoirienne a effectué son premier chargement de brut en tant qu'opérateur du champ Espoir, marquant une évolution stratégique majeure pour l'entreprise publique.",
+   "body": [
+    "La filiale PETROCI CI-26, créée pour gérer le bloc CI-26, a réalisé le 31 octobre 2026 son premier enlèvement de pétrole brut. Cette opération survient trois mois après que la compagnie nationale a officiellement repris le contrôle des activités du champ Espoir, anciennement exploité par Canadian Natural Resources depuis le 24 juillet 2026.",
+    "Ce changement de statut marque un tournant pour la société, qui passe d'un rôle de partenaire à celui d'opérateur direct. Autorisée par le gouvernement le 9 septembre, cette nouvelle structure dédiée à la production pétrolière gère désormais l'intégralité de la chaîne, de l'extraction à la commercialisation de cet actif découvert en 1980 et remis en production en 2002."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65511",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-05T08:33:00Z",
+   "writtenAt": "2026-11-06T04:45:19.008Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/cote-divoire-petroci-expedie-sa-premiere-cargaison-de-brut-depuis-la-reprise-du-champ-espoir_65511",
+    "title": "Côte d’Ivoire : PETROCI expédie sa première cargaison de brut depuis la reprise du champ Espoir"
+   },
+   "rewritten": true
+  },
+  {
+   "id": "gn-24mewh",
+   "title": "La BRVM envisage une possible introduction en bourse de la raffinerie Dangote",
+   "summary": "La Bourse régionale des valeurs mobilières étudie les perspectives d'une future cotation de la raffinerie Dangote sur son marché financier.",
+   "body": [
+    "La direction de la BRVM a récemment abordé la question d'une éventuelle entrée en bourse de la raffinerie Dangote. Cette annonce, faite le 4 novembre 2026, place cet acteur industriel majeur au cœur des discussions sur le développement du marché boursier régional.",
+    "Ce projet d'introduction en bourse fait l'objet d'une attention particulière de la part des autorités boursières. L'arrivée d'une telle structure sur la place financière ouest-africaine pourrait marquer une étape significative pour l'attractivité de la BRVM."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#gn-24mewh",
+   "image": null,
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-04T21:32:22.000Z",
+   "writtenAt": "2026-11-06T04:45:46.383Z",
+   "symbols": [],
+   "origin": {
+    "name": "energynews.pro",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaEJMeEdnMEk2dWIxMzktWHB5aE55VlhlV3hTR1ppcUo1UU9Tb2I4QmxPZGo3RHBjRk1KMHRfcjVqdUlEMzFwTUJvRWxFczBfQkxlTktRVWFfd0ZWTEVuQU5lYUZydXVKeENhV1gwY1I1OHpSWEZCY0FsYzJCZXYxTzROclZkT3hUWkxGVmxoMTVBNWwzWGNkbWRTS2VyZ3lXM0E?oc=5",
+    "title": "La BRVM évoque l'ouverture de l'introduction en bourse de la raffinerie Dangote"
+   },
+   "rewritten": true
+  },
+  {
+   "id": "sika-65506",
+   "title": "BRVM : La séance de mercredi marquée par le repli de NEI Ceda et Sucrivoire",
+   "summary": "La Bourse régionale des valeurs mobilières a clôturé en légère baisse ce mercredi, sous l'effet de résultats financiers décevants publiés par plusieurs sociétés cotées.",
+   "body": [
+    "La séance boursière de ce mercredi s'est soldée par une légère contraction des indices principaux. Le BRVM-Composite a reculé de 0,17 % pour s'établir à 528,49 points, tandis que le BRVM-30 a perdu 0,18 %. Avec 20 titres en baisse contre 18 en hausse, la tendance a été dominée par les vendeurs. Le volume global des échanges a atteint 1,44 milliard FCFA, avec une forte activité sur le titre Sonatel, qui a représenté près de 30 % des transactions malgré une baisse de sa capitalisation.",
+    "Plusieurs entreprises ont subi la sanction des investisseurs suite à la publication de leurs résultats. NEI Ceda a enregistré la plus forte chute de la journée avec un repli de 7,48 % à 1 980 FCFA, dans le sillage d'un résultat net en baisse de 179 % au premier trimestre. Sucrivoire a également reculé de 7,37 % à 1 885 FCFA, marquant une troisième séance consécutive de baisse, tandis qu'ORAGROUP Togo a cédé 2,80 %.",
+    "À l'opposé, certaines valeurs ont su tirer profit de la conjoncture. SMB a poursuivi sa progression avec un gain de 6,67 % à 17 995 FCFA, soutenu par ses récentes performances financières. SETAO a également progressé de 5,26 % pour atteindre 2 000 FCFA, tandis que FILTISAC a clôturé en hausse de 4,70 % à 1 670 FCFA, témoignant d'un intérêt persistant des acheteurs pour certains titres malgré l'orientation globale du marché."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65506",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-04T16:59:00Z",
+   "writtenAt": "2026-11-06T04:45:57.076Z",
+   "symbols": [
+    "FTSC",
+    "NEIC",
+    "ORGT",
+    "SCRC",
+    "SNTS",
+    "STAC"
+   ],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/brvm-nei-ceda-paie-le-prix-de-son-resultat_65506",
+    "title": "BRVM : NEI Ceda paie le prix de son résultat"
+   },
+   "rewritten": true
+  },
+  {
+   "id": "sika-65505",
+   "title": "FILTISAC CI : une dynamique commerciale soutenue malgré des marges sous tension",
+   "summary": "Au terme des neuf premiers mois de l'année 2026, FILTISAC CI enregistre une progression marquée de ses revenus, bien que sa rentabilité demeure affectée par des contraintes persistantes.",
+   "body": [
+    "La société FILTISAC CI a dévoilé ses performances financières pour la période s'étalant sur les neuf premiers mois de l'exercice 2026. L'entreprise affiche une croissance dynamique de ses activités, portée par une hausse de 40 % de son volume de ventes. Ce niveau d'activité s'est traduit par un chiffre d'affaires total atteignant 25,69 milliards FCFA.",
+    "Toutefois, cette embellie commerciale ne suffit pas à neutraliser les difficultés opérationnelles. Malgré cette progression significative des revenus, le résultat net de l'entreprise reste sous pression, illustrant les défis que rencontre la structure pour préserver ses marges dans le contexte économique actuel."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65505",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-04T16:35:00Z",
+   "writtenAt": "2026-11-06T04:46:06.835Z",
+   "symbols": [
+    "FTSC"
+   ],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/filtisac-ci-les-ventes-bondissent-de-40--mais-le-resultat-reste-sous-pression_65505",
+    "title": "FILTISAC CI : les ventes bondissent de 40 %, mais le résultat reste sous pression"
+   },
+   "rewritten": true
+  },
+  {
+   "id": "sika-65504",
+   "title": "NSIA Banque Côte d’Ivoire et Rimco Motors lancent une offre de crédit-bail pour véhicules neufs",
+   "summary": "Jusqu'au 23 décembre 2026, NSIA Banque Côte d’Ivoire et Rimco Motors proposent un financement allant jusqu'à 100 % pour l'achat de véhicules neufs, sans apport initial requis.",
+   "body": [
+    "Accessible depuis le 26 octobre, cette solution de crédit-bail permet aux particuliers et aux entreprises d'acquérir des véhicules neufs — incluant SUV, pick-up et camions — avec un financement intégral possible. Le contrat peut s'étendre sur une durée maximale de 60 mois, avec une option d'achat finale fixée entre 1 % et 5 % du prix initial.",
+    "Côté conditions tarifaires, les particuliers bénéficient d'un taux de 9 % TTC. Pour les entreprises, le taux est de 8,5 % TTC pour les contrats allant jusqu'à 36 mois, et de 9 % TTC au-delà. Les clients intéressés peuvent soumettre leur dossier dans les agences de la banque après avoir obtenu une facture pro forma chez le concessionnaire, avec un accord de principe promis sous 10 jours ouvrés."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65504",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-04T15:49:00Z",
+   "writtenAt": "2026-11-06T04:46:27.625Z",
+   "symbols": [
+    "NSBC"
+   ],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/easy-leasing-nsia-banque-cote-divoire-et-rimco-motors-facilitent-lacces-aux-vehicules-neufs_65504",
+    "title": "Easy leasing : NSIA Banque Côte d’Ivoire et Rimco motors facilitent l’accès aux véhicules neufs"
+   },
+   "rewritten": true
+  },
+  {
+   "id": "sika-65503",
+   "title": "Nigeria : La fintech Bamboo domine les souscriptions à l'introduction de Dangote Refinery",
+   "summary": "La plateforme numérique Bamboo a surpassé les institutions bancaires traditionnelles en collectant 99 milliards de nairas lors de l'entrée en bourse de la raffinerie Dangote.",
+   "body": [
+    "La fintech Bamboo s'est distinguée lors de l'introduction en bourse de Dangote Refinery en enregistrant 600 000 transactions pour un total de 99 milliards de nairas, soit environ 60 millions de dollars. Ce volume d'activité place la plateforme devant des acteurs bancaires majeurs comme Zenith Bank, qui a totalisé 98 milliards de nairas, ou encore FirstBank et Chapel Hill, qui ont respectivement mobilisé 60 milliards et 57 milliards de nairas.",
+    "Cette opération, qui proposait 4,1 milliards d'actions à 525 nairas l'unité, visait une levée globale de 2 150 milliards de nairas. Au total, les 32 canaux de distribution sélectionnés ont permis de récolter plus de 860 milliards de nairas via les outils numériques. Ce succès souligne l'appétence croissante des épargnants nigérians pour les solutions mobiles, un levier que Bamboo compte désormais exploiter pour fidéliser cette nouvelle base d'investisseurs."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65503",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-04T15:35:00Z",
+   "writtenAt": "2026-11-06T04:46:39.475Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/nigeria-la-fintech-bamboo-facilite-99-milliards-de-nairas-de-souscriptions-a-lintroduction-en-bourse-de-dangote-refinery_65503",
+    "title": "Nigeria : La fintech Bamboo facilite 99 milliards de nairas de souscriptions à l’introduction en bourse de Dangote Refinery"
+   },
+   "rewritten": true
+  },
+  {
+   "id": "sika-65502",
+   "title": "Cybastion inaugure un centre régional de cybersécurité à Abidjan",
+   "summary": "L'entreprise américaine Cybastion lance ce 5 novembre 2026 un centre de cybersécurité à Abidjan, soutenu par un vaste programme d'investissement numérique de 170 millions de dollars.",
+   "body": [
+    "Situé dans le quartier de Biétry, ce nouveau centre régional utilise des technologies Cisco pour renforcer la protection des institutions ivoiriennes et africaines. Cette infrastructure fait partie d'un projet plus large de 170 millions de dollars, financé par la Banque américaine d'import-export, qui inclut également le développement de services publics numériques et d'un centre de données national.",
+    "Le site abidjanais assure une surveillance numérique permanente pour détecter et neutraliser les menaces informatiques. En parallèle, il servira d'académie pour former des experts locaux, répondant ainsi à une pénurie critique de compétences sur le continent, où l'on compte moins de deux spécialistes en cybersécurité pour 100 000 habitants."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65502",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-04T15:29:00Z",
+   "writtenAt": "2026-11-06T04:47:05.235Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/cote-divoire-cybastion-ouvre-un-centre-regional-de-cybersecurite_65502",
+    "title": "Côte d’Ivoire : Cybastion ouvre un centre régional de cybersécurité"
+   },
+   "rewritten": true
+  },
+  {
+   "id": "sika-65500",
+   "title": "AFIS Awards 2026 : six acteurs financiers distingués pour leur impact sur le continent",
+   "summary": "La 6e édition des AFIS Awards, tenue le 3 novembre 2026 à Luanda, a récompensé six personnalités et institutions pour leur contribution à la transformation économique et financière de l'Afrique.",
+   "body": [
+    "Organisée en partenariat avec Forvis Mazars, cette cérémonie a mis en lumière des acteurs clés du secteur, allant des banques et assurances aux fintechs et institutions monétaires. Un jury indépendant a sélectionné les lauréats en fonction de leur capacité d'innovation, de leurs performances opérationnelles et de leur impact concret sur le développement économique africain.",
+    "Parmi les récipiendaires, Mary Vilakazi (FirstRand) et Jurie Strydom (Old Mutual) ont été salués pour leurs stratégies de transformation, tandis que Development Partners International (DPI) a été distingué pour son rôle dans le capital-investissement. La fintech Wave a reçu le prix d'« African Disrupter » pour son modèle d'inclusion financière, et Soraya M. Hakuziyaremye, gouverneure de la Banque nationale du Rwanda, a été récompensée pour sa gestion monétaire rigoureuse."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65500",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-04T14:42:00Z",
+   "writtenAt": "2026-11-06T04:47:22.763Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/afis-awards-2026-wave-et-5-autres-acteurs-recompenses-pour-leur-role-dans-la-transformation-de-la-finance-africaine_65500",
+    "title": "AFIS Awards 2026 : Wave et 5 autres acteurs récompensés pour leur rôle dans la transformation de la finance africaine"
+   },
+   "rewritten": true
   }
  ]
 }
