@@ -35,6 +35,7 @@
     var m = Math.floor(a.length / 2);
     return a.length % 2 ? a[m] : (a[m - 1] + a[m]) / 2;
   };
+  var getJson = function (url) { return fetch(url, { cache: 'no-cache' }).then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); }); };
   var isBank = function (s) { return /financ/i.test(s.sector || ''); };
 
   // ───────── Calcul des ratios ─────────
@@ -159,6 +160,7 @@
       '<div class="fx-detail-head"><div><h3>' + esc(s.fullName) + ' <span class="fx-sym">' + esc(s.sym) + '</span></h3>' +
       '<p>' + esc(s.sector) + ' · ' + esc(s.country) + ' · Dernier exercice publié : ' + esc(s.year) + '</p></div>' +
       '<div class="fx-price"><small>Dernier cours</small><strong class="num">' + money(s.price) + ' F</strong></div></div>' +
+      '<div class="fx-chartbox" data-chartbox><p class="fx-tip">Chargement du graphique…</p></div>' +
       '<div class="fx-chips" aria-label="Lecture rapide">' + chips + '</div>' +
       '<div class="fx-cards">' + cards + '</div>' +
       '<div class="fx-charts">' + bars(f.years, f.netIncome, 'Résultat net (millions de FCFA)', 'M FCFA') + bars(f.years, f.dividend, 'Dividende net par action (FCFA)', 'FCFA') + '</div>' +
@@ -229,7 +231,32 @@
         '<td class="r num ' + tone(s.grNet) + '">' + pctv(s.grNet, true) + '</td>';
     };
 
+    var histCache = {}, chartCtl = null;
+    var loadHistory = function (sym) {
+      if (!histCache[sym]) histCache[sym] = getJson(base + '/history/' + encodeURIComponent(sym) + '.json?t=' + Math.floor(Date.now() / 600000));
+      return histCache[sym];
+    };
+    var symbols = rows.map(function (s) { return { sym: s.sym, name: s.name }; }).sort(function (a, b) { return a.sym.localeCompare(b.sym); });
+    var mountChart = function (s) {
+      var box = body.querySelector('[data-chartbox]');
+      if (!box) return;
+      loadHistory(s.sym).then(function (h) {
+        if (open !== s.sym || !box.isConnected) return;
+        if (!window.BxChart) { box.innerHTML = ''; return; }
+        chartCtl = window.BxChart.mount(box, {
+          sym: s.sym, name: s.fullName || s.name, history: h, symbols: symbols, loadHistory: loadHistory,
+          onAnalyse: function () {
+            if (!window.BxDavid || !chartCtl) return;
+            window.BxDavid.open({ fx: s, med: med, chartData: chartCtl.data, onLevels: chartCtl.setAnalystLevels, returnFocus: box.querySelector('.cx-ai') });
+          }
+        });
+        if (chartCtl && autoDavid) { autoDavid = false; box.querySelector('.cx-ai').click(); }
+      }).catch(function () { box.innerHTML = '<p class="fx-tip">Le graphique est momentanément indisponible.</p>'; });
+    };
+    var autoDavid = /david/i.test(location.search);
+
     var draw = function () {
+      if (chartCtl) { chartCtl.destroy(); chartCtl = null; }
       var q = (search.value || '').trim().toLowerCase();
       var qf = QUICK[quick.value];
       var list = rows.filter(function (s) {
@@ -252,6 +279,7 @@
       var wrap = body.closest('.table-wrap');
       var det = body.querySelector('.fx-detail');
       if (det && wrap) det.style.width = wrap.clientWidth + 'px';
+      if (open) { var cur = rows.filter(function (s) { return s.sym === open; })[0]; if (cur) mountChart(cur); }
       head.querySelectorAll('th').forEach(function (th) {
         if (th.getAttribute('data-k') === sortKey) th.setAttribute('aria-sort', desc ? 'descending' : 'ascending'); else th.removeAttribute('aria-sort');
       });
@@ -289,7 +317,6 @@
     if (open) { var r0 = body.querySelector('tr[data-sym="' + open + '"]'); if (r0) setTimeout(function () { r0.scrollIntoView({ block: 'start' }); }, 50); }
   }
 
-  var getJson = function (url) { return fetch(url, { cache: 'no-cache' }).then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); }); };
   Promise.all([getJson(base + '/quotes.json?t=' + Math.floor(Date.now() / 60000)), getJson(fundUrl)])
     .then(function (r) { start(r[0], r[1]); })
     .catch(function () {
