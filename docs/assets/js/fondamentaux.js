@@ -68,7 +68,7 @@
       grRev: ca > 0 && caPrev > 0 ? ca / caPrev - 1 : null,
       grNet: rn > 0 && rnPrev > 0 ? rn / rnPrev - 1 : null,
       cagr: cagr, cagrSpan: span,
-      divYears: f.dividend.filter(function (x) { return x > 0; }).length,
+      divYears: f.divYears != null ? f.divYears : f.dividend.filter(function (x) { return x > 0; }).length,
       years: f.years.length
     };
   }
@@ -120,9 +120,40 @@
     return '<div class="fx-card"><small>' + esc(label) + '</small><strong class="num' + (tone ? ' ' + tone : '') + '">' + value + '</strong>' + (hint ? '<span>' + hint + '</span>' : '') + '</div>';
   }
 
-  function detail(s, med) {
-    var f = s.f, bank = isBank(s);
-    var mPer = med.per[s.sector], mYield = med.yield[s.sector];
+  // Société fictive affichée floutée derrière le message Premium (aucune vraie donnée dans la page)
+  var DEMO = { years: [2021, 2022, 2023, 2024, 2025], shares: 50000000, float: 24.5, revenue: [182400, 196300, 214800, 229100, 247600],
+    netIncome: [21400, 24100, 26900, 29800, 32700], eps: [428, 482, 538, 596, 654], dividend: [256, 289, 323, 358, 392] };
+  var LOCK = '<svg viewBox="0 0 24 24" width="26" height="26" aria-hidden="true"><rect x="4.5" y="10.5" width="15" height="10" rx="2.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="M8 10.5V7.8a4 4 0 0 1 8 0v2.7" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>';
+  var memberHref = function (sym) {
+    var u = window.BxMember ? window.BxMember.url(location.pathname + '#' + sym) : '../membre/';
+    return u;
+  };
+
+  function locked(s, med) {
+    var demo = analyse({ symbol: s.sym, name: s.fullName, sector: s.sector, close: 6400 }, DEMO);
+    var inner = fullDetail(demo, med, true);
+    return '<div class="fx-locked"><div class="fx-locked-blur" aria-hidden="true" inert>' + inner + '</div>' +
+      '<div class="fx-locked-cta"><div class="fx-locked-card" role="region" aria-label="Contenu Premium">' +
+      '<div class="pw-ico">' + LOCK + '</div>' +
+      '<h4>Devenez membre Premium pour profiter des analyses</h4>' +
+      '<p>Ratios clés, comptes sur 5 ans, lecture rapide et avis de David pour ' + esc(s.fullName) + ' et toutes les sociétés de la BRVM.</p>' +
+      '<div class="pw-actions"><a class="btn btn--primary" href="' + esc(memberHref(s.sym)) + '#offres">Devenir membre Premium</a>' +
+      '<a class="btn btn--ghost" href="' + esc(memberHref(s.sym)) + '">Se connecter</a></div>' +
+      '<small>Dès 2 500 FCFA par mois · Mobile Money ou carte</small></div></div></div>';
+  }
+
+  function detail(s, med, premium) {
+    return '<div class="fx-detail">' +
+      '<div class="fx-detail-head"><div><h3>' + esc(s.fullName) + ' <span class="fx-sym">' + esc(s.sym) + '</span></h3>' +
+      '<p>' + esc(s.sector) + ' · ' + esc(s.country) + ' · Dernier exercice publié : ' + esc(s.year) + '</p></div>' +
+      '<div class="fx-price"><small>Dernier cours</small><strong class="num">' + money(s.price) + ' F</strong></div></div>' +
+      '<div class="fx-chartbox" data-chartbox><p class="fx-tip">Chargement du graphique…</p></div>' +
+      (premium ? fullDetail(s, med) : locked(s, med)) + '</div>';
+  }
+
+  function fullDetail(s, med, demo) {
+    var f = s.f, bank = !demo && isBank(s);
+    var mPer = demo ? 12.8 : med.per[s.sector], mYield = demo ? 0.052 : med.yield[s.sector];
     var rel = function (v, m, lowIsGood) { // couleur seulement si l’écart avec le secteur est net (> 5 %)
       if (v == null || !m) return '';
       var r = v / m;
@@ -141,7 +172,7 @@
       card('Capitalisation', bn(s.cap) + ' FCFA', 'Cours × ' + money(f.shares) + ' actions'),
       card('Flottant', f.float != null ? tidy(n1.format(f.float)) + ' %' : '—', 'Part des actions échangées en bourse')
     ].join('');
-    var chips = signals(s, med).map(function (c) { return '<span class="fx-chip ' + c[0] + '">' + esc(c[1]) + '</span>'; }).join('');
+    var chips = signals(s, demo ? { per: {}, yield: {} } : med).map(function (c) { return '<span class="fx-chip ' + c[0] + '">' + esc(c[1]) + '</span>'; }).join('');
     var row = function (label, arr, fn) {
       return '<tr><th>' + label + '</th>' + arr.map(function (v) { return '<td class="r num' + (v < 0 ? ' down' : '') + '">' + fn(v) + '</td>'; }).join('') + '</tr>';
     };
@@ -156,15 +187,10 @@
       row('Dividende net (FCFA)', f.dividend, function (v) { return v == null ? '—' : tidy(n2.format(v)); }) +
       row('Taux de distribution', payouts, function (v) { return pctv(v); }) +
       '</tbody></table></div>';
-    return '<div class="fx-detail">' +
-      '<div class="fx-detail-head"><div><h3>' + esc(s.fullName) + ' <span class="fx-sym">' + esc(s.sym) + '</span></h3>' +
-      '<p>' + esc(s.sector) + ' · ' + esc(s.country) + ' · Dernier exercice publié : ' + esc(s.year) + '</p></div>' +
-      '<div class="fx-price"><small>Dernier cours</small><strong class="num">' + money(s.price) + ' F</strong></div></div>' +
-      '<div class="fx-chartbox" data-chartbox><p class="fx-tip">Chargement du graphique…</p></div>' +
-      '<div class="fx-chips" aria-label="Lecture rapide">' + chips + '</div>' +
+    return '<div class="fx-chips" aria-label="Lecture rapide">' + chips + '</div>' +
       '<div class="fx-cards">' + cards + '</div>' +
       '<div class="fx-charts">' + bars(f.years, f.netIncome, 'Résultat net (millions de FCFA)', 'M FCFA') + bars(f.years, f.dividend, 'Dividende net par action (FCFA)', 'FCFA') + '</div>' +
-      hist + '</div>';
+      hist;
   }
 
   // ───────── Tableau principal ─────────
@@ -173,16 +199,20 @@
     ['yield', 'Rendement', 'r'], ['payout', 'Distribution', 'r'], ['margin', 'Marge nette', 'r'], ['grNet', 'Bénéfice 1 an', 'r']
   ];
 
-  function start(quotes, fund) {
-    var items = fund.items || {};
-    var rows = (quotes.items || []).filter(function (q) { return items[q.symbol]; }).map(function (q) { return analyse(q, items[q.symbol]); });
-    var med = { per: {}, yield: {} };
-    var sectors = {};
-    rows.forEach(function (s) { (sectors[s.sector] = sectors[s.sector] || []).push(s); });
-    Object.keys(sectors).forEach(function (k) {
-      med.per[k] = median(sectors[k].map(function (s) { return s.per; }).filter(function (v) { return v > 0 && v < 100; }));
-      med.yield[k] = median(sectors[k].map(function (s) { return s.yield; }));
-    });
+  function start(quotes, fund, member) {
+    var items, rows, med, premium = false;
+    var compute = function (fd) {
+      items = fd.items || {};
+      rows = (quotes.items || []).filter(function (q) { return items[q.symbol]; }).map(function (q) { return analyse(q, items[q.symbol]); });
+      med = { per: {}, yield: {} };
+      var sectors = {};
+      rows.forEach(function (s) { (sectors[s.sector] = sectors[s.sector] || []).push(s); });
+      Object.keys(sectors).forEach(function (k) {
+        med.per[k] = median(sectors[k].map(function (s) { return s.per; }).filter(function (v) { return v > 0 && v < 100; }));
+        med.yield[k] = median(sectors[k].map(function (s) { return s.yield; }));
+      });
+    };
+    compute(fund);
 
     // Chiffres clés du marché
     var stat = function (sel, v) { var el = root.querySelector(sel); if (el) el.textContent = v; };
@@ -246,11 +276,12 @@
         chartCtl = window.BxChart.mount(box, {
           sym: s.sym, name: s.fullName || s.name, history: h, symbols: symbols, loadHistory: loadHistory,
           onAnalyse: function () {
+            if (!premium) { if (window.BxMember) window.BxMember.paywall('david'); else location.href = memberHref(s.sym); return; }
             if (!window.BxDavid || !chartCtl) return;
             window.BxDavid.open({ fx: s, med: med, chartData: chartCtl.data, onLevels: chartCtl.setAnalystLevels, returnFocus: box.querySelector('.cx-ai') });
           }
         });
-        if (chartCtl && autoDavid) { autoDavid = false; box.querySelector('.cx-ai').click(); }
+        if (chartCtl && autoDavid && premium) { autoDavid = false; box.querySelector('.cx-ai').click(); }
       }).catch(function () { box.innerHTML = '<p class="fx-tip">Le graphique est momentanément indisponible.</p>'; });
     };
     var autoDavid = /david/i.test(location.search);
@@ -273,7 +304,7 @@
       count.textContent = list.length + (list.length > 1 ? ' sociétés' : ' société');
       body.innerHTML = list.length ? list.map(function (s) {
         var tr = '<tr data-sym="' + esc(s.sym) + '"' + (open === s.sym ? ' class="is-open"' : '') + '>' + cell(s) + '</tr>';
-        if (open === s.sym) tr += '<tr class="fx-row-detail"><td colspan="' + COLS.length + '">' + detail(s, med) + '</td></tr>';
+        if (open === s.sym) tr += '<tr class="fx-row-detail"><td colspan="' + COLS.length + '">' + detail(s, med, premium) + '</td></tr>';
         return tr;
       }).join('') : '<tr><td colspan="' + COLS.length + '">Aucune société ne correspond à ces critères.</td></tr>';
       var wrap = body.closest('.table-wrap');
@@ -316,10 +347,23 @@
     else if (items.SNTS) open = 'SNTS'; // ouverte par défaut, sans défilement
     draw();
     if (open && hash) { var r0 = body.querySelector('tr[data-sym="' + open + '"]'); if (r0) setTimeout(function () { r0.scrollIntoView({ block: 'start' }); }, 50); }
+
+    // Membre Premium : les comptes détaillés sont lus dans la base protégée (refusés aux autres comptes)
+    if (member && member.premium && window.BxMember) {
+      window.BxMember.data('fondamentaux').then(function (full) {
+        premium = true;
+        compute(full);
+        draw();
+      }).catch(function () { /* accès refusé ou réseau : la fiche reste verrouillée */ });
+    }
   }
 
-  Promise.all([getJson(base + '/quotes.json?t=' + Math.floor(Date.now() / 60000)), getJson(fundUrl)])
-    .then(function (r) { start(r[0], r[1]); })
+  // État du membre (connecté, Premium) : on ne l’attend pas plus de 4 secondes
+  var member = window.BxMember
+    ? Promise.race([window.BxMember.ready(), new Promise(function (ok) { setTimeout(function () { ok(null); }, 4000); })])
+    : Promise.resolve(null);
+  Promise.all([getJson(base + '/quotes.json?t=' + Math.floor(Date.now() / 60000)), getJson(fundUrl), member])
+    .then(function (r) { start(r[0], r[1], r[2]); })
     .catch(function () {
       var body = root.querySelector('[data-fx-body]');
       if (body) body.innerHTML = '<tr><td colspan="9">Les données sont momentanément indisponibles. Réessayez dans un instant.</td></tr>';

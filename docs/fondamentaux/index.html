@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-d3eSNSoivhF+vksbi6zp1P491iB1nF9eQ0/lz+QdhEA='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data: https:; connect-src 'self' https://raw.githubusercontent.com https://formsubmit.co; form-action 'self' https://formsubmit.co; base-uri 'self'; object-src 'none'; upgrade-insecure-requests">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-WB0GrYX8jICGlgfW4MJVDg37h3UygoO3UyzSFQan0+E='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data: https:; connect-src 'self' https://raw.githubusercontent.com https://formsubmit.co https://xavaqpwjphdeaejiyqwv.supabase.co; form-action 'self' https://formsubmit.co; base-uri 'self'; object-src 'none'; upgrade-insecure-requests">
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <title>Analyse fondamentale – BRVMexa</title>
 <meta name="description" content="BPA, PER, rendement, marge et croissance : les ratios clés des 48 actions de la BRVM, calculés chaque jour avec le dernier cours.">
@@ -23,7 +23,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,700;12..96,800&amp;family=Inter:wght@400;500;600;700&amp;display=swap">
 <link rel="stylesheet" href="../assets/css/style.css">
-<script>window.BRVMEXA = {"dataUrl": "https://raw.githubusercontent.com/Kossi-lab/brvmexa/main/data", "contactEndpoint": "https://formsubmit.co/ajax/contact@brvmexa.com"};</script>
+<script>window.BRVMEXA = {"dataUrl": "https://raw.githubusercontent.com/Kossi-lab/brvmexa/main/data", "contactEndpoint": "https://formsubmit.co/ajax/contact@brvmexa.com", "supabaseUrl": "https://xavaqpwjphdeaejiyqwv.supabase.co", "supabaseKey": "sb_publishable_FriVfqTh5FPOI1OsCwmdVA_7vI40iXO"};</script>
 
 </head>
 <body class="page-fondamentaux">
@@ -33,6 +33,7 @@
     <a class="brand" href="../" rel="home" aria-label="BRVMexa — accueil"><svg viewBox="0 0 32 32" aria-hidden="true"><rect width="32" height="32" rx="8" fill="#16C47F"/><rect x="7" y="17" width="4" height="8" rx="1.5" fill="#0A0F1A"/><rect x="14" y="12" width="4" height="13" rx="1.5" fill="#0A0F1A"/><rect x="21" y="7" width="4" height="18" rx="1.5" fill="#0A0F1A"/><path d="M6 14 13 9l5 2 8-6" stroke="#0A0F1A" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg><span>BRVM<b>exa</b></span></a>
     <nav class="main-nav" id="menu-principal" aria-label="Menu principal" data-bx-nav><ul><li class=""><a href="../marches/">Marchés</a></li><li class="current-menu-item"><a href="../fondamentaux/">Analyse</a></li><li class=""><a href="../fonctionnalites/">Fonctionnalités</a></li><li class=""><a href="../simulateur/">Simulateur</a></li><li class=""><a href="../actualites/">Actualités</a></li><li class=""><a href="../a-propos/">À propos</a></li><li class=""><a href="../contact/">Contact</a></li></ul></nav>
     <div class="header-cta">
+      <a class="btn btn--ghost btn--sm hdr-member" href="../membre/" data-bx-member><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="8.2" r="3.8" fill="none" stroke="currentColor" stroke-width="2"/><path d="M4.5 20.2c1.3-3.6 4.2-5.4 7.5-5.4s6.2 1.8 7.5 5.4" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg><span>Espace membre</span></a>
       <a class="btn btn--primary btn--sm" href="../telecharger/">Télécharger</a>
       <button class="menu-toggle" type="button" aria-controls="menu-principal" aria-expanded="false" data-bx-menu>
         <span class="screen-reader-text">Ouvrir le menu</span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg>
@@ -42,7 +43,7 @@
 </header>
 <div class="ticker" aria-label="Cours de la BRVM" data-bx-ticker><div class="ticker-loading">Chargement des cours de la BRVM…</div></div>
 <main id="contenu">
-<section class="page-hero"><div class="container"><h1>Analyse fondamentale</h1><p>BPA, PER, rendement, marge et croissance : les ratios clés des 48 actions de la BRVM, calculés chaque jour avec le dernier cours.</p></div></section><div class="content"><div class="container"><div class="entry entry--wide"><p>Pour bien choisir une action, il ne suffit pas de regarder son cours : il faut savoir si l’entreprise gagne de l’argent, si elle le partage avec ses actionnaires et si son prix est raisonnable. Cette page réunit les comptes des 5 derniers exercices de chaque société cotée et calcule les principaux ratios avec le <strong>dernier cours de clôture</strong>. Ouvrez la fiche d’une société pour afficher son <strong>graphique d’analyse technique</strong>, puis cliquez sur <strong>« Analyser l’action »</strong> : <strong>David</strong>, l’analyste virtuel de BRVMexa, croise la technique et les fondamentaux et vous donne son avis argumenté.</p><div class="fx" data-fx data-fx-src="../assets/data/fondamentaux.json">
+<section class="page-hero"><div class="container"><h1>Analyse fondamentale</h1><p>BPA, PER, rendement, marge et croissance : les ratios clés des 48 actions de la BRVM, calculés chaque jour avec le dernier cours.</p></div></section><div class="content"><div class="container"><div class="entry entry--wide"><p>Pour bien choisir une action, il ne suffit pas de regarder son cours : il faut savoir si l’entreprise gagne de l’argent, si elle le partage avec ses actionnaires et si son prix est raisonnable. Cette page réunit les comptes des 5 derniers exercices de chaque société cotée et calcule les principaux ratios avec le <strong>dernier cours de clôture</strong>. Ouvrez la fiche d’une société pour afficher son <strong>graphique d’analyse technique</strong>, puis cliquez sur <strong>« Analyser l’action »</strong> : <strong>David</strong>, l’analyste virtuel de BRVMexa, croise la technique et les fondamentaux et vous donne son avis argumenté. Le tableau et le graphique sont gratuits ; la fiche détaillée de chaque société et l’avis de David sont réservés aux <a href="../membre/">membres Premium</a>.</p><div class="fx" data-fx data-fx-src="../assets/data/fondamentaux.json">
   <div class="fx-stats">
     <div class="fx-stat"><small>PER médian de la cote</small><strong class="num" data-fx-stat="per">…</strong><span>Nombre d’années de bénéfices payées</span></div>
     <div class="fx-stat"><small>Rendement net médian</small><strong class="num" data-fx-stat="yield">…</strong><span>Dividende ÷ cours actuel</span></div>
@@ -91,6 +92,6 @@
     </div>
   </div>
 </footer>
-<script src="../assets/js/site.js" defer></script><script src="../assets/js/market.js" defer></script><script src="../assets/js/vendor/lightweight-charts.js" defer></script><script src="../assets/js/drawings.js" defer></script><script src="../assets/js/chart.js" defer></script><script src="../assets/js/david.js" defer></script><script src="../assets/js/fondamentaux.js" defer></script>
+<script src="../assets/js/site.js" defer></script><script src="../assets/js/market.js" defer></script><script src="../assets/js/vendor/lightweight-charts.js" defer></script><script src="../assets/js/vendor/supabase.js" defer></script><script src="../assets/js/membre.js" defer></script><script src="../assets/js/drawings.js" defer></script><script src="../assets/js/chart.js" defer></script><script src="../assets/js/david.js" defer></script><script src="../assets/js/fondamentaux.js" defer></script>
 </body>
 </html>
