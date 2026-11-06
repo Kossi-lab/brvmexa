@@ -601,7 +601,7 @@ table.fx-hist td { font-size: .9rem; }
 .cx-top { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 14px 14px 12px; background: var(--surface); }
 .cx-top strong { display: block; font-size: 1.05rem; }
 .cx-top > div > span { color: var(--sec); font-size: .8rem; }
-.cx table, .cx tr, .cx td, .cx th { padding: 0 !important; border: 0 !important; min-width: 0 !important; background: transparent !important; }
+.cx table, .cx tr, .cx td, .cx th { margin: 0 !important; padding: 0 !important; border: 0 !important; min-width: 0 !important; background: transparent !important; }
 .cx-foot a { color: var(--sec); text-decoration: underline; }
 .cx { background: var(--bg-2); border: 1px solid var(--border); border-radius: 16px; overflow: hidden; }
 .cx:fullscreen { display: flex; flex-direction: column; border-radius: 0; height: 100vh; }
