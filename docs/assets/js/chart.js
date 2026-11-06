@@ -143,7 +143,7 @@
   ];
   var HINTS = {
     trend: 'Ligne de tendance : cliquez-glissez, ou cliquez sur deux points.', hline: 'Ligne horizontale : cliquez sur le niveau de prix.',
-    rect: 'Rectangle : cliquez-glissez pour tracer la zone.', long: 'Position longue : cliquez sur le prix d’achat, puis déplacez l’objectif et le stop.',
+    rect: 'Rectangle : cliquez-glissez pour tracer la zone.', long: 'Position longue : cliquez sur le prix d’achat. Une boîte s’ouvre pour régler le capital, l’objectif et le stop.',
     short: 'Position courte : cliquez sur le prix de vente, puis déplacez l’objectif et le stop.', fib: 'Fibonacci : tracez du plus bas au plus haut (ou l’inverse).',
     measure: 'Mesure : cliquez-glissez pour mesurer la variation et la durée.', brush: 'Pinceau : dessinez librement en maintenant le clic.',
     text: 'Texte : cliquez à l’endroit voulu, écrivez puis appuyez sur Entrée.', label: 'Étiquette de prix : cliquez sur un point du graphique.'
@@ -207,8 +207,7 @@
       '<div class="cx-pal" data-pal hidden role="dialog" aria-label="Couleur et épaisseur"><p>Couleur</p><div class="cx-colors">' +
         (window.BxDraw ? window.BxDraw.COLORS : []).map(function (c) { return '<button type="button" data-color="' + c[0] + '" style="background:' + c[0] + '" title="' + esc(c[1]) + '" aria-label="' + esc(c[1]) + '"></button>'; }).join('') +
         '<label class="cx-custom" title="Autre couleur"><input type="color" data-custom value="#16C47F" aria-label="Autre couleur"><span>+</span></label>' +
-      '</div><p>Épaisseur</p><div class="cx-widths">' + [1, 2, 3, 4].map(function (w) { return '<button type="button" data-width="' + w + '" aria-label="Épaisseur ' + w + '"><i style="height:' + w + 'px"></i></button>'; }).join('') + '</div>' +
-      '<p>Capital simulé (position longue)</p><label class="cx-cap"><input type="number" min="1000" step="1000" data-capital> F</label></div>' +
+      '</div><p>Épaisseur</p><div class="cx-widths">' + [1, 2, 3, 4].map(function (w) { return '<button type="button" data-width="' + w + '" aria-label="Épaisseur ' + w + '"><i style="height:' + w + 'px"></i></button>'; }).join('') + '</div>'  + '</div>' +
       '<div class="cx-foot"><span data-stats></span><span>Cours ajustés des fractionnements · Graphique : <a href="https://www.tradingview.com/" target="_blank" rel="noopener">TradingView Lightweight Charts™</a></span></div>' +
       '</div>';
 
@@ -349,7 +348,7 @@
     // Outils de dessin (moteur BxDraw : tracés ancrés, déplaçables, sauvegardés sur cet appareil)
     var hint = $('[data-hint]');
     var say = function (t) { hint.hidden = !t; hint.textContent = t || ''; };
-    var swatch = $('[data-swatch]'), pal = $('[data-pal]'), capIn = $('[data-capital]');
+    var swatch = $('[data-swatch]'), pal = $('[data-pal]');
     var draw = window.BxDraw ? window.BxDraw.create({
       chart: chart, host: mainEl, getSeries: mainSeries, pts: pts, sym: opts.sym,
       onToolDone: function () { setTool('cross'); },
@@ -369,7 +368,6 @@
       root.querySelectorAll('[data-color]').forEach(function (b) { b.classList.toggle('is-on', b.getAttribute('data-color') === curColor); });
       root.querySelectorAll('[data-width]').forEach(function (b) { b.classList.toggle('is-on', +b.getAttribute('data-width') === curWidth); });
     }
-    if (capIn && draw) capIn.value = draw.capital();
     function setTool(t) {
       tool = t;
       if (draw) draw.setTool(t);
@@ -453,7 +451,6 @@
       cb.addEventListener('change', function () { on[cb.getAttribute('data-ind')] = cb.checked; applyInd(); });
     });
     $('[data-compare]').addEventListener('change', function (e) { setCompare(e.target.value); if (draw) draw.redraw(); });
-    if (capIn) capIn.addEventListener('change', function () { var v = Math.round(+capIn.value); if (draw && v >= 1000) draw.setCapital(v); });
     document.addEventListener('click', function (e) { if (pal && !pal.hidden && !e.target.closest('.cx-palwrap, .cx-pal')) pal.hidden = true; });
 
     if (mobile) { on.macd = false; }

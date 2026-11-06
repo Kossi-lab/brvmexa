@@ -1,5 +1,5 @@
 /* BRVMexa — outils de dessin du graphique, inspirés de TradingView.
-   Ligne de tendance, ligne horizontale, rectangle, position longue / courte, retracement de Fibonacci,
+   Ligne de tendance, ligne horizontale, rectangle, position longue, retracement de Fibonacci,
    mesure, pinceau, texte et étiquette de prix. Chaque tracé est ancré sur le temps et le prix :
    il suit le graphique quand on zoome ou qu'on le fait défiler, et se déplace à la souris ou au doigt. */
 (function () {
@@ -57,7 +57,7 @@
 
     var KEY = 'bx-draw-' + o.sym;
     var drawings = [], undo = [], selected = null, tool = 'cross', color = COLORS[3][0], width = 2, visible = true, magnet = true, FW = 0;
-    var capital = 1000000, drag = null, pending = null, hover = null, W = 0, H = 0, editing = null, seq = 1;
+    var capital = 1000000, cur = null, drag = null, pending = null, hover = null, W = 0, H = 0, editing = null, seq = 1;
     try { var saved = JSON.parse(localStorage.getItem(KEY) || 'null'); if (saved && saved.d) { drawings = saved.d; capital = saved.c || capital; } } catch (e) {}
     drawings.forEach(function (d) { d.id = seq++; });
 
@@ -89,6 +89,7 @@
           var x1 = X(d.a.l), y1 = Y(d.a.p), x2 = X(d.b.l), y2 = Y(d.b.p);
           line(x1, y1, x2, y2, d.color, d.w);
           var ch = (d.b.p / d.a.p - 1) * 100, n = Math.round(Math.abs(d.b.l - d.a.l));
+          endPrice(x1, y1, x2, d.a.p, d.color); endPrice(x2, y2, x1, d.b.p, d.color);
           if (selected === d || hover === d) box(ctx, (x1 + x2) / 2, (y1 + y2) / 2 - 16, pc(ch) + ' · ' + n + ' séances', rgba(d.color, 0.92), ink(d.color), 'center');
         }
       },
@@ -98,7 +99,7 @@
         draw: function (d) {
           var y = Y(d.a.p);
           line(0, y, W, y, d.color, d.w);
-          box(ctx, W - 4, y, pc((d.a.p / lastClose - 1) * 100) + ' du cours', d.color, ink(d.color), 'right');
+          box(ctx, W - 4, y, px(d.a.p) + ' F · ' + pc((d.a.p / lastClose - 1) * 100) + ' du cours', d.color, ink(d.color), 'right');
         }
       },
       rect: {
@@ -131,7 +132,7 @@
             if (prev != null) { ctx.fillStyle = rgba(f[1], 0.08); ctx.fillRect(x1, Math.min(prev, y), x2 - x1, Math.abs(y - prev)); }
             line(x1, y, x2, y, f[1], 1);
             ctx.font = FONT; ctx.fillStyle = f[1]; ctx.textAlign = 'left'; ctx.textBaseline = 'bottom';
-            ctx.fillText(tidy(nf2.format(f[0] * 100)).replace(',00', '') + ' % (' + px(p) + ')', x1 + 4, y - 2);
+            ctx.fillText(tidy(nf2.format(f[0] * 100)).replace(',00', '') + ' % : ' + px(p) + ' F', x1 + 4, y - 2);
             prev = y;
           });
           dashed(X(d.a.l), Y(d.a.p), X(d.b.l), Y(d.b.p), '#9AA7AF');
@@ -223,6 +224,11 @@
     function T_rectHit(d, x, y) { return T.rect.hit(d, x, y); }
     T.long = T.position; T.short = T.position;
 
+    function endPrice(x, y, other, p, c) { // petit prix collé à l'extrémité d'une ligne
+      ctx.font = FONT; ctx.fillStyle = c; ctx.textBaseline = 'middle';
+      ctx.textAlign = other < x ? 'left' : 'right';
+      ctx.fillText(px(p), x + (other < x ? 8 : -8), y - 10);
+    }
     function line(x1, y1, x2, y2, c, w) { ctx.strokeStyle = c; ctx.lineWidth = w; ctx.setLineDash([]); ctx.beginPath(); ctx.moveTo(x1, y1); ctx.lineTo(x2, y2); ctx.stroke(); }
     function dashed(x1, y1, x2, y2, c) { ctx.strokeStyle = c; ctx.lineWidth = 1; ctx.setLineDash([4, 4]); ctx.beginPath(); ctx.moveTo(x1, y1); ctx.lineTo(x2, y2); ctx.stroke(); ctx.setLineDash([]); }
     function arrow(x1, y1, x2, y2, c) {
@@ -248,7 +254,7 @@
       ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
       ctx.clearRect(0, 0, FW, H);
       G = geo();
-      if (!G || !visible) return;
+      if (!G || !visible) { syncBox(); return; }
       ctx.save(); ctx.beginPath(); ctx.rect(0, 0, W, H); ctx.clip();
       drawings.forEach(function (d) { try { T[d.type].draw(d); } catch (e) {} });
       if (pending && pending.preview) { try { T[pending.preview.type].draw(pending.preview); } catch (e) {} }
@@ -260,9 +266,22 @@
       ctx.restore();
       // Prix exacts sur l'échelle de droite, comme sur TradingView
       var tags = [];
-      drawings.forEach(function (d) { if (d.type === 'hline') tags.push([d.a.p, d.color]); });
+      drawings.forEach(function (d) { if (d.type === 'hline' || d.type === 'label') tags.push([d.a.p, d.color]); });
       var focus = drag ? drag.d : sel || hover;
-      if (focus && focus.type !== 'hline') axisPrices(focus).forEach(function (t) { tags.push(t); });
+      if (focus && focus.type !== 'hline' && focus.type !== 'label') axisPrices(focus).forEach(function (t) { tags.push(t); });
+      // Avant de cliquer : point et prix exacts où le tracé sera posé
+      if (cur && tool !== 'cross' && !drag && G) {
+        var sp = tool === 'brush' || tool === 'text' ? { l: L(cur.x), p: P(cur.y) } : snap(L(cur.x), P(cur.y), cur.y);
+        if (sp.p != null) {
+          var cx0 = tool === 'brush' || tool === 'text' ? cur.x : X(sp.l), cy0 = Y(sp.p);
+          ctx.save(); ctx.beginPath(); ctx.rect(0, 0, W, H); ctx.clip();
+          ctx.strokeStyle = color; ctx.lineWidth = 2; ctx.fillStyle = '#0D1422';
+          ctx.beginPath(); ctx.arc(cx0, cy0, 4.5, 0, Math.PI * 2); ctx.fill(); ctx.stroke();
+          box(ctx, cx0 + 10, cy0 - 14, px(sp.p) + ' F', color, ink(color), 'left');
+          ctx.restore();
+          tags.push([sp.p, color]);
+        }
+      }
       tags.forEach(function (t) {
         var y = Y(t[0]);
         if (!isFinite(y) || y < 0 || y > H) return;
@@ -271,6 +290,7 @@
         ctx.fillStyle = ink(t[1]); ctx.textAlign = 'left'; ctx.textBaseline = 'middle';
         ctx.fillText(px(t[0]), W + 6, y + 0.5);
       });
+      syncBox();
     }
     function axisPrices(d) {
       switch (d.type) {
@@ -287,9 +307,11 @@
       if (!magnet) return { l: l, p: p };
       var i = Math.round(l);
       if (i < 0 || i > lastIdx) return { l: i, p: Math.abs(p) >= 100 ? Math.round(p) : Math.round(p * 100) / 100 };
-      var bar = pts[i], best = null, dist = Infinity;
-      [bar.c, bar.o].forEach(function (v) { if (v > 0) { var dd = Math.abs(Y(v) - y); if (dd < dist) { dist = dd; best = v; } } });
-      if (best != null && dist < 24) return { l: i, p: best };
+      var bar = pts[i], best = null, dist = Infinity, cand = [bar.c];
+      var st = getSeries().seriesType ? getSeries().seriesType() : '';
+      if (st === 'Candlestick') cand.push(bar.o > 0 ? bar.o : (i ? pts[i - 1].c : bar.c));
+      cand.forEach(function (v) { if (v > 0) { var dd = Math.abs(Y(v) - y); if (dd < dist) { dist = dd; best = v; } } });
+      if (best != null && dist < 12) return { l: i, p: best };
       return { l: i, p: Math.abs(p) >= 100 ? Math.round(p) : Math.round(p * 100) / 100 };
     }
 
@@ -352,8 +374,51 @@
     });
     editor.addEventListener('blur', function () { closeEditor(true); });
 
+    // ───────── Boîte de la position longue : capital, entrée, objectif, stop ─────────
+    var pbox = document.createElement('div');
+    pbox.className = 'cx-posbox'; pbox.hidden = true;
+    pbox.setAttribute('role', 'dialog'); pbox.setAttribute('aria-label', 'Position longue');
+    pbox.innerHTML = '<p class="cx-posbox-t">Position longue</p>' +
+      '<label>Capital simulé<span><input type="number" min="1000" step="1000" data-k="cap"> F</span></label>' +
+      '<label>Prix d’achat<span><input type="number" min="0" step="any" data-k="e"> F</span></label>' +
+      '<label>Objectif<span><input type="number" min="0" step="any" data-k="tp"> F</span></label>' +
+      '<label>Stop<span><input type="number" min="0" step="any" data-k="sl"> F</span></label>';
+    host.appendChild(pbox);
+    var inBox = function (e) { return e.target && e.target.closest && e.target.closest('.cx-posbox, .cx-text-edit') && !drag; };
+    var boxFor = null;
+    function syncBox() {
+      var d = selected && drawings.indexOf(selected) >= 0 && (selected.type === 'long' || selected.type === 'short') && visible && !drag ? selected : null;
+      if (!d || !G) { pbox.hidden = true; boxFor = null; return; }
+      pbox.hidden = false;
+      var act = document.activeElement && pbox.contains(document.activeElement);
+      if (boxFor !== d || !act) {
+        pbox.querySelector('[data-k="cap"]').value = capital;
+        ['e', 'tp', 'sl'].forEach(function (k) { pbox.querySelector('[data-k="' + k + '"]').value = d[k]; });
+        boxFor = d;
+      }
+      var bw = pbox.offsetWidth || 200, bh = pbox.offsetHeight || 170;
+      var xl = Math.min(X(d.l1), X(d.l2)), xr = Math.max(X(d.l1), X(d.l2));
+      var top = Math.min(Y(d.tp), Y(d.sl)), bot = Math.max(Y(d.tp), Y(d.sl));
+      var left = xr + 12 + bw <= W ? xr + 12 : xl - 12 - bw >= 0 ? xl - 12 - bw : Math.max(0, Math.min(W - bw, (xl + xr) / 2 - bw / 2));
+      var ty = left >= xr || left + bw <= xl ? (top + bot) / 2 - bh / 2 : (top - bh - 28 >= 0 ? top - bh - 28 : bot + 28);
+      pbox.style.left = Math.round(left) + 'px';
+      pbox.style.top = Math.round(Math.max(0, Math.min(H - bh, ty))) + 'px';
+    }
+    pbox.addEventListener('change', function (e) {
+      var k = e.target.getAttribute('data-k'), v = +e.target.value, d = boxFor;
+      if (!d || !k) return;
+      if (k === 'cap') { if (v >= 1000) { capital = Math.round(v); save(); } boxFor = null; redraw(); return; }
+      var n = { e: d.e, tp: d.tp, sl: d.sl }; n[k] = v;
+      var ok = v > 0 && (d.type === 'long' ? n.sl < n.e && n.e < n.tp : n.tp < n.e && n.e < n.sl);
+      if (ok) { snapshot(); d[k] = v; save(); }
+      boxFor = null; redraw();
+    });
+    pbox.addEventListener('keydown', function (e) { if (e.key === 'Enter') e.target.blur(); e.stopPropagation(); });
+    ['pointerdown', 'mousedown', 'touchstart', 'wheel', 'dblclick'].forEach(function (t) { pbox.addEventListener(t, function (e) { e.stopPropagation(); }); });
+
     var swallow = false;
     function down(e) {
+      if (inBox(e)) return;
       if (e.button != null && e.button !== 0) return;
       var q = pos(e);
       if (!inPane(q) || !G) return;
@@ -387,7 +452,10 @@
       } else if (selected) { selected = null; if (o.onChange) o.onChange({ count: drawings.length, selected: null }); redraw(); }
     }
     function move(e) {
+      if (inBox(e)) return;
       var q = pos(e);
+      cur = inPane(q) ? q : null;
+      if (tool !== 'cross' && !drag) redraw();
       if (!G) G = geo();
       if (!G) return;
       var l = L(q.x), p = P(q.y);
@@ -433,6 +501,7 @@
       redraw();
     }
     function dbl(e) {
+      if (inBox(e)) return;
       var q = pos(e), hit = pick(q);
       if (hit && hit.d.type === 'text') { e.preventDefault(); e.stopPropagation(); openEditor(hit.d, q); }
     }
@@ -444,11 +513,12 @@
     host.addEventListener('dblclick', dbl, true);
     ['mousedown', 'touchstart', 'mousemove', 'touchmove', 'wheel'].forEach(function (t) {
       host.addEventListener(t, function (e) {
+        if (inBox(e)) return;
         if (swallow || drag || (tool !== 'cross' && t !== 'wheel' && t !== 'mousemove')) { e.stopPropagation(); if (t === 'touchmove' || t === 'touchstart') e.preventDefault(); }
         if (t === 'mousedown' || t === 'touchstart') setTimeout(function () { swallow = false; }, 0);
       }, { capture: true, passive: false });
     });
-    host.addEventListener('mouseleave', function () { if (hover) { hover = null; redraw(); } });
+    host.addEventListener('mouseleave', function () { cur = null; if (hover) hover = null; redraw(); });
     function onKey(e) {
       var tag = (e.target && e.target.tagName) || '';
       if (/INPUT|TEXTAREA|SELECT/.test(tag)) return;
@@ -484,7 +554,7 @@
       toggle: function () { visible = !visible; canvas.style.visibility = visible ? '' : 'hidden'; redraw(); return visible; },
       redraw: redraw,
       count: function () { return drawings.length; },
-      destroy: function () { document.removeEventListener('keydown', onKey); if (ro) ro.disconnect(); canvas.remove(); editor.remove(); }
+      destroy: function () { document.removeEventListener('keydown', onKey); if (ro) ro.disconnect(); canvas.remove(); editor.remove(); pbox.remove(); }
     };
     return api;
   }

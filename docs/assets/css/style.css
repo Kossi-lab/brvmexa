@@ -743,8 +743,13 @@ html.dv-open { overflow: hidden; }
 .cx-widths button { all: unset; cursor: pointer; height: 26px; border-radius: 7px; background: var(--bg-2); display: grid; place-items: center; }
 .cx-widths button i { display: block; width: 26px; background: var(--text); border-radius: 2px; }
 .cx-widths button.is-on { outline: 2px solid var(--accent); }
-.cx-cap { display: flex; align-items: center; gap: 6px; font-size: .8rem; color: var(--sec); }
-.cx-cap input { width: 100%; height: 32px; border-radius: 8px; border: 1px solid var(--border); background: var(--bg-2); color: var(--text); padding: 0 8px; font: 600 .85rem var(--font); }
+.cx-posbox { position: absolute; z-index: 6; width: 236px; padding: 10px 12px; border-radius: 10px; background: rgba(13, 20, 34, .97); border: 1px solid var(--border); box-shadow: 0 10px 28px rgba(0,0,0,.45); display: grid; gap: 6px; }
+.cx-posbox[hidden] { display: none; }
+.cx-posbox-t { margin: 0 0 2px; font-weight: 800; font-size: .82rem; color: #16C47F; }
+.cx-posbox label { display: flex; align-items: center; justify-content: space-between; gap: 8px; font-size: .74rem; color: var(--sec); white-space: nowrap; }
+.cx-posbox label span { display: flex; align-items: center; gap: 4px; color: var(--sec); }
+.cx-posbox input { width: 92px; height: 28px; border-radius: 7px; border: 1px solid var(--border); background: var(--bg-2); color: var(--text); padding: 0 6px; font: 600 .8rem var(--font); text-align: right; }
+.cx-posbox input:focus { outline: none; border-color: var(--accent); }
 .cx-main canvas.cx-draw { position: absolute; left: 0; top: 0; z-index: 3; pointer-events: none; }
 .cx-main.is-drawing { touch-action: none; }
 .cx-text-edit { position: absolute; z-index: 5; width: 200px; height: 30px; border-radius: 6px; border: 1px solid var(--accent); background: rgba(13, 20, 34, .95); font: 700 14px var(--font); padding: 0 8px; outline: none; }
