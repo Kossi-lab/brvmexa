@@ -34,7 +34,9 @@ async function askGithub(source, key) {
     });
     if (res.status === 429) throw new QuotaError('quota gratuit atteint pour aujourd’hui');
     if (!res.ok) { last = `HTTP ${res.status} ${(await res.text()).slice(0, 200)}`; continue; }
-    const data = await res.json();
+    const raw = await res.text();
+    let data;
+    try { data = JSON.parse(raw); } catch { throw new QuotaError(`réponse inattendue de GitHub Models (HTTP ${res.status}, ${res.headers.get('content-type')}) : ${raw.slice(0, 300)}`); }
     return data.choices?.[0]?.message?.content ?? '';
   }
   throw new Error(`IA (GitHub Models) : ${last}`);
