@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-06T11:45:20.695Z",
+ "updatedAt": "2026-11-06T12:39:52.108Z",
  "items": [
+  {
+   "id": "sika-65548",
+   "title": "Côte d’Ivoire : L’État s’engage à mobiliser 5 à 10 milliards FCFA au profit de 32 pépites tech",
+   "summary": "Trois mois après l'ouverture des candidatures aux programmes Ivoire Tech Next 15 et Ivoire Tech Scale-Up, le ministre d...",
+   "url": "https://www.sikafinance.com/marches/cote-divoire-letat-sengage-a-mobiliser-5-a-10-milliards-fcfa-au-profit-de-32-pepites-tech_65548",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-06T11:57:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65547",
    "title": "Produits de base : Les prix mondiaux attendus en hausse de 23% en 2026 sous l’effet des chocs internationaux",
@@ -1120,8 +1134,8 @@
    "premium": false,
    "publishedAt": "2026-11-02T09:08:38.000Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65407",
@@ -1134,8 +1148,8 @@
    "premium": false,
    "publishedAt": "2026-11-02T08:33:00Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65406",
@@ -1150,8 +1164,8 @@
    "symbols": [
     "SDCC"
    ],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "gn-1yhz37v",
@@ -1164,8 +1178,8 @@
    "premium": false,
    "publishedAt": "2026-11-01T13:15:20.000Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65402",
@@ -1178,8 +1192,8 @@
    "premium": false,
    "publishedAt": "2026-11-01T08:26:00Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65395",
@@ -1192,8 +1206,8 @@
    "premium": false,
    "publishedAt": "2026-10-31T13:54:00Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65391",
@@ -1206,8 +1220,8 @@
    "premium": false,
    "publishedAt": "2026-10-31T07:13:00Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65390",
@@ -1220,8 +1234,8 @@
    "premium": false,
    "publishedAt": "2026-10-30T19:24:00Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65388",
@@ -1234,8 +1248,8 @@
    "premium": false,
    "publishedAt": "2026-10-30T17:24:00Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65387",
