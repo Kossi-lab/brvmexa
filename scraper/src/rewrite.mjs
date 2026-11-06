@@ -6,40 +6,39 @@ import * as cheerio from 'cheerio';
 export const AUTHOR = 'La Rédaction, BRVMexa';
 const API = process.env.NEWS_API_URL || 'https://api.anthropic.com/v1/messages';
 const MODEL = process.env.NEWS_MODEL || 'claude-haiku-5-5';
-// Option gratuite : GitHub Models, avec le jeton fourni automatiquement à chaque passage du robot
-const GH_API = process.env.NEWS_GH_API_URL || 'https://models.github.ai/inference/chat/completions';
-const GH_MODELS = (process.env.NEWS_GH_MODEL || 'openai/gpt-4.1-mini,openai/gpt-4o-mini').split(',');
+// Option gratuite : Google Gemini (offre gratuite, sans carte bancaire), via son interface compatible OpenAI
+const GEM_API = process.env.NEWS_GEMINI_API_URL || 'https://generativelanguage.googleapis.com/v1beta/openai/chat/completions';
+const GEM_MODELS = (process.env.NEWS_GEMINI_MODEL || 'gemini-flash-latest,gemini-2.5-flash').split(',');
+export const PAUSE_MS = { gemini: 7000, anthropic: 500 }; // l'offre gratuite limite le nombre de demandes par minute
 
-/** Moteur d'écriture disponible : clé Anthropic (payante) sinon GitHub Models (gratuit). */
+/** Moteur d'écriture disponible : Gemini (gratuit) sinon Anthropic (payant). */
 export function writer() {
+  if (process.env.GEMINI_API_KEY) return { kind: 'gemini', key: process.env.GEMINI_API_KEY };
   if (process.env.ANTHROPIC_API_KEY) return { kind: 'anthropic', key: process.env.ANTHROPIC_API_KEY };
-  if (process.env.GITHUB_TOKEN && process.env.NEWS_GH !== '0') return { kind: 'github', key: process.env.GITHUB_TOKEN };
   return null;
 }
 export class QuotaError extends Error {}
 
-async function askGithub(source, key) {
+async function askGemini(source, key) {
   let last;
-  for (const model of GH_MODELS) {
-    const res = await fetch(GH_API, {
+  for (const model of GEM_MODELS) {
+    const res = await fetch(GEM_API, {
       method: 'POST',
-      signal: AbortSignal.timeout(60000),
-      headers: { 'content-type': 'application/json', authorization: `Bearer ${key}`, accept: 'application/vnd.github+json', 'x-github-api-version': '2022-11-28' },
+      signal: AbortSignal.timeout(90000),
+      headers: { 'content-type': 'application/json', authorization: `Bearer ${key}` },
       body: JSON.stringify({
         model,
         temperature: 0.4,
-        max_tokens: 1500,
         messages: [{ role: 'system', content: PROMPT }, { role: 'user', content: source }],
       }),
     });
-    if (res.status === 429) throw new QuotaError('quota gratuit atteint pour aujourd’hui');
-    if (!res.ok) { last = `HTTP ${res.status} ${(await res.text()).slice(0, 200)}`; continue; }
     const raw = await res.text();
-    let data;
-    try { data = JSON.parse(raw); } catch { throw new QuotaError(`réponse inattendue de GitHub Models (HTTP ${res.status}, ${res.headers.get('content-type')}) : ${raw.slice(0, 300)}`); }
-    return data.choices?.[0]?.message?.content ?? '';
+    if (res.status === 429) throw new QuotaError(`quota gratuit Gemini atteint (${raw.slice(0, 160)})`);
+    if (res.status === 401 || res.status === 403) throw new QuotaError(`clé Gemini refusée (HTTP ${res.status}) : ${raw.slice(0, 200)}`);
+    if (!res.ok) { last = `${model} : HTTP ${res.status} ${raw.slice(0, 200)}`; continue; }
+    try { return JSON.parse(raw).choices?.[0]?.message?.content ?? ''; } catch { last = `${model} : réponse illisible ${raw.slice(0, 200)}`; }
   }
-  throw new Error(`IA (GitHub Models) : ${last}`);
+  throw new QuotaError(`IA Gemini indisponible : ${last}`);
 }
 
 const clean = (s) => String(s ?? '').replace(/[   ]/g, ' ').replace(/\s+/g, ' ').trim();
@@ -86,7 +85,7 @@ export async function rewriteItem(item, text, w) {
     item.summary ? `Résumé : ${item.summary}` : '',
     text ? `Texte :\n${text}` : '',
   ].filter(Boolean).join('\n');
-  const out = w.kind === 'github' ? await askGithub(`Dépêche :\n${source}`, w.key) : await askAnthropic(`Dépêche :\n${source}`, w.key);
+  const out = w.kind === 'gemini' ? await askGemini(`Dépêche :\n${source}`, w.key) : await askAnthropic(`Dépêche :\n${source}`, w.key);
   const json = out.slice(out.indexOf('{'), out.lastIndexOf('}') + 1);
   const r = JSON.parse(json);
   if (r.skip) return { skip: true };

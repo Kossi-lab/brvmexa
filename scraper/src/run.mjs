@@ -12,7 +12,7 @@ import { COMPANIES, COUNTRIES, SECTORS, countryFromSymbol } from './companies.mj
 import { readHistory, writeHistory, ensureHistory } from './history.mjs';
 import { updateDividends } from './dividends.mjs';
 import { writePerformance } from './performance.mjs';
-import { rewriteItem, extractArticle, writer, QuotaError, AUTHOR } from './rewrite.mjs';
+import { rewriteItem, extractArticle, writer, QuotaError, PAUSE_MS, AUTHOR } from './rewrite.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..', '..');
 const DATA = process.env.DATA_DIR ?? path.join(ROOT, 'data');
@@ -192,7 +192,7 @@ async function updateNews() {
   stock = [...byKey.values()].sort((a, b) => (b.publishedAt ?? '').localeCompare(a.publishedAt ?? '')).slice(0, 300);
   if (!fresh.length && !stock.length) throw new Error('Aucune actualité récupérée');
 
-  // 2. Rédaction : chaque nouvelle dépêche est réécrite par l'IA (GitHub Models gratuit, ou clé ANTHROPIC_API_KEY)
+  // 2. Rédaction : chaque nouvelle dépêche est réécrite par l'IA (clé gratuite GEMINI_API_KEY, ou clé payante ANTHROPIC_API_KEY)
   const key = writer();
   const mine = new Map(published.filter((n) => n.rewritten).map((n) => [n.id, n]));
   // Au démarrage, on rattrape plus vite pour que la page ne paraisse pas vide
@@ -200,8 +200,11 @@ async function updateNews() {
   const recent = Date.now() - 7 * 86400000;
   const todo = stock.filter((n) => n.status === 'new' && n.tries < 3 && !mine.has(n.id) && (!n.publishedAt || Date.parse(n.publishedAt) > recent)).slice(0, limit);
   if (!key) log('Actualités : aucune IA disponible, réécriture désactivée');
-  else log(`Actualités : réécriture avec ${key.kind === 'github' ? 'GitHub Models (gratuit)' : 'Anthropic'}, ${todo.length} à rédiger`);
+  else log(`Actualités : réécriture avec ${key.kind === 'gemini' ? 'Google Gemini (gratuit)' : 'Anthropic'}, ${todo.length} à rédiger`);
+  let first = true;
   for (const n of key ? todo : []) {
+    if (!first) await new Promise((r) => setTimeout(r, PAUSE_MS[key.kind] ?? 1000));
+    first = false;
     n.tries += 1;
     try {
       let text = '';
