@@ -1,6 +1,38 @@
 {
- "updatedAt": "2026-11-06T14:47:50.134Z",
+ "updatedAt": "2026-11-06T15:40:53.317Z",
  "items": [
+  {
+   "id": "sika-65554",
+   "title": "Projet aurifère de Doropo : NSIA Banque participe à une mobilisation de 148 milliards FCFA pour une mine stratégique en Côte d’Ivoire",
+   "summary": "NSIA Banque Côte d'Ivoire, représentée par son Directeur Général Adjoint, M. Sékou SANOGO, a signé les convention...",
+   "url": "https://www.sikafinance.com/marches/projet-aurifere-de-doropo-nsia-banque-participe-a-une-mobilisation-de-148-milliards-fcfa-pour-une-mine-strategique-en-cote-divoire_65554",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-06T15:23:00Z",
+   "symbols": [
+    "NSBC"
+   ],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "sika-65552",
+   "title": "Togo : Coris Bank International renouvelle sa direction pour soutenir ses ambitions de croissance",
+   "summary": "Coris Bank International Togo renouvelle son équipe dirigeante avec la nomination de Michel Kodzo GAFAN au poste de Dir...",
+   "url": "https://www.sikafinance.com/marches/togo-coris-bank-international-renouvelle-sa-direction-pour-soutenir-ses-ambitions-de-croissance_65552",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-06T14:39:00Z",
+   "symbols": [
+    "CBIBF"
+   ],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65548",
    "title": "Côte d’Ivoire : L’État s’engage à mobiliser 5 à 10 milliards FCFA au profit de 32 pépites tech",

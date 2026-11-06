@@ -1,15 +1,15 @@
 {
- "updatedAt": "2026-11-06T14:47:46.644Z",
+ "updatedAt": "2026-11-06T15:40:36.771Z",
  "sessionDate": "2026-11-06",
- "sessionTime": "14:30",
+ "sessionTime": "15:30",
  "source": "brvm.org",
- "transactionsValue": 3135638868,
- "capitalisationActions": 20596570326755,
+ "transactionsValue": 3340785788,
+ "capitalisationActions": 20420793814130,
  "capitalisationBonds": 13470440558879,
- "advancing": 24,
- "declining": 13,
- "unchanged": 11,
- "totalVolume": 3340125,
+ "advancing": 25,
+ "declining": 14,
+ "unchanged": 9,
+ "totalVolume": 3397825,
  "gainers": [
   {
    "symbol": "PALC",
@@ -51,9 +51,9 @@
   {
    "symbol": "SCRC",
    "shortName": "Sucrivoire CI",
-   "close": 1750,
-   "change": -5.41,
-   "volume": 11538
+   "close": 1720,
+   "change": -7.03,
+   "volume": 13539
   },
   {
    "symbol": "BNBC",
@@ -63,6 +63,13 @@
    "volume": 679
   },
   {
+   "symbol": "CIEC",
+   "shortName": "CIE Côte d’Ivoire",
+   "close": 5200,
+   "change": -1.89,
+   "volume": 5829
+  },
+  {
    "symbol": "SAFC",
    "shortName": "SAFCA CI",
    "close": 3750,
@@ -70,34 +77,27 @@
    "volume": 2403
   },
   {
-   "symbol": "BOAB",
-   "shortName": "BOA Bénin",
-   "close": 9400,
-   "change": -1,
-   "volume": 896
-  },
-  {
-   "symbol": "PRSC",
-   "shortName": "Tractafric Motors CI",
-   "close": 3620,
-   "change": -0.96,
-   "volume": 323
+   "symbol": "SNTS",
+   "shortName": "Sonatel",
+   "close": 4000,
+   "change": -1.23,
+   "volume": 574160
   }
  ],
  "mostActive": [
   {
    "symbol": "SNTS",
    "shortName": "Sonatel",
-   "close": 4175,
-   "change": 3.09,
-   "volume": 525554
+   "close": 4000,
+   "change": -1.23,
+   "volume": 574160
   },
   {
    "symbol": "ETIT",
    "shortName": "Ecobank Transnational (ETI)",
    "close": 60,
    "change": 1.69,
-   "volume": 2676449
+   "volume": 2680449
   },
   {
    "symbol": "PALC",
