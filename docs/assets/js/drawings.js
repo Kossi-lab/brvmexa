@@ -12,7 +12,9 @@
   var pc = function (v) { return (v > 0 ? '+' : '') + tidy(nf2.format(v)) + ' %'; };
   var FONT = '600 11px Inter, system-ui, sans-serif';
   var HIT = 7;
-  var COLORS = ['#16C47F', '#F2B33D', '#4C9BFF', '#F0526B', '#B07CFF', '#2EC5CE', '#F3F6FB', '#FF8A3D'];
+  // Couleurs primaires et secondaires, plus le vert BRVMexa
+  var COLORS = [['#FF1F1F', 'Rouge'], ['#1E6BFF', 'Bleu'], ['#FFD600', 'Jaune'], ['#16C47F', 'Vert'], ['#FF8A00', 'Orange'], ['#9B4DFF', 'Violet'],
+    ['#FF4FA3', 'Rose'], ['#00C8E0', 'Cyan'], ['#FFFFFF', 'Blanc'], ['#9AA7AF', 'Gris'], ['#000000', 'Noir']];
   var FIB = [[0, '#9AA7AF'], [0.236, '#F0526B'], [0.382, '#F2B33D'], [0.5, '#16C47F'], [0.618, '#2EC5CE'], [0.786, '#4C9BFF'], [1, '#9AA7AF']];
   var ONE_CLICK = { hline: 1, text: 1, label: 1, long: 1, short: 1 };
 
@@ -40,6 +42,8 @@
     return { x: bx, y: y - h / 2, w: w, h: h };
   }
 
+  function ink(hex) { var n = parseInt(hex.slice(1), 16), r = n >> 16 & 255, g = n >> 8 & 255, b = n & 255; return (r * 299 + g * 587 + b * 114) / 1000 > 150 ? '#0A0F1A' : '#FFFFFF'; }
+
   function create(o) {
     var chart = o.chart, host = o.host, getSeries = o.getSeries, pts = o.pts, lastIdx = pts.length - 1;
     var canvas = document.createElement('canvas');
@@ -52,7 +56,7 @@
     host.appendChild(editor);
 
     var KEY = 'bx-draw-' + o.sym;
-    var drawings = [], undo = [], selected = null, tool = 'cross', color = COLORS[0], width = 2, visible = true;
+    var drawings = [], undo = [], selected = null, tool = 'cross', color = COLORS[3][0], width = 2, visible = true, magnet = true, FW = 0;
     var capital = 1000000, drag = null, pending = null, hover = null, W = 0, H = 0, editing = null, seq = 1;
     try { var saved = JSON.parse(localStorage.getItem(KEY) || 'null'); if (saved && saved.d) { drawings = saved.d; capital = saved.c || capital; } } catch (e) {}
     drawings.forEach(function (d) { d.id = seq++; });
@@ -85,7 +89,7 @@
           var x1 = X(d.a.l), y1 = Y(d.a.p), x2 = X(d.b.l), y2 = Y(d.b.p);
           line(x1, y1, x2, y2, d.color, d.w);
           var ch = (d.b.p / d.a.p - 1) * 100, n = Math.round(Math.abs(d.b.l - d.a.l));
-          if (selected === d || hover === d) box(ctx, (x1 + x2) / 2, (y1 + y2) / 2 - 16, pc(ch) + ' · ' + n + ' séances', rgba(d.color, 0.92), '#0A0F1A', 'center');
+          if (selected === d || hover === d) box(ctx, (x1 + x2) / 2, (y1 + y2) / 2 - 16, pc(ch) + ' · ' + n + ' séances', rgba(d.color, 0.92), ink(d.color), 'center');
         }
       },
       hline: {
@@ -94,7 +98,7 @@
         draw: function (d) {
           var y = Y(d.a.p);
           line(0, y, W, y, d.color, d.w);
-          box(ctx, W - 4, y, px(d.a.p) + ' F · ' + pc((d.a.p / lastClose - 1) * 100), d.color, '#0A0F1A', 'right');
+          box(ctx, W - 4, y, pc((d.a.p / lastClose - 1) * 100) + ' du cours', d.color, ink(d.color), 'right');
         }
       },
       rect: {
@@ -179,7 +183,7 @@
           var x0 = X(d.a.l), y0 = Y(d.a.p);
           ctx.fillStyle = d.color; ctx.beginPath(); ctx.arc(x0, y0, 3.5, 0, Math.PI * 2); ctx.fill();
           ctx.beginPath(); ctx.moveTo(x0, y0 - 6); ctx.lineTo(x0 - 6, y0 - 14); ctx.lineTo(x0 + 6, y0 - 14); ctx.fill();
-          box(ctx, x0, y0 - 24, px(d.a.p) + ' F', d.color, '#0A0F1A', 'center');
+          box(ctx, x0, y0 - 24, px(d.a.p) + ' F', d.color, ink(d.color), 'center');
         }
       },
       position: {
@@ -234,14 +238,15 @@
     var raf = 0;
     function redraw() { if (!raf) raf = requestAnimationFrame(function () { raf = 0; requestAnimationFrame(paint); }); }
     function paint() {
-      var w = ts().width(), h = host.clientHeight - ts().height(), dpr = window.devicePixelRatio || 1;
-      if (w !== W || h !== H || canvas.width !== Math.round(w * dpr)) {
-        W = w; H = h;
-        canvas.width = Math.round(w * dpr); canvas.height = Math.round(h * dpr);
-        canvas.style.width = w + 'px'; canvas.style.height = h + 'px';
+      var w = ts().width(), fw = host.clientWidth, h = host.clientHeight - ts().height(), dpr = window.devicePixelRatio || 1;
+      W = w;
+      if (fw !== FW || h !== H || canvas.width !== Math.round(fw * dpr)) {
+        FW = fw; H = h;
+        canvas.width = Math.round(fw * dpr); canvas.height = Math.round(h * dpr);
+        canvas.style.width = fw + 'px'; canvas.style.height = h + 'px';
       }
       ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
-      ctx.clearRect(0, 0, W, H);
+      ctx.clearRect(0, 0, FW, H);
       G = geo();
       if (!G || !visible) return;
       ctx.save(); ctx.beginPath(); ctx.rect(0, 0, W, H); ctx.clip();
@@ -253,6 +258,39 @@
         ctx.beginPath(); ctx.arc(hd[1], hd[2], 5.5, 0, Math.PI * 2); ctx.fill(); ctx.stroke();
       });
       ctx.restore();
+      // Prix exacts sur l'échelle de droite, comme sur TradingView
+      var tags = [];
+      drawings.forEach(function (d) { if (d.type === 'hline') tags.push([d.a.p, d.color]); });
+      var focus = drag ? drag.d : sel || hover;
+      if (focus && focus.type !== 'hline') axisPrices(focus).forEach(function (t) { tags.push(t); });
+      tags.forEach(function (t) {
+        var y = Y(t[0]);
+        if (!isFinite(y) || y < 0 || y > H) return;
+        ctx.font = FONT; ctx.fillStyle = t[1];
+        ctx.fillRect(W + 1, y - 9, FW - W - 1, 18);
+        ctx.fillStyle = ink(t[1]); ctx.textAlign = 'left'; ctx.textBaseline = 'middle';
+        ctx.fillText(px(t[0]), W + 6, y + 0.5);
+      });
+    }
+    function axisPrices(d) {
+      switch (d.type) {
+        case 'trend': case 'rect': case 'measure': return [[d.a.p, d.color], [d.b.p, d.color]];
+        case 'fib': return FIB.map(function (f) { return [d.b.p + (d.a.p - d.b.p) * f[0], f[1]]; });
+        case 'label': case 'text': return [[d.a.p, d.color]];
+        case 'long': case 'short': return [[d.tp, '#0E9A62'], [d.e, '#4C9BFF'], [d.sl, '#D63C55']];
+        default: return [];
+      }
+    }
+
+    // Aimant : accroche le point au cours d'ouverture ou de clôture de la séance la plus proche
+    function snap(l, p, y) {
+      if (!magnet) return { l: l, p: p };
+      var i = Math.round(l);
+      if (i < 0 || i > lastIdx) return { l: i, p: Math.abs(p) >= 100 ? Math.round(p) : Math.round(p * 100) / 100 };
+      var bar = pts[i], best = null, dist = Infinity;
+      [bar.c, bar.o].forEach(function (v) { if (v > 0) { var dd = Math.abs(Y(v) - y); if (dd < dist) { dist = dd; best = v; } } });
+      if (best != null && dist < 24) return { l: i, p: best };
+      return { l: i, p: Math.abs(p) >= 100 ? Math.round(p) : Math.round(p * 100) / 100 };
     }
 
     // ───────── Souris et doigt ─────────
@@ -273,7 +311,8 @@
       if (type === 'long' || type === 'short') {
         var span = Math.abs(P(0) - P(H)) / 10 || p * 0.03;
         d.l1 = l; d.l2 = l + Math.max(8, 120 / Math.max(G.s, 0.5)); d.e = p;
-        d.tp = type === 'long' ? p + span : p - span; d.sl = type === 'long' ? p - span : p + span;
+        var rp = function (v) { return Math.abs(v) >= 100 ? Math.round(v) : Math.round(v * 100) / 100; };
+        d.tp = rp(type === 'long' ? p + span : p - span); d.sl = rp(type === 'long' ? p - span : p + span);
         return d;
       }
       d.a = { l: l, p: p }; d.b = { l: l, p: p };
@@ -321,6 +360,7 @@
       G = geo();
       var l = L(q.x), p = P(q.y);
       if (p == null) return;
+      if (tool !== 'cross' && tool !== 'brush' && tool !== 'text') { var sn = snap(l, p, q.y); l = sn.l; p = sn.p; }
       if (editing) closeEditor(true);
       if (tool !== 'cross') {
         swallow = true; e.preventDefault(); e.stopPropagation();
@@ -355,18 +395,20 @@
         e.preventDefault(); e.stopPropagation();
         if (p == null) return;
         var d = drag.d;
+        if (drag.kind !== 'move' && d.type !== 'brush') { var sn = snap(l, p, q.y); l = sn.l; p = sn.p; }
         if (drag.kind === 'create') {
           if (d.type === 'brush') d.pts.push({ l: l, p: p }); else setGeneric(d, 'b', l, p);
         } else if (drag.kind === 'move') {
           var mv = T[d.type].move || moveGeneric;
-          mv(d, l - drag.l, p - drag.p); drag.l = l; drag.p = p; drag.moved = true;
+          var dl = magnet && d.type !== 'brush' ? Math.round(l - drag.l) : l - drag.l;
+          mv(d, dl, p - drag.p); drag.l += dl; drag.p = p; drag.moved = true;
         } else {
           (T[d.type].set || setGeneric)(d, drag.handle, l, p); drag.moved = true;
         }
         redraw();
         return;
       }
-      if (pending && pending.second) { setGeneric(pending.preview, 'b', l, p); redraw(); return; }
+      if (pending && pending.second) { var s2 = snap(l, p, q.y); setGeneric(pending.preview, 'b', s2.l, s2.p); redraw(); return; }
       if (tool === 'cross') {
         var hit = inPane(q) ? pick(q) : null;
         var nh = hit ? hit.d : null;
@@ -433,6 +475,7 @@
       },
       setColor: function (c) { color = c; if (selected) { snapshot(); selected.color = c; save(); } redraw(); },
       setWidth: function (w) { width = w; if (selected) { snapshot(); selected.w = w; save(); } redraw(); },
+      setMagnet: function (m) { magnet = m; },
       setCapital: function (v) { if (v > 0) { capital = v; save(); redraw(); } },
       capital: function () { return capital; },
       remove: function () { if (!selected) return; snapshot(); drawings = drawings.filter(function (d) { return d !== selected; }); selected = null; save(); redraw(); },

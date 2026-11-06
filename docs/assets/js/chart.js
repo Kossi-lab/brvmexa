@@ -130,6 +130,7 @@
     fit: '<path d="M4 9V4h5M20 9V4h-5M4 15v5h5M20 15v5h-5"/><path d="M8 12h8"/>',
     undo: '<path d="M9 14 4 9l5-5"/><path d="M4 9h10a6 6 0 0 1 0 12h-3"/>',
     eye: '<path d="M2 12s3.5-7 10-7 10 7 10 7-3.5 7-10 7S2 12 2 12z"/><circle cx="12" cy="12" r="3"/>',
+    magnet: '<path d="M6 4v8a6 6 0 0 0 12 0V4"/><path d="M6 4h4v8a2 2 0 0 0 4 0V4h4"/><path d="M6 8h4M14 8h4"/>',
     trash: '<path d="M4 7h16M10 11v6M14 11v6M6 7l1 13h10l1-13M9 7V4h6v3"/>',
     spark: '<path d="M12 3l1.8 4.6L18 9l-4.2 1.4L12 15l-1.8-4.6L6 9l4.2-1.4z"/><path d="M19 15l.8 2 2 .8-2 .8-.8 2-.8-2-2-.8 2-.8z"/>'
   };
@@ -137,7 +138,7 @@
 
   var TOOLS = [
     ['cross', 'Réticule', 'cross'], ['trend', 'Ligne de tendance', 'trend'], ['hline', 'Ligne horizontale', 'hline'], ['rect', 'Rectangle', 'rect'], '|',
-    ['long', 'Position longue (achat)', 'long'], ['short', 'Position courte (vente)', 'short'], ['fib', 'Retracement de Fibonacci', 'fib'], ['measure', 'Mesure (prix et durée)', 'measure'], '|',
+    ['long', 'Position longue (achat)', 'long'], ['fib', 'Retracement de Fibonacci', 'fib'], ['measure', 'Mesure (prix et durée)', 'measure'], '|',
     ['brush', 'Pinceau', 'brush'], ['text', 'Texte', 'text'], ['label', 'Étiquette de prix', 'label']
   ];
   var HINTS = {
@@ -186,11 +187,8 @@
         '<div class="cx-side" role="toolbar" aria-label="Outils de dessin">' +
           TOOLS.map(function (t) { return t === '|' ? '<span class="cx-sep"></span>' : '<button type="button" data-tool="' + t[0] + '" title="' + esc(t[1]) + '" aria-label="' + esc(t[1]) + '">' + icon(t[2]) + '</button>'; }).join('') +
           '<span class="cx-sep"></span>' +
-          '<div class="cx-palwrap"><button type="button" data-act="palette" title="Couleur et épaisseur" aria-label="Couleur et épaisseur" aria-expanded="false"><span class="cx-swatch" data-swatch></span></button>' +
-            '<div class="cx-pal" data-pal hidden><p>Couleur</p><div class="cx-colors">' +
-              (window.BxDraw ? window.BxDraw.COLORS : []).map(function (c) { return '<button type="button" data-color="' + c + '" style="background:' + c + '" aria-label="Couleur ' + c + '"></button>'; }).join('') +
-            '</div><p>Épaisseur</p><div class="cx-widths">' + [1, 2, 3, 4].map(function (w) { return '<button type="button" data-width="' + w + '" aria-label="Épaisseur ' + w + '"><i style="height:' + w + 'px"></i></button>'; }).join('') + '</div>' +
-            '<p>Capital simulé (positions)</p><label class="cx-cap"><input type="number" min="1000" step="1000" data-capital> F</label></div></div>' +
+          '<div class="cx-palwrap"><button type="button" data-act="palette" title="Couleur et épaisseur" aria-label="Couleur et épaisseur" aria-expanded="false"><span class="cx-swatch" data-swatch></span></button></div>' +
+          '<button type="button" data-act="magnet" class="is-on" title="Aimant : accroche les tracés au cours exact des séances" aria-label="Aimant" aria-pressed="true">' + icon('magnet') + '</button>' +
           '<button type="button" data-act="zin" title="Zoomer" aria-label="Zoomer">' + icon('zin') + '</button>' +
           '<button type="button" data-act="zout" title="Dézoomer" aria-label="Dézoomer">' + icon('zout') + '</button>' +
           '<button type="button" data-act="fit" title="Tout afficher" aria-label="Tout afficher">' + icon('fit') + '</button>' +
@@ -206,6 +204,11 @@
           '<div class="cx-sub" data-macd><span class="cx-sub-lbl">MACD 12 · 26 · 9</span></div>' +
         '</div>' +
       '</div>' +
+      '<div class="cx-pal" data-pal hidden role="dialog" aria-label="Couleur et épaisseur"><p>Couleur</p><div class="cx-colors">' +
+        (window.BxDraw ? window.BxDraw.COLORS : []).map(function (c) { return '<button type="button" data-color="' + c[0] + '" style="background:' + c[0] + '" title="' + esc(c[1]) + '" aria-label="' + esc(c[1]) + '"></button>'; }).join('') +
+        '<label class="cx-custom" title="Autre couleur"><input type="color" data-custom value="#16C47F" aria-label="Autre couleur"><span>+</span></label>' +
+      '</div><p>Épaisseur</p><div class="cx-widths">' + [1, 2, 3, 4].map(function (w) { return '<button type="button" data-width="' + w + '" aria-label="Épaisseur ' + w + '"><i style="height:' + w + 'px"></i></button>'; }).join('') + '</div>' +
+      '<p>Capital simulé (position longue)</p><label class="cx-cap"><input type="number" min="1000" step="1000" data-capital> F</label></div>' +
       '<div class="cx-foot"><span data-stats></span><span>Cours ajustés des fractionnements · Graphique : <a href="https://www.tradingview.com/" target="_blank" rel="noopener">TradingView Lightweight Charts™</a></span></div>' +
       '</div>';
 
@@ -213,7 +216,7 @@
     var mainEl = $('[data-main]'), rsiEl = $('[data-rsi]'), macdEl = $('[data-macd]');
     var base = {
       autoSize: true,
-      layout: { background: { type: 'solid', color: C.bg }, textColor: C.text, fontFamily: 'Inter, system-ui, sans-serif', fontSize: 11 },
+      layout: { background: { type: 'solid', color: C.bg }, textColor: C.text, fontFamily: 'Inter, system-ui, sans-serif', fontSize: 11, attributionLogo: false },
       grid: { vertLines: { color: C.grid }, horzLines: { color: C.grid } },
       rightPriceScale: { borderColor: C.border },
       timeScale: { borderColor: C.border, rightOffset: 4, minBarSpacing: 0.5 },
@@ -352,7 +355,15 @@
       onToolDone: function () { setTool('cross'); },
       onChange: function (st) { var d = root.querySelector('[data-act="del"]'); if (d) d.classList.toggle('is-armed', !!st.selected); }
     }) : null;
-    var curColor = window.BxDraw ? window.BxDraw.COLORS[0] : '#16C47F', curWidth = 2;
+    var curColor = window.BxDraw ? window.BxDraw.COLORS[3][0] : '#16C47F', curWidth = 2;
+    var custom = $('[data-custom]');
+    if (custom) custom.addEventListener('input', function () { curColor = custom.value.toUpperCase(); if (draw) draw.setColor(curColor); paintSwatch(); });
+    function placePalette(btn) {
+      var cx = root.querySelector('.cx').getBoundingClientRect(), r = btn.getBoundingClientRect();
+      if (window.matchMedia('(max-width: 760px)').matches) { pal.style.left = ''; pal.style.top = ''; return; }
+      pal.style.left = (r.right - cx.left + 8) + 'px';
+      pal.style.top = Math.max(8, Math.min(r.top - cx.top - 8, cx.height - 300)) + 'px';
+    }
     function paintSwatch() {
       swatch.style.background = curColor;
       root.querySelectorAll('[data-color]').forEach(function (b) { b.classList.toggle('is-on', b.getAttribute('data-color') === curColor); });
@@ -410,8 +421,9 @@
       else if (b.hasAttribute('data-tool')) setTool(b.getAttribute('data-tool') === tool && tool !== 'cross' ? 'cross' : b.getAttribute('data-tool'));
       else {
         var a = b.getAttribute('data-act');
-        if (!b.closest('.cx-palwrap') && pal) pal.hidden = true;
-        if (a === 'palette') { pal.hidden = !pal.hidden; b.setAttribute('aria-expanded', !pal.hidden); }
+        if (!b.closest('.cx-palwrap, .cx-pal') && pal) pal.hidden = true;
+        if (a === 'palette') { placePalette(b); pal.hidden = !pal.hidden; b.setAttribute('aria-expanded', !pal.hidden); }
+        else if (a === 'magnet' && draw) { var mg = !b.classList.contains('is-on'); b.classList.toggle('is-on', mg); b.setAttribute('aria-pressed', mg); draw.setMagnet(mg); }
         else if (b.hasAttribute('data-color')) { curColor = b.getAttribute('data-color'); if (draw) draw.setColor(curColor); paintSwatch(); }
         else if (b.hasAttribute('data-width')) { curWidth = +b.getAttribute('data-width'); if (draw) draw.setWidth(curWidth); paintSwatch(); }
         else if (a === 'zin') zoom(0.7);
@@ -442,7 +454,7 @@
     });
     $('[data-compare]').addEventListener('change', function (e) { setCompare(e.target.value); if (draw) draw.redraw(); });
     if (capIn) capIn.addEventListener('change', function () { var v = Math.round(+capIn.value); if (draw && v >= 1000) draw.setCapital(v); });
-    document.addEventListener('click', function (e) { if (pal && !pal.hidden && !e.target.closest('.cx-palwrap')) pal.hidden = true; });
+    document.addEventListener('click', function (e) { if (pal && !pal.hidden && !e.target.closest('.cx-palwrap, .cx-pal')) pal.hidden = true; });
 
     if (mobile) { on.macd = false; }
     applyType(); applyInd(); setTool('cross'); paintSwatch();
