@@ -239,6 +239,19 @@
       '<button type="button" class="mb-link" data-mb-logout>Se déconnecter</button></div></div>';
     notice = '';
   }
+  // Inscription par e-mail : même fenêtre « Confirmez votre adresse », en attendant le clic sur le lien
+  function pendingEmailView(email, sent) {
+    box.innerHTML = '<div class="mb-card mb-verify">' + '<div class="pw-ico" aria-hidden="true"><svg viewBox="0 0 24 24" width="26" height="26"><rect x="3" y="5.5" width="18" height="13" rx="2.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="M4 7.5l8 5.5 8-5.5" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg></div>' +
+      '<h2>Confirmez votre adresse e-mail</h2>' +
+      '<p>' + (sent ? 'Nous venons d’envoyer un lien de confirmation à ' : 'Votre adresse n’est pas encore confirmée : ') + '<b>' + esc(email) + '</b>.</p>' +
+      '<p class="muted">Ouvrez l’e-mail « BRVMexa » et cliquez sur <b>Confirmer mon adresse</b>. Pensez à regarder dans les spams ou l’onglet Promotions.</p>' +
+      '<p class="mb-msg" data-mb-msg role="status" aria-live="polite">' + esc(notice) + '</p>' +
+      '<div class="mb-actions"><button type="button" class="btn btn--primary" data-mb-check-email>J’ai confirmé mon adresse</button>' +
+      '<button type="button" class="btn btn--ghost" data-mb-resignup="' + esc(email) + '">Renvoyer l’e-mail</button>' +
+      '<button type="button" class="mb-link" data-mb-change>Changer d’adresse</button></div></div>';
+    notice = '';
+  }
+
   function sendVerify(email) {
     return sb.auth.signInWithOtp({ email: email, options: { shouldCreateUser: false, emailRedirectTo: location.origin + location.pathname } })
       .then(function (r) { if (r.error) throw r.error; });
@@ -255,6 +268,8 @@
     if (!sb) { box.innerHTML = '<div class="mb-card"><p>L’espace membre est momentanément indisponible. Réessayez plus tard.</p></div>'; return Promise.resolve(); }
     if (recovering) { recoveryView(); return Promise.resolve(); }
     return window.BxMember.refresh().then(function (st) {
+      if (st.user) store.set('bx-pending-email', null);
+      if (!st.user && store.get('bx-pending-email')) return pendingEmailView(store.get('bx-pending-email'), false);
       if (!st.user) return loginView();
       if (!st.unverified) return accountView(st);
       if (amr(st.session).some(function (m) { return m === 'otp' || m === 'magiclink'; })) {
@@ -320,7 +335,7 @@
   }
 
   page.addEventListener('click', function (e) {
-    var t = e.target.closest('[data-plan], [data-mode], [data-mb-google], [data-mb-logout], [data-mb-check], [data-mb-resend], [data-mb-resignup]');
+    var t = e.target.closest('[data-plan], [data-mode], [data-mb-google], [data-mb-logout], [data-mb-check], [data-mb-resend], [data-mb-resignup], [data-mb-check-email], [data-mb-change]');
     if (!t) return;
     if (t.hasAttribute('data-plan')) { e.preventDefault(); checkout(t.getAttribute('data-plan'), t); }
     else if (t.hasAttribute('data-mode')) { mode = t.getAttribute('data-mode'); loginView(); var f = box.querySelector('input'); if (f) f.focus(); }
@@ -341,6 +356,18 @@
         .then(function () { setMsg('E-mail renvoyé. Vérifiez votre boîte de réception.', 'ok'); })
         .catch(function (err) { setMsg(tr(err.message), 'err'); })
         .then(function () { setTimeout(function () { t.disabled = false; }, 60000); });
+    } else if (t.hasAttribute('data-mb-check-email')) {
+      // Lien ouvert dans ce navigateur : la session est déjà là. Sinon, on se connecte avec le mot de passe.
+      window.BxMember.refresh().then(function (st) {
+        if (st.user) { notice = 'Adresse e-mail confirmée. Bienvenue dans votre espace membre !'; return render(); }
+        var em = store.get('bx-pending-email');
+        store.set('bx-pending-email', null); mode = 'login';
+        notice = 'Si vous avez cliqué sur le lien, votre adresse est confirmée : connectez-vous avec votre e-mail et votre mot de passe.';
+        loginView();
+        var f = box.querySelector('input[name=email]'); if (f && em) { f.value = em; var pw = box.querySelector('input[name=password]'); if (pw) pw.focus(); }
+      });
+    } else if (t.hasAttribute('data-mb-change')) {
+      store.set('bx-pending-email', null); mode = 'signup'; loginView();
     } else if (t.hasAttribute('data-mb-resignup')) {
       var em = t.getAttribute('data-mb-resignup');
       t.disabled = true;
@@ -380,14 +407,11 @@
     p.then(function (r) {
       busy(form, false);
       if (r.error) {
+        if (/not confirmed/i.test(r.error.message)) { store.set('bx-pending-email', email); return pendingEmailView(email, false); }
         setMsg(tr(r.error.message), 'err');
-        if (/not confirmed/i.test(r.error.message)) {
-          var m = box.querySelector('[data-mb-msg]');
-          if (m) m.insertAdjacentHTML('afterend', '<button type="button" class="mb-link" data-mb-resignup="' + esc(email) + '">Renvoyer l’e-mail de confirmation</button>');
-        }
         return;
       }
-      if (mode === 'signup' && !(r.data && r.data.session)) { mode = 'login'; notice = 'Compte créé ! Nous venons de vous envoyer un e-mail : cliquez sur « Confirmer mon adresse » pour activer votre compte et accéder à votre espace membre.'; return render(); }
+      if (mode === 'signup' && !(r.data && r.data.session)) { mode = 'login'; store.set('bx-pending-email', email); return pendingEmailView(email, true); }
       if (mode === 'forgot') { mode = 'login'; notice = 'Si un compte existe avec cette adresse, un lien pour changer le mot de passe vient de vous être envoyé.'; return render(); }
       render();
     }).catch(function (err) { busy(form, false); setMsg(tr(err && err.message), 'err'); });
