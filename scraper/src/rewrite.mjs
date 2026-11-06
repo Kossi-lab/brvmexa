@@ -8,7 +8,7 @@ const API = process.env.NEWS_API_URL || 'https://api.anthropic.com/v1/messages';
 const MODEL = process.env.NEWS_MODEL || 'claude-haiku-5-5';
 // Option gratuite : Google Gemini (offre gratuite, sans carte bancaire), via son interface compatible OpenAI
 const GEM_API = process.env.NEWS_GEMINI_API_URL || 'https://generativelanguage.googleapis.com/v1beta/openai/chat/completions';
-const GEM_MODELS = (process.env.NEWS_GEMINI_MODEL || 'gemini-flash-latest,gemini-2.5-flash').split(',');
+const GEM_MODELS = (process.env.NEWS_GEMINI_MODEL || 'gemini-flash-latest').split(',');
 export const PAUSE_MS = { gemini: 7000, anthropic: 500 }; // l'offre gratuite limite le nombre de demandes par minute
 
 /** Moteur d'écriture disponible : Gemini (gratuit) sinon Anthropic (payant). */
@@ -19,26 +19,61 @@ export function writer() {
 }
 export class QuotaError extends Error {}
 
+// Liste des modèles réellement ouverts à cette clé, pour choisir automatiquement le meilleur « Flash »
+let gemPicked = null;
+async function geminiModels(key) {
+  const res = await fetch('https://generativelanguage.googleapis.com/v1beta/models?pageSize=200', {
+    signal: AbortSignal.timeout(30000), headers: { 'x-goog-api-key': key },
+  });
+  const raw = await res.text();
+  if (!res.ok) throw new QuotaError(`liste des modèles Gemini impossible (HTTP ${res.status}) : ${raw.slice(0, 200)}`);
+  const names = (JSON.parse(raw).models ?? [])
+    .filter((m) => (m.supportedGenerationMethods ?? []).includes('generateContent'))
+    .map((m) => m.name.replace(/^models\//, ''));
+  const ver = (n) => Number((n.match(/(\d+(?:\.\d+)?)/) ?? [0, 0])[1]);
+  const bad = /image|tts|live|audio|embed|vision|robotics|computer|learnlm|aqa/;
+  const rank = (n) => (/flash/.test(n) ? 0 : 2) + (/lite|preview|exp/.test(n) ? 1 : 0);
+  const ok = names.filter((n) => /^gemini/.test(n) && !bad.test(n))
+    .sort((a, b) => rank(a) - rank(b) || ver(b) - ver(a) || a.length - b.length);
+  console.log('Modèles Gemini disponibles :', names.filter((n) => /^gemini/.test(n)).join(', '));
+  return ok;
+}
+
+async function callGemini(model, source, key) {
+  const res = await fetch(GEM_API, {
+    method: 'POST',
+    signal: AbortSignal.timeout(90000),
+    headers: { 'content-type': 'application/json', authorization: `Bearer ${key}` },
+    body: JSON.stringify({
+      model,
+      temperature: 0.4,
+      messages: [{ role: 'system', content: PROMPT }, { role: 'user', content: source }],
+    }),
+  });
+  const raw = await res.text();
+  if (res.status === 429) throw new QuotaError(`quota gratuit Gemini atteint (${raw.slice(0, 160)})`);
+  if (res.status === 401 || res.status === 403) throw new QuotaError(`clé Gemini refusée (HTTP ${res.status}) : ${raw.slice(0, 200)}`);
+  if (!res.ok) return { error: `${model} : HTTP ${res.status} ${raw.replace(/\s+/g, ' ').slice(0, 200)}` };
+  try { return { text: JSON.parse(raw).choices?.[0]?.message?.content ?? '' }; } catch { return { error: `${model} : réponse illisible ${raw.slice(0, 200)}` }; }
+}
+
 async function askGemini(source, key) {
-  let last;
-  for (const model of GEM_MODELS) {
-    const res = await fetch(GEM_API, {
-      method: 'POST',
-      signal: AbortSignal.timeout(90000),
-      headers: { 'content-type': 'application/json', authorization: `Bearer ${key}` },
-      body: JSON.stringify({
-        model,
-        temperature: 0.4,
-        messages: [{ role: 'system', content: PROMPT }, { role: 'user', content: source }],
-      }),
-    });
-    const raw = await res.text();
-    if (res.status === 429) throw new QuotaError(`quota gratuit Gemini atteint (${raw.slice(0, 160)})`);
-    if (res.status === 401 || res.status === 403) throw new QuotaError(`clé Gemini refusée (HTTP ${res.status}) : ${raw.slice(0, 200)}`);
-    if (!res.ok) { last = `${model} : HTTP ${res.status} ${raw.slice(0, 200)}`; continue; }
-    try { return JSON.parse(raw).choices?.[0]?.message?.content ?? ''; } catch { last = `${model} : réponse illisible ${raw.slice(0, 200)}`; }
+  if (gemPicked) {
+    const r = await callGemini(gemPicked, source, key);
+    if (r.text != null) return r.text;
+    gemPicked = null;
   }
-  throw new QuotaError(`IA Gemini indisponible : ${last}`);
+  const tried = [];
+  const lists = [GEM_MODELS, null];
+  for (const list of lists) {
+    const models = list ?? (await geminiModels(key)).filter((m) => !GEM_MODELS.includes(m)).slice(0, 4);
+    for (const model of models) {
+      const r = await callGemini(model, source, key);
+      if (r.text != null) { gemPicked = model; console.log('Modèle Gemini utilisé :', model); return r.text; }
+      tried.push(r.error);
+    }
+  }
+  throw new QuotaError(`IA Gemini indisponible : ${tried.join(' | ')}`);
 }
 
 const clean = (s) => String(s ?? '').replace(/[   ]/g, ' ').replace(/\s+/g, ' ').trim();
