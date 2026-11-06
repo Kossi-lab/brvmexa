@@ -51,10 +51,13 @@
     closeModal();
     lastFocus = document.activeElement;
     var back = location.pathname + location.hash;
-    var title = kind === 'david' ? 'David est réservé aux membres Premium' : 'Devenez membre Premium';
+    var title = kind === 'david' ? 'David est réservé aux membres Premium'
+      : kind === 'ratios' ? 'Débloquez les ratios de toutes les sociétés' : 'Devenez membre Premium';
     var lead = kind === 'david'
       ? 'L’analyse complète de l’action par David (verdict, arguments, plan d’action) fait partie de l’abonnement Premium.'
-      : 'Débloquez l’analyse fondamentale complète de chaque société de la BRVM.';
+      : kind === 'ratios'
+        ? 'BPA, PER, rendement, taux de distribution, marge nette, croissance, filtres et tris sont réservés aux membres Premium. Le cours et la capitalisation restent gratuits.'
+        : 'Débloquez l’analyse fondamentale complète de chaque société de la BRVM.';
     modal = document.createElement('div');
     modal.className = 'nx-reader pw';
     modal.innerHTML = '<div class="nx-dialog pw-dialog" role="dialog" aria-modal="true" aria-labelledby="pw-title" tabindex="-1">' +

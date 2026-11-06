@@ -40,6 +40,10 @@
 
   // ───────── Calcul des ratios ─────────
   function analyse(q, f) {
+    if (!f.netIncome) { // version gratuite : seuls le cours et la capitalisation sont calculables
+      return { sym: q.symbol, name: q.shortName || q.name, fullName: q.name, sector: q.sector, country: q.countryName,
+        price: q.close, change: q.change, year: f.year || null, f: f, cap: q.close && f.shares ? q.close * f.shares : null, locked: true };
+    }
     var L = -1;
     for (var i = f.netIncome.length - 1; i >= 0; i--) if (f.netIncome[i] != null) { L = i; break; }
     var price = q.close;
@@ -214,12 +218,24 @@
     };
     compute(fund);
 
-    // Chiffres clés du marché
-    var stat = function (sel, v) { var el = root.querySelector(sel); if (el) el.textContent = v; };
-    stat('[data-fx-stat="per"]', mult(median(rows.map(function (s) { return s.per; }).filter(function (v) { return v > 0 && v < 100; }))));
-    stat('[data-fx-stat="yield"]', pctv(median(rows.map(function (s) { return s.yield; }))));
-    stat('[data-fx-stat="payers"]', rows.filter(function (s) { return s.yield != null; }).length + ' / ' + rows.length);
-    stat('[data-fx-stat="growth"]', rows.filter(function (s) { return s.grNet != null && s.grNet >= 0; }).length + ' / ' + rows.length);
+    // Chiffres clés du marché (réservés Premium : floutés dans la version gratuite)
+    var FAKE_STATS = { per: '11,8x', yield: '6,4 %', payers: '36 / 47', growth: '29 / 47' };
+    var stats = function () {
+      var put = function (k, v) {
+        var el = root.querySelector('[data-fx-stat="' + k + '"]');
+        if (!el) return;
+        el.textContent = premium ? v : FAKE_STATS[k];
+        el.classList.toggle('fx-blur', !premium);
+        var box = el.closest('.fx-stat');
+        if (box) { box.classList.toggle('is-locked', !premium); if (!premium) box.setAttribute('data-lock', ''); else box.removeAttribute('data-lock'); }
+      };
+      if (!premium) { ['per', 'yield', 'payers', 'growth'].forEach(function (k) { put(k, ''); }); return; }
+      put('per', mult(median(rows.map(function (s) { return s.per; }).filter(function (v) { return v > 0 && v < 100; }))));
+      put('yield', pctv(median(rows.map(function (s) { return s.yield; }))));
+      put('payers', rows.filter(function (s) { return s.yield != null; }).length + ' / ' + rows.length);
+      put('growth', rows.filter(function (s) { return s.grNet != null && s.grNet >= 0; }).length + ' / ' + rows.length);
+    };
+    stats();
     var upd = root.querySelector('[data-fx-updated]');
     if (upd) upd.textContent = 'Cours de la séance du ' + (quotes.sessionDate || '').split('-').reverse().join('/') + ' · Comptes annuels mis à jour le ' + (fund.updatedAt || '').split('-').reverse().join('/');
 
@@ -236,9 +252,34 @@
     uniq('sector').forEach(function (s) { sector.insertAdjacentHTML('beforeend', '<option>' + esc(s) + '</option>'); });
     uniq('country').forEach(function (s) { country.insertAdjacentHTML('beforeend', '<option>' + esc(s) + '</option>'); });
 
-    head.innerHTML = COLS.map(function (c) {
-      return '<th class="' + c[2] + '" data-k="' + c[0] + '" tabindex="0" role="columnheader">' + esc(c[1]) + '</th>';
-    }).join('');
+    var FREE = { sym: 1, price: 1, cap: 1 };
+    var LOCK_S = '<svg class="fx-lockico" viewBox="0 0 24 24" width="12" height="12" aria-hidden="true"><rect x="5" y="10.5" width="14" height="10" rx="2.5" fill="currentColor"/><path d="M8.2 10.5V8a3.8 3.8 0 0 1 7.6 0v2.5" fill="none" stroke="currentColor" stroke-width="2.2"/></svg>';
+    var drawHead = function () {
+      head.innerHTML = COLS.map(function (c) {
+        var lock = !premium && !FREE[c[0]];
+        return '<th class="' + c[2] + (lock ? ' is-locked' : '') + '" data-k="' + c[0] + '" tabindex="0" role="columnheader"' + (lock ? ' title="Réservé aux membres Premium"' : '') + '>' + (lock ? LOCK_S : '') + esc(c[1]) + '</th>';
+      }).join('');
+      Array.prototype.forEach.call(quick.options, function (o) { if (o.value) o.textContent = o.textContent.replace(/ 🔒$/, '') + (premium ? '' : ' 🔒'); });
+    };
+    drawHead();
+
+    // Bandeau d'invitation (version gratuite)
+    var promo = document.createElement('div');
+    promo.className = 'fx-promo';
+    promo.innerHTML = '<div class="fx-promo-ico" aria-hidden="true">' + LOCK + '</div>' +
+      '<div class="fx-promo-txt"><strong>Débloquez les ratios des ' + rows.length + ' sociétés de la BRVM</strong>' +
+      '<span>BPA, PER, rendement, taux de distribution, marge nette, croissance du bénéfice, filtres et avis de David.</span></div>' +
+      '<a class="btn btn--primary fx-promo-btn" href="' + esc(memberHref('')) + '#offres">Devenir Premium · dès 2 500 F</a>';
+    var wrapEl = root.querySelector('.table-wrap');
+    if (wrapEl) wrapEl.parentNode.insertBefore(promo, wrapEl);
+    var paywall = function () { if (window.BxMember) window.BxMember.paywall('ratios'); else location.href = memberHref(''); };
+
+    // Valeurs fictives (floutées) pour que le tableau garde son aspect : aucune vraie donnée dans la page
+    var fake = function (sym) {
+      var h = 0; for (var i = 0; i < sym.length; i++) h = (h * 31 + sym.charCodeAt(i)) % 9973;
+      var r = function (k) { return ((h * (k + 7)) % 1000) / 1000; };
+      return { eps: 80 + r(1) * 900, per: 6 + r(2) * 14, yield: 0.02 + r(3) * 0.07, payout: 0.3 + r(4) * 0.6, margin: 0.05 + r(5) * 0.25, grNet: -0.1 + r(6) * 0.3 };
+    };
 
     var QUICK = {
       div: function (s) { return s.yield != null; },
@@ -250,6 +291,14 @@
 
     var cell = function (s) {
       var tone = function (v) { return v == null ? '' : v >= 0 ? 'up' : 'down'; };
+      if (!premium) {
+        var z = fake(s.sym), lk = function (inner, cls) { return '<td class="r num fx-locktd' + (cls ? ' ' + cls : '') + '" data-lock title="Réservé aux membres Premium"><span class="fx-blur" aria-hidden="true">' + inner + '</span></td>'; };
+        return '<td><button type="button" class="fx-open" aria-expanded="' + (open === s.sym) + '"><b>' + esc(s.sym) + '</b><span>' + esc(s.name) + '</span></button></td>' +
+          '<td class="r num">' + money(s.price) + '</td>' +
+          '<td class="r num">' + bn(s.cap) + '</td>' +
+          lk(money(z.eps)) + lk(mult(z.per)) + lk('<span class="badge num flat">' + pctv(z.yield) + '</span>') +
+          lk(pctv(z.payout)) + lk(pctv(z.margin)) + lk(pctv(z.grNet, true), tone(z.grNet));
+      }
       return '<td><button type="button" class="fx-open" aria-expanded="' + (open === s.sym) + '"><b>' + esc(s.sym) + '</b><span>' + esc(s.name) + (s.year && s.year < 2025 ? ' · comptes ' + s.year : '') + '</span></button></td>' +
         '<td class="r num">' + money(s.price) + '</td>' +
         '<td class="r num">' + bn(s.cap) + '</td>' +
@@ -317,12 +366,16 @@
     };
 
     var sortBy = function (k) {
+      if (!premium && !FREE[k]) return paywall();
       desc = sortKey === k ? !desc : !(k === 'sym' || k === 'per');
       sortKey = k;
       draw();
     };
     head.addEventListener('click', function (e) { var th = e.target.closest('th'); if (th) sortBy(th.getAttribute('data-k')); });
     head.addEventListener('keydown', function (e) { var th = e.target.closest('th'); if (th && (e.key === 'Enter' || e.key === ' ')) { e.preventDefault(); sortBy(th.getAttribute('data-k')); } });
+    root.addEventListener('click', function (e) {
+      if (!premium && e.target.closest('[data-lock]')) { e.preventDefault(); paywall(); }
+    });
     body.addEventListener('click', function (e) {
       var btn = e.target.closest('.fx-open');
       if (!btn) return;
@@ -335,7 +388,12 @@
         if (history.replaceState) history.replaceState(null, '', '#' + open);
       }
     });
-    [search, sector, country, quick].forEach(function (el) { el.addEventListener('input', function () { draw(); }); });
+    [search, sector, country, quick].forEach(function (el) {
+      el.addEventListener('input', function () {
+        if (el === quick && !premium && quick.value) { quick.value = ''; paywall(); return; }
+        draw();
+      });
+    });
     window.addEventListener('resize', function () {
       var det = body.querySelector('.fx-detail'), wrap = body.closest('.table-wrap');
       if (det && wrap) det.style.width = wrap.clientWidth + 'px';
@@ -344,6 +402,7 @@
     // Lien direct vers une société : /fondamentaux/#SNTS
     var hash = decodeURIComponent((location.hash || '').slice(1)).toUpperCase();
     if (hash && items[hash]) open = hash;
+    if (member && member.premium) promo.hidden = true; // les vraies données arrivent dans un instant
     else if (items.SNTS) open = 'SNTS'; // ouverte par défaut, sans défilement
     draw();
     if (open && hash) { var r0 = body.querySelector('tr[data-sym="' + open + '"]'); if (r0) setTimeout(function () { r0.scrollIntoView({ block: 'start' }); }, 50); }
@@ -353,6 +412,9 @@
       window.BxMember.data('fondamentaux').then(function (full) {
         premium = true;
         compute(full);
+        promo.remove();
+        drawHead();
+        stats();
         draw();
       }).catch(function () { /* accès refusé ou réseau : la fiche reste verrouillée */ });
     }
