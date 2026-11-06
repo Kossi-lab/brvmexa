@@ -313,8 +313,9 @@
     // Lien direct vers une société : /fondamentaux/#SNTS
     var hash = decodeURIComponent((location.hash || '').slice(1)).toUpperCase();
     if (hash && items[hash]) open = hash;
+    else if (items.SNTS) open = 'SNTS'; // ouverte par défaut, sans défilement
     draw();
-    if (open) { var r0 = body.querySelector('tr[data-sym="' + open + '"]'); if (r0) setTimeout(function () { r0.scrollIntoView({ block: 'start' }); }, 50); }
+    if (open && hash) { var r0 = body.querySelector('tr[data-sym="' + open + '"]'); if (r0) setTimeout(function () { r0.scrollIntoView({ block: 'start' }); }, 50); }
   }
 
   Promise.all([getJson(base + '/quotes.json?t=' + Math.floor(Date.now() / 60000)), getJson(fundUrl)])
