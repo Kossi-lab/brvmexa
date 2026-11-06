@@ -50,7 +50,6 @@
         closeReader(true);
         lastFocus = document.activeElement;
         var tags = (n.symbols || []).map(function (s) { return '<span class="tag">' + esc(s) + '</span>'; }).join('');
-        var o = n.origin || {};
         reader = document.createElement('div');
         reader.className = 'nx-reader';
         reader.innerHTML = '<div class="nx-dialog" role="dialog" aria-modal="true" aria-labelledby="nx-title" tabindex="-1">' +
@@ -61,7 +60,6 @@
           (n.summary ? '<p class="nx-lead">' + esc(n.summary) + '</p>' : '') +
           (n.body || []).map(function (p) { return '<p>' + esc(p) + '</p>'; }).join('') +
           (tags ? '<div class="tags">' + tags + '</div>' : '') +
-          (o.url ? '<p class="nx-src">Source : <a href="' + esc(safeUrl(o.url)) + '" target="_blank" rel="noopener nofollow">' + esc(o.name || 'article d’origine') + '</a></p>' : '') +
           '</div>';
         document.body.appendChild(reader);
         document.body.classList.add('nx-open');
