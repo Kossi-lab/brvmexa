@@ -1,6 +1,34 @@
 {
- "updatedAt": "2026-11-06T09:55:00.597Z",
+ "updatedAt": "2026-11-06T10:55:38.756Z",
  "items": [
+  {
+   "id": "sika-65543",
+   "title": "Pays en développement : La dette extérieure atteint un niveau historique de 9 400 milliards USD en 2025, en hausse de 5,5%",
+   "summary": "L'accès aux marchés internationaux se rouvre, mais à quel prix ? En 2025, la dette extérieure des pays en développ...",
+   "url": "https://www.sikafinance.com/marches/pays-en-developpement-la-dette-exterieure-atteint-un-niveau-historique-de-9-400-milliards-usd-en-2025-en-hausse-de-5-5_65543",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-06T10:50:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "sika-65542",
+   "title": "Dabali Xpress inaugure son restaurant de Yopougon, à Abidjan",
+   "summary": "L'enseigne ivoirienne de restauration Dabali Xpress poursuit son développement à Abidjan. Le jeudi 5 novembre 2026, ell...",
+   "url": "https://www.sikafinance.com/marches/dabali-xpress-inaugure-son-restaurant-de-yopougon-a-abidjan_65542",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-06T10:44:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65538",
    "title": "InTouch et Yabx misent sur le crédit numérique pour toucher des millions d’Africains",
@@ -830,8 +858,8 @@
    "premium": false,
    "publishedAt": "2026-11-02T16:21:00Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65433",
@@ -844,8 +872,8 @@
    "premium": false,
    "publishedAt": "2026-11-02T15:50:00Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "gn-1qr2q8x",
@@ -858,8 +886,8 @@
    "premium": false,
    "publishedAt": "2026-11-02T15:49:01.000Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65434",
@@ -872,8 +900,8 @@
    "premium": false,
    "publishedAt": "2026-11-02T15:44:00Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65430",
@@ -886,8 +914,8 @@
    "premium": false,
    "publishedAt": "2026-11-02T15:39:00Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65429",
@@ -900,8 +928,8 @@
    "premium": false,
    "publishedAt": "2026-11-02T15:31:00Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65426",
@@ -916,8 +944,8 @@
    "symbols": [
     "NSBC"
    ],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65422",
@@ -932,8 +960,8 @@
    "symbols": [
     "SMBC"
    ],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65420",
