@@ -77,16 +77,34 @@
 
   // ───────── Connexion Supabase ─────────
   var sb = window.supabase && cfg.supabaseUrl && cfg.supabaseKey
-    ? window.supabase.createClient(cfg.supabaseUrl, cfg.supabaseKey, { auth: { flowType: 'pkce', persistSession: true, autoRefreshToken: true, detectSessionInUrl: true } })
+    ? window.supabase.createClient(cfg.supabaseUrl, cfg.supabaseKey, { auth: { flowType: 'implicit', persistSession: true, autoRefreshToken: true, detectSessionInUrl: true } })
     : null;
   var FN = (cfg.supabaseUrl || '') + '/functions/v1/geniuspay';
   var none = { user: null, premium: false };
+
+  // Adresse e-mail confirmée ? Inscription par e-mail : confirmée par Supabase.
+  // Connexion Google : confirmée une fois par un lien reçu par e-mail (marque posée par le serveur).
+  function verified(u) {
+    if (!u || !u.email_confirmed_at) return false;
+    var am = u.app_metadata || {};
+    if (am.site_verified === true) return true;
+    var prov = am.providers || [am.provider];
+    return prov.indexOf('email') >= 0;
+  }
+  // Méthodes de connexion de la session (ex. « otp » quand on arrive par un lien reçu par e-mail)
+  function amr(session) {
+    try {
+      var p = session.access_token.split('.')[1].replace(/-/g, '+').replace(/_/g, '/');
+      return (JSON.parse(atob(p)).amr || []).map(function (a) { return a.method; });
+    } catch (e) { return []; }
+  }
 
   function load() {
     if (!sb) return Promise.resolve(none);
     return sb.auth.getSession().then(function (r) {
       var u = r.data && r.data.session && r.data.session.user;
       if (!u) return none;
+      if (!verified(u)) return { user: u, premium: false, unverified: true, session: r.data.session };
       return sb.from('subscriptions').select('expires_at, plan').eq('user_id', u.id).maybeSingle().then(function (x) {
         var e = x.data && x.data.expires_at;
         return { user: u, premium: !!e && new Date(e) > new Date(), expiresAt: e || null, plan: x.data && x.data.plan };
@@ -208,10 +226,47 @@
     page.classList.toggle('is-premium', !!st.premium);
   }
 
+  function verifyView(st, sent) {
+    var email = st.user.email || '';
+    box.innerHTML = '<div class="mb-card mb-verify">' +
+      '<div class="pw-ico" aria-hidden="true"><svg viewBox="0 0 24 24" width="26" height="26"><rect x="3" y="5.5" width="18" height="13" rx="2.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="M4 7.5l8 5.5 8-5.5" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg></div>' +
+      '<h2>Confirmez votre adresse e-mail</h2>' +
+      '<p>' + (sent ? 'Nous venons d’envoyer un lien de confirmation à ' : 'Pour accéder à votre espace membre, confirmez l’adresse ') + '<b>' + esc(email) + '</b>.</p>' +
+      '<p class="muted">Ouvrez l’e-mail « BRVMexa » et cliquez sur <b>Confirmer mon adresse</b>. Pensez à regarder dans les spams ou l’onglet Promotions.</p>' +
+      '<p class="mb-msg" data-mb-msg role="status" aria-live="polite">' + esc(notice) + '</p>' +
+      '<div class="mb-actions"><button type="button" class="btn btn--primary" data-mb-check>J’ai confirmé mon adresse</button>' +
+      '<button type="button" class="btn btn--ghost" data-mb-resend>Renvoyer l’e-mail</button>' +
+      '<button type="button" class="mb-link" data-mb-logout>Se déconnecter</button></div></div>';
+    notice = '';
+  }
+  function sendVerify(email) {
+    return sb.auth.signInWithOtp({ email: email, options: { shouldCreateUser: false, emailRedirectTo: location.origin + location.pathname } })
+      .then(function (r) { if (r.error) throw r.error; });
+  }
+  // Arrivée par le lien de confirmation : le serveur vérifie la session et marque l’adresse comme confirmée
+  function confirmFromLink(st) {
+    return call({ action: 'confirm-email' }).then(function () { return sb.auth.refreshSession(); }).then(function () {
+      notice = 'Adresse e-mail confirmée. Bienvenue dans votre espace membre !';
+      return render();
+    });
+  }
+
   function render() {
     if (!sb) { box.innerHTML = '<div class="mb-card"><p>L’espace membre est momentanément indisponible. Réessayez plus tard.</p></div>'; return Promise.resolve(); }
     if (recovering) { recoveryView(); return Promise.resolve(); }
-    return window.BxMember.refresh().then(function (st) { if (st.user) accountView(st); else loginView(); });
+    return window.BxMember.refresh().then(function (st) {
+      if (!st.user) return loginView();
+      if (!st.unverified) return accountView(st);
+      if (amr(st.session).some(function (m) { return m === 'otp' || m === 'magiclink'; })) {
+        box.innerHTML = '<div class="mb-card mb-paycheck"><div class="mb-spin" aria-hidden="true"></div><h2>Confirmation de votre adresse…</h2></div>';
+        return confirmFromLink(st).catch(function () { notice = 'La confirmation a échoué. Renvoyez l’e-mail et réessayez.'; verifyView(st, false); });
+      }
+      var key = 'bx-verif-' + st.user.id;
+      if (store.get(key)) return verifyView(st, false);
+      store.set(key, '1');
+      return sendVerify(st.user.email).then(function () { verifyView(st, true); })
+        .catch(function (e) { notice = tr(e.message); verifyView(st, false); });
+    });
   }
 
   // Retour de la page de paiement GeniusPay : ?commande=…
@@ -249,6 +304,7 @@
         box.scrollIntoView({ behavior: 'smooth', block: 'start' });
         return;
       }
+      if (st.unverified) { render(); box.scrollIntoView({ behavior: 'smooth', block: 'start' }); return; }
       if (btn) { btn.disabled = true; btn.textContent = 'Ouverture du paiement…'; }
       call({ action: 'checkout', plan: plan }).then(function (r) {
         location.href = r.url; // page de paiement sécurisée GeniusPay (Mobile Money, carte)
@@ -264,7 +320,7 @@
   }
 
   page.addEventListener('click', function (e) {
-    var t = e.target.closest('[data-plan], [data-mode], [data-mb-google], [data-mb-logout]');
+    var t = e.target.closest('[data-plan], [data-mode], [data-mb-google], [data-mb-logout], [data-mb-check], [data-mb-resend], [data-mb-resignup]');
     if (!t) return;
     if (t.hasAttribute('data-plan')) { e.preventDefault(); checkout(t.getAttribute('data-plan'), t); }
     else if (t.hasAttribute('data-mode')) { mode = t.getAttribute('data-mode'); loginView(); var f = box.querySelector('input'); if (f) f.focus(); }
@@ -272,6 +328,25 @@
       t.disabled = true;
       sb.auth.signInWithOAuth({ provider: 'google', options: { redirectTo: location.origin + location.pathname } })
         .then(function (r) { if (r.error) { t.disabled = false; setMsg(tr(r.error.message), 'err'); } });
+    } else if (t.hasAttribute('data-mb-check')) {
+      t.disabled = true;
+      sb.auth.refreshSession().then(function () { return window.BxMember.refresh(); }).then(function (st) {
+        t.disabled = false;
+        if (st.user && !st.unverified) { notice = 'Adresse e-mail confirmée. Bienvenue !'; render(); }
+        else setMsg('Pas encore confirmée : cliquez sur le lien reçu par e-mail, puis revenez ici.', 'err');
+      });
+    } else if (t.hasAttribute('data-mb-resend')) {
+      t.disabled = true;
+      window.BxMember.ready().then(function (st) { return sendVerify(st.user.email); })
+        .then(function () { setMsg('E-mail renvoyé. Vérifiez votre boîte de réception.', 'ok'); })
+        .catch(function (err) { setMsg(tr(err.message), 'err'); })
+        .then(function () { setTimeout(function () { t.disabled = false; }, 60000); });
+    } else if (t.hasAttribute('data-mb-resignup')) {
+      var em = t.getAttribute('data-mb-resignup');
+      t.disabled = true;
+      sb.auth.resend({ type: 'signup', email: em, options: { emailRedirectTo: location.origin + location.pathname } }).then(function (r) {
+        setMsg(r.error ? tr(r.error.message) : 'Nouvel e-mail de confirmation envoyé à ' + em + '.', r.error ? 'err' : 'ok');
+      });
     } else if (t.hasAttribute('data-mb-logout')) {
       sb.auth.signOut().then(function () { store.set('bx-plan', null); mode = 'login'; render(); });
     }
@@ -304,8 +379,15 @@
         : sb.auth.resetPasswordForEmail(email, { redirectTo: here });
     p.then(function (r) {
       busy(form, false);
-      if (r.error) return setMsg(tr(r.error.message), 'err');
-      if (mode === 'signup' && !(r.data && r.data.session)) { mode = 'login'; notice = 'Compte créé ! Ouvrez l’e-mail de confirmation que nous venons de vous envoyer, puis connectez-vous.'; return render(); }
+      if (r.error) {
+        setMsg(tr(r.error.message), 'err');
+        if (/not confirmed/i.test(r.error.message)) {
+          var m = box.querySelector('[data-mb-msg]');
+          if (m) m.insertAdjacentHTML('afterend', '<button type="button" class="mb-link" data-mb-resignup="' + esc(email) + '">Renvoyer l’e-mail de confirmation</button>');
+        }
+        return;
+      }
+      if (mode === 'signup' && !(r.data && r.data.session)) { mode = 'login'; notice = 'Compte créé ! Nous venons de vous envoyer un e-mail : cliquez sur « Confirmer mon adresse » pour activer votre compte et accéder à votre espace membre.'; return render(); }
       if (mode === 'forgot') { mode = 'login'; notice = 'Si un compte existe avec cette adresse, un lien pour changer le mot de passe vient de vous être envoyé.'; return render(); }
       render();
     }).catch(function (err) { busy(form, false); setMsg(tr(err && err.message), 'err'); });
@@ -315,6 +397,12 @@
     if (ev === 'PASSWORD_RECOVERY') { recovering = true; recoveryView(); }
     else if (ev === 'SIGNED_IN' && !recovering && !box.querySelector('.mb-paycheck')) setTimeout(render, 0);
   });
+
+  var linkErr = /error_code=([^&]+)/.exec(location.hash + '&' + location.search);
+  if (linkErr) {
+    notice = /expired/.test(linkErr[1]) ? 'Ce lien a expiré ou a déjà été utilisé. Connectez-vous, ou demandez un nouvel e-mail.' : 'Ce lien n’est pas valable. Connectez-vous, ou demandez un nouvel e-mail.';
+    if (history.replaceState) history.replaceState(null, '', location.pathname);
+  }
 
   var order = params.get('commande');
   if (order && sb && /^[0-9a-f-]{36}$/i.test(order)) {
