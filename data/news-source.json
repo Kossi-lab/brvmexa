@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-06T16:31:08.125Z",
+ "updatedAt": "2026-11-06T16:53:45.003Z",
  "items": [
+  {
+   "id": "sika-65560",
+   "title": "Congo : Plus de 1 132 milliards FCFA d'emprunts et de titres publics programmés en 2027",
+   "summary": "La République du Congo entend s'appuyer largement sur le marché des titres publics de la zone CEMAC pour financer son b...",
+   "url": "https://www.sikafinance.com/marches/congo-plus-de-1-132-milliards-fcfa-d-emprunts-et-de-titres-publics-programmes-en-2027_65560",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-06T16:32:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65558",
    "title": "Congo : Une redevance de 10 % sur les mises électroniques des paris et jeux d’argent dès mars 2027",
@@ -2626,6 +2640,23 @@
    "premium": false,
    "publishedAt": "2024-07-02T07:00:00.000Z",
    "symbols": [],
+   "status": "new",
+   "tries": 0
+  },
+  {
+   "id": "gn-hpdtk1",
+   "title": "Solibra, SIEM… La BRVM resserre l’étau autour des sociétés cotées en Bourse",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeDdPUTZkbHh5cHk5cXlWbmxreGYzU21LckVpLWQxRTg0WDZmQ1UyVTV2blMxc21XTGs4SHM5Xy1INlYxSVRVeFVpb2lVX0otbVQ0YjllLV9wclkxUUxxWHVyUjZiM0I3UWpxQzhmaHB1WlBQaDMtNGNwZExmQUJvb2QxZVktVzJINGZFZF9zYnRCMkpaZ3BYN3QyU3ExMFRRWmFrcjNERFJTUTdFWXFadHMyQzhTNnhaWHJldTdUQjVEc3hqaHlqaklTWQ?oc=5",
+   "image": null,
+   "source": "Jeune Afrique",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2024-04-24T07:00:00.000Z",
+   "symbols": [
+    "SEMC",
+    "SLBC"
+   ],
    "status": "new",
    "tries": 0
   },
