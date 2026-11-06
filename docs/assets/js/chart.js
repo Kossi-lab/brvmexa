@@ -116,10 +116,37 @@
     log: '<path d="M4 20c4-1 7-6 9-11s4-5 7-5"/><path d="M4 4v16h16"/>',
     full: '<path d="M4 9V4h5M20 9V4h-5M4 15v5h5M20 15v5h-5"/>',
     shot: '<path d="M4 8h3l2-3h6l2 3h3v11H4z"/><circle cx="12" cy="13" r="3.5"/>',
+    rect: '<rect x="4" y="6" width="16" height="12" rx="1"/><circle cx="4" cy="6" r="1.6"/><circle cx="20" cy="18" r="1.6"/>',
+    long: '<path d="M4 4v16h16"/><rect x="8" y="5" width="10" height="7" fill="currentColor" opacity=".35" stroke="none"/><rect x="8" y="12" width="10" height="5" fill="currentColor" opacity=".15" stroke="none"/><path d="M8 12h10"/><path d="m11 8 2-2 2 2"/>',
+    short: '<path d="M4 4v16h16"/><rect x="8" y="12" width="10" height="7" fill="currentColor" opacity=".35" stroke="none"/><rect x="8" y="7" width="10" height="5" fill="currentColor" opacity=".15" stroke="none"/><path d="M8 12h10"/><path d="m11 16 2 2 2-2"/>',
+    fib: '<path d="M3 5h18M3 9.5h18M3 13h18M3 16.5h18M3 20h18" /><path d="M5 20 19 5" opacity=".6"/>',
+    measure: '<path d="M4 20 20 4"/><path d="M7 17l-2-2M10 14l-1.5-1.5M13 11l-2-2M16 8l-1.5-1.5"/>',
+    brush: '<path d="M14 4l6 6-8.5 8.5a3 3 0 0 1-4.2 0l-1.8-1.8a3 3 0 0 1 0-4.2z"/><path d="M3 21c2.5 0 3.5-1 4-3"/>',
+    text: '<path d="M5 6V4h14v2M12 4v16M9 20h6"/>',
+    label: '<path d="M4 12V5a1 1 0 0 1 1-1h7l8 8-8 8-8-8z"/><circle cx="8.5" cy="8.5" r="1.5"/>',
+    palette: '<circle cx="12" cy="12" r="9"/><circle cx="8" cy="10" r="1.3" fill="currentColor"/><circle cx="12" cy="7.5" r="1.3" fill="currentColor"/><circle cx="16" cy="10" r="1.3" fill="currentColor"/><path d="M12 21c-1.5 0-2-1-2-2s1-2 2.5-2H15a3 3 0 0 0 3-3"/>',
+    zin: '<circle cx="10.5" cy="10.5" r="6.5"/><path d="m20 20-4.8-4.8M10.5 7.5v6M7.5 10.5h6"/>',
+    zout: '<circle cx="10.5" cy="10.5" r="6.5"/><path d="m20 20-4.8-4.8M7.5 10.5h6"/>',
+    fit: '<path d="M4 9V4h5M20 9V4h-5M4 15v5h5M20 15v5h-5"/><path d="M8 12h8"/>',
+    undo: '<path d="M9 14 4 9l5-5"/><path d="M4 9h10a6 6 0 0 1 0 12h-3"/>',
+    eye: '<path d="M2 12s3.5-7 10-7 10 7 10 7-3.5 7-10 7S2 12 2 12z"/><circle cx="12" cy="12" r="3"/>',
+    trash: '<path d="M4 7h16M10 11v6M14 11v6M6 7l1 13h10l1-13M9 7V4h6v3"/>',
     spark: '<path d="M12 3l1.8 4.6L18 9l-4.2 1.4L12 15l-1.8-4.6L6 9l4.2-1.4z"/><path d="M19 15l.8 2 2 .8-2 .8-.8 2-.8-2-2-.8 2-.8z"/>'
   };
   var icon = function (k) { return '<svg viewBox="0 0 24 24" aria-hidden="true">' + ICON[k] + '</svg>'; };
 
+  var TOOLS = [
+    ['cross', 'Réticule', 'cross'], ['trend', 'Ligne de tendance', 'trend'], ['hline', 'Ligne horizontale', 'hline'], ['rect', 'Rectangle', 'rect'], '|',
+    ['long', 'Position longue (achat)', 'long'], ['short', 'Position courte (vente)', 'short'], ['fib', 'Retracement de Fibonacci', 'fib'], ['measure', 'Mesure (prix et durée)', 'measure'], '|',
+    ['brush', 'Pinceau', 'brush'], ['text', 'Texte', 'text'], ['label', 'Étiquette de prix', 'label']
+  ];
+  var HINTS = {
+    trend: 'Ligne de tendance : cliquez-glissez, ou cliquez sur deux points.', hline: 'Ligne horizontale : cliquez sur le niveau de prix.',
+    rect: 'Rectangle : cliquez-glissez pour tracer la zone.', long: 'Position longue : cliquez sur le prix d’achat, puis déplacez l’objectif et le stop.',
+    short: 'Position courte : cliquez sur le prix de vente, puis déplacez l’objectif et le stop.', fib: 'Fibonacci : tracez du plus bas au plus haut (ou l’inverse).',
+    measure: 'Mesure : cliquez-glissez pour mesurer la variation et la durée.', brush: 'Pinceau : dessinez librement en maintenant le clic.',
+    text: 'Texte : cliquez à l’endroit voulu, écrivez puis appuyez sur Entrée.', label: 'Étiquette de prix : cliquez sur un point du graphique.'
+  };
   var PERIODS = [['1M', 31], ['3M', 92], ['6M', 183], ['1A', 365], ['3A', 1096], ['5A', 1827], ['Max', 0]];
   var IND = [
     ['vol', 'Volume', true], ['ma20', 'MM 20', false], ['ma50', 'MM 50', true], ['ma200', 'MM 200', true],
@@ -148,21 +175,37 @@
           IND.map(function (x) { return '<label><input type="checkbox" data-ind="' + x[0] + '"' + (x[2] ? ' checked' : '') + '> ' + esc(x[1]) + '</label>'; }).join('') + '</div></details>' +
         '<label class="cx-cmp"><span class="screen-reader-text">Comparer avec</span><select data-compare><option value="">Comparer…</option>' +
           (opts.symbols || []).filter(function (s) { return s.sym !== opts.sym; }).map(function (s) { return '<option value="' + esc(s.sym) + '">' + esc(s.sym + ' · ' + s.name) + '</option>'; }).join('') + '</select></label>' +
-        '<div class="cx-seg cx-tools" role="group" aria-label="Outils">' +
-          '<button type="button" data-tool="cross" title="Réticule">' + icon('cross') + '</button>' +
-          '<button type="button" data-tool="trend" title="Tracer une ligne de tendance (2 clics)">' + icon('trend') + '</button>' +
-          '<button type="button" data-tool="hline" title="Tracer une ligne horizontale">' + icon('hline') + '</button>' +
-          '<button type="button" data-act="erase" title="Effacer les tracés">' + icon('erase') + '</button>' +
+        '<div class="cx-seg cx-tools" role="group" aria-label="Affichage">' +
           '<button type="button" data-act="log" title="Échelle logarithmique">' + icon('log') + '</button>' +
           '<button type="button" data-act="full" title="Plein écran">' + icon('full') + '</button>' +
           '<button type="button" data-act="shot" title="Enregistrer l’image">' + icon('shot') + '</button>' +
         '</div>' +
       '</div>' +
       '<div class="cx-legend" data-legend></div>' +
-      '<div class="cx-hint" data-hint hidden></div>' +
-      '<div class="cx-main" data-main></div>' +
-      '<div class="cx-sub" data-rsi><span class="cx-sub-lbl">RSI 14</span></div>' +
-      '<div class="cx-sub" data-macd><span class="cx-sub-lbl">MACD 12 · 26 · 9</span></div>' +
+      '<div class="cx-body">' +
+        '<div class="cx-side" role="toolbar" aria-label="Outils de dessin">' +
+          TOOLS.map(function (t) { return t === '|' ? '<span class="cx-sep"></span>' : '<button type="button" data-tool="' + t[0] + '" title="' + esc(t[1]) + '" aria-label="' + esc(t[1]) + '">' + icon(t[2]) + '</button>'; }).join('') +
+          '<span class="cx-sep"></span>' +
+          '<div class="cx-palwrap"><button type="button" data-act="palette" title="Couleur et épaisseur" aria-label="Couleur et épaisseur" aria-expanded="false"><span class="cx-swatch" data-swatch></span></button>' +
+            '<div class="cx-pal" data-pal hidden><p>Couleur</p><div class="cx-colors">' +
+              (window.BxDraw ? window.BxDraw.COLORS : []).map(function (c) { return '<button type="button" data-color="' + c + '" style="background:' + c + '" aria-label="Couleur ' + c + '"></button>'; }).join('') +
+            '</div><p>Épaisseur</p><div class="cx-widths">' + [1, 2, 3, 4].map(function (w) { return '<button type="button" data-width="' + w + '" aria-label="Épaisseur ' + w + '"><i style="height:' + w + 'px"></i></button>'; }).join('') + '</div>' +
+            '<p>Capital simulé (positions)</p><label class="cx-cap"><input type="number" min="1000" step="1000" data-capital> F</label></div></div>' +
+          '<button type="button" data-act="zin" title="Zoomer" aria-label="Zoomer">' + icon('zin') + '</button>' +
+          '<button type="button" data-act="zout" title="Dézoomer" aria-label="Dézoomer">' + icon('zout') + '</button>' +
+          '<button type="button" data-act="fit" title="Tout afficher" aria-label="Tout afficher">' + icon('fit') + '</button>' +
+          '<span class="cx-sep"></span>' +
+          '<button type="button" data-act="undo" title="Annuler (Ctrl+Z)" aria-label="Annuler">' + icon('undo') + '</button>' +
+          '<button type="button" data-act="hide" title="Masquer / afficher les tracés" aria-label="Masquer les tracés">' + icon('eye') + '</button>' +
+          '<button type="button" data-act="del" title="Supprimer le tracé sélectionné (Suppr) ; tout effacer si aucun n’est sélectionné" aria-label="Supprimer">' + icon('trash') + '</button>' +
+        '</div>' +
+        '<div class="cx-panes">' +
+          '<div class="cx-hint" data-hint hidden></div>' +
+          '<div class="cx-main" data-main></div>' +
+          '<div class="cx-sub" data-rsi><span class="cx-sub-lbl">RSI 14</span></div>' +
+          '<div class="cx-sub" data-macd><span class="cx-sub-lbl">MACD 12 · 26 · 9</span></div>' +
+        '</div>' +
+      '</div>' +
       '<div class="cx-foot"><span data-stats></span><span>Cours ajustés des fractionnements · Graphique : <a href="https://www.tradingview.com/" target="_blank" rel="noopener">TradingView Lightweight Charts™</a></span></div>' +
       '</div>';
 
@@ -300,36 +343,39 @@
     });
     chart.timeScale().subscribeVisibleTimeRangeChange(function () { legend(); });
 
-    // Outils de tracé
-    var drawings = [], pending = null, hint = $('[data-hint]');
+    // Outils de dessin (moteur BxDraw : tracés ancrés, déplaçables, sauvegardés sur cet appareil)
+    var hint = $('[data-hint]');
     var say = function (t) { hint.hidden = !t; hint.textContent = t || ''; };
-    chart.subscribeClick(function (param) {
-      if (tool === 'cross' || !param || !param.point) return;
-      var p = mainSeries().coordinateToPrice(param.point.y), t = timeStr(param.time);
-      if (p == null) return;
-      if (tool === 'hline') {
-        var s = mainSeries();
-        drawings.push({ pl: s.createPriceLine({ price: p, color: C.gold, lineWidth: 1, lineStyle: 0, axisLabelVisible: true, title: '' }), s: s });
-        setTool('cross');
-      } else if (tool === 'trend' && t) {
-        if (!pending) { pending = { t: t, p: p }; say('Cliquez sur le second point de la ligne de tendance.'); return; }
-        if (pending.t === t) return;
-        var a = pending.t < t ? pending : { t: t, p: p }, b = pending.t < t ? { t: t, p: p } : pending;
-        var ls = chart.addLineSeries({ color: C.gold, lineWidth: 2, lastValueVisible: false, priceLineVisible: false, crosshairMarkerVisible: false });
-        ls.setData([{ time: a.t, value: a.p }, { time: b.t, value: b.p }]);
-        drawings.push({ series: ls });
-        pending = null; setTool('cross');
-      }
-    });
+    var swatch = $('[data-swatch]'), pal = $('[data-pal]'), capIn = $('[data-capital]');
+    var draw = window.BxDraw ? window.BxDraw.create({
+      chart: chart, host: mainEl, getSeries: mainSeries, pts: pts, sym: opts.sym,
+      onToolDone: function () { setTool('cross'); },
+      onChange: function (st) { var d = root.querySelector('[data-act="del"]'); if (d) d.classList.toggle('is-armed', !!st.selected); }
+    }) : null;
+    var curColor = window.BxDraw ? window.BxDraw.COLORS[0] : '#16C47F', curWidth = 2;
+    function paintSwatch() {
+      swatch.style.background = curColor;
+      root.querySelectorAll('[data-color]').forEach(function (b) { b.classList.toggle('is-on', b.getAttribute('data-color') === curColor); });
+      root.querySelectorAll('[data-width]').forEach(function (b) { b.classList.toggle('is-on', +b.getAttribute('data-width') === curWidth); });
+    }
+    if (capIn && draw) capIn.value = draw.capital();
     function setTool(t) {
-      tool = t; pending = null;
-      root.querySelectorAll('[data-tool]').forEach(function (b) { b.classList.toggle('is-on', b.getAttribute('data-tool') === t); });
-      say(t === 'trend' ? 'Cliquez sur le premier point de la ligne de tendance.' : t === 'hline' ? 'Cliquez sur le graphique pour placer la ligne horizontale.' : '');
+      tool = t;
+      if (draw) draw.setTool(t);
+      root.querySelectorAll('[data-tool]').forEach(function (b) { var on2 = b.getAttribute('data-tool') === t; b.classList.toggle('is-on', on2); b.setAttribute('aria-pressed', on2); });
+      say(HINTS[t] || '');
+    }
+    function zoom(f) {
+      var r = chart.timeScale().getVisibleLogicalRange();
+      if (!r) return;
+      var span = (r.to - r.from) * f, to = r.to;
+      chart.timeScale().setVisibleLogicalRange({ from: Math.max(-5, to - span), to: to });
     }
 
     // Affichage
     function applyType() {
       ['area', 'line', 'candle'].forEach(function (k) { S[k].applyOptions({ visible: k === type }); });
+      if (typeof draw !== 'undefined' && draw) draw.redraw();
       root.querySelectorAll('[data-type]').forEach(function (b) { b.classList.toggle('is-on', b.getAttribute('data-type') === type); });
       drawLevels();
     }
@@ -364,10 +410,17 @@
       else if (b.hasAttribute('data-tool')) setTool(b.getAttribute('data-tool') === tool && tool !== 'cross' ? 'cross' : b.getAttribute('data-tool'));
       else {
         var a = b.getAttribute('data-act');
-        if (a === 'erase') {
-          drawings.forEach(function (d) { if (d.series) chart.removeSeries(d.series); else try { d.s.removePriceLine(d.pl); } catch (er) {} });
-          drawings = []; setTool('cross');
-        } else if (a === 'log') {
+        if (!b.closest('.cx-palwrap') && pal) pal.hidden = true;
+        if (a === 'palette') { pal.hidden = !pal.hidden; b.setAttribute('aria-expanded', !pal.hidden); }
+        else if (b.hasAttribute('data-color')) { curColor = b.getAttribute('data-color'); if (draw) draw.setColor(curColor); paintSwatch(); }
+        else if (b.hasAttribute('data-width')) { curWidth = +b.getAttribute('data-width'); if (draw) draw.setWidth(curWidth); paintSwatch(); }
+        else if (a === 'zin') zoom(0.7);
+        else if (a === 'zout') zoom(1.45);
+        else if (a === 'fit') chart.timeScale().fitContent();
+        else if (a === 'undo' && draw) draw.undo();
+        else if (a === 'hide' && draw) b.classList.toggle('is-on', !draw.toggle());
+        else if (a === 'del' && draw) { if (b.classList.contains('is-armed')) draw.remove(); else if (draw.count() && window.confirm('Effacer tous les tracés de ce graphique ?')) draw.clear(); }
+        else if (a === 'log') {
           logScale = !logScale; b.classList.toggle('is-on', logScale);
           if (!compareSym) chart.priceScale('right').applyOptions({ mode: logScale ? 1 : 0 });
         } else if (a === 'full') {
@@ -375,7 +428,9 @@
           if (document.fullscreenElement) document.exitFullscreen(); else if (box.requestFullscreen) box.requestFullscreen().catch(function () {});
         } else if (a === 'shot') {
           try {
-            var cv = chart.takeScreenshot(), link = document.createElement('a');
+            var cv = chart.takeScreenshot(), overlay = mainEl.querySelector('canvas.cx-draw');
+            if (overlay && overlay.width) cv.getContext('2d').drawImage(overlay, 0, 0, cv.width * (overlay.clientWidth / mainEl.clientWidth), overlay.clientHeight * (cv.width / mainEl.clientWidth));
+            var link = document.createElement('a');
             link.href = cv.toDataURL('image/png'); link.download = 'BRVMexa-' + opts.sym + '-' + pts[pts.length - 1].d + '.png';
             document.body.appendChild(link); link.click(); link.remove();
           } catch (er) {}
@@ -385,17 +440,19 @@
     root.querySelectorAll('[data-ind]').forEach(function (cb) {
       cb.addEventListener('change', function () { on[cb.getAttribute('data-ind')] = cb.checked; applyInd(); });
     });
-    $('[data-compare]').addEventListener('change', function (e) { setCompare(e.target.value); });
+    $('[data-compare]').addEventListener('change', function (e) { setCompare(e.target.value); if (draw) draw.redraw(); });
+    if (capIn) capIn.addEventListener('change', function () { var v = Math.round(+capIn.value); if (draw && v >= 1000) draw.setCapital(v); });
+    document.addEventListener('click', function (e) { if (pal && !pal.hidden && !e.target.closest('.cx-palwrap')) pal.hidden = true; });
 
     if (mobile) { on.macd = false; }
-    applyType(); applyInd(); setTool('cross');
+    applyType(); applyInd(); setTool('cross'); paintSwatch();
     requestAnimationFrame(applyPeriod);
 
     return {
       data: data,
       /** Affiche les niveaux proposés par l'analyste (entrée, stop, objectif) */
       setAnalystLevels: function (lv) { aiLevels = lv; drawLevels(); },
-      destroy: function () { charts.forEach(function (c) { try { c.remove(); } catch (e) {} }); }
+      destroy: function () { if (draw) draw.destroy(); charts.forEach(function (c) { try { c.remove(); } catch (e) {} }); }
     };
   }
 

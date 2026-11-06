@@ -715,6 +715,45 @@ html.dv-open { overflow: hidden; }
 }
 @media (prefers-reduced-motion: reduce) { .dv-panel, .dv-backdrop, .dv-msg, .dv-think span { animation: none; } }
 
+/* ─── Outils de dessin (barre latérale type TradingView) ─── */
+.cx-body { display: flex; align-items: stretch; }
+.cx-panes { flex: 1; min-width: 0; }
+.cx-side { flex: none; width: 44px; display: flex; flex-direction: column; align-items: center; gap: 2px; padding: 6px 0; background: var(--surface); border-right: 1px solid var(--border); overflow-y: auto; scrollbar-width: none; }
+.cx-side::-webkit-scrollbar { display: none; }
+.cx-side button { all: unset; cursor: pointer; width: 34px; height: 32px; flex: none; display: grid; place-items: center; border-radius: 8px; color: var(--sec); position: relative; }
+.cx-side button svg { width: 19px; height: 19px; fill: none; stroke: currentColor; stroke-width: 1.7; stroke-linecap: round; stroke-linejoin: round; }
+.cx-side button:hover { color: var(--text); background: var(--surface-2); }
+.cx-side button.is-on { color: #0A0F1A; background: var(--accent); }
+.cx-side button.is-armed { color: var(--down); background: var(--down-soft); }
+.cx-side button:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+.cx-sep { flex: none; width: 24px; height: 1px; background: var(--border); margin: 4px 0; }
+.cx-swatch { width: 18px; height: 18px; border-radius: 50%; border: 2px solid var(--text); box-sizing: border-box; }
+.cx-palwrap { position: relative; }
+.cx-pal { position: absolute; z-index: 30; left: 42px; top: -6px; width: 210px; background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 10px 12px; box-shadow: var(--shadow); }
+.cx-pal[hidden] { display: none; }
+.cx-pal p { margin: 4px 0 6px; font-size: .72rem; font-weight: 700; color: var(--muted); text-transform: uppercase; letter-spacing: .05em; }
+.cx-colors { display: grid; grid-template-columns: repeat(4, 1fr); gap: 6px; margin-bottom: 6px; }
+.cx-colors button { all: unset; cursor: pointer; height: 26px; border-radius: 7px; border: 2px solid transparent; }
+.cx-colors button.is-on { border-color: var(--text); }
+.cx-widths { display: grid; grid-template-columns: repeat(4, 1fr); gap: 6px; margin-bottom: 6px; }
+.cx-widths button { all: unset; cursor: pointer; height: 26px; border-radius: 7px; background: var(--bg-2); display: grid; place-items: center; }
+.cx-widths button i { display: block; width: 26px; background: var(--text); border-radius: 2px; }
+.cx-widths button.is-on { outline: 2px solid var(--accent); }
+.cx-cap { display: flex; align-items: center; gap: 6px; font-size: .8rem; color: var(--sec); }
+.cx-cap input { width: 100%; height: 32px; border-radius: 8px; border: 1px solid var(--border); background: var(--bg-2); color: var(--text); padding: 0 8px; font: 600 .85rem var(--font); }
+.cx-main canvas.cx-draw { position: absolute; left: 0; top: 0; z-index: 3; pointer-events: none; }
+.cx-main.is-drawing { touch-action: none; }
+.cx-text-edit { position: absolute; z-index: 5; width: 200px; height: 30px; border-radius: 6px; border: 1px solid var(--accent); background: rgba(13, 20, 34, .95); font: 700 14px var(--font); padding: 0 8px; outline: none; }
+.cx-text-edit[hidden] { display: none; }
+.cx-panes { position: relative; }
+.cx-hint { position: absolute; z-index: 6; top: 8px; left: 50%; transform: translateX(-50%); max-width: calc(100% - 90px); margin: 0; padding: 6px 12px; border-radius: 8px; background: rgba(13, 20, 34, .92); border: 1px solid rgba(242, 179, 61, .4); color: var(--gold); font-size: .78rem; pointer-events: none; text-align: center; }
+@media (max-width: 760px) {
+  .cx-body { flex-direction: column; }
+  .cx-side { width: auto; flex-direction: row; overflow-x: auto; overflow-y: visible; padding: 4px 6px; border-right: 0; border-bottom: 1px solid var(--border); }
+  .cx-sep { width: 1px; height: 22px; margin: 0 4px; }
+  .cx-pal { position: fixed; left: 16px; right: 16px; bottom: 16px; top: auto; width: auto; }
+}
+
 @media (max-width: 760px) {
   .fx-stats { grid-template-columns: 1fr 1fr; }
   .fx-cards { grid-template-columns: 1fr 1fr; }
