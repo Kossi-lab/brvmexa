@@ -43,20 +43,27 @@ async function sb(pathname, init = {}) {
 }
 
 
+// Les journaux du robot sont publics : on n'y écrit jamais les jetons des téléphones
+const mask = (s) => String(s ?? '').replace(/ExponentPushToken\[[^\]]*\]/g, 'ExponentPushToken[masqué]').replace(/ExpoPushToken\[[^\]]*\]/g, 'ExpoPushToken[masqué]');
+
 /** Envoie les notifications via le service d'Expo, par paquets de 100 */
 export async function sendPush(messages) {
   for (let i = 0; i < messages.length; i += 100) {
     const res = await fetch('https://exp.host/--/api/v2/push/send', {
       method: 'POST',
-      headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
+      headers: {
+        'Content-Type': 'application/json', Accept: 'application/json',
+        // Jeton d'accès Expo (facultatif) : obligatoire si la « sécurité des notifications » est activée sur expo.dev
+        ...(process.env.EXPO_ACCESS_TOKEN ? { Authorization: `Bearer ${process.env.EXPO_ACCESS_TOKEN}` } : {}),
+      },
       body: JSON.stringify(messages.slice(i, i + 100)),
     });
     const json = await res.json().catch(() => null);
     const tickets = Array.isArray(json?.data) ? json.data : [];
     const ok = tickets.filter((t) => t.status === 'ok').length;
     console.log(`Notifications : ${ok}/${Math.min(100, messages.length - i)} acceptées par Expo (HTTP ${res.status})`);
-    for (const t of tickets) if (t.status !== 'ok') console.log(`  refusée : ${t.details?.error ?? ''} ${t.message ?? ''}`);
-    if (json?.errors) console.log('  erreur Expo :', JSON.stringify(json.errors));
+    for (const t of tickets) if (t.status !== 'ok') console.log(`  refusée : ${t.details?.error ?? ''} ${mask(t.message)}`);
+    if (json?.errors) console.log('  erreur Expo :', mask(JSON.stringify(json.errors)));
   }
 }
 

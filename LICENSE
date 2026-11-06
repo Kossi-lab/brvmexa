@@ -1,15 +1,19 @@
-BRVMexa : application mobile
+BRVMexa : site web, application mobile, robot de collecte et données
 Copyright © 2026 BRVMexa. Tous droits réservés.
 
-Ce logiciel (code source, code compilé, design, textes, logos, icônes, images,
-leçons Educ'Brvm et personnage « David ») est la propriété exclusive de son auteur.
+Tout le contenu de ce dépôt et des services BRVMexa (code source, code compilé, design,
+textes, articles de « La Rédaction, BRVMexa », graphiques, logos, icônes, images,
+leçons Educ'Brvm, personnage et agent « David », ainsi que les bases de données
+compilées et publiées dans le dossier /data) est la propriété exclusive de son auteur.
 
+Le fait que ce dépôt soit consultable publiquement ne confère aucun droit d'utilisation.
 Aucune licence n'est accordée. Sauf autorisation écrite préalable, il est interdit de :
-copier, reproduire, modifier, adapter, traduire, distribuer, publier, vendre, louer,
-décompiler ou désassembler tout ou partie de ce logiciel, ou de créer une application
-dérivée ou concurrente à partir de celui-ci.
+copier, reproduire, cloner pour réutiliser, modifier, adapter, traduire, distribuer,
+publier, vendre, louer, décompiler ou désassembler tout ou partie de ce contenu, d'en
+extraire les données de manière systématique, ou de créer un site, une application ou
+un service dérivé ou concurrent à partir de celui-ci.
 
-Les bibliothèques open source utilisées restent soumises à leurs propres licences
-(voir le fichier NOTICES.md).
+Les bibliothèques open source utilisées restent soumises à leurs propres licences.
+Les cours et données de marché d'origine appartiennent à leurs éditeurs respectifs.
 
 Contact : https://www.brvmexa.com/contact/
