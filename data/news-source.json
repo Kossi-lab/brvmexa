@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-06T04:47:22.764Z",
+ "updatedAt": "2026-11-06T09:01:43.745Z",
  "items": [
   {
    "id": "sika-65534",
@@ -304,8 +304,8 @@
    "premium": false,
    "publishedAt": "2026-11-04T14:19:00Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65497",
@@ -318,8 +318,8 @@
    "premium": false,
    "publishedAt": "2026-11-04T14:09:00Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65496",
@@ -332,8 +332,8 @@
    "premium": false,
    "publishedAt": "2026-11-04T13:46:00Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65494",
@@ -346,8 +346,8 @@
    "premium": false,
    "publishedAt": "2026-11-04T12:17:00Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65491",
@@ -362,8 +362,8 @@
    "symbols": [
     "STAC"
    ],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65490",
@@ -376,8 +376,8 @@
    "premium": false,
    "publishedAt": "2026-11-04T11:28:00Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65489",
@@ -390,8 +390,8 @@
    "premium": false,
    "publishedAt": "2026-11-04T11:03:00Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65487",
@@ -404,8 +404,8 @@
    "premium": false,
    "publishedAt": "2026-11-04T10:44:00Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65488",
@@ -418,8 +418,8 @@
    "premium": false,
    "publishedAt": "2026-11-04T10:38:00Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65486",
@@ -434,8 +434,8 @@
    "symbols": [
     "BOAB"
    ],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65484",
@@ -448,8 +448,8 @@
    "premium": false,
    "publishedAt": "2026-11-04T09:40:00Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "gn-8gfk7z",
@@ -462,8 +462,8 @@
    "premium": false,
    "publishedAt": "2026-11-04T09:21:35.000Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65480",
@@ -476,8 +476,8 @@
    "premium": false,
    "publishedAt": "2026-11-04T08:19:00Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "gn-1eb5rqu",
@@ -490,8 +490,8 @@
    "premium": false,
    "publishedAt": "2026-11-04T06:29:11.000Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65476",
@@ -504,8 +504,8 @@
    "premium": false,
    "publishedAt": "2026-11-03T18:11:00Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65475",
@@ -518,8 +518,8 @@
    "premium": false,
    "publishedAt": "2026-11-03T18:02:00Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65473",
@@ -532,8 +532,8 @@
    "premium": false,
    "publishedAt": "2026-11-03T17:14:00Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65471",
@@ -548,8 +548,8 @@
    "symbols": [
     "BOAC"
    ],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65472",
@@ -564,8 +564,8 @@
    "symbols": [
     "NSBC"
    ],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65470",
@@ -578,8 +578,8 @@
    "premium": false,
    "publishedAt": "2026-11-03T17:03:00Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65469",
@@ -592,8 +592,8 @@
    "premium": false,
    "publishedAt": "2026-11-03T16:46:00Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65466",
@@ -606,8 +606,8 @@
    "premium": false,
    "publishedAt": "2026-11-03T16:12:00Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65464",
@@ -622,8 +622,8 @@
    "symbols": [
     "SLBC"
    ],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65460",
@@ -636,8 +636,8 @@
    "premium": false,
    "publishedAt": "2026-11-03T12:30:00Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65459",
@@ -652,8 +652,8 @@
    "symbols": [
     "SCRC"
    ],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65458",
@@ -666,8 +666,8 @@
    "premium": false,
    "publishedAt": "2026-11-03T11:08:00Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65453",
