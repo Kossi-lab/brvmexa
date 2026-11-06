@@ -42,6 +42,24 @@
     return { x: bx, y: y - h / 2, w: w, h: h };
   }
 
+  // Logo BRVMexa (même dessin que l'en-tête du site), posé en bas à gauche du graphique
+  function logo(ctx, x, y, sz) {
+    var k = sz / 32;
+    var rr = function (rx, ry, w, h, r) { ctx.beginPath(); if (ctx.roundRect) ctx.roundRect(x + rx * k, y + ry * k, w * k, h * k, r * k); else ctx.rect(x + rx * k, y + ry * k, w * k, h * k); ctx.fill(); };
+    ctx.save();
+    ctx.globalAlpha = 0.9;
+    ctx.fillStyle = '#16C47F'; rr(0, 0, 32, 32, 8);
+    ctx.fillStyle = '#0A0F1A'; rr(7, 17, 4, 8, 1.5); rr(14, 12, 4, 13, 1.5); rr(21, 7, 4, 18, 1.5);
+    ctx.strokeStyle = '#0A0F1A'; ctx.lineWidth = 1.8 * k; ctx.lineCap = 'round'; ctx.lineJoin = 'round';
+    ctx.beginPath(); ctx.moveTo(x + 6 * k, y + 14 * k); ctx.lineTo(x + 13 * k, y + 9 * k); ctx.lineTo(x + 18 * k, y + 11 * k); ctx.lineTo(x + 26 * k, y + 5 * k); ctx.stroke();
+    ctx.font = '800 ' + Math.round(sz * 0.62) + 'px Inter, system-ui, sans-serif';
+    ctx.textAlign = 'left'; ctx.textBaseline = 'middle';
+    var tx = x + sz + 7, ty = y + sz / 2 + 0.5;
+    ctx.fillStyle = '#F3F6FB'; ctx.fillText('BRVM', tx, ty);
+    ctx.fillStyle = '#16C47F'; ctx.fillText('exa', tx + ctx.measureText('BRVM').width, ty);
+    ctx.restore();
+  }
+
   function ink(hex) { var n = parseInt(hex.slice(1), 16), r = n >> 16 & 255, g = n >> 8 & 255, b = n & 255; return (r * 299 + g * 587 + b * 114) / 1000 > 150 ? '#0A0F1A' : '#FFFFFF'; }
 
   function create(o) {
@@ -254,6 +272,8 @@
       ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
       ctx.clearRect(0, 0, FW, H);
       G = geo();
+      var lsz = W < 420 ? 18 : 22;
+      logo(ctx, 10, H - lsz - 10, lsz);
       if (!G || !visible) { syncBox(); return; }
       ctx.save(); ctx.beginPath(); ctx.rect(0, 0, W, H); ctx.clip();
       drawings.forEach(function (d) { try { T[d.type].draw(d); } catch (e) {} });
@@ -551,7 +571,7 @@
       remove: function () { if (!selected) return; snapshot(); drawings = drawings.filter(function (d) { return d !== selected; }); selected = null; save(); redraw(); },
       clear: function () { if (!drawings.length) return; snapshot(); drawings = []; selected = null; save(); redraw(); },
       undo: function () { if (!undo.length) return; drawings = JSON.parse(undo.pop()); drawings.forEach(function (d) { d.id = seq++; }); selected = null; save(); redraw(); },
-      toggle: function () { visible = !visible; canvas.style.visibility = visible ? '' : 'hidden'; redraw(); return visible; },
+      toggle: function () { visible = !visible; redraw(); return visible; },
       redraw: redraw,
       count: function () { return drawings.length; },
       destroy: function () { document.removeEventListener('keydown', onKey); if (ro) ro.disconnect(); canvas.remove(); editor.remove(); pbox.remove(); }
