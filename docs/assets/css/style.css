@@ -1228,3 +1228,21 @@ html.dv-open { overflow: hidden; }
   .mx-progress { display: none; }
 }
 .pm-offers + *, .pm-band + .store-badges { margin-top: 28px; }
+
+/* Offres détaillées */
+.pm-plan .pm-pl-btn { margin: 0 0 18px; }
+.pm-plus { margin: 0 0 18px; padding: 12px 14px; border-radius: 14px; background: rgba(22, 196, 127, .08); border: 1px solid rgba(22, 196, 127, .25); }
+.pm-plan.is-best .pm-plus { background: rgba(242, 179, 61, .10); border-color: rgba(242, 179, 61, .35); }
+.pm-plus p { margin: 0 0 6px !important; display: flex; align-items: center; gap: 6px; font-size: .72rem; font-weight: 800; letter-spacing: .06em; text-transform: uppercase; color: #16C47F !important; }
+.pm-plan.is-best .pm-plus p { color: #F2B33D !important; }
+.pm-plus ul { list-style: none; margin: 0 !important; padding: 0 !important; display: grid; gap: 4px; }
+.pm-plus li { margin: 0 !important; font-size: .9rem; font-weight: 700; color: var(--text) !important; line-height: 1.4; }
+.pm-incl { border-top: 1px solid var(--border); padding-top: 14px; }
+.pm-incl-t { margin: 0 0 4px !important; font-size: .86rem; font-weight: 800; color: var(--text) !important; }
+.pm-gh { margin: 14px 0 8px !important; font-size: .7rem; font-weight: 800; letter-spacing: .08em; text-transform: uppercase; color: var(--muted) !important; }
+.pm-incl .pm-pl-list { border-top: 0; padding-top: 0; margin: 0; gap: 8px; }
+.pm-incl .pm-pl-list li { font-size: .85rem; }
+.pm-plan:hover .pm-pl-list svg { animation: pm-tick .5s cubic-bezier(.2, .8, .2, 1) both; }
+@keyframes pm-tick { from { transform: scale(.4); opacity: 0; } }
+@media (min-width: 1101px) { .pm-plus { min-height: 128px; } }
+@media (min-width: 641px) and (max-width: 1100px) { .pm-plus { min-height: 112px; } }
