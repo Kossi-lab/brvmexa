@@ -6,10 +6,10 @@
 
   var cfg = window.BRVMEXA || {};
   var PLANS = {
-    m1: { label: '1 mois', price: 2500 },
-    m3: { label: '3 mois', price: 7000 },
-    m6: { label: '6 mois', price: 14000 },
-    m12: { label: '1 an', price: 20000 }
+    m1: { label: '1 mois', price: 3000 },
+    m3: { label: '3 mois', price: 7500 },
+    m6: { label: '6 mois', price: 13500 },
+    m12: { label: '1 an', price: 24000 }
   };
   var esc = function (s) {
     return String(s == null ? '' : s).replace(/[&<>"']/g, function (c) {
@@ -67,7 +67,7 @@
       '<h2 id="pw-title">' + esc(title) + '</h2>' +
       '<p class="pw-lead">' + esc(lead) + '</p>' +
       '<ul class="pw-list">' + REASONS.map(function (r) { return '<li>' + CHECK + '<span><b>' + esc(r[0]) + '</b> : ' + esc(r[1]) + '</span></li>'; }).join('') + '</ul>' +
-      '<p class="pw-price">À partir de <b>2 500 FCFA</b> par mois, ou <b>20 000 FCFA</b> pour un an. Paiement par Mobile Money ou carte.</p>' +
+      '<p class="pw-price"><b>3 000 FCFA</b> pour un mois, ou <b>24 000 FCFA</b> pour un an, soit <b>2 000 FCFA par mois</b>. Paiement par Mobile Money ou carte.</p>' +
       '<div class="pw-actions"><a class="btn btn--primary" href="' + esc(memberUrl(back)) + '#offres">Devenir membre Premium</a>' +
       '<a class="btn btn--ghost" href="' + esc(memberUrl(back)) + '">Déjà membre ? Se connecter</a></div>' +
       '<p class="pw-note">Le graphique et ses outils restent gratuits.</p></div>';
@@ -154,6 +154,8 @@
     if (b && st.user) b.textContent = st.premium ? 'Premium' : 'Mon espace';
     var a = document.querySelector('[data-bx-member]');
     if (a && st.premium) a.classList.add('is-premium');
+    try { if (st.premium) localStorage.setItem('bx-premium', '1'); else localStorage.removeItem('bx-premium'); } catch (e) { /* stockage indisponible */ }
+    document.documentElement.classList.toggle('pm-hide-premium', !!st.premium);
   });
 
   // ───────── Page « Espace membre » ─────────
@@ -162,6 +164,8 @@
   var box = page.querySelector('[data-mb-account]');
   var params = new URLSearchParams(location.search);
   var back = safeBack(params.get('retour'));
+  var offre = params.get('offre');
+  if (offre && PLANS[offre]) store.set('bx-plan', offre);
   if (back) store.set('bx-back', back); else back = safeBack(store.get('bx-back'));
   var GOOGLE = '<svg viewBox="0 0 48 48" width="20" height="20" aria-hidden="true"><path fill="#FFC107" d="M43.6 20.5H42V20H24v8h11.3C33.7 32.7 29.2 36 24 36c-6.6 0-12-5.4-12-12s5.4-12 12-12c3.1 0 5.8 1.2 7.9 3.1l5.7-5.7C34 6.1 29.3 4 24 4 12.9 4 4 12.9 4 24s8.9 20 20 20 20-8.9 20-20c0-1.3-.1-2.4-.4-3.5z"/><path fill="#FF3D00" d="M6.3 14.7l6.6 4.8C14.7 15.1 19 12 24 12c3.1 0 5.8 1.2 7.9 3.1l5.7-5.7C34 6.1 29.3 4 24 4 16.3 4 9.7 8.3 6.3 14.7z"/><path fill="#4CAF50" d="M24 44c5.2 0 9.9-2 13.4-5.2l-6.2-5.2C29.2 35.1 26.7 36 24 36c-5.2 0-9.6-3.3-11.3-7.9l-6.5 5C9.5 39.6 16.2 44 24 44z"/><path fill="#1976D2" d="M43.6 20.5H42V20H24v8h11.3c-.8 2.2-2.2 4.2-4.1 5.6l6.2 5.2C37 39.2 44 34 44 24c0-1.3-.1-2.4-.4-3.5z"/></svg>';
   var mode = 'login', notice = '', recovering = /type=recovery/.test(location.hash);
@@ -193,7 +197,7 @@
     box.innerHTML = '<div class="mb-card mb-login">' +
       '<h2>' + title + '</h2>' +
       (pending && PLANS[pending] ? '<p class="mb-pending">Offre choisie : <b>' + esc(PLANS[pending].label) + ' – ' + money(PLANS[pending].price) + '</b>. Connectez-vous pour passer au paiement.</p>' : '') +
-      '<p class="muted">Utilisez le même compte que dans l’application BRVMexa.</p>' +
+      '<p class="muted">Un seul compte pour le site et l’application BRVMexa : utilisez la <b>même adresse e-mail</b> et la <b>même méthode</b> (Google ou e-mail) des deux côtés.</p>' +
       (mode !== 'forgot' ? '<button type="button" class="mb-google" data-mb-google>' + GOOGLE + '<span>Continuer avec Google</span></button><div class="mb-or"><span>ou avec votre e-mail</span></div>' : '') +
       '<form data-mb-form novalidate>' + fields + '<button class="btn btn--primary mb-submit" type="submit">' + submit + '</button></form>' +
       '<p class="mb-msg" data-mb-msg role="status" aria-live="polite">' + esc(notice) + '</p>' +
@@ -219,10 +223,18 @@
       : (pending && PLANS[pending]
         ? '<button type="button" class="btn btn--primary" data-plan="' + esc(pending) + '">Payer l’offre ' + esc(PLANS[pending].label) + ' – ' + money(PLANS[pending].price) + '</button>'
         : '<a class="btn btn--primary" href="#offres">Choisir une offre</a>');
-    box.innerHTML = '<div class="mb-card mb-account">' +
+    var google = ((u.app_metadata || {}).providers || [(u.app_metadata || {}).provider]).indexOf('google') >= 0;
+    var mcard = st.premium
+      ? '<div class="pm-mcard"><small>Carte de membre</small><strong>' + esc(name) + '</strong><span>Premium · valable jusqu’au ' + esc(day(st.expiresAt)) + '</span></div>' : '';
+    var app = '<div class="pm-app"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><rect x="6.5" y="2.5" width="11" height="19" rx="2.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="M10.5 18.5h3" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg><span>' +
+      '<b>Sur votre téléphone</b> : dans l’application BRVMexa, connectez-vous avec ce même compte, <b>' + esc(u.email || '') + '</b>' +
+      (google ? ', en touchant <b>Continuer avec Google</b>' : ', avec votre <b>e-mail et votre mot de passe</b>') +
+      (st.premium ? '. Votre Premium et David s’y activent automatiquement.' : '. Votre abonnement y sera reconnu dès votre paiement.') + '</span></div>';
+    box.innerHTML = '<div class="mb-card mb-account' + (st.premium ? ' is-gold' : '') + '">' +
       '<div class="mb-hello"><div class="mb-avatar" aria-hidden="true">' + esc(name.charAt(0).toUpperCase()) + '</div><div><h2>Bonjour ' + esc(name) + '</h2><p class="muted">' + esc(u.email || '') + '</p></div></div>' +
-      status + '<p class="mb-msg" data-mb-msg role="status" aria-live="polite">' + esc(notice) + '</p>' +
+      (st.premium ? mcard : status) + '<p class="mb-msg" data-mb-msg role="status" aria-live="polite">' + esc(notice) + '</p>' +
       '<div class="mb-actions">' + go + '<button type="button" class="btn btn--ghost" data-mb-logout>Se déconnecter</button></div>' +
+      app +
       (st.premium ? '<p class="muted mb-small">Vous pouvez prolonger votre abonnement à tout moment : la durée choisie s’ajoute à la date de fin actuelle.</p>' : '') +
       '</div>';
     notice = '';
@@ -434,5 +446,7 @@
   var order = params.get('commande');
   if (order && sb && /^[0-9a-f-]{36}$/i.test(order)) {
     window.BxMember.ready().then(function (st) { if (st.user) afterPayment(order, params.has('echec')); else render(); });
-  } else render();
+  } else render().then(function () {
+    if (offre && PLANS[offre]) { var c = document.getElementById('compte'); if (c) c.scrollIntoView({ behavior: 'smooth', block: 'start' }); }
+  });
 })();

@@ -269,7 +269,7 @@
     promo.innerHTML = '<div class="fx-promo-ico" aria-hidden="true">' + LOCK + '</div>' +
       '<div class="fx-promo-txt"><strong>Débloquez les ratios des ' + rows.length + ' sociétés de la BRVM</strong>' +
       '<span>BPA, PER, rendement, taux de distribution, marge nette, croissance du bénéfice, filtres et avis de David.</span></div>' +
-      '<a class="btn btn--primary fx-promo-btn" href="' + esc(memberHref('')) + '#offres">Devenir Premium · dès 2 500 F</a>';
+      '<a class="btn btn--primary fx-promo-btn" href="' + esc(memberHref('')) + '#offres">Devenir Premium · dès 2 000 F/mois</a>';
     var wrapEl = root.querySelector('.table-wrap');
     if (wrapEl) wrapEl.parentNode.insertBefore(promo, wrapEl);
     var paywall = function () { if (window.BxMember) window.BxMember.paywall('ratios'); else location.href = memberHref(''); };
