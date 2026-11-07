@@ -1254,3 +1254,10 @@ html.dv-open { overflow: hidden; }
 .pm-more summary::after { content: "+"; font-size: 1.1rem; line-height: 1; transition: transform .3s; }
 .pm-more[open] summary::after { transform: rotate(45deg); }
 .pm-more[open] { animation: pm-swap .4s ease; }
+.pw-price { display: grid; gap: 4px; padding: 14px 16px; }
+.pw-price p { margin: 0 !important; }
+.pw-from { font-size: 1.05rem; color: var(--text); }
+.pw-from b { color: #16C47F; }
+.pw-offers { font-size: .9rem; color: var(--text); display: flex; flex-wrap: wrap; gap: 2px 14px; }
+.pw-offers span { white-space: nowrap; }
+.pw-means { font-size: .84rem; color: var(--sec); }

@@ -9,7 +9,7 @@
   if (document.body.classList.contains('is-home')) return;
   var calm = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
   var nf = new Intl.NumberFormat('fr-FR');
-  var fmt = function (v) { return nf.format(v).replace(/[  ]/g, ' '); };
+  var fmt = function (v) { return nf.format(v).replace(/[  ]/g, '\u00a0'); };
 
   // Titre : apparition mot par mot
   document.querySelectorAll('[data-mx-split]').forEach(function (h) {
