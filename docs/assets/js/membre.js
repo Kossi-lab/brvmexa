@@ -67,7 +67,7 @@
       '<h2 id="pw-title">' + esc(title) + '</h2>' +
       '<p class="pw-lead">' + esc(lead) + '</p>' +
       '<ul class="pw-list">' + REASONS.map(function (r) { return '<li>' + CHECK + '<span><b>' + esc(r[0]) + '</b> : ' + esc(r[1]) + '</span></li>'; }).join('') + '</ul>' +
-      '<p class="pw-price"><b>3 000 FCFA</b> pour un mois, ou <b>24 000 FCFA</b> pour un an, soit <b>2 000 FCFA par mois</b>. Paiement par Mobile Money ou carte.</p>' +
+      '<p class="pw-price"><b>3 000 FCFA</b> pour un mois, ou <b>24 000 FCFA</b> pour un an, soit <b>2 000 FCFA par mois</b>. Paiement par carte bancaire, Mobile Money ou PayPal.</p>' +
       '<div class="pw-actions"><a class="btn btn--primary" href="' + esc(memberUrl(back)) + '#offres">Devenir membre Premium</a>' +
       '<a class="btn btn--ghost" href="' + esc(memberUrl(back)) + '">Déjà membre ? Se connecter</a></div>' +
       '<p class="pw-note">Le graphique et ses outils restent gratuits.</p></div>';
