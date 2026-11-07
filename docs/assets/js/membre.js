@@ -67,9 +67,7 @@
       '<h2 id="pw-title">' + esc(title) + '</h2>' +
       '<p class="pw-lead">' + esc(lead) + '</p>' +
       '<ul class="pw-list">' + REASONS.map(function (r) { return '<li>' + CHECK + '<span><b>' + esc(r[0]) + '</b> : ' + esc(r[1]) + '</span></li>'; }).join('') + '</ul>' +
-      '<div class="pw-price"><p class="pw-from">Dès <b>2\u00a0000\u00a0FCFA par mois</b></p>' +
-      '<p class="pw-offers"><span>Offre 1 an\u00a0: 24\u00a0000\u00a0FCFA</span><span>Offre 1 mois\u00a0: 3\u00a0000\u00a0FCFA</span></p>' +
-      '<p class="pw-means">Carte bancaire, Mobile Money ou PayPal</p></div>' +
+      '<div class="pw-price"><p class="pw-from">Dès <b>3\u00a0000\u00a0FCFA par mois</b></p><p class="pw-means">Sans engagement</p></div>' +
       '<div class="pw-actions"><a class="btn btn--primary" href="' + esc(memberUrl(back)) + '#offres">Devenir membre Premium</a>' +
       '<a class="btn btn--ghost" href="' + esc(memberUrl(back)) + '">Déjà membre ? Se connecter</a></div>' +
       '<p class="pw-note">Le graphique et ses outils restent gratuits.</p></div>';
