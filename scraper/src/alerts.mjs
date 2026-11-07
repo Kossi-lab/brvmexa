@@ -120,6 +120,10 @@ async function main() {
     const { simNotifications } = await import('./notify-sim.mjs');
     await simNotifications({ sb, sendPush, dataDir: DATA });
   } catch (e) { failed = true; console.error('Simulateur :', e.message); }
+  try {
+    const { newsNotifications } = await import('./notify-news.mjs');
+    await newsNotifications({ sb, dataDir: DATA });
+  } catch (e) { failed = true; console.error('Actualités :', e.message); }
   if (failed) process.exitCode = 1;
 }
 

@@ -391,7 +391,8 @@
         setMsg(r.error ? tr(r.error.message) : 'Nouvel e-mail de confirmation envoyé à ' + em + '.', r.error ? 'err' : 'ok');
       });
     } else if (t.hasAttribute('data-mb-logout')) {
-      sb.auth.signOut().then(function () { store.set('bx-plan', null); mode = 'login'; render(); });
+      // « local » : se déconnecter du site ne déconnecte pas l'application sur le téléphone
+      sb.auth.signOut({ scope: 'local' }).then(function () { store.set('bx-plan', null); mode = 'login'; try { localStorage.removeItem('bx-premium'); } catch (e) { /* stockage indisponible */ } document.documentElement.classList.remove('pm-hide-premium'); render(); });
     }
   });
 
