@@ -1261,3 +1261,5 @@ html.dv-open { overflow: hidden; }
 .pw-offers { font-size: .9rem; color: var(--text); display: flex; flex-wrap: wrap; gap: 2px 14px; }
 .pw-offers span { white-space: nowrap; }
 .pw-means { font-size: .84rem; color: var(--sec); }
+.pw-secure { display: flex; align-items: flex-start; gap: 7px; margin-top: 8px !important; padding-top: 10px; border-top: 1px solid var(--border); font-size: .82rem; color: var(--sec); line-height: 1.45; }
+.pw-secure svg { flex: none; color: #16C47F; margin-top: 2px; }

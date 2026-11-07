@@ -41,6 +41,7 @@
   ];
   var CHECK = '<svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path d="M5 12.5l4.2 4.2L19 7" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>';
   var LOCK = '<svg viewBox="0 0 24 24" width="26" height="26" aria-hidden="true"><rect x="4.5" y="10.5" width="15" height="10" rx="2.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="M8 10.5V7.8a4 4 0 0 1 8 0v2.7" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>';
+  var LOCK_S = '<svg viewBox="0 0 24 24" width="15" height="15" aria-hidden="true"><rect x="4.5" y="10.5" width="15" height="10" rx="2.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="M8 10.5V7.8a4 4 0 0 1 8 0v2.7" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>';
   var modal = null, lastFocus = null;
   function closeModal() {
     if (!modal) return;
@@ -67,7 +68,7 @@
       '<h2 id="pw-title">' + esc(title) + '</h2>' +
       '<p class="pw-lead">' + esc(lead) + '</p>' +
       '<ul class="pw-list">' + REASONS.map(function (r) { return '<li>' + CHECK + '<span><b>' + esc(r[0]) + '</b> : ' + esc(r[1]) + '</span></li>'; }).join('') + '</ul>' +
-      '<div class="pw-price"><p class="pw-from">Dès <b>3\u00a0000\u00a0FCFA par mois</b></p><p class="pw-means">Sans engagement</p></div>' +
+      '<div class="pw-price"><p class="pw-from">Dès <b>3\u00a0000\u00a0FCFA par mois</b></p><p class="pw-means">Sans engagement</p><p class="pw-secure">' + LOCK_S + ' Paiement unique et sécurisé : carte bancaire, Mobile Money ou PayPal</p></div>' +
       '<div class="pw-actions"><a class="btn btn--primary" href="' + esc(memberUrl(back)) + '#offres">Devenir membre Premium</a>' +
       '<a class="btn btn--ghost" href="' + esc(memberUrl(back)) + '">Déjà membre ? Se connecter</a></div>' +
       '<p class="pw-note">Le graphique et ses outils restent gratuits.</p></div>';
