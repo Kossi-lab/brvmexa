@@ -1244,5 +1244,13 @@ html.dv-open { overflow: hidden; }
 .pm-incl .pm-pl-list li { font-size: .85rem; }
 .pm-plan:hover .pm-pl-list svg { animation: pm-tick .5s cubic-bezier(.2, .8, .2, 1) both; }
 @keyframes pm-tick { from { transform: scale(.4); opacity: 0; } }
-@media (min-width: 1101px) { .pm-plus { min-height: 128px; } }
+@media (min-width: 1101px) { .pm-plus { min-height: 112px; } }
 @media (min-width: 641px) and (max-width: 1100px) { .pm-plus { min-height: 112px; } }
+.pm-top5 li { font-size: .92rem !important; color: var(--text) !important; }
+.pm-top5 li b { color: var(--text) !important; }
+.pm-more { margin-top: 14px; }
+.pm-more summary { cursor: pointer; list-style: none; display: inline-flex; align-items: center; gap: 6px; font-size: .84rem; font-weight: 700; color: #16C47F; }
+.pm-more summary::-webkit-details-marker { display: none; }
+.pm-more summary::after { content: "+"; font-size: 1.1rem; line-height: 1; transition: transform .3s; }
+.pm-more[open] summary::after { transform: rotate(45deg); }
+.pm-more[open] { animation: pm-swap .4s ease; }
