@@ -1,0 +1,23 @@
+{
+ "name": "BRVMexa",
+ "short_name": "BRVMexa",
+ "lang": "fr",
+ "start_url": "/",
+ "scope": "/",
+ "display": "standalone",
+ "background_color": "#0A0F1A",
+ "theme_color": "#0A0F1A",
+ "description": "La Bourse régionale dans votre poche : cours de la BRVM, analyses et David, votre analyste.",
+ "icons": [
+  {
+   "src": "/assets/img/icon-512.jpg",
+   "sizes": "512x512",
+   "type": "image/jpeg"
+  },
+  {
+   "src": "/assets/img/apple-touch-icon.png",
+   "sizes": "180x180",
+   "type": "image/png"
+  }
+ ]
+}
