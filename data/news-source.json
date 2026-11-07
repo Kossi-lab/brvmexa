@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-07T01:07:59.901Z",
+ "updatedAt": "2026-11-07T04:58:17.369Z",
  "items": [
   {
    "id": "sika-65565",
@@ -2638,6 +2638,20 @@
    "symbols": [
     "BICB"
    ],
+   "status": "new",
+   "tries": 0
+  },
+  {
+   "id": "gn-1c7gznl",
+   "title": "Liste complète des actions BRVM qui verseront des dividendes en 2025",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ2xXU1FTUWFpTllMcU05WXdSMXpLc2NIOFE5RjF3c0lybTFUbHJZTDdLMzY5Z0dHMkRNVDZ3STNLQjNfQW1IVGtiM2VBU1R6UURLN2pCLWhiUTBQSjhnNlkzWndoZXlxQlJSdGNTaFQxdVhUbWVldGxZRE1KY2hQT1o0Z1BQMmQzSnVndzFseXpxTXdscS1nWnBUZTd4MFFYNVRsTE8zM3lQdGxmeFE?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2025-03-31T07:00:00.000Z",
+   "symbols": [],
    "status": "new",
    "tries": 0
   },
