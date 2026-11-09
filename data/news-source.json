@@ -1,6 +1,34 @@
 {
- "updatedAt": "2026-11-09T09:52:04.039Z",
+ "updatedAt": "2026-11-09T10:48:45.095Z",
  "items": [
+  {
+   "id": "sika-65581",
+   "title": "SIKA COMMODITIES WEEKLY 44 : Le Brent décroche de 12 % sur un pari de paix non signé",
+   "summary": "Le pétrole a dominé les matières premières cette semaine. Le Brent a décroché de 12 % en cinq séances, les marchés anti...",
+   "url": "https://www.sikafinance.com/marches/sika-commodities-weekly-44-le-brent-decroche-de-12-sur-un-pari-de-paix-non-signe_65581",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-09T09:55:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "sika-65580",
+   "title": "Côte d’Ivoire : La centrale thermique d’Atinkou porte la capacité électrique nationale à 3 337 MW",
+   "summary": "Inaugurée le 6 novembre à Jacqueville, la centrale thermique à cycle combiné de plus de 390 MW représente un investisse...",
+   "url": "https://www.sikafinance.com/marches/cote-divoire-la-centrale-thermique-datinkou-porte-la-capacite-electrique-nationale-a-3-337-mw_65580",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-09T09:43:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65579",
    "title": "BRVM / Semaine 44 : SMB CI triomphe dans un marché globalement baissier",

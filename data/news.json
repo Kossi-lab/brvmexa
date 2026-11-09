@@ -1,6 +1,55 @@
 {
- "updatedAt": "2026-11-09T09:52:04.041Z",
+ "updatedAt": "2026-11-09T10:48:45.096Z",
  "items": [
+  {
+   "id": "sika-65581",
+   "title": "Marchés des matières premières : le pétrole chute sur fond d'espoirs diplomatiques",
+   "summary": "Le cours du pétrole a enregistré une baisse hebdomadaire marquée de 12 %, entraînant dans son sillage plusieurs matières premières agricoles, alors que les marchés anticipent une désescalade entre Washington et Téhéran.",
+   "body": [
+    "Le baril de Brent a clôturé la semaine à 98,32 dollars, contre 111,69 dollars lundi, affichant un repli de 12 %. Cette tendance baissière a été alimentée par les déclarations politiques américaines et les espoirs d'un accord diplomatique avec l'Iran, malgré l'absence de signature officielle. Ce mouvement a pesé sur les produits liés à l'énergie, notamment le sucre, qui a reculé de 5,3 %, et l'huile de palme, laquelle a subi sa pire performance hebdomadaire depuis près de deux ans avec une baisse de 8,3 %.",
+    "Sur le marché du cacao, le prix à la tonne est passé de 5 503 à 5 155 dollars, atteignant un plus bas d'un mois. Ce repli de 6,3 % s'explique par l'augmentation des stocks en Europe et aux États-Unis, combinée à des arrivages en Côte d'Ivoire en hausse de 19 % par rapport à la campagne précédente. Parallèlement, les autres matières premières ont affiché des trajectoires disparates : l'arabica a perdu 3,1 % tandis que le robusta a progressé de 1,9 %, et le coton a enregistré une hausse de 1,7 %."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65581",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-09T09:55:00Z",
+   "writtenAt": "2026-11-09T10:48:36.201Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/sika-commodities-weekly-44-le-brent-decroche-de-12-sur-un-pari-de-paix-non-signe_65581",
+    "title": "SIKA COMMODITIES WEEKLY 44 : Le Brent décroche de 12 % sur un pari de paix non signé"
+   },
+   "rewritten": true
+  },
+  {
+   "id": "sika-65580",
+   "title": "Côte d'Ivoire : la centrale d'Atinkou porte la capacité électrique nationale à 3 337 MW",
+   "summary": "Inaugurée le 6 novembre à Jacqueville, la centrale thermique à cycle combiné d'Atinkou renforce l'offre énergétique ivoirienne avec une puissance de 390 MW, fruit d'un investissement de 265 milliards FCFA.",
+   "body": [
+    "La Côte d'Ivoire a franchi une étape clé de son développement énergétique avec l'inauguration, le 6 novembre 2026, de la centrale thermique d'Atinkou située à Taboth. Ce projet, porté par le groupe Eranove et la CNPS avec le soutien de bailleurs internationaux, représente un investissement total de 265 milliards FCFA. Grâce à ses 390 MW, la capacité installée du pays atteint désormais 3 337 MW, dépassant les objectifs fixés par le Plan national de développement 2021-2025.",
+    "Technologiquement avancée, cette installation utilise le cycle combiné pour optimiser l'usage du gaz naturel, affichant un rendement supérieur à 55 %. Ce procédé permet d'accroître la production tout en réduisant les émissions de CO2 et les coûts unitaires. Équipée de la première turbine de classe F d'Afrique subsaharienne et raccordée au premier poste de 400 000 volts du pays, la centrale vise à sécuriser le réseau national tout en consolidant le rôle de la Côte d'Ivoire en tant qu'exportateur d'électricité dans la sous-région.",
+    "Face à une demande en forte croissance portée par l'industrialisation et l'urbanisation, le gouvernement ivoirien multiplie les projets de diversification énergétique, incluant la biomasse, l'hydroélectricité et le solaire. Cette dynamique s'inscrit dans une stratégie de long terme visant à porter la capacité de production nationale à 11 400 MW d'ici 2040, afin de soutenir les ambitions économiques du pays."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65580",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-09T09:43:00Z",
+   "writtenAt": "2026-11-09T10:48:45.094Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/cote-divoire-la-centrale-thermique-datinkou-porte-la-capacite-electrique-nationale-a-3-337-mw_65580",
+    "title": "Côte d’Ivoire : La centrale thermique d’Atinkou porte la capacité électrique nationale à 3 337 MW"
+   },
+   "rewritten": true
+  },
   {
    "id": "sika-65579",
    "title": "BRVM : SMB CI affiche une performance positive malgré une tendance hebdomadaire baissière",
