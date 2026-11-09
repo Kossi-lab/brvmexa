@@ -1,6 +1,33 @@
 {
- "updatedAt": "2026-11-09T12:55:37.661Z",
+ "updatedAt": "2026-11-09T14:12:31.959Z",
  "items": [
+  {
+   "id": "sika-65592",
+   "title": "Côte d’Ivoire : le marché de l’internet fixe franchit le cap historique du million d’abonnés",
+   "summary": "Le secteur ivoirien de l'internet fixe a enregistré une croissance exceptionnelle au troisième trimestre 2026, dépassant le million d'abonnés, soutenu par la fibre optique et l'arrivée de Starlink.",
+   "body": [
+    "Le parc d'abonnés à l'internet fixe en Côte d'Ivoire a connu une progression annuelle de 59,9 %, atteignant 1 090 434 clients au troisième trimestre 2026. Cette dynamique est principalement portée par le déploiement de la fibre optique, qui représente près de 60 % du marché, ainsi que par l'entrée remarquée de l'opérateur satellitaire Starlink. Ce dernier a rapidement séduit 5 194 utilisateurs, se positionnant devant des acteurs locaux comme CI-Data et VIPNet.",
+    "Cette montée en puissance du haut débit se traduit par un chiffre d'affaires de 34,8 milliards FCFA pour le segment fixe, en hausse de 26,2 %. Parallèlement, l'écosystème global des télécommunications, incluant le mobile money, affiche une santé robuste avec 360,1 milliards FCFA de revenus trimestriels. Orange Côte d'Ivoire confirme son leadership, tant sur la connectivité fixe que sur les services financiers mobiles, lesquels comptent désormais 32,5 millions de comptes actifs dans le pays.",
+    "Face à la baisse des usages traditionnels comme la téléphonie fixe et les SMS, les opérateurs maintiennent un effort d'investissement soutenu. Au cours du troisième trimestre 2026, 105,8 milliards FCFA ont été injectés dans les infrastructures, permettant notamment d'étendre le réseau national de fibre optique à 38 915 kilomètres et d'accroître la capacité des câbles sous-marins."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65592",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-09T14:05:00Z",
+   "writtenAt": "2026-11-09T14:12:31.956Z",
+   "symbols": [
+    "ORAC"
+   ],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/cote-divoire-linternet-fixe-franchit-pour-la-premiere-fois-le-cap-du-million-dabonnes-avec-larrivee-de-starlink_65592",
+    "title": "Côte d’Ivoire : L’Internet fixe franchit pour la première fois le cap du million d’abonnés avec l’arrivée de Starlink"
+   },
+   "rewritten": true
+  },
   {
    "id": "sika-65587",
    "title": "ANSUT : Gilles Thierry Beugré mise sur l'efficacité des investissements numériques",
