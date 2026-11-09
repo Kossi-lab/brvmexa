@@ -1,6 +1,34 @@
 {
- "updatedAt": "2026-11-09T14:12:31.957Z",
+ "updatedAt": "2026-11-09T15:04:36.727Z",
  "items": [
+  {
+   "id": "sika-65594",
+   "title": "Afrique : la BAD ouvre les candidatures à ses bourses de master et de doctorat pour 2027 en Chine",
+   "summary": "Les étudiants africains souhaitant se spécialiser dans les domaines de l'économie bleue, des sciences marines et ...",
+   "url": "https://www.sikafinance.com/marches/afrique-la-bad-ouvre-les-candidatures-a-ses-bourses-de-master-et-de-doctorat-pour-2027-en-chine_65594",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-09T14:24:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "sika-65593",
+   "title": "Air Côte d’Ivoire lance le Club, un cercle très fermé réservé à ses voyageurs les plus fidèles",
+   "summary": "Lancé le 6 novembre 2026 au Palais WIA, le Club Air Côte d'Ivoire réunit, sur invitation uniquement, une communau...",
+   "url": "https://www.sikafinance.com/marches/air-cote-divoire-lance-le-club-un-cercle-tres-ferme-reserve-a-ses-voyageurs-les-plus-fideles_65593",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-09T14:12:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65592",
    "title": "Côte d’Ivoire : L’Internet fixe franchit pour la première fois le cap du million d’abonnés avec l’arrivée de Starlink",
