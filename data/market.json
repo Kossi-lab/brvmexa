@@ -1,124 +1,16 @@
 {
- "updatedAt": "2026-11-06T22:42:01.045Z",
- "sessionDate": "2026-11-06",
- "sessionTime": "22:30",
+ "updatedAt": "2026-11-09T09:11:06.713Z",
+ "sessionDate": "2026-11-09",
+ "sessionTime": "09:02",
  "source": "brvm.org",
- "transactionsValue": 3340785788,
+ "transactionsValue": 0,
  "capitalisationActions": 20420793814130,
- "capitalisationBonds": 13470440558879,
- "advancing": 25,
- "declining": 14,
- "unchanged": 9,
- "totalVolume": 3397825,
- "gainers": [
-  {
-   "symbol": "PALC",
-   "shortName": "Palm CI",
-   "close": 8000,
-   "change": 7.31,
-   "volume": 17058
-  },
-  {
-   "symbol": "STAC",
-   "shortName": "SETAO CI",
-   "close": 1950,
-   "change": 5.41,
-   "volume": 1551
-  },
-  {
-   "symbol": "SDSC",
-   "shortName": "Africa Global Logistics CI",
-   "close": 2930,
-   "change": 4.64,
-   "volume": 9545
-  },
-  {
-   "symbol": "CABC",
-   "shortName": "Sicable CI",
-   "close": 2790,
-   "change": 4.1,
-   "volume": 154
-  },
-  {
-   "symbol": "LNBB",
-   "shortName": "Loterie Nationale du Bénin",
-   "close": 3935,
-   "change": 3.96,
-   "volume": 229
-  }
- ],
- "losers": [
-  {
-   "symbol": "SCRC",
-   "shortName": "Sucrivoire CI",
-   "close": 1720,
-   "change": -7.03,
-   "volume": 13539
-  },
-  {
-   "symbol": "BNBC",
-   "shortName": "Bernabé CI",
-   "close": 1895,
-   "change": -3.81,
-   "volume": 679
-  },
-  {
-   "symbol": "CIEC",
-   "shortName": "CIE Côte d’Ivoire",
-   "close": 5200,
-   "change": -1.89,
-   "volume": 5829
-  },
-  {
-   "symbol": "SAFC",
-   "shortName": "SAFCA CI",
-   "close": 3750,
-   "change": -1.32,
-   "volume": 2403
-  },
-  {
-   "symbol": "SNTS",
-   "shortName": "Sonatel",
-   "close": 4000,
-   "change": -1.23,
-   "volume": 574160
-  }
- ],
- "mostActive": [
-  {
-   "symbol": "SNTS",
-   "shortName": "Sonatel",
-   "close": 4000,
-   "change": -1.23,
-   "volume": 574160
-  },
-  {
-   "symbol": "ETIT",
-   "shortName": "Ecobank Transnational (ETI)",
-   "close": 60,
-   "change": 1.69,
-   "volume": 2680449
-  },
-  {
-   "symbol": "PALC",
-   "shortName": "Palm CI",
-   "close": 8000,
-   "change": 7.31,
-   "volume": 17058
-  },
-  {
-   "symbol": "TTLS",
-   "shortName": "TotalEnergies Marketing Sénégal",
-   "close": 3700,
-   "change": 0,
-   "volume": 28895
-  },
-  {
-   "symbol": "BICB",
-   "shortName": "BIIC Bénin",
-   "close": 8100,
-   "change": 0,
-   "volume": 5026
-  }
- ]
+ "capitalisationBonds": 13444596836763,
+ "advancing": 0,
+ "declining": 0,
+ "unchanged": 48,
+ "totalVolume": 0,
+ "gainers": [],
+ "losers": [],
+ "mostActive": []
 }
