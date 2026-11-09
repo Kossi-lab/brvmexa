@@ -1,6 +1,36 @@
 {
- "updatedAt": "2026-11-09T16:12:44.785Z",
+ "updatedAt": "2026-11-09T17:10:04.630Z",
  "items": [
+  {
+   "id": "sika-65600",
+   "title": "BRVM : Sonatel rebondit avec le marché malgré la prépondérance des baisses",
+   "summary": "La BRVM ouvre la semaine sur un contraste. Alors que ses trois principaux indices terminent dans le vert, une large maj...",
+   "url": "https://www.sikafinance.com/marches/brvm-sonatel-rebondit-avec-le-marche-malgre-la-preponderance-des-baisses_65600",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-09T16:44:00Z",
+   "symbols": [
+    "SNTS"
+   ],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "sika-65599",
+   "title": "Guinée équatoriale : Comment les États-Unis sont passés de la 14e à la 1re place des clients de Malabo avec 670 milliards FCFA d'achats",
+   "summary": "Les États-Unis ont réalisé une percée spectaculaire dans le commerce extérieur de la Guinée équatoriale en 2025. ...",
+   "url": "https://www.sikafinance.com/marches/guinee-equatoriale-comment-les-etats-unis-sont-passes-de-la-14e-a-la-1re-place-des-clients-de-malabo-avec-670-milliards-fcfa-d-achats_65599",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-09T16:41:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65597",
    "title": "Santé et IA : Orange Cyber Connect diagnostique les enjeux vitaux de la protection des données médicales",

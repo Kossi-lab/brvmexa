@@ -1,6 +1,64 @@
 {
- "updatedAt": "2026-11-09T16:12:44.786Z",
+ "updatedAt": "2026-11-09T17:10:04.634Z",
  "items": [
+  {
+   "id": "sika-65600",
+   "title": "La BRVM termine en hausse grâce au soutien de Sonatel malgré une majorité de titres en repli",
+   "summary": "La Bourse régionale des valeurs mobilières entame la semaine par une progression de ses principaux indices, portée par la performance notable de Sonatel, malgré un marché globalement orienté à la baisse.",
+   "body": [
+    "La séance de ce lundi 9 novembre 2026 affiche une tendance contrastée sur le marché financier régional. Si le BRVM-Composite s'apprécie de 0,22 % à 521,88 points, le BRVM-30 et le BRVM-Prestige suivent cette dynamique avec des gains respectifs de 0,23 % et 0,13 %. Cette embellie des indicateurs masque toutefois une réalité plus fragile, puisque seulement 10 valeurs ont clôturé dans le vert contre 26 en territoire négatif.",
+    "Le titre Sonatel a été le principal moteur de cette journée, affichant une hausse de 3,75 % à 4 150 FCFA. Cette progression, qui porte sa capitalisation boursière à 150 milliards FCFA supplémentaires, a permis de contrebalancer les pressions vendeuses. Avec 434 millions FCFA de transactions, soit plus d'un quart du volume total de 1,5 milliard FCFA, l'opérateur confirme son rôle central dans l'animation des échanges.",
+    "Parmi les autres mouvements notables, NEI CEDA et ERIUM se sont distingués avec des hausses respectives de 7,03 % et 6,51 %. À l'inverse, le marché a subi des corrections marquées, notamment pour SUCRIVOIRE CI qui recule de 7,27 %, AGL CI qui perd 6,83 % et BERNABÉ CI qui cède 5,28 %."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65600",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-09T16:44:00Z",
+   "writtenAt": "2026-11-09T17:09:43.364Z",
+   "symbols": [
+    "BNBC",
+    "NEIC",
+    "SCRC",
+    "SDSC",
+    "SIVC",
+    "SNTS"
+   ],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/brvm-sonatel-rebondit-avec-le-marche-malgre-la-preponderance-des-baisses_65600",
+    "title": "BRVM : Sonatel rebondit avec le marché malgré la prépondérance des baisses"
+   },
+   "rewritten": true
+  },
+  {
+   "id": "sika-65599",
+   "title": "Commerce extérieur : les États-Unis deviennent le premier client de la Guinée équatoriale",
+   "summary": "En 2025, les États-Unis ont opéré une progression fulgurante pour devenir le principal partenaire commercial de la Guinée équatoriale, totalisant 670,02 milliards FCFA d'achats.",
+   "body": [
+    "D'après les chiffres de l'INEGE publiés en octobre 2026, les États-Unis ont bondi de la quatorzième à la première place des clients de Malabo en une année. Avec 670,02 milliards FCFA d'achats, le marché américain absorbe désormais 26,6 % des exportations équato-guinéennes, devançant la Chine qui occupait cette position en 2024.",
+    "Bien que les ventes vers la Chine aient progressé de 4,8 % pour atteindre 440,79 milliards FCFA, celle-ci se classe désormais deuxième. Le podium est complété par l'Espagne, avec 166,54 milliards FCFA, tandis que la Corée du Sud et l'Italie suivent avec respectivement 153,46 milliards et 152,08 milliards FCFA.",
+    "Cette dynamique intervient dans un contexte de baisse globale des exportations nationales, qui ont reculé de 8,7 % pour s'établir à 2 520,44 milliards FCFA en 2025. Cette tendance est notamment marquée par le repli des ventes d'hydrocarbures, qui constituent 62,8 % des exportations totales du pays.",
+    "Sur le plan bilatéral, la Guinée équatoriale affiche un excédent commercial de 551,92 milliards FCFA avec les États-Unis. Si les exportations vers ce pays ont fortement progressé, les importations en provenance du marché américain ont, quant à elles, diminué de 21,9 % sur la même période."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65599",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-09T16:41:00Z",
+   "writtenAt": "2026-11-09T17:10:04.629Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/guinee-equatoriale-comment-les-etats-unis-sont-passes-de-la-14e-a-la-1re-place-des-clients-de-malabo-avec-670-milliards-fcfa-d-achats_65599",
+    "title": "Guinée équatoriale : Comment les États-Unis sont passés de la 14e à la 1re place des clients de Malabo avec 670 milliards FCFA d'achats"
+   },
+   "rewritten": true
+  },
   {
    "id": "sika-65597",
    "title": "Sécurité des données médicales : les enjeux de la transformation numérique",
