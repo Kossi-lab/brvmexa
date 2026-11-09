@@ -1,16 +1,124 @@
 {
- "updatedAt": "2026-11-09T09:11:06.713Z",
+ "updatedAt": "2026-11-09T09:51:45.753Z",
  "sessionDate": "2026-11-09",
- "sessionTime": "09:02",
+ "sessionTime": "09:45",
  "source": "brvm.org",
- "transactionsValue": 0,
- "capitalisationActions": 20420793814130,
+ "transactionsValue": 113654360,
+ "capitalisationActions": 20423662907465,
  "capitalisationBonds": 13444596836763,
- "advancing": 0,
- "declining": 0,
- "unchanged": 48,
- "totalVolume": 0,
- "gainers": [],
- "losers": [],
- "mostActive": []
+ "advancing": 10,
+ "declining": 14,
+ "unchanged": 24,
+ "totalVolume": 154423,
+ "gainers": [
+  {
+   "symbol": "ETIT",
+   "shortName": "Ecobank Transnational (ETI)",
+   "close": 61,
+   "change": 1.67,
+   "volume": 131337
+  },
+  {
+   "symbol": "SLBC",
+   "shortName": "Solibra CI",
+   "close": 39500,
+   "change": 0.97,
+   "volume": 2
+  },
+  {
+   "symbol": "ORGT",
+   "shortName": "Oragroup Togo",
+   "close": 2675,
+   "change": 0.94,
+   "volume": 13
+  },
+  {
+   "symbol": "NEIC",
+   "shortName": "NEI-CEDA CI",
+   "close": 1860,
+   "change": 0.54,
+   "volume": 207
+  },
+  {
+   "symbol": "BNBC",
+   "shortName": "Bernabé CI",
+   "close": 1905,
+   "change": 0.53,
+   "volume": 6
+  }
+ ],
+ "losers": [
+  {
+   "symbol": "BOAM",
+   "shortName": "BOA Mali",
+   "close": 5805,
+   "change": -1.44,
+   "volume": 427
+  },
+  {
+   "symbol": "CABC",
+   "shortName": "Sicable CI",
+   "close": 2750,
+   "change": -1.43,
+   "volume": 221
+  },
+  {
+   "symbol": "PALC",
+   "shortName": "Palm CI",
+   "close": 7900,
+   "change": -1.25,
+   "volume": 657
+  },
+  {
+   "symbol": "FTSC",
+   "shortName": "Filtisac CI",
+   "close": 1700,
+   "change": -0.87,
+   "volume": 700
+  },
+  {
+   "symbol": "SGBC",
+   "shortName": "Société Générale CI",
+   "close": 39205,
+   "change": -0.73,
+   "volume": 26
+  }
+ ],
+ "mostActive": [
+  {
+   "symbol": "SNTS",
+   "shortName": "Sonatel",
+   "close": 4010,
+   "change": 0.25,
+   "volume": 6412
+  },
+  {
+   "symbol": "UNXC",
+   "shortName": "Uniwax CI",
+   "close": 2020,
+   "change": 0,
+   "volume": 6447
+  },
+  {
+   "symbol": "ETIT",
+   "shortName": "Ecobank Transnational (ETI)",
+   "close": 61,
+   "change": 1.67,
+   "volume": 131337
+  },
+  {
+   "symbol": "SIBC",
+   "shortName": "Société Ivoirienne de Banque",
+   "close": 8795,
+   "change": 0,
+   "volume": 809
+  },
+  {
+   "symbol": "BOAS",
+   "shortName": "BOA Sénégal",
+   "close": 8350,
+   "change": 0,
+   "volume": 836
+  }
+ ]
 }

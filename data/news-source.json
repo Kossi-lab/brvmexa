@@ -1,6 +1,36 @@
 {
- "updatedAt": "2026-11-09T09:11:12.867Z",
+ "updatedAt": "2026-11-09T09:52:04.039Z",
  "items": [
+  {
+   "id": "sika-65579",
+   "title": "BRVM / Semaine 44 : SMB CI triomphe dans un marché globalement baissier",
+   "summary": "La BRVM termine la semaine du 2 novembre sur une note négative, effaçant le rebond observé précédemment. Le mouv...",
+   "url": "https://www.sikafinance.com/marches/brvm-semaine-44-smb-ci-triomphe-dans-un-marche-globalement-baissier_65579",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-11-09T09:30:00Z",
+   "symbols": [
+    "SMBC"
+   ],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "sika-65578",
+   "title": "Wave remporte l’African Disrupter Award à l’AFIS 2026, une distinction qui met en lumière sa contribution à l’inclusion financière en Afrique",
+   "summary": "Ce prix vient couronner la participation de Wave aux échanges consacrés à l'accès des femmes au financement, à l'innovat...",
+   "url": "https://www.sikafinance.com/marches/wave-remporte-lafrican-disrupter-award-a-lafis-2026-une-distinction-qui-met-en-lumiere-sa-contribution-a-linclusion-financiere-en-afrique_65578",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-09T09:06:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65576",
    "title": "Sénégal : Fortes menaces sur la Loi de finances 2027, après le rejet de la Loi de finances rectificative 2026",

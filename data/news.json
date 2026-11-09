@@ -1,6 +1,56 @@
 {
- "updatedAt": "2026-11-09T09:11:12.869Z",
+ "updatedAt": "2026-11-09T09:52:04.041Z",
  "items": [
+  {
+   "id": "sika-65579",
+   "title": "BRVM : SMB CI affiche une performance positive malgré une tendance hebdomadaire baissière",
+   "summary": "La Bourse régionale des valeurs mobilières a clôturé la 44e semaine de l'année sur un repli généralisé, malgré la progression notable de l'action SMB CI.",
+   "body": [
+    "Au terme de la semaine du 2 novembre 2026, le marché financier régional a enregistré une tendance baissière. Ce mouvement de repli a mis fin à la dynamique de reprise qui avait été observée lors de la période précédente.",
+    "Dans ce contexte de marché globalement orienté à la baisse, le titre SMB CI s'est distingué en parvenant à tirer son épingle du jeu et à enregistrer une performance positive."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65579",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-09T09:30:00Z",
+   "writtenAt": "2026-11-09T09:51:54.645Z",
+   "symbols": [
+    "SMBC"
+   ],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/brvm-semaine-44-smb-ci-triomphe-dans-un-marche-globalement-baissier_65579",
+    "title": "BRVM / Semaine 44 : SMB CI triomphe dans un marché globalement baissier"
+   },
+   "rewritten": true
+  },
+  {
+   "id": "sika-65578",
+   "title": "Wave reçoit l'African Disrupter Award lors de l'édition 2026 de l'AFIS",
+   "summary": "La fintech Wave Mobile Money a été distinguée par le prix « African Disrupter Award » à Luanda, saluant son rôle majeur dans l'inclusion financière et la simplification des services numériques en Afrique.",
+   "body": [
+    "Lors de l'Africa Financial Summit (AFIS) qui s'est déroulé à Luanda en Angola, Wave Mobile Money a été récompensé par l'African Disrupter Award. Ce prix met à l'honneur les entreprises dont les solutions innovantes transforment les modèles de marché traditionnels tout en générant un impact social significatif.",
+    "Présente dans 11 pays avec plus de 25 millions d'utilisateurs actifs, l'entreprise a profité de cet événement pour dialoguer avec les régulateurs et les acteurs du secteur. Les échanges ont notamment porté sur l'accès des femmes au crédit, la régulation des stablecoins, la traçabilité des paiements et le renforcement de la confiance dans les systèmes financiers numériques."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65578",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-09T09:06:00Z",
+   "writtenAt": "2026-11-09T09:52:04.039Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/wave-remporte-lafrican-disrupter-award-a-lafis-2026-une-distinction-qui-met-en-lumiere-sa-contribution-a-linclusion-financiere-en-afrique_65578",
+    "title": "Wave remporte l’African Disrupter Award à l’AFIS 2026, une distinction qui met en lumière sa contribution à l’inclusion financière en Afrique"
+   },
+   "rewritten": true
+  },
   {
    "id": "sika-65576",
    "title": "Sénégal : Incertitudes budgétaires après le rejet de la loi de finances 2027",
