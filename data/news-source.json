@@ -1,6 +1,36 @@
 {
- "updatedAt": "2026-11-09T17:10:04.630Z",
+ "updatedAt": "2026-11-09T18:56:51.359Z",
  "items": [
+  {
+   "id": "sika-65602",
+   "title": "NSIA Banque accueille la première visite du programme \" champions nationaux \"",
+   "summary": "NSIA Banque Côte d'Ivoire a reçu, ce lundi 2 novembre, M. Ibrahim Kalil KONATÉ, Ministre du Commerc...",
+   "url": "https://www.sikafinance.com/marches/nsia-banque-accueille-la-premiere-visite-du-programme-champions-nationaux-_65602",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-09T17:17:00Z",
+   "symbols": [
+    "NSBC"
+   ],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "sika-65601",
+   "title": "UMOA : Abidjan rafle la majorité des profits bancaires, mais quelles banques gagnent le plus par franc encaissé ?",
+   "summary": "Abidjan concentre l'essentiel des profits bancaires de l'UEMOA, tandis que Dakar s'impose en challenger et que le Sahel ...",
+   "url": "https://www.sikafinance.com/marches/umoa-abidjan-rafle-la-majorite-des-profits-bancaires-mais-quelles-banques-gagnent-le-plus-par-franc-encaisse-_65601",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-11-09T17:14:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65600",
    "title": "BRVM : Sonatel rebondit avec le marché malgré la prépondérance des baisses",
