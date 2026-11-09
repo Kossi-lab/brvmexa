@@ -1,6 +1,34 @@
 {
- "updatedAt": "2026-11-09T11:48:51.311Z",
+ "updatedAt": "2026-11-09T12:55:37.657Z",
  "items": [
+  {
+   "id": "sika-65587",
+   "title": "Gilles Thierry Beugré, DG de l’ANSUT : ‘’Chaque franc engagé doit produire un résultat mesurable’’",
+   "summary": "Gilles Thierry Beugré, Directeur Général de l'Agence nationale du service universel des télécommunications/TIC (ANSUT) :...",
+   "url": "https://www.sikafinance.com/marches/gilles-thierry-beugre-dg-de-lansut-chaque-franc-engage-doit-produire-un-resultat-mesurable_65587",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-09T11:56:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "sika-65586",
+   "title": "Côte d’Ivoire : CODIVAL célèbre 50 ans d’activité sous le signe de la confiance et de l’innovation",
+   "summary": "Ce 5 novembre 2026, dans une salle spécialement décorée aux couleurs de son cinquantenaire, CODIVAL a réuni ses clients...",
+   "url": "https://www.sikafinance.com/marches/cote-divoire-codival-celebre-50-ans-dactivite-sous-le-signe-de-la-confiance-et-de-linnovation_65586",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-09T11:43:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65581",
    "title": "SIKA COMMODITIES WEEKLY 44 : Le Brent décroche de 12 % sur un pari de paix non signé",
@@ -144,22 +172,6 @@
    "tries": 1
   },
   {
-   "id": "sika-65562",
-   "title": "Clôture BRVM : Ecobank CI propulse la capitalisation avec un gain de près de 30 milliards FCFA",
-   "summary": "Après plusieurs séances de repli, la Bourse régionale des valeurs mobilières (BRVM) signe un rebond à l'occasion de sa ...",
-   "url": "https://www.sikafinance.com/marches/cloture-brvm-ecobank-ci-propulse-la-capitalisation-avec-un-gain-de-pres-de-30-milliards-fcfa_65562",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-06T17:21:00Z",
-   "symbols": [
-    "ECOC"
-   ],
-   "status": "done",
-   "tries": 1
-  },
-  {
    "id": "sika-65560",
    "title": "Congo : Plus de 1 132 milliards FCFA d'emprunts et de titres publics programmés en 2027",
    "summary": "La République du Congo entend s'appuyer largement sur le marché des titres publics de la zone CEMAC pour financer son b...",
@@ -170,6 +182,22 @@
    "premium": false,
    "publishedAt": "2026-11-06T16:32:00Z",
    "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "gn-1h8662y",
+   "title": "Clôture BRVM : Ecobank CI propulse la capitalisation avec un gain de près de 30 milliards FCFA",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVTlwT2M0WDI3cVpqR1pMWnlDeGY1Nl9rQ01PVURBN1dQUU1Ja2lsb3BTWWhtWDZLRTdCWFJvZFNHMmJFbEdNZWZFNDBuT1dyZXBybWx5WE9EeUJQUUwwQlFtVWhSMlJPZ3dicWFUWVdpVW1QdVhjUjNKY0tDcDdtYVBjeW5Ib3oxZ2VHY3lpMEd4RW0wbDBnNTNpTzh2MXhWWVB1R200YWptLUY4Sy1wQ292MzNQcllWQ242N3E1Nkt4R2lrMzUxSldjdnFVZE0?oc=5",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-06T16:21:15.000Z",
+   "symbols": [
+    "ECOC"
+   ],
    "status": "done",
    "tries": 1
   },
