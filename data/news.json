@@ -1,6 +1,30 @@
 {
- "updatedAt": "2026-11-09T15:04:36.729Z",
+ "updatedAt": "2026-11-09T16:12:44.786Z",
  "items": [
+  {
+   "id": "sika-65597",
+   "title": "Sécurité des données médicales : les enjeux de la transformation numérique",
+   "summary": "Lors de l'événement Orange Cyber Connect, des experts ont analysé les risques liés à la numérisation des dossiers de santé face à la montée des cybermenaces et de l'intelligence artificielle.",
+   "body": [
+    "Le 5 novembre 2026, la première édition d'Orange Cyber Connect a mis en lumière les défis de la protection des données de santé. Si la dématérialisation, adoptée par des structures comme la MUGEFCI, améliore l'efficacité clinique, elle expose les établissements à une vulnérabilité accrue. L'interconnexion des systèmes et l'usage de l'IA multiplient les failles, faisant des dossiers médicaux des cibles de choix pour la cybercriminalité en raison de leur valeur durable sur le marché noir.",
+    "Au-delà des enjeux financiers et réputationnels, la sécurité informatique est devenue une priorité médicale. Une cyberattaque peut paralyser les soins, comme l'a illustré l'incident à l'Établissement français du sang début novembre 2026. Face à ces risques, l'ARTCI insiste sur l'impératif de conformité réglementaire, rappelant que la protection de la vie privée reste le socle indispensable de la confiance numérique dans le secteur de la santé."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65597",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-09T15:58:00Z",
+   "writtenAt": "2026-11-09T16:12:44.784Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/sante-et-ia-orange-cyber-connect-diagnostique-les-enjeux-vitaux-de-la-protection-des-donnees-medicales_65597",
+    "title": "Santé et IA : Orange Cyber Connect diagnostique les enjeux vitaux de la protection des données médicales"
+   },
+   "rewritten": true
+  },
   {
    "id": "sika-65594",
    "title": "La BAD lance ses bourses d'études 2027 en Chine pour l'économie bleue",
