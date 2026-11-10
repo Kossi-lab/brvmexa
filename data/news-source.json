@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-10T16:54:35.516Z",
+ "updatedAt": "2026-11-10T17:50:08.015Z",
  "items": [
+  {
+   "id": "sika-65633",
+   "title": "Nigeria : Dangote Cement abandonne son projet de cotation à Londres",
+   "summary": "Le groupe nigérian Dangote Cement renonce à son projet de cotation secondaire à la Bourse de Londres. Annoncée ce 10 no...",
+   "url": "https://www.sikafinance.com/marches/nigeria-dangote-cement-abandonne-son-projet-de-cotation-a-londres_65633",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-10T17:37:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "sika-65634",
+   "title": "Fonction publique ivoirienne : 404 000 FCFA de salaire moyen, mais combien touchent réellement les hauts cadres ?",
+   "summary": "Dans l'administration publique ivoirienne, les rémunérations ont progressivement retrouvé une dynamique haussière après...",
+   "url": "https://www.sikafinance.com/marches/fonction-publique-ivoirienne-404-000-fcfa-de-salaire-moyen-mais-combien-touchent-reellement-les-hauts-cadres-_65634",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-11-10T17:23:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "sika-65632",
+   "title": "Sénégal : L’IFC s’allie à Tolbi pour faciliter l’accès au financement de 2 millions d’agriculteurs d’ici 2030",
+   "summary": "L'accès au financement et aux marchés demeure un défi majeur pour les petits exploitants agricoles en Afrique de l'Oues...",
+   "url": "https://www.sikafinance.com/marches/senegal-lifc-sallie-a-tolbi-pour-faciliter-lacces-au-financement-de-2-millions-dagriculteurs-dici-2030_65632",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-10T16:51:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65630",
    "title": "BRVM : Le marché décroche de 1,74 %, les télécoms en première ligne",
@@ -45,9 +87,9 @@
   },
   {
    "id": "sika-65626",
-   "title": "Côte d’Ivoire : La production de cacao bondit de 58,6% à fin juin, sur fond de performances agricoles contrastées",
+   "title": "Côte d’Ivoire : Le broyage du cacao en hausse de 25% au 1er semestre 2026, porté par les investissements industriels",
    "summary": "Dans les champs ivoiriens, les récoltes ne suivent pas toutes la même trajectoire. À fin juin 2026, le cacao et ...",
-   "url": "https://www.sikafinance.com/marches/cote-divoire-la-production-de-cacao-bondit-de-58-6-a-fin-juin-sur-fond-de-performances-agricoles-contrastees_65626",
+   "url": "https://www.sikafinance.com/marches/cote-divoire-le-broyage-du-cacao-en-hausse-de-25-au-1er-semestre-2026-porte-par-les-investissements-industriels_65626",
    "image": null,
    "source": "Sika Finance",
    "category": "Marchés",
