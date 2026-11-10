@@ -1,6 +1,34 @@
 {
- "updatedAt": "2026-11-10T15:29:43.331Z",
+ "updatedAt": "2026-11-10T16:23:24.612Z",
  "items": [
+  {
+   "id": "sika-65627",
+   "title": "Congo : Dangote Cement porte sa part de marché à 73% grâce à une hausse de 11,9% de ses ventes",
+   "summary": "Le cimentier nigérian Dangote Cement renforce sa position sur le marché congolais. Selon ses résultats financiers publi...",
+   "url": "https://www.sikafinance.com/marches/congo-dangote-cement-porte-sa-part-de-marche-a-73-grace-a-une-hausse-de-11-9-de-ses-ventes_65627",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-10T16:08:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "sika-65626",
+   "title": "Côte d’Ivoire : La production de cacao bondit de 58,6% à fin juin, sur fond de performances agricoles contrastées",
+   "summary": "Dans les champs ivoiriens, les récoltes ne suivent pas toutes la même trajectoire. À fin juin 2026, le cacao et ...",
+   "url": "https://www.sikafinance.com/marches/cote-divoire-la-production-de-cacao-bondit-de-58-6-a-fin-juin-sur-fond-de-performances-agricoles-contrastees_65626",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-11-10T15:36:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65625",
    "title": "Gouvernance : La BOAD décroche la certification internationale ISO 37001 pour son dispositif anticorruption",
