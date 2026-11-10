@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-10T09:49:01.025Z",
+ "updatedAt": "2026-11-10T10:47:07.955Z",
  "items": [
+  {
+   "id": "sika-65614",
+   "title": "Politiques publiques : La Côte d’Ivoire deuxième au classement CPIA",
+   "summary": "La Côte d'Ivoire occupe la deuxième place du Classement annuel des politiques publiques établi par la Banque mond...",
+   "url": "https://www.sikafinance.com/marches/politiques-publiques-la-cote-divoire-deuxieme-au-classement-cpia_65614",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-10T09:50:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65610",
    "title": "Entrepreneuriat et IA : À Lomé, 18 pays africains réclament un nouveau contrat de confiance avec les investisseurs",
@@ -17,9 +31,9 @@
   },
   {
    "id": "sika-65611",
-   "title": "Sénégal : Le secondaire et le tertiaire accusent un net repli en août 2026",
+   "title": "Sénégal : L’industrie et les services accusent un net repli en août 2026",
    "summary": "Au Sénégal, la Direction de la prévision et des études économiques (DPEE) a publié, le 9 novembre 2026, sa note de conj...",
-   "url": "https://www.sikafinance.com/marches/senegal-le-secondaire-et-le-tertiaire-accusent-un-net-repli-en-aout-2026_65611",
+   "url": "https://www.sikafinance.com/marches/senegal-lindustrie-et-les-services-accusent-un-net-repli-en-aout-2026_65611",
    "image": null,
    "source": "Sika Finance",
    "category": "Marchés",
