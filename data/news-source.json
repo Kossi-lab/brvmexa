@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-10T08:57:05.328Z",
+ "updatedAt": "2026-11-10T09:49:01.025Z",
  "items": [
+  {
+   "id": "sika-65610",
+   "title": "Entrepreneuriat et IA : À Lomé, 18 pays africains réclament un nouveau contrat de confiance avec les investisseurs",
+   "summary": "Après dix années d'expansion rapide des incubateurs, des accélérateurs et des technopôles sur le continent, l'Afr...",
+   "url": "https://www.sikafinance.com/marches/entrepreneuriat-et-ia-a-lome-18-pays-africains-reclament-un-nouveau-contrat-de-confiance-avec-les-investisseurs_65610",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-10T09:41:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "sika-65611",
+   "title": "Sénégal : Le secondaire et le tertiaire accusent un net repli en août 2026",
+   "summary": "Au Sénégal, la Direction de la prévision et des études économiques (DPEE) a publié, le 9 novembre 2026, sa note de conj...",
+   "url": "https://www.sikafinance.com/marches/senegal-le-secondaire-et-le-tertiaire-accusent-un-net-repli-en-aout-2026_65611",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-10T09:39:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "sika-65608",
+   "title": "Côte d'Ivoire : NSIA Banque signe un partenariat avec l'Ordre des urbanistes pour accompagner les professionnels de l'urbanisme",
+   "summary": "NSIA Banque Côte d'Ivoire et l'Ordre National des Urbanistes de Côte d'Ivoire (ONUCI) ont signé ce jour une...",
+   "url": "https://www.sikafinance.com/marches/cote-d-ivoire-nsia-banque-signe-un-partenariat-avec-l-ordre-des-urbanistes-pour-accompagner-les-professionnels-de-l-urbanisme_65608",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-10T09:09:00Z",
+   "symbols": [
+    "NSBC"
+   ],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65606",
    "title": "PIRME : La Côte d’Ivoire veut devenir une puissance extractive et énergétique d’ici 2040",
