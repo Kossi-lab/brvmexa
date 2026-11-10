@@ -1,16 +1,23 @@
 {
- "updatedAt": "2026-11-10T14:46:15.058Z",
+ "updatedAt": "2026-11-10T15:29:27.259Z",
  "sessionDate": "2026-11-10",
- "sessionTime": "14:30",
+ "sessionTime": "15:15",
  "source": "brvm.org",
- "transactionsValue": 4839919296,
- "capitalisationActions": 20077210946296,
+ "transactionsValue": 4854542446,
+ "capitalisationActions": 20109990331795,
  "capitalisationBonds": 13431462223853,
- "advancing": 11,
- "declining": 28,
- "unchanged": 9,
- "totalVolume": 1110852,
+ "advancing": 13,
+ "declining": 25,
+ "unchanged": 10,
+ "totalVolume": 1151896,
  "gainers": [
+  {
+   "symbol": "PRSC",
+   "shortName": "Tractafric Motors CI",
+   "close": 3800,
+   "change": 5.12,
+   "volume": 519
+  },
   {
    "symbol": "SDSC",
    "shortName": "Africa Global Logistics CI",
@@ -23,7 +30,7 @@
    "shortName": "Sucrivoire CI",
    "close": 1650,
    "change": 3.45,
-   "volume": 11476
+   "volume": 11930
   },
   {
    "symbol": "ECOC",
@@ -38,13 +45,6 @@
    "close": 12545,
    "change": 1.99,
    "volume": 481
-  },
-  {
-   "symbol": "TTLS",
-   "shortName": "TotalEnergies Marketing Sénégal",
-   "close": 3700,
-   "change": 1.37,
-   "volume": 2524
   }
  ],
  "losers": [
@@ -54,6 +54,13 @@
    "close": 1700,
    "change": -5.56,
    "volume": 1191
+  },
+  {
+   "symbol": "ORGT",
+   "shortName": "Oragroup Togo",
+   "close": 2505,
+   "change": -5.47,
+   "volume": 1466
   },
   {
    "symbol": "ORAC",
@@ -75,13 +82,6 @@
    "close": 31000,
    "change": -3.73,
    "volume": 931
-  },
-  {
-   "symbol": "SNTS",
-   "shortName": "Sonatel",
-   "close": 4000,
-   "change": -3.61,
-   "volume": 270403
   }
  ],
  "mostActive": [
@@ -97,14 +97,14 @@
    "shortName": "Société Générale CI",
    "close": 38900,
    "change": -0.26,
-   "volume": 2696
+   "volume": 2721
   },
   {
    "symbol": "BOAC",
    "shortName": "BOA Côte d’Ivoire",
    "close": 11940,
    "change": -0.25,
-   "volume": 5786
+   "volume": 5836
   },
   {
    "symbol": "SIBC",
@@ -114,11 +114,11 @@
    "volume": 6283
   },
   {
-   "symbol": "ORAC",
-   "shortName": "Orange Côte d’Ivoire",
-   "close": 20000,
-   "change": -4.76,
-   "volume": 2197
+   "symbol": "ETIT",
+   "shortName": "Ecobank Transnational (ETI)",
+   "close": 60,
+   "change": 1.69,
+   "volume": 765580
   }
  ]
 }
