@@ -1,6 +1,39 @@
 {
- "updatedAt": "2026-11-10T16:23:24.614Z",
+ "updatedAt": "2026-11-10T16:54:35.519Z",
  "items": [
+  {
+   "id": "sika-65630",
+   "title": "Repli généralisé à la BRVM plombée par le secteur des télécoms",
+   "summary": "La Bourse régionale a clôturé en nette baisse, entraînée par le repli de ses trois indices phares et une forte pression sur les valeurs télécoms.",
+   "body": [
+    "La Bourse régionale a achevé sa cotation sur une tendance nettement négative, touchant l'ensemble de ses indicateurs principaux. L'indice BRVM-Composite a reculé de 1,74 % pour s'établir à 512,81 points, perdant ainsi 9,07 points. Les indices BRVM-30 et BRVM-Prestige ont également fini dans le rouge, chutant respectivement de 1,94 % à 247,47 points et de 1,73 % à 191,60 points. La balance des variations a penché en faveur des valeurs en repli, avec 25 actions orientées à la baisse contre 13 progressions.",
+    "Le secteur des télécommunications a particulièrement pesé sur la tendance, à l'image d'Orange Côte d'Ivoire qui a cédé 4,76 % à 20 000 FCFA. Les replis combinés de cet opérateur et de Sonatel Sénégal se sont traduits par une perte de capitalisation d'environ 150 milliards FCFA pour chacune des deux entreprises, l'opérateur ivoirien enregistrant précisément une baisse de 150,65 milliards FCFA. Parmi les plus fortes baisses de la séance figurent également Erium Côte d'Ivoire, en recul de 5,56 % à 1 700 FCFA, et Oragroup Togo, qui perd 5,47 % à 2 505 FCFA.",
+    "En sens inverse, quelques titres ont réussi à tirer leur épingle du jeu. Tractafric Motors CI s'est octroyé la meilleure performance de la journée en progressant de 5,12 % à 3 800 FCFA, suivie par AGL en hausse de 4,21 % à 2 845 FCFA et Sucrivoire CI qui s'adjuge 3,45 % à 1 650 FCFA.",
+    "Du côté des liquidités, le volume global des transactions a atteint 1,96 milliard FCFA. Sonatel Sénégal a capté l'essentiel de cette activité avec 1,11 milliard FCFA, représentant à elle seule 56,63 % de la valeur totale des échanges de la séance."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65630",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-10T16:34:00Z",
+   "writtenAt": "2026-11-10T16:54:26.086Z",
+   "symbols": [
+    "ORAC",
+    "ORGT",
+    "PRSC",
+    "SCRC",
+    "SIVC",
+    "SNTS"
+   ],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/brvm-le-marche-decroche-de-1-74--les-telecoms-en-premiere-ligne_65630",
+    "title": "BRVM : Le marché décroche de 1,74 %, les télécoms en première ligne"
+   },
+   "rewritten": true
+  },
   {
    "id": "sika-65627",
    "title": "Dangote Cement consolide sa domination au Congo avec une part de marché de 73 %",
@@ -23,6 +56,31 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/congo-dangote-cement-porte-sa-part-de-marche-a-73-grace-a-une-hausse-de-11-9-de-ses-ventes_65627",
     "title": "Congo : Dangote Cement porte sa part de marché à 73% grâce à une hausse de 11,9% de ses ventes"
+   },
+   "rewritten": true
+  },
+  {
+   "id": "sika-65629",
+   "title": "Le Nigeria initie un projet pour lier son marché financier à l'UEMOA et au Ghana",
+   "summary": "Abuja souhaite fluidifier les investissements transfrontaliers en Afrique de l'Ouest à travers un rapprochement des places financières du Nigeria, du Ghana et de l'UEMOA.",
+   "body": [
+    "Le ministre nigérian des Finances, Taiwo Oyedele, a dévoilé le 10 novembre 2026 à Lagos un projet visant à interconnecter les bourses du Nigeria, du Ghana et des huit nations membres de l'UEMOA. Cette stratégie cherche à surmonter la fragmentation des places financières régionales pour stimuler la mobilisation de capitaux.",
+    "Pour simplifier les démarches, le plan suggère l'instauration d'un passeport régional et d'un identifiant unique pour les investisseurs, évitant ainsi la multiplication des procédures administratives d'un pays à l'autre. De plus, les infrastructures de transaction et de paiement seraient reliées afin de régler les opérations directement en monnaies locales, tout en s'appuyant sur des outils existants comme le PAPSS.",
+    "Par ailleurs, le Nigeria ambitionne de porter son propre marché des capitaux à un minimum de 1 000 milliards de dollars d'ici dix ans et de décrocher une notation de catégorie investissement d'ici trois ans. Cette intégration doit permettre aux entreprises et aux États de mobiliser des financements au-delà de leurs frontières nationales, notamment pour des projets d'infrastructures d'envergure."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65629",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-10T16:05:00Z",
+   "writtenAt": "2026-11-10T16:54:35.516Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/nigeria-un-projet-pour-connecter-son-marche-financier-a-ceux-de-luemoa-et-du-ghana_65629",
+    "title": "Nigeria : Un projet pour connecter son marché financier à ceux de l’UEMOA et du Ghana"
    },
    "rewritten": true
   },

@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-10T16:23:24.612Z",
+ "updatedAt": "2026-11-10T16:54:35.516Z",
  "items": [
+  {
+   "id": "sika-65630",
+   "title": "BRVM : Le marché décroche de 1,74 %, les télécoms en première ligne",
+   "summary": "La BRVM termine la séance en nette baisse, avec un repli simultané de ses trois principaux indices. Le BRVM-Composite a...",
+   "url": "https://www.sikafinance.com/marches/brvm-le-marche-decroche-de-1-74--les-telecoms-en-premiere-ligne_65630",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-10T16:34:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65627",
    "title": "Congo : Dangote Cement porte sa part de marché à 73% grâce à une hausse de 11,9% de ses ventes",
@@ -11,6 +25,20 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-11-10T16:08:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "sika-65629",
+   "title": "Nigeria : Un projet pour connecter son marché financier à ceux de l’UEMOA et du Ghana",
+   "summary": "Le Nigeria veut faciliter les investissements entre les marchés financiers d'Afrique de l'Ouest en permettant aux inves...",
+   "url": "https://www.sikafinance.com/marches/nigeria-un-projet-pour-connecter-son-marche-financier-a-ceux-de-luemoa-et-du-ghana_65629",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-10T16:05:00Z",
    "symbols": [],
    "status": "done",
    "tries": 1
