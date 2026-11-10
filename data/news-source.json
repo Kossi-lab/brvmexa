@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-10T11:37:20.091Z",
+ "updatedAt": "2026-11-10T12:35:39.047Z",
  "items": [
+  {
+   "id": "sika-65618",
+   "title": "Burkina Faso : Un nouveau partenariat avec l’ONU pour accélérer les ambitions de développement à l’horizon 2030",
+   "summary": "Le Burkina Faso entend davantage orienter l'appui des Nations Unies vers ses priorités économiques, sociales et sécurit...",
+   "url": "https://www.sikafinance.com/marches/burkina-faso-un-nouveau-partenariat-avec-lonu-pour-accelerer-les-ambitions-de-developpement-a-lhorizon-2030_65618",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-10T11:59:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65616",
    "title": "À Abidjan, THE FINTECH EVENT mise sur les partenariats pour faire grandir les fintechs francophones",
@@ -12,8 +26,8 @@
    "premium": false,
    "publishedAt": "2026-11-10T10:52:00Z",
    "symbols": [],
-   "status": "new",
-   "tries": 1
+   "status": "done",
+   "tries": 2
   },
   {
    "id": "sika-65614",
