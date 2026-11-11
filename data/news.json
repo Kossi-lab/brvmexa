@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-11T12:43:12.426Z",
+ "updatedAt": "2026-11-11T13:55:48.697Z",
  "items": [
   {
    "id": "sika-65647",
@@ -46,6 +46,30 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/nigeria-la-raffinerie-dangote-seduit-les-investisseurs-avec-4-1-milliards-usd-de-souscriptions-a-lipo_65646",
     "title": "Nigeria : La raffinerie Dangote séduit les investisseurs avec 4,1 milliards USD de souscriptions à l’IPO"
+   },
+   "rewritten": true
+  },
+  {
+   "id": "sika-65648",
+   "title": "La Côte d'Ivoire renforce son intégrité financière après sa sortie de la liste grise du GAFI",
+   "summary": "Sortie de la liste grise du GAFI le 30 octobre 2026, la Côte d'Ivoire consolide son architecture financière pour mieux contrer le financement du terrorisme et rassurer les investisseurs internationaux.",
+   "body": [
+    "Le Groupe d'action financière (GAFI) a officiellement retiré la Côte d'Ivoire de sa liste grise lors de sa plénière à Paris. Cette décision, actée le 30 octobre 2026, valide les progrès significatifs du pays dans la lutte contre le blanchiment de capitaux et le financement de la prolifération. Pour le vice-Premier ministre et ministre de la Défense, Téné Birahima Ouattara, cette étape marque une avancée stratégique majeure dans la sécurisation du système financier national.",
+    "Au-delà de la réputation, ce dispositif renforcé permet aux autorités de mieux détecter les flux suspects au sein des banques et des circuits informels. En améliorant la qualité du renseignement financier et la coopération internationale, le pays se dote de moyens accrus pour anticiper les menaces. Cette stabilité accrue vise également à renforcer la confiance des partenaires économiques, facilitant ainsi les transactions internationales pour l'État et le secteur privé."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65648",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-11T12:02:00Z",
+   "writtenAt": "2026-11-11T13:55:48.695Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/financement-du-terrorisme-la-cote-divoire-renforce-son-bouclier-financier-apres-sa-sortie-de-la-liste-grise-du-gafi_65648",
+    "title": "Financement du terrorisme : La Côte d’Ivoire renforce son bouclier financier après sa sortie de la liste grise du GAFI"
    },
    "rewritten": true
   },

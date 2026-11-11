@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-11T12:43:12.425Z",
+ "updatedAt": "2026-11-11T13:55:48.695Z",
  "items": [
   {
    "id": "sika-65647",
@@ -25,6 +25,20 @@
    "category": "Marchés",
    "premium": true,
    "publishedAt": "2026-11-11T12:03:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "sika-65648",
+   "title": "Financement du terrorisme : La Côte d’Ivoire renforce son bouclier financier après sa sortie de la liste grise du GAFI",
+   "summary": "Pour le vice-Premier ministre et ministre de la Défense, Téné Birahima Ouattara, le retrait de la Côte d'Ivoire d...",
+   "url": "https://www.sikafinance.com/marches/financement-du-terrorisme-la-cote-divoire-renforce-son-bouclier-financier-apres-sa-sortie-de-la-liste-grise-du-gafi_65648",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-11T12:02:00Z",
    "symbols": [],
    "status": "done",
    "tries": 1
