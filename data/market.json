@@ -1,124 +1,16 @@
 {
- "updatedAt": "2026-11-11T08:57:08.002Z",
- "sessionDate": "2026-11-10",
- "sessionTime": "22:45",
+ "updatedAt": "2026-11-11T09:50:07.576Z",
+ "sessionDate": "2026-11-11",
+ "sessionTime": "09:45",
  "source": "brvm.org",
- "transactionsValue": 4854542446,
+ "transactionsValue": 0,
  "capitalisationActions": 20109990331795,
  "capitalisationBonds": 13431462223853,
- "advancing": 13,
- "declining": 25,
- "unchanged": 10,
- "totalVolume": 1151896,
- "gainers": [
-  {
-   "symbol": "PRSC",
-   "shortName": "Tractafric Motors CI",
-   "close": 3800,
-   "change": 5.12,
-   "volume": 519
-  },
-  {
-   "symbol": "SDSC",
-   "shortName": "Africa Global Logistics CI",
-   "close": 2845,
-   "change": 4.21,
-   "volume": 10419
-  },
-  {
-   "symbol": "SCRC",
-   "shortName": "Sucrivoire CI",
-   "close": 1650,
-   "change": 3.45,
-   "volume": 11930
-  },
-  {
-   "symbol": "ECOC",
-   "shortName": "Ecobank Côte d’Ivoire",
-   "close": 15845,
-   "change": 2.16,
-   "volume": 762
-  },
-  {
-   "symbol": "SDCC",
-   "shortName": "SODECI",
-   "close": 12545,
-   "change": 1.99,
-   "volume": 481
-  }
- ],
- "losers": [
-  {
-   "symbol": "SIVC",
-   "shortName": "Erium CI",
-   "close": 1700,
-   "change": -5.56,
-   "volume": 1191
-  },
-  {
-   "symbol": "ORGT",
-   "shortName": "Oragroup Togo",
-   "close": 2505,
-   "change": -5.47,
-   "volume": 1466
-  },
-  {
-   "symbol": "ORAC",
-   "shortName": "Orange Côte d’Ivoire",
-   "close": 20000,
-   "change": -4.76,
-   "volume": 2197
-  },
-  {
-   "symbol": "FTSC",
-   "shortName": "Filtisac CI",
-   "close": 1625,
-   "change": -4.13,
-   "volume": 1251
-  },
-  {
-   "symbol": "CBIBF",
-   "shortName": "Coris Bank International",
-   "close": 31000,
-   "change": -3.73,
-   "volume": 931
-  }
- ],
- "mostActive": [
-  {
-   "symbol": "SNTS",
-   "shortName": "Sonatel",
-   "close": 4000,
-   "change": -3.61,
-   "volume": 270403
-  },
-  {
-   "symbol": "SGBC",
-   "shortName": "Société Générale CI",
-   "close": 38900,
-   "change": -0.26,
-   "volume": 2721
-  },
-  {
-   "symbol": "BOAC",
-   "shortName": "BOA Côte d’Ivoire",
-   "close": 11940,
-   "change": -0.25,
-   "volume": 5836
-  },
-  {
-   "symbol": "SIBC",
-   "shortName": "Société Ivoirienne de Banque",
-   "close": 8800,
-   "change": 0,
-   "volume": 6283
-  },
-  {
-   "symbol": "ETIT",
-   "shortName": "Ecobank Transnational (ETI)",
-   "close": 60,
-   "change": 1.69,
-   "volume": 765580
-  }
- ]
+ "advancing": 0,
+ "declining": 0,
+ "unchanged": 48,
+ "totalVolume": 0,
+ "gainers": [],
+ "losers": [],
+ "mostActive": []
 }
