@@ -1,6 +1,36 @@
 {
- "updatedAt": "2026-11-11T10:51:12.176Z",
+ "updatedAt": "2026-11-11T11:48:03.943Z",
  "items": [
+  {
+   "id": "sika-65644",
+   "title": "BIIC Bénin : Le résultat net progresse de 64 % à fin septembre 2026",
+   "summary": "Les résultats du troisième trimestre 2026 de la Banque Internationale pour l'Industrie et le Commerce (BIIC) font resso...",
+   "url": "https://www.sikafinance.com/marches/biic-benin-le-resultat-net-progresse-de-64-a-fin-septembre-2026_65644",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-11-11T11:40:00Z",
+   "symbols": [
+    "BICB"
+   ],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "sika-65643",
+   "title": "Le Ghana découvre des hydrocarbures dans un nouveau type de roche au large de ses côtes",
+   "summary": "Le Ghana dispose d'une nouvelle possibilité pour rechercher du pétrole et du gaz dans ses eaux offshore. Une compagnie ...",
+   "url": "https://www.sikafinance.com/marches/le-ghana-decouvre-des-hydrocarbures-dans-un-nouveau-type-de-roche-au-large-de-ses-cotes_65643",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-11T11:00:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65640",
    "title": "Sénégal : Les prix à la consommation progressent de 1,6 % dans un contexte économique tendu",
