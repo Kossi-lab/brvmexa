@@ -1,6 +1,34 @@
 {
- "updatedAt": "2026-11-11T11:48:03.943Z",
+ "updatedAt": "2026-11-11T12:43:12.425Z",
  "items": [
+  {
+   "id": "sika-65647",
+   "title": "Côte d’Ivoire : El Niño menace de faire chuter la production de cacao jusqu’à 25%",
+   "summary": "La Côte d'Ivoire, premier producteur mondial de cacao, avec près de 40% de l'approvisionnement mondial, pour...",
+   "url": "https://www.sikafinance.com/marches/cote-divoire-el-ni%C3%B1o-menace-de-faire-chuter-la-production-de-cacao-jusqua-25_65647",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-11-11T12:10:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "sika-65646",
+   "title": "Nigeria : La raffinerie Dangote séduit les investisseurs avec 4,1 milliards USD de souscriptions à l’IPO",
+   "summary": "La raffinerie de Dangote ne se contente pas de bouleverser le paysage énergétique africain. Elle s'apprête également à ...",
+   "url": "https://www.sikafinance.com/marches/nigeria-la-raffinerie-dangote-seduit-les-investisseurs-avec-4-1-milliards-usd-de-souscriptions-a-lipo_65646",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-11-11T12:03:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65644",
    "title": "BIIC Bénin : Le résultat net progresse de 64 % à fin septembre 2026",
