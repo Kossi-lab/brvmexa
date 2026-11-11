@@ -1,6 +1,30 @@
 {
- "updatedAt": "2026-11-11T09:50:16.015Z",
+ "updatedAt": "2026-11-11T10:51:12.178Z",
  "items": [
+  {
+   "id": "sika-65640",
+   "title": "Sénégal : Une inflation de 1,6 % enregistrée en octobre 2026 sur un an",
+   "summary": "L'économie sénégalaise a connu une hausse des prix à la consommation de 1,6 % en octobre 2026, portée principalement par le renchérissement des produits alimentaires et des services d'enseignement.",
+   "body": [
+    "En octobre 2026, le Sénégal a observé une progression de 1,6 % de son indice des prix à la consommation en glissement annuel. Cette tendance inflationniste est largement soutenue par le secteur alimentaire et les boissons non alcoolisées (+2,1 %), ainsi que par les services de restauration et d'hébergement (+2,1 %). Les dépenses liées à la santé, aux soins personnels et aux loisirs ont également contribué à cette hausse globale.",
+    "Sur une base mensuelle, plusieurs secteurs ont marqué des évolutions notables. Les frais d'enseignement ont grimpé de 2,4 % en raison de la rentrée scolaire, tandis que les coûts du logement, de l'eau et de l'électricité ont augmenté de 0,9 %, portés par une hausse des tarifs de l'électricité (+3,8 %). À l'inverse, des replis ont été constatés dans les transports (-0,2 %) et certains produits de grande consommation comme les tubercules (-8,4 %) et les poissons transformés (-5,6 %)."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65640",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-11T10:15:00Z",
+   "writtenAt": "2026-11-11T10:51:12.175Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/senegal-les-prix-a-la-consommation-progressent-de-1-6-dans-un-contexte-economique-tendu_65640",
+    "title": "Sénégal : Les prix à la consommation progressent de 1,6 % dans un contexte économique tendu"
+   },
+   "rewritten": true
+  },
   {
    "id": "sika-65638",
    "title": "Bénin : la réforme du secteur électrique au service de la création d'emplois",

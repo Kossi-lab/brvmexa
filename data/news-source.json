@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-11T09:50:16.013Z",
+ "updatedAt": "2026-11-11T10:51:12.176Z",
  "items": [
+  {
+   "id": "sika-65640",
+   "title": "Sénégal : Les prix à la consommation progressent de 1,6 % dans un contexte économique tendu",
+   "summary": "En octobre 2026, les prix à la consommation au Sénégal augmentent de 1,6 % en glissement annuel. Cette évolution résult...",
+   "url": "https://www.sikafinance.com/marches/senegal-les-prix-a-la-consommation-progressent-de-1-6-dans-un-contexte-economique-tendu_65640",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-11T10:15:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65638",
    "title": "Bénin : 159 000 emplois en jeu grâce à la réforme du secteur électrique",
