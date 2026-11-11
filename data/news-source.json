@@ -1,6 +1,36 @@
 {
- "updatedAt": "2026-11-11T16:27:35.165Z",
+ "updatedAt": "2026-11-11T16:58:30.024Z",
  "items": [
+  {
+   "id": "sika-65655",
+   "title": "BRVM : SICABLE s'illustre dans une séance de reprise",
+   "summary": "La BRVM retrouve des couleurs après le repli marqué de la veille. Ses trois principaux indices renouent avec le vert, m...",
+   "url": "https://www.sikafinance.com/marches/brvm-sicable-s-illustre-dans-une-seance-de-reprise_65655",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-11T16:44:00Z",
+   "symbols": [
+    "CABC"
+   ],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "sika-65654",
+   "title": "Youssouf Fadiga, DG de la BNI : ''Notre ambition : être un partenaire financier de référence de secteurs extractifs et énergétiques en Côte d’Ivoire''",
+   "summary": "Youssouf Fadiga, Directeur général de la BNI (Banque nationale d'investissement) : ''Notre ambition est d'être un parten...",
+   "url": "https://www.sikafinance.com/marches/youssouf-fadiga-dg-de-la-bni--notre-ambition-etre-un-partenaire-financier-de-reference-de-secteurs-extractifs-et-energetiques-en-cote-divoire-_65654",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-11T16:08:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65649",
    "title": "Côte d'Ivoire : Innov Immobilier lance la marque INNOPLAZA pour conquérir l'hospitalité africaine avec 80 appart-hôtels",
