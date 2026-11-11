@@ -1,6 +1,34 @@
 {
- "updatedAt": "2026-11-11T16:58:30.024Z",
+ "updatedAt": "2026-11-11T17:56:34.134Z",
  "items": [
+  {
+   "id": "sika-65661",
+   "title": "Côte d’Ivoire : Ces entreprises publiques ayant réalisé les plus gros en 2025",
+   "summary": "Parfois associées à des critiques liées à leur efficacité opérationnelle et à leur gestion, les entreprises publiques e...",
+   "url": "https://www.sikafinance.com/marches/cote-divoire-ces-entreprises-publiques-ayant-realise-les-plus-gros-en-2025_65661",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-11-11T17:49:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "sika-65657",
+   "title": "Recherche scientifique : Ces chercheurs ivoiriens les plus cotés au monde",
+   "summary": "Il fallait y penser. Dans la course mondiale à l'influence scientifique, on ne s'inscrit pas, on est inscrit. Nul dossi...",
+   "url": "https://www.sikafinance.com/marches/recherche-scientifique-ces-chercheurs-ivoiriens-les-plus-cotes-au-monde_65657",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-11-11T17:11:00Z",
+   "symbols": [],
+   "status": "skip",
+   "tries": 1
+  },
   {
    "id": "sika-65655",
    "title": "BRVM : SICABLE s'illustre dans une séance de reprise",
@@ -19,9 +47,9 @@
   },
   {
    "id": "sika-65654",
-   "title": "Youssouf Fadiga, DG de la BNI : ''Notre ambition : être un partenaire financier de référence de secteurs extractifs et énergétiques en Côte d’Ivoire''",
+   "title": "Youssouf Fadiga, DG de la BNI : '' Notre ambition est d'être un partenaire financier de référence des secteurs extractifs et énergétiques ''",
    "summary": "Youssouf Fadiga, Directeur général de la BNI (Banque nationale d'investissement) : ''Notre ambition est d'être un parten...",
-   "url": "https://www.sikafinance.com/marches/youssouf-fadiga-dg-de-la-bni--notre-ambition-etre-un-partenaire-financier-de-reference-de-secteurs-extractifs-et-energetiques-en-cote-divoire-_65654",
+   "url": "https://www.sikafinance.com/marches/youssouf-fadiga-dg-de-la-bni---notre-ambition-est-d-etre-un-partenaire-financier-de-reference-des-secteurs-extractifs-et-energetiques--_65654",
    "image": null,
    "source": "Sika Finance",
    "category": "Marchés",
