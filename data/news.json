@@ -1,6 +1,30 @@
 {
- "updatedAt": "2026-11-12T14:12:42.778Z",
+ "updatedAt": "2026-11-12T15:05:02.719Z",
  "items": [
+  {
+   "id": "sika-65680",
+   "title": "Le Centre d'analyses de PETROCI s'ouvre au public lors du SIREXE 2026",
+   "summary": "À l'occasion du SIREXE, le Centre d'analyses et de recherche de PETROCI dévoile ses activités techniques, quarante ans après sa création.",
+   "body": [
+    "Fondé en 1986, le Centre d'analyses et de recherche (CAR) de PETROCI s'apprête à accueillir le public lors du Salon international des ressources extractives et de l'énergie (SIREXE), prévu du 18 au 22 novembre 2026 à Abidjan. Cette structure, initialement composée de six personnes, emploie désormais 58 collaborateurs spécialisés dans l'exploration pétrolière et le contrôle qualité des produits énergétiques.",
+    "Au-delà de son expertise dans l'analyse des roches et la connaissance du sous-sol, le laboratoire intervient sur une large gamme de produits, incluant les carburants, le gaz et les lubrifiants. Fort d'une expérience étendue au-delà des frontières ivoiriennes, le centre collabore avec de nombreux opérateurs internationaux et diversifie ses services vers les secteurs minier et du BTP, illustrant ainsi le renforcement des capacités techniques nationales."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65680",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-12T14:38:00Z",
+   "writtenAt": "2026-11-12T15:05:02.716Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/cote-divoire-40-ans-apres-sa-creation-petroci-va-ouvrir-au-public-les-portes-de-son-laboratoire-strategique-lors-du-sirexe_65680",
+    "title": "Côte d’Ivoire : 40 ans après sa création, PETROCI va ouvrir au public les portes de son laboratoire stratégique lors du SIREXE"
+   },
+   "rewritten": true
+  },
   {
    "id": "sika-65676",
    "title": "La Côte d'Ivoire et la GSMA s'allient pour démocratiser les smartphones",
@@ -3732,30 +3756,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/uemoa-la-boad-et-proparco-mobilisent-de-nouvelles-ressources-pour-financer-le-secteur-prive_65387",
     "title": "UEMOA : La BOAD et Proparco mobilisent de nouvelles ressources pour financer le secteur privé"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65386",
-   "title": "Kodal Minerals étend ses activités dans le lithium au Ghana après le succès au Mali",
-   "summary": "Déjà actif au Mali avec la mine de Bougouni, Kodal Minerals renforce sa présence en Afrique de l'Ouest en acquérant une participation majoritaire dans le projet de lithium d'Asamankese au Ghana.",
-   "body": [
-    "La société minière cotée à Londres, Kodal Minerals, poursuit sa stratégie de croissance régionale en ciblant le Ghana. L'entreprise a conclu un accord pour prendre le contrôle, à hauteur de 80 %, du projet de lithium d'Asamankese. Cette initiative s'appuie sur l'expertise acquise par le groupe en Afrique de l'Ouest au cours des deux dernières décennies, notamment dans la gestion des relations avec les autorités et les communautés locales.",
-    "Ce développement fait suite à la mise en service, en 2025, de la mine de Bougouni au Mali, exploitée en partenariat avec le groupe chinois Hainan. Pour financer ses nouvelles ambitions, Kodal Minerals prévoit d'utiliser les flux de trésorerie générés par son actif malien, tout en misant sur une reprise des cours mondiaux du lithium. Si les premiers indices géologiques au Ghana sont jugés encourageants, la concrétisation du projet Asamankese dépendra des résultats des futures phases d'exploration."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65386",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-30T16:44:00Z",
-   "writtenAt": "2026-11-06T13:53:07.995Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/lithium-apres-le-mali-kodal-minerals-veut-renforcer-sa-presence-en-afrique-de-louest-en-misant-sur-le-ghana_65386",
-    "title": "Lithium : Après le Mali, Kodal Minerals veut renforcer sa présence en Afrique de l’Ouest en misant sur le Ghana"
    },
    "rewritten": true
   }

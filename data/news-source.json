@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-12T14:12:42.775Z",
+ "updatedAt": "2026-11-12T15:05:02.717Z",
  "items": [
+  {
+   "id": "sika-65680",
+   "title": "Côte d’Ivoire : 40 ans après sa création, PETROCI va ouvrir au public les portes de son laboratoire stratégique lors du SIREXE",
+   "summary": "Créé en 1986, le Centre d'analyses et de recherche de PETROCI, habituellement réservée aux professionnels ouvrira ses p...",
+   "url": "https://www.sikafinance.com/marches/cote-divoire-40-ans-apres-sa-creation-petroci-va-ouvrir-au-public-les-portes-de-son-laboratoire-strategique-lors-du-sirexe_65680",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-12T14:38:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65676",
    "title": "Côte d’Ivoire – GSMA : Un accord stratégique signé au Qatar pour démocratiser l’accès aux smartphones",
@@ -53,20 +67,6 @@
    "category": "Marchés",
    "premium": true,
    "publishedAt": "2026-11-12T12:16:00Z",
-   "symbols": [],
-   "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "sika-65679",
-   "title": "Côte d’Ivoire : 40 ans après sa création, PETROCI va ouvrir au public les portes de son laboratoire stratégique lors du SIREXE",
-   "summary": "Créé en 1986, le Centre d'analyses et de recherche de PETROCI, habituellement réservée aux professionnels ouvrira ses p...",
-   "url": "https://www.sikafinance.com/marches/cote-divoire-40-ans-apres-sa-creation-petroci-va-ouvrir-au-public-les-portes-de-son-laboratoire-strategique-lors-du-sirexe_65679",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-12T10:10:00Z",
    "symbols": [],
    "status": "done",
    "tries": 1
@@ -3676,6 +3676,22 @@
    "publishedAt": "2020-08-23T23:38:56.000Z",
    "symbols": [
     "SIBC"
+   ],
+   "status": "new",
+   "tries": 0
+  },
+  {
+   "id": "gn-1tvky19",
+   "title": "Action Bank Of Africa Senegal | Cours BOAS Bourse BRVM - Abidjan",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5QeTJTcGF1YW5fekpMN21oQlhtd2Jib0xlVHk3V05teUFQdzUwdWlFOWlHUkNFU2I3cmotX2Z4R3RhY2lDbVgyNTBZWnBMOG5vNS1ia1JpSEFIcWhodjJsZ2pKTk1kRG9xdHZLcjFCRDdmaFUyM0gtU0p3NlU?oc=5",
+   "image": null,
+   "source": "Zonebourse",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2020-08-20T19:40:38.000Z",
+   "symbols": [
+    "BOAS"
    ],
    "status": "new",
    "tries": 0
