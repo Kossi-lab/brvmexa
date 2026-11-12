@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-11T22:52:56.530Z",
+ "updatedAt": "2026-11-12T09:00:20.833Z",
  "items": [
   {
    "id": "gn-1t6xarq",
@@ -3140,6 +3140,20 @@
    "tries": 0
   },
   {
+   "id": "gn-170bpkg",
+   "title": "La Bourse de la BRVM poursuit sa remontée alors que sa capitalisation boursière dépasse les 21 T XOF",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeHphV3QwQUVSM3NlakFZU2UtaTlLQ1ptaDZYeFFoOTQyOWhtQkRUbEhuRk52TGF3cHFPM0tzZmFjbmlubkM4MDlGSlozTGo1TTJ6WF9LaGRPQkZHbjUzQ3VaN0RHRWk5Z0dCZ1ZfVld6RlJpY0VFMFJ0VzlOSlBoS3Y4MXF3Y1BrYW5qLVByd1lTVDg3dkFqcy16VFhvMko3X1UxMlg2aU82QURQMHljX2oydw?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-09-06T07:00:00.000Z",
+   "symbols": [],
+   "status": "new",
+   "tries": 0
+  },
+  {
    "id": "gn-g3jdn0",
    "title": "Afrique économie - BRVM, la bourse solidaire de l’Afrique de l’Ouest [2/5]",
    "summary": null,
@@ -3457,6 +3471,22 @@
    "premium": false,
    "publishedAt": "2023-10-06T07:00:00.000Z",
    "symbols": [],
+   "status": "new",
+   "tries": 0
+  },
+  {
+   "id": "gn-1leodzv",
+   "title": "Sonatel, Ecobank, Orange… Pourquoi la BRVM connaît un pic historique",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYi16Tk1xek9lbTRNWTljdzJmdUluUWpKX1hTMk5lMTUtdjd0SDhTQXlUZUtPSGVZVVBnOHRIX0x3bFlQeTJqelVTMUhkaHI4ZzdDQWhaXzN1cDllMmpCbmkxWHpEZ25TZmNidUJZUHU0cFJ3QktPLVZLdWNVcnB4dVg2cEhuSUF1NzNwdnZwS1RORlhOcmhkX1F4Q1l2ZjRITGpSSDl5MnBSdDY3dS1LMjhvMjVPdkIwM29CczVfc0x4QQ?oc=5",
+   "image": null,
+   "source": "Jeune Afrique",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2023-09-15T07:00:00.000Z",
+   "symbols": [
+    "SNTS"
+   ],
    "status": "new",
    "tries": 0
   },
