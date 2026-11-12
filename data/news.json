@@ -1,6 +1,57 @@
 {
- "updatedAt": "2026-11-12T15:05:02.719Z",
+ "updatedAt": "2026-11-12T16:14:20.317Z",
  "items": [
+  {
+   "id": "sika-65682",
+   "title": "Le groupe Mayelia modernise le Lycée professionnel industriel de Marcory",
+   "summary": "Le groupe Mayelia a livré un atelier de mécanique rénové et un simulateur de conduite au Lycée professionnel industriel de Marcory, soutenant ainsi la formation technique en Côte d'Ivoire.",
+   "body": [
+    "Le Lycée professionnel industriel de Marcory, situé à Abidjan, bénéficie désormais d'un simulateur de conduite et d'un atelier de mécanique automobile entièrement rénové. Remis officiellement le 12 novembre 2026, cet équipement technologique a été fourni par le groupe Mayelia, via sa filiale Mayelia Academy, afin de permettre aux élèves d'apprendre à maîtriser les commandes d'un véhicule et d'aiguiser leurs réflexes en toute sécurité.",
+    "En plus de cet espace pratique, le projet de réhabilitation a concerné plusieurs infrastructures de l'établissement. Trois salles de classe ont été remises à neuf et dotées de climatisation, tandis que la salle des professeurs et le bureau du chef de travaux ont été restaurés. L'atelier a également profité d'une réfection de sa peinture, ainsi que d'une mise aux normes de son système d'éclairage et de sa ventilation pour optimiser le cadre de travail.",
+    "Cette initiative s'aligne sur la politique du ministère de l'Enseignement technique et professionnel visant à accroître l'implication des entreprises dans l'apprentissage des jeunes, dans le cadre du dispositif PAC Industrie. Les autorités ivoiriennes ambitionnent de porter la part des élèves dans l'enseignement technique de 6 % actuellement à 9 % en 2030, puis à 15 % en 2035, tout en élevant le taux d'insertion professionnelle de 36,5 % à 70 % d'ici 2030.",
+    "À l'avenir, le partenariat pourrait s'élargir. Le ministre délégué Jean-Louis Moulot a accueilli favorablement la proposition de Mayelia d'installer une partie des activités de Mayelia Academy au sein de l'établissement, tout en suggérant d'accueillir des formateurs en immersion et des apprenants en alternance au sein du groupe."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65682",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-12T15:10:00Z",
+   "writtenAt": "2026-11-12T16:13:45.938Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/cote-divoire-mayelia-modernise-les-infrastructures-de-formation-du-lycee-professionnel-industriel-de-marcory_65682",
+    "title": "Côte d’Ivoire : Mayelia modernise les infrastructures de formation du Lycée professionnel industriel de Marcory"
+   },
+   "rewritten": true
+  },
+  {
+   "id": "sika-65681",
+   "title": "Proparco injecte 15 millions de dollars dans le fonds Lightrock Africa Growth Fund II",
+   "summary": "La filiale de l'AFD, Proparco, investit 15 millions de dollars dans le fonds LAGF II pour soutenir la croissance et l'impact social des entreprises en Afrique subsaharienne.",
+   "body": [
+    "Proparco, la branche de l'Agence française de développement dédiée au secteur privé, vient d'allouer 15 millions de dollars, équivalant à près de 9 milliards FCFA, au fonds Lightrock Africa Growth Fund II (LAGF II). Cette initiative vise à fournir des capitaux essentiels aux entreprises en phase d'expansion en Afrique subsaharienne, tout en favorisant des projets à fort impact social et environnemental.",
+    "Géré par la plateforme Lightrock, ce fonds privilégie les structures technologiques matures dans des secteurs clés comme la santé, l'éducation, les services financiers et la distribution. L'objectif est de stimuler la productivité et d'améliorer l'accès aux services de base, tout en s'inscrivant dans une démarche de durabilité incluant l'autonomisation économique des femmes via l'initiative 2X Challenge.",
+    "Cette opération renforce la collaboration entre Proparco et Lightrock, déjà partenaires par le passé sur d'autres véhicules d'investissement. Par cet engagement, Proparco cherche à dynamiser le capital-investissement dans la région et à encourager la mobilisation de fonds privés pour soutenir des entreprises africaines en plein développement."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65681",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-12T14:51:00Z",
+   "writtenAt": "2026-11-12T16:14:20.313Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/afrique-subsaharienne-proparco-mobilise-15-millions-de-dollars-pour-financer-les-entreprises-en-croissance_65681",
+    "title": "Afrique subsaharienne : Proparco mobilise 15 millions de dollars pour financer les entreprises en croissance"
+   },
+   "rewritten": true
+  },
   {
    "id": "sika-65680",
    "title": "Le Centre d'analyses de PETROCI s'ouvre au public lors du SIREXE 2026",
@@ -3708,54 +3759,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/blanchiment-de-capitaux-la-cote-divoire-officiellement-retiree-de-la-liste-grise-du-gafi_65390",
     "title": "Blanchiment de capitaux : La Côte d’Ivoire officiellement retirée de la liste grise du GAFI"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65388",
-   "title": "Cyberattaque contre le fisc français : un second suspect interpellé",
-   "summary": "Trois mois après le piratage massif de la Direction générale des Finances publiques, les autorités françaises ont arrêté un adolescent de 16 ans lié au groupe ZeroBytes.",
-   "body": [
-    "L'Office anti-cybercriminalité a appréhendé le 27 octobre 2026, dans les Bouches-du-Rhône, un jeune homme de 16 ans suspecté d'être impliqué dans le vol de données de la Direction générale des Finances publiques (DGFiP). Surnommé \"Casquette\", il a été mis en examen pour accès frauduleux et vol de données en bande organisée, rejoignant ainsi un premier suspect de 18 ans arrêté en août dernier.",
-    "L'enquête révèle que les pirates ont accédé aux serveurs en utilisant des identifiants professionnels dérobés. Cette intrusion a compromis les informations fiscales de 678 000 contribuables et les données foncières de plus de 2 millions de personnes. Face à ces risques d'usurpation d'identité, la CNIL a initié un contrôle pour évaluer les mesures de protection mises en place par l'administration."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65388",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-30T17:24:00Z",
-   "writtenAt": "2026-11-06T12:39:52.108Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/france-la-police-interpelle-un-ado-de-16-ans-lie-au-vol-de-donnees-du-fisc_65388",
-    "title": "France : La police interpelle un ado de 16 ans lié au vol de données du fisc"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65387",
-   "title": "La BOAD et Proparco s'allient pour soutenir le secteur privé dans l'UEMOA",
-   "summary": "La BOAD et Proparco ont signé un accord de financement de 65,6 milliards FCFA pour renforcer le soutien au secteur privé au sein de l'espace UEMOA.",
-   "body": [
-    "Conclu le 14 octobre 2026 à Bangkok lors du BOAD Investor Day, cet accord de 100 millions d'euros (environ 65,6 milliards FCFA) entre la Banque ouest-africaine de développement et Proparco vise à accroître les capacités de prêt en monnaie locale. En facilitant l'accès aux financements en francs CFA et en euros, ce partenariat ambitionne de réduire la dépendance aux devises étrangères pour les entreprises de la sous-région.",
-    "Cette opération s'inscrit dans la continuité d'un premier accord de 200 millions d'euros scellé en mai 2026. Ces initiatives appuient le plan stratégique « Djoliba… La Suite » (2026-2030), à travers lequel la BOAD prévoit de mobiliser 6 500 milliards FCFA pour stimuler le développement économique des huit pays membres de l'Union."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65387",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-30T17:18:00Z",
-   "writtenAt": "2026-11-06T13:52:52.321Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/uemoa-la-boad-et-proparco-mobilisent-de-nouvelles-ressources-pour-financer-le-secteur-prive_65387",
-    "title": "UEMOA : La BOAD et Proparco mobilisent de nouvelles ressources pour financer le secteur privé"
    },
    "rewritten": true
   }
