@@ -1,6 +1,34 @@
 {
- "updatedAt": "2026-11-12T12:55:27.660Z",
+ "updatedAt": "2026-11-12T14:12:42.775Z",
  "items": [
+  {
+   "id": "sika-65676",
+   "title": "Côte d’Ivoire – GSMA : Un accord stratégique signé au Qatar pour démocratiser l’accès aux smartphones",
+   "summary": "À l'occasion du Mobile World Congress (MWC) de Doha, organisé parallèlement à la Conférence de plénipotentiaires...",
+   "url": "https://www.sikafinance.com/marches/cote-divoire-%E2%80%93-gsma-un-accord-strategique-signe-au-qatar-pour-democratiser-lacces-aux-smartphones_65676",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-12T13:05:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "sika-65675",
+   "title": "Digitalisation et cybersécurité : Comment Orange Cloud & Cyber Solutions sécurise l’essor du numérique ivoirien",
+   "summary": "Quels leviers actionner pour accélérer la digitalisation des services numériques en toute sécurité ? Cette questio...",
+   "url": "https://www.sikafinance.com/marches/digitalisation-et-cybersecurite-comment-orange-cloud-cyber-solutions-securise-lessor-du-numerique-ivoirien_65675",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-12T12:52:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65674",
    "title": "La BAD et l’AFD renforcent leur alliance pour accélérer le financement des projets en Afrique",
@@ -25,6 +53,20 @@
    "category": "Marchés",
    "premium": true,
    "publishedAt": "2026-11-12T12:16:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "sika-65679",
+   "title": "Côte d’Ivoire : 40 ans après sa création, PETROCI va ouvrir au public les portes de son laboratoire stratégique lors du SIREXE",
+   "summary": "Créé en 1986, le Centre d'analyses et de recherche de PETROCI, habituellement réservée aux professionnels ouvrira ses p...",
+   "url": "https://www.sikafinance.com/marches/cote-divoire-40-ans-apres-sa-creation-petroci-va-ouvrir-au-public-les-portes-de-son-laboratoire-strategique-lors-du-sirexe_65679",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-12T10:10:00Z",
    "symbols": [],
    "status": "done",
    "tries": 1
