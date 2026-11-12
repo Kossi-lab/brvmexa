@@ -1,6 +1,39 @@
 {
- "updatedAt": "2026-11-12T16:14:20.317Z",
+ "updatedAt": "2026-11-12T17:05:00.103Z",
  "items": [
+  {
+   "id": "sika-65684",
+   "title": "BRVM : La bourse régionale poursuit sa hausse tirée par la poussée de Solibra",
+   "summary": "La Bourse régionale a confirmé sa dynamique positive, soutenue par la forte progression du titre Solibra et une hausse globale de la majorité des valeurs cotées.",
+   "body": [
+    "La place financière régionale enregistre de nouvelles progressions sur l'ensemble de ses indicateurs de référence. L'indice BRVM-Prestige s'est apprécié de 0,54 % pour atteindre 193,50 points, tandis que le BRVM-30 s'est hissé à 251,33 points (+0,48 %). De son côté, le BRVM-Composite a gagné 0,35 % à 518,96 points. Ce climat favorable s'illustre par la prédominance des hausses, 28 actions ayant fini en progression contre seulement 11 replis.",
+    "Au chapitre des plus fortes hausses, Solibra s'est particulièrement distinguée en grimpant de 7,36 % à 42 945 FCFA, générant un gain de capitalisation de 48 milliards FCFA en une séance. L'action enregistre une hausse de 7,4 % depuis la diffusion de ses comptes semestriels le 30 octobre, portant sa progression depuis le début de l'année à 38,41 %. Dans son sillage, Tractafric Motors CI et SOGB ont également progressé, s'adjugeant respectivement 4,67 % à 3 700 FCFA et 3,07 % à 7 885 FCFA.",
+    "À l'opposé, Bernabé CI a essuyé le recul le plus net avec un retrait de 3,90 % à 1 725 FCFA, suivi par Bridge Bank Group CI (-3,86 % à 9 100 FCFA) et Vivo Energy (-3,33 % à 2 030 FCFA). Du côté de la liquidité, le montant global des transactions s'est élevé à 2,21 milliards FCFA. Cette activité a été largement dominée par Sonatel Sénégal, qui a concentré 956,21 millions FCFA, soit 43,18 % du total échangé."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65684",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-12T16:58:00Z",
+   "writtenAt": "2026-11-12T17:05:00.098Z",
+   "symbols": [
+    "BBGC",
+    "BNBC",
+    "PRSC",
+    "SHEC",
+    "SLBC",
+    "SNTS",
+    "SOGC"
+   ],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/brvm-solibra-mene-le-rebond-dans-une-seance-largement-orientee-a-la-hausse_65684",
+    "title": "BRVM : Solibra mène le rebond dans une séance largement orientée à la hausse"
+   },
+   "rewritten": true
+  },
   {
    "id": "sika-65682",
    "title": "Le groupe Mayelia modernise le Lycée professionnel industriel de Marcory",
@@ -3735,30 +3768,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/jean-damascene-nignan-dg-uab-vie-notre-ambition-est-de-passer-dune-logique-de-reconquete-a-une-logique-de-leadership-durable_65391",
     "title": "Jean Damascène NIGNAN, DG UAB Vie : ‘’Notre ambition est de passer d’une logique de reconquête à une logique de leadership durable’’"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65390",
-   "title": "La Côte d'Ivoire quitte officiellement la liste grise du GAFI",
-   "summary": "Le GAFI a acté, ce 30 octobre 2026, la sortie de la Côte d'Ivoire de sa liste de surveillance renforcée, saluant les efforts du pays en matière de lutte contre le blanchiment d'argent.",
-   "body": [
-    "Réuni à Paris le vendredi 30 octobre 2026, le Groupe d'action financière (GAFI) a validé le retrait de la Côte d'Ivoire de sa liste grise. Cette décision vient couronner quatre années d'efforts, débutées en octobre 2022, visant à renforcer la lutte contre le financement du terrorisme et le blanchiment de capitaux par une modernisation du cadre réglementaire et une meilleure digitalisation des flux financiers.",
-    "Pour la première économie de l'UEMOA, cette sortie marque une étape clé qui renforce la confiance des investisseurs institutionnels envers le système bancaire et la fintech ivoirienne. Ce signal positif devrait favoriser l'attractivité du pays pour les financements étrangers destinés aux projets d'infrastructures et au secteur privé. Lors de cette même session, la Bulgarie, Monaco et la République Démocratique du Congo ont également été retirés de ce répertoire."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65390",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-30T19:24:00Z",
-   "writtenAt": "2026-11-06T12:39:43.597Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/blanchiment-de-capitaux-la-cote-divoire-officiellement-retiree-de-la-liste-grise-du-gafi_65390",
-    "title": "Blanchiment de capitaux : La Côte d’Ivoire officiellement retirée de la liste grise du GAFI"
    },
    "rewritten": true
   }

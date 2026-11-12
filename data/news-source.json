@@ -1,6 +1,22 @@
 {
- "updatedAt": "2026-11-12T16:14:20.314Z",
+ "updatedAt": "2026-11-12T17:05:00.100Z",
  "items": [
+  {
+   "id": "sika-65684",
+   "title": "BRVM : Solibra mène le rebond dans une séance largement orientée à la hausse",
+   "summary": "La BRVM poursuit son mouvement de reprise avec une séance largement positive. Ses trois principaux indices terminent da...",
+   "url": "https://www.sikafinance.com/marches/brvm-solibra-mene-le-rebond-dans-une-seance-largement-orientee-a-la-hausse_65684",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-12T16:58:00Z",
+   "symbols": [
+    "SLBC"
+   ],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65682",
    "title": "Côte d’Ivoire : Mayelia modernise les infrastructures de formation du Lycée professionnel industriel de Marcory",
