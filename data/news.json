@@ -1,6 +1,30 @@
 {
- "updatedAt": "2026-11-12T17:54:58.122Z",
+ "updatedAt": "2026-11-12T18:55:32.629Z",
  "items": [
+  {
+   "id": "sika-65687",
+   "title": "Le marché du travail ivoirien enregistre une progression marquée de l'emploi",
+   "summary": "L'économie ivoirienne affiche une dynamique positive sur le front de l'emploi, avec une croissance significative du nombre de travailleurs recensés sur une période de six ans.",
+   "body": [
+    "Le marché de l'emploi en Côte d'Ivoire connaît une embellie notable. Selon les données disponibles, le pays compte désormais 13,28 millions de personnes en activité professionnelle.",
+    "Cette statistique témoigne d'une progression de 55 % du volume total d'emplois sur une période de six ans, illustrant une évolution importante de la structure du marché du travail national."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65687",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-12T17:51:00Z",
+   "writtenAt": "2026-11-12T18:55:32.627Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/cote-divoire-13-28-millions-de-personnes-en-emploi-une-hausse-de-55-en-6-ans_65687",
+    "title": "Côte d’Ivoire : 13,28 millions de personnes en emploi, une hausse de 55% en 6 ans"
+   },
+   "rewritten": true
+  },
   {
    "id": "sika-65685",
    "title": "Côte d’Ivoire : Vaalco lance la deuxième phase d'exploration du bloc offshore CI-705",
@@ -3744,30 +3768,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/avec-la-banque-africaine-de-lenergie-lafrique-reprend-en-main-le-financement-de-ses-ressources-petrogazieres_65402",
     "title": "Avec la Banque africaine de l’énergie, l’Afrique reprend en main le financement de ses ressources pétrogazières"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65395",
-   "title": "Incident technique sur les installations gazières de Petroci à Vridi",
-   "summary": "Un incendie causé par une fuite sur un site de Petroci a été rapidement maîtrisé ce matin, sans faire de victimes.",
-   "body": [
-    "Un incident est survenu ce 31 octobre 2026 à 7h25 sur le site gazier de Vridi, où une fuite enflammée a été détectée au niveau de la ligne de retour de la sphère 1. Le protocole d'urgence a été déclenché immédiatement pour sécuriser la zone.",
-    "La situation a été rétablie à 9h46 grâce à une intervention coordonnée avec la SIR, GESTOCI, le GSPM ainsi que les forces de l'ordre. Aucun décès n'est à signaler et l'approvisionnement en gaz butane reste assuré, tandis que des analyses techniques sont en cours pour déterminer les causes exactes de cet événement."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65395",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-31T13:54:00Z",
-   "writtenAt": "2026-11-06T12:39:26.497Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/petroci-fait-face-a-une-fuite-enflammee-au-niveau-de-son-installation-de-gaz-de-vridi_65395",
-    "title": "Petroci fait face à une fuite enflammée au niveau de son installation de gaz de Vridi"
    },
    "rewritten": true
   }

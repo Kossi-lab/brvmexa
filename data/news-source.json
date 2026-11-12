@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-12T17:54:58.120Z",
+ "updatedAt": "2026-11-12T18:55:32.628Z",
  "items": [
+  {
+   "id": "sika-65687",
+   "title": "Côte d’Ivoire : 13,28 millions de personnes en emploi, une hausse de 55% en 6 ans",
+   "summary": "Le marché du travail ivoirien retrouve des couleurs, mais la bataille pour l'emploi reste inachevée. Au 4e trimestre 20...",
+   "url": "https://www.sikafinance.com/marches/cote-divoire-13-28-millions-de-personnes-en-emploi-une-hausse-de-55-en-6-ans_65687",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-11-12T17:51:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65685",
    "title": "Côte d’Ivoire : Vaalco obtient le feu vert de l'Etat pour la deuxième phase d’exploration du bloc CI-705",
@@ -3419,6 +3433,20 @@
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-01-04T08:00:00.000Z",
+   "symbols": [],
+   "status": "new",
+   "tries": 0
+  },
+  {
+   "id": "gn-wyja5y",
+   "title": "Les actions les plus performantes du BRVM en 2025",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSUhDLXQ3MGpUUUx1d280eUM5dHpTcXRZYTAtM2xNaWRxbV84Rk92RlhYVDM4UkZGMU1XbWppaUNWZm9RdlZiZzdFYXBEcklKMERIUDQ0OGY5NlQ1THFBMXZ0dmhjR3oyQkJSRzNXR09kMHNZSHd1aGVHMGlFeEdKbXZFUTg3MzVNbWhVUENkWlRvMUhx?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-01-02T08:00:00.000Z",
    "symbols": [],
    "status": "new",
    "tries": 0
