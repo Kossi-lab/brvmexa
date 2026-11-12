@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-12T17:05:00.100Z",
+ "updatedAt": "2026-11-12T17:54:58.120Z",
  "items": [
+  {
+   "id": "sika-65685",
+   "title": "Côte d’Ivoire : Vaalco obtient le feu vert de l'Etat pour la deuxième phase d’exploration du bloc CI-705",
+   "summary": "L'opérateur américain a obtenu l'accord du gouvernement ivoirien pour poursuivre l'exploration de ce permis offshore, d...",
+   "url": "https://www.sikafinance.com/marches/cote-divoire-vaalco-obtient-le-feu-vert-de-l-etat-pour-la-deuxieme-phase-dexploration-du-bloc-ci-705_65685",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-12T17:22:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65684",
    "title": "BRVM : Solibra mène le rebond dans une séance largement orientée à la hausse",
@@ -3493,6 +3507,22 @@
    "publishedAt": "2025-02-12T08:00:00.000Z",
    "symbols": [
     "ORAC"
+   ],
+   "status": "new",
+   "tries": 0
+  },
+  {
+   "id": "gn-1yttqta",
+   "title": "La BRVM s'apprête à coter les actions de la loterie nationale du Bénin en décembre",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTmZvb1QyUXlZT2I0TFhBTWlmNFNzcE9SV21TY2cxOUpndlFCRmJBR1pkZHM4NFpEWVNjemd6a0t6VDI1cFFOQUFvMnlGQTFSN1MtOUhVNGJXeVpBQUhILUxOWU1VYTRSWE5PRlVZcGN1WXVUY2liNFNZNWVuOElvMTE4TDVyQm5ERklQT3dEMldWTTEtMERBSzhaSDc2NnJ4a3dwLTFRaGlmbnQ4YkJlcDI0Sm9feE91RGVZ?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2024-11-29T08:00:00.000Z",
+   "symbols": [
+    "LNBB"
    ],
    "status": "new",
    "tries": 0

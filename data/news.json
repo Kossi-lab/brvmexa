@@ -1,6 +1,30 @@
 {
- "updatedAt": "2026-11-12T17:05:00.103Z",
+ "updatedAt": "2026-11-12T17:54:58.122Z",
  "items": [
+  {
+   "id": "sika-65685",
+   "title": "Côte d’Ivoire : Vaalco lance la deuxième phase d'exploration du bloc offshore CI-705",
+   "summary": "L'opérateur américain Vaalco a reçu le feu vert des autorités ivoiriennes pour entamer une nouvelle étape d'exploration sur le bloc CI-705, incluant un forage prévu d'ici fin 2028.",
+   "body": [
+    "La compagnie pétrolière américaine Vaalco, qui détient 70 % du bloc CI-705, a obtenu l'autorisation du gouvernement ivoirien pour passer à la seconde phase de ses travaux. Après une période initiale dédiée à l'analyse sismique et aux données géologiques, ce nouveau programme vise à affiner les cibles avant la réalisation d'un forage exploratoire, programmé au plus tard pour la fin de l'année 2028.",
+    "Ce projet, mené en partenariat avec la société ivoirienne ICE Oil & Gas et la PETROCI, s'inscrit dans la stratégie de développement de Vaalco en Côte d'Ivoire. Si les études préliminaires ont renforcé l'optimisme de l'opérateur, le forage demeure l'étape décisive pour confirmer la viabilité commerciale d'un éventuel gisement dans cette zone située à proximité des champs de Baobab et de Kossipo."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65685",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-12T17:22:00Z",
+   "writtenAt": "2026-11-12T17:54:58.119Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/cote-divoire-vaalco-obtient-le-feu-vert-de-l-etat-pour-la-deuxieme-phase-dexploration-du-bloc-ci-705_65685",
+    "title": "Côte d’Ivoire : Vaalco obtient le feu vert de l'Etat pour la deuxième phase d’exploration du bloc CI-705"
+   },
+   "rewritten": true
+  },
   {
    "id": "sika-65684",
    "title": "BRVM : La bourse régionale poursuit sa hausse tirée par la poussée de Solibra",
@@ -3744,30 +3768,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/petroci-fait-face-a-une-fuite-enflammee-au-niveau-de-son-installation-de-gaz-de-vridi_65395",
     "title": "Petroci fait face à une fuite enflammée au niveau de son installation de gaz de Vridi"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65391",
-   "title": "UAB Vie retrouve sa place de leader sur le marché burkinabè de l'assurance vie",
-   "summary": "Après six ans d'efforts, UAB Vie s'impose à nouveau comme le premier assureur vie au Burkina Faso, atteignant 18,1 milliards FCFA de chiffre d'affaires en 2025.",
-   "body": [
-    "La compagnie UAB Vie a officiellement renoué avec la première place du secteur de l'assurance vie au Burkina Faso à l'issue de l'exercice 2025. Avec un chiffre d'affaires de 18,1 milliards FCFA, marquant une progression supérieure à 14 %, l'assureur détient désormais 24,4 % de parts de marché. Cette performance s'accompagne d'une hausse de 15 % du résultat net et d'un rendement des fonds propres atteignant 46 %.",
-    "Au niveau consolidé, le groupe UAB Assurances affiche un chiffre d'affaires de 30,17 milliards FCFA, se hissant au deuxième rang national. Fort de ces résultats, le directeur général Jean Damascène Nignan a annoncé le lancement d'un nouveau plan stratégique pour la période 2026-2028. L'objectif est désormais de transformer cette dynamique de reconquête en un leadership durable, axé sur l'innovation, la rentabilité et la transformation digitale."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65391",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-31T07:13:00Z",
-   "writtenAt": "2026-11-06T12:39:34.977Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/jean-damascene-nignan-dg-uab-vie-notre-ambition-est-de-passer-dune-logique-de-reconquete-a-une-logique-de-leadership-durable_65391",
-    "title": "Jean Damascène NIGNAN, DG UAB Vie : ‘’Notre ambition est de passer d’une logique de reconquête à une logique de leadership durable’’"
    },
    "rewritten": true
   }
