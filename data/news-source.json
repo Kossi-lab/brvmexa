@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-13T09:51:43.587Z",
+ "updatedAt": "2026-11-13T10:51:39.065Z",
  "items": [
+  {
+   "id": "sika-65696",
+   "title": "Côte d’Ivoire : Kaizene International organise une nouvelle édition de son PME Breakfast autour du financement immobilier",
+   "summary": "Trouver des financements ne suffit pas à faire aboutir un projet immobilier. Encore faut-il disposer d'un foncier sécur...",
+   "url": "https://www.sikafinance.com/marches/cote-divoire-kaizene-international-organise-une-nouvelle-edition-de-son-pme-breakfast-autour-du-financement-immobilier_65696",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-13T10:12:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "sika-65695",
+   "title": "Congo : La Banque mondiale alerte sur les risques des Eurobonds à taux d’or pour les finances publiques",
+   "summary": "Le recours répété de la République du Congo aux marchés internationaux pour financer ses besoins de trésorerie c...",
+   "url": "https://www.sikafinance.com/marches/congo-la-banque-mondiale-alerte-sur-les-risques-des-eurobonds-a-taux-dor-pour-les-finances-publiques_65695",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-13T10:01:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "sika-65694",
+   "title": "La Côte d’Ivoire inaugure Koné, un géant minier ouest africain qui vise dix tonnes d’or par an",
+   "summary": "Inaugurée le 12 novembre par le vice-Premier ministre Téné Birahima Ouattara, la mine de Koné a mobilisé plus de 580 mi...",
+   "url": "https://www.sikafinance.com/marches/la-cote-divoire-inaugure-kone-un-geant-minier-ouest-africain-qui-vise-dix-tonnes-dor-par-an_65694",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-13T09:55:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65693",
    "title": "ORAGROUP affiche un bénéfice en hausse de 14 % à fin septembre 2026",
@@ -19,7 +61,7 @@
   },
   {
    "id": "sika-65691",
-   "title": "Panne mondiale de Microsoft 365 : 70 % des grandes entreprises exposées dans 74 pays",
+   "title": "Panne mondiale de Microsoft 365 : 70% des grandes entreprises exposées dans 74 pays",
    "summary": "Une défaillance technique interne chez le géant informatique américain Microsoft paralyse ses services de messag...",
    "url": "https://www.sikafinance.com/marches/panne-mondiale-de-microsoft-365-70-des-grandes-entreprises-exposees-dans-74-pays_65691",
    "image": null,
