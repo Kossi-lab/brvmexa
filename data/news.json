@@ -1,6 +1,30 @@
 {
- "updatedAt": "2026-11-13T14:59:06.202Z",
+ "updatedAt": "2026-11-13T15:43:04.013Z",
  "items": [
+  {
+   "id": "sika-65711",
+   "title": "Transport aérien en Côte d'Ivoire : 1,16 million de passagers au premier semestre 2026",
+   "summary": "Le secteur de l'aviation commerciale ivoirienne affiche une dynamique soutenue avec plus d'un million de voyageurs enregistrés sur les six premiers mois de l'année 2026.",
+   "body": [
+    "Le trafic aérien en Côte d'Ivoire a maintenu une cadence élevée durant la première moitié de l'année 2026. Au total, 1,16 million de passagers ont emprunté les lignes commerciales au cours de cette période.",
+    "Ces chiffres témoignent de l'activité intense du secteur aéroportuaire ivoirien, alors que les flux de voyageurs continuent de progresser sur les infrastructures nationales."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65711",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-13T15:20:00Z",
+   "writtenAt": "2026-11-13T15:43:04.010Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/cote-divoire-1-16-million-de-passagers-transportes-par-avion-au-1er-semestre-2026_65711",
+    "title": "Côte d’Ivoire : 1,16 million de passagers transportés par avion au 1er semestre 2026"
+   },
+   "rewritten": true
+  },
   {
    "id": "sika-65710",
    "title": "Sénégal : Le FMI conditionne son aide de 2,2 milliards USD à des réformes budgétaires",
@@ -3737,32 +3761,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/mediterrania-capital-partners-investit-dans-afg-assurances-pole-assurance-datlantic-group-pour-accompagner-son-expansion-en-afrique-francophone_65429",
     "title": "Mediterrania Capital Partners investit dans AFG Assurances, pôle assurance d’Atlantic Group, pour accompagner son expansion en Afrique francophone"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65426",
-   "title": "NSIA Banque Côte d'Ivoire expose sa stratégie de relation client lors des JCXAF 2026",
-   "summary": "NSIA Banque Côte d'Ivoire a participé à la 8ᵉ édition des Journées de l'Expérience Client en Afrique Francophone pour présenter sa vision centrée sur la qualité des interactions quotidiennes.",
-   "body": [
-    "Lors de la 8ᵉ édition des Journées de l'Expérience Client en Afrique Francophone, tenue les 22 et 23 octobre 2026, NSIA Banque Côte d'Ivoire a mis en avant son approche de la relation client. Jean Aimé Nobou, directeur de l'organisation et de l'expérience client au sein de l'établissement, a souligné lors d'un panel que la transformation du secteur exige de dépasser les simples intentions pour privilégier des solutions fluides et personnalisées.",
-    "Sous le thème « Petits gestes, grands souvenirs », la banque a réitéré sa volonté de renforcer la confiance de sa clientèle par une écoute active et une attention constante. Cotée au premier compartiment de la BRVM depuis 2017, la filiale de NSIA Holding Financière s'appuie sur son réseau de plus de 80 agences et ses outils digitaux pour maintenir son positionnement parmi les trois premières banques du marché ivoirien."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65426",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-02T15:15:00Z",
-   "writtenAt": "2026-11-06T10:55:29.717Z",
-   "symbols": [
-    "NSBC"
-   ],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/journees-de-l-experience-client-en-afrique-francophone-nsia-banque-cote-d-ivoire-partage-sa-vision_65426",
-    "title": "Journées de l'expérience client en Afrique francophone : NSIA Banque Côte d'Ivoire partage sa vision"
    },
    "rewritten": true
   }
