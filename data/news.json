@@ -1,6 +1,30 @@
 {
- "updatedAt": "2026-11-13T18:53:40.258Z",
+ "updatedAt": "2026-11-13T19:55:54.708Z",
  "items": [
+  {
+   "id": "sika-65718",
+   "title": "Le secteur aurifère ivoirien affiche un chiffre d'affaires de 2 605,8 milliards FCFA en 2025",
+   "summary": "Le classement des dix principales entreprises minières opérant en Côte d'Ivoire révèle une performance financière globale robuste pour l'année 2025, portée par la mine d'Ity.",
+   "body": [
+    "Le marché de l'or en Côte d'Ivoire confirme son poids économique majeur. En 2025, les dix plus grandes sociétés du secteur ont généré un chiffre d'affaires cumulé atteignant 2 605,8 milliards FCFA.",
+    "Au sein de ce palmarès, la mine d'Ity s'impose comme l'acteur dominant, illustrant la dynamique de production aurifère nationale sur cette période."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65718",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-13T19:48:00Z",
+   "writtenAt": "2026-11-13T19:55:54.705Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/cote-divoire-la-mine-dity-domine-un-top-10-aurifere-qui-pese-plus-de-2-600-milliards-fcfa_65718",
+    "title": "Côte d’Ivoire : La mine d’Ity domine un top 10 aurifère qui pèse plus de 2 600 milliards FCFA"
+   },
+   "rewritten": true
+  },
   {
    "id": "gn-6rdbx8",
    "title": "L'impact de la sous-représentation féminine sur le marché financier de la BRVM",
@@ -3740,32 +3764,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/brvm-smb-fait-sensation-au-milieu-de-la-vague-de-publications-trimestrielles_65437",
     "title": "BRVM : SMB fait sensation au milieu de la vague de publications trimestrielles"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65436",
-   "title": "BICICI : Une progression de 15 % du résultat net au troisième trimestre 2026",
-   "summary": "La Banque internationale pour le commerce et l'industrie de Côte d'Ivoire affiche une dynamique positive sur les neuf premiers mois de l'année 2026.",
-   "body": [
-    "La BICICI a enregistré une hausse de 15 % de son bénéfice au cours du troisième trimestre 2026. Cette performance financière s'inscrit dans le bilan global de l'établissement bancaire pour les neuf premiers mois de l'exercice en cours.",
-    "Ces indicateurs témoignent de l'évolution de l'activité de la banque sur cette période. Les résultats consolidés reflètent ainsi la trajectoire économique de l'institution à l'approche de la fin de l'année 2026."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65436",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-02T16:32:00Z",
-   "writtenAt": "2026-11-06T09:55:00.597Z",
-   "symbols": [
-    "BICC"
-   ],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/bicici-une-croissance-de-15-du-benefice-au-3eme-trimestre-2026_65436",
-    "title": "BICICI : Une croissance de 15 % du bénéfice au 3ème trimestre 2026"
    },
    "rewritten": true
   }
