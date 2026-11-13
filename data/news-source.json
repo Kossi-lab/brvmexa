@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-13T15:43:04.011Z",
+ "updatedAt": "2026-11-13T16:35:40.264Z",
  "items": [
   {
    "id": "sika-65711",
@@ -12,6 +12,22 @@
    "premium": true,
    "publishedAt": "2026-11-13T15:20:00Z",
    "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "sika-65712",
+   "title": "Paul KOUAO, Directeur de Bernabé Équipement en Côte d'Ivoire : ‘’Notre ambition, accompagner les projets, contribuer à développer des compétences’’",
+   "summary": "Paul KOUAO, Directeur de Bernabé Équipement en Côte d'Ivoire : Notre ambition est d'accompagner les g...",
+   "url": "https://www.sikafinance.com/marches/paul-kouao-directeur-de-bernabe-equipement-en-cote-d-ivoire-notre-ambition-accompagner-les-projets-contribuer-a-developper-des-competences_65712",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-13T15:13:00Z",
+   "symbols": [
+    "BNBC"
+   ],
    "status": "done",
    "tries": 1
   },
@@ -39,6 +55,20 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-11-13T13:48:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "gn-8kh3g8",
+   "title": "Idrissa Nassa prépare l’IPO de deux filiales de Coris sur la BRVM",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdE5VcUwwS2ZJdW95RnAydEZlNkxuLW55RjkyR3R5el81NGQ5N1ZjYnl5NlBKNFljZFJWWmNtdU50LUJGdmlFZGdUbW5lbzhILS1fYzBxNnpEYVpveWMxeC1ob0pZS09zbDBDR0FXWXYyUXFHeU9WUF9IaTJ5bFd2ZVBVSmlacnZwTGc1cXUwZWNhS1ZvYnN3N2J0R1ROTHFQQ0pLX0F6UGhndl9TcG9B?oc=5",
+   "image": null,
+   "source": "africabusinessplus.com",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-13T13:40:00.000Z",
    "symbols": [],
    "status": "done",
    "tries": 1
