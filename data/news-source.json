@@ -1,6 +1,22 @@
 {
- "updatedAt": "2026-11-13T08:58:51.717Z",
+ "updatedAt": "2026-11-13T09:51:43.587Z",
  "items": [
+  {
+   "id": "sika-65693",
+   "title": "ORAGROUP affiche un bénéfice en hausse de 14 % à fin septembre 2026",
+   "summary": "Le redressement d'un groupe bancaire ne se mesure pas uniquement à sa capacité à améliorer ses revenus. Il se lit...",
+   "url": "https://www.sikafinance.com/marches/oragroup-affiche-un-benefice-en-hausse-de-14-a-fin-septembre-2026_65693",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-11-13T09:24:00Z",
+   "symbols": [
+    "ORGT"
+   ],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65691",
    "title": "Panne mondiale de Microsoft 365 : 70 % des grandes entreprises exposées dans 74 pays",

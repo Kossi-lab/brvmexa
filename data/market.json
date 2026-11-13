@@ -1,124 +1,124 @@
 {
- "updatedAt": "2026-11-13T08:58:37.051Z",
- "sessionDate": "2026-11-12",
- "sessionTime": "22:45",
+ "updatedAt": "2026-11-13T09:50:54.265Z",
+ "sessionDate": "2026-11-13",
+ "sessionTime": "09:45",
  "source": "brvm.org",
- "transactionsValue": 2316884975,
- "capitalisationActions": 20351184165678,
- "capitalisationBonds": 13434043755458,
- "advancing": 28,
- "declining": 11,
- "unchanged": 9,
- "totalVolume": 1124578,
+ "transactionsValue": 79084936,
+ "capitalisationActions": 20359615272918,
+ "capitalisationBonds": 13428241755458,
+ "advancing": 12,
+ "declining": 5,
+ "unchanged": 31,
+ "totalVolume": 111219,
  "gainers": [
   {
-   "symbol": "SLBC",
-   "shortName": "Solibra CI",
-   "close": 42945,
-   "change": 7.36,
-   "volume": 722
+   "symbol": "PALC",
+   "shortName": "Palm CI",
+   "close": 7795,
+   "change": 1.96,
+   "volume": 16
   },
   {
-   "symbol": "PRSC",
-   "shortName": "Tractafric Motors CI",
-   "close": 3700,
-   "change": 4.67,
-   "volume": 122
+   "symbol": "ORGT",
+   "shortName": "Oragroup Togo",
+   "close": 2600,
+   "change": 1.56,
+   "volume": 124
   },
   {
-   "symbol": "SOGC",
-   "shortName": "SOGB CI",
-   "close": 7885,
-   "change": 3.07,
-   "volume": 922
+   "symbol": "SHEC",
+   "shortName": "Vivo Energy CI",
+   "close": 2050,
+   "change": 0.99,
+   "volume": 214
+  },
+  {
+   "symbol": "FTSC",
+   "shortName": "Filtisac CI",
+   "close": 1715,
+   "change": 0.88,
+   "volume": 30
   },
   {
    "symbol": "TTLC",
    "shortName": "TotalEnergies Marketing CI",
-   "close": 3095,
-   "change": 2.65,
-   "volume": 2656
-  },
-  {
-   "symbol": "SIBC",
-   "shortName": "Société Ivoirienne de Banque",
-   "close": 8800,
-   "change": 2.27,
-   "volume": 7118
+   "close": 3100,
+   "change": 0.16,
+   "volume": 70
   }
  ],
  "losers": [
   {
-   "symbol": "BNBC",
-   "shortName": "Bernabé CI",
-   "close": 1725,
-   "change": -3.9,
-   "volume": 297
+   "symbol": "BOAS",
+   "shortName": "BOA Sénégal",
+   "close": 8110,
+   "change": -1.1,
+   "volume": 495
+  },
+  {
+   "symbol": "LNBB",
+   "shortName": "Loterie Nationale du Bénin",
+   "close": 3900,
+   "change": -0.89,
+   "volume": 5
+  },
+  {
+   "symbol": "ABJC",
+   "shortName": "Servair Abidjan",
+   "close": 3280,
+   "change": -0.46,
+   "volume": 5
+  },
+  {
+   "symbol": "BOABF",
+   "shortName": "BOA Burkina Faso",
+   "close": 7995,
+   "change": -0.06,
+   "volume": 57
+  },
+  {
+   "symbol": "ECOC",
+   "shortName": "Ecobank Côte d’Ivoire",
+   "close": 15600,
+   "change": -0.03,
+   "volume": 1121
+  }
+ ],
+ "mostActive": [
+  {
+   "symbol": "ECOC",
+   "shortName": "Ecobank Côte d’Ivoire",
+   "close": 15600,
+   "change": -0.03,
+   "volume": 1121
   },
   {
    "symbol": "BBGC",
    "shortName": "Bridge Bank Group CI",
    "close": 9100,
-   "change": -3.86,
-   "volume": 5164
+   "change": 0,
+   "volume": 1043
   },
-  {
-   "symbol": "SHEC",
-   "shortName": "Vivo Energy CI",
-   "close": 2030,
-   "change": -3.33,
-   "volume": 2934
-  },
-  {
-   "symbol": "SIVC",
-   "shortName": "Erium CI",
-   "close": 1700,
-   "change": -2.86,
-   "volume": 538
-  },
-  {
-   "symbol": "SCRC",
-   "shortName": "Sucrivoire CI",
-   "close": 1600,
-   "change": -2.14,
-   "volume": 14581
-  }
- ],
- "mostActive": [
   {
    "symbol": "SNTS",
    "shortName": "Sonatel",
-   "close": 4195,
+   "close": 4200,
    "change": 0.12,
-   "volume": 231018
+   "volume": 1689
   },
   {
-   "symbol": "BICB",
-   "shortName": "BIIC Bénin",
-   "close": 7950,
-   "change": -1.73,
-   "volume": 20927
-  },
-  {
-   "symbol": "SGBC",
-   "shortName": "Société Générale CI",
-   "close": 38890,
-   "change": 0.75,
-   "volume": 3570
+   "symbol": "ETIT",
+   "shortName": "Ecobank Transnational (ETI)",
+   "close": 59,
+   "change": 0,
+   "volume": 101774
   },
   {
    "symbol": "BOAC",
    "shortName": "BOA Côte d’Ivoire",
    "close": 11990,
-   "change": 0.42,
-   "volume": 6992
-  },
-  {
-   "symbol": "BOAS",
-   "shortName": "BOA Sénégal",
-   "close": 8200,
-   "change": 0.74,
-   "volume": 8405
+   "change": 0,
+   "volume": 424
   }
  ]
 }
