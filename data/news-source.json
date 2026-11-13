@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-13T11:48:36.659Z",
+ "updatedAt": "2026-11-13T12:53:44.985Z",
  "items": [
+  {
+   "id": "sika-65706",
+   "title": "RDC : Le chinois Jiayou veut réhabiliter 366 km de rail et moderniser deux ports",
+   "summary": "Le groupe chinois Jiayou International Logistics envisage de réhabiliter et d'exploiter conjointement les 366 km de la ...",
+   "url": "https://www.sikafinance.com/marches/rdc-le-chinois-jiayou-veut-rehabiliter-366-km-de-rail-et-moderniser-deux-ports_65706",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-13T11:56:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "sika-65705",
+   "title": "PI-SPI : Les frais sont-ils vraiment de 0,8% ?",
+   "summary": "La PI-SPI, Plateforme interopérable du système de paiement instantané, est arrivée sur le terrain avec fracas, si bien q...",
+   "url": "https://www.sikafinance.com/marches/pi-spi-les-frais-sont-ils-vraiment-de-0-8-_65705",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-11-13T11:55:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "sika-65707",
+   "title": "Sénégal : 2,07 millions de barils de pétrole commercialisés en octobre, signe d’une tendance baissière de la production",
+   "summary": "Au Sénégal, au cours du mois d'octobre 2026, deux (02) cargaisons de pétrole brut ont été expédiées et commercialisées ...",
+   "url": "https://www.sikafinance.com/marches/senegal-2-07-millions-de-barils-de-petrole-commercialises-en-octobre-signe-dune-tendance-baissiere-de-la-production_65707",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-13T11:51:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65702",
    "title": "CANEX WKND 2026 : 2 milliards USD pour capter la valeur des industries créatives africaines",

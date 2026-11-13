@@ -1,6 +1,79 @@
 {
- "updatedAt": "2026-11-13T11:48:36.661Z",
+ "updatedAt": "2026-11-13T12:53:44.988Z",
  "items": [
+  {
+   "id": "sika-65706",
+   "title": "RDC : Jiayou International Logistics ambitionne de moderniser le rail et les ports",
+   "summary": "Le groupe chinois Jiayou prévoit de réhabiliter la ligne ferroviaire Matadi-Kinshasa et de moderniser des infrastructures portuaires en RDC, en collaboration avec l'ONATRA.",
+   "body": [
+    "Le groupe chinois Jiayou International Logistics, coté à la Bourse de Shanghai, a annoncé le 13 novembre 2026 son intention de s'associer à l'Office national des transports (ONATRA) en RDC. Ce projet d'envergure porte sur la réhabilitation et l'exploitation conjointe des 366 km de la ligne ferroviaire reliant Matadi à Kinshasa, un axe stratégique pour l'approvisionnement de la capitale.",
+    "En partenariat avec Thirty Five Logistique LLC, le consortium envisage également une modernisation des ports de Matadi et de Boma, la création de plateformes logistiques terrestres et le développement du transport fluvial dans le Pool Malebo. Si ces ambitions visent à structurer une chaîne logistique intégrée, le projet demeure au stade préparatoire. Aucun calendrier ni montant d'investissement n'a été communiqué à ce jour, les conditions de ce futur partenariat public-privé devant encore faire l'objet de négociations."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65706",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-13T11:56:00Z",
+   "writtenAt": "2026-11-13T12:53:15.452Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/rdc-le-chinois-jiayou-veut-rehabiliter-366-km-de-rail-et-moderniser-deux-ports_65706",
+    "title": "RDC : Le chinois Jiayou veut réhabiliter 366 km de rail et moderniser deux ports"
+   },
+   "rewritten": true
+  },
+  {
+   "id": "sika-65705",
+   "title": "PI-SPI : Analyse des frais de transaction sur la plateforme de paiement instantané",
+   "summary": "La mise en service de la Plateforme interopérable du système de paiement instantané (PI-SPI) suscite des interrogations concernant sa structure tarifaire et le taux de commission appliqué.",
+   "body": [
+    "Le lancement récent de la PI-SPI a généré un vif intérêt au sein de l'écosystème financier. Depuis son déploiement le 13 novembre 2026, les modalités de facturation de cet outil de paiement instantané font l'objet de discussions, notamment concernant le niveau des frais prélevés sur les opérations.",
+    "Au cœur des débats figure le taux de 0,8 %, souvent évoqué comme la commission appliquée aux transactions. Cette structure tarifaire interroge les utilisateurs et les acteurs du marché sur l'impact réel de ces coûts dans le cadre de l'interopérabilité des systèmes de paiement."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65705",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-13T11:55:00Z",
+   "writtenAt": "2026-11-13T12:53:29.119Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/pi-spi-les-frais-sont-ils-vraiment-de-0-8-_65705",
+    "title": "PI-SPI : Les frais sont-ils vraiment de 0,8% ?"
+   },
+   "rewritten": true
+  },
+  {
+   "id": "sika-65707",
+   "title": "Sénégal : recul de la production pétrolière en octobre malgré la dynamique du gaz naturel",
+   "summary": "Le Sénégal a enregistré une baisse de ses exportations de pétrole brut en octobre 2026, tandis que la production de gaz naturel liquéfié affiche une progression constante.",
+   "body": [
+    "Durant le mois d'octobre 2026, le Sénégal a exporté 2,07 millions de barils de pétrole brut répartis sur deux cargaisons, contre 2,94 millions de barils via trois cargaisons en septembre. Cette diminution reflète une inflexion à la baisse de la production journalière, selon les autorités nationales.",
+    "À l'inverse, le secteur gazier du projet Grand Tortue Ahmeyim maintient une dynamique positive. Les exportations de gaz naturel liquéfié ont atteint 0,49 million de mètres cubes en octobre avec trois cargaisons, dépassant ainsi le volume de 0,33 million de mètres cubes enregistré en septembre.",
+    "Face à ces enjeux énergétiques, le gouvernement sénégalais privilégie une réduction structurelle des coûts de production électrique plutôt qu'un recours prolongé aux subventions. Le ministre du Pétrole et de l'Énergie, Abdourahmane Diouf, a réaffirmé l'objectif d'atteindre un accès universel à l'électricité d'ici 2029, tout en misant sur le développement du gisement Yakaar-Teranga pour renforcer les retombées économiques locales."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65707",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-13T11:51:00Z",
+   "writtenAt": "2026-11-13T12:53:44.985Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/senegal-2-07-millions-de-barils-de-petrole-commercialises-en-octobre-signe-dune-tendance-baissiere-de-la-production_65707",
+    "title": "Sénégal : 2,07 millions de barils de pétrole commercialisés en octobre, signe d’une tendance baissière de la production"
+   },
+   "rewritten": true
+  },
   {
    "id": "sika-65702",
    "title": "CANEX WKND 2026 : 2 milliards USD pour doper les industries créatives africaines",
@@ -3694,80 +3767,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/cote-divoire-forvis-mazars-et-sciences-po-lancent-une-certification-pour-renforcer-les-competences-des-administrateurs_65419",
     "title": "Côte d’Ivoire : Forvis Mazars et Sciences Po lancent une certification pour renforcer les compétences des administrateurs"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "gn-1lr0nmy",
-   "title": "Actualité de la valeur Onatel Burkina Faso sur le marché de la BRVM",
-   "summary": "La rédaction fait le point sur la situation boursière de l'opérateur de télécommunications Onatel Burkina Faso, coté sur la Bourse régionale des valeurs mobilières.",
-   "body": [
-    "La société Onatel Burkina Faso, identifiée sous le mnémonique ONTBF, fait l'objet d'un suivi régulier au sein de la cote de la Bourse régionale des valeurs mobilières (BRVM).",
-    "Cette mise à jour, datée du 2 novembre 2026, s'inscrit dans le cadre de la veille informationnelle assurée par notre rédaction sur les entreprises opérant au sein de l'espace UEMOA."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#gn-1lr0nmy",
-   "image": null,
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-11-02T11:48:55.000Z",
-   "writtenAt": "2026-11-06T11:44:38.382Z",
-   "symbols": [
-    "ONTBF"
-   ],
-   "origin": {
-    "name": "Dabafinance",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tMVRXdFVBdDhJeEhBSUhIMjdZS2RaWXZtX2F3YUNaV0lJczZDRnVPa19OeE41Rm9BcjE2N0ZGc3FONVpfX1VTVzdJRkpMLVR1V0JFNUZtR3Q3czN1dVVaTlZRYTgtdDg?oc=5",
-    "title": "Onatel Burkina Faso (ONTBF) — BRVM"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65418",
-   "title": "Inauguration de l'École d'agriculture numérique à l'INP-HB de Yamoussoukro",
-   "summary": "L'INP-HB a inauguré la Digital Farming School, un établissement dédié à l'innovation agricole, accueillant sa première promotion de 50 étudiants pour une formation technologique de pointe.",
-   "body": [
-    "Le 31 octobre 2026, l'Institut national polytechnique Félix Houphouët-Boigny a officiellement lancé la Digital Farming School, fruit d'un partenariat entre l'INP-HB, l'Université Mohammed VI Polytechnique, OCP Africa et LEET Initiative. Ce projet stratégique vise à moderniser le secteur agricole ivoirien, qui génère un quart du PIB national, en palliant le déficit d'équipements et en optimisant l'exploitation des terres arables.",
-    "La première promotion, composée de 50 talents sélectionnés parmi 4 000 candidats, suivra un cursus de deux ans mêlant agronomie, drones et analyse de données sur une ferme expérimentale de 170 hectares. Au-delà de l'enseignement technique, le programme intègre un volet d'incubation pour favoriser l'entrepreneuriat, renforçant ainsi la coopération entamée en 2023 entre la Côte d'Ivoire et le groupe OCP."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65418",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-02T11:32:00Z",
-   "writtenAt": "2026-11-06T11:44:46.826Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/cote-divoire-lecole-dagriculture-numerique-inauguree-a-linp-hb-50-talents-composent-la-premiere-promotion-agritech_65418",
-    "title": "Côte d’Ivoire : L’École d’agriculture numérique inaugurée à l’INP-HB, 50 talents composent la première promotion Agritech"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65417",
-   "title": "Fratel 2024 : les régulateurs face au défi de l'aménagement numérique en Afrique",
-   "summary": "La 24e réunion du Fratel à Conakry a mis en lumière les obstacles à la connectivité rurale et les stratégies nécessaires pour réduire la fracture numérique sur le continent.",
-   "body": [
-    "Réunis du 28 au 30 octobre à Conakry, les membres du Réseau francophone de la régulation des télécommunications (Fratel) ont débattu des disparités d'accès au haut débit. Avec 2,2 milliards de personnes hors ligne en 2025, dont seulement 14 % de la population rurale connectée dans les pays à revenus faibles ou intermédiaires, les experts soulignent l'urgence d'une planification publique rigoureuse.",
-    "Le secteur fait face à une réalité économique complexe : les infrastructures passives absorbent 60 % à 70 % des investissements sur le long terme. Pour pallier la faible rentabilité commerciale en zone rurale, des solutions comme la mutualisation des réseaux, le cofinancement public-privé et des objectifs de déploiement vérifiables sont préconisées, à l'image de la stratégie guinéenne visant à étendre son réseau de fibre optique à 10 000 km d'ici 2030."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65417",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-02T11:04:00Z",
-   "writtenAt": "2026-11-06T11:44:55.338Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/connectivite-en-afrique-la-24e-reunion-du-fratel-explore-les-grands-defis-de-l-investissement-public-et-de-la-regulation_65417",
-    "title": "Connectivité en Afrique : La 24e réunion du Fratel explore les grands défis de l'investissement public et de la régulation"
    },
    "rewritten": true
   }
