@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-13T16:55:41.277Z",
+ "updatedAt": "2026-11-13T17:53:05.026Z",
  "items": [
+  {
+   "id": "gn-6rdbx8",
+   "title": "Sans les femmes à la Bourse Régionale des Valeurs Mobilières (BRVM), la Côte d’Ivoire s'appauvrit tous les ans",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQY2c5czJoZ0dQVDV0TjFUd0ZoODZzZmRQQzJRelRyMkNfM1ItdXRxd1NxQkl6VEZaWXhrX1JUWlZFT09HbHFzTG54d2s0dGxJSXdpX0JwREFrMl9faVpKRUZFaGpWVWFFaXhxUHdkMktDVENUUzd4VlRQUi1DZlhPLUE4NVVwUWljUGFZeUJ4ZVBWRkhpRFlVRUp4Qnl4QUwwZXplN3I4SDBRd1BVLVhoRFA0bmh5RXQzVldmQ3J4UHVlQ0pxclpUaldhY2NmWXAyTDdQQWVwRWQ0djI0Tk03YkVB?oc=5",
+   "image": null,
+   "source": "Financial Afrik",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-13T17:11:52.000Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "sika-65716",
+   "title": "Côte d’Ivoire : La mine d’Ity domine un top 10 aurifère qui pèse plus de 2 600 milliards FCFA",
+   "summary": "Les dix sociétés aurifères du classement ont cumulé 2 605,8 milliards FCFA de chiffre d'affaires en 2025, en hausse de ...",
+   "url": "https://www.sikafinance.com/marches/cote-divoire-la-mine-dity-domine-un-top-10-aurifere-qui-pese-plus-de-2-600-milliards-fcfa_65716",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-13T17:10:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "sika-65715",
+   "title": "Mali : 940 milliards FCFA versés à l’État par les sociétés minières en 2025, malgré une production d’or en recul à 42 tonnes",
+   "summary": "Le Mali entend faire de son sous-sol un levier de souveraineté économique plutôt qu'une simple source de recettes...",
+   "url": "https://www.sikafinance.com/marches/mali-940-milliards-fcfa-verses-a-letat-par-les-societes-minieres-en-2025-malgre-une-production-dor-en-recul-a-42-tonnes_65715",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-11-13T17:05:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65714",
    "title": "BRVM : Le marché marque un arrêt, Vivo Energy CI s'illustre à contre-courant",
