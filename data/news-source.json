@@ -1,6 +1,34 @@
 {
- "updatedAt": "2026-11-12T22:47:47.606Z",
+ "updatedAt": "2026-11-13T08:58:51.717Z",
  "items": [
+  {
+   "id": "sika-65691",
+   "title": "Panne mondiale de Microsoft 365 : 70 % des grandes entreprises exposées dans 74 pays",
+   "summary": "Une défaillance technique interne chez le géant informatique américain Microsoft paralyse ses services de messag...",
+   "url": "https://www.sikafinance.com/marches/panne-mondiale-de-microsoft-365-70-des-grandes-entreprises-exposees-dans-74-pays_65691",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-13T08:47:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "sika-65690",
+   "title": "BRVM : Les banques portent leurs bénéfices à plus de 680 milliards FCFA à fin septembre 2026",
+   "summary": "À fin septembre 2026, les banques cotées à la BRVM affichent une progression globalement favorable de leurs perf...",
+   "url": "https://www.sikafinance.com/marches/brvm-les-banques-portent-leurs-benefices-a-plus-de-680-milliards-fcfa-a-fin-septembre-2026_65690",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-11-13T07:35:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65687",
    "title": "Côte d’Ivoire : 13,28 millions de personnes en emploi, une hausse de 55% en 6 ans",
