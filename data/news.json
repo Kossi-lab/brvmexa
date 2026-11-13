@@ -1,6 +1,38 @@
 {
- "updatedAt": "2026-11-13T16:35:40.266Z",
+ "updatedAt": "2026-11-13T16:55:41.279Z",
  "items": [
+  {
+   "id": "sika-65714",
+   "title": "La BRVM clôture en baisse ce vendredi malgré la progression de Vivo Energy CI",
+   "summary": "La séance boursière de ce vendredi s'est soldée par un repli généralisé des principaux indices de la BRVM, malgré la performance notable de quelques titres.",
+   "body": [
+    "La journée a été marquée par une tendance baissière sur l'ensemble du marché. Le BRVM-Composite a reculé de 0,58 % pour s'établir à 515,94 points, tandis que les indices BRVM-30 et BRVM-Prestige ont respectivement perdu 0,82 % et 0,98 %. Au total, 21 valeurs ont clôturé en baisse, contre 12 en progression.",
+    "Parmi les replis les plus marqués, SETAO CI a chuté de 6,27 %, suivie par la Loterie Nationale du Bénin et Sucrivoire CI. À l'inverse, Vivo Energy CI s'est distinguée avec une hausse de 6,90 %, accompagnée par Bridge Bank Group CI et BICI CI. Le volume total des transactions s'est élevé à 1,24 milliard FCFA, Sonatel Sénégal ayant généré la plus grande part des échanges avec 390 millions FCFA."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65714",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-13T16:28:00Z",
+   "writtenAt": "2026-11-13T16:55:41.276Z",
+   "symbols": [
+    "BBGC",
+    "BICC",
+    "LNBB",
+    "SCRC",
+    "SHEC",
+    "SNTS",
+    "STAC"
+   ],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/brvm-le-marche-marque-un-arret-vivo-energy-ci-s-illustre-a-contre-courant_65714",
+    "title": "BRVM : Le marché marque un arrêt, Vivo Energy CI s'illustre à contre-courant"
+   },
+   "rewritten": true
+  },
   {
    "id": "sika-65711",
    "title": "Transport aérien en Côte d'Ivoire : 1,16 million de passagers au premier semestre 2026",
@@ -3737,30 +3769,6 @@
     "name": "Sika Finance",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNzhOcTZOUE00SUZCZ2hXNzlFdHZDYW5aTkhQdVlQWm1ZMXQ5V1ZoNnpiWWs1bGpydHQ0cktyd1pRWVpKN1F6U0hQSzhuZVFDMnM1TkJSU2k0YUkwVm4yTF9CX1JvNkNPQ05TVzB0VDJxcV9DdGJPUVkwdXZwOU1IOXlGdFM0ZHN5VmdJVWdNR1NjbVNMcVpmQ1RUZjYwalhoMkV6TVp1VlZFYmFSX2poaA?oc=5",
     "title": "BRVM / Semaine 43 : Les résultats rebattent les cartes, le marché rebondit"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65434",
-   "title": "Bénin : 28 millions d'euros pour le développement de quatre centrales solaires",
-   "summary": "Proparco et l'IFC investissent 28 millions d'euros dans quatre centrales solaires au Bénin, marquant une étape clé pour l'implication du secteur privé dans la production d'électricité renouvelable.",
-   "body": [
-    "Le Bénin franchit une étape majeure avec le lancement de quatre centrales solaires photovoltaïques totalisant 62 MWc de capacité. Ce projet, financé à hauteur de 28 millions d'euros par Proparco et la Société financière internationale (IFC), est porté par AXIAN Energy Green et Sika Capital. Il s'agit de la première initiative de ce type menée par un producteur indépendant d'électricité dans le pays, visant à diversifier un mix énergétique encore dominé à plus de 80 % par le thermique.",
-    "La construction et la maintenance des installations ont été confiées à l'entreprise Sagemcom. À terme, ces infrastructures devraient couvrir environ 10 % de la capacité électrique nationale, tout en évitant l'émission de 62 000 tonnes de CO₂ par an. Le projet ambitionne également d'améliorer l'accès à l'énergie pour 50 000 foyers et de soutenir la création ou le maintien de 5 845 emplois indirects, illustrant ainsi la viabilité des investissements privés dans le secteur énergétique béninois."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65434",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-02T15:44:00Z",
-   "writtenAt": "2026-11-06T10:55:00.086Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/benin-proparco-et-ifc-mobilisent-28-millions-deuros-pour-quatre-centrales-solaires-de-62-mwc_65434",
-    "title": "Bénin : Proparco et IFC mobilisent 28 millions d’euros pour quatre centrales solaires de 62 MWc"
    },
    "rewritten": true
   }
