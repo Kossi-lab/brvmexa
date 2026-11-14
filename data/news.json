@@ -1,6 +1,30 @@
 {
- "updatedAt": "2026-11-14T04:59:51.406Z",
+ "updatedAt": "2026-11-14T08:58:09.401Z",
  "items": [
+  {
+   "id": "gn-101dty3",
+   "title": "La Société ivoirienne de raffinage étudie une possible entrée à la BRVM",
+   "summary": "La Société ivoirienne de raffinage (SIR) explore actuellement les modalités d'une future introduction en Bourse.",
+   "body": [
+    "La Société ivoirienne de raffinage (SIR) a fait part de son intention d'intégrer le marché financier régional. Ce projet d'introduction en Bourse marque une étape stratégique pour l'entreprise ivoirienne.",
+    "Les réflexions autour de cette opération ont été rendues publiques ce 14 novembre 2026. La société examine désormais les conditions nécessaires à une telle démarche sur la place boursière de l'UEMOA."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#gn-101dty3",
+   "image": null,
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-14T05:00:00.000Z",
+   "writtenAt": "2026-11-14T08:58:09.398Z",
+   "symbols": [],
+   "origin": {
+    "name": "Forbes Afrique",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeTNWNkdua3hRaDJQMjZWTUtVbUw3OWRMNF9fMWtOYnpYczYzN2ZvLVdZdGxaZUZ2ekFGLVViTkFzbDZuc080ckh0aldhVFlTSFlBX2xwT01XZmlwaEtRVXpseTVHVkJSMXNMcGNjTGxOQ1kxakNlTTV5QW4wS0tOTjl1SU15U3NSZmk1WVV2YkZzNmJ2a0pleHlWV3c4UQ?oc=5",
+    "title": "La Société ivoirienne de raffinage envisage une introduction en Bourse"
+   },
+   "rewritten": true
+  },
   {
    "id": "sika-65718",
    "title": "Le secteur aurifère ivoirien affiche un chiffre d'affaires de 2 605,8 milliards FCFA en 2025",
@@ -3733,37 +3757,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/nei-ceda-ci-baisse-de-94-du-resultat-net-a-fin-septembre-2026_65441",
     "title": "NEI-CEDA CI : Baisse de 94% du résultat net à fin septembre 2026"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65437",
-   "title": "La BRVM sous pression malgré la performance notable de SMB",
-   "summary": "La Bourse régionale entame la semaine en repli, marquée par des résultats financiers contrastés qui influencent fortement le comportement des titres.",
-   "body": [
-    "La séance de ce lundi est marquée par une tendance baissière sur les trois indices phares de la BRVM. Le BRVM-Composite recule de 1,76 % à 525,30 points, tandis que le BRVM-30 et le BRVM-Prestige s'inscrivent également en baisse, perdant respectivement 1,92 % et 1,36 %. Ce repli est notamment accentué par la contre-performance de Sonatel, dont la baisse de cours entraîne une diminution de 200 milliards FCFA de sa capitalisation boursière.",
-    "Le marché réagit vivement aux publications financières, sanctionnant sévèrement certains titres comme Sicable (-7,36 %), SAPH (-7,23 %) et CFAO Motors (-7,14 %), tous affectés par des résultats semestriels en retrait. À l'inverse, SMB se distingue par une progression de 7,50 % à 15 695 FCFA, portée par des résultats trimestriels jugés favorables par les investisseurs. SOGB et AGL parviennent également à tirer leur épingle du jeu avec des hausses respectives de 1,57 % et 1,15 %.",
-    "Malgré la correction de son cours, Sonatel domine largement les échanges de la journée. Le titre a généré 752,56 millions FCFA de transactions, représentant près de 30 % du volume global du marché, qui s'établit à 2,55 milliards FCFA."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65437",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-02T16:48:00Z",
-   "writtenAt": "2026-11-06T09:54:52.535Z",
-   "symbols": [
-    "CABC",
-    "CFAC",
-    "SNTS",
-    "SOGC",
-    "SPHC"
-   ],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/brvm-smb-fait-sensation-au-milieu-de-la-vague-de-publications-trimestrielles_65437",
-    "title": "BRVM : SMB fait sensation au milieu de la vague de publications trimestrielles"
    },
    "rewritten": true
   }
