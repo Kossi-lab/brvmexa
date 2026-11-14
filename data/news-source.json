@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-14T12:59:51.874Z",
+ "updatedAt": "2026-11-14T16:50:25.518Z",
  "items": [
+  {
+   "id": "sika-65726",
+   "title": "RDC : Proxima Capital obtient son agrément et fait son entrée sur le marché de la microfinance",
+   "summary": "Proxima Capital RDC a obtenu de la Banque centrale du Congo (BCC) l'agrément l'autorisant à exercer en qualité d'instit...",
+   "url": "https://www.sikafinance.com/marches/rdc-proxima-capital-obtient-son-agrement-et-fait-son-entree-sur-le-marche-de-la-microfinance_65726",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-14T13:54:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "sika-65725",
+   "title": "Sénégal : Le plan de redressement accuse un manque à gagner de 162,3 milliards FCFA à fin septembre 2026",
+   "summary": "Le Plan de redressement économique et social (PRES) du Sénégal affiche un retard de mobilisation de 162,3 millia...",
+   "url": "https://www.sikafinance.com/marches/senegal-le-plan-de-redressement-accuse-un-manque-a-gagner-de-162-3-milliards-fcfa-a-fin-septembre-2026_65725",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-14T13:34:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "sika-65724",
+   "title": "RDC : Après la microfinance, les dirigeants de Proxima se lancent dans le capital-investissement",
+   "summary": "Trois jours après l'annonce de l'agrément de Proxima Capital RDC par la Banque centrale du Congo (BCC), Jean-Clément Di...",
+   "url": "https://www.sikafinance.com/marches/rdc-apres-la-microfinance-les-dirigeants-de-proxima-se-lancent-dans-le-capital-investissement_65724",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-14T13:24:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "gn-101dty3",
    "title": "La Société ivoirienne de raffinage envisage une introduction en Bourse",
@@ -3638,6 +3680,22 @@
    "tries": 0
   },
   {
+   "id": "gn-12f5q1s",
+   "title": "BRVM : 5 actions africaines en forte hausse – NEIC bondit de +69,66%",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMENRQzJoR3lvSG1fZHY0R29zc3lfeEN6Mk5Da05qRFdPM1hpTEd6YS1NZkFra1BkSldxT3k2SlF4cFh0c0QzblhuamMyS1lMNWh0UmNpNWlUM2ozdno4Z2wxUWNQczRoMnJOUHJJZ09JWHBFRklBcTBhcVFtcENOSldJZU53MGVjdUdB?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-08-11T07:00:00.000Z",
+   "symbols": [
+    "NEIC"
+   ],
+   "status": "new",
+   "tries": 0
+  },
+  {
    "id": "gn-5ivs3c",
    "title": "BRVM : 6 actions clés en forte progression, Bank of Africa – Niger en tête",
    "summary": null,
@@ -4301,34 +4359,6 @@
    "symbols": [
     "BOAS"
    ],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "gn-1e9kldc",
-   "title": "La BRVM veut remplir sa bourse",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUzhYaG82UmZlSmUtZGJVYWNZbjNVMEJwYWVVVGp0a2I3LW1fdDhKQW9adDFhV1Q4cC1RMnVaNWluNHgyR01OaHJyeEhRUTVvQjNlWTY4SWN6d3FWNXM2OWJVdERoeVhYR19POUpFZFBBTVZlcGxrTWY4VGpkMDNTd3paOUxManhVU1VTdXZnbjk?oc=5",
-   "image": null,
-   "source": "Jeune Afrique",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2014-05-16T07:00:00.000Z",
-   "symbols": [],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "gn-ljgc92",
-   "title": "Bourse : nouveau patron pour la BRVM",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPc3pKN3lwZE12ajJRUGpuQ3QwQ1BCRkRKUnVrZHczd3F0clRRNG9qaGNFcFUwUVE4UkFmMWRmSTBZbnlvb29FMVdJYUtTU1N2YldURUtKcXFOdjA2Y01WckphQWszZUxaMlM4QTZOOGJQcWgwZmtzUW9SY2xNanNvRDlQMnNCbjE1bGF4WE81bFdISVo2Q0E?oc=5",
-   "image": null,
-   "source": "Jeune Afrique",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2012-08-13T07:00:00.000Z",
-   "symbols": [],
    "status": "new",
    "tries": 0
   }
