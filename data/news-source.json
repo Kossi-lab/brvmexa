@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-14T20:47:32.991Z",
+ "updatedAt": "2026-11-15T06:29:49.395Z",
  "items": [
   {
    "id": "sika-65726",
@@ -3824,6 +3824,20 @@
    "tries": 0
   },
   {
+   "id": "gn-o76v2g",
+   "title": "Les transactions sur la BRVM seront désormais réglées deux jours ouvrables après leur exécution.",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeDdmUGsxNWNTN2lCaVB4YWtmck8ycU1MQ3RCWTdBNzUzQTFpVWkzUnZGUHQ5ek1ycVhKM2hVb0Z1QUpQNXZ4ZmxsSmZGaEt6WE9Fck5tczl3RXJWQ0l3WDJnVlNTemVuMGlnNHhEUlBhTXdpLVotMi05Tkx4bTFQcQ?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2025-12-01T08:00:00.000Z",
+   "symbols": [],
+   "status": "new",
+   "tries": 0
+  },
+  {
    "id": "gn-3v45sc",
    "title": "BRVM et Casablanca : pourquoi les bourses d’Afrique francophone s’envolent",
    "summary": null,
@@ -4342,22 +4356,6 @@
    "publishedAt": "2015-02-21T08:00:00.000Z",
    "symbols": [
     "TTLS"
-   ],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "gn-1cbjibh",
-   "title": "Bourse : BOA Sénégal réussit son entrée à la BRVM",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOS1BlTXVVNFF6bFdraEZRa05iV0dGWkVneXJZRWtUc1lCVWdWVUJBd1BFM0txb2JwQ3ZjUVJKVlNGVjlZS2VUU0d1QTlKbzZqYV95SE44SzBIZVRtWlFNa0RXMDZtcHdCY3RrQVk5SFkzaHJDeUdOWURaVE43MnJ1cTZQaHp5cWFudEVMZjI5T1RIa01ScGdLbGQ5aVM4YnQ5TkxF?oc=5",
-   "image": null,
-   "source": "Jeune Afrique",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2014-12-16T08:00:00.000Z",
-   "symbols": [
-    "BOAS"
    ],
    "status": "new",
    "tries": 0
