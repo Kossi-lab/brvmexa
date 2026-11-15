@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-15T06:29:49.395Z",
+ "updatedAt": "2026-11-15T15:39:18.683Z",
  "items": [
   {
    "id": "sika-65726",
@@ -3710,6 +3710,22 @@
    "tries": 0
   },
   {
+   "id": "gn-1edrf8f",
+   "title": "Bridge Bank lance une introduction en bourse de 118 millions de dollars sur la BRVM d'Afrique de l'Ouest",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeGR3QUlsVFo0ZF9ZdU0zWGNnMVFvdmJ0a2sxZ2FWV2h3MWRRejJTZGZCT01EQV9TNEFiQS1EdnJfVHNfelB6eWdPQWZiT3RnMERHLUdfQ2FqYjVub1J4b0RrMnc2XzVhZi1jTXAtZGhZS2tYelVSSWdCaTFXZmRrbzJoUkdMZGFhNkhZ?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-07-09T07:00:00.000Z",
+   "symbols": [
+    "BBGC"
+   ],
+   "status": "new",
+   "tries": 0
+  },
+  {
    "id": "gn-e3cy02",
    "title": "A la Bourse régionale des valeurs mobilières, les résultats encourageants des sociétés cotées ivoiriennes",
    "summary": null,
@@ -4077,6 +4093,22 @@
    "tries": 0
   },
   {
+   "id": "gn-wfy4ci",
+   "title": "Action TotalEnergies Marketing Sénégal SA | Cours TTLS Bourse BRVM - Abidjan",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVWpxTDdBVktYMGsxZWpEWGsybk8xOEk5WUFuaHJhT3AyWERRQWFwakM1S3R2bk9ZSjMzMFhveHlnblVKM1d3RXpBOVFYbjgyaE5UYTExTDU2REhKbFRBbUtWdVpCbUZRT0IzcnZ0LThheEJFTVcwTExycTZSdnNfQU5R?oc=5",
+   "image": null,
+   "source": "Zonebourse",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2023-05-03T03:26:39.000Z",
+   "symbols": [
+    "TTLS"
+   ],
+   "status": "new",
+   "tries": 0
+  },
+  {
    "id": "gn-lclbq3",
    "title": "Action Coris Bank International SA | Cours CBIBF Bourse BRVM - Abidjan",
    "summary": null,
@@ -4327,36 +4359,6 @@
    "premium": false,
    "publishedAt": "2015-10-23T07:00:00.000Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "gn-188h4s0",
-   "title": "La Bourse de Casablanca et la BRVM préparent leur rapprochement",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPb3FqS3Y0T2lKZGpGckhEX1gtNHdqekpFY3dSUmdUOG9NRDZScjZKanktMEZLdllfaWRQTEV2S21mbkRJZVYzY2tRNGlzN21GaFgyRlFoWG9UZUlKSndrMjl5WWpuVHhNVXk0SGMxV3FidmxwSEEzLVk2d0VFS1NiT1BrdGh4SVB5a2stcVNNbk1fY0xVcVlyakJfNmFmNV8xbDZIT1l1a21CazlGSTlaUWpTRGI3UXlHa2ZZMDZn?oc=5",
-   "image": null,
-   "source": "Jeune Afrique",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2015-07-01T07:00:00.000Z",
-   "symbols": [],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "gn-noacj3",
-   "title": "Bourse : Total Sénégal rejoint la BRVM",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOWl1RXZnWVFGVV9QMjdFOGFVTlVtajRRWXJVeFRHTGNpV0VsdzdSRHdZRmMwY0k2SEkyQ1Mzb3VOZlhVQTZja1NrMWlBY09LOVRGQ1FTd1lHOUROcElURC1JTUZITGFRVTl4d01rSHc0d29PeTFjWV93d0NJdldESFVyQ1o5OHhHZnNlOFVWV2lVWWQ1eWFkbURn?oc=5",
-   "image": null,
-   "source": "Jeune Afrique",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2015-02-21T08:00:00.000Z",
-   "symbols": [
-    "TTLS"
-   ],
    "status": "new",
    "tries": 0
   }
