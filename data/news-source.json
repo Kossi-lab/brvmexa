@@ -1,6 +1,162 @@
 {
- "updatedAt": "2026-11-16T10:33:57.241Z",
+ "updatedAt": "2026-11-16T20:42:42.008Z",
  "items": [
+  {
+   "id": "sika-65763",
+   "title": "Marchés émergents : 1 000 milliards USD en jeu pour financer la prochaine génération de croissance",
+   "summary": "Le prochain grand gisement de rendement financier pourrait se trouver là où les capitaux internationaux restent ...",
+   "url": "https://www.sikafinance.com/marches/marches-emergents-1-000-milliards-usd-en-jeu-pour-financer-la-prochaine-generation-de-croissance_65763",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-11-16T17:19:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "sika-65762",
+   "title": "Côte d’Ivoire : Le riz et le poisson ont coûté près de 1 260 milliards FCFA d’importation en 2025",
+   "summary": "Les importations ivoiriennes de riz et de poissons congelés ont atteint 1,917 milliard d'euros en 2025, soit environ 1 ...",
+   "url": "https://www.sikafinance.com/marches/cote-divoire-le-riz-et-le-poisson-ont-coute-pres-de-1-260-milliards-fcfa-dimportation-en-2025_65762",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-11-16T16:20:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "sika-65761",
+   "title": "BRVM : SETAO CI prend de la hauteur malgré le recul généralisé",
+   "summary": "La BRVM entame la semaine sur une note négative, avec un repli généralisé de ses principaux indices. Le BRVM-Composite ...",
+   "url": "https://www.sikafinance.com/marches/brvm-setao-ci-prend-de-la-hauteur-malgre-le-recul-generalise_65761",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-16T16:18:00Z",
+   "symbols": [
+    "STAC"
+   ],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "sika-65760",
+   "title": "Ghana : TikTok et ICC inaugurent des laboratoires de commerce numérique pour propulser les microentreprises vers de nouveaux marchés",
+   "summary": "Le géant technologique TikTok et la Chambre de commerce internationale (ICC) ont inauguré des laboratoires de commerce ...",
+   "url": "https://www.sikafinance.com/marches/ghana-tiktok-et-icc-inaugurent-des-laboratoires-de-commerce-numerique-pour-propulser-les-microentreprises-vers-de-nouveaux-marches_65760",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-16T15:52:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "sika-65757",
+   "title": "Schneider Electric présente l'intelligence énergétique au SIREXE 2026",
+   "summary": "Schneider Electric présentera des solutions pour renforcer la fiabilité et l'efficacité des infrastructures énergétique...",
+   "url": "https://www.sikafinance.com/marches/schneider-electric-presente-l-intelligence-energetique-au-sirexe-2026_65757",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-16T14:52:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "sika-65756",
+   "title": "Numérique : Près de 168 milliards USD de revenus attendus pour le marché mondial des données en 2026",
+   "summary": "Le marché mondial des services de données et d'analyse connaît une expansion fulgurante et attire des investissem...",
+   "url": "https://www.sikafinance.com/marches/numerique-pres-de-168-milliards-usd-de-revenus-attendus-pour-le-marche-mondial-des-donnees-en-2026_65756",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-16T14:51:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "sika-65755",
+   "title": "Distribution, cybersécurité, intégration : Où se trouve l'argent dans la Tech ivoirienne ?",
+   "summary": "Dans l'univers ivoirien de la tech, un échantillon de plus d'une trentaine d'entreprises dont les données sont disponib...",
+   "url": "https://www.sikafinance.com/marches/distribution-cybersecurite-integration-ou-se-trouve-l-argent-dans-la-tech-ivoirienne-_65755",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-16T14:28:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "sika-65753",
+   "title": "Cybersécurité : L’IA et le cloud en tête des priorités confiées aux fournisseurs de services managés",
+   "summary": "Faute d'experts en interne et face à la hausse rapide des attaques informatiques, les entreprises confient de plus en p...",
+   "url": "https://www.sikafinance.com/marches/cybersecurite-lia-et-le-cloud-en-tete-des-priorites-confiees-aux-fournisseurs-de-services-manages_65753",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-16T14:14:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "sika-65749",
+   "title": "UMOA : Près d’une banque sur 4 perd de l’argent, le revers caché du classement des plus rentables",
+   "summary": "Combien rapporte 100 FCFA investis dans une banque de l'UEMOA ? En moyenne, 15,2 FCFA de bénéfice en 2024. Mais ce...",
+   "url": "https://www.sikafinance.com/marches/umoa-pres-dune-banque-sur-4-perd-de-largent-le-revers-cache-du-classement-des-plus-rentables_65749",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-11-16T13:07:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "sika-65750",
+   "title": "SIREXE 2026 : Ce que le Centre d’analyses et de recherche de PETROCI s’apprête à révéler au public",
+   "summary": "A l'occasion du SIREXE 2026, qui s'ouvre ce mercredi 18 novembre, le Centre d'analyses et de recherche de PETROCI ouvri...",
+   "url": "https://www.sikafinance.com/marches/sirexe-2026-ce-que-le-centre-danalyses-et-de-recherche-de-petroci-sapprete-a-reveler-au-public_65750",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-16T13:02:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "gn-1wvjby6",
+   "title": "Énergie SIR: la Société ivoirienne de raffinage envisage une introduction à la BRVM -",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbjRFVFBIdndkZ2loVmgwcnEyWTdaZ1QzU2JJRnJyNmJlcExFekNaaThpc2JSdjVuYzV2X0ozUnQyQmJxSXBlME9PME1na1lLTm9aSFZNbmZpbk94XzduZGFiX3poTkJ5SG41QUl6OGFCUVA0RWw4TGp0aXRfek14bW5Zb1NQMFNPdTlJTmdnRDJiMWg4Ul9hTVVfWnBPcDNwZkQ4Vm0yUHBYMkFFUE85ZUZNNTZCSkU4dUhDYWZtRXVmeDg0NXc?oc=5",
+   "image": null,
+   "source": "Connectionivoirienne",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-16T10:43:56.000Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65745",
    "title": "SIKA COMMODITIES WEEKLY 45 : Des marchés contrastés, entre repli du pétrole et rebond du caoutchouc",
@@ -88,20 +244,6 @@
    "tries": 1
   },
   {
-   "id": "gn-1wvjby6",
-   "title": "Énergie SIR: la Société ivoirienne de raffinage envisage une introduction à la BRVM -",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbjRFVFBIdndkZ2loVmgwcnEyWTdaZ1QzU2JJRnJyNmJlcExFekNaaThpc2JSdjVuYzV2X0ozUnQyQmJxSXBlME9PME1na1lLTm9aSFZNbmZpbk94XzduZGFiX3poTkJ5SG41QUl6OGFCUVA0RWw4TGp0aXRfek14bW5Zb1NQMFNPdTlJTmdnRDJiMWg4Ul9hTVVfWnBPcDNwZkQ4Vm0yUHBYMkFFUE85ZUZNNTZCSkU4dUhDYWZtRXVmeDg0NXc?oc=5",
-   "image": null,
-   "source": "Connectionivoirienne",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-11-16T08:49:01.000Z",
-   "symbols": [],
-   "status": "done",
-   "tries": 1
-  },
-  {
    "id": "gn-knt0d5",
    "title": "Bourse régionale des valeurs mobilières: les sociétés burkinabè se portent bien",
    "summary": null,
@@ -110,7 +252,7 @@
    "source": "L'economiste du faso",
    "category": "Presse",
    "premium": false,
-   "publishedAt": "2026-11-16T07:43:25.000Z",
+   "publishedAt": "2026-11-16T07:45:31.000Z",
    "symbols": [],
    "status": "done",
    "tries": 1
@@ -3824,6 +3966,20 @@
    "tries": 0
   },
   {
+   "id": "gn-xi29kb",
+   "title": "Le Marché de la BRVM en Effervescence : 4 Actions Clés Affichent des Gains Notables",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNODNwelhhdklCcU1sbGtpVnd5UlBzUWVrV0VQUUZQZHlyY2dPV3lIX3FGeVlZSVlhTmVCd2wwVVNZM0VvXzlwZUtobzkxa0hPeklzUlJPNHdMRGk2cXpQZXBuWjBZUnZnSC0zdnl3emNtZVN1c2F6TzAzOTNhN3c5U2x4Yk1GY1A5RHdpTEhtRzlCenoy?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-08-06T07:00:00.000Z",
+   "symbols": [],
+   "status": "new",
+   "tries": 0
+  },
+  {
    "id": "gn-1etny21",
    "title": "BRVM : Forte activité et hausses notables pour 5 actions clés, ETIT bondit de +100%",
    "summary": null,
@@ -4187,172 +4343,6 @@
     "SEMC",
     "SLBC"
    ],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "gn-xnx819",
-   "title": "La BRVM signe un accord de coopération avec la bourse de Montréal pour la création d’un marché des produits dérivés",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPWGFfQURnYVU3andDR0gyeXZSRkoyQzFiRnJpaDJKX2x1OEFtay00NUxOdmVYZlN2QjdqSDZKY1VwNGFmb3RqMTlFVVFnY1ZKUW1RaUUxRXN2SjczVlZSMkd6M3lZSmhuUG9lN1k0LWRjTFZVVlJ3R25MYzE1Y3E1bTF1czJDTjRtMmx5SUpOZUZHQkp4cmlleTF3V0RFTUNKWVRCajhiOW9ObW9nck5RcEtYY05USXFkSU9lWVVSYWg1aU9lN2RtUEdZeU8zenlpUERrSEg4NzJ6N3RMOXhyVW9TMkg3LWJGU1J1WHJIUlNJcTlMVDk0?oc=5",
-   "image": null,
-   "source": "AGENCE ECOFIN",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2024-03-07T08:00:00.000Z",
-   "symbols": [],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "gn-mtvjft",
-   "title": "La BRVM: Investissez dans l'essor économique de l'Afrique de l'Ouest",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNXFFTWhjV3lkZzRERW1DSGtVMmtZaU9qSDd3QlJMRmxfeVBqRjRnR2otYm90ZGRvazVTQ0tZeFd2OWJfc1N5V3hYelhfMVhGZnhXS2RYSVRhTVZGZEQ2cUVrQkFaRjJpWGswNWctMlZwWDU2R0tqTUJNSklQaF9PdWV5YUpOX3BiZXRFeUI2TDRlNUhnV0FheEJ2czE0Tmpz?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2024-02-01T08:00:00.000Z",
-   "symbols": [],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "gn-1upkapn",
-   "title": "Action TotalEnergies Marketing Côte d'Ivoire S.A. | Cours TTLC Bourse BRVM - Abidjan",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOLTZadWcwWmZMNmxaMXVPVXlvSE45bXFURnM4N1FYc2NWSjByR0xlMUZlakY4cHZCbVJKZjUzcVFDOWU3cTZUUEl6Qmdvd19OSHA1QnRMTFFnS1dRUTZxSlJKaHhyMjdEOXo0eE5oejRfZmRxZzZ4Sk4xT2RmQUJSZw?oc=5",
-   "image": null,
-   "source": "Zonebourse",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2024-01-05T07:08:10.000Z",
-   "symbols": [
-    "TTLC"
-   ],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "gn-15g4gf6",
-   "title": "La BRVM conclut un accord majeur avec la bourse de Luxembourg",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZG1DaUZqXzhsRGEwZVhTa3JSakkwd3FNcmVCcXpuYXB1U1RXSEFRaDZtSVZDLXROVFdrTkQ3ZW5TWGNxQ29IVUZLN3FyZkx5TDJncEloNDFpWTAzTlNSckJWY1o2UW5IYXR5SHU5UUFEX3MyOHI0QjJ5aS0yV3JZdXJJTkZBQVNyVW8ycllPZjlXS21DbzVNZk5hd09yNDg?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2023-10-06T07:00:00.000Z",
-   "symbols": [],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "gn-1leodzv",
-   "title": "Sonatel, Ecobank, Orange… Pourquoi la BRVM connaît un pic historique",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYi16Tk1xek9lbTRNWTljdzJmdUluUWpKX1hTMk5lMTUtdjd0SDhTQXlUZUtPSGVZVVBnOHRIX0x3bFlQeTJqelVTMUhkaHI4ZzdDQWhaXzN1cDllMmpCbmkxWHpEZ25TZmNidUJZUHU0cFJ3QktPLVZLdWNVcnB4dVg2cEhuSUF1NzNwdnZwS1RORlhOcmhkX1F4Q1l2ZjRITGpSSDl5MnBSdDY3dS1LMjhvMjVPdkIwM29CczVfc0x4QQ?oc=5",
-   "image": null,
-   "source": "Jeune Afrique",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2023-09-15T07:00:00.000Z",
-   "symbols": [
-    "SNTS"
-   ],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "gn-wfy4ci",
-   "title": "Action TotalEnergies Marketing Sénégal SA | Cours TTLS Bourse BRVM - Abidjan",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVWpxTDdBVktYMGsxZWpEWGsybk8xOEk5WUFuaHJhT3AyWERRQWFwakM1S3R2bk9ZSjMzMFhveHlnblVKM1d3RXpBOVFYbjgyaE5UYTExTDU2REhKbFRBbUtWdVpCbUZRT0IzcnZ0LThheEJFTVcwTExycTZSdnNfQU5R?oc=5",
-   "image": null,
-   "source": "Zonebourse",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2023-05-03T03:26:39.000Z",
-   "symbols": [
-    "TTLS"
-   ],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "gn-lclbq3",
-   "title": "Action Coris Bank International SA | Cours CBIBF Bourse BRVM - Abidjan",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUlphcloySVZ3UVRqbHN1U2JVMENZU1VTQmxveTQzMGZieVJueGlEV0Y5QTFJVnNTRjNNeFZYM1RGRnNHTzMtT0ZyaXAwalZGVGN0R1pHakpkZWNEeHVxVFV0RWFmV2pheHBMLW84a2V0WldyUnNaT2RTZlVwN0RJTA?oc=5",
-   "image": null,
-   "source": "Zonebourse",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2022-10-21T14:07:25.000Z",
-   "symbols": [
-    "CBIBF"
-   ],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "gn-1yeft7a",
-   "title": "Action Bank of Africa - Côte D'ivoire | Cours BOAC Bourse BRVM - Abidjan",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVDBFTUt4NHpoVmdRNVBSelRLc3dHcHhXNE5RaVZZc1NPaF90eFgwWFI2a1UyMDBKbjYwYUdrVTFjNm5Dc3h4eEFuNUlWRWZ2X2dZM2QwaGFKd0w1MWZhcXhlUkswcWxpQlluYTMxcXJ0NWhVSTc1SGtfY2QzYk5xcw?oc=5",
-   "image": null,
-   "source": "Zonebourse",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2022-04-03T08:45:40.000Z",
-   "symbols": [
-    "BOAC"
-   ],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "gn-y59aj2",
-   "title": "Bourse : La BRVM épingle les sociétés qui ne respectent pas les obligations de diffusion d’informations financières",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQdnkzbTZkSzRDSkpLbDBlSlJfcjg0ak1ROWtLazNJYUJ4UXBXNjY3NkowTFJlNXRUa0xXRVoxeXNKa2VCZTJOck10cE93YzVVS29LNzl6cTN1ZGtKY01VcEJtOWgyY1NCYi1hcFdsMTkxZWNpdXYxdU5MeHVTOHFmME01WmV5TUNIbjJjdlFULWY1REQwTndMc1hFUmN6NHRqMUd2WTRRYUpOV2tUUHoyWmhhcG9uelEzazlSeVpIbzNITGQyajFtV05NU1ZGNXdSWE5IZmR2b2hMZU1Xako4S3BLQ0tlWXZyWkdr?oc=5",
-   "image": null,
-   "source": "Financial Afrik",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2021-11-29T08:00:00.000Z",
-   "symbols": [],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "gn-12zawlx",
-   "title": "Action Bank of Africa - Benin SA | Cours BOAB Bourse BRVM - Abidjan",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9GNmx3Z3VXODE3MnI3dVV1WXBJOGpXemZRb3VjcW5ZSVlfTlJmVkZvQ2FLMWtVakhmNi0yclk2QktBUWl2V3ZqTTZscEVFY2dKTlpvb3dNSDB2M3F3UG53UUtMUThGbVN5MnlWdFd5VnFHcTNXVW9NODZjVTZ0QQ?oc=5",
-   "image": null,
-   "source": "Zonebourse",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2021-02-18T19:58:14.000Z",
-   "symbols": [
-    "BOAB"
-   ],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "gn-15xgo1j",
-   "title": "BRVM COMPOSITE - Cours BRVMCO bourse - Cotation BRVM - Abidjan",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE00N3puY3pvNF9OWXE5SGF2OTg3Zjc5UnBadmlRdlJKaDlVcGhJMWhuRWxTU0c4REg1Q1ZVeHJRb2trQXNQQjZlOWthblg4MVRHb2pLQmtBZHN5b0NfQnFzcFl3eGtaMDhVWlowbERfMUZOdw?oc=5",
-   "image": null,
-   "source": "Zonebourse",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2020-08-25T07:29:43.000Z",
-   "symbols": [],
    "status": "new",
    "tries": 0
   }

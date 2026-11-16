@@ -1,124 +1,124 @@
 {
- "updatedAt": "2026-11-16T10:33:51.076Z",
+ "updatedAt": "2026-11-16T20:40:59.061Z",
  "sessionDate": "2026-11-16",
- "sessionTime": "10:30",
+ "sessionTime": "20:30",
  "source": "brvm.org",
- "transactionsValue": 522500324,
- "capitalisationActions": 20274736227323,
- "capitalisationBonds": 13412712167018,
- "advancing": 11,
- "declining": 25,
- "unchanged": 12,
- "totalVolume": 101342,
+ "transactionsValue": 2485476637,
+ "capitalisationActions": 20111615006223,
+ "capitalisationBonds": 13411263856318,
+ "advancing": 9,
+ "declining": 33,
+ "unchanged": 6,
+ "totalVolume": 812440,
  "gainers": [
   {
-   "symbol": "SCRC",
-   "shortName": "Sucrivoire CI",
-   "close": 1605,
-   "change": 3.22,
-   "volume": 12154
+   "symbol": "STAC",
+   "shortName": "SETAO CI",
+   "close": 2090,
+   "change": 7.46,
+   "volume": 3816
   },
   {
-   "symbol": "ORAC",
-   "shortName": "Orange Côte d’Ivoire",
-   "close": 20000,
-   "change": 2.56,
-   "volume": 84
+   "symbol": "BNBC",
+   "shortName": "Bernabé CI",
+   "close": 1770,
+   "change": 2.61,
+   "volume": 64
+  },
+  {
+   "symbol": "CFAC",
+   "shortName": "CFAO Motors CI",
+   "close": 1285,
+   "change": 1.98,
+   "volume": 3098
   },
   {
    "symbol": "SGBC",
    "shortName": "Société Générale CI",
-   "close": 39600,
-   "change": 1.93,
-   "volume": 8106
+   "close": 39450,
+   "change": 1.54,
+   "volume": 10712
   },
   {
-   "symbol": "SDCC",
-   "shortName": "SODECI",
-   "close": 12600,
-   "change": 1.61,
-   "volume": 39
-  },
-  {
-   "symbol": "ORGT",
-   "shortName": "Oragroup Togo",
-   "close": 2650,
-   "change": 1.34,
-   "volume": 1056
+   "symbol": "SNTS",
+   "shortName": "Sonatel",
+   "close": 4145,
+   "change": 0.85,
+   "volume": 130248
   }
  ],
  "losers": [
+  {
+   "symbol": "SOGC",
+   "shortName": "SOGB CI",
+   "close": 7500,
+   "change": -4.46,
+   "volume": 7068
+  },
+  {
+   "symbol": "SIBC",
+   "shortName": "Société Ivoirienne de Banque",
+   "close": 8515,
+   "change": -4.22,
+   "volume": 34829
+  },
+  {
+   "symbol": "BOAC",
+   "shortName": "BOA Côte d’Ivoire",
+   "close": 11500,
+   "change": -4.09,
+   "volume": 9618
+  },
+  {
+   "symbol": "CIEC",
+   "shortName": "CIE Côte d’Ivoire",
+   "close": 4900,
+   "change": -3.92,
+   "volume": 16297
+  },
   {
    "symbol": "UNLC",
    "shortName": "Unilever CI",
    "close": 45000,
    "change": -3.23,
-   "volume": 33
-  },
-  {
-   "symbol": "ONTBF",
-   "shortName": "Onatel Burkina Faso",
-   "close": 2830,
-   "change": -2.41,
-   "volume": 819
-  },
-  {
-   "symbol": "BOAM",
-   "shortName": "BOA Mali",
-   "close": 5600,
-   "change": -1.84,
-   "volume": 745
-  },
-  {
-   "symbol": "BOABF",
-   "shortName": "BOA Burkina Faso",
-   "close": 7805,
-   "change": -1.82,
-   "volume": 267
-  },
-  {
-   "symbol": "CBIBF",
-   "shortName": "Coris Bank International",
-   "close": 31500,
-   "change": -1.53,
-   "volume": 73
+   "volume": 37
   }
  ],
  "mostActive": [
   {
-   "symbol": "SGBC",
-   "shortName": "Société Générale CI",
-   "close": 39600,
-   "change": 1.93,
-   "volume": 8106
+   "symbol": "SNTS",
+   "shortName": "Sonatel",
+   "close": 4145,
+   "change": 0.85,
+   "volume": 130248
   },
   {
-   "symbol": "LNBB",
-   "shortName": "Loterie Nationale du Bénin",
-   "close": 3800,
-   "change": 0,
-   "volume": 9395
+   "symbol": "SGBC",
+   "shortName": "Société Générale CI",
+   "close": 39450,
+   "change": 1.54,
+   "volume": 10712
+  },
+  {
+   "symbol": "SIBC",
+   "shortName": "Société Ivoirienne de Banque",
+   "close": 8515,
+   "change": -4.22,
+   "volume": 34829
+  },
+  {
+   "symbol": "ORAC",
+   "shortName": "Orange Côte d’Ivoire",
+   "close": 19505,
+   "change": 0.03,
+   "volume": 8298
   },
   {
    "symbol": "BOAC",
    "shortName": "BOA Côte d’Ivoire",
-   "close": 11990,
-   "change": 0,
-   "volume": 1916
-  },
-  {
-   "symbol": "SNTS",
-   "shortName": "Sonatel",
-   "close": 4120,
-   "change": 0.24,
-   "volume": 5258
-  },
-  {
-   "symbol": "SCRC",
-   "shortName": "Sucrivoire CI",
-   "close": 1605,
-   "change": 3.22,
-   "volume": 12154
+   "close": 11500,
+   "change": -4.09,
+   "volume": 9618
   }
  ]
 }
