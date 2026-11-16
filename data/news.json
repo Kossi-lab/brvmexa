@@ -1,6 +1,30 @@
 {
- "updatedAt": "2026-11-16T10:16:03.681Z",
+ "updatedAt": "2026-11-16T10:33:57.242Z",
  "items": [
+  {
+   "id": "sika-65745",
+   "title": "Matières premières : une semaine marquée par des trajectoires divergentes",
+   "summary": "Après une période de forte correction, les cours des matières premières affichent des résultats contrastés, chaque produit réagissant désormais à ses propres fondamentaux d'offre et de demande.",
+   "body": [
+    "Le pétrole Brent a clôturé en baisse de 2,52 %, s'établissant à 95,84 dollars. Ce repli s'explique par une réduction de la prime de risque liée à l'Iran, malgré une volatilité marquée en cours de semaine. À l'inverse, le caoutchouc et l'huile de palme ont enregistré des hausses respectives de 5,21 % et 4,79 %, portés par le retour des acheteurs et un effet de rattrapage après les récentes baisses.",
+    "Les produits agricoles présentent des situations variées. Le cacao recule de 0,70 % en raison de stocks élevés, bien que les pluies en Côte d'Ivoire compliquent la logistique. Le coton perd 0,42 % sous la pression d'une récolte américaine rapide, tandis que le sucre progresse de 0,93 % grâce aux prévisions de déficit mondial. Enfin, le café affiche des résultats mitigés, l'arabica gagnant 0,68 % contre un repli de 2,26 % pour le robusta."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65745",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-16T10:13:00Z",
+   "writtenAt": "2026-11-16T10:33:57.240Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/sika-commodities-weekly-45-des-marches-contrastes-entre-repli-du-petrole-et-rebond-du-caoutchouc_65745",
+    "title": "SIKA COMMODITIES WEEKLY 45 : Des marchés contrastés, entre repli du pétrole et rebond du caoutchouc"
+   },
+   "rewritten": true
+  },
   {
    "id": "sika-65743",
    "title": "Congo : sept ministères pilotes pour moderniser le contrôle des dépenses publiques d'ici 2027",
@@ -3724,30 +3748,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/brvm-smb-garde-le-vent-en-poupe-et-signe-un-nouveau-bond-de-7-49-_65470",
     "title": "BRVM : SMB garde le vent en poupe et signe un nouveau bond de 7,49 %"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65469",
-   "title": "Congo : 2,8 milliards FCFA d’échanges informels avec le Cameroun au premier trimestre 2025",
-   "summary": "Un rapport de l'Agence de régulation des transferts de fonds révèle l'ampleur des flux commerciaux informels entre la République du Congo et ses voisins, totalisant 16 milliards FCFA sur cinq destinations.",
-   "body": [
-    "Au premier trimestre 2025, le corridor frontalier de Ntam a enregistré pour 2,8 milliards FCFA d'exportations informelles vers le Cameroun. Le bois domine largement ces échanges avec 74 % du volume, suivi par les produits alimentaires (12 %) et le ciment (8 %). Cette activité est fortement corrélée à la présence de sociétés forestières dans le nord du Congo.",
-    "À l'échelle nationale, les exportations informelles vers cinq pays voisins ont atteint 16 milliards FCFA. Le Cabinda se place en tête avec 9,5 milliards FCFA, principalement portés par le ciment. La RDC et la République centrafricaine suivent avec respectivement 2,2 milliards et 1,9 milliard FCFA, tandis que les flux vers le Gabon restent marginaux. Ces transactions, menées par des commerçants ambulants et des grossistes, échappent aux circuits formels, lesquels totalisent 1 123 milliards FCFA."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65469",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-03T16:46:00Z",
-   "writtenAt": "2026-11-06T09:00:52.052Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/congo-cameroun-bois-ciment-et-produits-alimentaires-au-c%C5%93ur-de-2-8-milliards-fcfa-dechanges-informels_65469",
-    "title": "Congo-Cameroun : bois, ciment et produits alimentaires au cœur de 2,8 milliards FCFA d’échanges informels"
    },
    "rewritten": true
   }

@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-16T10:16:03.680Z",
+ "updatedAt": "2026-11-16T10:33:57.241Z",
  "items": [
+  {
+   "id": "sika-65745",
+   "title": "SIKA COMMODITIES WEEKLY 45 : Des marchés contrastés, entre repli du pétrole et rebond du caoutchouc",
+   "summary": "Après la forte correction de la semaine précédente, les matières premières prennent des directions plus contrastées. Le...",
+   "url": "https://www.sikafinance.com/marches/sika-commodities-weekly-45-des-marches-contrastes-entre-repli-du-petrole-et-rebond-du-caoutchouc_65745",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-16T10:13:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65743",
    "title": "Congo : 7 ministères pilotes retenus pour renforcer le contrôle des dépenses publiques d'ici 2027",
@@ -4339,22 +4353,6 @@
    "premium": false,
    "publishedAt": "2020-08-25T07:29:43.000Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "gn-1nfa1fk",
-   "title": "Action Société Ivoirienne de Banque S.A. | Cours SIBC Bourse BRVM - Abidjan",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZDNkVmpDQ01MZ2Jpa0dvdnM4UzJFTUJBRWhjNC0yUm05NXlUeU05b28wb3dBdUVTVGM1OWVJN0h2OW94NF9zdXcwQ2Z0Z1g5NF9mX2d4c251ME5kUVFHNWlHcml1ZEUwbGRKT1gtMGZLUW5kdHVVVVpiNTJWMHJHNA?oc=5",
-   "image": null,
-   "source": "Zonebourse",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2020-08-23T23:38:56.000Z",
-   "symbols": [
-    "SIBC"
-   ],
    "status": "new",
    "tries": 0
   }
