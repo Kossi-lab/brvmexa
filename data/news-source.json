@@ -1,6 +1,120 @@
 {
- "updatedAt": "2026-11-15T21:01:54.928Z",
+ "updatedAt": "2026-11-16T10:16:03.680Z",
  "items": [
+  {
+   "id": "sika-65743",
+   "title": "Congo : 7 ministères pilotes retenus pour renforcer le contrôle des dépenses publiques d'ici 2027",
+   "summary": "Le Congo-Brazzaville prépare un renforcement du contrôle de ses dépenses publiques à travers sept ministères pilo...",
+   "url": "https://www.sikafinance.com/marches/congo-7-ministeres-pilotes-retenus-pour-renforcer-le-controle-des-depenses-publiques-d-ici-2027_65743",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-16T09:59:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "sika-65740",
+   "title": "Après le pétrole, le ciment, le sucre et les engrais, Dangote ouvre un nouveau chapitre dans le cacao au Ghana",
+   "summary": "Aliko Dangote poursuit sa stratégie de diversification industrielle à travers l'Afrique. Déjà présent dans le raffinage...",
+   "url": "https://www.sikafinance.com/marches/apres-le-petrole-le-ciment-le-sucre-et-les-engrais-dangote-ouvre-un-nouveau-chapitre-dans-le-cacao-au-ghana_65740",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-16T09:38:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "sika-65742",
+   "title": "Ivoire Tech Forum 2026 : L’ANSUT au cœur des solutions numériques inclusives",
+   "summary": "L'Agence Nationale du Service Universel des Télécommunications (ANSUT) a marqué de son empreinte la seconde édition d'I...",
+   "url": "https://www.sikafinance.com/marches/ivoire-tech-forum-2026-lansut-au-c%C5%93ur-des-solutions-numeriques-inclusives_65742",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-16T09:30:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "sika-65744",
+   "title": "BRVM / Semaine 45 : Solibra CI mène la résistance dans une 2ème semaine de correction",
+   "summary": "La BRVM ne parvient toujours pas à renouer avec une dynamique haussière au terme de la semaine du 9 novembre. Le BRVM-C...",
+   "url": "https://www.sikafinance.com/marches/brvm-semaine-45-solibra-ci-mene-la-resistance-dans-une-2eme-semaine-de-correction_65744",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-11-16T09:21:00Z",
+   "symbols": [
+    "SLBC"
+   ],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "sika-65738",
+   "title": "Sénégal : Ces sociétés qui ont absorbé les subventions de l’État à fin septembre 2026",
+   "summary": "Au Sénégal, malgré un contexte économique difficile, le gouvernement continue de subventionner les secteurs les plus st...",
+   "url": "https://www.sikafinance.com/marches/senegal-ces-societes-qui-ont-absorbe-les-subventions-de-letat-a-fin-septembre-2026_65738",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-16T08:54:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "gn-1wvjby6",
+   "title": "Énergie SIR: la Société ivoirienne de raffinage envisage une introduction à la BRVM -",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbjRFVFBIdndkZ2loVmgwcnEyWTdaZ1QzU2JJRnJyNmJlcExFekNaaThpc2JSdjVuYzV2X0ozUnQyQmJxSXBlME9PME1na1lLTm9aSFZNbmZpbk94XzduZGFiX3poTkJ5SG41QUl6OGFCUVA0RWw4TGp0aXRfek14bW5Zb1NQMFNPdTlJTmdnRDJiMWg4Ul9hTVVfWnBPcDNwZkQ4Vm0yUHBYMkFFUE85ZUZNNTZCSkU4dUhDYWZtRXVmeDg0NXc?oc=5",
+   "image": null,
+   "source": "Connectionivoirienne",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-16T08:49:01.000Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "gn-knt0d5",
+   "title": "Bourse régionale des valeurs mobilières: les sociétés burkinabè se portent bien",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOV1pFdFdYazY3TEI3YjBIT05RUl9MMHNVd0NTYzI5OUJrYXVuSDhCdzNrSkJQaG5MUXNrMXVPekdORzFuaDhTRlEzdWotaC1TVEdwa3Y3Y2owYVhWbzRudGQtRW5ZYk5XNHNCVXhoRVBIeC1obmx3Sl9xeDZqWll6aHJqSnk3TVhOTmlaMF9OTDRuUFY1b01uMGpyMXhHN1VEbTBoM1hWSXdsbTZESXlVNHJjVXZnT0JQd3BZcw?oc=5",
+   "image": null,
+   "source": "L'economiste du faso",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-16T07:43:25.000Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "sika-65734",
+   "title": "La BAD et la JICA signent un prêt de 583 millions USD pour financer les infrastructures, l’énergie et la sécurité alimentaire en Afrique",
+   "summary": "Le Groupe de la Banque africaine de développement (BAD) et l'Agence japonaise de coopération internationale (JIC...",
+   "url": "https://www.sikafinance.com/marches/la-bad-et-la-jica-signent-un-pret-de-583-millions-usd-pour-financer-les-infrastructures-lenergie-et-la-securite-alimentaire-en-afrique_65734",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-16T06:29:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65726",
    "title": "RDC : Proxima Capital obtient son agrément et fait son entrée sur le marché de la microfinance",
@@ -3696,6 +3810,22 @@
    "tries": 0
   },
   {
+   "id": "gn-1etny21",
+   "title": "BRVM : Forte activité et hausses notables pour 5 actions clés, ETIT bondit de +100%",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYjVDQ3ZUemc5ckRIQ2g0dFhxUW05akd3c0FneGxfNjJSUFlCNjEyYUF4YzBYNnVOT1VJenYwSFA4ZlZsQ2NjT3RHOElGbnVBSVItWTE5UVdNRF96VTdFRFJRbEZ3bkx5SzN6Y0lCZ3R4Qm9HTGVpY053VFhoZmZfZkk3U3dBN1hiTXI3Z1ZmbGpNc1V4dXBXbHB3UQ?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-07-23T07:00:00.000Z",
+   "symbols": [
+    "ETIT"
+   ],
+   "status": "new",
+   "tries": 0
+  },
+  {
    "id": "gn-5ivs3c",
    "title": "BRVM : 6 actions clés en forte progression, Bank of Africa – Niger en tête",
    "summary": null,
@@ -3722,6 +3852,20 @@
    "symbols": [
     "BBGC"
    ],
+   "status": "new",
+   "tries": 0
+  },
+  {
+   "id": "gn-1nv7g6x",
+   "title": "Publication du Bulletin Officiel de la Cote de la BRVM – 02 Juillet 2026",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUnhqR0E0bDdrLTNPdzU0b1ZORjBJdXpYQzFXbTRURGhCNGJiVG5vbzZwX2h2SThsRVdLS1I3RHZxNXp1M0NXUlJNbUJDUTNkeTlaaUFId0gyUWk0dGltY09LUC1KUS0zek1lbkxKamp3OWhUc1ljaktNV3BwajRFbFBzOTRhWkU?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-07-02T07:00:00.000Z",
+   "symbols": [],
    "status": "new",
    "tries": 0
   },
@@ -3835,6 +3979,20 @@
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-01-02T08:00:00.000Z",
+   "symbols": [],
+   "status": "new",
+   "tries": 0
+  },
+  {
+   "id": "gn-1x4pf50",
+   "title": "La BRVM fête ses 29 ans d'existence en tant qu'ancrage régional des marchés des capitaux",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMV90YTAyN18wQnF1SUtmRGJOZVpNaFF0bU5WNmI1TFF5dlhGRS1FRzVrYjVIbVhIS0k5akR4dk1BRHpNUDZiVFh6QTZ5U2ZrV013V1hOQnB1WjUxek94MHBac0pzMkQ0b2pCWVlQbUpFTzlIdGlWMGdubTFJQXhGdVpRYW5GeTg?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2025-12-19T08:00:00.000Z",
    "symbols": [],
    "status": "new",
    "tries": 0
@@ -4197,168 +4355,6 @@
    "symbols": [
     "SIBC"
    ],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "gn-1tvky19",
-   "title": "Action Bank Of Africa Senegal | Cours BOAS Bourse BRVM - Abidjan",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5QeTJTcGF1YW5fekpMN21oQlhtd2Jib0xlVHk3V05teUFQdzUwdWlFOWlHUkNFU2I3cmotX2Z4R3RhY2lDbVgyNTBZWnBMOG5vNS1ia1JpSEFIcWhodjJsZ2pKTk1kRG9xdHZLcjFCRDdmaFUyM0gtU0p3NlU?oc=5",
-   "image": null,
-   "source": "Zonebourse",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2020-08-20T19:40:38.000Z",
-   "symbols": [
-    "BOAS"
-   ],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "gn-12owua1",
-   "title": "Action Bank of Africa Mali SA | Cours BOAM Bourse BRVM - Abidjan",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ONklNZEQ1TGtvb2kxX2huWjJmTEJWNzQzVVhNaWxDYUxPazFoa1p0LW9KSkJza0NUcEhfampTTEVxUEVMUWZNOFpSRzJleUZJVmhZTVJvN21GTm1QZHNobDhfWG5xLVZ3cDBjRmViOGtFUkpGaHJUYWZGaXQ?oc=5",
-   "image": null,
-   "source": "Zonebourse",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2020-08-20T19:32:09.000Z",
-   "symbols": [
-    "BOAM"
-   ],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "gn-1rwgaqk",
-   "title": "Action Nestle Cote D'Ivoire S.A. | Cours NTLC Bourse BRVM - Abidjan",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93QjNyZTN4WUNnVVFuajNEUWUtLXhXZDNLdm96SDc0aEN2d2xNX3RMdFJzbnhBejZEVWhBdjZkTXFmaGQwOS11NFEtazZrdkJLbGRuTElZVlIwdjUzMmh1bnpXbkhLN2cwaUR6RURtRUFnQ3R2RnlpUVJRd1k5LXc?oc=5",
-   "image": null,
-   "source": "Zonebourse",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2020-08-19T18:32:21.000Z",
-   "symbols": [
-    "NTLC"
-   ],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "gn-17am0rs",
-   "title": "BRVM : cette Bourse devenue un acteur économique majeur ouest-africain",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcmZKQXNrWnBxM210SE1pVWFqRFJHY01xZEdVMGxqSVdBcGs3NWpuYXZXbVBPZDNGRmw5Zl9pWXhoUjlHQzJqSktjZE1Uc1J5bzlzN092YjYxOTFPVkxpUFcyVGtBZU5ZVXJOVnZ0RDJmVE4xZkJCdTZSNTZnak93TFljalA2bnBiSmtIMUM0a2R3Mzh6elVVbTBhNUk3XzFrYnFrVkNBbEdWU3lyNV9vcEtSbU1ueDFpNFhCR1N2dDdJNlNhWWc?oc=5",
-   "image": null,
-   "source": "Le Point",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2020-02-28T08:00:00.000Z",
-   "symbols": [],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "gn-18kibf",
-   "title": "Bourse : Les autorités de la BRVM revoient les conditions d’admission au 3eme compartiment",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWUhaUUlPajB2NXhlT0ZLelhfUE04aU1JU1d3Wm9QRExZLU1XSm5Qdld2ZDV1MUxZa3d2UFl5cU5WSDZVbnpXRzBiQ01jQ0hiMUNhQjllM0lsQmlxdEhHZEJmaEI3a1pDbzB2ODVsYW5IdXZ2Zmw0ZkVnV202dkdhUXF3QkxlRW40QXk4aFdZd2FRenlMYURjRFB5V3dlREZBMnRuOGdiaDdYcnZPb24tQkhyeUd5eHdFOUFZMUdnTlJKQnMzOVhyWjRn?oc=5",
-   "image": null,
-   "source": "Financial Afrik",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2019-07-04T07:00:00.000Z",
-   "symbols": [],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "gn-jytk8k",
-   "title": "Bourse : Oragroup arrive à la BRVM",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVWhsU3hQUExHSFh6QUpnY1pZdHE4ZF9WUklER0tFWlc4SVFyRFhOSlZWQ21QN2dKeW8taGVuMnh6R3ZkaGV2b2NQLWJWbmRHU0ZnV2FIZVY5RHpBbF9yUnlSTXQyYXg3VkpTel9HYzlFMUs1ek9uTGVndlNNc3JHbzRuLWExTy1KY0tfN2dtLUZXU1Vs?oc=5",
-   "image": null,
-   "source": "Jeune Afrique",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2018-10-19T07:00:00.000Z",
-   "symbols": [
-    "ORGT"
-   ],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "gn-1arl5gj",
-   "title": "Bourse : à Abidjan la BRVM lance un pôle de soutien aux PME",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR2lYZ2NoSnZTU0tHRzZxSVRUeWIzbnFsdndrUFBxLUl0VXNrd3JFODE2U2kyUkRfb0tRczE2dU1iS3NEVHNvU3B6VkVkcVU3dzhaRGZHUV9waUUzWE9zY2xnc2pCOTA2MFVWMDFUVEg4OE1hVzB2N2cySzRDNUoxcDZjZHkyVkVOaVJObU9UUWRXMVhBcEE5ZHRaOVA4WWJQYW5oNmx3QlRteG12b19tclg4dzEwRzZrM3Zr?oc=5",
-   "image": null,
-   "source": "Jeune Afrique",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2018-05-03T07:00:00.000Z",
-   "symbols": [],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "gn-1o60pli",
-   "title": "\"Flash Bourse\", la fenêtre télé de la BRVM",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObkhaMG5BNS1rcUlia05YVi1CZDMyNFVQR0tFMEJJcnhVRnVXMEJCdTRQN2JDZVA3blAxYUFlZ1V4YTl6QWtraXkzM2p4bnBJMlBZTUk3U3V2Ym9pZS1nTnlWSDNNcWgwdEJ0VndkTnJLODRqUEw2WDZ4Sjk0SVFINC1sN0QtZ3ZzZXJiUmFmMGZuNUVNaHFRVHpDZTUtdw?oc=5",
-   "image": null,
-   "source": "Le Point",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2016-07-05T07:00:00.000Z",
-   "symbols": [],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "gn-41ev7i",
-   "title": "Bourse : la BRVM va rejoindre l’indice des marchés frontières de MSCI",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdEdXOUdpT2FwcUUxWjBVREh4TXFDdF9ncVNKYXBrVWgyYXJfMVVNWnh5enFBS2UwZUphbmltTkZvWVBVU21fMVFqcmxyQjdKM2dheThRWFdXTTdHdVVmYUNVbnM5LWE5OUxwYXVRVm1kemVIVk1GMlUwd0cwZ3dBOVhyMk1qa2ZJMTV6b21HMDFnT0xQMm5RUzBXV2JvVkI0UGx4M01QSWRJdVVsVFJn?oc=5",
-   "image": null,
-   "source": "Jeune Afrique",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2016-05-18T07:00:00.000Z",
-   "symbols": [],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "gn-vue5q",
-   "title": "La BRVM : une bourse émergente ?",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1NdnFtb1BtMGF6T2EycUkzX0dWTk1PSHQ2QzNOTXFOajZ1R1ZSdE9EN09PeDFaUC1GSXNNbTc4al9nUnhEZU1Dc1lWNmxHNTJkWHhkUGdIQUt3aTZTYmpz?oc=5",
-   "image": null,
-   "source": "Afrik",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2016-03-27T07:00:00.000Z",
-   "symbols": [],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "gn-1055050",
-   "title": "Bourse : la BRVM passe le cap des 7 500 milliards de F CFA",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQXd5bWhmalU5TDA4WFJpLUNfcU1udGwyVkt2cnZGY1gtRDQ2ZW5IRXpBaWtiMDVwdWYxT3FGbUJYZF9wMnhsUEVxSU5uc2hfTEM3R2l0ZFJlWmltLTRhbDYtUjUwVTc1cmhIVkZMZ1d4YXp2Y0hISk1pOEw3clh4VEtudzNwMXJPeEVvdWhoME9wZEp2Tl9PXzUyc2JVc3FGV0VQTmcxOU5TbzFXUTJud0w0SHE?oc=5",
-   "image": null,
-   "source": "Jeune Afrique",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2015-10-23T07:00:00.000Z",
-   "symbols": [],
    "status": "new",
    "tries": 0
   }
