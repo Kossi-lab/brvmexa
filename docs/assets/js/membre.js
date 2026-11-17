@@ -1,6 +1,6 @@
 /* BRVMexa — Espace membre et abonnement Premium.
-   Connexion (Google ou e-mail) avec le même compte que l'application, paiement GeniusPay
-   via la fonction sécurisée « geniuspay » de Supabase, et fenêtre « Devenez Premium ». */
+   Connexion (Google ou e-mail) avec le même compte que l'application, paiement SasPay
+   via la fonction sécurisée « saspay » de Supabase, et fenêtre « Devenez Premium ». */
 (function () {
   'use strict';
 
@@ -68,7 +68,7 @@
       '<h2 id="pw-title">' + esc(title) + '</h2>' +
       '<p class="pw-lead">' + esc(lead) + '</p>' +
       '<ul class="pw-list">' + REASONS.map(function (r) { return '<li>' + CHECK + '<span><b>' + esc(r[0]) + '</b> : ' + esc(r[1]) + '</span></li>'; }).join('') + '</ul>' +
-      '<div class="pw-price"><p class="pw-from">Dès <b>3\u00a0000\u00a0FCFA par mois</b></p><p class="pw-means">Sans engagement</p><p class="pw-secure">' + LOCK_S + ' Paiement unique et sécurisé : carte bancaire, Mobile Money ou PayPal</p></div>' +
+      '<div class="pw-price"><p class="pw-from">Dès <b>3\u00a0000\u00a0FCFA par mois</b></p><p class="pw-means">Sans engagement</p><p class="pw-secure">' + LOCK_S + ' Paiement unique et sécurisé : carte bancaire ou Mobile Money</p></div>' +
       '<div class="pw-actions"><a class="btn btn--primary" href="' + esc(memberUrl(back)) + '#offres">Devenir membre Premium</a>' +
       '<a class="btn btn--ghost" href="' + esc(memberUrl(back)) + '">Déjà membre ? Se connecter</a></div>' +
       '<p class="pw-note">Le graphique et ses outils restent gratuits.</p></div>';
@@ -83,7 +83,7 @@
   var sb = window.supabase && cfg.supabaseUrl && cfg.supabaseKey
     ? window.supabase.createClient(cfg.supabaseUrl, cfg.supabaseKey, { auth: { flowType: 'implicit', persistSession: true, autoRefreshToken: true, detectSessionInUrl: true } })
     : null;
-  var FN = (cfg.supabaseUrl || '') + '/functions/v1/geniuspay';
+  var FN = (cfg.supabaseUrl || '') + '/functions/v1/saspay';
   var none = { user: null, premium: false };
 
   // Adresse e-mail confirmée ? Inscription par e-mail : confirmée par Supabase.
@@ -300,7 +300,7 @@
     });
   }
 
-  // Retour de la page de paiement GeniusPay : ?commande=…
+  // Retour de la page de paiement SasPay : ?commande=…
   function afterPayment(order, failed) {
     box.innerHTML = '<div class="mb-card mb-paycheck"><div class="mb-spin" aria-hidden="true"></div><h2>Vérification de votre paiement…</h2><p class="muted">Ne fermez pas cette page, cela prend quelques secondes.</p></div>';
     var tries = 0;
@@ -338,7 +338,7 @@
       if (st.unverified) { render(); box.scrollIntoView({ behavior: 'smooth', block: 'start' }); return; }
       if (btn) { btn.disabled = true; btn.textContent = 'Ouverture du paiement…'; }
       call({ action: 'checkout', plan: plan }).then(function (r) {
-        location.href = r.url; // page de paiement sécurisée GeniusPay (Mobile Money, carte)
+        location.href = r.url; // page de paiement sécurisée SasPay (Mobile Money, carte)
       }).catch(function (e) {
         if (btn) { btn.disabled = false; btn.textContent = 'Réessayer'; }
         alertBox(e.message);
