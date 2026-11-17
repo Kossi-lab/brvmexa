@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-17T17:36:06.957Z",
+ "updatedAt": "2026-11-17T18:11:16.306Z",
  "items": [
   {
    "id": "sika-65795",
@@ -156,8 +156,8 @@
    "premium": false,
    "publishedAt": "2026-11-17T10:22:00Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "gn-1r5j3uo",
@@ -170,8 +170,8 @@
    "premium": false,
    "publishedAt": "2026-11-17T09:47:00.000Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "gn-1hmmpn6",
@@ -184,8 +184,8 @@
    "premium": false,
    "publishedAt": "2026-11-17T05:18:54.000Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "gn-19eepi",
