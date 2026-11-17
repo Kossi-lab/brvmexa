@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-16T20:42:42.008Z",
+ "updatedAt": "2026-11-17T00:10:47.746Z",
  "items": [
+  {
+   "id": "gn-19eepi",
+   "title": "Le directeur général de la BRVM, Edoh Kossi Aménounvé, distingué aux Global Banking & Markets Awards Africa 2026",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQLWhIYTJ0dkNiLXFwYmw4S0pMZ1FQa2p0VWF4UHY3UGMzT2ZWS3RTajJJV1RjRDU4VEFxNWhMSWRVOTJqcW1Eazk0UHNscGVqVHFCQzgwd2h0UHVBcUg4OWZjRUVfYno2b1RRb0tqcC1HWVlGNTJXUU00N0lzVWZrNllEQWxEejZERnBLalZySE13QVVpWkdlLVhiOVJWQ09tZnZ1OFlFdUtENmZKOENyUXFZek1KeUxPM19EVUdPVWQ3LUY3QmRSem1lQW1PYWk0c1g1QVlWcF9tUHBJcWg5d1BQbVVrQQ?oc=5",
+   "image": null,
+   "source": "Financial Afrik",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-16T18:13:32.000Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65763",
    "title": "Marchés émergents : 1 000 milliards USD en jeu pour financer la prochaine génération de croissance",
@@ -4326,23 +4340,6 @@
    "premium": false,
    "publishedAt": "2024-07-02T07:00:00.000Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "gn-hpdtk1",
-   "title": "Solibra, SIEM… La BRVM resserre l’étau autour des sociétés cotées en Bourse",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeDdPUTZkbHh5cHk5cXlWbmxreGYzU21LckVpLWQxRTg0WDZmQ1UyVTV2blMxc21XTGs4SHM5Xy1INlYxSVRVeFVpb2lVX0otbVQ0YjllLV9wclkxUUxxWHVyUjZiM0I3UWpxQzhmaHB1WlBQaDMtNGNwZExmQUJvb2QxZVktVzJINGZFZF9zYnRCMkpaZ3BYN3QyU3ExMFRRWmFrcjNERFJTUTdFWXFadHMyQzhTNnhaWHJldTdUQjVEc3hqaHlqaklTWQ?oc=5",
-   "image": null,
-   "source": "Jeune Afrique",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2024-04-24T07:00:00.000Z",
-   "symbols": [
-    "SEMC",
-    "SLBC"
-   ],
    "status": "new",
    "tries": 0
   }
