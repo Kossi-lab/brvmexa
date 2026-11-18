@@ -1,6 +1,36 @@
 {
- "updatedAt": "2026-11-18T00:57:17.922Z",
+ "updatedAt": "2026-11-18T10:34:23.107Z",
  "items": [
+  {
+   "id": "sika-65801",
+   "title": "Bénin : Avec 8,1% de croissance, 2025 signe la meilleure performance en près de 20 ans",
+   "summary": "Après une année 2025 particulièrement dynamique, marquée par une croissance économique de 8,1%, un niveau inédit depuis...",
+   "url": "https://www.sikafinance.com/marches/benin-avec-8-1-de-croissance-2025-signe-la-meilleure-performance-en-pres-de-20-ans_65801",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-18T09:46:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "sika-65800",
+   "title": "Vivo Energy CI : Un résultat net an hausse de 15% à fin septembre 2026",
+   "summary": "Vivo Energy Côte d'Ivoire distribue les carburants, les lubrifiants et le butane sous la marque Shell, avec des p...",
+   "url": "https://www.sikafinance.com/marches/vivo-energy-ci-un-resultat-net-an-hausse-de-15-a-fin-septembre-2026_65800",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-11-18T09:30:00Z",
+   "symbols": [
+    "SHEC"
+   ],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "gn-1fub1n7",
    "title": "BRVM : Une banque prépare deux introductions en Bourse pour 81 milliards FCFA",
@@ -4306,34 +4336,6 @@
    "symbols": [
     "BBGC"
    ],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "gn-1nv7g6x",
-   "title": "Publication du Bulletin Officiel de la Cote de la BRVM – 02 Juillet 2026",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUnhqR0E0bDdrLTNPdzU0b1ZORjBJdXpYQzFXbTRURGhCNGJiVG5vbzZwX2h2SThsRVdLS1I3RHZxNXp1M0NXUlJNbUJDUTNkeTlaaUFId0gyUWk0dGltY09LUC1KUS0zek1lbkxKamp3OWhUc1ljaktNV3BwajRFbFBzOTRhWkU?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-07-02T07:00:00.000Z",
-   "symbols": [],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "gn-e3cy02",
-   "title": "A la Bourse régionale des valeurs mobilières, les résultats encourageants des sociétés cotées ivoiriennes",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNeDBkN0JyLU8xZWx3Qmh2OEM3dl9jY0EwcHh1eHRNbjBOWWZRNjFUelRGVUh2YU04MUxaV192eVJXQV9WaXJjdVdwNUEwd2J6SjNDY3p3bDV6VjdDYzJZQlJ6ejliWUE3V1VqTTFxWXVuZFFzcFVfZ1NlZG1LQVpCNWRzc0cyM3ZSaXc1NVoyNk9zMFNUMGxXMGxkSXl0V2g2OENKSUZFWEJKelNvWjc5ZjVUOWFkSWhMRFBRdlVkZEdRR0ZaT0ZrRm9fcFAzNmI0d2hJMFJxczh3MkJ2Y1JFTFQ1azJ4d2lBalVBbjJ1YzZ2QQ?oc=5",
-   "image": null,
-   "source": "La Tribune",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-06-09T07:00:00.000Z",
-   "symbols": [],
    "status": "new",
    "tries": 0
   }
