@@ -1,6 +1,30 @@
 {
- "updatedAt": "2026-11-18T15:15:23.883Z",
+ "updatedAt": "2026-11-18T15:30:27.854Z",
  "items": [
+  {
+   "id": "sika-65816",
+   "title": "Gazoduc transsaharien : Le Niger intensifie ses préparatifs avec l'Algérie",
+   "summary": "Le Niger accélère les travaux préparatoires du Gazoduc transsaharien pour renforcer son rôle stratégique dans le corridor énergétique reliant le Nigeria à l'Algérie.",
+   "body": [
+    "Le 17 novembre dernier, une délégation algérienne composée de représentants du ministère des Hydrocarbures, de la SONATRACH et de l'ENAC a été reçue à Niamey par le ministère nigérien du Pétrole. Cette mission, qui s'étendra jusqu'au 20 novembre, vise à accélérer les études techniques du tracé et à définir les prochaines étapes opérationnelles pour la construction du segment nigérien du Gazoduc transsaharien (TSGP).",
+    "Ce projet, qui doit relier le Nigeria à l'Algérie via le Niger, représente un enjeu économique majeur pour Niamey. Les autorités nigériennes, appuyées par la SONIDEP et des comités interministériels, espèrent stimuler l'emploi local, diversifier les recettes publiques et favoriser le transfert de compétences. Alors que l'Algérie a déjà débuté les travaux sur son propre tronçon, le Niger cherche désormais à transformer ces concertations en réalisations concrètes pour s'imposer comme un acteur clé du transit énergétique continental."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65816",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-18T15:12:00Z",
+   "writtenAt": "2026-11-18T15:30:27.852Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/gazoduc-transsaharien-le-niger-accelere-les-preparatifs-pour-capter-les-retombees-economiques-du-projet_65816",
+    "title": "Gazoduc transsaharien : Le Niger accélère les préparatifs pour capter les retombées économiques du projet"
+   },
+   "rewritten": true
+  },
   {
    "id": "sika-65815",
    "title": "Sénégal : 447,1 milliards FCFA de masse salariale au premier trimestre 2026",
@@ -3715,30 +3739,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/cote-divoire-le-japon-accorde-48-milliards-fcfa-pour-la-deuxieme-phase-du-projet-de-trois-echangeurs-a-abidjan_65532",
     "title": "Côte d’Ivoire : Le Japon accorde 48 milliards FCFA pour la deuxième phase du projet de trois échangeurs à Abidjan"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65527",
-   "title": "Sénégal : la balance commerciale affiche un déficit de 29,5 milliards FCFA en septembre 2026",
-   "summary": "Le Sénégal enregistre un déficit commercial de 29,5 milliards FCFA en septembre 2026, marqué par un repli des exportations et une hausse des importations par rapport au mois précédent.",
-   "body": [
-    "En septembre 2026, les exportations sénégalaises ont reculé de 20,4 % pour s'établir à 566,0 milliards FCFA, sous l'effet d'une baisse des ventes d'huiles brutes de pétrole, de gaz naturel liquéfié et de phosphates. À l'inverse, les importations ont progressé de 8,1 % pour atteindre 595,6 milliards FCFA, portées par l'augmentation des achats de pétrole brut et d'équipements industriels.",
-    "Cette dynamique a conduit à un solde commercial déficitaire de 29,5 milliards FCFA, contrastant avec l'excédent de 160,0 milliards FCFA observé en août. Malgré ce résultat mensuel, le cumul du solde commercial sur les neuf premiers mois de l'année 2026 reste positif, s'établissant à 56,0 milliards FCFA, contre un déficit de 1 127,0 milliards FCFA sur la même période en 2025."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65527",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-05T13:49:00Z",
-   "writtenAt": "2026-11-06T04:43:26.859Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/senegal-le-solde-de-la-balance-commerciale-ressort-a-29-5-milliards-fcfa-en-septembre-2026_65527",
-    "title": "Sénégal : Le solde de la balance commerciale ressort à -29,5 milliards FCFA en septembre 2026"
    },
    "rewritten": true
   }

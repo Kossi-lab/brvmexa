@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-18T15:15:23.881Z",
+ "updatedAt": "2026-11-18T15:30:27.852Z",
  "items": [
+  {
+   "id": "sika-65816",
+   "title": "Gazoduc transsaharien : Le Niger accélère les préparatifs pour capter les retombées économiques du projet",
+   "summary": "Le Niger veut accélérer la concrétisation du Gazoduc transsaharien (TSGP) et se positionner comme un acteur incontourna...",
+   "url": "https://www.sikafinance.com/marches/gazoduc-transsaharien-le-niger-accelere-les-preparatifs-pour-capter-les-retombees-economiques-du-projet_65816",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-18T15:12:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65815",
    "title": "Sénégal : Où vont les 447 milliards FCFA de salaires versés par les entreprises formelles au 1er trimestre ?",
@@ -4314,22 +4328,6 @@
    "premium": false,
    "publishedAt": "2026-08-22T07:00:00.000Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "gn-12f5q1s",
-   "title": "BRVM : 5 actions africaines en forte hausse – NEIC bondit de +69,66%",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMENRQzJoR3lvSG1fZHY0R29zc3lfeEN6Mk5Da05qRFdPM1hpTEd6YS1NZkFra1BkSldxT3k2SlF4cFh0c0QzblhuamMyS1lMNWh0UmNpNWlUM2ozdno4Z2wxUWNQczRoMnJOUHJJZ09JWHBFRklBcTBhcVFtcENOSldJZU53MGVjdUdB?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-08-11T07:00:00.000Z",
-   "symbols": [
-    "NEIC"
-   ],
    "status": "new",
    "tries": 0
   }
