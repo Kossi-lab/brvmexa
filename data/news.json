@@ -1,6 +1,30 @@
 {
- "updatedAt": "2026-11-18T17:48:06.530Z",
+ "updatedAt": "2026-11-18T18:00:35.563Z",
  "items": [
+  {
+   "id": "sika-65820",
+   "title": "Le Ghana ambitionne de transformer localement sa production de noix de cajou",
+   "summary": "Le président ghanéen John Dramani Mahama a dévoilé une stratégie visant à limiter l'exportation de noix de cajou brutes au profit de l'industrie de transformation nationale.",
+   "body": [
+    "Le gouvernement ghanéen souhaite inverser la tendance actuelle où 94 % des noix de cajou sont exportées sans transformation. Lors de l'inauguration de l'usine NADKANSCO le 16 novembre dernier, le président John Dramani Mahama a annoncé un projet de suspension des exportations de noix brutes durant les trois premiers mois de chaque campagne. Cette mesure, destinée à sécuriser l'approvisionnement des usines locales, pourrait être complétée par une taxe sur les expéditions de matières premières, inspirée du modèle ivoirien.",
+    "Le secteur souffre d'un sous-emploi des capacités industrielles : en 2025, seules 15 000 tonnes ont été traitées sur une capacité installée de 65 000 tonnes. Pour soutenir cette montée en puissance, Accra prévoit de renforcer le fonds de roulement des unités existantes et d'encourager la création de nouvelles infrastructures. L'objectif final est d'accroître la valeur ajoutée locale, s'inscrivant dans une politique plus vaste de transformation des cultures pérennes du pays."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65820",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-18T17:52:00Z",
+   "writtenAt": "2026-11-18T18:00:35.558Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/ghana-dramani-mahama-veut-transformer-localement-une-plus-grande-part-des-94-de-cajou-encore-exportes-bruts_65820",
+    "title": "Ghana : Dramani Mahama veut transformer localement une plus grande part des 94% de cajou encore exportés bruts"
+   },
+   "rewritten": true
+  },
   {
    "id": "sika-65819",
    "title": "UEMOA : Les réserves de change atteignent 41 milliards USD en 2025",
@@ -3715,30 +3739,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/intouch-et-yabx-misent-sur-le-credit-numerique-pour-toucher-des-millions-dafricains_65538",
     "title": "InTouch et Yabx misent sur le crédit numérique pour toucher des millions d’Africains"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65539",
-   "title": "Côte d'Ivoire : inauguration de la centrale biomasse BIOVEA à Ayébo",
-   "summary": "La Côte d'Ivoire a inauguré le 5 novembre 2026 la centrale BIOVEA, une installation de 46 MW valorisant les résidus de palmier à huile pour produire de l'électricité.",
-   "body": [
-    "Située à Ayébo, cette infrastructure représente un investissement de plus de 150 milliards FCFA. Exploité par BIOVEA Énergie, le site transforme annuellement 450 000 tonnes de déchets agricoles en 340 gigawattheures d'électricité, couvrant les besoins de près de 1,7 million de personnes. Ce projet s'inscrit dans une stratégie de diversification du mix énergétique national, aux côtés du gaz, de l'hydroélectricité et du solaire.",
-    "Le modèle repose sur une économie circulaire impliquant 12 000 planteurs et créant environ 1 000 emplois. Fruit d'un partenariat entre l'État, EDF, Meridiam et SIFCA, la concession durera 25 ans. Cette initiative, qui devrait réduire les émissions de CO2 de 4,5 millions de tonnes sur cette période, préfigure le développement de futures centrales utilisant des résidus de cacao et de coton."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65539",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-06T08:49:00Z",
-   "writtenAt": "2026-11-06T09:53:48.489Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/la-cote-divoire-inaugure-la-plus-grande-centrale-biomasse-dafrique-de-louest_65539",
-    "title": "La Côte d’Ivoire inaugure la plus grande centrale biomasse d’Afrique de l’Ouest"
    },
    "rewritten": true
   }
