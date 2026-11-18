@@ -1,6 +1,30 @@
 {
- "updatedAt": "2026-11-18T12:15:19.567Z",
+ "updatedAt": "2026-11-18T12:30:38.745Z",
  "items": [
+  {
+   "id": "gn-dvy0wj",
+   "title": "Nexora Securities renforce son expertise avec un suivi croisé BRVM et marchés internationaux",
+   "summary": "La société Nexora Securities annonce l'intégration d'un nouveau dispositif de suivi combinant les places boursières mondiales et la BRVM pour optimiser ses analyses financières.",
+   "body": [
+    "Depuis le 18 novembre 2026, Nexora Securities a mis en place un système de surveillance élargi. Cette initiative vise à coupler les données des marchés internationaux avec celles de la Bourse régionale des valeurs mobilières (BRVM).",
+    "L'objectif de cette démarche est de faciliter une analyse transfrontalière plus approfondie pour les acteurs du marché, en permettant une meilleure compréhension des interactions entre les places financières régionales et globales."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#gn-dvy0wj",
+   "image": null,
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-18T12:13:00.000Z",
+   "writtenAt": "2026-11-18T12:30:38.741Z",
+   "symbols": [],
+   "origin": {
+    "name": "EIN News",
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOVDZqbUJyOWZQMGRMTmVpR0FhZW5mX3paMk1YUlNoLUpVbnpDd2tNcUJMRmxKaDRfdFNCaVA4aXVUZU1Ea2NxLWNCdURMbXVRakdWeW9OQjRnN3FuQy12TkFPWjNlZWhsQURFMVVnSUV4d29fbmFraUFGWTdmTWh4MVZPQ2hKQnFxWVVwdFZFcGVMM2JSOUJWN0VhWW1OR19fVFB0Wm56VjBvdGstMEs0MEstVWFYdXlBYXNpYzNBVGExaWZJM3ZSRFJsWEtjODVWaFJJc3dsUW5ybkE1M3dlRE9wUmx1ZTVKdGZBaThsUQ?oc=5",
+    "title": "Nexora Securities Intègre le Suivi des Marchés Internationaux et de la BRVM pour Soutenir l'Analyse Transfrontalière"
+   },
+   "rewritten": true
+  },
   {
    "id": "sika-65801",
    "title": "Le Bénin affiche une croissance historique de 8,1% en 2025 selon le FMI",
@@ -3717,32 +3741,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/baisse-de-89-du-benefice-de-sicable-a-fin-septembre-2026_65520",
     "title": "Baisse de 89% du bénéfice de SICABLE à fin septembre 2026"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65519",
-   "title": "TotalEnergies Marketing Sénégal affiche un bénéfice de 7 milliards FCFA au troisième trimestre 2026",
-   "summary": "Malgré un repli de son chiffre d'affaires, la filiale sénégalaise de TotalEnergies maintient une solide rentabilité avec un résultat net de 7 milliards FCFA à fin septembre 2026.",
-   "body": [
-    "La société TotalEnergies Marketing Sénégal a publié ses résultats financiers pour la période s'achevant le 30 septembre 2026. L'entreprise enregistre un bénéfice net s'élevant à 7 milliards FCFA.",
-    "Cette performance financière intervient dans un contexte marqué par une diminution du chiffre d'affaires global de la compagnie. Ces chiffres témoignent de la capacité de l'entité à préserver ses marges malgré les fluctuations de son activité commerciale."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65519",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-05T10:40:00Z",
-   "writtenAt": "2026-11-06T04:44:24.768Z",
-   "symbols": [
-    "TTLS"
-   ],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/totalenergies-marketing-sn-7-milliards-fcfa-de-benefice-a-fin-septembre-2026_65519",
-    "title": "TotalEnergies Marketing SN : 7 milliards FCFA de bénéfice à fin septembre 2026"
    },
    "rewritten": true
   }

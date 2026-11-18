@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-18T12:15:19.565Z",
+ "updatedAt": "2026-11-18T12:30:38.741Z",
  "items": [
+  {
+   "id": "gn-dvy0wj",
+   "title": "Nexora Securities Intègre le Suivi des Marchés Internationaux et de la BRVM pour Soutenir l'Analyse Transfrontalière",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOVDZqbUJyOWZQMGRMTmVpR0FhZW5mX3paMk1YUlNoLUpVbnpDd2tNcUJMRmxKaDRfdFNCaVA4aXVUZU1Ea2NxLWNCdURMbXVRakdWeW9OQjRnN3FuQy12TkFPWjNlZWhsQURFMVVnSUV4d29fbmFraUFGWTdmTWh4MVZPQ2hKQnFxWVVwdFZFcGVMM2JSOUJWN0VhWW1OR19fVFB0Wm56VjBvdGstMEs0MEstVWFYdXlBYXNpYzNBVGExaWZJM3ZSRFJsWEtjODVWaFJJc3dsUW5ybkE1M3dlRE9wUmx1ZTVKdGZBaThsUQ?oc=5",
+   "image": null,
+   "source": "EIN News",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-18T12:13:00.000Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65801",
    "title": "Bénin : Avec 8,1% de croissance, 2025 signe la meilleure performance en près de 20 ans",
@@ -4320,22 +4334,6 @@
    "premium": false,
    "publishedAt": "2026-07-18T07:00:00.000Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "gn-1edrf8f",
-   "title": "Bridge Bank lance une introduction en bourse de 118 millions de dollars sur la BRVM d'Afrique de l'Ouest",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeGR3QUlsVFo0ZF9ZdU0zWGNnMVFvdmJ0a2sxZ2FWV2h3MWRRejJTZGZCT01EQV9TNEFiQS1EdnJfVHNfelB6eWdPQWZiT3RnMERHLUdfQ2FqYjVub1J4b0RrMnc2XzVhZi1jTXAtZGhZS2tYelVSSWdCaTFXZmRrbzJoUkdMZGFhNkhZ?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-07-09T07:00:00.000Z",
-   "symbols": [
-    "BBGC"
-   ],
    "status": "new",
    "tries": 0
   }
