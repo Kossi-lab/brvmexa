@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-18T14:45:21.122Z",
+ "updatedAt": "2026-11-18T15:00:49.516Z",
  "items": [
+  {
+   "id": "sika-65815",
+   "title": "Sénégal : Où vont les 447 milliards FCFA de salaires versés par les entreprises formelles au 1er trimestre ?",
+   "summary": "Au premier trimestre 2026, la masse salariale au Sénégal s'est établie à 447,1 milliards FCFA selon un rapport de l'Age...",
+   "url": "https://www.sikafinance.com/marches/senegal-ou-vont-les-447-milliards-fcfa-de-salaires-verses-par-les-entreprises-formelles-au-1er-trimestre-_65815",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-11-18T14:52:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65811",
    "title": "Comptes inactifs, croissance record, PI-SPI… Le défi du mobile money dans l’UEMOA derrière les 219 000 milliards FCFA de transactions",
@@ -4316,20 +4330,6 @@
    "symbols": [
     "NEIC"
    ],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "gn-xi29kb",
-   "title": "Le Marché de la BRVM en Effervescence : 4 Actions Clés Affichent des Gains Notables",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNODNwelhhdklCcU1sbGtpVnd5UlBzUWVrV0VQUUZQZHlyY2dPV3lIX3FGeVlZSVlhTmVCd2wwVVNZM0VvXzlwZUtobzkxa0hPeklzUlJPNHdMRGk2cXpQZXBuWjBZUnZnSC0zdnl3emNtZVN1c2F6TzAzOTNhN3c5U2x4Yk1GY1A5RHdpTEhtRzlCenoy?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-08-06T07:00:00.000Z",
-   "symbols": [],
    "status": "new",
    "tries": 0
   }

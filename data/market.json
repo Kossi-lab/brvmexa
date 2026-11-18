@@ -1,15 +1,15 @@
 {
- "updatedAt": "2026-11-18T14:45:16.155Z",
+ "updatedAt": "2026-11-18T15:00:25.740Z",
  "sessionDate": "2026-11-18",
- "sessionTime": "14:30",
+ "sessionTime": "14:45",
  "source": "brvm.org",
- "transactionsValue": 1369501913,
- "capitalisationActions": 19734542622694,
- "capitalisationBonds": 13442990608342,
- "advancing": 16,
- "declining": 24,
- "unchanged": 8,
- "totalVolume": 1006625,
+ "transactionsValue": 1379676713,
+ "capitalisationActions": 19644672477694,
+ "capitalisationBonds": 13437215608342,
+ "advancing": 13,
+ "declining": 26,
+ "unchanged": 9,
+ "totalVolume": 1009688,
  "gainers": [
   {
    "symbol": "SDCC",
@@ -33,18 +33,18 @@
    "volume": 214
   },
   {
+   "symbol": "SDSC",
+   "shortName": "Africa Global Logistics CI",
+   "close": 2700,
+   "change": 4.65,
+   "volume": 13844
+  },
+  {
    "symbol": "BOAS",
    "shortName": "BOA Sénégal",
    "close": 8145,
    "change": 4.42,
    "volume": 4790
-  },
-  {
-   "symbol": "STAC",
-   "shortName": "SETAO CI",
-   "close": 2150,
-   "change": 3.12,
-   "volume": 4242
   }
  ],
  "losers": [
@@ -56,6 +56,13 @@
    "volume": 14
   },
   {
+   "symbol": "STAC",
+   "shortName": "SETAO CI",
+   "close": 1935,
+   "change": -7.19,
+   "volume": 4542
+  },
+  {
    "symbol": "BOAN",
    "shortName": "BOA Niger",
    "close": 4200,
@@ -63,25 +70,18 @@
    "volume": 10434
   },
   {
+   "symbol": "SHEC",
+   "shortName": "Vivo Energy CI",
+   "close": 1900,
+   "change": -6.4,
+   "volume": 6117
+  },
+  {
    "symbol": "PRSC",
    "shortName": "Tractafric Motors CI",
    "close": 3500,
    "change": -6.17,
    "volume": 385
-  },
-  {
-   "symbol": "SCRC",
-   "shortName": "Sucrivoire CI",
-   "close": 1385,
-   "change": -4.48,
-   "volume": 13728
-  },
-  {
-   "symbol": "BBGC",
-   "shortName": "Bridge Bank Group CI",
-   "close": 8700,
-   "change": -3.33,
-   "volume": 6327
   }
  ],
  "mostActive": [
