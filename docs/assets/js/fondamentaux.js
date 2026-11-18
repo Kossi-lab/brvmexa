@@ -324,6 +324,21 @@
       put('growth', rows.filter(function (s) { return s.grNet != null && s.grNet >= 0; }).length + ' / ' + rows.length);
     };
     stats();
+    // Icône « i » et bulle d'explication sur les chiffres clés du marché
+    var STAT_TIPS = {
+      per: 'La moitié des actions de la BRVM ont un PER plus bas que ce chiffre, l’autre moitié plus haut. C’est un repère : une action dont le PER est inférieur est plutôt bon marché.',
+      yield: 'Le rendement « typique » d’une action de la BRVM : la moitié rapporte plus, l’autre moitié moins. Comparez-y le rendement d’une société pour savoir s’il est élevé.',
+      payers: 'Nombre de sociétés qui ont versé un dividende au titre de leur dernier exercice publié, sur l’ensemble des sociétés cotées suivies.',
+      growth: 'Nombre de sociétés dont le bénéfice net a augmenté par rapport à l’exercice précédent : un thermomètre de la santé des entreprises de la cote.'
+    };
+    root.querySelectorAll('.fx-stat').forEach(function (box) {
+      var el = box.querySelector('[data-fx-stat]'), k = el && el.getAttribute('data-fx-stat'), lbl = box.querySelector('small');
+      if (!STAT_TIPS[k] || box.querySelector('.fx-i')) return;
+      var id = 'fx-tip-stat-' + k, name = lbl ? lbl.textContent : '';
+      box.classList.add('has-tip');
+      box.insertAdjacentHTML('afterbegin', '<button type="button" class="fx-i" aria-label="Qu’est-ce que « ' + esc(name) + ' » ?" aria-describedby="' + id + '">' + INFO + '</button>' +
+        '<span class="fx-bubble" role="tooltip" id="' + id + '"><b>' + esc(name) + '</b>' + esc(STAT_TIPS[k]) + '</span>');
+    });
     var upd = root.querySelector('[data-fx-updated]');
     if (upd) upd.textContent = 'Cours de la séance du ' + (quotes.sessionDate || '').split('-').reverse().join('/') + ' · Comptes annuels mis à jour le ' + (fund.updatedAt || '').split('-').reverse().join('/');
 
@@ -462,16 +477,16 @@
     head.addEventListener('click', function (e) { var th = e.target.closest('th'); if (th) sortBy(th.getAttribute('data-k')); });
     head.addEventListener('keydown', function (e) { var th = e.target.closest('th'); if (th && (e.key === 'Enter' || e.key === ' ')) { e.preventDefault(); sortBy(th.getAttribute('data-k')); } });
     root.addEventListener('click', function (e) {
-      if (!premium && e.target.closest('[data-lock]')) { e.preventDefault(); paywall(); }
+      if (!premium && e.target.closest('[data-lock]') && !e.target.closest('.fx-i')) { e.preventDefault(); paywall(); }
     });
     // Bulles d'explication : au toucher sur mobile, une seule ouverte à la fois
     document.addEventListener('click', function (e) {
       var btn = e.target.closest && e.target.closest('.fx-i');
-      root.querySelectorAll('.fx-card.tip-open').forEach(function (c) { if (!btn || c !== btn.parentNode) c.classList.remove('tip-open'); });
+      root.querySelectorAll('.tip-open').forEach(function (c) { if (!btn || c !== btn.parentNode) c.classList.remove('tip-open'); });
       if (btn) btn.parentNode.classList.toggle('tip-open');
     });
     document.addEventListener('keydown', function (e) {
-      if (e.key === 'Escape') root.querySelectorAll('.fx-card.tip-open').forEach(function (c) { c.classList.remove('tip-open'); });
+      if (e.key === 'Escape') root.querySelectorAll('.tip-open').forEach(function (c) { c.classList.remove('tip-open'); });
     });
     body.addEventListener('click', function (e) {
       var btn = e.target.closest('.fx-open');
