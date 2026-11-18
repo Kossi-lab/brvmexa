@@ -17,6 +17,7 @@
   var clamp = function (v, a, b) { return Math.max(a, Math.min(b, v)); };
   var last = function (arr) { for (var i = arr.length - 1; i >= 0; i--) if (arr[i] != null) return arr[i]; return null; };
   var at = function (arr, back) { var i = arr.length - 1 - back; return i >= 0 ? arr[i] : null; };
+  var frDate = function (d) { return d ? new Intl.DateTimeFormat('fr-FR', { day: 'numeric', month: 'long', year: 'numeric', timeZone: 'UTC' }).format(new Date(d + 'T00:00:00Z')) : '—'; };
   var shift = function (d, days) { var t = new Date(d + 'T00:00:00Z'); t.setUTCDate(t.getUTCDate() + days); return t.toISOString().slice(0, 10); };
 
   // ───────── 1. Analyse technique ─────────
@@ -213,11 +214,12 @@
   // ───────── 5. Questions de l'investisseur ─────────
   var QUESTIONS = [
     ['why', 'Pourquoi ce verdict ?'], ['when', 'Quand acheter ?'], ['risk', 'Quels sont les risques ?'], ['size', 'Combien investir ?'],
-    ['div', 'Et le dividende ?'], ['value', 'Quel est le juste prix ?'], ['sector', 'Face à son secteur ?'], ['sell', 'J’en ai déjà : je vends ?']
+    ['div', 'Et le dividende ?'], ['divdate', 'Quand est le prochain dividende ?'], ['value', 'Quel est le juste prix ?'], ['sector', 'Face à son secteur ?'], ['sell', 'J’en ai déjà : je vends ?']
   ];
   var KEYWORDS = {
     why: /pourquoi|verdict|avis|conseil|achet|faut.il|bon investissement|int[ée]ressant/i, when: /quand|moment|entr(ée|er)|timing|niveau|prix d.achat/i,
     risk: /risqu|danger|stop|perte|baiss/i, size: /combien|montant|budget|part|portefeuille|somme/i,
+    divdate: /(prochain|quand|date|jour|moment).{0,30}(divid|coupon|versement|paiement|d[ée]tach)|d[ée]tach|date de (paiement|versement)/i,
     div: /divid|rendement|coupon|revenu/i, value: /juste|valeur|cher|prix|objectif|cible|potentiel/i,
     sector: /secteur|concurr|compar|autres/i, sell: /vend|sortir|garder|conserver|déjà/i, tech: /techni|tendance|rsi|macd|moyenne|graph/i
   };
@@ -251,6 +253,19 @@
             'La société distribue ' + P(fx.payout) + ' de son bénéfice' + (fx.payout > 1 ? ' : c’est plus qu’elle ne gagne, une baisse du dividende est possible.' : fx.payout > 0.85 ? ' : peu de marge de sécurité.' : ' : le dividende est bien couvert.') +
             ' Il a été versé ' + fx.divYears + ' années sur ' + fx.years + '.'
           : 'La société n’a pas versé de dividende au titre de son dernier exercice publié. Ce titre convient mieux à un objectif de plus-value qu’à un objectif de revenus.';
+      case 'divdate':
+        var nd = fx.nd;
+        if (!nd) return 'Le calendrier des dividendes est momentanément indisponible. Réessayez dans un instant.';
+        if (nd.none) return esc(A.name) + ' n’a pas versé de dividende depuis plus de 18 mois' + (nd.last ? ' (dernier versement le ' + frDate(nd.last.d) + ', ' + F(nd.last.a) + ' brut par action)' : '') + ' : aucun prochain versement n’est prévisible pour l’instant. Surveillez la publication de ses prochains résultats.';
+        return (nd.due
+          ? 'D’habitude, ' + esc(A.name) + ' détache son dividende vers le <b>' + frDate(nd.date) + '</b> : cette date est passée sans versement enregistré, l’annonce de la société est donc attendue très prochainement. '
+          : 'D’après son calendrier des années précédentes, ' + esc(A.name) + ' devrait détacher son prochain dividende vers le <b>' + frDate(nd.date) + '</b>, soit dans ' + nd.days + ' jour' + (nd.days > 1 ? 's' : '') + '. ') +
+          'Montant estimé : environ <b>' + F(nd.amount) + ' brut</b> par action, soit ' + P(nd.yield) + ' au cours actuel. ' +
+          (nd.due ? 'Pour en bénéficier, il faut détenir l’action avant la date de détachement qui sera annoncée. ' : 'Pour en bénéficier, il faut détenir l’action avant le détachement : achetez au plus tard le <b>' + frDate(nd.buyBy) + '</b>. ') +
+          (nd.then ? 'Un second versement est attendu vers le ' + frDate(nd.then.date) + ' (environ ' + F(nd.then.amount) + ' brut). ' : '') +
+          (nd.last ? 'Dernier versement : ' + F(nd.last.a) + ' brut le ' + frDate(nd.last.d) + '. ' : '') +
+          'Le dividende a été versé ' + nd.paid5 + ' année' + (nd.paid5 > 1 ? 's' : '') + ' sur les 5 dernières. ' +
+          'C’est une estimation : seule l’annonce officielle de la société fixe la date exacte et le montant.';
       case 'value':
         return fu.fair
           ? 'En appliquant à ' + esc(A.name) + ' les multiples médians de son secteur, j’estime une juste valeur indicative autour de <b>' + F(fu.fair) + '</b>, soit ' + P(fu.upside, true) + ' par rapport au cours actuel. ' +
@@ -267,13 +282,14 @@
       case 'tech':
         return b.tech.slice(0, 4).map(esc).join(' ');
       default:
-        return 'Je peux vous répondre sur : le verdict, le bon moment pour acheter, les risques, le montant à investir, le dividende, le juste prix, la comparaison avec le secteur, ou la décision de vendre. Choisissez une question ci-dessous.';
+        return 'Je peux vous répondre sur : le verdict, le bon moment pour acheter, les risques, le montant à investir, le dividende, la date du prochain dividende, le juste prix, la comparaison avec le secteur, ou la décision de vendre. Choisissez une question ci-dessous.';
     }
   }
   /** Une question peut en contenir plusieurs (« quand acheter et combien investir ? ») */
-  var ORDER = ['when', 'size', 'risk', 'div', 'value', 'sector', 'sell', 'tech', 'why'];
+  var ORDER = ['divdate', 'when', 'size', 'risk', 'div', 'value', 'sector', 'sell', 'tech', 'why'];
   function intents(text) {
     var found = ORDER.filter(function (k) { return KEYWORDS[k].test(text); });
+    if (found.indexOf('divdate') >= 0) found = found.filter(function (k) { return k !== 'when'; }); // « quand » porte alors sur le dividende
     return found.length ? found.slice(0, 3) : ['help'];
   }
 

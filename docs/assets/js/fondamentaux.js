@@ -38,6 +38,43 @@
   var getJson = function (url) { return fetch(url, { cache: 'no-cache' }).then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); }); };
   var isBank = function (s) { return /financ/i.test(s.sector || ''); };
 
+  // ───────── Prochain dividende (estimation d'après l'historique, comme dans l'application) ─────────
+  var DAY = 864e5;
+  var isoD = function (t) { return new Date(t).toISOString().slice(0, 10); };
+  var addYear = function (d) { return ((Number(d.slice(0, 4)) + 1) + d.slice(4)).replace(/-02-29$/, '-02-28'); };
+  var frDate = function (d) { return d ? new Intl.DateTimeFormat('fr-FR', { day: 'numeric', month: 'long', year: 'numeric', timeZone: 'UTC' }).format(new Date(d + 'T00:00:00Z')) : '—'; };
+  var prevBusinessDay = function (d) { // séance précédant la date (samedi et dimanche exclus)
+    var t = new Date(d + 'T00:00:00Z');
+    do { t.setUTCDate(t.getUTCDate() - 1); } while (t.getUTCDay() === 0 || t.getUTCDay() === 6);
+    return t.toISOString().slice(0, 10);
+  };
+  var tradingDay = function (d) { // pas de séance le week-end : on reporte au lundi
+    var t = new Date(d + 'T00:00:00Z');
+    while (t.getUTCDay() === 0 || t.getUTCDay() === 6) t.setUTCDate(t.getUTCDate() + 1);
+    return t.toISOString().slice(0, 10);
+  };
+  function nextDividend(info, price, today) {
+    today = today || isoD(Date.now());
+    var t = Date.parse(today), year = Number(today.slice(0, 4));
+    var hist = (info && info.history ? info.history : []).slice().sort(function (a, b) { return a.d.localeCompare(b.d); });
+    if (!hist.length) return { none: true, last: null, paid5: 0 };
+    var years = {};
+    hist.forEach(function (p) { var y = Number(p.d.slice(0, 4)); if (y >= year - 4 && y <= year) years[y] = 1; });
+    var paid5 = Object.keys(years).length, last = info.last || hist[hist.length - 1];
+    if (!info.annual) return { none: true, last: last, paid5: paid5 }; // aucun versement depuis 18 mois
+    // Versements du dernier « cycle » (acompte + solde éventuels) : ceux des 8 mois précédant le dernier
+    var list = hist.filter(function (p) { return Date.parse(p.d) > Date.parse(last.d) - 240 * DAY; }).map(function (p) {
+      var date = addYear(p.d);
+      while (Date.parse(date) < t - 30 * DAY) date = addYear(date);
+      var amount = info.exceptional && info.usual && p.d === last.d ? info.usual : p.a;
+      date = tradingDay(date);
+      return { date: date, amount: amount, due: Date.parse(date) < t };
+    }).sort(function (a, b) { return a.date.localeCompare(b.date); });
+    var nx = list[0];
+    return { date: nx.date, amount: nx.amount, due: nx.due, then: list[1] || null, days: Math.round((Date.parse(nx.date) - t) / DAY),
+      buyBy: prevBusinessDay(nx.date), yield: price ? nx.amount / price : null, last: last, paid5: paid5 };
+  }
+
   // ───────── Calcul des ratios ─────────
   function analyse(q, f) {
     if (!f.netIncome) { // version gratuite : seuls le cours et la capitalisation sont calculables
@@ -120,6 +157,26 @@
       '<line x1="6" x2="' + (w - 6) + '" y1="' + zero + '" y2="' + zero + '" class="b-axis"/>' + g + '</svg></figure>';
   }
 
+  function divBlock(s) {
+    var nd = s.nd;
+    if (!nd) return ''; // calendrier des dividendes indisponible
+    var lastTxt = nd.last ? frDate(nd.last.d) : '—';
+    var lastHint = nd.last ? money(nd.last.a) + ' F brut par action' + (nd.last.ex ? ' · exercice ' + nd.last.ex : '') : '';
+    var reg = card('Régularité', nd.paid5 + ' année' + (nd.paid5 > 1 ? 's' : '') + ' sur 5', 'Avec au moins un versement', nd.paid5 >= 4 ? 'up' : nd.paid5 <= 1 ? 'down' : '');
+    var head = '<div class="fx-nd" aria-label="Prochain dividende"><div class="fx-nd-head"><h4>Prochain dividende</h4>' +
+      '<span class="fx-chip ' + (nd.none ? 'flat' : nd.due ? 'warn' : 'up') + '">' + (nd.none ? 'Aucun versement prévu' : nd.due ? 'Annonce attendue' : 'Estimation') + '</span></div>';
+    if (nd.none) return head + '<div class="fx-cards fx-nd-cards">' + card('Prochain dividende', 'Non prévu', 'Aucun versement depuis plus de 18 mois') +
+      card('Dernier versement', lastTxt, lastHint) + reg + '</div></div>';
+    return head + '<div class="fx-cards fx-nd-cards">' +
+      card('Date de détachement estimée', (nd.due ? 'Vers le ' : '') + frDate(nd.date), nd.due ? 'Date habituelle passée : annonce imminente' : 'Dans ' + nd.days + ' jour' + (nd.days > 1 ? 's' : ''), nd.due ? 'up' : '') +
+      card('Achetez au plus tard le', nd.due ? 'Avant le détachement' : frDate(nd.buyBy), 'Il faut détenir l’action avant la date de détachement') +
+      card('Montant brut estimé', money(nd.amount) + ' F', 'Par action, avant impôt') +
+      card('Rendement estimé', pctv(nd.yield), 'Au cours actuel', nd.yield >= 0.06 ? 'up' : '') +
+      card('Dernier versement', lastTxt, lastHint) + reg + '</div>' +
+      (nd.then ? '<p class="fx-nd-then">Puis un second versement estimé vers le ' + frDate(nd.then.date) + ' (environ ' + money(nd.then.amount) + ' F brut par action).</p>' : '') +
+      '<p class="fx-nd-note">Estimation d’après le calendrier des années précédentes : seule l’annonce officielle de la société fait foi (date exacte et montant). Montants bruts, avant impôt.</p></div>';
+  }
+
   function card(label, value, hint, tone) {
     return '<div class="fx-card"><small>' + esc(label) + '</small><strong class="num' + (tone ? ' ' + tone : '') + '">' + value + '</strong>' + (hint ? '<span>' + hint + '</span>' : '') + '</div>';
   }
@@ -127,6 +184,7 @@
   // Société fictive affichée floutée derrière le message Premium (aucune vraie donnée dans la page)
   var DEMO = { years: [2021, 2022, 2023, 2024, 2025], shares: 50000000, float: 24.5, revenue: [182400, 196300, 214800, 229100, 247600],
     netIncome: [21400, 24100, 26900, 29800, 32700], eps: [428, 482, 538, 596, 654], dividend: [256, 289, 323, 358, 392] };
+  var DEMO_ND = { date: '2027-06-24', amount: 392, due: false, then: null, days: 218, buyBy: '2027-06-23', yield: 0.061, last: { d: '2026-06-25', a: 358, ex: 2025 }, paid5: 5 };
   var LOCK = '<svg viewBox="0 0 24 24" width="26" height="26" aria-hidden="true"><rect x="4.5" y="10.5" width="15" height="10" rx="2.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="M8 10.5V7.8a4 4 0 0 1 8 0v2.7" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>';
   var memberHref = function (sym) {
     var u = window.BxMember ? window.BxMember.url(location.pathname + '#' + sym) : '../membre/';
@@ -135,15 +193,16 @@
 
   function locked(s, med) {
     var demo = analyse({ symbol: s.sym, name: s.fullName, sector: s.sector, close: 6400 }, DEMO);
+    demo.nd = DEMO_ND;
     var inner = fullDetail(demo, med, true);
     return '<div class="fx-locked"><div class="fx-locked-blur" aria-hidden="true" inert>' + inner + '</div>' +
       '<div class="fx-locked-cta"><div class="fx-locked-card" role="region" aria-label="Contenu Premium">' +
       '<div class="pw-ico">' + LOCK + '</div>' +
       '<h4>Devenez membre Premium pour profiter des analyses</h4>' +
-      '<p>Ratios clés, comptes sur 5 ans, lecture rapide et avis de David pour ' + esc(s.fullName) + ' et toutes les sociétés de la BRVM.</p>' +
+      '<p>Date du prochain dividende, ratios clés, comptes sur 5 ans, lecture rapide et avis de David pour ' + esc(s.fullName) + ' et toutes les sociétés de la BRVM.</p>' +
       '<div class="pw-actions"><a class="btn btn--primary" href="' + esc(memberHref(s.sym)) + '#offres">Devenir membre Premium</a>' +
       '<a class="btn btn--ghost" href="' + esc(memberHref(s.sym)) + '">Se connecter</a></div>' +
-      '<small>Dès 2 500 FCFA par mois · Mobile Money ou carte</small></div></div></div>';
+      '<small>Dès 3\u00a0000\u00a0FCFA par mois · Sans engagement</small></div></div></div>';
   }
 
   function detail(s, med, premium) {
@@ -192,6 +251,7 @@
       row('Taux de distribution', payouts, function (v) { return pctv(v); }) +
       '</tbody></table></div>';
     return '<div class="fx-chips" aria-label="Lecture rapide">' + chips + '</div>' +
+      divBlock(s) +
       '<div class="fx-cards">' + cards + '</div>' +
       '<div class="fx-charts">' + bars(f.years, f.netIncome, 'Résultat net (millions de FCFA)', 'M FCFA') + bars(f.years, f.dividend, 'Dividende net par action (FCFA)', 'FCFA') + '</div>' +
       hist;
@@ -268,7 +328,7 @@
     promo.className = 'fx-promo';
     promo.innerHTML = '<div class="fx-promo-ico" aria-hidden="true">' + LOCK + '</div>' +
       '<div class="fx-promo-txt"><strong>Débloquez les ratios des ' + rows.length + ' sociétés de la BRVM</strong>' +
-      '<span>BPA, PER, rendement, taux de distribution, marge nette, croissance du bénéfice, filtres et avis de David.</span></div>' +
+      '<span>Date du prochain dividende, BPA, PER, rendement, taux de distribution, marge nette, croissance du bénéfice, filtres et avis de David.</span></div>' +
       '<a class="btn btn--primary fx-promo-btn" href="' + esc(memberHref('')) + '#offres">Devenir Premium · dès 3 000 F/mois</a>';
     var wrapEl = root.querySelector('.table-wrap');
     if (wrapEl) wrapEl.parentNode.insertBefore(promo, wrapEl);
@@ -409,9 +469,12 @@
 
     // Membre Premium : les comptes détaillés sont lus dans la base protégée (refusés aux autres comptes)
     if (member && member.premium && window.BxMember) {
-      window.BxMember.data('fondamentaux').then(function (full) {
+      var divs = getJson(base + '/dividends.json?t=' + Math.floor(Date.now() / 600000)).catch(function () { return null; });
+      Promise.all([window.BxMember.data('fondamentaux'), divs]).then(function (res) {
+        var full = res[0], dv = res[1] && res[1].items ? res[1].items : null;
         premium = true;
         compute(full);
+        if (dv) rows.forEach(function (s) { s.nd = nextDividend(dv[s.sym], s.price); });
         promo.remove();
         drawHead();
         stats();
