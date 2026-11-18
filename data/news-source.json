@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-18T17:00:48.914Z",
+ "updatedAt": "2026-11-18T17:11:06.059Z",
  "items": [
+  {
+   "id": "sika-65819",
+   "title": "UEMOA : Les réserves de change grimpent à 41 milliards USD en 2025",
+   "summary": "Après avoir frôlé la zone de vulnérabilité en 2023, l'UEMOA a reconstitué une bonne partie de son matelas de sécu...",
+   "url": "https://www.sikafinance.com/marches/uemoa-les-reserves-de-change-grimpent-a-41-milliards-usd-en-2025_65819",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-11-18T16:55:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65818",
    "title": "BRVM : Quelques éclaircies dans un marché toujours sous pression",
@@ -4313,20 +4327,6 @@
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-09-06T07:00:00.000Z",
-   "symbols": [],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "gn-g3jdn0",
-   "title": "Afrique économie - BRVM, la bourse solidaire de l’Afrique de l’Ouest [2/5]",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNR0VhUklZQ0piV0tnUV9zQXZoS2lpaVpfdlU4WUJWSmYxa0N0V1pveV81VWViVk5makxJN3dCMFYwUHZKajJMek1HdktvTGxKbmI5bWZoSFFSbEJVbm83TDdTX2N2UGRJRGdzN1hmaG5jUHBWc2wyaF9YYnNzVzVlZ2pKWFNiV2U0Z0dUQ0prVVA5Um90R2VnQi1XUnBabUVWeHZ3MUJlMkR5N1B5cG5SM2Vqb0w?oc=5",
-   "image": null,
-   "source": "RFI",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-09-01T07:00:00.000Z",
    "symbols": [],
    "status": "new",
    "tries": 0

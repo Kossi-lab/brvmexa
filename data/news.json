@@ -1,6 +1,30 @@
 {
- "updatedAt": "2026-11-18T17:00:48.917Z",
+ "updatedAt": "2026-11-18T17:11:06.061Z",
  "items": [
+  {
+   "id": "sika-65819",
+   "title": "UEMOA : Les réserves de change atteignent 41 milliards USD en 2025",
+   "summary": "Les réserves de change de la zone UEMOA ont connu une progression notable en 2025, atteignant un niveau de 41 milliards de dollars après une période de fragilité observée en 2023.",
+   "body": [
+    "La situation monétaire de l'Union économique et monétaire ouest-africaine (UEMOA) s'est nettement améliorée au cours de l'année 2025. Les réserves de change ont atteint un volume de 41 milliards de dollars, marquant un renforcement significatif de la position extérieure de la zone.",
+    "Cette évolution positive intervient après une année 2023 délicate, durant laquelle les réserves avaient frôlé un seuil de vulnérabilité. Ce rétablissement permet ainsi à l'Union de consolider son matelas de sécurité financière."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65819",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-18T16:55:00Z",
+   "writtenAt": "2026-11-18T17:11:06.059Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/uemoa-les-reserves-de-change-grimpent-a-41-milliards-usd-en-2025_65819",
+    "title": "UEMOA : Les réserves de change grimpent à 41 milliards USD en 2025"
+   },
+   "rewritten": true
+  },
   {
    "id": "sika-65818",
    "title": "BRVM : Une séance contrastée marquée par le repli des indices boursiers",
@@ -3715,37 +3739,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/la-cote-divoire-inaugure-la-plus-grande-centrale-biomasse-dafrique-de-louest_65539",
     "title": "La Côte d’Ivoire inaugure la plus grande centrale biomasse d’Afrique de l’Ouest"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65534",
-   "title": "La BRVM en repli marqué malgré la performance notable de Sicable",
-   "summary": "La Bourse régionale des valeurs mobilières a clôturé la séance de ce jeudi en baisse, affectée par le recul des indices majeurs et des titres à forte capitalisation.",
-   "body": [
-    "La journée a été difficile pour le marché financier régional, avec une tendance baissière généralisée. Le BRVM-Composite a reculé de 1,57 % pour s'établir à 520,20 points, tandis que les indices BRVM-30 et BRVM-Prestige ont respectivement perdu 1,73 % et 2,09 %. Au total, 23 titres ont terminé dans le rouge, contre 17 progressions et 8 stagnations, pour un volume d'échanges global de 2,16 milliards FCFA.",
-    "Parmi les valeurs en baisse, SETAO, Africa Global Logistics et NEI Ceda ont enregistré les reculs les plus prononcés. Le titre Sonatel Sénégal, qui a concentré 37 % des transactions, a pesé sur la capitalisation boursière avec une baisse de 4,59 %. À l'inverse, Sicable s'est distingué par une hausse de 6,99 % après avoir touché un point bas la veille, suivi par la CIE, dont le résultat net semestriel est en progression, et Servair Abidjan."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65534",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-05T17:09:00Z",
-   "writtenAt": "2026-11-06T04:43:17.011Z",
-   "symbols": [
-    "ABJC",
-    "CABC",
-    "NEIC",
-    "SDSC",
-    "SNTS",
-    "STAC"
-   ],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/brvm-sicable-rebondit-apres-un-point-bas-a-2-500-fcfa_65534",
-    "title": "BRVM : SICABLE rebondit après un point bas à 2 500 FCFA"
    },
    "rewritten": true
   }
