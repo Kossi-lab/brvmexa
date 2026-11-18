@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T20:15:36.908Z",
+ "updatedAt": "2026-11-18T20:30:26.737Z",
  "items": [
   {
    "id": "sika-65820",
@@ -139,6 +139,22 @@
    "publishedAt": "2026-11-18T09:30:00Z",
    "symbols": [
     "SHEC"
+   ],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "gn-pfcddy",
+   "title": "Bridge Bank Group (BBGC) — BRVM",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VWFNIS3puU1RSY09PZGRsWkVIcnh4cHM3ZXFnd2lVbmR1OGU3dFRfMG92UENpbkdnVjNnNGpvckliaWthcXBZaVBjeVVFZXBodzNCZEpSU1hBN1FXbDlLSC0yb0Nvdw?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-18T06:17:41.000Z",
+   "symbols": [
+    "BBGC"
    ],
    "status": "done",
    "tries": 1
@@ -2268,20 +2284,6 @@
    "tries": 1
   },
   {
-   "id": "gn-1kamwte",
-   "title": "La BRVM reporte à 2027 le lancement de son marché de produits dérivés",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcFU0dDNPMG5vdlVhXzZfV2NqWGNtSWV0amVLdXA5RVh4MVlydGVWcFJjdk83LWdmaUtiQnQta1ZKenliamVpbnhYQ2NqYkVHTzd4YWQ5UHhYMGFGX1pCbW44cmxFS3gwOXktelZ3Tm92VWZ5cWdRbmI4bGFvNGhKTmdmXzIxQzc3OTlXM1BBZ2t1VmU4RFlPYlpGMXE2cjNqWF9TdFJmLS1vNmwyOV81SjVpNV9va1lqa1NQUXNEc2FQVUdmZFVfZQ?oc=5",
-   "image": null,
-   "source": "AGENCE ECOFIN",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-11-05T09:29:00.000Z",
-   "symbols": [],
-   "status": "done",
-   "tries": 1
-  },
-  {
    "id": "sika-65511",
    "title": "Côte d’Ivoire : PETROCI expédie sa première cargaison de brut depuis la reprise du champ Espoir",
    "summary": "Trois mois après avoir repris les opérations du bloc CI-26, la compagnie pétrolière nationale a procédé, le 31 octobre ...",
@@ -2296,15 +2298,15 @@
    "tries": 1
   },
   {
-   "id": "gn-24mewh",
-   "title": "La BRVM évoque l'ouverture de l'introduction en bourse de la raffinerie Dangote",
+   "id": "gn-1kamwte",
+   "title": "La BRVM reporte à 2027 le lancement de son marché de produits dérivés",
    "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaEJMeEdnMEk2dWIxMzktWHB5aE55VlhlV3hTR1ppcUo1UU9Tb2I4QmxPZGo3RHBjRk1KMHRfcjVqdUlEMzFwTUJvRWxFczBfQkxlTktRVWFfd0ZWTEVuQU5lYUZydXVKeENhV1gwY1I1OHpSWEZCY0FsYzJCZXYxTzROclZkT3hUWkxGVmxoMTVBNWwzWGNkbWRTS2VyZ3lXM0E?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcFU0dDNPMG5vdlVhXzZfV2NqWGNtSWV0amVLdXA5RVh4MVlydGVWcFJjdk83LWdmaUtiQnQta1ZKenliamVpbnhYQ2NqYkVHTzd4YWQ5UHhYMGFGX1pCbW44cmxFS3gwOXktelZ3Tm92VWZ5cWdRbmI4bGFvNGhKTmdmXzIxQzc3OTlXM1BBZ2t1VmU4RFlPYlpGMXE2cjNqWF9TdFJmLS1vNmwyOV81SjVpNV9va1lqa1NQUXNEc2FQVUdmZFVfZQ?oc=5",
    "image": null,
-   "source": "energynews.pro",
+   "source": "AGENCE ECOFIN",
    "category": "Presse",
    "premium": false,
-   "publishedAt": "2026-11-04T21:32:22.000Z",
+   "publishedAt": "2026-11-05T08:00:00.000Z",
    "symbols": [],
    "status": "done",
    "tries": 1
@@ -2581,6 +2583,20 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-11-04T08:19:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "gn-24mewh",
+   "title": "La BRVM évoque l'ouverture de l'introduction en bourse de la raffinerie Dangote",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaEJMeEdnMEk2dWIxMzktWHB5aE55VlhlV3hTR1ppcUo1UU9Tb2I4QmxPZGo3RHBjRk1KMHRfcjVqdUlEMzFwTUJvRWxFczBfQkxlTktRVWFfd0ZWTEVuQU5lYUZydXVKeENhV1gwY1I1OHpSWEZCY0FsYzJCZXYxTzROclZkT3hUWkxGVmxoMTVBNWwzWGNkbWRTS2VyZ3lXM0E?oc=5",
+   "image": null,
+   "source": "energynews.pro",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-04T08:00:00.000Z",
    "symbols": [],
    "status": "done",
    "tries": 1
@@ -3176,20 +3192,6 @@
    "tries": 1
   },
   {
-   "id": "gn-1yhz37v",
-   "title": "Le patron de la BRVM reçoit la plus haute distinction de l’Université Laval",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQWJ4Yi1SQjVPdUdHWklaTmUtZnBsQXQ2SG1KWm50LWdJcndHRy03Z21jTlJ4V3pUdXdXdm83OWdILWdkSGVhbTBPdVpNMU1Jck9RbUhSOFdfa1lqM3hYekxHbmVHSmJobnMwa2p6VDZUM2Z0Y3BySGJBRFhsVk1JQmlXS0E1Ym5kZUhydVlCaUxDRWtDLUY2RjUwQXFYLUh5U2p6TXVld00ycDExQVhQQjBPeDhYZ042MFJnVVd1N0lWTXhqWVNxZm1ldUFFWVdEZjJkNk5R?oc=5",
-   "image": null,
-   "source": "République Togolaise",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-11-01T13:15:20.000Z",
-   "symbols": [],
-   "status": "done",
-   "tries": 1
-  },
-  {
    "id": "sika-65402",
    "title": "Avec la Banque africaine de l’énergie, l’Afrique reprend en main le financement de ses ressources pétrogazières",
    "summary": "Dotée d'un capital autorisé de 5 milliards de dollars, la nouvelle institution doit financer des projets allant d...",
@@ -3199,6 +3201,20 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-11-01T08:26:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "gn-1yhz37v",
+   "title": "Le patron de la BRVM reçoit la plus haute distinction de l’Université Laval",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQWJ4Yi1SQjVPdUdHWklaTmUtZnBsQXQ2SG1KWm50LWdJcndHRy03Z21jTlJ4V3pUdXdXdm83OWdILWdkSGVhbTBPdVpNMU1Jck9RbUhSOFdfa1lqM3hYekxHbmVHSmJobnMwa2p6VDZUM2Z0Y3BySGJBRFhsVk1JQmlXS0E1Ym5kZUhydVlCaUxDRWtDLUY2RjUwQXFYLUh5U2p6TXVld00ycDExQVhQQjBPeDhYZ042MFJnVVd1N0lWTXhqWVNxZm1ldUFFWVdEZjJkNk5R?oc=5",
+   "image": null,
+   "source": "République Togolaise",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-01T07:00:00.000Z",
    "symbols": [],
    "status": "done",
    "tries": 1
@@ -3938,22 +3954,6 @@
    "tries": 0
   },
   {
-   "id": "gn-pfcddy",
-   "title": "Bridge Bank Group (BBGC) — BRVM",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VWFNIS3puU1RSY09PZGRsWkVIcnh4cHM3ZXFnd2lVbmR1OGU3dFRfMG92UENpbkdnVjNnNGpvckliaWthcXBZaVBjeVVFZXBodzNCZEpSU1hBN1FXbDlLSC0yb0Nvdw?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-10-28T11:54:55.000Z",
-   "symbols": [
-    "BBGC"
-   ],
-   "status": "new",
-   "tries": 0
-  },
-  {
    "id": "sika-65304",
    "title": "‘’Ethics & Compliance Days 2026’’ : Orange CI pose les fondations d’une gouvernance responsable de l’IA",
    "summary": "Orange Côte d'Ivoire a réuni, ce 27 octobre 2026 à son siège d'Orange Village, dirigeants, experts de la conformit...",
@@ -4036,7 +4036,7 @@
    "source": "Forbes Afrique",
    "category": "Presse",
    "premium": false,
-   "publishedAt": "2026-10-28T07:27:52.000Z",
+   "publishedAt": "2026-10-28T07:00:00.000Z",
    "symbols": [
     "SNTS"
    ],
@@ -4304,29 +4304,31 @@
    "tries": 0
   },
   {
-   "id": "gn-jorz0q",
-   "title": "BRVM : Ces mauvais élèves qui font tâche dans le paysage boursier",
+   "id": "gn-bk2dr7",
+   "title": "L'indice principal de la BRVM recule pour la deuxième semaine consécutive à l'approche du fractionnement des actions de Sonatel",
    "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeG1oTHNrRUpBeVloYnpjaTU3d1c1S3VZbEZHZHBEVGoxM21DMEF2aVhUVDJJcEhaQ3p5MXl2Z0V5TVQ3YlZJVnpTUkJFa1NLWE5pVnIyTTZmNHZwQ1ZRUmJFMm9zTXNvSWptTE5odXBobUx6MVpuYVFyelB0TWVxeWxqb05majBSUXNJSEVYTGR3b2tIaTFjZnBJc1JDME5HbWtxZXhBZHo?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSy1jTDczcVNidDBCRVJ3NzRQdVJYeW8yS2VkRm4zVm1JdVVEOGh3Sk1TaW0yR0JKRVBELWJzbVNncGZmQlc5cnVxdEdMdmd4dTNiZnIzT1lfdk9ueEFMZ0w0YkZaeFVhbHRTWnZkb2Q3cTVBa1BFdU1mcHdrb2Ewb3JObFFCbGFPWS05S1kzS1J0RkJxeUw5eWl1dGZ5bXFDel9pMmVic0ZKem1rVU5rdUF2dHpMX1ZkLURJTEpkVXNEN2pPUGd6OEg1VFVDMTZkNVJSVm1xbmhVN0FkcGlKUG5fZ3k5NUk?oc=5",
    "image": null,
-   "source": "Sika Finance",
+   "source": "Dabafinance",
    "category": "Presse",
    "premium": false,
-   "publishedAt": "2026-10-13T14:57:41.000Z",
-   "symbols": [],
+   "publishedAt": "2026-10-24T07:00:00.000Z",
+   "symbols": [
+    "SNTS"
+   ],
    "status": "new",
    "tries": 0
   },
   {
-   "id": "gn-aijb39",
-   "title": "Lagos, Abidjan, Nairobi… Ce qui dope la rentabilité exceptionnelle des Bourses africaines",
+   "id": "gn-xadya0",
+   "title": "Les actions de la BRVM perdent 559 milliards de CFA alors que le marché recule de 2,61 % lors d'une vague de ventes hebdomadaire",
    "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRURMMVVjTkVyWUdEclZBZmtSU1A2eFNUaGQyWVk1cTNFWGxpZC1hb1ZSUXZaeDVJNFV0akpOZUJqT0JxT1BDeGJfMlFIdTNJOS1SNmprUlZUbkFtSk5CT0xacTl0NW5qYnRzemJ4MVRCOGowU2ZQeENNbGhCVmlDZkY2a01JMGx0MUNoOFZwMEVWNC14bElvSnl6emNPSThVWGIycHFINEJpZkUtTFJTV0dSY0gtQ3owLUtzUUVjX2hRMHM4WkJzSVdZc1pjZTFRZVNBMVhSa1JCTkgxOUE?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcHZFeVdVcFZ1R21vQzdnNHcyR3B1eTdsVmgzZWpNazlVQWgzQjUtNkpTdGxkemhGRGZxdXVpcFdqQmFzcFd6TE5id19UYnRGcDlVOFJwOUxnZmZXbDdwWmhONS10N3hGUDZGRV9mNVFCaHRwREhNbUdZTU40RjFIZ0IzaHIxU1hWQWdhX25mQURxUTRhWENmbi1Tall0dE1ySVUydFQ3SG1UZ3hWdjc3THdCZ2FUXzZRaWM1WTdGdEt6ZGx5OXY4Mm44Tnp5VENRd0JkcVUyOTVaY2ZNOFE0?oc=5",
    "image": null,
-   "source": "Jeune Afrique",
+   "source": "Dabafinance",
    "category": "Presse",
    "premium": false,
-   "publishedAt": "2026-09-07T07:00:00.000Z",
+   "publishedAt": "2026-10-18T07:00:00.000Z",
    "symbols": [],
    "status": "new",
    "tries": 0

@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T20:15:36.910Z",
+ "updatedAt": "2026-11-18T20:30:26.739Z",
  "items": [
   {
    "id": "sika-65820",
@@ -249,6 +249,32 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/vivo-energy-ci-un-resultat-net-an-hausse-de-15-a-fin-septembre-2026_65800",
     "title": "Vivo Energy CI : Un résultat net an hausse de 15% à fin septembre 2026"
+   },
+   "rewritten": true
+  },
+  {
+   "id": "gn-pfcddy",
+   "title": "Actualité de Bridge Bank Group sur le marché financier régional",
+   "summary": "La rédaction fait le point sur les informations concernant l'établissement bancaire Bridge Bank Group (BBGC) coté à la BRVM en ce 18 novembre 2026.",
+   "body": [
+    "La Bourse régionale des valeurs mobilières (BRVM) met en lumière l'activité de Bridge Bank Group (BBGC) en ce mardi 18 novembre 2026.",
+    "Les investisseurs et observateurs du marché financier ouest-africain peuvent suivre l'évolution de cette valeur bancaire au sein des cotations officielles de la place boursière régionale."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#gn-pfcddy",
+   "image": null,
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-18T06:17:41.000Z",
+   "writtenAt": "2026-11-18T20:30:26.736Z",
+   "symbols": [
+    "BBGC"
+   ],
+   "origin": {
+    "name": "Dabafinance",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VWFNIS3puU1RSY09PZGRsWkVIcnh4cHM3ZXFnd2lVbmR1OGU3dFRfMG92UENpbkdnVjNnNGpvckliaWthcXBZaVBjeVVFZXBodzNCZEpSU1hBN1FXbDlLSC0yb0Nvdw?oc=5",
+    "title": "Bridge Bank Group (BBGC) — BRVM"
    },
    "rewritten": true
   },
@@ -3715,30 +3741,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/benin-damien-mama-quitte-les-nations-unies-pour-piloter-la-transformation-economique-des-territoires_65546",
     "title": "Bénin : Damien Mama quitte les Nations unies pour piloter la transformation économique des territoires"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65538",
-   "title": "InTouch et Yabx s'allient pour développer le crédit numérique en Afrique",
-   "summary": "Les entreprises InTouch et Yabx ont officialisé un partenariat lors de l'AFIS 2026 pour faciliter l'accès au crédit numérique via l'intelligence artificielle et les infrastructures de paiement.",
-   "body": [
-    "Présenté lors de l'Africa Financial Summit (AFIS) tenu à Luanda les 3 et 4 novembre 2026, ce rapprochement stratégique vise à intégrer des solutions de financement directement dans les habitudes transactionnelles des utilisateurs. Le projet débutera au Sénégal et en Côte d'Ivoire, avant une possible expansion à travers les 27 pays où InTouch opère déjà.",
-    "Le dispositif s'appuie sur l'intelligence artificielle de Yabx pour évaluer la solvabilité des clients sans historique bancaire traditionnel. L'offre inclura des microcrédits, des découverts numériques, des avances sur salaire, ainsi que des solutions de trésorerie pour les commerçants, le tout via des outils comme le portefeuille Ting! et le service « Fuel Now, Pay Later »."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65538",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-06T09:02:00Z",
-   "writtenAt": "2026-11-06T09:53:36.719Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/intouch-et-yabx-misent-sur-le-credit-numerique-pour-toucher-des-millions-dafricains_65538",
-    "title": "InTouch et Yabx misent sur le crédit numérique pour toucher des millions d’Africains"
    },
    "rewritten": true
   }
