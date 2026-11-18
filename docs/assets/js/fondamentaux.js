@@ -177,8 +177,36 @@
       '<p class="fx-nd-note">Estimation d’après le calendrier des années précédentes : seule l’annonce officielle de la société fait foi (date exacte et montant). Montants bruts, avant impôt.</p></div>';
   }
 
+  // Petites explications (icône « i » en haut à droite de chaque carte, au survol ou au toucher)
+  var TIPS = [
+    [/^Date de détachement/, 'Le jour où le dividende se « détache » de l’action : à partir de cette date, un nouvel acheteur n’y a plus droit. Elle est estimée d’après les années précédentes ; la société annonce la date exacte quelques semaines avant.'],
+    [/^Achetez au plus tard/, 'Dernière séance pour acheter l’action et toucher ce dividende. Si vous achetez le jour du détachement ou après, c’est le vendeur qui le recevra.'],
+    [/^Montant brut/, 'Ce que la société versera pour chaque action détenue, avant l’impôt retenu à la source (son taux dépend du pays de la société). Estimé d’après le dernier versement.'],
+    [/^Rendement estimé/, 'Ce que ce dividende vous rapporte par rapport au prix actuel de l’action. Exemple : 5 % = 5 000 F de dividende pour 100 000 F investis.'],
+    [/^Dernier versement/, 'Le dernier dividende réellement payé par la société, avec l’exercice (l’année de bénéfices) auquel il correspond.'],
+    [/^Régularité/, 'Nombre d’années, sur les 5 dernières, où la société a versé au moins un dividende. 5 sur 5 : un payeur fidèle.'],
+    [/^Prochain dividende/, 'La société n’a rien versé depuis plus de 18 mois : aucun versement n’est prévisible pour l’instant. À surveiller lors de ses prochains résultats.'],
+    [/^BPA/, 'Bénéfice par action : la part du bénéfice annuel qui revient à chaque action. S’il progresse d’année en année, c’est bon signe.'],
+    [/^PER/, 'Combien d’années de bénéfices il faut pour « rembourser » le prix de l’action. Plus il est bas, moins l’action est chère. Comparez-le à la médiane du secteur.'],
+    [/^Rendement net/, 'Dividende net du dernier exercice divisé par le cours actuel : le revenu annuel que l’action vous verse, en pourcentage de votre mise.'],
+    [/^Taux de distribution/, 'Part du bénéfice reversée aux actionnaires. Au-delà de 100 %, la société distribue plus qu’elle ne gagne : le dividende risque de baisser.'],
+    [/^Marge nette/, 'Sur 100 F de chiffre d’affaires (ou de produit net bancaire pour une banque), ce qu’il reste en bénéfice. Plus elle est haute, plus l’entreprise est rentable.'],
+    [/^Croissance du bénéfice/, 'Évolution du bénéfice net par rapport à l’exercice précédent : la société gagne-t-elle plus ou moins d’argent ?'],
+    [/^Croissance du (CA|PNB)/, 'Évolution des ventes (ou du produit net bancaire pour une banque) sur un an : l’activité de la société grandit-elle ?'],
+    [/^Croissance annuelle moyenne/, 'Progression moyenne du bénéfice chaque année sur la période : elle lisse les bonnes et les mauvaises années.'],
+    [/^Capitalisation/, 'Valeur totale de la société en bourse : cours de l’action × nombre d’actions.'],
+    [/^Flottant/, 'Part des actions réellement disponibles à l’achat en bourse. Un flottant faible rend l’action plus difficile à acheter ou à vendre.']
+  ];
+  var INFO = '<svg viewBox="0 0 20 20" width="16" height="16" aria-hidden="true"><circle cx="10" cy="10" r="8.25" fill="none" stroke="currentColor" stroke-width="1.5"/><circle cx="10" cy="6.4" r="1.05" fill="currentColor"/><path d="M10 9.2v5" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/></svg>';
+  var tipId = 0;
   function card(label, value, hint, tone) {
-    return '<div class="fx-card"><small>' + esc(label) + '</small><strong class="num' + (tone ? ' ' + tone : '') + '">' + value + '</strong>' + (hint ? '<span>' + hint + '</span>' : '') + '</div>';
+    var tip = TIPS.filter(function (t) { return t[0].test(label); })[0], info = '';
+    if (tip) {
+      var id = 'fx-tip-' + (++tipId);
+      info = '<button type="button" class="fx-i" aria-label="Qu’est-ce que « ' + esc(label) + ' » ?" aria-describedby="' + id + '">' + INFO + '</button>' +
+        '<span class="fx-bubble" role="tooltip" id="' + id + '"><b>' + esc(label) + '</b>' + esc(tip[1]) + '</span>';
+    }
+    return '<div class="fx-card' + (tip ? ' has-tip' : '') + '">' + info + '<small>' + esc(label) + '</small><strong class="num' + (tone ? ' ' + tone : '') + '">' + value + '</strong>' + (hint ? '<span>' + hint + '</span>' : '') + '</div>';
   }
 
   // Société fictive affichée floutée derrière le message Premium (aucune vraie donnée dans la page)
@@ -435,6 +463,15 @@
     head.addEventListener('keydown', function (e) { var th = e.target.closest('th'); if (th && (e.key === 'Enter' || e.key === ' ')) { e.preventDefault(); sortBy(th.getAttribute('data-k')); } });
     root.addEventListener('click', function (e) {
       if (!premium && e.target.closest('[data-lock]')) { e.preventDefault(); paywall(); }
+    });
+    // Bulles d'explication : au toucher sur mobile, une seule ouverte à la fois
+    document.addEventListener('click', function (e) {
+      var btn = e.target.closest && e.target.closest('.fx-i');
+      root.querySelectorAll('.fx-card.tip-open').forEach(function (c) { if (!btn || c !== btn.parentNode) c.classList.remove('tip-open'); });
+      if (btn) btn.parentNode.classList.toggle('tip-open');
+    });
+    document.addEventListener('keydown', function (e) {
+      if (e.key === 'Escape') root.querySelectorAll('.fx-card.tip-open').forEach(function (c) { c.classList.remove('tip-open'); });
     });
     body.addEventListener('click', function (e) {
       var btn = e.target.closest('.fx-open');
