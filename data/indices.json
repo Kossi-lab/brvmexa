@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-11-18T13:00:22.232Z",
+ "updatedAt": "2026-11-18T13:15:20.812Z",
  "sessionDate": "2026-11-18",
- "sessionTime": "12:45",
+ "sessionTime": "13:02",
  "source": "brvm.org",
  "items": [
   {
@@ -9,8 +9,8 @@
    "name": "BRVM 30",
    "group": "main",
    "prevClose": 243.13,
-   "close": 242.99,
-   "change": -0.06,
+   "close": 243.13,
+   "change": 0,
    "ytd": 1.97
   },
   {
@@ -18,8 +18,8 @@
    "name": "BRVM Composite",
    "group": "main",
    "prevClose": 502.68,
-   "close": 501.08,
-   "change": -0.32,
+   "close": 501.38,
+   "change": -0.26,
    "ytd": 1.7
   },
   {
@@ -27,8 +27,8 @@
    "name": "BRVM Prestige",
    "group": "main",
    "prevClose": 188.19,
-   "close": 188.03,
-   "change": -0.09,
+   "close": 188.2,
+   "change": 0.01,
    "ytd": 1.47
   },
   {
@@ -36,8 +36,8 @@
    "name": "BRVM Principal",
    "group": "main",
    "prevClose": 350.14,
-   "close": 348.07,
-   "change": -0.59,
+   "close": 348.28,
+   "change": -0.53,
    "ytd": 0.78
   },
   {
@@ -45,8 +45,8 @@
    "name": "BRVM Consommation de Base",
    "group": "main",
    "prevClose": 253.59,
-   "close": 254.97,
-   "change": 0.54,
+   "close": 255.22,
+   "change": 0.64,
    "ytd": 1.51
   },
   {
@@ -54,8 +54,8 @@
    "name": "BRVM Consommation Discrétionnaire",
    "group": "main",
    "prevClose": 165.39,
-   "close": 163.79,
-   "change": -0.97,
+   "close": 163.44,
+   "change": -1.18,
    "ytd": -0.87
   },
   {
@@ -81,8 +81,8 @@
    "name": "BRVM Services Financiers",
    "group": "main",
    "prevClose": 230.52,
-   "close": 228.57,
-   "change": -0.85,
+   "close": 228.85,
+   "change": -0.72,
    "ytd": 0.56
   },
   {
@@ -90,8 +90,8 @@
    "name": "BRVM Services Publics",
    "group": "main",
    "prevClose": 207.43,
-   "close": 214.33,
-   "change": 3.33,
+   "close": 214.25,
+   "change": 3.29,
    "ytd": 3.3
   },
   {
@@ -108,8 +108,8 @@
    "name": "BRVM Composite Total Return",
    "group": "total_return",
    "prevClose": 202.58,
-   "close": 201.93,
-   "change": -0.32,
+   "close": 202.05,
+   "change": -0.26,
    "ytd": 1.7
   }
  ]
