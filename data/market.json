@@ -1,15 +1,15 @@
 {
- "updatedAt": "2026-11-18T14:15:14.670Z",
+ "updatedAt": "2026-11-18T14:30:32.266Z",
  "sessionDate": "2026-11-18",
- "sessionTime": "14:02",
+ "sessionTime": "14:15",
  "source": "brvm.org",
- "transactionsValue": 1256353493,
- "capitalisationActions": 19701315537622,
+ "transactionsValue": 1267533603,
+ "capitalisationActions": 19695093537622,
  "capitalisationBonds": 13442990608342,
  "advancing": 16,
  "declining": 21,
  "unchanged": 11,
- "totalVolume": 975229,
+ "totalVolume": 977923,
  "gainers": [
   {
    "symbol": "SDCC",
@@ -56,6 +56,13 @@
    "volume": 14
   },
   {
+   "symbol": "BOAN",
+   "shortName": "BOA Niger",
+   "close": 4160,
+   "change": -7.35,
+   "volume": 8792
+  },
+  {
    "symbol": "PRSC",
    "shortName": "Tractafric Motors CI",
    "close": 3500,
@@ -65,9 +72,9 @@
   {
    "symbol": "SCRC",
    "shortName": "Sucrivoire CI",
-   "close": 1400,
-   "change": -3.45,
-   "volume": 13286
+   "close": 1385,
+   "change": -4.48,
+   "volume": 13303
   },
   {
    "symbol": "ETIT",
@@ -75,13 +82,6 @@
    "close": 56,
    "change": -3.45,
    "volume": 770037
-  },
-  {
-   "symbol": "BBGC",
-   "shortName": "Bridge Bank Group CI",
-   "close": 8700,
-   "change": -3.33,
-   "volume": 6194
   }
  ],
  "mostActive": [
