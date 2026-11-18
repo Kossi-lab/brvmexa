@@ -1,15 +1,15 @@
 {
- "updatedAt": "2026-11-18T14:30:32.266Z",
+ "updatedAt": "2026-11-18T14:45:16.155Z",
  "sessionDate": "2026-11-18",
- "sessionTime": "14:15",
+ "sessionTime": "14:30",
  "source": "brvm.org",
- "transactionsValue": 1267533603,
- "capitalisationActions": 19695093537622,
+ "transactionsValue": 1369501913,
+ "capitalisationActions": 19734542622694,
  "capitalisationBonds": 13442990608342,
  "advancing": 16,
- "declining": 21,
- "unchanged": 11,
- "totalVolume": 977923,
+ "declining": 24,
+ "unchanged": 8,
+ "totalVolume": 1006625,
  "gainers": [
   {
    "symbol": "SDCC",
@@ -23,21 +23,21 @@
    "shortName": "Solibra CI",
    "close": 41900,
    "change": 6.09,
-   "volume": 940
+   "volume": 944
   },
   {
    "symbol": "SMBC",
    "shortName": "SMB CI",
    "close": 17250,
    "change": 4.86,
-   "volume": 209
+   "volume": 214
   },
   {
    "symbol": "BOAS",
    "shortName": "BOA Sénégal",
-   "close": 8160,
-   "change": 4.62,
-   "volume": 4361
+   "close": 8145,
+   "change": 4.42,
+   "volume": 4790
   },
   {
    "symbol": "STAC",
@@ -58,30 +58,30 @@
   {
    "symbol": "BOAN",
    "shortName": "BOA Niger",
-   "close": 4160,
-   "change": -7.35,
-   "volume": 8792
+   "close": 4200,
+   "change": -6.46,
+   "volume": 10434
   },
   {
    "symbol": "PRSC",
    "shortName": "Tractafric Motors CI",
    "close": 3500,
    "change": -6.17,
-   "volume": 335
+   "volume": 385
   },
   {
    "symbol": "SCRC",
    "shortName": "Sucrivoire CI",
    "close": 1385,
    "change": -4.48,
-   "volume": 13303
+   "volume": 13728
   },
   {
-   "symbol": "ETIT",
-   "shortName": "Ecobank Transnational (ETI)",
-   "close": 56,
-   "change": -3.45,
-   "volume": 770037
+   "symbol": "BBGC",
+   "shortName": "Bridge Bank Group CI",
+   "close": 8700,
+   "change": -3.33,
+   "volume": 6327
   }
  ],
  "mostActive": [
@@ -90,35 +90,35 @@
    "shortName": "Sonatel",
    "close": 4100,
    "change": -0.24,
-   "volume": 79953
+   "volume": 88785
   },
   {
    "symbol": "SIBC",
    "shortName": "Société Ivoirienne de Banque",
-   "close": 8500,
-   "change": 0,
-   "volume": 15473
+   "close": 8400,
+   "change": -1.18,
+   "volume": 15873
   },
   {
    "symbol": "SGBC",
    "shortName": "Société Générale CI",
-   "close": 38800,
-   "change": -0.4,
-   "volume": 2612
+   "close": 38950,
+   "change": -0.01,
+   "volume": 2646
   },
   {
    "symbol": "STBC",
    "shortName": "SITAB CI",
-   "close": 21445,
-   "change": 1.68,
-   "volume": 2990
+   "close": 21450,
+   "change": 1.71,
+   "volume": 3890
   },
   {
    "symbol": "BBGC",
    "shortName": "Bridge Bank Group CI",
    "close": 8700,
    "change": -3.33,
-   "volume": 6194
+   "volume": 6327
   }
  ]
 }
