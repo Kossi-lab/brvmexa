@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-18T12:45:29.574Z",
+ "updatedAt": "2026-11-18T13:00:39.769Z",
  "items": [
+  {
+   "id": "sika-65811",
+   "title": "Comptes inactifs, croissance record, PI-SPI… Le défi du mobile money dans l’UEMOA derrière les 219 000 milliards FCFA de transactions",
+   "summary": "En 2025, l'inclusion financière a bondi dans l'UEMOA avec 16,36 milliards de transactions pour un total exact de 219 15...",
+   "url": "https://www.sikafinance.com/marches/comptes-inactifs-croissance-record-pi-spi-le-defi-du-mobile-money-dans-luemoa-derriere-les-219-000-milliards-fcfa-de-transactions_65811",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-11-18T12:49:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65810",
    "title": "UEMOA : Le risque souverain pèse sur 37,6% des actifs bancaires",
@@ -188,22 +202,6 @@
    "tries": 1
   },
   {
-   "id": "sika-65787",
-   "title": "BRVM : Le groupe Coris prépare l’introduction en bourse de ses filiales de Côte d’Ivoire et du Bénin",
-   "summary": "Le groupe bancaire burkinabè prévoit de mobiliser 62 milliards FCFA avec Coris Bank Côte d'Ivoire et 19 milliards...",
-   "url": "https://www.sikafinance.com/marches/brvm-le-groupe-coris-prepare-lintroduction-en-bourse-de-ses-filiales-de-cote-divoire-et-du-benin_65787",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-17T14:17:00Z",
-   "symbols": [
-    "CBIBF"
-   ],
-   "status": "done",
-   "tries": 1
-  },
-  {
    "id": "gn-svlav6",
    "title": "Côte d’Ivoire-AIP/Le DG de la BRVM distingué pour sa contribution aux services financiers en Afrique",
    "summary": null,
@@ -241,6 +239,20 @@
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-11-17T13:17:16.000Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "gn-43jmjm",
+   "title": "BRVM : Le groupe Coris prépare l’introduction en bourse de ses filiales de Côte d’Ivoire et du Bénin",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNzhmU1NWRUVlWTcxV2xmWENRSWt3b2tsc1lhM1dGNWJpaDUtcGp6MFMzbHdfbXN5RUNnSHQ0RW9MZHFjTld1Z01hRklGcDZ4cXliaUZfUEtKcENOcWlnYkR6STdGakxKRTFWWW1pMkNreWVnaWJjdFdNUG8wakhjbTd5OElIRmx0NmdTcUZjNU5vc1V1MnhCc213YUp3WUk2b2pNdFlPZnRmZUlmbW5ob21BMXZlcWloeGhIQUllcEJKTFNDSE5VaTcycmxwTU5FWUVfZg?oc=5",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-17T13:17:01.000Z",
    "symbols": [],
    "status": "done",
    "tries": 1
@@ -4318,22 +4330,6 @@
    "premium": false,
    "publishedAt": "2026-08-06T07:00:00.000Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "gn-1etny21",
-   "title": "BRVM : Forte activité et hausses notables pour 5 actions clés, ETIT bondit de +100%",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYjVDQ3ZUemc5ckRIQ2g0dFhxUW05akd3c0FneGxfNjJSUFlCNjEyYUF4YzBYNnVOT1VJenYwSFA4ZlZsQ2NjT3RHOElGbnVBSVItWTE5UVdNRF96VTdFRFJRbEZ3bkx5SzN6Y0lCZ3R4Qm9HTGVpY053VFhoZmZfZkk3U3dBN1hiTXI3Z1ZmbGpNc1V4dXBXbHB3UQ?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-07-23T07:00:00.000Z",
-   "symbols": [
-    "ETIT"
-   ],
    "status": "new",
    "tries": 0
   }
