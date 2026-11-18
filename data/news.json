@@ -1,6 +1,30 @@
 {
- "updatedAt": "2026-11-18T12:30:38.745Z",
+ "updatedAt": "2026-11-18T12:45:29.576Z",
  "items": [
+  {
+   "id": "sika-65810",
+   "title": "UEMOA : une exposition des banques aux titres souverains atteignant 37,6%",
+   "summary": "Les établissements bancaires de l'espace UEMOA consacrent une part croissante de leurs actifs au financement des États, soulevant des interrogations sur la concentration des risques dans leurs bilans.",
+   "body": [
+    "Au 18 novembre 2026, les données révèlent que les créances sur les États représentent désormais 37,6 % des actifs totaux du secteur bancaire au sein de l'Union économique et monétaire ouest-africaine (UEMOA).",
+    "Cette tendance souligne une dépendance accrue des banques vis-à-vis du financement public, une situation qui pourrait limiter la capacité de ces institutions à diversifier leurs engagements et à soutenir le secteur privé."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65810",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-18T12:41:00Z",
+   "writtenAt": "2026-11-18T12:45:29.574Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/uemoa-le-risque-souverain-pese-sur-37-6-des-actifs-bancaires_65810",
+    "title": "UEMOA : Le risque souverain pèse sur 37,6% des actifs bancaires"
+   },
+   "rewritten": true
+  },
   {
    "id": "gn-dvy0wj",
    "title": "Nexora Securities renforce son expertise avec un suivi croisé BRVM et marchés internationaux",
@@ -3715,32 +3739,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/burkina-le-fmi-prevoit-plus-de-87-millions-usd-de-decaissements-apres-deux-revues-de-programme_65522",
     "title": "Burkina : Le FMI prévoit plus de 87 millions USD de décaissements après deux revues de programme"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65520",
-   "title": "SICABLE enregistre une chute de 89% de son bénéfice au 30 septembre 2026",
-   "summary": "La société SICABLE a publié des résultats financiers en forte baisse pour les neuf premiers mois de l'année 2026, marqués par un recul significatif de son profit net.",
-   "body": [
-    "Le fabricant de câbles SICABLE a clôturé la période allant jusqu'au 30 septembre 2026 avec une performance financière en net retrait. Le bénéfice de l'entreprise a subi une contraction importante de 89 % par rapport à l'exercice précédent.",
-    "Ces résultats, rendus publics le 5 novembre 2026, illustrent une période difficile pour la société cotée sur le marché financier régional. Cette chute marquée du résultat net constitue l'information majeure de la dernière communication financière de l'émetteur."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65520",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-05T11:02:00Z",
-   "writtenAt": "2026-11-06T04:44:15.410Z",
-   "symbols": [
-    "CABC"
-   ],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/baisse-de-89-du-benefice-de-sicable-a-fin-septembre-2026_65520",
-    "title": "Baisse de 89% du bénéfice de SICABLE à fin septembre 2026"
    },
    "rewritten": true
   }

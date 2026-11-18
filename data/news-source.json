@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-18T12:30:38.741Z",
+ "updatedAt": "2026-11-18T12:45:29.574Z",
  "items": [
+  {
+   "id": "sika-65810",
+   "title": "UEMOA : Le risque souverain pèse sur 37,6% des actifs bancaires",
+   "summary": "Le financement des États prend une place grandissante dans les bilans bancaires de l'UEMOA, au risque de réduire...",
+   "url": "https://www.sikafinance.com/marches/uemoa-le-risque-souverain-pese-sur-37-6-des-actifs-bancaires_65810",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-11-18T12:41:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "gn-dvy0wj",
    "title": "Nexora Securities Intègre le Suivi des Marchés Internationaux et de la BRVM pour Soutenir l'Analyse Transfrontalière",
@@ -4320,20 +4334,6 @@
    "symbols": [
     "ETIT"
    ],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "gn-5ivs3c",
-   "title": "BRVM : 6 actions clés en forte progression, Bank of Africa – Niger en tête",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUW41NXRBUHJJMF9Kdld1Njk2Tm9HdDF0d0praUFzblVkZHlBa2pMak4yRzZFSHRYbHBfMTNram9YaFNGU2NqSE5tSXdTUGc2TWpScnhBRThSTGc2dkJUeVNaOEZaWXNCSXRPa1NfeDA0N3R0UHE3UXhRR0RPNmx4NEQ2LTF1QW5iTDBtX053?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-07-18T07:00:00.000Z",
-   "symbols": [],
    "status": "new",
    "tries": 0
   }
