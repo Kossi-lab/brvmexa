@@ -1,15 +1,15 @@
 {
- "updatedAt": "2026-11-18T12:00:18.970Z",
+ "updatedAt": "2026-11-18T12:15:13.513Z",
  "sessionDate": "2026-11-18",
- "sessionTime": "11:45",
+ "sessionTime": "12:02",
  "source": "brvm.org",
- "transactionsValue": 667085631,
- "capitalisationActions": 19681792068704,
- "capitalisationBonds": 13437213890412,
- "advancing": 12,
- "declining": 24,
- "unchanged": 12,
- "totalVolume": 336310,
+ "transactionsValue": 718831763,
+ "capitalisationActions": 19667718393966,
+ "capitalisationBonds": 13437215608342,
+ "advancing": 11,
+ "declining": 22,
+ "unchanged": 15,
+ "totalVolume": 360783,
  "gainers": [
   {
    "symbol": "SDCC",
@@ -19,42 +19,35 @@
    "volume": 348
   },
   {
-   "symbol": "SMBC",
-   "shortName": "SMB CI",
-   "close": 17385,
-   "change": 5.68,
-   "volume": 120
-  },
-  {
    "symbol": "SLBC",
    "shortName": "Solibra CI",
    "close": 41685,
    "change": 5.55,
-   "volume": 71
+   "volume": 121
+  },
+  {
+   "symbol": "SMBC",
+   "shortName": "SMB CI",
+   "close": 17350,
+   "change": 5.47,
+   "volume": 125
   },
   {
    "symbol": "ABJC",
    "shortName": "Servair Abidjan",
    "close": 3195,
    "change": 3.06,
-   "volume": 825
+   "volume": 830
   },
   {
-   "symbol": "SOGC",
-   "shortName": "SOGB CI",
-   "close": 7700,
-   "change": 2.67,
-   "volume": 844
+   "symbol": "TTLC",
+   "shortName": "TotalEnergies Marketing CI",
+   "close": 3085,
+   "change": 2.83,
+   "volume": 1142
   }
  ],
  "losers": [
-  {
-   "symbol": "ONTBF",
-   "shortName": "Onatel Burkina Faso",
-   "close": 2705,
-   "change": -6.72,
-   "volume": 770
-  },
   {
    "symbol": "BICC",
    "shortName": "BICI Côte d’Ivoire",
@@ -63,62 +56,69 @@
    "volume": 175
   },
   {
-   "symbol": "TTLC",
-   "shortName": "TotalEnergies Marketing CI",
-   "close": 2900,
-   "change": -3.33,
-   "volume": 1092
-  },
-  {
    "symbol": "SDSC",
    "shortName": "Africa Global Logistics CI",
    "close": 2500,
    "change": -3.1,
-   "volume": 2702
+   "volume": 2871
   },
   {
-   "symbol": "SCRC",
-   "shortName": "Sucrivoire CI",
-   "close": 1405,
-   "change": -3.1,
-   "volume": 9824
+   "symbol": "SAFC",
+   "shortName": "SAFCA CI",
+   "close": 3500,
+   "change": -2.64,
+   "volume": 578
+  },
+  {
+   "symbol": "ECOC",
+   "shortName": "Ecobank Côte d’Ivoire",
+   "close": 14610,
+   "change": -2.6,
+   "volume": 2984
+  },
+  {
+   "symbol": "CABC",
+   "shortName": "Sicable CI",
+   "close": 2700,
+   "change": -2.17,
+   "volume": 246
   }
  ],
  "mostActive": [
   {
    "symbol": "SNTS",
    "shortName": "Sonatel",
-   "close": 4140,
-   "change": 0.73,
-   "volume": 42458
+   "close": 4110,
+   "change": 0,
+   "volume": 45633
   },
   {
    "symbol": "SIBC",
    "shortName": "Société Ivoirienne de Banque",
    "close": 8400,
    "change": -1.18,
-   "volume": 12599
+   "volume": 12649
   },
   {
    "symbol": "SGBC",
    "shortName": "Société Générale CI",
-   "close": 38910,
-   "change": -0.12,
-   "volume": 1703
+   "close": 38950,
+   "change": -0.01,
+   "volume": 1978
   },
   {
    "symbol": "ECOC",
    "shortName": "Ecobank Côte d’Ivoire",
-   "close": 14900,
-   "change": -0.67,
-   "volume": 2699
+   "close": 14610,
+   "change": -2.6,
+   "volume": 2984
   },
   {
    "symbol": "BBGC",
    "shortName": "Bridge Bank Group CI",
-   "close": 8895,
-   "change": -1.17,
-   "volume": 3045
+   "close": 8850,
+   "change": -1.67,
+   "volume": 3195
   }
  ]
 }
