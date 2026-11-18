@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-18T16:45:19.409Z",
+ "updatedAt": "2026-11-18T17:00:48.914Z",
  "items": [
+  {
+   "id": "sika-65818",
+   "title": "BRVM : Quelques éclaircies dans un marché toujours sous pression",
+   "summary": "Après la séance historique de mardi, marquée par l'absence totale de valeurs en hausse, la BRVM a retrouvé quelques cou...",
+   "url": "https://www.sikafinance.com/marches/brvm-quelques-eclaircies-dans-un-marche-toujours-sous-pression_65818",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-18T16:44:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65816",
    "title": "Gazoduc transsaharien : Le Niger accélère les préparatifs pour capter les retombées économiques du projet",
@@ -186,15 +200,15 @@
    "tries": 1
   },
   {
-   "id": "sika-65794",
+   "id": "gn-1g0dx72",
    "title": "BRVM : Un marché peint en rouge",
-   "summary": "La BRVM a terminé la séance du mardi 17 novembre sur une note particulièrement sombre, marquée par une configuration in...",
-   "url": "https://www.sikafinance.com/marches/brvm-un-marche-peint-en-rouge_65794",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ZVUpCSkNWRzQya0t4Z0FiSDYtUVpNLUp3ZlR4UTJhcTBFREc3d0lQSlEyczNXbkp6XzFYMG5DU3pIdGZOSl9PekhCMDhya3dfZHlFWmh0dzhoYzY3bTBlckcxeElNMjRCUDU2R2t6RmY3aWtjSm5HOUh2NA?oc=5",
    "image": null,
    "source": "Sika Finance",
-   "category": "Marchés",
+   "category": "Presse",
    "premium": false,
-   "publishedAt": "2026-11-17T16:49:00Z",
+   "publishedAt": "2026-11-17T15:49:44.000Z",
    "symbols": [],
    "status": "done",
    "tries": 1
@@ -4313,20 +4327,6 @@
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-09-01T07:00:00.000Z",
-   "symbols": [],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "gn-1fjcczd",
-   "title": "La BRVM franchit le cap historique des 20 000 milliards de francs CFA de capitalisation",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNc3RLNHNFd3NwNEdyMFBHUDdOblF2enhjY0l0TjlCMXRIYm1mdzFmNVl5elNIY1M2RThUeGx3OE5CQS1wMDdFeFpNVGhsZ3lXN2RWc2gtblNLd2RSQTd5UXVXVVRfS1FrMDBpU3BtRFBvcDRFYlJIcGJNR1BTRDUtbXY3YzJUMTAtMFc5QXJyNWJiZVJOQm40dk0zQ3lUc3k2YVVMNXJ0ckl0MXNsMFE0NDlOTEk?oc=5",
-   "image": null,
-   "source": "Forbes Afrique",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-08-22T07:00:00.000Z",
    "symbols": [],
    "status": "new",
    "tries": 0

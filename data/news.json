@@ -1,6 +1,39 @@
 {
- "updatedAt": "2026-11-18T16:45:19.411Z",
+ "updatedAt": "2026-11-18T17:00:48.917Z",
  "items": [
+  {
+   "id": "sika-65818",
+   "title": "BRVM : Une séance contrastée marquée par le repli des indices boursiers",
+   "summary": "Ce mercredi 18 novembre, la BRVM a affiché une tendance baissière malgré quelques performances positives, dans un marché dominé par le recul de la majorité des titres cotés.",
+   "body": [
+    "La séance du 18 novembre a été marquée par une pression persistante sur les indices. Le BRVM-Composite a reculé de 0,34 % à 500,95 points, tandis que le BRVM-30 et le BRVM-Prestige ont respectivement fléchi de 0,02 % et 0,22 %. Sur les 39 valeurs ayant varié, 26 ont clôturé en baisse, contre seulement 13 en territoire positif.",
+    "Le titre Unilever Côte d'Ivoire a lourdement pesé sur la tendance avec une chute de 7,49 %, effaçant 30,48 milliards FCFA de capitalisation boursière. Les actions SETAO CI et BOA Niger ont également enregistré des reculs significatifs. À l'inverse, SODECI, SOLIBRA CI et SMB CI ont réussi à tirer leur épingle du jeu avec des progressions notables.",
+    "Le volume total des transactions s'est élevé à 1,37 milliard FCFA. L'activité a été largement portée par le titre Sonatel Sénégal, qui a concentré 26,42 % des échanges, soit un montant de 363,63 millions FCFA."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65818",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-18T16:44:00Z",
+   "writtenAt": "2026-11-18T17:00:39.796Z",
+   "symbols": [
+    "BOAN",
+    "SDCC",
+    "SLBC",
+    "SMBC",
+    "SNTS",
+    "STAC",
+    "UNLC"
+   ],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/brvm-quelques-eclaircies-dans-un-marche-toujours-sous-pression_65818",
+    "title": "BRVM : Quelques éclaircies dans un marché toujours sous pression"
+   },
+   "rewritten": true
+  },
   {
    "id": "sika-65816",
    "title": "Gazoduc transsaharien : Le Niger intensifie ses préparatifs avec l'Algérie",
@@ -347,6 +380,30 @@
    "origin": {
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/brvm-un-marche-peint-en-rouge_65794",
+    "title": "BRVM : Un marché peint en rouge"
+   },
+   "rewritten": true
+  },
+  {
+   "id": "gn-1g0dx72",
+   "title": "BRVM : Une séance marquée par une tendance baissière ce 17 novembre 2026",
+   "summary": "La Bourse Régionale des Valeurs Mobilières a achevé sa séance du 17 novembre 2026 sur une note négative.",
+   "body": [
+    "La Bourse Régionale des Valeurs Mobilières a connu une orientation générale à la baisse au cours de la séance de cotation du 17 novembre 2026.",
+    "Les investisseurs présents sur le marché financier régional ont ainsi assisté à une clôture globalement orientée dans le rouge pour cette journée."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#gn-1g0dx72",
+   "image": null,
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-17T15:49:44.000Z",
+   "writtenAt": "2026-11-18T17:00:48.912Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ZVUpCSkNWRzQya0t4Z0FiSDYtUVpNLUp3ZlR4UTJhcTBFREc3d0lQSlEyczNXbkp6XzFYMG5DU3pIdGZOSl9PekhCMDhya3dfZHlFWmh0dzhoYzY3bTBlckcxeElNMjRCUDU2R2t6RmY3aWtjSm5HOUh2NA?oc=5",
     "title": "BRVM : Un marché peint en rouge"
    },
    "rewritten": true
@@ -3689,56 +3746,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/brvm-sicable-rebondit-apres-un-point-bas-a-2-500-fcfa_65534",
     "title": "BRVM : SICABLE rebondit après un point bas à 2 500 FCFA"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65533",
-   "title": "RDC : Critical Metals négocie un contrat commercial pour le cuivre de Molulu",
-   "summary": "La société minière Critical Metals a entamé des pourparlers avec un acquéreur pour vendre le cuivre du gisement de Molulu, en RDC, sous réserve de tests métallurgiques concluants.",
-   "body": [
-    "L'entreprise britannique Critical Metals plc tente d'assurer l'écoulement de sa future production cuprifère issue de la concession de Molulu, localisée dans le Haut-Katanga. Des négociations sont en cours avec un partenaire industriel en vue de sceller un contrat d'enlèvement. Pour valider l'intérêt économique du projet, une analyse métallurgique a été lancée sur un lot de 300 kilogrammes extrait des réserves de surface, réparti en trois tranches de teneur allant de 1 % à plus de 2 % de cuivre.",
-    "Implanté à une centaine de kilomètres au nord de Lubumbashi, cet actif est détenu à 70 % par l'opérateur via Madini Occidental Limited, aux côtés d'associés locaux qui en possèdent 30 %. Critical Metals s'appuie sur une modélisation tridimensionnelle des blocs minéralisés récemment finalisée, fruit d'une campagne relancée le 2 octobre 2026 comprenant cartographie, tranchées et relevés de terrain.",
-    "Le dossier demeure toutefois assorti de réserves sur le plan opérationnel. La société avait souligné fin octobre 2026 que les volumes précédemment stockés souffraient d'une dilution qui pénalisait leur valeur marchande. De plus, une évaluation indépendante chiffre à environ 500 000 dollars les investissements de forage indispensables pour préciser l'ampleur du gîte, ce qui a conduit le groupe à requalifier Molulu en phase d'exploration et d'évaluation."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65533",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-05T15:30:00Z",
-   "writtenAt": "2026-11-06T04:35:39.004Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/rdc-apres-la-confirmation-du-potentiel-cuprifere-de-molulu-critical-metals-cherche-a-securiser-des-debouches-commerciaux_65533",
-    "title": "RDC : Après la confirmation du potentiel cuprifère de Molulu, Critical Metals cherche à sécuriser des débouchés commerciaux"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65532",
-   "title": "Abidjan : le Japon mobilise 48,4 milliards FCFA pour de nouveaux échangeurs",
-   "summary": "Le Japon a octroyé un don de 48,4 milliards FCFA à la Côte d'Ivoire pour financer la deuxième étape d'un programme d'échangeurs routiers dans la capitale économique.",
-   "body": [
-    "L'État ivoirien et le Japon ont officialisé, le 4 novembre 2026, une convention portant sur une subvention non remboursable de 48,4 milliards FCFA. Les documents ont été paraphés par Nialé Kaba, ministre d'État en charge des Affaires étrangères, et Gomakubo Junji, ambassadeur du Japon, en présence de Yacouba Hien Sié, ministre des Infrastructures et de l'Entretien routier. Cet apport financier succède à une dotation initiale d'environ 13 milliards FCFA consacrée au démarrage du projet.",
-    "Les fonds alloués permettront d'avancer dans les aménagements prévus sur le boulevard Germain Koffi Gadeau, notamment au niveau des carrefours de la Riviera Palmeraie et de l'École nationale de police. Ces nouvelles structures ont pour vocation de résorber les embouteillages, d'optimiser le transport des biens et de réduire le temps passé sur la route par les usagers du Grand Abidjan.",
-    "Cet appui s'inscrit dans la continuité des actions japonaises destinées au réseau urbain ivoirien, après la livraison du troisième bras de l'échangeur de l'Amitié ivoiro-japonaise situé à Marcory en août 2024. Pour les autorités ivoiriennes, la fluidification du réseau de transport urbain représente un levier déterminant pour accroître la compétitivité de l'économie."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65532",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-05T14:40:00Z",
-   "writtenAt": "2026-11-06T04:36:39.695Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/cote-divoire-le-japon-accorde-48-milliards-fcfa-pour-la-deuxieme-phase-du-projet-de-trois-echangeurs-a-abidjan_65532",
-    "title": "Côte d’Ivoire : Le Japon accorde 48 milliards FCFA pour la deuxième phase du projet de trois échangeurs à Abidjan"
    },
    "rewritten": true
   }
