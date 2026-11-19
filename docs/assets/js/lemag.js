@@ -9,7 +9,10 @@
   var name = root.getAttribute('data-lm-pdf');
   var cover = root.getAttribute('data-lm-cover');
   var issue = root.getAttribute('data-lm-issue') || '';
-  var here = location.origin + location.pathname;
+  // Supabase n'accepte en retour que les adresses autorisées : on revient par l'Espace membre,
+  // qui renvoie ensuite ici (voir membre.js, « retour Le Mag »).
+  var back = location.origin + '/membre/';
+  var mark = function () { try { localStorage.setItem('bx-mag', String(Date.now())); } catch (e) { /* stockage indisponible */ } };
   var modal = null, lastFocus = null, mode = 'signup';
 
   var GOOGLE = '<svg viewBox="0 0 48 48" width="20" height="20" aria-hidden="true"><path fill="#FFC107" d="M43.6 20.5H42V20H24v8h11.3C33.7 32.7 29.2 36 24 36c-6.6 0-12-5.4-12-12s5.4-12 12-12c3.1 0 5.8 1.2 7.9 3.1l5.7-5.7C34 6.1 29.3 4 24 4 12.9 4 4 12.9 4 24s8.9 20 20 20 20-8.9 20-20c0-1.3-.1-2.4-.4-3.5z"/><path fill="#FF3D00" d="M6.3 14.7l6.6 4.8C14.7 15.1 19 12 24 12c3.1 0 5.8 1.2 7.9 3.1l5.7-5.7C34 6.1 29.3 4 24 4 16.3 4 9.7 8.3 6.3 14.7z"/><path fill="#4CAF50" d="M24 44c5.2 0 9.9-2 13.4-5.2l-6.2-5.2C29.2 35.1 26.7 36 24 36c-5.2 0-9.6-3.3-11.3-7.9l-6.5 5C9.5 39.6 16.2 44 24 44z"/><path fill="#1976D2" d="M43.6 20.5H42V20H24v8h11.3c-.8 2.2-2.2 4.2-4.1 5.6l6.2 5.2C37 39.2 44 34 44 24c0-1.3-.1-2.4-.4-3.5z"/></svg>';
@@ -111,7 +114,10 @@
   function setMsg(t) { var m = modal && modal.querySelector('[data-lmm-msg]'); if (m) m.textContent = t || ''; }
   function busy(on) { if (modal) modal.querySelectorAll('button, input').forEach(function (el) { el.disabled = on; }); }
 
-  function success() { download(); open(doneView()); }
+  function success() {
+    try { localStorage.removeItem('bx-mag'); localStorage.setItem('bx-mag-done', '1'); } catch (e) { /* stockage indisponible */ }
+    download(); open(doneView());
+  }
 
   function start() {
     session().then(function (s) {
@@ -133,8 +139,8 @@
     else if (t.hasAttribute('data-lmm-mode')) { mode = t.getAttribute('data-lmm-mode'); open(formView()); }
     else if (t.hasAttribute('data-lmm-google')) {
       if (!sb) return setMsg('Service momentanément indisponible. Réessayez plus tard.');
-      busy(true);
-      sb.auth.signInWithOAuth({ provider: 'google', options: { redirectTo: here + '?telecharger=1' } }).then(function (r) { if (r && r.error) { busy(false); setMsg(tr(r.error.message)); } });
+      busy(true); mark();
+      sb.auth.signInWithOAuth({ provider: 'google', options: { redirectTo: back } }).then(function (r) { if (r && r.error) { busy(false); setMsg(tr(r.error.message)); } });
     }
   });
   document.addEventListener('keydown', function (e) { if (e.key === 'Escape') close(); });
@@ -150,10 +156,10 @@
     if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) return setMsg('Saisissez une adresse e-mail valide.');
     if (pw.length < 8) return setMsg('Le mot de passe doit contenir au moins 8 caractères.');
     if (mode === 'signup' && !form.elements.cgu.checked) return setMsg('Cochez la case pour accepter les conditions.');
-    busy(true); setMsg('Patientez…');
+    busy(true); setMsg('Patientez…'); mark();
     var p = mode === 'login'
       ? sb.auth.signInWithPassword({ email: email, password: pw })
-      : sb.auth.signUp({ email: email, password: pw, options: { data: { full_name: v('name'), source: 'le-mag' }, emailRedirectTo: here + '?telecharger=1' } });
+      : sb.auth.signUp({ email: email, password: pw, options: { data: { full_name: v('name'), source: 'le-mag' }, emailRedirectTo: back } });
     p.then(function (r) {
       busy(false);
       if (r.error) {

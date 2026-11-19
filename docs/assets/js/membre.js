@@ -163,6 +163,16 @@
   // ───────── Page « Espace membre » ─────────
   var page = document.querySelector('[data-member]');
   if (!page) return;
+  // Retour Le Mag : inscription ou connexion lancée depuis la page du magazine → on y retourne pour le téléchargement
+  ready.then(function (st) {
+    if (!st.user) return;
+    var get = function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } };
+    var pend = get('bx-mag'), meta = st.user.user_metadata || {};
+    if ((pend && Date.now() - Number(pend) < 864e5) || (meta.source === 'le-mag' && !get('bx-mag-done'))) {
+      try { localStorage.removeItem('bx-mag'); } catch (e) { /* stockage indisponible */ }
+      location.replace(location.origin + '/le-mag/?telecharger=1');
+    }
+  });
   var box = page.querySelector('[data-mb-account]');
   var params = new URLSearchParams(location.search);
   var back = safeBack(params.get('retour'));
