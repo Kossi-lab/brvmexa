@@ -129,7 +129,6 @@
           ((une.points || []).length ? '<aside class="une-points"><b>L’essentiel</b><ul>' + une.points.map(function (p) { return '<li>' + esc(p) + '</li>'; }).join('') + '</ul></aside>' : '') +
           (une.sections || []).map(function (x) { return '<h3>' + esc(x.h) + '</h3>' + (x.p || []).map(function (p) { return '<p>' + esc(p) + '</p>'; }).join(''); }).join('') +
           (tags ? '<p class="une-cited">Sociétés citées</p><div class="tags">' + tags + '</div>' : '') +
-          (une.origin && une.origin.url ? '<p class="une-src">Article rédigé par BRVMexa d’après <a href="' + esc(safeUrl(une.origin.url)) + '" target="_blank" rel="noopener">' + esc(une.origin.name || 'la source') + '</a>.</p>' : '') +
           '</div>';
         document.body.appendChild(reader);
         document.body.classList.add('nx-open');
