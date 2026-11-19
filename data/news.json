@@ -1,6 +1,30 @@
 {
- "updatedAt": "2026-11-19T10:30:27.250Z",
+ "updatedAt": "2026-11-19T10:45:21.851Z",
  "items": [
+  {
+   "id": "sika-65830",
+   "title": "Le Kenya envisage des avantages fiscaux pour la raffinerie de Dangote à Lamu",
+   "summary": "Le gouvernement kényan prévoit d'accorder des exonérations fiscales au projet de raffinerie de 16 milliards USD porté par Aliko Dangote afin de renforcer l'autonomie énergétique de l'Afrique de l'Est.",
+   "body": [
+    "Le projet industriel porté par le milliardaire nigérian Aliko Dangote à Lamu bénéficiera d'un soutien fiscal de la part des autorités kényanes. Cet investissement colossal de 16 milliards de dollars vise la création d'une infrastructure capable de raffiner 700 000 barils de pétrole quotidiennement. Selon le secrétaire au Trésor, John Mbadi, ce programme est éligible aux allègements prévus par la loi pour les projets dépassant le seuil de 38 millions de dollars.",
+    "Les mesures envisagées portent sur la suppression de la TVA, des droits d'accise et des taxes de développement ferroviaire sur les équipements importés. Pour les matériels déjà taxés, l'État s'engage à rembourser les sommes versées par le groupe Dangote sur présentation d'une requête officielle. Cette stratégie vise à réduire la dépendance régionale aux importations pétrolières, bien qu'elle représente un effort budgétaire significatif pour le pays, dont les dépenses fiscales s'élevaient à 2,02 milliards de dollars l'an passé."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65830",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-19T10:30:00Z",
+   "writtenAt": "2026-11-19T10:45:21.848Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/le-kenya-pret-a-accorder-des-exonerations-fiscales-au-projet-de-raffinerie-de-16-milliards-usd-de-dangote_65830",
+    "title": "Le Kenya prêt à accorder des exonérations fiscales au projet de raffinerie de 16 milliards USD de Dangote"
+   },
+   "rewritten": true
+  },
   {
    "id": "sika-65828",
    "title": "SIREXE 2026 : l'Afrique mise sur les infrastructures pour valoriser ses ressources",
@@ -3715,32 +3739,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/projet-aurifere-de-doropo-nsia-banque-participe-a-une-mobilisation-de-148-milliards-fcfa-pour-une-mine-strategique-en-cote-divoire_65554",
     "title": "Projet aurifère de Doropo : NSIA Banque participe à une mobilisation de 148 milliards FCFA pour une mine stratégique en Côte d’Ivoire"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65552",
-   "title": "Coris Bank International Togo nomme une nouvelle direction pour accélérer son développement",
-   "summary": "La filiale togolaise de Coris Bank International annonce la nomination de Michel Kodzo GAFAN au poste de Directeur général et de Jean-Marie KOMPAORE en tant que Directeur général adjoint.",
-   "body": [
-    "Michel Kodzo GAFAN prend les rênes de l'établissement fort d'une expertise de 25 ans, notamment acquise chez Ecobank. Il est secondé par Jean-Marie KOMPAORE, ancien Directeur général adjoint de Coris Bank International Bénin, qui apporte ses trente années d'expérience au sein du groupe. Ce tandem a pour mission de renforcer la présence de la banque sur le marché togolais et d'optimiser le financement de l'économie locale.",
-    "La stratégie de la nouvelle direction repose sur un soutien accru aux PME, aux professionnels et aux particuliers. L'institution prévoit également d'accélérer sa transformation numérique, d'améliorer la qualité de ses services et de renforcer ses dispositifs de conformité. L'objectif est de stimuler la croissance commerciale tout en assurant une gestion rigoureuse des risques et de la rentabilité."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65552",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-06T14:39:00Z",
-   "writtenAt": "2026-11-06T15:40:53.316Z",
-   "symbols": [
-    "CBIBF"
-   ],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/togo-coris-bank-international-renouvelle-sa-direction-pour-soutenir-ses-ambitions-de-croissance_65552",
-    "title": "Togo : Coris Bank International renouvelle sa direction pour soutenir ses ambitions de croissance"
    },
    "rewritten": true
   }
