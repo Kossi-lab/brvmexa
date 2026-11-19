@@ -1,0 +1,51 @@
+# Notification ponctuelle à tous les utilisateurs de l'application (ex. sortie du Mag).
+# Actions → « Notification à tous » → Run workflow. Commencez toujours par le mode « test ».
+name: Notification à tous
+
+on:
+  workflow_dispatch:
+    inputs:
+      title:
+        description: 'Titre de la notification'
+        required: true
+      body:
+        description: 'Texte de la notification'
+        required: true
+      link:
+        description: 'Page brvmexa.com ouverte quand on touche la notification'
+        required: false
+        default: 'https://www.brvmexa.com/le-mag/'
+      mode:
+        description: 'test = compter seulement, envoi = envoyer pour de vrai'
+        type: choice
+        options: [test, envoi]
+        default: test
+
+permissions:
+  contents: read
+
+concurrency:
+  group: notification
+  cancel-in-progress: false
+
+jobs:
+  notifier:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          sparse-checkout: scraper/src/notify-broadcast.mjs
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+      - name: Notification
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SECRET_KEY: ${{ secrets.SUPABASE_SECRET_KEY }}
+          EXPO_ACCESS_TOKEN: ${{ secrets.EXPO_ACCESS_TOKEN }}
+          TITLE: ${{ inputs.title }}
+          BODY: ${{ inputs.body }}
+          LINK: ${{ inputs.link }}
+          MODE: ${{ inputs.mode }}
+        run: node scraper/src/notify-broadcast.mjs
