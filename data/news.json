@@ -1,6 +1,31 @@
 {
- "updatedAt": "2026-11-19T10:15:19.036Z",
+ "updatedAt": "2026-11-19T10:30:27.250Z",
  "items": [
+  {
+   "id": "sika-65828",
+   "title": "SIREXE 2026 : l'Afrique mise sur les infrastructures pour valoriser ses ressources",
+   "summary": "La deuxième édition du Salon international des ressources extractives et de l'énergie, qui se tient à Abidjan jusqu'au 22 novembre, souligne l'urgence de développer des infrastructures pour transformer les richesses naturelles du continent.",
+   "body": [
+    "Ouvert le 18 novembre 2026 à Abidjan, le SIREXE rassemble des délégations de 41 pays africains autour d'un constat partagé : l'abondance de gisements ne suffit pas à garantir la prospérité. Pour transformer les matières premières sur place et créer des emplois, le continent doit impérativement renforcer ses réseaux de transport, ses capacités énergétiques et ses unités de raffinage.",
+    "Le vice-président ivoirien, Tiémoko Meyliet Koné, a insisté sur la nécessité de mobiliser des financements de long terme et de favoriser la coopération régionale, notamment via des interconnexions électriques. Le salon introduit cette année « SIREXE Invest », une plateforme dédiée à la mise en relation entre porteurs de projets et investisseurs, afin de concrétiser les ambitions industrielles du Plan national de développement 2026-2030 de la Côte d'Ivoire.",
+    "Avec le Botswana comme pays à l'honneur, cette édition met en lumière le paradoxe africain : le continent détient environ 30 % des réserves mondiales de minéraux critiques, mais n'attire que 12 % des investissements en exploration. L'enjeu est désormais de passer d'une simple logique d'extraction à une véritable montée en gamme industrielle, soutenue par le développement des compétences locales et une intégration accrue des entreprises nationales dans la chaîne de valeur."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65828",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-19T10:19:00Z",
+   "writtenAt": "2026-11-19T10:30:27.248Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/sirexe-2026--des-infrastructures-strategiques-sont-indispensables-a-lexploitation-optimale-et-durable-de-nos-ressources-_65828",
+    "title": "SIREXE 2026 : ''Des infrastructures stratégiques sont indispensables à l’exploitation optimale et durable de nos ressources''"
+   },
+   "rewritten": true
+  },
   {
    "id": "gn-1atp9td",
    "title": "Le Directeur général de la BRVM honoré à Kigali pour son impact sur la finance africaine",
@@ -3716,30 +3741,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/togo-coris-bank-international-renouvelle-sa-direction-pour-soutenir-ses-ambitions-de-croissance_65552",
     "title": "Togo : Coris Bank International renouvelle sa direction pour soutenir ses ambitions de croissance"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65548",
-   "title": "Côte d’Ivoire : le gouvernement soutient 32 entreprises technologiques avec 5 à 10 milliards FCFA",
-   "summary": "Le ministère de la Transition numérique a dévoilé 32 startups et PME lauréates, qui bénéficieront d'un accompagnement étatique et d'un accès facilité aux financements sur les deux prochaines années.",
-   "body": [
-    "Le 4 novembre 2026, le ministre Djibril Ouattara a officialisé la sélection de 32 entreprises technologiques dans le cadre des programmes Ivoire Tech Next 15 et Ivoire Tech Scale-Up. Ce groupe, composé de 14 startups et 18 PME, profitera d'un soutien gouvernemental de 24 mois axé sur l'intelligence artificielle, l'accès aux marchés publics et le financement. L'État ambitionne de mobiliser entre 5 et 10 milliards FCFA pour soutenir ces structures, en s'appuyant notamment sur des partenariats avec des institutions bancaires et des fonds d'investissement.",
-    "La réussite de ces entreprises sera mesurée par des contrats de performance basés sur la croissance des revenus, la création d'emplois et l'expansion régionale au sein de l'UEMOA et de la CEDEAO. Une première mise en relation avec des investisseurs et des donneurs d'ordres est prévue lors de l'Ivoire Tech Forum, qui se tiendra à Abidjan du 11 au 13 novembre. Cette initiative s'inscrit dans une stratégie globale visant à doubler la contribution du numérique au PIB ivoirien d'ici 2030."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65548",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-06T11:57:00Z",
-   "writtenAt": "2026-11-06T12:37:45.808Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/cote-divoire-letat-sengage-a-mobiliser-5-a-10-milliards-fcfa-au-profit-de-32-pepites-tech_65548",
-    "title": "Côte d’Ivoire : L’État s’engage à mobiliser 5 à 10 milliards FCFA au profit de 32 pépites tech"
    },
    "rewritten": true
   }

@@ -1,66 +1,52 @@
 {
- "updatedAt": "2026-11-19T10:15:13.155Z",
+ "updatedAt": "2026-11-19T10:30:14.711Z",
  "sessionDate": "2026-11-19",
- "sessionTime": "10:02",
+ "sessionTime": "10:15",
  "source": "brvm.org",
- "transactionsValue": 5074388586,
- "capitalisationActions": 19602563315079,
+ "transactionsValue": 5156143068,
+ "capitalisationActions": 19587716250259,
  "capitalisationBonds": 13418232362892,
- "advancing": 5,
- "declining": 31,
- "unchanged": 12,
- "totalVolume": 167553,
+ "advancing": 3,
+ "declining": 30,
+ "unchanged": 15,
+ "totalVolume": 277059,
  "gainers": [
-  {
-   "symbol": "SHEC",
-   "shortName": "Vivo Energy CI",
-   "close": 1970,
-   "change": 3.68,
-   "volume": 1097
-  },
   {
    "symbol": "STAC",
    "shortName": "SETAO CI",
    "close": 2000,
    "change": 3.36,
-   "volume": 354
-  },
-  {
-   "symbol": "SIVC",
-   "shortName": "Erium CI",
-   "close": 1700,
-   "change": 3.03,
-   "volume": 4374
+   "volume": 478
   },
   {
    "symbol": "ORAC",
    "shortName": "Orange Côte d’Ivoire",
    "close": 19500,
    "change": 2.63,
-   "volume": 57
+   "volume": 106
   },
   {
    "symbol": "SOGC",
    "shortName": "SOGB CI",
    "close": 7550,
    "change": 0.67,
-   "volume": 3
+   "volume": 7
   }
  ],
  "losers": [
   {
-   "symbol": "SCRC",
-   "shortName": "Sucrivoire CI",
-   "close": 1285,
-   "change": -7.22,
-   "volume": 5761
-  },
-  {
    "symbol": "ONTBF",
    "shortName": "Onatel Burkina Faso",
-   "close": 2715,
-   "change": -6.38,
-   "volume": 155
+   "close": 2700,
+   "change": -6.9,
+   "volume": 664
+  },
+  {
+   "symbol": "SCRC",
+   "shortName": "Sucrivoire CI",
+   "close": 1295,
+   "change": -6.5,
+   "volume": 6840
   },
   {
    "symbol": "SDCC",
@@ -74,14 +60,14 @@
    "shortName": "Africa Global Logistics CI",
    "close": 2550,
    "change": -5.56,
-   "volume": 280
+   "volume": 288
   },
   {
    "symbol": "NSBC",
    "shortName": "NSIA Banque CI",
-   "close": 15010,
-   "change": -5,
-   "volume": 391
+   "close": 15200,
+   "change": -3.8,
+   "volume": 415
   }
  ],
  "mostActive": [
@@ -90,35 +76,35 @@
    "shortName": "Sonatel",
    "close": 4095,
    "change": -0.12,
-   "volume": 15860
+   "volume": 29445
   },
   {
    "symbol": "BBGC",
    "shortName": "Bridge Bank Group CI",
-   "close": 8550,
-   "change": -1.72,
-   "volume": 1812
+   "close": 8545,
+   "change": -1.78,
+   "volume": 2017
   },
   {
    "symbol": "SGBC",
    "shortName": "Société Générale CI",
-   "close": 38900,
-   "change": -0.13,
-   "volume": 290
+   "close": 38515,
+   "change": -1.12,
+   "volume": 339
   },
   {
-   "symbol": "BOAC",
-   "shortName": "BOA Côte d’Ivoire",
-   "close": 11390,
-   "change": -0.04,
-   "volume": 739
+   "symbol": "ETIT",
+   "shortName": "Ecobank Transnational (ETI)",
+   "close": 57,
+   "change": 0,
+   "volume": 218658
   },
   {
-   "symbol": "SPHC",
-   "shortName": "SAPH CI",
-   "close": 7700,
-   "change": -1.22,
-   "volume": 1000
+   "symbol": "SCRC",
+   "shortName": "Sucrivoire CI",
+   "close": 1295,
+   "change": -6.5,
+   "volume": 6840
   }
  ]
 }

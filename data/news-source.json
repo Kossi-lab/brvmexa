@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-19T10:15:19.007Z",
+ "updatedAt": "2026-11-19T10:30:27.249Z",
  "items": [
+  {
+   "id": "sika-65828",
+   "title": "SIREXE 2026 : ''Des infrastructures stratégiques sont indispensables à l’exploitation optimale et durable de nos ressources''",
+   "summary": "Ouverte le 18 novembre à Abidjan, la deuxième édition du Salon international des ressources extractives et de l'énergie...",
+   "url": "https://www.sikafinance.com/marches/sirexe-2026--des-infrastructures-strategiques-sont-indispensables-a-lexploitation-optimale-et-durable-de-nos-ressources-_65828",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-19T10:19:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "gn-1atp9td",
    "title": "Bourse : Dr Edoh Kossi Amenounvé distingué à Kigali pour sa contribution au développement des services financiers en Afrique",
@@ -4312,22 +4326,6 @@
    "premium": false,
    "publishedAt": "2026-10-27T09:31:00Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "sika-65267",
-   "title": "Le bénéfice de Bank Of Africa Niger flambe de 122% à fin septembre 2026",
-   "summary": "Après une année 2025 marquée par de lourdes provisions et une rentabilité fortement dégradée, BOA Niger retrouve des co...",
-   "url": "https://www.sikafinance.com/marches/le-benefice-de-bank-of-africa-niger-flambe-de-122-a-fin-septembre-2026_65267",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": true,
-   "publishedAt": "2026-10-27T09:14:00Z",
-   "symbols": [
-    "BOAN"
-   ],
    "status": "new",
    "tries": 0
   }
