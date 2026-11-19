@@ -1,6 +1,34 @@
 {
- "updatedAt": "2026-11-19T09:30:22.486Z",
+ "updatedAt": "2026-11-19T09:45:49.479Z",
  "items": [
+  {
+   "id": "sika-65826",
+   "title": "SIREXE 2026 : Atlantic Group accélère son développement minier",
+   "summary": "Fort de son expérience dans la finance et l'industrie en Afrique, Atlantic Group déploie son savoir-faire dans le secte...",
+   "url": "https://www.sikafinance.com/marches/sirexe-2026-atlantic-group-accelere-son-developpement-minier_65826",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-19T09:31:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "sika-65825",
+   "title": "RDC : L’américain Wave décroche une licence pour proposer des services de monnaie électronique",
+   "summary": "Onze ans après la dernière autorisation accordée dans cette catégorie, le marché congolais de la monnaie électro...",
+   "url": "https://www.sikafinance.com/marches/rdc-lamericain-wave-decroche-une-licence-pour-proposer-des-services-de-monnaie-electronique_65825",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-19T09:22:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65820",
    "title": "Ghana : Dramani Mahama veut transformer localement une plus grande part des 94% de cajou encore exportés bruts",
@@ -4299,36 +4327,6 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-10-27T08:48:00Z",
-   "symbols": [],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "gn-bk2dr7",
-   "title": "L'indice principal de la BRVM recule pour la deuxième semaine consécutive à l'approche du fractionnement des actions de Sonatel",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSy1jTDczcVNidDBCRVJ3NzRQdVJYeW8yS2VkRm4zVm1JdVVEOGh3Sk1TaW0yR0JKRVBELWJzbVNncGZmQlc5cnVxdEdMdmd4dTNiZnIzT1lfdk9ueEFMZ0w0YkZaeFVhbHRTWnZkb2Q3cTVBa1BFdU1mcHdrb2Ewb3JObFFCbGFPWS05S1kzS1J0RkJxeUw5eWl1dGZ5bXFDel9pMmVic0ZKem1rVU5rdUF2dHpMX1ZkLURJTEpkVXNEN2pPUGd6OEg1VFVDMTZkNVJSVm1xbmhVN0FkcGlKUG5fZ3k5NUk?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-10-24T07:00:00.000Z",
-   "symbols": [
-    "SNTS"
-   ],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "gn-xadya0",
-   "title": "Les actions de la BRVM perdent 559 milliards de CFA alors que le marché recule de 2,61 % lors d'une vague de ventes hebdomadaire",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcHZFeVdVcFZ1R21vQzdnNHcyR3B1eTdsVmgzZWpNazlVQWgzQjUtNkpTdGxkemhGRGZxdXVpcFdqQmFzcFd6TE5id19UYnRGcDlVOFJwOUxnZmZXbDdwWmhONS10N3hGUDZGRV9mNVFCaHRwREhNbUdZTU40RjFIZ0IzaHIxU1hWQWdhX25mQURxUTRhWENmbi1Tall0dE1ySVUydFQ3SG1UZ3hWdjc3THdCZ2FUXzZRaWM1WTdGdEt6ZGx5OXY4Mm44Tnp5VENRd0JkcVUyOTVaY2ZNOFE0?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-10-18T07:00:00.000Z",
    "symbols": [],
    "status": "new",
    "tries": 0
