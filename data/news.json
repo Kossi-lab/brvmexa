@@ -1,6 +1,30 @@
 {
- "updatedAt": "2026-11-19T12:45:16.993Z",
+ "updatedAt": "2026-11-19T13:00:28.632Z",
  "items": [
+  {
+   "id": "sika-65835",
+   "title": "Paiements instantanés en Afrique : 1 800 milliards USD échangés en 2025",
+   "summary": "Le secteur des paiements instantanés a connu une activité intense sur le continent africain en 2025, totalisant un volume de transactions record de 1 800 milliards de dollars.",
+   "body": [
+    "L'année 2025 a marqué une étape importante pour les infrastructures financières numériques en Afrique. Les systèmes de paiement instantané déployés à travers le continent ont facilité des échanges financiers atteignant un montant global de 1 800 milliards de dollars.",
+    "Cette dynamique souligne l'adoption croissante des solutions de transfert rapide par les acteurs économiques. Ces chiffres, arrêtés à la fin de l'exercice 2025, illustrent la transformation des habitudes de paiement au sein de l'écosystème financier africain."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65835",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-19T12:47:00Z",
+   "writtenAt": "2026-11-19T13:00:28.628Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/afrique-1-800-milliards-usd-ont-transite-par-les-systemes-de-paiement-instantane-en-2025_65835",
+    "title": "Afrique : 1 800 milliards USD ont transité par les systèmes de paiement instantané en 2025"
+   },
+   "rewritten": true
+  },
   {
    "id": "sika-65834",
    "title": "SIREXE 2026 : La Côte d’Ivoire prône une mutualisation énergétique régionale",
@@ -3712,30 +3736,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/cloture-brvm-ecobank-ci-propulse-la-capitalisation-avec-un-gain-de-pres-de-30-milliards-fcfa_65562",
     "title": "Clôture BRVM : Ecobank CI propulse la capitalisation avec un gain de près de 30 milliards FCFA"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65560",
-   "title": "Congo : Le gouvernement prévoit 1 132 milliards FCFA d'emprunts pour le budget 2027",
-   "summary": "Le Congo projette de solliciter massivement le marché des titres publics de la zone CEMAC en 2027 pour assurer le financement de son budget.",
-   "body": [
-    "Dans le cadre de son projet de loi de finances pour 2027, l'État congolais prévoit de lever 947,5 milliards FCFA via des émissions de bons et d'obligations du Trésor sur le marché de la CEMAC. Ce montant constitue la majeure partie des 1 274,6 milliards FCFA de ressources de trésorerie attendues. Le gouvernement envisage également de recourir à des emprunts-projets à hauteur de 185,3 milliards FCFA, ainsi qu'à un emprunt obligataire spécifique de 141,8 milliards FCFA.",
-    "Si le calendrier et les conditions financières de ces opérations restent à définir, le budget souligne l'importance des charges de remboursement. Les dépenses de trésorerie sont estimées à 1 757 milliards FCFA, incluant notamment 1 253,9 milliards FCFA pour la dette intérieure bancaire et 210,4 milliards FCFA pour les emprunts extérieurs. Globalement, le projet de loi prévoit des ressources de 3 120,8 milliards FCFA pour 2 638,4 milliards FCFA de dépenses, dégageant un excédent de 482,4 milliards FCFA destiné à couvrir le déficit de trésorerie."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65560",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-06T16:32:00Z",
-   "writtenAt": "2026-11-06T16:53:45.003Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/congo-plus-de-1-132-milliards-fcfa-d-emprunts-et-de-titres-publics-programmes-en-2027_65560",
-    "title": "Congo : Plus de 1 132 milliards FCFA d'emprunts et de titres publics programmés en 2027"
    },
    "rewritten": true
   }

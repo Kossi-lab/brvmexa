@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-19T12:45:16.988Z",
+ "updatedAt": "2026-11-19T13:00:28.629Z",
  "items": [
+  {
+   "id": "sika-65835",
+   "title": "Afrique : 1 800 milliards USD ont transité par les systèmes de paiement instantané en 2025",
+   "summary": "À la fin de l'année 2025, les systèmes de paiement instantané actifs sur le continent ont enregistré près de 71 ...",
+   "url": "https://www.sikafinance.com/marches/afrique-1-800-milliards-usd-ont-transite-par-les-systemes-de-paiement-instantane-en-2025_65835",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-11-19T12:47:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65834",
    "title": "SIREXE 2026 : La Côte d’Ivoire appelle à mutualiser les infrastructures énergétiques à l’échelle africaine",
@@ -4308,22 +4322,6 @@
    "premium": false,
    "publishedAt": "2026-10-27T14:23:00Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "sika-65279",
-   "title": "Aly MBOW, DFC du Groupe Sonatel : ‘’Le fractionnement, un levier pour faciliter l’accès au titre à un plus grand nombre d’investisseurs’’",
-   "summary": "Aly MBOW, DFC du groupe Sonatel : Le fractionnement, un levier pour faciliter l'accès au titre et permettre à un p...",
-   "url": "https://www.sikafinance.com/marches/aly-mbow-dfc-du-groupe-sonatel-le-fractionnement-un-levier-pour-faciliter-lacces-au-titre-a-un-plus-grand-nombre-dinvestisseurs_65279",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-27T13:01:00Z",
-   "symbols": [
-    "SNTS"
-   ],
    "status": "new",
    "tries": 0
   }
