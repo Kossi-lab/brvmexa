@@ -1,29 +1,29 @@
 {
- "updatedAt": "2026-11-19T12:15:17.652Z",
+ "updatedAt": "2026-11-19T12:30:15.531Z",
  "sessionDate": "2026-11-19",
- "sessionTime": "12:02",
+ "sessionTime": "12:15",
  "source": "brvm.org",
- "transactionsValue": 10058749507,
- "capitalisationActions": 19400700863383,
+ "transactionsValue": 10095059781,
+ "capitalisationActions": 19385161698383,
  "capitalisationBonds": 13419431653242,
  "advancing": 2,
  "declining": 38,
  "unchanged": 8,
- "totalVolume": 767870,
+ "totalVolume": 787551,
  "gainers": [
   {
    "symbol": "STAC",
    "shortName": "SETAO CI",
    "close": 2000,
    "change": 3.36,
-   "volume": 1151
+   "volume": 1156
   },
   {
    "symbol": "ORAC",
    "shortName": "Orange Côte d’Ivoire",
    "close": 19490,
    "change": 2.58,
-   "volume": 453
+   "volume": 477
   }
  ],
  "losers": [
@@ -39,7 +39,7 @@
    "shortName": "Uniwax CI",
    "close": 1605,
    "change": -7.49,
-   "volume": 4555
+   "volume": 4597
   },
   {
    "symbol": "SAFC",
@@ -53,30 +53,37 @@
    "shortName": "Africa Global Logistics CI",
    "close": 2500,
    "change": -7.41,
-   "volume": 3110
+   "volume": 3160
   },
   {
    "symbol": "SCRC",
    "shortName": "Sucrivoire CI",
    "close": 1285,
    "change": -7.22,
-   "volume": 10990
+   "volume": 11037
   }
  ],
  "mostActive": [
   {
    "symbol": "SNTS",
    "shortName": "Sonatel",
-   "close": 4090,
-   "change": -0.24,
-   "volume": 60757
+   "close": 4085,
+   "change": -0.37,
+   "volume": 63381
   },
   {
    "symbol": "SIBC",
    "shortName": "Société Ivoirienne de Banque",
    "close": 8350,
    "change": -0.6,
-   "volume": 9066
+   "volume": 9186
+  },
+  {
+   "symbol": "BBGC",
+   "shortName": "Bridge Bank Group CI",
+   "close": 8520,
+   "change": -2.07,
+   "volume": 5113
   },
   {
    "symbol": "SGBC",
@@ -86,18 +93,11 @@
    "volume": 1108
   },
   {
-   "symbol": "BBGC",
-   "shortName": "Bridge Bank Group CI",
-   "close": 8505,
-   "change": -2.24,
-   "volume": 4968
-  },
-  {
    "symbol": "BICB",
    "shortName": "BIIC Bénin",
    "close": 7850,
    "change": -1.81,
-   "volume": 4650
+   "volume": 4873
   }
  ]
 }

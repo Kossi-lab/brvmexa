@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-19T12:15:23.560Z",
+ "updatedAt": "2026-11-19T12:30:49.808Z",
  "items": [
+  {
+   "id": "sika-65834",
+   "title": "SIREXE 2026 : La Côte d’Ivoire appelle à mutualiser les infrastructures énergétiques à l’échelle africaine",
+   "summary": "Face aux tensions qui fragilisent les approvisionnements en pétrole et en gaz, le vice-Premier ministre ivoirien, Téné ...",
+   "url": "https://www.sikafinance.com/marches/sirexe-2026-la-cote-divoire-appelle-a-mutualiser-les-infrastructures-energetiques-a-lechelle-africaine_65834",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-19T12:20:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "gn-1g4lzob",
+   "title": "Ape – Bourse régionale des valeurs mobilières : L’emprunt obligataire de Swami Agri admis à la cote",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSlVVZHpuSjJoMjdsdjdDaEU4czNNSVlkQmhrUW50WGVHQ3RaSEZsUWx5MGtqYmNuX21CSlZTb3l0RV9VanZqdHFldzBjRGNud2RycjY0UDN4MWYyVHN0bkJwOXJ4YWRrOE84NnpLeHFsV1lJTldZLUY5TGxVTW5RbTNNV3dGM1c0b21fWFRkWi0zem1IdEZ2NkpzZ0VIbk5QUklaLUtuR2szU2I4U2paeVdpakszUHBJSUE?oc=5",
+   "image": null,
+   "source": "LeQuotidien.sn",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-19T12:16:33.000Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "sika-65833",
+   "title": "Sénégal : Bassirou Diomaye Faye impose le budget rectificatif 2026 par décret",
+   "summary": "Au Sénégal, le président de la République, Bassirou Diomaye Faye, a décidé de mettre en vigueur le projet de loi de fin...",
+   "url": "https://www.sikafinance.com/marches/senegal-bassirou-diomaye-faye-impose-le-budget-rectificatif-2026-par-decret_65833",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-19T12:09:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65831",
    "title": "La Société islamique d’assurance des investissements et du crédit à l’exportation décroche la note ‘’AA-‘’ de S&P en devises étrangères",
@@ -4282,48 +4324,6 @@
    "symbols": [
     "SNTS"
    ],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "sika-65277",
-   "title": "Sénégal : Les raisons du report du projet Grand Transfert d’eau à 2027",
-   "summary": "Jamais un projet n'a suscité autant de débats et de polémique. Le Grand transfert d'Eau, une des sources du différend e...",
-   "url": "https://www.sikafinance.com/marches/senegal-les-raisons-du-report-du-projet-grand-transfert-deau-a-2027_65277",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-27T11:36:00Z",
-   "symbols": [],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "sika-65274",
-   "title": "Bénin : BSIC mobilise 15 milliards FCFA par titrisation pour financer le logement abordable",
-   "summary": "La banque transforme une partie de ses créances en obligations souscrites sur le marché financier régional. Les ressour...",
-   "url": "https://www.sikafinance.com/marches/benin-bsic-mobilise-15-milliards-fcfa-par-titrisation-pour-financer-le-logement-abordable_65274",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-27T10:52:00Z",
-   "symbols": [],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "sika-65272",
-   "title": "Nigeria : L’OPV de la raffinerie de Dangote suscite un engouement mondial, sursouscrite 3 à 4 fois avec des demandes venues de 119 pays",
-   "summary": "L'Afrique tient peut-être, pour de nombreuses années, sa plus importante opération boursière, avec un paradoxe à la clé...",
-   "url": "https://www.sikafinance.com/marches/nigeria-lopv-de-la-raffinerie-de-dangote-suscite-un-engouement-mondial-sursouscrite-3-a-4-fois-avec-des-demandes-venues-de-119-pays_65272",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": true,
-   "publishedAt": "2026-10-27T10:11:00Z",
-   "symbols": [],
    "status": "new",
    "tries": 0
   }
