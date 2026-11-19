@@ -1,6 +1,30 @@
 {
- "updatedAt": "2026-11-19T11:45:23.791Z",
+ "updatedAt": "2026-11-19T12:00:26.798Z",
  "items": [
+  {
+   "id": "sika-65831",
+   "title": "L'ICIEC obtient la note AA- de S&P pour ses engagements en devises étrangères",
+   "summary": "L'agence S&P Global Ratings a attribué une note de solidité financière « AA- » à l'ICIEC, renforçant la confiance des investisseurs internationaux envers cet assureur multilatéral.",
+   "body": [
+    "Le 19 novembre 2026, la Société islamique d'assurance des investissements et du crédit à l'exportation (ICIEC) a vu sa solidité financière évaluée à « AA- » par S&P Global Ratings pour ses opérations en devises étrangères. Cette notation, assortie d'une perspective stable, confirme la capacité de l'institution, membre du Groupe de la Banque islamique de développement, à respecter ses obligations internationales.",
+    "Cette reconnaissance vient compléter la note déjà obtenue pour la monnaie locale, offrant ainsi une garantie supplémentaire aux banques, investisseurs et exportateurs. Cette évaluation s'inscrit dans la dynamique de la stratégie 2026-2030 de l'organisme, qui vise à renforcer le soutien aux investissements durables et à sécuriser les transactions transfrontalières tout en respectant les principes de la finance islamique."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65831",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-19T11:57:00Z",
+   "writtenAt": "2026-11-19T12:00:26.795Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/la-societe-islamique-dassurance-des-investissements-et-du-credit-a-lexportation-decroche-la-note-aa-de-sp-en-devises-etrangeres_65831",
+    "title": "La Société islamique d’assurance des investissements et du crédit à l’exportation décroche la note ‘’AA-‘’ de S&P en devises étrangères"
+   },
+   "rewritten": true
+  },
   {
    "id": "sika-65830",
    "title": "Le Kenya envisage des avantages fiscaux pour la raffinerie de Dangote à Lamu",
@@ -3713,32 +3737,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/senegal-190-millions-usd-pour-faire-emerger-une-nouvelle-generation-de-pme-a-forte-croissance_65556",
     "title": "Sénégal : 190 millions USD pour faire émerger une nouvelle génération de PME à forte croissance"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65554",
-   "title": "Projet aurifère de Doropo : NSIA Banque participe à un financement de 148 milliards FCFA",
-   "summary": "NSIA Banque Côte d'Ivoire s'associe à six autres établissements bancaires pour financer la construction de la mine d'or de Doropo, un projet industriel majeur pour l'économie ivoirienne.",
-   "body": [
-    "Un pool bancaire composé de sept établissements financiers, dont NSIA Banque Côte d'Ivoire représentée par son Directeur Général Adjoint Sékou Sanogo, a finalisé un financement de 148 milliards FCFA, soit environ 260 millions USD. Cette enveloppe représente près de 50 % du coût total de construction de la future mine de Doropo, située dans la région du Bounkani et pilotée par Resolute Mining Côte d'Ivoire.",
-    "Ce projet minier d'envergure devrait générer des retombées significatives pour la région, avec le recrutement de plus de 1 500 personnes durant la phase de construction et la création de 400 emplois permanents lors de l'exploitation. Au-delà de l'aspect industriel, cette opération souligne la volonté du secteur bancaire local de soutenir des investissements structurants et de favoriser le développement économique durable du pays."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65554",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-06T15:23:00Z",
-   "writtenAt": "2026-11-06T15:40:44.832Z",
-   "symbols": [
-    "NSBC"
-   ],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/projet-aurifere-de-doropo-nsia-banque-participe-a-une-mobilisation-de-148-milliards-fcfa-pour-une-mine-strategique-en-cote-divoire_65554",
-    "title": "Projet aurifère de Doropo : NSIA Banque participe à une mobilisation de 148 milliards FCFA pour une mine stratégique en Côte d’Ivoire"
    },
    "rewritten": true
   }

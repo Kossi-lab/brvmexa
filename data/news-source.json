@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-19T11:45:23.789Z",
+ "updatedAt": "2026-11-19T12:00:26.796Z",
  "items": [
+  {
+   "id": "sika-65831",
+   "title": "La Société islamique d’assurance des investissements et du crédit à l’exportation décroche la note ‘’AA-‘’ de S&P en devises étrangères",
+   "summary": "La Société islamique d'assurance des investissements et du crédit à l'exportation (ICIEC), assureur multilatéral du Gro...",
+   "url": "https://www.sikafinance.com/marches/la-societe-islamique-dassurance-des-investissements-et-du-credit-a-lexportation-decroche-la-note-aa-de-sp-en-devises-etrangeres_65831",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-19T11:57:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65830",
    "title": "Le Kenya prêt à accorder des exonérations fiscales au projet de raffinerie de 16 milliards USD de Dangote",
@@ -4310,22 +4324,6 @@
    "premium": true,
    "publishedAt": "2026-10-27T10:11:00Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "sika-65270",
-   "title": "BOA Burkina Faso : Le bénéfice net bondit de 34 % à fin septembre 2026",
-   "summary": "Au terme du troisième trimestre 2026, Bank of Africa Burkina Faso (BOA BF) confirme la bonne orientation de ses perform...",
-   "url": "https://www.sikafinance.com/marches/boa-burkina-faso-le-benefice-net-bondit-de-34-a-fin-septembre-2026_65270",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": true,
-   "publishedAt": "2026-10-27T09:45:00Z",
-   "symbols": [
-    "BOABF"
-   ],
    "status": "new",
    "tries": 0
   }
