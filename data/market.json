@@ -1,15 +1,15 @@
 {
- "updatedAt": "2026-11-19T13:30:18.453Z",
+ "updatedAt": "2026-11-19T13:45:13.819Z",
  "sessionDate": "2026-11-19",
- "sessionTime": "13:15",
+ "sessionTime": "13:30",
  "source": "brvm.org",
- "transactionsValue": 10750913735,
- "capitalisationActions": 19119431831971,
+ "transactionsValue": 10832960954,
+ "capitalisationActions": 19128418233721,
  "capitalisationBonds": 13416131653242,
  "advancing": 1,
- "declining": 41,
- "unchanged": 6,
- "totalVolume": 1059196,
+ "declining": 43,
+ "unchanged": 4,
+ "totalVolume": 1265543,
  "gainers": [
   {
    "symbol": "STAC",
@@ -32,14 +32,14 @@
    "shortName": "Uniwax CI",
    "close": 1605,
    "change": -7.49,
-   "volume": 5237
+   "volume": 5263
   },
   {
    "symbol": "SAFC",
    "shortName": "SAFCA CI",
    "close": 3245,
    "change": -7.42,
-   "volume": 3094
+   "volume": 3098
   },
   {
    "symbol": "SDSC",
@@ -62,21 +62,21 @@
    "shortName": "Sonatel",
    "close": 4000,
    "change": -2.44,
-   "volume": 128829
+   "volume": 131939
   },
   {
    "symbol": "SIBC",
    "shortName": "Société Ivoirienne de Banque",
-   "close": 8400,
-   "change": 0,
-   "volume": 12419
+   "close": 8350,
+   "change": -0.6,
+   "volume": 12470
   },
   {
    "symbol": "ORAC",
    "shortName": "Orange Côte d’Ivoire",
-   "close": 18910,
-   "change": -0.47,
-   "volume": 5376
+   "close": 18995,
+   "change": -0.03,
+   "volume": 5386
   },
   {
    "symbol": "SMBC",
@@ -88,9 +88,9 @@
   {
    "symbol": "BOAC",
    "shortName": "BOA Côte d’Ivoire",
-   "close": 11000,
-   "change": -3.47,
-   "volume": 5430
+   "close": 10800,
+   "change": -5.22,
+   "volume": 6894
   }
  ]
 }
