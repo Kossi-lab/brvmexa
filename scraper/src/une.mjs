@@ -8,6 +8,7 @@ import { askGemini, askAnthropic, extractArticle } from './rewrite.mjs';
 
 const START_HOUR = 9; // UTC = heure de Lomé
 const KEEP = 30;
+const VERSION = 2; // changer ce numéro fait réécrire l'article du jour au passage suivant
 const clean = (s) => String(s ?? '').replace(/[   ]/g, ' ').replace(/\s+/g, ' ').trim();
 
 const PROMPT = `Tu es rédacteur en chef de BRVMexa, un média consacré à la Bourse régionale des valeurs mobilières (BRVM) d'Afrique de l'Ouest.
@@ -21,7 +22,8 @@ Règles impératives :
 - Ne cite pas le média d'origine dans le texte.
 - Titre : 60 à 110 caractères, accrocheur mais exact, sans point final.
 - Chapeau : 2 phrases au plus (45 mots au plus).
-- Corps : 3 à 4 parties, chacune avec un intertitre court (2 à 6 mots) et 1 à 3 paragraphes. La dernière partie explique ce que cela change ou ce qu'il faut surveiller pour un investisseur à la BRVM.
+- Corps : 4 parties, chacune avec un intertitre court (2 à 6 mots) et 2 à 3 paragraphes, soit 450 à 700 mots au total. Ordre conseillé : les faits ; le contexte (l'entreprise, son secteur ou le sujet, expliqués simplement) ; ce que les chiffres signifient ; ce que cela change et ce qu'il faut surveiller pour un investisseur à la BRVM.
+- Si les faits sont peu nombreux, développe le contexte et la pédagogie plutôt que d'inventer : jamais de remplissage creux.
 - « points » : 3 points clés à retenir, une phrase courte chacun.
 - Si les éléments fournis sont trop pauvres pour un article fiable, réponds {"skip": true}.
 
@@ -62,12 +64,13 @@ export async function updateUne({ dataDir, w, fetchText, log = console.log, now 
   const uneFile = path.join(dataDir, 'une.json');
   const histFile = path.join(dataDir, 'une-history.json');
   const current = await readJson(uneFile, null);
-  if (!force && current?.date === today) return { skip: 'déjà rédigée' };
+  if (!force && current?.date === today && current?.v === VERSION) return { skip: 'déjà rédigée' };
   if (!force && new Date(now).getUTCHours() < START_HOUR) return { skip: 'avant 9 h' };
   if (!w) { log('À la une : aucune IA disponible'); return { skip: 'pas d’IA' }; }
 
   const news = (await readJson(path.join(dataDir, 'news.json'), { items: [] })).items ?? [];
-  const history = (await readJson(histFile, { items: [] })).items ?? [];
+  let history = (await readJson(histFile, { items: [] })).items ?? [];
+  if (current?.date === today) history = history.filter((h) => h.id !== current.id || h.date !== today); // réécriture du jour : même sujet autorisé
   const n = choose(news, history, now);
   if (!n) { log('À la une : aucune actualité récente à mettre en avant'); return { skip: 'rien' }; }
 
@@ -93,6 +96,7 @@ export async function updateUne({ dataDir, w, fetchText, log = console.log, now 
   if (title.length < 20 || sections.length < 2) throw new Error('À la une : réponse incomplète');
   const words = [r.summary, ...sections.flatMap((x) => x.p)].join(' ').split(/\s+/).length;
   const une = {
+    v: VERSION,
     date: today,
     id: n.id,
     title,
