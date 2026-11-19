@@ -1,16 +1,30 @@
 {
- "updatedAt": "2026-11-19T09:45:49.479Z",
+ "updatedAt": "2026-11-19T10:00:32.486Z",
  "items": [
   {
-   "id": "sika-65826",
+   "id": "gn-1atp9td",
+   "title": "Bourse : Dr Edoh Kossi Amenounvé distingué à Kigali pour sa contribution au développement des services financiers en Afrique",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPc1hrdmJDeUFEWFdEYTRfYmIzMDdJamg4eUlzUGo0bzV4dGRkWEI1Yk9Rb0I1MmlycmU4cllYVDMtaExXYS1sU2JIYWVUQmFTeWtETmtZbnZKU3VLSlFNRjdZNTV6U0JiSy1IWUJKX3FRd09fY0ZTY3BJZlFpYVNLdDhxYnltVlNNQnliRTZCNTVNZEZXMU9fMWpGOTNMN2s1eGp0RTdtODhMWXI4VDI3eUxXYWdkV191VUVaTzJIc0lzak5CVkF4WUtxZWFNRGQ0YkItallIZ2diZWtsSFlHUzBJT09ONXJ5N0FIU1Z0QWdMY2c?oc=5",
+   "image": null,
+   "source": "Pressecotedivoire",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-19T09:59:32.000Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "sika-65827",
    "title": "SIREXE 2026 : Atlantic Group accélère son développement minier",
    "summary": "Fort de son expérience dans la finance et l'industrie en Afrique, Atlantic Group déploie son savoir-faire dans le secte...",
-   "url": "https://www.sikafinance.com/marches/sirexe-2026-atlantic-group-accelere-son-developpement-minier_65826",
+   "url": "https://www.sikafinance.com/marches/sirexe-2026-atlantic-group-accelere-son-developpement-minier_65827",
    "image": null,
    "source": "Sika Finance",
    "category": "Marchés",
    "premium": false,
-   "publishedAt": "2026-11-19T09:31:00Z",
+   "publishedAt": "2026-11-19T09:47:00Z",
    "symbols": [],
    "status": "done",
    "tries": 1
@@ -4314,20 +4328,6 @@
    "symbols": [
     "BOAN"
    ],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "sika-65266",
-   "title": "Côte d’Ivoire : Le logiciel national d’état civil déployé, la connectivité reste un défi",
-   "summary": "Le logiciel national central de gestion des faits d'état civil est désormais déployé dans l'ensemble des centres d'état...",
-   "url": "https://www.sikafinance.com/marches/cote-divoire-le-logiciel-national-detat-civil-deploye-la-connectivite-reste-un-defi_65266",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-27T08:48:00Z",
-   "symbols": [],
    "status": "new",
    "tries": 0
   }

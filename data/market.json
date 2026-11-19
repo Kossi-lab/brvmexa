@@ -1,16 +1,96 @@
 {
- "updatedAt": "2026-11-19T09:45:26.777Z",
+ "updatedAt": "2026-11-19T10:00:17.439Z",
  "sessionDate": "2026-11-19",
- "sessionTime": "09:30",
+ "sessionTime": "09:45",
  "source": "brvm.org",
- "transactionsValue": 0,
- "capitalisationActions": 19644672477694,
+ "transactionsValue": 102527851,
+ "capitalisationActions": 19613317761349,
  "capitalisationBonds": 13432243608342,
- "advancing": 0,
- "declining": 0,
- "unchanged": 48,
- "totalVolume": 0,
- "gainers": [],
- "losers": [],
- "mostActive": []
+ "advancing": 1,
+ "declining": 17,
+ "unchanged": 30,
+ "totalVolume": 132563,
+ "gainers": [
+  {
+   "symbol": "SOGC",
+   "shortName": "SOGB CI",
+   "close": 7550,
+   "change": 0.67,
+   "volume": 3
+  }
+ ],
+ "losers": [
+  {
+   "symbol": "CABC",
+   "shortName": "Sicable CI",
+   "close": 2700,
+   "change": -1.82,
+   "volume": 32
+  },
+  {
+   "symbol": "STBC",
+   "shortName": "SITAB CI",
+   "close": 21100,
+   "change": -1.63,
+   "volume": 42
+  },
+  {
+   "symbol": "SMBC",
+   "shortName": "SMB CI",
+   "close": 16995,
+   "change": -1.48,
+   "volume": 19
+  },
+  {
+   "symbol": "ORGT",
+   "shortName": "Oragroup Togo",
+   "close": 2550,
+   "change": -1.35,
+   "volume": 468
+  },
+  {
+   "symbol": "SPHC",
+   "shortName": "SAPH CI",
+   "close": 7700,
+   "change": -1.22,
+   "volume": 1000
+  }
+ ],
+ "mostActive": [
+  {
+   "symbol": "SNTS",
+   "shortName": "Sonatel",
+   "close": 4100,
+   "change": 0,
+   "volume": 8744
+  },
+  {
+   "symbol": "BBGC",
+   "shortName": "Bridge Bank Group CI",
+   "close": 8695,
+   "change": -0.06,
+   "volume": 1748
+  },
+  {
+   "symbol": "SPHC",
+   "shortName": "SAPH CI",
+   "close": 7700,
+   "change": -1.22,
+   "volume": 1000
+  },
+  {
+   "symbol": "SIBC",
+   "shortName": "Société Ivoirienne de Banque",
+   "close": 8400,
+   "change": 0,
+   "volume": 874
+  },
+  {
+   "symbol": "ETIT",
+   "shortName": "Ecobank Transnational (ETI)",
+   "close": 57,
+   "change": 0,
+   "volume": 115174
+  }
+ ]
 }
