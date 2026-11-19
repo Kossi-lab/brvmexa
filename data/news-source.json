@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-19T14:30:23.458Z",
+ "updatedAt": "2026-11-19T14:47:08.720Z",
  "items": [
+  {
+   "id": "sika-65840",
+   "title": "Afrique : La BAD mobilise ses financements pour renforcer la protection contre les catastrophes climatiques",
+   "summary": "Plus de 42 millions de personnes en Afrique bénéficient déjà d'une meilleure protection contre les phénomènes météorolo...",
+   "url": "https://www.sikafinance.com/marches/afrique-la-bad-mobilise-ses-financements-pour-renforcer-la-protection-contre-les-catastrophes-climatiques_65840",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-19T14:27:00Z",
+   "symbols": [],
+   "status": "new",
+   "tries": 0
+  },
   {
    "id": "sika-65839",
    "title": "90 collaborateurs distingués : La SIB célèbre l’engagement et la fidélité de son personnel",
@@ -4309,20 +4323,6 @@
    "category": "Marchés",
    "premium": true,
    "publishedAt": "2026-10-27T15:39:00Z",
-   "symbols": [],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "sika-65281",
-   "title": "Côte d’Ivoire : Le canadien Waraba Gold offre 2 milliards FCFA pour 80 % d’un permis aurifère à Tengrela",
-   "summary": "La compagnie canadienne prévoit de débourser jusqu'à 5 millions de dollars australiens, soit environ 2 milliards FCFA, ...",
-   "url": "https://www.sikafinance.com/marches/cote-divoire-le-canadien-waraba-gold-offre-2-milliards-fcfa-pour-80-dun-permis-aurifere-a-tengrela_65281",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-27T14:31:00Z",
    "symbols": [],
    "status": "new",
    "tries": 0
