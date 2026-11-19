@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-19T14:47:08.720Z",
+ "updatedAt": "2026-11-19T15:00:59.587Z",
  "items": [
   {
    "id": "sika-65840",
@@ -12,8 +12,8 @@
    "premium": false,
    "publishedAt": "2026-11-19T14:27:00Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65839",

@@ -1,6 +1,31 @@
 {
- "updatedAt": "2026-11-19T14:47:08.723Z",
+ "updatedAt": "2026-11-19T15:00:59.590Z",
  "items": [
+  {
+   "id": "sika-65840",
+   "title": "Climat : La BAD accroît ses investissements pour les alertes précoces en Afrique",
+   "summary": "La BAD intensifie ses financements pour étendre les systèmes d'alerte climatique en Afrique, où la couverture reste insuffisante face aux risques météorologiques.",
+   "body": [
+    "La Banque africaine de développement (BAD) prévoit d'accroître ses investissements pour déployer des dispositifs d'alerte précoce à travers le continent. Cette stratégie a été soulignée par Marie-Laure Akin-Olugbade, vice-présidente principale de l'institution, à l'occasion de la COP31 d'Antalya en Turquie, alors que 40 % seulement des nations africaines bénéficient actuellement de telles infrastructures multirisques.",
+    "L'urgence de ces interventions est illustrée par les bilans de l'Organisation météorologique mondiale, qui fait état de plus de 3 000 décès et de 13 millions de personnes touchées par des événements climatiques extrêmes sur le continent en 2025. Pour y répondre, la BAD s'appuie sur plusieurs leviers, incluant le Guichet d'action climatique et son portefeuille initial de 321,75 millions de dollars destiné à 41 projets dans 12 pays, ainsi que les programmes ClimDev-Afrique et ADRiFi.",
+    "Plusieurs nations profitent déjà de ces initiatives concrètes, telles que la Côte d'Ivoire avec le déploiement de stations agroclimatiques, la Sierra Leone pour la modernisation des alertes à Freetown, ou encore une enveloppe de 35 millions de dollars dédiée à la Corne de l'Afrique. Au-delà de 2027, la institution compte s'appuyer sur la Nouvelle architecture financière africaine pour le développement (NAFAD) afin de mobiliser de nouveaux capitaux publics et privés."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65840",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-19T14:27:00Z",
+   "writtenAt": "2026-11-19T15:00:59.585Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/afrique-la-bad-mobilise-ses-financements-pour-renforcer-la-protection-contre-les-catastrophes-climatiques_65840",
+    "title": "Afrique : La BAD mobilise ses financements pour renforcer la protection contre les catastrophes climatiques"
+   },
+   "rewritten": true
+  },
   {
    "id": "sika-65839",
    "title": "La SIB honore 90 collaborateurs pour leur engagement et leur fidélité",
@@ -3707,30 +3732,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/fonds-pour-lenergie-durable-en-afrique-405-millions-usd-engages-pour-catalyser-pres-de-40-milliards-usd-dinvestissements_65564",
     "title": "Fonds pour l’énergie durable en Afrique : 405 millions USD engagés pour catalyser près de 40 milliards USD d’investissements"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65563",
-   "title": "L'APROMAC célèbre 50 ans d'essor pour la filière ivoirienne du caoutchouc",
-   "summary": "L'Association des professionnels du caoutchouc naturel de Côte d'Ivoire a fêté son cinquantenaire, marquant cinq décennies de structuration ayant propulsé le pays au rang de deuxième producteur mondial.",
-   "body": [
-    "Fondée en 1975, l'APROMAC a célébré son cinquantième anniversaire les 5 et 6 novembre 2026 à Abidjan. Cette organisation interprofessionnelle, qui fédère producteurs et transformateurs, a joué un rôle déterminant dans l'ascension de la Côte d'Ivoire, devenue en 2025 le deuxième producteur mondial de caoutchouc naturel, derrière la Thaïlande. Le secteur, qui assure plus de 85 % de la production africaine, emploie aujourd'hui 180 000 planteurs villageois et soutient 1,5 million de personnes.",
-    "La production nationale a connu une progression fulgurante, passant de 164 138 tonnes en 2005 à 2 millions de tonnes fin 2025, dépassant désormais le cacao en volume d'exportation. Pour maintenir cette dynamique, l'APROMAC mise sur la transformation locale, la labellisation et la formation, via notamment un projet d'académie à Taabo. Parallèlement, l'accent est mis sur la juste rémunération des planteurs, avec l'application de nouveaux mécanismes de prix instaurés en février 2026 pour sécuriser les revenus des producteurs."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65563",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-06T17:28:00Z",
-   "writtenAt": "2026-11-06T17:49:53.384Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/cote-divoire-lapromac-celebre-50-ans-dengagement-au-service-de-la-filiere-hevea_65563",
-    "title": "Côte d’Ivoire : L’APROMAC célèbre 50 ans d’engagement au service de la filière hévéa"
    },
    "rewritten": true
   }
