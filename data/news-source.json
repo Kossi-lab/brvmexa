@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-19T17:45:19.231Z",
+ "updatedAt": "2026-11-19T18:00:58.118Z",
  "items": [
+  {
+   "id": "sika-65851",
+   "title": "Transport aérien : Alors que la demande mondiale de passagers recule de 0,5% en septembre, l’Afrique affiche une croissance de 8%",
+   "summary": "Le transport aérien mondial peine à retrouver son altitude de croisière. En septembre 2026, la demande de passagers a d...",
+   "url": "https://www.sikafinance.com/marches/transport-aerien-alors-que-la-demande-mondiale-de-passagers-recule-de-0-5-en-septembre-lafrique-affiche-une-croissance-de-8_65851",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-19T17:46:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65849",
    "title": "SIREXE 2026 : Sangafowa-Coulibaly lance ''SIREXE Invest'' pour rapprocher projets et capitaux",
@@ -4307,20 +4321,6 @@
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-10-28T01:36:08.000Z",
-   "symbols": [],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "sika-65294",
-   "title": "Congo : Avec un baril budgété à 71 dollars en 2027, la BAD préconise d'affecter les surplus pétroliers au remboursement de la dette",
-   "summary": "La Banque africaine de développement (BAD) recommande au Congo-Brazzaville de mettre en place un mécanisme automatique p...",
-   "url": "https://www.sikafinance.com/marches/congo-avec-un-baril-budgete-a-71-dollars-en-2027-la-bad-preconise-d-affecter-les-surplus-petroliers-au-remboursement-de-la-dette_65294",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-27T18:14:00Z",
    "symbols": [],
    "status": "new",
    "tries": 0

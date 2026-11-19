@@ -1,6 +1,31 @@
 {
- "updatedAt": "2026-11-19T17:45:19.232Z",
+ "updatedAt": "2026-11-19T18:00:58.122Z",
  "items": [
+  {
+   "id": "sika-65851",
+   "title": "Transport aérien : la demande mondiale en baisse en septembre 2026, l'Afrique progresse",
+   "summary": "Malgré un recul global du trafic aérien de passagers en septembre 2026, l'Afrique enregistre une forte progression de sa demande internationale.",
+   "body": [
+    "Au cours du mois de septembre 2026, la demande mondiale de passagers aériens a enregistré un repli de 0,5 % sur un an, d'après les chiffres communiqués par l'Association internationale du transport aérien (IATA). Cette baisse globale s'explique principalement par les difficultés rencontrées sur les marchés nord-américain et moyen-oriental, ainsi que par un ralentissement du trafic domestique.",
+    "En revanche, le continent africain tire son épingle du jeu en affichant une croissance de 8 % de sa demande internationale, juste derrière l'Amérique latine qui progresse de 8,2 %. Néanmoins, l'offre de sièges sur le continent a progressé plus rapidement, de 8,8 %, ce qui a conduit à une diminution de 0,6 point du coefficient de remplissage pour s'établir à 74,8 %.",
+    "À l'échelle internationale, l'Europe progresse de 1,8 % avec un taux d'occupation de 86,1 %, tandis que l'Asie-Pacifique gagne 0,7 % et que le Moyen-Orient recule de 7,5 %. Pour les prochains mois, l'IATA anticipe des capacités supérieures à celles de 2025, bien que la croissance reste inégale en raison des incertitudes géopolitiques et du coût du carburant."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65851",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-19T17:46:00Z",
+   "writtenAt": "2026-11-19T18:00:58.117Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/transport-aerien-alors-que-la-demande-mondiale-de-passagers-recule-de-0-5-en-septembre-lafrique-affiche-une-croissance-de-8_65851",
+    "title": "Transport aérien : Alors que la demande mondiale de passagers recule de 0,5% en septembre, l’Afrique affiche une croissance de 8%"
+   },
+   "rewritten": true
+  },
   {
    "id": "sika-65849",
    "title": "Lancement de SIREXE Invest pour dynamiser le financement des projets énergétiques",
@@ -3715,30 +3740,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/brvm-semaine-44-smb-ci-triomphe-dans-un-marche-globalement-baissier_65579",
     "title": "BRVM / Semaine 44 : SMB CI triomphe dans un marché globalement baissier"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65578",
-   "title": "Wave reçoit l'African Disrupter Award lors de l'édition 2026 de l'AFIS",
-   "summary": "La fintech Wave Mobile Money a été distinguée par le prix « African Disrupter Award » à Luanda, saluant son rôle majeur dans l'inclusion financière et la simplification des services numériques en Afrique.",
-   "body": [
-    "Lors de l'Africa Financial Summit (AFIS) qui s'est déroulé à Luanda en Angola, Wave Mobile Money a été récompensé par l'African Disrupter Award. Ce prix met à l'honneur les entreprises dont les solutions innovantes transforment les modèles de marché traditionnels tout en générant un impact social significatif.",
-    "Présente dans 11 pays avec plus de 25 millions d'utilisateurs actifs, l'entreprise a profité de cet événement pour dialoguer avec les régulateurs et les acteurs du secteur. Les échanges ont notamment porté sur l'accès des femmes au crédit, la régulation des stablecoins, la traçabilité des paiements et le renforcement de la confiance dans les systèmes financiers numériques."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65578",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-09T09:06:00Z",
-   "writtenAt": "2026-11-09T09:52:04.039Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/wave-remporte-lafrican-disrupter-award-a-lafis-2026-une-distinction-qui-met-en-lumiere-sa-contribution-a-linclusion-financiere-en-afrique_65578",
-    "title": "Wave remporte l’African Disrupter Award à l’AFIS 2026, une distinction qui met en lumière sa contribution à l’inclusion financière en Afrique"
    },
    "rewritten": true
   }
