@@ -1,15 +1,15 @@
 {
- "updatedAt": "2026-11-19T14:15:15.384Z",
+ "updatedAt": "2026-11-19T14:30:16.634Z",
  "sessionDate": "2026-11-19",
- "sessionTime": "14:03",
+ "sessionTime": "14:15",
  "source": "brvm.org",
- "transactionsValue": 11074772029,
- "capitalisationActions": 19235466536482,
+ "transactionsValue": 11084262729,
+ "capitalisationActions": 19271540429204,
  "capitalisationBonds": 13415470648635,
  "advancing": 5,
- "declining": 37,
- "unchanged": 6,
- "totalVolume": 2132092,
+ "declining": 35,
+ "unchanged": 8,
+ "totalVolume": 2137653,
  "gainers": [
   {
    "symbol": "STAC",
@@ -95,9 +95,9 @@
   {
    "symbol": "SIBC",
    "shortName": "Société Ivoirienne de Banque",
-   "close": 8350,
-   "change": -0.6,
-   "volume": 14547
+   "close": 8400,
+   "change": 0,
+   "volume": 14808
   },
   {
    "symbol": "ORAC",
@@ -109,9 +109,9 @@
   {
    "symbol": "ETIT",
    "shortName": "Ecobank Transnational (ETI)",
-   "close": 56,
-   "change": -1.75,
-   "volume": 1826323
+   "close": 57,
+   "change": 0,
+   "volume": 1830723
   },
   {
    "symbol": "SMBC",
