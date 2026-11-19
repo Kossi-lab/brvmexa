@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-19T17:19:19.499Z",
+ "updatedAt": "2026-11-19T17:31:47.679Z",
  "items": [
+  {
+   "id": "sika-65849",
+   "title": "SIREXE 2026 : Sangafowa-Coulibaly lance ''SIREXE Invest'' pour rapprocher projets et capitaux",
+   "summary": "La plateforme met en relation des porteurs de projets miniers, pétroliers et énergétiques avec des investisseurs. Pour ...",
+   "url": "https://www.sikafinance.com/marches/sirexe-2026-sangafowa-coulibaly-lance--sirexe-invest--pour-rapprocher-projets-et-capitaux_65849",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-19T17:03:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65848",
    "title": "BRVM : Les 500 points cèdent face à un marché hésitant",
@@ -4307,20 +4321,6 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-10-27T18:14:00Z",
-   "symbols": [],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "sika-65292",
-   "title": "Ghana : Avec 3,5 millions USD collectés en août, Accra durcit le recouvrement des loyers fonciers",
-   "summary": "Au Ghana, la modernisation de la gestion foncière s'accompagne d'un tour de vis contre les mauvais payeurs. La Commissi...",
-   "url": "https://www.sikafinance.com/marches/ghana-avec-3-5-millions-usd-collectes-en-aout-accra-durcit-le-recouvrement-des-loyers-fonciers_65292",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-27T18:11:00Z",
    "symbols": [],
    "status": "new",
    "tries": 0

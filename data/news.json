@@ -1,6 +1,30 @@
 {
- "updatedAt": "2026-11-19T17:19:19.501Z",
+ "updatedAt": "2026-11-19T17:31:47.681Z",
  "items": [
+  {
+   "id": "sika-65849",
+   "title": "Lancement de SIREXE Invest pour dynamiser le financement des projets énergétiques",
+   "summary": "Le ministre ivoirien Mamadou Sangafowa-Coulibaly a inauguré SIREXE Invest, une plateforme dédiée à la mise en relation entre investisseurs et porteurs de projets miniers, pétroliers et énergétiques.",
+   "body": [
+    "Dévoilé le 19 novembre 2026 à Abidjan, ce dispositif vise à lever les freins à l'investissement en améliorant la transparence et la documentation des dossiers. Pour cette première édition, 54 rencontres d'affaires sont prévues, ciblant exclusivement des initiatives issues de Côte d'Ivoire et du Botswana.",
+    "La plateforme offre un espace sécurisé où les promoteurs contrôlent l'accès à leurs données confidentielles. L'objectif est d'adapter les solutions de financement, qu'il s'agisse de prêts ou de partenariats, aux besoins spécifiques de chaque projet. Le service restera opérationnel après l'événement pour assurer un suivi des échanges et accompagner les entreprises locales dans leur développement."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65849",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-19T17:03:00Z",
+   "writtenAt": "2026-11-19T17:31:47.677Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/sirexe-2026-sangafowa-coulibaly-lance--sirexe-invest--pour-rapprocher-projets-et-capitaux_65849",
+    "title": "SIREXE 2026 : Sangafowa-Coulibaly lance ''SIREXE Invest'' pour rapprocher projets et capitaux"
+   },
+   "rewritten": true
+  },
   {
    "id": "sika-65848",
    "title": "La BRVM repasse sous la barre des 500 points dans un marché sous pression",
@@ -3715,31 +3739,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/wave-remporte-lafrican-disrupter-award-a-lafis-2026-une-distinction-qui-met-en-lumiere-sa-contribution-a-linclusion-financiere-en-afrique_65578",
     "title": "Wave remporte l’African Disrupter Award à l’AFIS 2026, une distinction qui met en lumière sa contribution à l’inclusion financière en Afrique"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65576",
-   "title": "Sénégal : Incertitudes budgétaires après le rejet de la loi de finances 2027",
-   "summary": "Le projet de loi de finances 2027 et les budgets ministériels ont été rejetés par la Commission des finances, fragilisant la trajectoire économique du Sénégal.",
-   "body": [
-    "Le 7 novembre 2026, la Commission des finances et du contrôle budgétaire de l'Assemblée nationale sénégalaise a rejeté l'intégralité des projets de budget soumis à son examen. Cette décision, actée sous la présidence d'Alphonse Sambou, entraîne automatiquement le blocage de la loi de finances initiale pour 2027 ainsi que des budgets de divers départements ministériels et institutions, dont la Présidence et la Primature.",
-    "Les parlementaires justifient ce vote par un manque de sincérité dans les projections budgétaires et une incohérence des chiffres présentés. Selon M. Sambou, le texte de 2027 étant adossé à une loi de finances rectificative 2026 préalablement rejetée, une révision complète est nécessaire avant toute poursuite des débats.",
-    "De son côté, le ministre de l'Économie, des Finances, du Budget et du Plan, Cheikh Diba, défend une stratégie de consolidation budgétaire visant à ramener le déficit de 7,6 % à 4,7 % du PIB. Malgré les critiques, le Gouvernement soutient que ces choix souverains visent à réduire l'endettement et à dégager des marges de manœuvre pour financer des secteurs prioritaires comme la santé, l'éducation et les infrastructures."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65576",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-09T08:52:00Z",
-   "writtenAt": "2026-11-09T09:11:12.866Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/senegal-fortes-menaces-sur-la-loi-de-finances-2027-apres-le-rejet-de-la-loi-de-finances-rectificative-2026_65576",
-    "title": "Sénégal : Fortes menaces sur la Loi de finances 2027, après le rejet de la Loi de finances rectificative 2026"
    },
    "rewritten": true
   }
