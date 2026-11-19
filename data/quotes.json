@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-11-19T15:00:20.296Z",
+ "updatedAt": "2026-11-19T15:15:12.993Z",
  "sessionDate": "2026-11-19",
- "sessionTime": "14:45",
+ "sessionTime": "15:02",
  "source": "brvm.org",
  "items": [
   {
@@ -202,7 +202,7 @@
   {
    "symbol": "CFAC",
    "name": "CFAO MOTORS COTE D'IVOIRE",
-   "volume": 2236,
+   "volume": 2238,
    "prevClose": 1245,
    "refPrice": 1170,
    "open": 1245,

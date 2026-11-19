@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-19T15:00:59.587Z",
+ "updatedAt": "2026-11-19T15:15:21.797Z",
  "items": [
+  {
+   "id": "sika-65842",
+   "title": "Côte d’Ivoire : La BAD finance à hauteur de 20 millions d’euros une usine de ciment à faible empreinte carbone",
+   "summary": "La Côte d'Ivoire entend renforcer sa production locale de ciment tout en réduisant son recours au clinker importé...",
+   "url": "https://www.sikafinance.com/marches/cote-divoire-la-bad-finance-a-hauteur-de-20-millions-deuros-une-usine-de-ciment-a-faible-empreinte-carbone_65842",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-19T15:04:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65840",
    "title": "Afrique : La BAD mobilise ses financements pour renforcer la protection contre les catastrophes climatiques",
@@ -4310,20 +4324,6 @@
    "symbols": [
     "SDCC"
    ],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "sika-65283",
-   "title": "Energie solaire hors réseau : 11,4 milliards USD pour électrifier des centaines de millions de personnes d'ici 2030",
-   "summary": "L'électricité solaire peut éclairer des centaines de millions de foyers sans attendre l'extension des réseaux nationaux...",
-   "url": "https://www.sikafinance.com/marches/energie-solaire-hors-reseau-11-4-milliards-usd-pour-electrifier-des-centaines-de-millions-de-personnes-d-ici-2030_65283",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": true,
-   "publishedAt": "2026-10-27T15:39:00Z",
-   "symbols": [],
    "status": "new",
    "tries": 0
   }
