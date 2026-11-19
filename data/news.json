@@ -1,6 +1,30 @@
 {
- "updatedAt": "2026-11-19T15:45:32.338Z",
+ "updatedAt": "2026-11-19T16:00:36.132Z",
  "items": [
+  {
+   "id": "sika-65845",
+   "title": "Le Togo injecte 34 milliards FCFA pour stabiliser les prix des carburants",
+   "summary": "Pour contrer l'envolée des cours pétroliers, le gouvernement togolais accroît ses subventions afin de protéger le pouvoir d'achat et limiter l'inflation sur les coûts de production.",
+   "body": [
+    "Dans le cadre d'un collectif budgétaire, l'État togolais a décidé de renforcer son soutien aux produits pétroliers. L'enveloppe dédiée aux subventions est ainsi rehaussée de 20 milliards FCFA, passant de 14,2 milliards à 34,2 milliards FCFA. Cette mesure vise à atténuer l'impact de la hausse des cours mondiaux du pétrole sur les tarifs à la pompe, mais aussi sur les coûts logistiques et industriels.",
+    "Cet effort financier pèse toutefois sur les comptes publics. Le déficit budgétaire pour l'année 2026 est désormais projeté à 3,4 % du PIB, soit une progression de 0,4 point par rapport aux prévisions initiales de 3 %. Ce choix reflète la volonté des autorités de privilégier la stabilité économique et la protection des ménages face aux fluctuations des marchés énergétiques internationaux."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65845",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-19T15:47:00Z",
+   "writtenAt": "2026-11-19T16:00:36.130Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/togo-letat-porte-a-34-milliards-fcfa-les-subventions-aux-carburants-pour-limiter-la-hausse-des-prix-a-la-pompe_65845",
+    "title": "Togo : L’État porte à 34 milliards FCFA les subventions aux carburants pour limiter la hausse des prix à la pompe"
+   },
+   "rewritten": true
+  },
   {
    "id": "sika-65842",
    "title": "La BAD soutient la construction d'une cimenterie bas carbone en Côte d'Ivoire",
@@ -3708,30 +3732,6 @@
     "name": "Energies Media",
     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVVRKdzF1M2llaXlFWTZRMldDYUxUMzlELVgxUXFybHotcndSUHBBcUkzcERtNXdyXzN0akZnLXkwdUxTM0NDVWk3T2stUV9mRGRhN2hwSGd4ZjhuMU1rSDRHaHY1WXA2ZXVnTWdxOGN4YzBjanExOXhSY1lvWG1aNGZ4Q0tjZWY3QmdLV2JsS052dWtuSURSaXQxWnU2Q3BqTUVZT05BMHMtdzhUZFFUVkdmNkxYbmcxZFNTMFZ0RjVrOFhydkJYLVNUOUpId1k?oc=5",
     "title": "Afrique : la BRVM et d'autres bourses du continent sollicitées pour élargir l'accès à l'IPO de Dangote Refinery"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65565",
-   "title": "Alios Finance Cameroun mobilise 13 milliards FCFA sur le marché obligataire de la CEMAC",
-   "summary": "L'établissement financier a finalisé avec succès son opération de levée de fonds par appel public à l'épargne, bénéficiant du soutien de la Société financière internationale.",
-   "body": [
-    "L'entreprise Alios Finance Cameroun a annoncé, ce 6 novembre 2026, la clôture réussie de son emprunt obligataire. Cette opération financière, réalisée par appel public à l'épargne, a permis de collecter un montant total de 13 milliards de francs CFA.",
-    "La Société financière internationale (SFI) a joué un rôle déterminant dans cette transaction en intervenant en tant qu'investisseur de référence. Ce financement a été orchestré sur le marché obligataire de la zone CEMAC."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65565",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-06T17:51:00Z",
-   "writtenAt": "2026-11-06T18:52:38.846Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/alios-finance-cameroun-boucle-une-levee-de-13-milliards-fcfa-avec-sfi-comme-investisseur-de-reference-sur-le-marche-obligataire-de-la-cemac_65565",
-    "title": "Alios Finance Cameroun boucle une levée de 13 milliards FCFA avec SFI comme investisseur de référence sur le marché obligataire de la CEMAC"
    },
    "rewritten": true
   }

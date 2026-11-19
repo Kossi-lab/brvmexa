@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-19T15:45:32.336Z",
+ "updatedAt": "2026-11-19T16:00:36.131Z",
  "items": [
+  {
+   "id": "sika-65845",
+   "title": "Togo : L’État porte à 34 milliards FCFA les subventions aux carburants pour limiter la hausse des prix à la pompe",
+   "summary": "Face à la hausse des cours pétroliers, le Togo desserre les cordons de la bourse pour préserver le pouvoir d'achat des ...",
+   "url": "https://www.sikafinance.com/marches/togo-letat-porte-a-34-milliards-fcfa-les-subventions-aux-carburants-pour-limiter-la-hausse-des-prix-a-la-pompe_65845",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-19T15:47:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65842",
    "title": "Côte d’Ivoire : La BAD finance à hauteur de 12 milliards FCFA une usine de ciment à faible empreinte carbone",
@@ -4308,22 +4322,6 @@
    "premium": false,
    "publishedAt": "2026-10-27T17:10:00Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "sika-65287",
-   "title": "BRVM : SODECI et CIE signent une percée de plus de 7 % dans un marché baissier",
-   "summary": "La BRVM marque une pause après l'élan haussier de la veille. Les trois principaux indices terminent la séance dans le r...",
-   "url": "https://www.sikafinance.com/marches/brvm-sodeci-et-cie-signent-une-percee-de-plus-de-7-dans-un-marche-baissier_65287",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-27T16:17:00Z",
-   "symbols": [
-    "SDCC"
-   ],
    "status": "new",
    "tries": 0
   }
