@@ -1,22 +1,22 @@
 {
- "updatedAt": "2026-11-19T12:00:18.332Z",
+ "updatedAt": "2026-11-19T12:15:17.652Z",
  "sessionDate": "2026-11-19",
- "sessionTime": "11:45",
+ "sessionTime": "12:02",
  "source": "brvm.org",
- "transactionsValue": 10014606542,
- "capitalisationActions": 19460481708905,
+ "transactionsValue": 10058749507,
+ "capitalisationActions": 19400700863383,
  "capitalisationBonds": 13419431653242,
- "advancing": 3,
- "declining": 37,
+ "advancing": 2,
+ "declining": 38,
  "unchanged": 8,
- "totalVolume": 664231,
+ "totalVolume": 767870,
  "gainers": [
   {
    "symbol": "STAC",
    "shortName": "SETAO CI",
    "close": 2000,
    "change": 3.36,
-   "volume": 701
+   "volume": 1151
   },
   {
    "symbol": "ORAC",
@@ -24,13 +24,6 @@
    "close": 19490,
    "change": 2.58,
    "volume": 453
-  },
-  {
-   "symbol": "SIBC",
-   "shortName": "Société Ivoirienne de Banque",
-   "close": 8500,
-   "change": 1.19,
-   "volume": 8865
   }
  ],
  "losers": [
@@ -46,28 +39,28 @@
    "shortName": "Uniwax CI",
    "close": 1605,
    "change": -7.49,
-   "volume": 4531
+   "volume": 4555
+  },
+  {
+   "symbol": "SAFC",
+   "shortName": "SAFCA CI",
+   "close": 3245,
+   "change": -7.42,
+   "volume": 1457
   },
   {
    "symbol": "SDSC",
    "shortName": "Africa Global Logistics CI",
    "close": 2500,
    "change": -7.41,
-   "volume": 2880
-  },
-  {
-   "symbol": "SAFC",
-   "shortName": "SAFCA CI",
-   "close": 3250,
-   "change": -7.28,
-   "volume": 1452
+   "volume": 3110
   },
   {
    "symbol": "SCRC",
    "shortName": "Sucrivoire CI",
    "close": 1285,
    "change": -7.22,
-   "volume": 10917
+   "volume": 10990
   }
  ],
  "mostActive": [
@@ -76,35 +69,35 @@
    "shortName": "Sonatel",
    "close": 4090,
    "change": -0.24,
-   "volume": 57846
+   "volume": 60757
   },
   {
    "symbol": "SIBC",
    "shortName": "Société Ivoirienne de Banque",
-   "close": 8500,
-   "change": 1.19,
-   "volume": 8865
+   "close": 8350,
+   "change": -0.6,
+   "volume": 9066
+  },
+  {
+   "symbol": "SGBC",
+   "shortName": "Société Générale CI",
+   "close": 38500,
+   "change": -1.16,
+   "volume": 1108
   },
   {
    "symbol": "BBGC",
    "shortName": "Bridge Bank Group CI",
    "close": 8505,
    "change": -2.24,
-   "volume": 4639
-  },
-  {
-   "symbol": "SGBC",
-   "shortName": "Société Générale CI",
-   "close": 38525,
-   "change": -1.09,
-   "volume": 936
+   "volume": 4968
   },
   {
    "symbol": "BICB",
    "shortName": "BIIC Bénin",
-   "close": 7900,
-   "change": -1.19,
-   "volume": 4485
+   "close": 7850,
+   "change": -1.81,
+   "volume": 4650
   }
  ]
 }
