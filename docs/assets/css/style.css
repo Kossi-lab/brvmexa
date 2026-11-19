@@ -1610,3 +1610,32 @@ html.dv-open { overflow: hidden; }
   .bk-cta .btn { flex: 1 1 100%; justify-content: center; text-align: center; }
   .bk-author { flex-direction: column; align-items: flex-start; }
 }
+
+/* ═══════ Actualités : « À la une » du jour ═══════ */
+.une { position: relative; display: grid; grid-template-columns: 1.6fr 1fr; gap: 0; margin: 0 0 34px; border-radius: 22px; overflow: hidden; border: 1px solid rgba(242, 179, 61, .3);
+  background: radial-gradient(70% 120% at 0% 0%, rgba(242, 179, 61, .14), transparent 60%), radial-gradient(60% 90% at 100% 100%, rgba(22, 196, 127, .12), transparent 70%), var(--bg-2);
+  animation: uneIn .8s cubic-bezier(.2, .8, .2, 1) both; }
+@keyframes uneIn { from { opacity: 0; transform: translateY(16px); } to { opacity: 1; transform: none; } }
+.une::before { content: ''; position: absolute; left: 0; top: 0; bottom: 0; width: 5px; background: linear-gradient(180deg, #F2B33D, #16C47F); }
+.une-main { padding: 30px 34px 30px 38px; }
+.une-kick { display: flex; align-items: center; gap: 12px; margin: 0 0 14px; font-size: .78rem; font-weight: 800; letter-spacing: .14em; text-transform: uppercase; color: var(--sec); }
+.une-kick span { background: #F2B33D; color: #0A0F1A; border-radius: 6px; padding: 4px 10px; letter-spacing: .12em; }
+.une h2 { font-size: clamp(1.5rem, 3vw, 2.15rem); line-height: 1.15; margin: 0 0 12px; }
+.une h2 a { color: var(--text); text-decoration: none; background: linear-gradient(currentColor, currentColor) 0 100% / 0 2px no-repeat; transition: background-size .4s ease; }
+.une h2 a:hover { background-size: 100% 2px; }
+.une-lead { color: var(--sec); font-size: 1.05rem; line-height: 1.6; margin: 0 0 16px; }
+.une-meta { display: flex; align-items: center; gap: 8px; color: var(--muted); font-size: .85rem; margin: 0 0 18px; }
+.une-meta svg { width: 20px; height: 20px; }
+.une-side { padding: 30px 30px; background: rgba(10, 15, 26, .45); border-left: 1px solid var(--border); }
+.une-side b, .une-points b { display: block; font-size: .78rem; font-weight: 800; letter-spacing: .14em; text-transform: uppercase; color: #F2B33D; margin-bottom: 12px; }
+.une-side ol { counter-reset: u; list-style: none; padding: 0; margin: 0; display: grid; gap: 14px; }
+.une-side li { counter-increment: u; display: flex; gap: 12px; color: var(--text); font-size: .95rem; line-height: 1.45; }
+.une-side li::before { content: counter(u); flex: none; width: 26px; height: 26px; border-radius: 8px; display: grid; place-items: center; font-weight: 800; font-size: .85rem; color: #0A0F1A; background: #16C47F; }
+.nx-reader--une .nx-dialog { max-width: 760px; }
+.nx-reader--une h3 { font-size: 1.2rem; margin: 26px 0 8px; }
+.une-points { margin: 18px 0 8px; padding: 16px 18px; border-radius: 14px; background: var(--surface-2); border-left: 4px solid #F2B33D; }
+.une-points ul { margin: 0; padding-left: 18px; display: grid; gap: 6px; }
+.une-cited { margin: 24px 0 8px; font-size: .78rem; font-weight: 800; letter-spacing: .12em; text-transform: uppercase; color: var(--sec); }
+.une-src { margin-top: 18px; font-size: .82rem; color: var(--muted); }
+@media (max-width: 860px) { .une { grid-template-columns: 1fr; } .une-side { border-left: 0; border-top: 1px solid var(--border); } .une-main { padding: 24px 22px 24px 26px; } .une-side { padding: 22px 26px; } }
+@media (prefers-reduced-motion: reduce) { .une { animation: none; } }

@@ -39,17 +39,17 @@ async function geminiModels(key) {
   return ok;
 }
 
-async function callGemini(model, source, key) {
+async function callGemini(model, source, key, prompt = PROMPT) {
   let res;
   try {
     res = await fetch(GEM_API, {
     method: 'POST',
-    signal: AbortSignal.timeout(45000),
+    signal: AbortSignal.timeout(90000),
     headers: { 'content-type': 'application/json', authorization: `Bearer ${key}` },
     body: JSON.stringify({
       model,
       temperature: 0.4,
-      messages: [{ role: 'system', content: PROMPT }, { role: 'user', content: source }],
+      messages: [{ role: 'system', content: prompt }, { role: 'user', content: source }],
     }),
     });
   } catch (e) { return { error: `${model} : ${e.name === 'TimeoutError' ? 'trop lent' : e.message}` }; }
@@ -60,9 +60,9 @@ async function callGemini(model, source, key) {
   try { return { text: JSON.parse(raw).choices?.[0]?.message?.content ?? '' }; } catch { return { error: `${model} : réponse illisible ${raw.slice(0, 200)}` }; }
 }
 
-async function askGemini(source, key) {
+export async function askGemini(source, key, prompt = PROMPT) {
   if (gemPicked) {
-    const r = await callGemini(gemPicked, source, key);
+    const r = await callGemini(gemPicked, source, key, prompt);
     if (r.text != null) return r.text;
     gemPicked = null;
   }
@@ -71,7 +71,7 @@ async function askGemini(source, key) {
   for (const list of lists) {
     const models = list ?? (await geminiModels(key)).filter((m) => !GEM_MODELS.includes(m)).slice(0, 4);
     for (const model of models) {
-      const r = await callGemini(model, source, key);
+      const r = await callGemini(model, source, key, prompt);
       if (r.text != null) { gemPicked = model; console.log('Modèle Gemini utilisé :', model); return r.text; }
       tried.push(r.error);
     }
@@ -133,15 +133,15 @@ export async function rewriteItem(item, text, w) {
   return { title, summary: clean(r.summary) || null, body };
 }
 
-async function askAnthropic(content, key) {
+export async function askAnthropic(content, key, prompt = PROMPT, maxTokens = 1500) {
   const res = await fetch(API, {
     method: 'POST',
     signal: AbortSignal.timeout(60000),
     headers: { 'content-type': 'application/json', 'x-api-key': key, 'anthropic-version': '2023-06-01' },
     body: JSON.stringify({
       model: MODEL,
-      max_tokens: 1500,
-      system: PROMPT,
+      max_tokens: maxTokens,
+      system: prompt,
       messages: [{ role: 'user', content }],
     }),
   });

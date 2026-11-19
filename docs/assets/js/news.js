@@ -108,9 +108,64 @@
         }
         draw();
       });
+      // ───── À la une : l'article de fond du jour (une.json), sur la page Actualités ─────
+      var une = null;
+      var day = function (iso) {
+        try { return new Date(iso + 'T12:00:00Z').toLocaleDateString('fr-FR', { weekday: 'long', day: 'numeric', month: 'long', timeZone: 'Africa/Abidjan' }); } catch (e) { return iso; }
+      };
+      var openUne = function () {
+        if (!une) return;
+        closeReader(true);
+        lastFocus = document.activeElement;
+        var tags = (une.symbols || []).map(function (s) { return '<a class="tag" href="../fondamentaux/#' + encodeURIComponent(s) + '">' + esc(s) + '</a>'; }).join('');
+        reader = document.createElement('div');
+        reader.className = 'nx-reader nx-reader--une';
+        reader.innerHTML = '<div class="nx-dialog" role="dialog" aria-modal="true" aria-labelledby="nx-title" tabindex="-1">' +
+          '<button type="button" class="nx-close" aria-label="Fermer l’article">×</button>' +
+          '<p class="nx-cat une-kick">À la une · ' + esc(day(une.date)) + '</p>' +
+          '<h2 id="nx-title">' + esc(une.title) + '</h2>' +
+          '<p class="nx-meta"><span class="nx-author">' + mark + esc(une.author) + '</span><span>' + esc(une.readMinutes) + ' min de lecture</span></p>' +
+          (une.summary ? '<p class="nx-lead">' + esc(une.summary) + '</p>' : '') +
+          ((une.points || []).length ? '<aside class="une-points"><b>L’essentiel</b><ul>' + une.points.map(function (p) { return '<li>' + esc(p) + '</li>'; }).join('') + '</ul></aside>' : '') +
+          (une.sections || []).map(function (x) { return '<h3>' + esc(x.h) + '</h3>' + (x.p || []).map(function (p) { return '<p>' + esc(p) + '</p>'; }).join(''); }).join('') +
+          (tags ? '<p class="une-cited">Sociétés citées</p><div class="tags">' + tags + '</div>' : '') +
+          (une.origin && une.origin.url ? '<p class="une-src">Article rédigé par BRVMexa d’après <a href="' + esc(safeUrl(une.origin.url)) + '" target="_blank" rel="noopener">' + esc(une.origin.name || 'la source') + '</a>.</p>' : '') +
+          '</div>';
+        document.body.appendChild(reader);
+        document.body.classList.add('nx-open');
+        reader.addEventListener('click', function (e) { if (e.target === reader || e.target.closest('.nx-close')) closeReader(); });
+        reader.querySelector('.nx-dialog').focus();
+        if (history.replaceState) history.replaceState(null, '', '#a-la-une');
+      };
+      var uneBox = document.querySelector('[data-bx-news-filter]') ? document.querySelector('[data-bx-news]') : null;
+      if (uneBox) {
+        fetch(base + '/une.json?t=' + Math.floor(Date.now() / 300000), { cache: 'no-cache' })
+          .then(function (r) { if (!r.ok) throw new Error(); return r.json(); })
+          .then(function (u) {
+            if (!u || !u.title || !u.sections) return;
+            une = u;
+            var card = document.createElement('section');
+            card.className = 'une';
+            card.setAttribute('aria-label', 'À la une');
+            card.innerHTML = '<div class="une-main"><p class="une-kick"><span>À la une</span>' + esc(day(u.date)) + '</p>' +
+              '<h2><a href="#a-la-une" data-une>' + esc(u.title) + '</a></h2>' +
+              (u.summary ? '<p class="une-lead">' + esc(u.summary) + '</p>' : '') +
+              '<p class="une-meta">' + mark + '<span>' + esc(u.author) + ' · ' + esc(u.readMinutes) + ' min de lecture</span></p>' +
+              '<a class="btn btn--primary une-btn" href="#a-la-une" data-une>Lire l’article complet</a></div>' +
+              ((u.points || []).length ? '<aside class="une-side"><b>L’essentiel</b><ol>' + u.points.map(function (p) { return '<li>' + esc(p) + '</li>'; }).join('') + '</ol></aside>' : '');
+            uneBox.parentNode.insertBefore(card, uneBox);
+            if (decodeURIComponent((location.hash || '').slice(1)) === 'a-la-une') openUne();
+          })
+          .catch(function () { /* pas d’article à la une aujourd’hui */ });
+        document.addEventListener('click', function (e) {
+          var a = e.target.closest && e.target.closest('[data-une]');
+          if (!a) return;
+          e.preventDefault(); openUne();
+        });
+      }
       var fromHash = function () {
         var h = decodeURIComponent((location.hash || '').slice(1));
-        if (h && byId[h] && byId[h].rewritten) { if (!reader) openReader(byId[h]); } else if (reader) closeReader(true);
+        if (h === 'a-la-une') { if (une && !reader) openUne(); } else if (h && byId[h] && byId[h].rewritten) { if (!reader) openReader(byId[h]); } else if (reader) closeReader(true);
       };
       window.addEventListener('hashchange', fromHash);
       fromHash();

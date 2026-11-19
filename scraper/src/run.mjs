@@ -13,6 +13,7 @@ import { readHistory, writeHistory, ensureHistory } from './history.mjs';
 import { updateDividends } from './dividends.mjs';
 import { writePerformance } from './performance.mjs';
 import { rewriteItem, extractArticle, writer, QuotaError, PAUSE_MS, AUTHOR } from './rewrite.mjs';
+import { updateUne } from './une.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..', '..');
 const DATA = process.env.DATA_DIR ?? path.join(ROOT, 'data');
@@ -259,6 +260,9 @@ async function main() {
   const errors = [];
   if (only !== 'news') await updateMarket().catch((e) => errors.push(`Cours : ${e.message}`));
   if (only !== 'market') await updateNews().catch((e) => errors.push(`Actualités : ${e.message}`));
+  // À la une : erreur non bloquante (nouvel essai au passage suivant)
+  if (only !== 'market') await updateUne({ dataDir: DATA, w: writer(), fetchText, log, force: process.env.UNE_FORCE === '1' })
+    .catch((e) => log('À la une : rédaction reportée :', e.message));
   await writeJson(path.join(DATA, 'status.json'), {
     lastRun: new Date().toISOString(),
     ok: errors.length === 0,
