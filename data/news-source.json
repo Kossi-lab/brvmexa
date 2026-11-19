@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-19T16:45:36.311Z",
+ "updatedAt": "2026-11-19T17:00:29.502Z",
  "items": [
+  {
+   "id": "sika-65848",
+   "title": "BRVM : Les 500 points cèdent face à un marché hésitant",
+   "summary": "La BRVM a nettement décroché ce jeudi, dans le prolongement d'une tendance baissière déjà installée depuis plusieurs se...",
+   "url": "https://www.sikafinance.com/marches/brvm-les-500-points-cedent-face-a-un-marche-hesitant_65848",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-19T16:49:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65847",
    "title": "BGFIBank Côte d’Ivoire mobilise 100 millions d’euros pour financer la campagne cacao",
@@ -4307,20 +4321,6 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-10-27T18:11:00Z",
-   "symbols": [],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "sika-65291",
-   "title": "L’AFC et Munich Re mobilisent 1 milliard USD pour accélérer le financement du commerce africain",
-   "summary": "Alors que les besoins de financement du commerce africain se heurtent aux contraintes de liquidité et de risque des ban...",
-   "url": "https://www.sikafinance.com/marches/lafc-et-munich-re-mobilisent-1-milliard-usd-pour-accelerer-le-financement-du-commerce-africain_65291",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-27T17:28:00Z",
    "symbols": [],
    "status": "new",
    "tries": 0

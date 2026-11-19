@@ -1,6 +1,38 @@
 {
- "updatedAt": "2026-11-19T16:45:36.313Z",
+ "updatedAt": "2026-11-19T17:00:29.505Z",
  "items": [
+  {
+   "id": "sika-65848",
+   "title": "La BRVM repasse sous la barre des 500 points dans un marché sous pression",
+   "summary": "La Bourse régionale a connu une séance de repli marquée ce jeudi, entraînant ses principaux indices sous des seuils symboliques dans un contexte de ventes généralisées.",
+   "body": [
+    "La tendance baissière observée ces dernières semaines s'est accentuée ce jeudi 19 novembre. Le BRVM-Composite a chuté de 1,40 % pour s'établir à 493,95 points, repassant ainsi sous le seuil des 500 points atteint mi-août. Cette dynamique négative a également touché le BRVM-30, en baisse de 1,51 % à 239,43 points, et le BRVM-Prestige, qui a reculé de 0,60 % à 186,66 points. Au total, 36 titres ont terminé dans le rouge contre seulement 5 en progression.",
+    "Plusieurs facteurs expliquent ce repli, notamment des arbitrages réalisés par les investisseurs en vue des prochaines introductions en Bourse de Coris Bank International Côte d'Ivoire et Bénin. Le titre Coris Bank International BF a particulièrement pesé sur la capitalisation globale en perdant 6,33 % à 28 850 FCFA, une baisse qui a soustrait 62,4 milliards FCFA au marché. Alios Finance CI et Sucrivoire CI ont également subi de lourdes corrections, affichant respectivement des reculs de 7,42 % et 7,22 %.",
+    "Malgré une tendance vendeuse dominante, quelques valeurs ont réussi à tirer leur épingle du jeu, à l'image de SETAO CI qui a progressé de 7,49 %, suivie par SMB CI (+4,29 %) et Nestlé CI (+3,20 %). Le volume des échanges s'est élevé à 1,82 milliard FCFA, dont près d'un tiers a été concentré sur le titre Sonatel Sénégal, illustrant une activité boursière restée très ciblée malgré la baisse généralisée des cours."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65848",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-19T16:49:00Z",
+   "writtenAt": "2026-11-19T17:00:29.502Z",
+   "symbols": [
+    "CBIBF",
+    "NTLC",
+    "SCRC",
+    "SMBC",
+    "SNTS",
+    "STAC"
+   ],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/brvm-les-500-points-cedent-face-a-un-marche-hesitant_65848",
+    "title": "BRVM : Les 500 points cèdent face à un marché hésitant"
+   },
+   "rewritten": true
+  },
   {
    "id": "sika-65847",
    "title": "BGFIBank Côte d'Ivoire sécurise 100 millions d'euros pour la filière cacao",
@@ -3708,30 +3740,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/senegal-fortes-menaces-sur-la-loi-de-finances-2027-apres-le-rejet-de-la-loi-de-finances-rectificative-2026_65576",
     "title": "Sénégal : Fortes menaces sur la Loi de finances 2027, après le rejet de la Loi de finances rectificative 2026"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "gn-p0qidn",
-   "title": "Bio Tchané appelle à une accélération de la dynamique de la BRVM",
-   "summary": "Lors du Capital Reach Forum, Bio Tchané a souligné la nécessité pour la Bourse régionale des valeurs mobilières de franchir une nouvelle étape dans son développement.",
-   "body": [
-    "À l'occasion du Capital Reach Forum qui s'est tenu le 7 novembre 2026, Bio Tchané a pris la parole pour évoquer l'avenir du marché financier régional. Il a notamment insisté sur l'impératif pour la BRVM d'intensifier sa croissance.",
-    "Cette intervention met en lumière les attentes liées à la montée en puissance de la place boursière ouest-africaine dans le paysage économique actuel."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#gn-p0qidn",
-   "image": null,
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-11-07T13:54:47.000Z",
-   "writtenAt": "2026-11-07T16:48:33.132Z",
-   "symbols": [],
-   "origin": {
-    "name": "Banouto.bj",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOam03SGo0aERGdFpQa3o0UGw5eHprRXc2YlhyOHgyUDY2X2RiQjh4Wi1JS2Rpd3EtODlqSmtJVkM1NXRmVFc4SzdZd2UtUzJpVlRiLWtDN0Y5VlByQklKc0t1OUFzTFR4Vm9qSG5PODNydlkzdTdmcnI4WUZ3MVY0Y19UYU5lU25zSS1NWTFCTHlUOE44UE1PLXRaQlBlZmI4aHJuVkdfNnQyU09LSE40NzJRT0JlN2tTMF9zZFhxRUtESlRCQ1pn?oc=5",
-    "title": "Capital Reach Forum : pour Bio Tchané la BRVM doit passer à la vitesse supérieure"
    },
    "rewritten": true
   }
