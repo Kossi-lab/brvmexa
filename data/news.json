@@ -1,6 +1,30 @@
 {
- "updatedAt": "2026-11-19T16:30:25.759Z",
+ "updatedAt": "2026-11-19T16:45:36.313Z",
  "items": [
+  {
+   "id": "sika-65847",
+   "title": "BGFIBank Côte d'Ivoire sécurise 100 millions d'euros pour la filière cacao",
+   "summary": "BGFIBank Côte d'Ivoire a finalisé un crédit syndiqué de 100 millions d'euros pour soutenir les exportateurs ivoiriens durant la campagne cacaoyère en cours.",
+   "body": [
+    "La banque BGFIBank Côte d'Ivoire a annoncé, le 19 novembre 2026, la mise en place d'une ligne de financement de 100 millions d'euros, équivalant à 65,6 milliards FCFA. Ce crédit syndiqué d'une durée d'un an, structuré par l'institution britannique Crown Agents Bank, est destiné à accompagner les exportateurs locaux dans leurs opérations d'achat, de stockage et de transport des fèves de cacao.",
+    "Cette opération financière intervient alors que la campagne de commercialisation actuelle se déroule dans un contexte de prix aux producteurs en repli de 57 % par rapport à l'ouverture de la saison précédente. Outre Crown Agents Bank, le pool bancaire mobilisé pour cette transaction comprend la BADEA, la British Arab Commercial Bank, Ecobank International, Frontclear et la branche parisienne de The Access Bank UK."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65847",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-19T16:28:00Z",
+   "writtenAt": "2026-11-19T16:45:36.311Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/bgfibank-cote-divoire-mobilise-100-millions-deuros-pour-financer-la-campagne-cacao_65847",
+    "title": "BGFIBank Côte d’Ivoire mobilise 100 millions d’euros pour financer la campagne cacao"
+   },
+   "rewritten": true
+  },
   {
    "id": "sika-65845",
    "title": "Le Togo injecte 34 milliards FCFA pour stabiliser les prix des carburants",
@@ -3708,30 +3732,6 @@
     "name": "Banouto.bj",
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOam03SGo0aERGdFpQa3o0UGw5eHprRXc2YlhyOHgyUDY2X2RiQjh4Wi1JS2Rpd3EtODlqSmtJVkM1NXRmVFc4SzdZd2UtUzJpVlRiLWtDN0Y5VlByQklKc0t1OUFzTFR4Vm9qSG5PODNydlkzdTdmcnI4WUZ3MVY0Y19UYU5lU25zSS1NWTFCTHlUOE44UE1PLXRaQlBlZmI4aHJuVkdfNnQyU09LSE40NzJRT0JlN2tTMF9zZFhxRUtESlRCQ1pn?oc=5",
     "title": "Capital Reach Forum : pour Bio Tchané la BRVM doit passer à la vitesse supérieure"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "gn-4806ig",
-   "title": "La BRVM sollicitée pour faciliter l'accès à l'introduction en bourse de Dangote Refinery",
-   "summary": "La BRVM et plusieurs autres places boursières africaines ont été approchées afin de permettre une plus large participation à l'introduction en bourse de la raffinerie Dangote.",
-   "body": [
-    "Dans le cadre de l'introduction en bourse (IPO) de Dangote Refinery, les autorités ont sollicité la collaboration de la Bourse régionale des valeurs mobilières (BRVM) ainsi que d'autres marchés financiers du continent.",
-    "Cette démarche vise à élargir l'accès à cette opération financière majeure pour les investisseurs opérant sur les différentes places boursières africaines."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#gn-4806ig",
-   "image": null,
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-11-07T07:40:20.000Z",
-   "writtenAt": "2026-11-07T16:48:41.175Z",
-   "symbols": [],
-   "origin": {
-    "name": "Energies Media",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVVRKdzF1M2llaXlFWTZRMldDYUxUMzlELVgxUXFybHotcndSUHBBcUkzcERtNXdyXzN0akZnLXkwdUxTM0NDVWk3T2stUV9mRGRhN2hwSGd4ZjhuMU1rSDRHaHY1WXA2ZXVnTWdxOGN4YzBjanExOXhSY1lvWG1aNGZ4Q0tjZWY3QmdLV2JsS052dWtuSURSaXQxWnU2Q3BqTUVZT05BMHMtdzhUZFFUVkdmNkxYbmcxZFNTMFZ0RjVrOFhydkJYLVNUOUpId1k?oc=5",
-    "title": "Afrique : la BRVM et d'autres bourses du continent sollicitées pour élargir l'accès à l'IPO de Dangote Refinery"
    },
    "rewritten": true
   }
