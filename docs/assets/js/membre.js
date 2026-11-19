@@ -137,6 +137,7 @@
   window.BxMember = {
     ready: function () { return ready; },
     refresh: function () { ready = load(); return ready; },
+    client: function () { return sb; },
     paywall: paywall,
     url: memberUrl,
     // Données réservées aux membres Premium (protégées côté serveur : refusées aux autres comptes)

@@ -1351,7 +1351,7 @@ html.dv-open { overflow: hidden; }
 
 /* ─── Le Mag BRVMexa ─── */
 .lm-feat { display: grid; grid-template-columns: minmax(0, 400px) 1fr; gap: 48px; align-items: start; margin: 8px 0 56px; }
-.lm-cover { display: block; border-radius: 10px; overflow: hidden; box-shadow: 0 30px 60px rgba(0, 0, 0, .45), 0 0 0 1px var(--border); transform: rotate(-1.5deg); transition: transform .35s ease; }
+.lm-cover { display: block; width: 100%; padding: 0; border: 0; background: none; cursor: pointer; border-radius: 10px; overflow: hidden; box-shadow: 0 30px 60px rgba(0, 0, 0, .45), 0 0 0 1px var(--border); transform: rotate(-1.5deg); transition: transform .35s ease; }
 .lm-cover:hover { transform: rotate(0) translateY(-4px); }
 .lm-cover img { display: block; width: 100%; height: auto; }
 .lm-kick { display: flex; align-items: center; gap: 10px; font-size: .8rem; font-weight: 800; letter-spacing: .14em; text-transform: uppercase; color: var(--sec); margin: 0 0 12px; }
@@ -1371,8 +1371,8 @@ html.dv-open { overflow: hidden; }
 .lm-h2 { font-size: 1.45rem; margin: 0 0 18px; }
 .lm-prev { display: grid; grid-template-columns: repeat(4, 1fr); gap: 18px; margin-bottom: 56px; }
 .lm-prev figure { margin: 0; }
-.lm-prev a { display: block; border-radius: 8px; overflow: hidden; box-shadow: 0 14px 30px rgba(0, 0, 0, .35); border: 1px solid var(--border); transition: transform .25s ease; }
-.lm-prev a:hover { transform: translateY(-4px); }
+.lm-pv { display: block; width: 100%; padding: 0; background: none; cursor: pointer;  display: block; border-radius: 8px; overflow: hidden; box-shadow: 0 14px 30px rgba(0, 0, 0, .35); border: 1px solid var(--border); transition: transform .25s ease; }
+.lm-pv:hover { transform: translateY(-4px); }
 .lm-prev img { display: block; width: 100%; height: auto; }
 .lm-prev figcaption { text-align: center; color: var(--sec); font-size: .85rem; margin-top: 9px; }
 .lm-rubs { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; margin-bottom: 56px; }
@@ -1381,11 +1381,12 @@ html.dv-open { overflow: hidden; }
 .lm-rub b::before { content: ''; display: inline-block; width: 18px; height: 3px; border-radius: 2px; background: var(--accent); vertical-align: middle; margin: -3px 10px 0 0; }
 .lm-rub span { color: var(--sec); font-size: .9rem; line-height: 1.5; }
 .lm-archs { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 250px)); gap: 18px; margin-bottom: 40px; }
-.lm-arch { display: flex; flex-direction: column; background: var(--bg-2); border: 1px solid var(--border); border-radius: 14px; overflow: hidden; color: inherit; text-decoration: none; }
+.lm-arch { text-align: left; font: inherit; cursor: pointer; padding: 0; display: flex; flex-direction: column; background: var(--bg-2); border: 1px solid var(--border); border-radius: 14px; overflow: hidden; color: inherit; text-decoration: none; }
 .lm-arch img { display: block; width: 100%; height: auto; }
 .lm-arch > span { padding: 14px 16px 16px; }
 .lm-arch small { display: block; color: var(--sec); font-weight: 700; font-size: .78rem; letter-spacing: .08em; text-transform: uppercase; }
 .lm-arch b { display: block; margin: 6px 0 8px; line-height: 1.3; }
+.lm-arch em svg { width: 15px; height: 15px; vertical-align: -2px; }
 .lm-arch em { font-style: normal; color: var(--accent); font-weight: 700; font-size: .9rem; }
 .lm-next { display: flex; align-items: center; justify-content: space-between; gap: 20px; flex-wrap: wrap; background: var(--bg-2); border: 1px solid var(--border); border-left: 4px solid var(--accent); border-radius: 14px; padding: 20px 24px; margin-bottom: 24px; }
 .lm-next b { display: block; margin-bottom: 4px; }
@@ -1399,4 +1400,57 @@ html.dv-open { overflow: hidden; }
 @media (max-width: 560px) {
   .lm-toc, .lm-rubs { grid-template-columns: 1fr; }
   .lm-actions .btn { flex: 1 1 100%; justify-content: center; }
+}
+
+/* Fenêtre d'inscription Le Mag */
+.lm-dl { font-size: 1.02rem; padding-left: 26px; padding-right: 26px; display: inline-flex; align-items: center; gap: 9px; }
+.lmm { position: fixed; inset: 0; z-index: 1000; display: flex; align-items: center; justify-content: center; padding: 16px; }
+.lmm-back { position: absolute; inset: 0; background: rgba(4, 8, 16, .72); backdrop-filter: blur(6px); opacity: 0; transition: opacity .25s ease; }
+.lmm-dialog { position: relative; width: min(860px, 100%); max-height: calc(100vh - 32px); overflow: auto; background: var(--bg-2); border: 1px solid var(--border); border-radius: 20px; box-shadow: 0 40px 90px rgba(0, 0, 0, .6); opacity: 0; transform: translateY(14px) scale(.98); transition: opacity .25s ease, transform .25s ease; outline: none; }
+.lmm.is-in .lmm-back, .lmm.is-in .lmm-dialog { opacity: 1; transform: none; }
+.lmm-x { position: absolute; top: 12px; right: 12px; z-index: 2; width: 36px; height: 36px; border-radius: 50%; border: 1px solid var(--border); background: var(--bg); color: var(--text); display: grid; place-items: center; cursor: pointer; }
+.lmm-x svg { width: 18px; height: 18px; }
+.lmm-body { display: grid; grid-template-columns: 300px 1fr; min-height: 520px; }
+.lmm-side { position: relative; overflow: hidden; padding: 30px 26px; color: #fff; background: radial-gradient(120% 70% at 20% 0%, rgba(22, 196, 127, .28), transparent 60%), linear-gradient(180deg, #0B1B38, #0A0F1A); border-right: 1px solid var(--border); }
+.lmm-cover { display: block; width: 150px; height: auto; border-radius: 6px; box-shadow: 0 22px 40px rgba(0, 0, 0, .55); transform: rotate(-4deg); margin: 6px auto 22px; }
+.lmm-issue { text-align: center; font-size: .72rem; font-weight: 800; letter-spacing: .16em; text-transform: uppercase; color: #F2B33D; margin: 0 0 18px; }
+.lmm-perks { list-style: none; padding: 0; margin: 0; display: grid; gap: 12px; }
+.lmm-perks li { display: flex; gap: 10px; font-size: .86rem; line-height: 1.4; color: #C8D3E3; }
+.lmm-perks b { color: #fff; }
+.lmm-perks svg { flex: none; width: 20px; height: 20px; padding: 3px; border-radius: 50%; background: rgba(22, 196, 127, .18); color: #16C47F; }
+.lmm-main { padding: 34px 34px 28px; }
+.lmm-kick { font-size: .72rem; font-weight: 800; letter-spacing: .16em; text-transform: uppercase; color: var(--accent); margin: 0 0 8px; }
+.lmm-main h2 { font-size: 1.55rem; line-height: 1.15; margin: 0 0 8px; }
+.lmm-lead { color: var(--sec); font-size: .93rem; line-height: 1.55; margin: 0 0 18px; }
+.lmm-google { width: 100%; display: flex; align-items: center; justify-content: center; gap: 10px; padding: 12px; border-radius: 12px; border: 1px solid var(--border); background: #fff; color: #1F1F1F; font: inherit; font-weight: 700; cursor: pointer; }
+.lmm-or { display: flex; align-items: center; gap: 12px; color: var(--muted); font-size: .8rem; margin: 16px 0; }
+.lmm-or::before, .lmm-or::after { content: ''; flex: 1; height: 1px; background: var(--border); }
+.lmm-form { display: grid; gap: 12px; }
+.lmm-form label > span { display: block; font-size: .8rem; font-weight: 700; color: var(--sec); margin-bottom: 5px; }
+.lmm-form input:not([type=checkbox]) { width: 100%; padding: 11px 13px; border-radius: 10px; border: 1px solid var(--border); background: var(--bg); color: var(--text); font: inherit; }
+.lmm-form input:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
+.lmm-form .lmm-cgu { display: flex; gap: 9px; align-items: flex-start; }
+.lmm-form .lmm-cgu span { font-size: .8rem; font-weight: 500; line-height: 1.45; margin: 0; }
+.lmm-cgu a { color: var(--accent); }
+.lmm-cgu input { margin-top: 3px; accent-color: #16C47F; }
+.lmm-msg { min-height: 1.2em; margin: 0; font-size: .85rem; color: #F2B33D; }
+.lmm-submit { width: 100%; justify-content: center; text-align: center; padding-top: 13px; padding-bottom: 13px; }
+.lmm-switch { text-align: center; color: var(--sec); font-size: .88rem; margin: 16px 0 0; }
+.lmm-switch button { background: none; border: 0; color: var(--accent); font: inherit; font-weight: 700; cursor: pointer; padding: 0; }
+.lmm-switch a { color: var(--accent); font-weight: 700; }
+.lmm-done { display: flex; flex-direction: column; justify-content: center; }
+.lmm-badge { width: 58px; height: 58px; border-radius: 50%; display: grid; place-items: center; background: rgba(22, 196, 127, .16); color: #16C47F; margin-bottom: 16px; }
+.lmm-badge svg { width: 30px; height: 30px; }
+.lmm-note { color: var(--muted); font-size: .82rem; margin: 0 0 16px; }
+@media (max-width: 720px) {
+  .lmm { align-items: flex-end; padding: 0; }
+  .lmm-dialog { border-radius: 20px 20px 0 0; max-height: 94vh; }
+  .lmm-body { grid-template-columns: 1fr; min-height: 0; }
+  .lmm-side { padding: 20px 64px 16px 20px; border-right: 0; border-bottom: 1px solid var(--border); display: grid; grid-template-columns: 64px 1fr; gap: 4px 14px; align-items: center; }
+  .lmm-cover { width: 64px; margin: 0; grid-row: span 2; transform: rotate(-3deg); }
+  .lmm-issue { text-align: left; margin: 0; }
+  .lmm-perks { gap: 4px; }
+  .lmm-perks li:nth-child(n+2) { display: none; }
+  .lmm-main { padding: 20px 20px 22px; }
+  .lmm-main h2 { font-size: 1.3rem; }
 }
