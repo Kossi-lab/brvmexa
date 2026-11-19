@@ -1,6 +1,22 @@
 {
- "updatedAt": "2026-11-19T14:01:09.415Z",
+ "updatedAt": "2026-11-19T14:15:28.918Z",
  "items": [
+  {
+   "id": "sika-65839",
+   "title": "90 collaborateurs distingués : La SIB célèbre l’engagement et la fidélité de son personnel",
+   "summary": "La Société Ivoirienne de Banque (SIB) a célébré, le vendredi 13 novembre 2026, l'engagement et la fidélité de ses colla...",
+   "url": "https://www.sikafinance.com/marches/90-collaborateurs-distingues-la-sib-celebre-lengagement-et-la-fidelite-de-son-personnel_65839",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-19T13:53:00Z",
+   "symbols": [
+    "SIBC"
+   ],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65835",
    "title": "Afrique : 1 800 milliards USD ont transité par les systèmes de paiement instantané en 2025",
@@ -4307,20 +4323,6 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-10-27T14:31:00Z",
-   "symbols": [],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "sika-65282",
-   "title": "Sénégal : Le projet de loi de finances rectificative 2026 renvoyée en commission",
-   "summary": "On n'en finit pas avec le suspense de la Loi de finances rectificative au Sénégal. Le texte soumis à l'Assemblée nation...",
-   "url": "https://www.sikafinance.com/marches/senegal-le-projet-de-loi-de-finances-rectificative-2026-renvoyee-en-commission_65282",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-27T14:23:00Z",
    "symbols": [],
    "status": "new",
    "tries": 0

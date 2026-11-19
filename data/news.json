@@ -1,6 +1,32 @@
 {
- "updatedAt": "2026-11-19T14:01:09.417Z",
+ "updatedAt": "2026-11-19T14:15:28.920Z",
  "items": [
+  {
+   "id": "sika-65839",
+   "title": "La SIB honore 90 collaborateurs pour leur engagement et leur fidélité",
+   "summary": "La Société Ivoirienne de Banque a célébré le 13 novembre 2026 l'ancienneté et le dévouement de 90 membres de son personnel lors d'une cérémonie de remise de la Médaille d'Honneur du Travail.",
+   "body": [
+    "Le 13 novembre 2026, la Société Ivoirienne de Banque (SIB) a organisé une cérémonie officielle pour remettre la Médaille d'Honneur du Travail à 90 de ses collaborateurs. Cet événement, qui s'est tenu en présence de représentants du ministère de l'Emploi et de la direction du Groupe Attijariwafa bank, visait à saluer le parcours et la contribution de ces salariés au développement de l'institution.",
+    "Parmi les récipiendaires, 4 employés ont été décorés de la médaille d'Or pour 30 années de service, 15 ont reçu la médaille de Vermeil pour 25 ans, et 71 ont été distingués par la médaille d'Argent pour 15 ans d'ancienneté. Le Directeur Général de la SIB, Mohamed EL GHAZI, a profité de cette occasion pour souligner que la performance et la solidité de la banque reposent avant tout sur l'engagement quotidien et la fidélité de ses équipes."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65839",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-19T13:53:00Z",
+   "writtenAt": "2026-11-19T14:15:28.917Z",
+   "symbols": [
+    "SIBC"
+   ],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/90-collaborateurs-distingues-la-sib-celebre-lengagement-et-la-fidelite-de-son-personnel_65839",
+    "title": "90 collaborateurs distingués : La SIB célèbre l’engagement et la fidélité de son personnel"
+   },
+   "rewritten": true
+  },
   {
    "id": "sika-65835",
    "title": "Paiements instantanés en Afrique : 1 800 milliards USD échangés en 2025",
@@ -3705,37 +3731,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/cote-divoire-lapromac-celebre-50-ans-dengagement-au-service-de-la-filiere-hevea_65563",
     "title": "Côte d’Ivoire : L’APROMAC célèbre 50 ans d’engagement au service de la filière hévéa"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65562",
-   "title": "La BRVM renoue avec la croissance portée par la performance d'Ecobank CI",
-   "summary": "Après une série de baisses, la Bourse régionale des valeurs mobilières termine la semaine dans le vert, soutenue par une dynamique haussière sur de nombreux titres.",
-   "body": [
-    "La séance du 6 novembre 2026 marque un tournant pour la BRVM, avec une progression de ses trois indices principaux. Le BRVM-Composite progresse de 0,10 % à 520,74 points, le BRVM-30 gagne 0,07 % à 251,79 points, et le BRVM-Prestige enregistre la plus forte hausse avec 0,43 % à 194,71 points. Cette dynamique est largement impulsée par ECOBANK CI, dont l'apport de 29,45 milliards FCFA a significativement renforcé la capitalisation boursière globale.",
-    "Le marché affiche une tendance positive avec 25 valeurs en hausse contre 14 en baisse. PALM CI réalise la meilleure performance (+7,31 %), suivie par SETAO CI (+5,41 %) et AFRICA GLOBAL LOGISTICS CI (+4,64 %). À l'inverse, SUCRIVOIRE subit une correction de 7,03 %. Par ailleurs, les échanges ont atteint 3,33 milliards FCFA, portés majoritairement par SONATEL SN qui totalise 2,38 milliards FCFA de transactions malgré une baisse de 1,23 % de son cours."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65562",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-06T17:21:00Z",
-   "writtenAt": "2026-11-06T17:50:02.475Z",
-   "symbols": [
-    "ECOC",
-    "PALC",
-    "SCRC",
-    "SDSC",
-    "SNTS",
-    "STAC"
-   ],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/cloture-brvm-ecobank-ci-propulse-la-capitalisation-avec-un-gain-de-pres-de-30-milliards-fcfa_65562",
-    "title": "Clôture BRVM : Ecobank CI propulse la capitalisation avec un gain de près de 30 milliards FCFA"
    },
    "rewritten": true
   }
