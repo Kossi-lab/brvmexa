@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-20T12:30:24.354Z",
+ "updatedAt": "2026-11-20T12:45:36.628Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -17,6 +17,30 @@
     "19 PAGES"
    ],
    "pinned": true
+  },
+  {
+   "id": "gn-1bai590",
+   "title": "La BRVM plaide pour la mobilisation de 4 000 milliards de dollars d'actifs africains",
+   "summary": "La Bourse régionale des valeurs mobilières exhorte à exploiter les ressources financières du continent pour soutenir son développement économique.",
+   "body": [
+    "Le 20 novembre 2026, la Bourse régionale des valeurs mobilières (BRVM) a mis en avant la nécessité stratégique de capter les actifs africains. L'institution vise une mobilisation globale de 4 000 milliards de dollars pour répondre aux besoins de financement du continent.",
+    "Cette initiative souligne l'importance d'orienter l'épargne et les capitaux locaux vers des projets de croissance. En s'appuyant sur ces ressources internes, la place boursière cherche à renforcer l'autonomie financière et le dynamisme économique des pays africains."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#gn-1bai590",
+   "image": null,
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-20T12:34:21.000Z",
+   "writtenAt": "2026-11-20T12:45:36.625Z",
+   "symbols": [],
+   "origin": {
+    "name": "Financial Afrik",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWWZ1ZS1OWUxHVnNtZXFqWlVLcFQ1b04yNEVpV2llMThyUmxobm5ETkM4a0p5V3BWUjFBaGZmdVBxY1V5RFBhSkJUZDZlX2RlYkJDdE9DVUxvNV94MjBPbXJYNkRtaktYaTF5bncxckxMYi13TmhjZTd3T1dLelQ1M2p5N0tMRUpYX1lrRDNFOG1SblpKV28tZHBkOF93dWZ0clZ2LWxaTmZvczBLMlBJUHZ0OXR3b0ZGUnNOd3FMamNBblQxQ1EzREJoT0dFSzFSQy0yVXZR?oc=5",
+    "title": "Financement de l’Afrique : la BRVM appelle à mobiliser 4 000 milliards de dollars d’actifs africains"
+   },
+   "rewritten": true
   },
   {
    "id": "sika-65860",
@@ -3732,30 +3756,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/cote-divoire-linternet-fixe-franchit-pour-la-premiere-fois-le-cap-du-million-dabonnes-avec-larrivee-de-starlink_65592",
     "title": "Côte d’Ivoire : L’Internet fixe franchit pour la première fois le cap du million d’abonnés avec l’arrivée de Starlink"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65587",
-   "title": "ANSUT : Gilles Thierry Beugré mise sur l'efficacité des investissements numériques",
-   "summary": "L'ANSUT adopte une nouvelle feuille de route stratégique axée sur l'impact concret des infrastructures numériques pour les populations ivoiriennes, sous la direction de Gilles Thierry Beugré.",
-   "body": [
-    "Sous la présidence de Yacouba Bamba, le Conseil d'Administration de l'Agence nationale du service universel des télécommunications/TIC (ANSUT) a validé un nouveau cadre opérationnel. Cette stratégie, articulée autour des axes « Connecter, Équiper, Former », marque une transition vers une gestion centrée sur l'usage et l'utilité réelle des outils numériques pour l'économie nationale.",
-    "Fort de son expérience d'ingénieur, le Directeur Général Gilles Thierry Beugré souhaite optimiser les ressources de l'agence, notamment les 6 632 kilomètres de fibre optique déployés pour un coût supérieur à 125 milliards de FCFA. La loi n°2024-352 du 6 juin 2024 renforce désormais les missions de l'ANSUT, lui confiant un rôle accru dans la conception, le contrôle et la reddition de comptes des programmes de service universel."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65587",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-09T11:56:00Z",
-   "writtenAt": "2026-11-09T12:55:14.489Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/gilles-thierry-beugre-dg-de-lansut-chaque-franc-engage-doit-produire-un-resultat-mesurable_65587",
-    "title": "Gilles Thierry Beugré, DG de l’ANSUT : ‘’Chaque franc engagé doit produire un résultat mesurable’’"
    },
    "rewritten": true
   }
