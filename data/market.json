@@ -1,124 +1,16 @@
 {
- "updatedAt": "2026-11-20T09:00:22.950Z",
- "sessionDate": "2026-11-19",
- "sessionTime": "22:45",
+ "updatedAt": "2026-11-20T09:15:18.054Z",
+ "sessionDate": "2026-11-20",
+ "sessionTime": "09:02",
  "source": "brvm.org",
- "transactionsValue": 11146236117,
+ "transactionsValue": 0,
  "capitalisationActions": 19370403327959,
  "capitalisationBonds": 13421420388135,
- "advancing": 5,
- "declining": 36,
- "unchanged": 7,
- "totalVolume": 2390043,
- "gainers": [
-  {
-   "symbol": "STAC",
-   "shortName": "SETAO CI",
-   "close": 2080,
-   "change": 7.49,
-   "volume": 3597
-  },
-  {
-   "symbol": "SMBC",
-   "shortName": "SMB CI",
-   "close": 17990,
-   "change": 4.29,
-   "volume": 5418
-  },
-  {
-   "symbol": "NTLC",
-   "shortName": "Nestlé CI",
-   "close": 12900,
-   "change": 3.2,
-   "volume": 1316
-  },
-  {
-   "symbol": "LNBB",
-   "shortName": "Loterie Nationale du Bénin",
-   "close": 3900,
-   "change": 2.63,
-   "volume": 1066
-  },
-  {
-   "symbol": "SOGC",
-   "shortName": "SOGB CI",
-   "close": 7600,
-   "change": 1.33,
-   "volume": 961
-  }
- ],
- "losers": [
-  {
-   "symbol": "SAFC",
-   "shortName": "SAFCA CI",
-   "close": 3245,
-   "change": -7.42,
-   "volume": 3120
-  },
-  {
-   "symbol": "SCRC",
-   "shortName": "Sucrivoire CI",
-   "close": 1285,
-   "change": -7.22,
-   "volume": 12438
-  },
-  {
-   "symbol": "CBIBF",
-   "shortName": "Coris Bank International",
-   "close": 28850,
-   "change": -6.33,
-   "volume": 893
-  },
-  {
-   "symbol": "SDCC",
-   "shortName": "SODECI",
-   "close": 11500,
-   "change": -6.2,
-   "volume": 380
-  },
-  {
-   "symbol": "BOAM",
-   "shortName": "BOA Mali",
-   "close": 5060,
-   "change": -6.04,
-   "volume": 2842
-  }
- ],
- "mostActive": [
-  {
-   "symbol": "SNTS",
-   "shortName": "Sonatel",
-   "close": 4090,
-   "change": -0.24,
-   "volume": 144869
-  },
-  {
-   "symbol": "SIBC",
-   "shortName": "Société Ivoirienne de Banque",
-   "close": 8100,
-   "change": -3.57,
-   "volume": 14838
-  },
-  {
-   "symbol": "ETIT",
-   "shortName": "Ecobank Transnational (ETI)",
-   "close": 57,
-   "change": 0,
-   "volume": 2071807
-  },
-  {
-   "symbol": "ORAC",
-   "shortName": "Orange Côte d’Ivoire",
-   "close": 19000,
-   "change": 0,
-   "volume": 5908
-  },
-  {
-   "symbol": "SMBC",
-   "shortName": "SMB CI",
-   "close": 17990,
-   "change": 4.29,
-   "volume": 5418
-  }
- ]
+ "advancing": 0,
+ "declining": 0,
+ "unchanged": 48,
+ "totalVolume": 0,
+ "gainers": [],
+ "losers": [],
+ "mostActive": []
 }
