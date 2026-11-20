@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-20T16:45:42.192Z",
+ "updatedAt": "2026-11-20T16:54:49.769Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -17,6 +17,30 @@
     "19 PAGES"
    ],
    "pinned": true
+  },
+  {
+   "id": "sika-65865",
+   "title": "Le Congo s'allie au russe Geoscan pour moderniser l'exploration de son potentiel minier",
+   "summary": "La société Papagallo Congo Limited collabore avec le groupe Geoscan pour utiliser des drones dans l'évaluation des ressources minières congolaises, visant une meilleure efficacité opérationnelle et un transfert de compétences.",
+   "body": [
+    "Signé lors du Forum économique et humanitaire Russie-Afrique fin octobre 2026, ce partenariat entre Papagallo Congo Limited et Geoscan introduit l'usage de drones dans l'exploration géologique. Cette technologie vise à identifier avec précision les zones de minéralisation, optimisant ainsi les futures campagnes de forage tout en sécurisant les interventions humaines et en accélérant les délais d'exécution.",
+    "Le sous-sol congolais recèle des richesses importantes, estimées à 25 milliards de tonnes de fer, 3,2 milliards de tonnes de potasse et 2,2 millions de tonnes de cuivre. Alors que l'industrie minière ne représentait que 0,35 % du PIB en 2023, cette initiative inclut un volet de formation pour les experts locaux, afin de mieux valoriser ces ressources situées notamment dans la Lékoumou, la Sangha et le Kouilou."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65865",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-20T16:42:00Z",
+   "writtenAt": "2026-11-20T16:54:49.766Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/le-congo-sassocie-au-russe-geoscan-pour-mieux-evaluer-son-potentiel-minier_65865",
+    "title": "Le Congo s’associe au russe Geoscan pour mieux évaluer son potentiel minier"
+   },
+   "rewritten": true
   },
   {
    "id": "gn-195c4m6",
@@ -3734,30 +3758,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/nsia-banque-accueille-la-premiere-visite-du-programme-champions-nationaux-_65602",
     "title": "NSIA Banque accueille la première visite du programme \" champions nationaux \""
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65601",
-   "title": "Dynamique bancaire dans l'UEMOA : la domination financière d'Abidjan",
-   "summary": "La place financière d'Abidjan capte la plus grande part des bénéfices bancaires au sein de l'Union, devançant Dakar dans un paysage régional contrasté.",
-   "body": [
-    "Le secteur bancaire de l'UEMOA affiche une concentration marquée de ses profits à Abidjan. La capitale ivoirienne s'affirme comme le centre névralgique où se génère l'essentiel de la rentabilité du système financier régional.",
-    "Dakar se positionne comme le principal concurrent dans ce classement des places fortes bancaires. Cette hiérarchie souligne les disparités géographiques dans la performance des établissements de crédit, alors que les zones sahéliennes présentent des dynamiques distinctes."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65601",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-09T17:14:00Z",
-   "writtenAt": "2026-11-09T18:56:51.359Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/umoa-abidjan-rafle-la-majorite-des-profits-bancaires-mais-quelles-banques-gagnent-le-plus-par-franc-encaisse-_65601",
-    "title": "UMOA : Abidjan rafle la majorité des profits bancaires, mais quelles banques gagnent le plus par franc encaissé ?"
    },
    "rewritten": true
   }

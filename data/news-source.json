@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-20T16:45:42.189Z",
+ "updatedAt": "2026-11-20T16:54:49.766Z",
  "items": [
+  {
+   "id": "sika-65865",
+   "title": "Le Congo s’associe au russe Geoscan pour mieux évaluer son potentiel minier",
+   "summary": "La société congolaise Papagallo Congo Limited (PCL), spécialisée dans la numérisation et les technologies de l'informat...",
+   "url": "https://www.sikafinance.com/marches/le-congo-sassocie-au-russe-geoscan-pour-mieux-evaluer-son-potentiel-minier_65865",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-20T16:42:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "gn-195c4m6",
    "title": "Coris Bank International Côte d’Ivoire prépare son introduction à la BRVM à travers une offre publique de vente de 20 % de son capital",
@@ -4304,22 +4318,6 @@
    "premium": true,
    "publishedAt": "2026-10-28T13:27:00Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "gn-5cj8d0",
-   "title": "Groupe Sonatel : l’action divisée par dix, bonne affaire ?",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1yMUZZM05yWGlvMlJ5ZWNMWVJKcjZ5R3c2dXJqY3MzUmFTTWZLZGZjeG8xUGlqYy1pMHZOd1BJZnFJOVZzQjdOY0ptX3dVZGVpcUpnQWV1bEFpX2xJMnNBNmNDODRsQjJwMEFFSUJZSWl3NEVX?oc=5",
-   "image": null,
-   "source": "Afrique sur 7",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-10-28T13:10:00.000Z",
-   "symbols": [
-    "SNTS"
-   ],
    "status": "new",
    "tries": 0
   }
