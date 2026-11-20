@@ -1,15 +1,15 @@
 {
- "updatedAt": "2026-11-20T13:45:13.810Z",
+ "updatedAt": "2026-11-20T14:00:20.555Z",
  "sessionDate": "2026-11-20",
- "sessionTime": "13:30",
+ "sessionTime": "13:45",
  "source": "brvm.org",
- "transactionsValue": 3959618211,
- "capitalisationActions": 19281147433433,
+ "transactionsValue": 4321863336,
+ "capitalisationActions": 19287636276183,
  "capitalisationBonds": 13420249825944,
- "advancing": 17,
+ "advancing": 15,
  "declining": 22,
- "unchanged": 9,
- "totalVolume": 1512334,
+ "unchanged": 11,
+ "totalVolume": 1569590,
  "gainers": [
   {
    "symbol": "UNLC",
@@ -28,60 +28,60 @@
   {
    "symbol": "PRSC",
    "shortName": "Tractafric Motors CI",
-   "close": 3730,
-   "change": 6.57,
-   "volume": 580
+   "close": 3720,
+   "change": 6.29,
+   "volume": 620
   },
   {
    "symbol": "CIEC",
    "shortName": "CIE Côte d’Ivoire",
-   "close": 4400,
-   "change": 4.76,
-   "volume": 4171
+   "close": 4450,
+   "change": 5.95,
+   "volume": 4416
   },
   {
    "symbol": "SHEC",
    "shortName": "Vivo Energy CI",
    "close": 1850,
    "change": 2.78,
-   "volume": 1422
+   "volume": 1506
   }
  ],
  "losers": [
   {
-   "symbol": "SIVC",
-   "shortName": "Erium CI",
-   "close": 1525,
-   "change": -7.29,
-   "volume": 952
-  },
-  {
    "symbol": "SAFC",
    "shortName": "SAFCA CI",
-   "close": 3015,
-   "change": -7.09,
-   "volume": 5052
+   "close": 3040,
+   "change": -6.32,
+   "volume": 5261
   },
   {
    "symbol": "ETIT",
    "shortName": "Ecobank Transnational (ETI)",
    "close": 54,
    "change": -5.26,
-   "volume": 696473
+   "volume": 738154
   },
   {
    "symbol": "CBIBF",
    "shortName": "Coris Bank International",
    "close": 27505,
    "change": -4.66,
-   "volume": 899
+   "volume": 944
   },
   {
    "symbol": "BBGC",
    "shortName": "Bridge Bank Group CI",
    "close": 8150,
    "change": -4.12,
-   "volume": 8188
+   "volume": 8962
+  },
+  {
+   "symbol": "SDSC",
+   "shortName": "Africa Global Logistics CI",
+   "close": 2500,
+   "change": -3.85,
+   "volume": 1046
   }
  ],
  "mostActive": [
@@ -90,35 +90,35 @@
    "shortName": "Sonatel",
    "close": 4040,
    "change": -1.22,
-   "volume": 725062
+   "volume": 736048
   },
   {
    "symbol": "SGBC",
    "shortName": "Société Générale CI",
    "close": 38000,
    "change": -2.29,
-   "volume": 3960
+   "volume": 4424
   },
   {
    "symbol": "BBGC",
    "shortName": "Bridge Bank Group CI",
    "close": 8150,
    "change": -4.12,
-   "volume": 8188
-  },
-  {
-   "symbol": "BICB",
-   "shortName": "BIIC Bénin",
-   "close": 7745,
-   "change": -0.71,
-   "volume": 5099
+   "volume": 8962
   },
   {
    "symbol": "ETIT",
    "shortName": "Ecobank Transnational (ETI)",
    "close": 54,
    "change": -5.26,
-   "volume": 696473
+   "volume": 738154
+  },
+  {
+   "symbol": "BICB",
+   "shortName": "BIIC Bénin",
+   "close": 7745,
+   "change": -0.71,
+   "volume": 5128
   }
  ]
 }
