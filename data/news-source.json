@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-20T23:02:48.017Z",
+ "updatedAt": "2026-11-20T23:15:19.824Z",
  "items": [
   {
    "id": "gn-gcnnja",
@@ -10,7 +10,23 @@
    "source": "Burkina24.com",
    "category": "Presse",
    "premium": false,
-   "publishedAt": "2026-11-20T17:02:41.000Z",
+   "publishedAt": "2026-11-20T23:02:41.000Z",
+   "symbols": [
+    "CBIBF"
+   ],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "gn-zedccu",
+   "title": "BRVM : Coris Bank Côte d’Ivoire vend 20 % de son capital dès le 30 novembre",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZEZuNUdqWE5iUU1GT1dwZVpFN3ZONzFXSHVHU3FGUS1mMFQ4cFNSUzV0UVNMMUF3XzB1UFlBOHZYLXhRWTJJSW05bE00S3VSTFZVR2hFei14aWlFbUVLLTNBNU8wNFVfTTNoeTFpNk9HUEdxdDRGZk1WZDBtd3d3Y3dPVGZCbmU5XzhkWlZybkFqUVRuUll1bFlNc0xOd0Zi?oc=5",
+   "image": null,
+   "source": "BENIN WEB TV",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-20T23:01:53.000Z",
    "symbols": [
     "CBIBF"
    ],
@@ -4303,20 +4319,6 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-10-28T16:01:00Z",
-   "symbols": [],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "sika-65316",
-   "title": "RDC : Glencore veut céder 40% de ses actifs miniers pour renflouer sa trésorerie",
-   "summary": "Le groupe suisse Glencore prépare la cession de 40% de ses participations dans deux exploitations de cuivre et de cobal...",
-   "url": "https://www.sikafinance.com/marches/rdc-glencore-veut-ceder-40-de-ses-actifs-miniers-pour-renflouer-sa-tresorerie_65316",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-28T15:56:00Z",
    "symbols": [],
    "status": "new",
    "tries": 0

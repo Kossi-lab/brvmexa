@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-20T23:02:48.019Z",
+ "updatedAt": "2026-11-20T23:15:19.826Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -17,6 +17,32 @@
     "19 PAGES"
    ],
    "pinned": true
+  },
+  {
+   "id": "gn-zedccu",
+   "title": "Coris Bank Côte d’Ivoire s'apprête à introduire 20 % de son capital à la BRVM",
+   "summary": "L'établissement bancaire Coris Bank Côte d'Ivoire annonce l'ouverture de 20 % de son capital au public à compter du 30 novembre prochain.",
+   "body": [
+    "Une nouvelle étape s'annonce pour le secteur bancaire sur le marché financier régional. Coris Bank Côte d'Ivoire a officialisé son intention de céder une part de 20 % de son capital social.",
+    "Cette opération d'ouverture du capital prendra effet le 30 novembre 2026. Les investisseurs suivant les activités de la Bourse régionale des valeurs mobilières (BRVM) pourront ainsi observer l'évolution de cette entrée sur le marché."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#gn-zedccu",
+   "image": null,
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-20T23:01:53.000Z",
+   "writtenAt": "2026-11-20T23:15:19.823Z",
+   "symbols": [
+    "CBIBF"
+   ],
+   "origin": {
+    "name": "BENIN WEB TV",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZEZuNUdqWE5iUU1GT1dwZVpFN3ZONzFXSHVHU3FGUS1mMFQ4cFNSUzV0UVNMMUF3XzB1UFlBOHZYLXhRWTJJSW05bE00S3VSTFZVR2hFei14aWlFbUVLLTNBNU8wNFVfTTNoeTFpNk9HUEdxdDRGZk1WZDBtd3d3Y3dPVGZCbmU5XzhkWlZybkFqUVRuUll1bFlNc0xOd0Zi?oc=5",
+    "title": "BRVM : Coris Bank Côte d’Ivoire vend 20 % de son capital dès le 30 novembre"
+   },
+   "rewritten": true
   },
   {
    "id": "gn-gcnnja",
@@ -3732,30 +3758,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/entrepreneuriat-et-ia-a-lome-18-pays-africains-reclament-un-nouveau-contrat-de-confiance-avec-les-investisseurs_65610",
     "title": "Entrepreneuriat et IA : À Lomé, 18 pays africains réclament un nouveau contrat de confiance avec les investisseurs"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65611",
-   "title": "Sénégal : repli marqué des secteurs secondaire et tertiaire en août 2026",
-   "summary": "La Direction de la prévision et des études économiques a dévoilé les résultats de l'activité économique sénégalaise pour août 2026, marqués par un ralentissement mensuel dans les secteurs secondaire et tertiaire.",
-   "body": [
-    "En août 2026, l'activité du secteur secondaire au Sénégal a subi une baisse mensuelle de 8,4 %. Ce recul est largement attribuable aux contreperformances de la construction (-30,0 %), de la cokéfaction et du raffinage (-32,2 %), ainsi que de la fabrication de produits minéraux non métalliques (-27,0 %). Malgré ce repli, le secteur affiche une croissance de 4,6 % en glissement annuel, soutenue par une forte hausse de la production de matériaux minéraux (+87,1 %) et de l'énergie (+20,4 %).",
-    "Le secteur tertiaire a également enregistré une contraction de 3,5 % sur un mois, pénalisé notamment par les services spécialisés et techniques (-26,0 %) et les activités financières (-11,5 %). Toutefois, sur une base annuelle, ce secteur progresse de 1,7 %, porté par la santé (+15,7 %) et les transports (+13,0 %). De son côté, le secteur primaire a connu une légère croissance mensuelle de 0,7 %, portée par le dynamisme de l'élevage."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65611",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-10T09:39:00Z",
-   "writtenAt": "2026-11-10T09:48:52.650Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/senegal-le-secondaire-et-le-tertiaire-accusent-un-net-repli-en-aout-2026_65611",
-    "title": "Sénégal : Le secondaire et le tertiaire accusent un net repli en août 2026"
    },
    "rewritten": true
   }
