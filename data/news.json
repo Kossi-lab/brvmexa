@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-20T18:30:25.505Z",
+ "updatedAt": "2026-11-20T18:45:44.797Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -17,6 +17,32 @@
     "19 PAGES"
    ],
    "pinned": true
+  },
+  {
+   "id": "gn-gcnnja",
+   "title": "Coris Bank International Côte d'Ivoire lance une offre publique de 20 % de son capital",
+   "summary": "La filiale ivoirienne de Coris Bank International entame son ouverture au public en proposant 20 % de ses parts sociales sur le marché boursier.",
+   "body": [
+    "L'établissement bancaire Coris Bank International Côte d'Ivoire a officialisé l'ouverture de 20 % de son capital social aux investisseurs. Cette opération financière, annoncée ce 20 novembre 2026, permet au grand public d'entrer dans l'actionnariat de la banque.",
+    "Le prix de souscription a été fixé à 7 720 FCFA par action. Cette démarche marque une étape significative pour la présence de l'institution sur la place financière régionale."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#gn-gcnnja",
+   "image": null,
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-20T17:02:41.000Z",
+   "writtenAt": "2026-11-20T18:45:44.794Z",
+   "symbols": [
+    "CBIBF"
+   ],
+   "origin": {
+    "name": "Burkina24.com",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOV2JreEl2OEQzSkxTY2Zxb0tweTk3YXc0MlFSNlpwWW4xbVppWDc5VUFKQmpXT3pvUEtTYjZIeG1pMmVZYlo1NUxVSFYxdjNaOURfc2tsT1pNUFl5di1jUGdwZEFzNWZid0g3V3hRajVlSFpJVXoxQkFvbWpGU1hPRm1wZzROSXdqM2k3UjBZS2Jmd1lrRkxSOHB5cjdCZkpzU0ROSUtRcGd3NnI3ODlfZmhaQU1OUDBXQXUzQUdBc1NtSlo2?oc=5",
+    "title": "Côte d’Ivoire : Coris Bank International ouvre 20 % de son capital au public à 7 720 FCFA l’action"
+   },
+   "rewritten": true
   },
   {
    "id": "sika-65866",
@@ -3730,32 +3756,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/senegal-le-secondaire-et-le-tertiaire-accusent-un-net-repli-en-aout-2026_65611",
     "title": "Sénégal : Le secondaire et le tertiaire accusent un net repli en août 2026"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65608",
-   "title": "NSIA Banque Côte d’Ivoire noue un partenariat stratégique avec l'Ordre des urbanistes",
-   "summary": "NSIA Banque Côte d'Ivoire et l'Ordre National des Urbanistes de Côte d'Ivoire ont officialisé un partenariat pour offrir des solutions bancaires sur mesure aux professionnels du secteur.",
-   "body": [
-    "Ce 10 novembre 2026, NSIA Banque Côte d'Ivoire et l'Ordre National des Urbanistes de Côte d'Ivoire (ONUCI) ont scellé une convention inédite. Cet accord vise à proposer aux membres de l'Ordre des services bancaires personnalisés, incluant des options de financement, d'épargne et des prestations adaptées à leurs besoins spécifiques.",
-    "Pour la banque, cette initiative s'inscrit dans sa stratégie de soutien aux organisations professionnelles et aux acteurs clés du développement durable. De son côté, l'ONUCI voit dans cette collaboration une avancée majeure pour faciliter le financement des projets de ses membres et renforcer l'expertise des urbanistes face aux enjeux de planification territoriale dans le pays."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65608",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-10T09:09:00Z",
-   "writtenAt": "2026-11-10T09:49:01.024Z",
-   "symbols": [
-    "NSBC"
-   ],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/cote-d-ivoire-nsia-banque-signe-un-partenariat-avec-l-ordre-des-urbanistes-pour-accompagner-les-professionnels-de-l-urbanisme_65608",
-    "title": "Côte d'Ivoire : NSIA Banque signe un partenariat avec l'Ordre des urbanistes pour accompagner les professionnels de l'urbanisme"
    },
    "rewritten": true
   }

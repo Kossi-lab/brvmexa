@@ -1,6 +1,22 @@
 {
- "updatedAt": "2026-11-20T18:30:25.502Z",
+ "updatedAt": "2026-11-20T18:45:44.794Z",
  "items": [
+  {
+   "id": "gn-gcnnja",
+   "title": "Côte d’Ivoire : Coris Bank International ouvre 20 % de son capital au public à 7 720 FCFA l’action",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOV2JreEl2OEQzSkxTY2Zxb0tweTk3YXc0MlFSNlpwWW4xbVppWDc5VUFKQmpXT3pvUEtTYjZIeG1pMmVZYlo1NUxVSFYxdjNaOURfc2tsT1pNUFl5di1jUGdwZEFzNWZid0g3V3hRajVlSFpJVXoxQkFvbWpGU1hPRm1wZzROSXdqM2k3UjBZS2Jmd1lrRkxSOHB5cjdCZkpzU0ROSUtRcGd3NnI3ODlfZmhaQU1OUDBXQXUzQUdBc1NtSlo2?oc=5",
+   "image": null,
+   "source": "Burkina24.com",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-20T17:02:41.000Z",
+   "symbols": [
+    "CBIBF"
+   ],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65866",
    "title": "Côte d’Ivoire : Société Générale et SanlamAllianz célèbrent les 20 ans de leur produit d’épargne retraite, PRZ",
@@ -4301,20 +4317,6 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-10-28T15:56:00Z",
-   "symbols": [],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "sika-65313",
-   "title": "SIREXE 2026 : Plus de 24 pays attendus au rendez-vous d’Abidjan pour 5 jours de rencontres dans les mines, le pétrole et l’énergie",
-   "summary": "Du 18 au 22 novembre 2026, Abidjan accueillera des représentants de plus de 24 pays africains à l'occasion du Salon int...",
-   "url": "https://www.sikafinance.com/marches/sirexe-2026-plus-de-24-pays-attendus-au-rendez-vous-dabidjan-pour-5-jours-de-rencontres-dans-les-mines-le-petrole-et-lenergie_65313",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-28T15:04:00Z",
    "symbols": [],
    "status": "new",
    "tries": 0
