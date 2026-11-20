@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-20T15:45:23.014Z",
+ "updatedAt": "2026-11-20T16:01:18.470Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -17,6 +17,30 @@
     "19 PAGES"
    ],
    "pinned": true
+  },
+  {
+   "id": "sika-65863",
+   "title": "Abidjan : un projet immobilier de 13 milliards FCFA lancé au Plateau",
+   "summary": "L'Archidiocèse d'Abidjan et la SCI Innoplaza Center s'associent pour construire le Saint Joseph Innoplaza Center, un complexe mixte de 27 000 m² au cœur du quartier des affaires.",
+   "body": [
+    "Le projet Saint Joseph Innoplaza Center, dont le coût est estimé à 13 milliards FCFA, verra le jour au Plateau à Abidjan. Ce complexe immobilier mixte, fruit d'un bail emphytéotique de 45 ans signé le 18 novembre entre l'Archidiocèse d'Abidjan et la SCI Innoplaza Center, sera érigé sur un terrain appartenant à l'Église. Les travaux devraient s'étendre sur une période de deux ans.",
+    "L'ensemble immobilier, d'une surface utile de 27 000 m², comprendra un appart'hôtel premium de 85 unités, 8 000 m² de bureaux, ainsi qu'une galerie commerciale et des espaces de restauration. Porté par Innov Immobilier et MD Participations, ce programme mise sur une conception durable intégrant des terrasses végétalisées et un atrium central, tout en renforçant l'offre de services au sein du principal centre d'affaires ivoirien."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65863",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-20T15:26:00Z",
+   "writtenAt": "2026-11-20T16:01:18.467Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/immobilier-de-luxe-un-projet-de-13-milliards-fcfa-pour-installer-saint-joseph-innoplaza-center-au-c%C5%93ur-du-plateau_65863",
+    "title": "Immobilier de luxe : Un projet de 13 milliards FCFA pour installer SAINT JOSEPH INNOPLAZA CENTER au cœur du Plateau"
+   },
+   "rewritten": true
   },
   {
    "id": "gn-1tppuot",
@@ -3731,30 +3755,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/sante-et-ia-orange-cyber-connect-diagnostique-les-enjeux-vitaux-de-la-protection-des-donnees-medicales_65597",
     "title": "Santé et IA : Orange Cyber Connect diagnostique les enjeux vitaux de la protection des données médicales"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65594",
-   "title": "La BAD lance ses bourses d'études 2027 en Chine pour l'économie bleue",
-   "summary": "La Banque africaine de développement propose des bourses de master et de doctorat en Chine pour former des experts africains aux enjeux de l'économie bleue et des sciences marines.",
-   "body": [
-    "Dans le cadre de sa stratégie 2024-2033, le Groupe de la Banque africaine de développement (BAD) s'associe à la Shanghai Ocean University pour offrir un financement complet à des étudiants africains. Ce programme, ouvert jusqu'au 12 novembre 2026, couvre les frais de scolarité, le logement, la restauration et inclut une allocation mensuelle pour des cursus de master ou de doctorat débutant en 2027.",
-    "Les domaines d'études sont variés, allant de l'aquaculture et l'océanographie à l'économie appliquée et aux technologies de l'information. Si les formations sont majoritairement en anglais, certaines spécialités en économie et gestion nécessitent la maîtrise du chinois. Les candidats doivent répondre à des critères stricts d'âge, de diplômes et de compétences linguistiques, les dossiers étant à soumettre exclusivement en ligne."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65594",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-09T14:24:00Z",
-   "writtenAt": "2026-11-09T15:04:28.438Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/afrique-la-bad-ouvre-les-candidatures-a-ses-bourses-de-master-et-de-doctorat-pour-2027-en-chine_65594",
-    "title": "Afrique : la BAD ouvre les candidatures à ses bourses de master et de doctorat pour 2027 en Chine"
    },
    "rewritten": true
   }

@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-20T15:45:23.012Z",
+ "updatedAt": "2026-11-20T16:01:18.467Z",
  "items": [
+  {
+   "id": "sika-65863",
+   "title": "Immobilier de luxe : Un projet de 13 milliards FCFA pour installer SAINT JOSEPH INNOPLAZA CENTER au cœur du Plateau",
+   "summary": "La commune du Plateau au cœur d'Abidjan, s'apprête à accueillir un nouveau complexe immobilier mixte d'envergure....",
+   "url": "https://www.sikafinance.com/marches/immobilier-de-luxe-un-projet-de-13-milliards-fcfa-pour-installer-saint-joseph-innoplaza-center-au-c%C5%93ur-du-plateau_65863",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-20T15:26:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "gn-1tppuot",
    "title": "BRVM : Coris Bank CI ouvre son capital aux investisseurs dès le lundi 30 novembre",
@@ -4303,22 +4317,6 @@
    "publishedAt": "2026-10-28T12:20:00Z",
    "symbols": [
     "TTLC"
-   ],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "sika-65304",
-   "title": "‘’Ethics & Compliance Days 2026’’ : Orange CI pose les fondations d’une gouvernance responsable de l’IA",
-   "summary": "Orange Côte d'Ivoire a réuni, ce 27 octobre 2026 à son siège d'Orange Village, dirigeants, experts de la conformit...",
-   "url": "https://www.sikafinance.com/marches/ethics-compliance-days-2026-orange-ci-pose-les-fondations-dune-gouvernance-responsable-de-lia_65304",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-28T11:00:00Z",
-   "symbols": [
-    "ORAC"
    ],
    "status": "new",
    "tries": 0
