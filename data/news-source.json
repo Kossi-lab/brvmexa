@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-20T17:15:32.222Z",
+ "updatedAt": "2026-11-20T17:30:21.332Z",
  "items": [
   {
    "id": "sika-65866",
@@ -103,6 +103,20 @@
     "CBIBF"
    ],
    "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "gn-1645qsk",
+   "title": "La BRVM n'est pas PetronPay, et les arbres ne montent pas jusqu'au ciel",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxON3ZITU1GaUxYcmFjbVllMEloUHBBZG5GX3Jhb0Z0VnVNZmQ5RzlSdF9GQU1aclkzSmZwVnJXaG80Z2hFVHZSWGZ0VDNFQXRzUU9OWUlFTzdDYmhEdmJfRGJEcjBlbURzU1NLNVdqQnhGTWE4TE1KYmNEb2tqME1TZ01oWlVDZ25jdU1XU0RYQlJRWkMyNW05Yy1KU3M3NV90eUJkUmhiT2c0cllram44WkFMcVhwUQ?oc=5",
+   "image": null,
+   "source": "AGENCE ECOFIN",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-20T12:52:00.000Z",
+   "symbols": [],
+   "status": "skip",
    "tries": 1
   },
   {
@@ -4302,22 +4316,6 @@
    "premium": false,
    "publishedAt": "2026-10-28T15:04:00Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "sika-65312",
-   "title": "BERNABÉ CI : Le résultat net repasse dans le vert à fin septembre",
-   "summary": "Bernabé Côte d'Ivoire aborde 2026 sous de meilleurs auspices. Après un premier semestre marqué par une améliorati...",
-   "url": "https://www.sikafinance.com/marches/bernabe-ci-le-resultat-net-repasse-dans-le-vert-a-fin-septembre_65312",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": true,
-   "publishedAt": "2026-10-28T15:03:00Z",
-   "symbols": [
-    "BNBC"
-   ],
    "status": "new",
    "tries": 0
   }
