@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-20T11:15:24.797Z",
+ "updatedAt": "2026-11-20T11:30:27.822Z",
  "items": [
+  {
+   "id": "sika-65860",
+   "title": "SIREXE 2026 : Pour Schneider Electric, la fiabilité de l’énergie conditionne l’industrialisation",
+   "summary": "Ouvert ce mercredi au Parc des expositions d'Abidjan, le Salon international des ressources extractives et de l'énergie ...",
+   "url": "https://www.sikafinance.com/marches/sirexe-2026-pour-schneider-electric-la-fiabilite-de-lenergie-conditionne-lindustrialisation_65860",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-20T11:12:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65858",
    "title": "SIREXE/Gaz : La Côte d’Ivoire, le Bénin et le Togo posent les bases d’un marché régional",
@@ -4304,22 +4318,6 @@
    "premium": false,
    "publishedAt": "2026-10-28T10:07:00Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "sika-65299",
-   "title": "Ecobank CI : Des revenus peu dynamiques et un résultat net en baisse de 12% au 3ème trimestre 2026",
-   "summary": "À fin septembre 2026, Ecobank Côte d'Ivoire affiche un produit net bancaire (PNB) de 98,2 milliards FCFA, ...",
-   "url": "https://www.sikafinance.com/marches/ecobank-ci-des-revenus-peu-dynamiques-et-un-resultat-net-en-baisse-de-12-au-3eme-trimestre-2026_65299",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": true,
-   "publishedAt": "2026-10-28T09:54:00Z",
-   "symbols": [
-    "ECOC"
-   ],
    "status": "new",
    "tries": 0
   }

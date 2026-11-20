@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-20T11:15:24.799Z",
+ "updatedAt": "2026-11-20T11:30:27.824Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -17,6 +17,31 @@
     "19 PAGES"
    ],
    "pinned": true
+  },
+  {
+   "id": "sika-65860",
+   "title": "SIREXE 2026 : Schneider Electric mise sur la fiabilité énergétique pour l'industrie africaine",
+   "summary": "Le Salon international des ressources extractives et de l'énergie, qui se tient à Abidjan, souligne l'importance cruciale d'une alimentation électrique stable pour soutenir le développement industriel du continent.",
+   "body": [
+    "Le Salon international des ressources extractives et de l'énergie (SIREXE), ouvert ce mercredi au Parc des expositions d'Abidjan, met en lumière les défis liés à l'alimentation des sites industriels. Pour Schneider Electric, présent à l'événement, la croissance économique africaine repose sur une énergie non seulement disponible, mais surtout fiable et maîtrisée, afin d'éviter les pertes de production liées aux coupures.",
+    "Face à une demande en électricité en hausse constante sur le continent, le groupe prône le déploiement d'infrastructures intelligentes. En combinant électrification, automatisation et digitalisation, Schneider Electric propose des solutions permettant aux exploitants de mieux piloter leur consommation et d'anticiper les pannes, transformant ainsi l'efficacité énergétique en un véritable levier de compétitivité pour les entreprises.",
+    "Lors d'un panel tenu le jeudi 19 novembre, Rabie Hamze, Directeur général de Schneider Electric pour l'Afrique centrale et de l'Ouest francophone, a insisté sur la nécessité d'une meilleure compréhension des flux énergétiques pour soutenir les secteurs miniers et industriels. Le salon se déroule jusqu'au dimanche 22 novembre."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65860",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-20T11:12:00Z",
+   "writtenAt": "2026-11-20T11:30:27.821Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/sirexe-2026-pour-schneider-electric-la-fiabilite-de-lenergie-conditionne-lindustrialisation_65860",
+    "title": "SIREXE 2026 : Pour Schneider Electric, la fiabilité de l’énergie conditionne l’industrialisation"
+   },
+   "rewritten": true
   },
   {
    "id": "sika-65858",
@@ -3731,30 +3756,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/gilles-thierry-beugre-dg-de-lansut-chaque-franc-engage-doit-produire-un-resultat-mesurable_65587",
     "title": "Gilles Thierry Beugré, DG de l’ANSUT : ‘’Chaque franc engagé doit produire un résultat mesurable’’"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65586",
-   "title": "CODIVAL célèbre un demi-siècle au service de la sécurisation des flux financiers en Côte d'Ivoire",
-   "summary": "L'entreprise ivoirienne CODIVAL a fêté ses 50 ans d'existence le 5 novembre 2026, marquant cinq décennies d'évolution dans le transport de fonds et la gestion des valeurs.",
-   "body": [
-    "Fondée en juin 1975 par quatre banques ivoiriennes avec 26 employés, CODIVAL s'est progressivement diversifiée. Après avoir intégré la préparation de la paie, le traitement des valeurs et la gestion d'automates, l'entreprise propose aujourd'hui des solutions de sécurité électronique et des coffres-forts intelligents. Opérant sous l'égide du groupe SAGAM International, elle compte désormais 581 collaborateurs, 12 centres répartis sur le territoire et une flotte de plus de 100 véhicules.",
-    "Acteur incontournable du secteur, CODIVAL assure le transport de fonds pour 27 des 30 banques accréditées en Côte d'Ivoire et gère plus de 500 automates. Certifiée ISO 9001:2015, la société mise sur la complémentarité entre espèces et paiements numériques pour ses futurs développements. Elle prévoit notamment d'inaugurer son nouveau siège et centre opérationnel aux II Plateaux Vallon en 2027, tout en étendant ses services vers des secteurs comme la microfinance, la grande distribution et l'industrie aurifère."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65586",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-09T11:43:00Z",
-   "writtenAt": "2026-11-09T12:55:29.650Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/cote-divoire-codival-celebre-50-ans-dactivite-sous-le-signe-de-la-confiance-et-de-linnovation_65586",
-    "title": "Côte d’Ivoire : CODIVAL célèbre 50 ans d’activité sous le signe de la confiance et de l’innovation"
    },
    "rewritten": true
   }
