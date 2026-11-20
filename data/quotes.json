@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-11-20T15:00:19.804Z",
+ "updatedAt": "2026-11-20T15:15:15.500Z",
  "sessionDate": "2026-11-20",
- "sessionTime": "14:45",
+ "sessionTime": "15:02",
  "source": "brvm.org",
  "items": [
   {
@@ -112,7 +112,7 @@
   {
    "symbol": "BOAC",
    "name": "BANK OF AFRICA COTE D'IVOIRE",
-   "volume": 3402,
+   "volume": 3409,
    "prevClose": 10900,
    "refPrice": 10850,
    "open": 10900,
@@ -307,7 +307,7 @@
   {
    "symbol": "NSBC",
    "name": "NSIA BANQUE COTE D'IVOIRE",
-   "volume": 3507,
+   "volume": 3509,
    "prevClose": 15250,
    "refPrice": 15000,
    "open": 15000,
