@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-20T09:30:19.835Z",
+ "updatedAt": "2026-11-20T09:45:30.363Z",
  "items": [
+  {
+   "id": "sika-65855",
+   "title": "Or ivoirien : AFG Bank veut que la mine se finance à Abidjan",
+   "summary": "Trois ans après sa création, AFG Bank Côte d'Ivoire s'est fait une place dans les tours de table miniers. Présente...",
+   "url": "https://www.sikafinance.com/marches/or-ivoirien-afg-bank-veut-que-la-mine-se-finance-a-abidjan_65855",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-20T09:35:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "gn-pfcddy",
    "title": "Bridge Bank Group (BBGC) — BRVM",
@@ -4307,20 +4321,6 @@
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-10-28T05:40:03.000Z",
-   "symbols": [],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "gn-ado26g",
-   "title": "Au Capital Reach Forum, Abdoulaye Bio Tchané pointe le défi des marchés financiers africains",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbFV5MjByWC15blVQdklIZDMzR0J1VGNkZ2R3UnhwbVc0cVRtS2NmeVNDMDFRaGtwSEs2YktzRHc1aDI3S2k1S0oxOGZiV1dmTVU1dEdGOXVtTlBWWnBUUlNmRTJLd2hyd3RoN0plNzg0Rk40WmI4M3FFb0FycHFsOWZVXzZCZmh1MmpmUm1QRXFpdjFCOXprT28ycThxR2xtOGgteGprZWVlVHpzQTZqc1VuekY2bzVkaUNpZHQ2S0hDcThOU3RRZFlNOA?oc=5",
-   "image": null,
-   "source": "La Nouvelle Tribune",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-10-28T01:36:08.000Z",
    "symbols": [],
    "status": "new",
    "tries": 0

@@ -1,6 +1,30 @@
 {
- "updatedAt": "2026-11-20T09:30:19.836Z",
+ "updatedAt": "2026-11-20T09:45:30.365Z",
  "items": [
+  {
+   "id": "sika-65855",
+   "title": "AFG Bank Côte d'Ivoire ambitionne de devenir un acteur clé du financement minier local",
+   "summary": "Trois ans après son lancement, AFG Bank Côte d'Ivoire souhaite passer du rôle de simple prêteur à celui d'arrangeur de financements pour le secteur aurifère ivoirien.",
+   "body": [
+    "Lors du salon SIREXE 2026, la direction d'AFG Bank Côte d'Ivoire a exprimé sa volonté de structurer les levées de fonds pour les projets miniers nationaux. Jusqu'à présent, ces investissements massifs, comme celui de 148 milliards FCFA accordé récemment à Resolute Mining pour la mine de Doropo, étaient majoritairement orchestrés depuis des places financières internationales comme Londres ou Toronto. La banque, dirigée par Daniel Touré depuis septembre 2024, entend désormais capter ces opérations grâce à son expertise et à sa solidité financière.",
+    "Avec un bilan de 1 373,7 milliards FCFA à fin 2025, l'établissement mise sur son maillage territorial et son « Mining Desk » dédié pour accompagner les opérateurs. Cette stratégie est renforcée par l'appartenance de la banque au groupe Atlantic, également présent dans l'exploitation minière. Alors que la Côte d'Ivoire accroît sa production aurifère, AFG Bank cherche à démontrer que le système bancaire local, fort de 31 199 milliards FCFA d'actifs, est capable de soutenir durablement le développement de cette industrie stratégique."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65855",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-20T09:35:00Z",
+   "writtenAt": "2026-11-20T09:45:30.363Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/or-ivoirien-afg-bank-veut-que-la-mine-se-finance-a-abidjan_65855",
+    "title": "Or ivoirien : AFG Bank veut que la mine se finance à Abidjan"
+   },
+   "rewritten": true
+  },
   {
    "id": "sika-65851",
    "title": "Transport aérien : la demande mondiale en baisse en septembre 2026, l'Afrique progresse",
@@ -3714,32 +3738,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/cote-divoire-la-centrale-thermique-datinkou-porte-la-capacite-electrique-nationale-a-3-337-mw_65580",
     "title": "Côte d’Ivoire : La centrale thermique d’Atinkou porte la capacité électrique nationale à 3 337 MW"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65579",
-   "title": "BRVM : SMB CI affiche une performance positive malgré une tendance hebdomadaire baissière",
-   "summary": "La Bourse régionale des valeurs mobilières a clôturé la 44e semaine de l'année sur un repli généralisé, malgré la progression notable de l'action SMB CI.",
-   "body": [
-    "Au terme de la semaine du 2 novembre 2026, le marché financier régional a enregistré une tendance baissière. Ce mouvement de repli a mis fin à la dynamique de reprise qui avait été observée lors de la période précédente.",
-    "Dans ce contexte de marché globalement orienté à la baisse, le titre SMB CI s'est distingué en parvenant à tirer son épingle du jeu et à enregistrer une performance positive."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65579",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-09T09:30:00Z",
-   "writtenAt": "2026-11-09T09:51:54.645Z",
-   "symbols": [
-    "SMBC"
-   ],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/brvm-semaine-44-smb-ci-triomphe-dans-un-marche-globalement-baissier_65579",
-    "title": "BRVM / Semaine 44 : SMB CI triomphe dans un marché globalement baissier"
    },
    "rewritten": true
   }
