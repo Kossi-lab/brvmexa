@@ -1,6 +1,30 @@
 {
- "updatedAt": "2026-11-20T09:45:30.365Z",
+ "updatedAt": "2026-11-20T10:00:29.566Z",
  "items": [
+  {
+   "id": "sika-65856",
+   "title": "Sénégal : La mise en vigueur de la LFR 2026 au cœur d'un débat juridique",
+   "summary": "La promulgation par décret de la Loi de finances rectificative 2026 au Sénégal suscite une vive controverse entre l'opposition et le gouvernement sur sa conformité constitutionnelle.",
+   "body": [
+    "La mise en application par décret présidentiel de la Loi de finances rectificative (LFR) 2026 fait l'objet de vives contestations. Des figures politiques, dont le député Amadou Bâ, ainsi que le constitutionnaliste Ngouda Mboup, remettent en cause la légalité de cette procédure. Ils soutiennent que le Président de la République ne dispose pas des prérogatives nécessaires pour valider un projet de loi préalablement rejeté par l'Assemblée nationale le 3 novembre 2026.",
+    "Face à ces critiques, le gouvernement défend sa position en s'appuyant sur l'article 68 de la Constitution. Selon les autorités, le projet, déposé le 18 septembre 2026, n'ayant pas fait l'objet d'un vote définitif dans le délai imparti de 60 jours, son entrée en vigueur par décret est conforme aux textes. L'exécutif précise que cette mesure vise à garantir la continuité du fonctionnement des institutions et le respect des engagements financiers de l'État."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65856",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-20T09:57:00Z",
+   "writtenAt": "2026-11-20T10:00:29.564Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/senegal-controverse-autour-de-la-legalite-de-lacte-de-mise-en-vigueur-de-la-lfr-2026_65856",
+    "title": "Sénégal : Controverse autour de la ‘’légalité’’ de l’acte de mise en vigueur de la LFR 2026"
+   },
+   "rewritten": true
+  },
   {
    "id": "sika-65855",
    "title": "AFG Bank Côte d'Ivoire ambitionne de devenir un acteur clé du financement minier local",
@@ -3713,31 +3737,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/sika-commodities-weekly-44-le-brent-decroche-de-12-sur-un-pari-de-paix-non-signe_65581",
     "title": "SIKA COMMODITIES WEEKLY 44 : Le Brent décroche de 12 % sur un pari de paix non signé"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65580",
-   "title": "Côte d'Ivoire : la centrale d'Atinkou porte la capacité électrique nationale à 3 337 MW",
-   "summary": "Inaugurée le 6 novembre à Jacqueville, la centrale thermique à cycle combiné d'Atinkou renforce l'offre énergétique ivoirienne avec une puissance de 390 MW, fruit d'un investissement de 265 milliards FCFA.",
-   "body": [
-    "La Côte d'Ivoire a franchi une étape clé de son développement énergétique avec l'inauguration, le 6 novembre 2026, de la centrale thermique d'Atinkou située à Taboth. Ce projet, porté par le groupe Eranove et la CNPS avec le soutien de bailleurs internationaux, représente un investissement total de 265 milliards FCFA. Grâce à ses 390 MW, la capacité installée du pays atteint désormais 3 337 MW, dépassant les objectifs fixés par le Plan national de développement 2021-2025.",
-    "Technologiquement avancée, cette installation utilise le cycle combiné pour optimiser l'usage du gaz naturel, affichant un rendement supérieur à 55 %. Ce procédé permet d'accroître la production tout en réduisant les émissions de CO2 et les coûts unitaires. Équipée de la première turbine de classe F d'Afrique subsaharienne et raccordée au premier poste de 400 000 volts du pays, la centrale vise à sécuriser le réseau national tout en consolidant le rôle de la Côte d'Ivoire en tant qu'exportateur d'électricité dans la sous-région.",
-    "Face à une demande en forte croissance portée par l'industrialisation et l'urbanisation, le gouvernement ivoirien multiplie les projets de diversification énergétique, incluant la biomasse, l'hydroélectricité et le solaire. Cette dynamique s'inscrit dans une stratégie de long terme visant à porter la capacité de production nationale à 11 400 MW d'ici 2040, afin de soutenir les ambitions économiques du pays."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65580",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-09T09:43:00Z",
-   "writtenAt": "2026-11-09T10:48:45.094Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/cote-divoire-la-centrale-thermique-datinkou-porte-la-capacite-electrique-nationale-a-3-337-mw_65580",
-    "title": "Côte d’Ivoire : La centrale thermique d’Atinkou porte la capacité électrique nationale à 3 337 MW"
    },
    "rewritten": true
   }

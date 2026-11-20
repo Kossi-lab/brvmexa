@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-20T09:45:30.363Z",
+ "updatedAt": "2026-11-20T10:00:29.565Z",
  "items": [
+  {
+   "id": "sika-65856",
+   "title": "Sénégal : Controverse autour de la ‘’légalité’’ de l’acte de mise en vigueur de la LFR 2026",
+   "summary": "Malgré la mise en vigueur d'un décret présidentiel, le débat sur la Loi de finances rectificative LFR 2026 ne s'éteint ...",
+   "url": "https://www.sikafinance.com/marches/senegal-controverse-autour-de-la-legalite-de-lacte-de-mise-en-vigueur-de-la-lfr-2026_65856",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-20T09:57:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65855",
    "title": "Or ivoirien : AFG Bank veut que la mine se finance à Abidjan",
@@ -4308,20 +4322,6 @@
    "symbols": [
     "SNTS"
    ],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "gn-12hs9fz",
-   "title": "CAPITAL REACH FORUM : ABDOULAYE BIO TCHANE PLAIDE POUR UNE MEILLEURE EXPLOITATION DES MARCHÉS DE CAPITAUX EN AFRIQUE",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOeVN1cFpLQWtjRUF5dDRhTVFMaW5DWFBaUHpVMjJQRllSY1J1aXlGMG1LWFdsOFVHMWNmU015cmJZc196akUwUG5NUEtxdkQ4cUZMZ2NaRmpORjRqRHp1b1ZSQmVHbklNenhDal9VU09Ud3FyTlkxakkwaG4tYWJXZGVBVzgyTGhybkRwNlZRazdVTFRpSUV1dEdOUi0wS2M1UThSQW1Xd19HM3ZlRXZTNTNwZDNkcHY0OEU5TXVackl0QWpTa0JQbmV1d3RZS3N1WlhCQ2JHM1VNenlPV2piT1pyQQ?oc=5",
-   "image": null,
-   "source": "Matin Libre",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-10-28T05:40:03.000Z",
-   "symbols": [],
    "status": "new",
    "tries": 0
   }
