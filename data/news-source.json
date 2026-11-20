@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-20T14:00:24.194Z",
+ "updatedAt": "2026-11-20T14:15:43.896Z",
  "items": [
   {
    "id": "gn-1bai590",
@@ -337,6 +337,20 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-11-19T09:22:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "gn-1sjuvez",
+   "title": "Edoh Kossi Amenounvé veut canaliser 4 000 milliards vers l’Afrique",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcHNsUzBzMXllM2hoRnd2ZVNUX0ozMlV4dkl6LW5xUmJNa2swUDhiYXR6LUZ3ZXU1MkFxZXBOOVh3Qm51Q1ViS3VvRWZRSlhvX0FMdUhfYkxfb3ZMd0FzZTVITDJ5V1V1QURWRlVlQzVQc1pLYjZHUVBENHdPaHR3NmFfekVkTEhTanJsaG5MUEdiV3FyMlk4dklNMWlSb0U?oc=5",
+   "image": null,
+   "source": "Africtelegraph",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-19T08:00:00.000Z",
    "symbols": [],
    "status": "done",
    "tries": 1
@@ -4303,20 +4317,6 @@
    "category": "Marchés",
    "premium": true,
    "publishedAt": "2026-10-28T10:41:00Z",
-   "symbols": [],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "sika-65301",
-   "title": "SIREXE 2026 : La carte des rendez-vous extractifs africains se redessine à Abidjan",
-   "summary": "Jusqu'en 2024, les grands rendez-vous continentaux du secteur extractif et énergétique étaient concentrés au Cap (Minin...",
-   "url": "https://www.sikafinance.com/marches/sirexe-2026-la-carte-des-rendez-vous-extractifs-africains-se-redessine-a-abidjan_65301",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-28T10:24:00Z",
    "symbols": [],
    "status": "new",
    "tries": 0
