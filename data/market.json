@@ -1,16 +1,23 @@
 {
- "updatedAt": "2026-11-20T11:45:13.066Z",
+ "updatedAt": "2026-11-20T12:00:18.418Z",
  "sessionDate": "2026-11-20",
- "sessionTime": "11:30",
+ "sessionTime": "11:45",
  "source": "brvm.org",
- "transactionsValue": 578511555,
- "capitalisationActions": 19337629100600,
+ "transactionsValue": 708724525,
+ "capitalisationActions": 19372786862510,
  "capitalisationBonds": 13405563580494,
- "advancing": 13,
- "declining": 25,
- "unchanged": 10,
- "totalVolume": 284900,
+ "advancing": 15,
+ "declining": 24,
+ "unchanged": 9,
+ "totalVolume": 447277,
  "gainers": [
+  {
+   "symbol": "PRSC",
+   "shortName": "Tractafric Motors CI",
+   "close": 3760,
+   "change": 7.43,
+   "volume": 500
+  },
   {
    "symbol": "UNLC",
    "shortName": "Unilever CI",
@@ -23,7 +30,7 @@
    "shortName": "CIE Côte d’Ivoire",
    "close": 4450,
    "change": 5.95,
-   "volume": 3279
+   "volume": 3288
   },
   {
    "symbol": "ONTBF",
@@ -38,13 +45,6 @@
    "close": 1645,
    "change": 3.46,
    "volume": 772
-  },
-  {
-   "symbol": "ABJC",
-   "shortName": "Servair Abidjan",
-   "close": 3190,
-   "change": 2.9,
-   "volume": 740
   }
  ],
  "losers": [
@@ -53,72 +53,72 @@
    "shortName": "SETAO CI",
    "close": 1925,
    "change": -7.45,
-   "volume": 2436
+   "volume": 5097
   },
   {
    "symbol": "NEIC",
    "shortName": "NEI-CEDA CI",
    "close": 1760,
    "change": -7.37,
-   "volume": 990
+   "volume": 1005
   },
   {
    "symbol": "SAFC",
    "shortName": "SAFCA CI",
    "close": 3015,
    "change": -7.09,
-   "volume": 3508
+   "volume": 3645
   },
   {
    "symbol": "CFAC",
    "shortName": "CFAO Motors CI",
    "close": 1105,
    "change": -5.96,
-   "volume": 1198
+   "volume": 1276
   },
   {
-   "symbol": "CBIBF",
-   "shortName": "Coris Bank International",
-   "close": 27500,
-   "change": -4.68,
-   "volume": 576
+   "symbol": "UNXC",
+   "shortName": "Uniwax CI",
+   "close": 1620,
+   "change": -4.42,
+   "volume": 1647
   }
  ],
  "mostActive": [
   {
    "symbol": "SNTS",
    "shortName": "Sonatel",
-   "close": 4070,
-   "change": -0.49,
-   "volume": 65360
+   "close": 4075,
+   "change": -0.37,
+   "volume": 83671
   },
   {
    "symbol": "BBGC",
    "shortName": "Bridge Bank Group CI",
-   "close": 8325,
-   "change": -2.06,
-   "volume": 4735
+   "close": 8350,
+   "change": -1.76,
+   "volume": 5147
   },
   {
    "symbol": "BICB",
    "shortName": "BIIC Bénin",
    "close": 7800,
    "change": 0,
-   "volume": 4519
+   "volume": 4578
+  },
+  {
+   "symbol": "CBIBF",
+   "shortName": "Coris Bank International",
+   "close": 28740,
+   "change": -0.38,
+   "volume": 839
   },
   {
    "symbol": "SGBC",
    "shortName": "Société Générale CI",
    "close": 38800,
    "change": -0.23,
-   "volume": 474
-  },
-  {
-   "symbol": "BOAC",
-   "shortName": "BOA Côte d’Ivoire",
-   "close": 10950,
-   "change": 0.46,
-   "volume": 1653
+   "volume": 506
   }
  ]
 }
