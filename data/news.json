@@ -2,6 +2,23 @@
  "updatedAt": "2026-11-20T10:45:19.417Z",
  "items": [
   {
+   "id": "pin-lemag-n1",
+   "title": "📌 LE MAG BRVMexa N°1 est disponible : téléchargez-le gratuitement",
+   "summary": "Le bilan d’octobre à la BRVM, Sonatel après sa division par 10, Coris en route vers la cote, la Côte d’Ivoire hors de la liste grise… 19 pages offertes. Touchez pour télécharger le PDF.",
+   "url": "https://www.brvmexa.com/le-mag/",
+   "image": "https://www.brvmexa.com/le-mag/pin-n1.webp",
+   "source": "⭐ BRVMexa · Épinglé",
+   "category": "Le Mag",
+   "premium": false,
+   "publishedAt": "2026-11-19T16:18:00Z",
+   "symbols": [
+    "GRATUIT",
+    "PDF",
+    "19 PAGES"
+   ],
+   "pinned": true
+  },
+  {
    "id": "sika-65858",
    "title": "Gaz naturel : la Côte d’Ivoire, le Bénin et le Togo s'unissent pour sécuriser leurs approvisionnements",
    "summary": "La Côte d’Ivoire, le Bénin et le Togo ont signé un accord de coopération gazière lors du SIREXE 2026 pour mutualiser leurs ressources, avec le soutien financier de la Banque mondiale.",

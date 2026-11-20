@@ -247,8 +247,15 @@ async function updateNews() {
   const raw = stock.filter((n) => n.status === 'new' && !mine.has(n.id)).map(({ status, tries, ...n }) => n);
   const items = [...mine.values(), ...raw.slice(0, mine.size ? Math.max(0, 12 - mine.size) : NEWS_MAX)]
     .sort((a, b) => (b.publishedAt ?? '').localeCompare(a.publishedAt ?? '')).slice(0, NEWS_MAX);
-  await writeJson(pubFile, { updatedAt: new Date().toISOString(), items });
-  log(`Actualités : ${items.length} articles publiés (${mine.size} rédigés par BRVMexa)`);
+  // 4. Annonces épinglées (data/pinned.json) : toujours en tête de liste, jusqu'à leur date de fin
+  const now = Date.now();
+  const pins = ((await readJson(path.join(DATA, 'pinned.json'), { items: [] })).items ?? [])
+    .filter((p) => p && p.id && (!p.until || Date.parse(p.until) > now))
+    .map(({ until, ...p }) => ({ ...p, pinned: true }));
+  const pinIds = new Set(pins.map((p) => p.id));
+  const finalItems = [...pins, ...items.filter((n) => !pinIds.has(n.id))].slice(0, NEWS_MAX + pins.length);
+  await writeJson(pubFile, { updatedAt: new Date().toISOString(), items: finalItems });
+  log(`Actualités : ${items.length} articles publiés (${mine.size} rédigés par BRVMexa)${pins.length ? `, ${pins.length} épinglé(s)` : ''}`);
 }
 
 function titleCase(s) {

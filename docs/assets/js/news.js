@@ -34,7 +34,8 @@
   fetch(base + '/news.json?t=' + Math.floor(Date.now() / 300000), { cache: 'no-cache' })
     .then(function (r) { if (!r.ok) throw new Error(); return r.json(); })
     .then(function (data) {
-      var items = data.items || [];
+      // les annonces épinglées sont réservées à l'application (le site a ses propres pages)
+      var items = (data.items || []).filter(function (n) { return !n.pinned; });
       var byId = {};
       items.forEach(function (n) { byId[n.id] = n; });
 
