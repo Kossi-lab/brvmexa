@@ -1,6 +1,36 @@
 {
- "updatedAt": "2026-11-20T16:30:21.967Z",
+ "updatedAt": "2026-11-20T16:45:42.189Z",
  "items": [
+  {
+   "id": "gn-195c4m6",
+   "title": "Coris Bank International Côte d’Ivoire prépare son introduction à la BRVM à travers une offre publique de vente de 20 % de son capital",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPdDc5WDN0QUc1TzBoNGdkV2dRLUYtM1Z4RElaemVhNWJiVTR2bVV0RDRpRFJGY1RramxDVHhQSnZ3dWJCMXdJS3o5c1U1WGE2UTRVYl9temJ5ODVXd3QyQjdwLVlrbWJuazU0QzJqWlZtdmtwSWw3M0pEOFBjczJSYURRQ2FXSWsyYXFzNXo1ZmFfMjFLNzg4Z1FINXREN1p3NW1QZy1WdnJ3ZFlYVDlRNnVsODItbHJoTFNzeHpkWXllUmZPR1NRUlIwY3lIZkJYc0VwUVd2bDM3Rm9OWjBZVnQ4eElkb1RhbzBGRHUtVzZEekZUQ05PQkxyV1dVSWYyWlUw?oc=5",
+   "image": null,
+   "source": "L'economiste du faso",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-20T16:35:52.000Z",
+   "symbols": [
+    "CBIBF"
+   ],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "sika-65864",
+   "title": "BRVM : L'équilibre des variations ne suffit pas à redresser les indices",
+   "summary": "La BRVM termine la séance dans le rouge, prolongeant une semaine de marché hésitant, sur fond d'attentisme autour des d...",
+   "url": "https://www.sikafinance.com/marches/brvm-l-equilibre-des-variations-ne-suffit-pas-a-redresser-les-indices_65864",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-20T16:27:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65863",
    "title": "Immobilier de luxe : Un projet de 13 milliards FCFA pour installer SAINT JOSEPH INNOPLAZA CENTER au cœur du Plateau",
@@ -25,6 +55,22 @@
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-11-20T14:55:00.000Z",
+   "symbols": [
+    "CBIBF"
+   ],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "gn-tujd66",
+   "title": "Coris Bank Côte d’Ivoire ouvre 20 % de son capital au public",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPa2pQX2dCbldEblRYRUVXRHhkaUFzV0w3U2V3NXlZSTl1ZnV6ODBVbDNURFdTN2Ixei01enFjV25MRU1iXzhQcmtuY0VudlpHSzFpemJ1c0VnNWVKTDhxR25BdjVzNFIzUmw1UDdmTHN2a1d3cWI2V2h4YXpBX2djdGZFOFh0dEd4ZzI0bHJZUW9Td3hIRzRSUFQ2RUswckZVR2c?oc=5",
+   "image": null,
+   "source": "Financial Afrik",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-20T14:52:33.000Z",
    "symbols": [
     "CBIBF"
    ],
@@ -4273,50 +4319,6 @@
    "publishedAt": "2026-10-28T13:10:00.000Z",
    "symbols": [
     "SNTS"
-   ],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "sika-65308",
-   "title": "Ghana : Le chinois Huayou investit plus de 66 millions USD supplémentaires dans le projet de lithium Ewoyaa",
-   "summary": "Le développement de la filière lithium au Ghana passe un cap nouveau avec l'entrée renforcée du groupe chinois Zhejiang...",
-   "url": "https://www.sikafinance.com/marches/ghana-le-chinois-huayou-investit-plus-de-66-millions-usd-supplementaires-dans-le-projet-de-lithium-ewoyaa_65308",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-28T12:28:00Z",
-   "symbols": [],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "gn-1e6badu",
-   "title": "Bénin : la Bourse régionale des valeurs mobilières enregistre une capitalisation de 24 781,3 milliards de FCFA en 2025",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQzVBZnFqendERDJVU0RxMGE2NjBMU0RrM2FHNVc5SElzN0dBTzU5VTdrYW00RnRqM2JCV1ZONTd2X1RZT2RpRmN3OVZXLXFFbldEMkNDYVNpQjhDTnhLc2h5a1lFNURKaGpzcE42NUttajdmTUs2Y3VRcmU3QlcxS0lKYV9OazVPNUVBOWxaWk1lQzdKU1k4ZGJiZ1V4WnB0TVNuWFRJM2ZWWEN5MFFKTjNTRmJyMmtqNGlOSWlJMlM1eHNzQ3JIT0o1aFMtcW1XcDM0LUFR?oc=5",
-   "image": null,
-   "source": "Africa24 TV",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-10-28T12:25:00.000Z",
-   "symbols": [],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "sika-65307",
-   "title": "TotalEnergies Marketing CI : Le bénéfice grimpe de 31% à fin septembre 2026",
-   "summary": "TotalEnergies Marketing Côte d'Ivoire enregistre une accélération de sa croissance bénéficiaire au troisième trim...",
-   "url": "https://www.sikafinance.com/marches/totalenergies-marketing-ci-le-benefice-grimpe-de-31-a-fin-septembre-2026_65307",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": true,
-   "publishedAt": "2026-10-28T12:20:00Z",
-   "symbols": [
-    "TTLC"
    ],
    "status": "new",
    "tries": 0
