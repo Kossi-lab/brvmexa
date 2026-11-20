@@ -1,6 +1,31 @@
 {
- "updatedAt": "2026-11-20T10:15:20.273Z",
+ "updatedAt": "2026-11-20T10:30:22.201Z",
  "items": [
+  {
+   "id": "sika-65858",
+   "title": "Gaz naturel : la Côte d’Ivoire, le Bénin et le Togo s'unissent pour sécuriser leurs approvisionnements",
+   "summary": "La Côte d’Ivoire, le Bénin et le Togo ont signé un accord de coopération gazière lors du SIREXE 2026 pour mutualiser leurs ressources, avec le soutien financier de la Banque mondiale.",
+   "body": [
+    "Réunis à Abidjan lors du Salon international des ressources extractives et énergétiques (SIREXE 2026), les représentants de la Côte d’Ivoire, du Bénin et du Togo ont acté un protocole d’accord pour structurer un marché gazier commun. Ce projet, qui fait suite à un sommet régional tenu en décembre 2025, bénéficie de l'appui de la Banque mondiale via un programme de coopération doté de 140 millions de dollars, soit environ 80 milliards FCFA.",
+    "L'objectif principal est de sécuriser l'approvisionnement en gaz naturel, indispensable au fonctionnement des centrales thermiques face à une demande en électricité en forte hausse. En regroupant leurs besoins, les trois nations espèrent optimiser les coûts d'achat de gaz naturel liquéfié (GNL) et partager les investissements nécessaires aux infrastructures de stockage et de transport.",
+    "Pour la Côte d'Ivoire, ce rapprochement s'inscrit dans une stratégie de développement de ses gisements offshore, tels que Baleine et Calao, tout en renforçant son positionnement de hub énergétique. Un groupe de travail tripartite a été mis en place pour définir les solutions les plus compétitives et favoriser une meilleure intégration énergétique sous-régionale."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65858",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-20T10:22:00Z",
+   "writtenAt": "2026-11-20T10:30:22.198Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/sirexegaz-la-cote-divoire-le-benin-et-le-togo-posent-les-bases-dun-marche-regional_65858",
+    "title": "SIREXE/Gaz : La Côte d’Ivoire, le Bénin et le Togo posent les bases d’un marché régional"
+   },
+   "rewritten": true
+  },
   {
    "id": "sika-65856",
    "title": "Sénégal : La mise en vigueur de la LFR 2026 au cœur d'un débat juridique",
@@ -3713,30 +3738,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/cote-divoire-codival-celebre-50-ans-dactivite-sous-le-signe-de-la-confiance-et-de-linnovation_65586",
     "title": "Côte d’Ivoire : CODIVAL célèbre 50 ans d’activité sous le signe de la confiance et de l’innovation"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65581",
-   "title": "Marchés des matières premières : le pétrole chute sur fond d'espoirs diplomatiques",
-   "summary": "Le cours du pétrole a enregistré une baisse hebdomadaire marquée de 12 %, entraînant dans son sillage plusieurs matières premières agricoles, alors que les marchés anticipent une désescalade entre Washington et Téhéran.",
-   "body": [
-    "Le baril de Brent a clôturé la semaine à 98,32 dollars, contre 111,69 dollars lundi, affichant un repli de 12 %. Cette tendance baissière a été alimentée par les déclarations politiques américaines et les espoirs d'un accord diplomatique avec l'Iran, malgré l'absence de signature officielle. Ce mouvement a pesé sur les produits liés à l'énergie, notamment le sucre, qui a reculé de 5,3 %, et l'huile de palme, laquelle a subi sa pire performance hebdomadaire depuis près de deux ans avec une baisse de 8,3 %.",
-    "Sur le marché du cacao, le prix à la tonne est passé de 5 503 à 5 155 dollars, atteignant un plus bas d'un mois. Ce repli de 6,3 % s'explique par l'augmentation des stocks en Europe et aux États-Unis, combinée à des arrivages en Côte d'Ivoire en hausse de 19 % par rapport à la campagne précédente. Parallèlement, les autres matières premières ont affiché des trajectoires disparates : l'arabica a perdu 3,1 % tandis que le robusta a progressé de 1,9 %, et le coton a enregistré une hausse de 1,7 %."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65581",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-09T09:55:00Z",
-   "writtenAt": "2026-11-09T10:48:36.201Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/sika-commodities-weekly-44-le-brent-decroche-de-12-sur-un-pari-de-paix-non-signe_65581",
-    "title": "SIKA COMMODITIES WEEKLY 44 : Le Brent décroche de 12 % sur un pari de paix non signé"
    },
    "rewritten": true
   }

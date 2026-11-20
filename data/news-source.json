@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-20T10:15:20.271Z",
+ "updatedAt": "2026-11-20T10:30:22.199Z",
  "items": [
+  {
+   "id": "sika-65858",
+   "title": "SIREXE/Gaz : La Côte d’Ivoire, le Bénin et le Togo posent les bases d’un marché régional",
+   "summary": "En signant un accord de coopération gazière au SIREXE 2026, les 3 pays ouvrent la voie à une mutualisation de leurs app...",
+   "url": "https://www.sikafinance.com/marches/sirexegaz-la-cote-divoire-le-benin-et-le-togo-posent-les-bases-dun-marche-regional_65858",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-20T10:22:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65856",
    "title": "Sénégal : Controverse autour de la ‘’légalité’’ de l’acte de mise en vigueur de la LFR 2026",
@@ -4305,22 +4319,6 @@
    "publishedAt": "2026-10-28T09:54:00Z",
    "symbols": [
     "ECOC"
-   ],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "gn-1l1iy5j",
-   "title": "BRVM : le fractionnement du titre Sonatel dope l’intérêt des investisseurs",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZjdiRmFsRHNLZUk0MlFXOEFGYkg1OVIwdmZQcWVvSldYak8tUV9raUIwQUt6OVFIQkxIMWNQUFBsWFZIbGVHajlOVkhSSVlVT1ZMN3REaWgwZHBudlFsX3hYNC0wTjFCdkw1RGNGYkt5REpiTklHUmo0bnJhRGhqRnhod2N6UlBDVFdjQXBfdy1JS3NubWUzcGliQnljaFk?oc=5",
-   "image": null,
-   "source": "Forbes Afrique",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-10-28T07:00:00.000Z",
-   "symbols": [
-    "SNTS"
    ],
    "status": "new",
    "tries": 0
