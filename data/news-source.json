@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-20T17:00:30.751Z",
+ "updatedAt": "2026-11-20T17:15:32.222Z",
  "items": [
+  {
+   "id": "sika-65866",
+   "title": "Côte d’Ivoire : Société Générale et SanlamAllianz célèbrent les 20 ans de leur produit d’épargne retraite, PRZ",
+   "summary": "Préparer sa retraite pendant que l'on dispose encore de revenus professionnels reste un défi pour de nombreux actifs. L...",
+   "url": "https://www.sikafinance.com/marches/cote-divoire-societe-generale-et-sanlamallianz-celebrent-les-20-ans-de-leur-produit-depargne-retraite-prz_65866",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-20T16:52:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65865",
    "title": "Le Congo s’associe au russe Geoscan pour mieux évaluer son potentiel minier",
@@ -206,20 +220,6 @@
    "tries": 1
   },
   {
-   "id": "sika-65848",
-   "title": "BRVM : Les 500 points cèdent face à un marché hésitant",
-   "summary": "La BRVM a nettement décroché ce jeudi, dans le prolongement d'une tendance baissière déjà installée depuis plusieurs se...",
-   "url": "https://www.sikafinance.com/marches/brvm-les-500-points-cedent-face-a-un-marche-hesitant_65848",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-19T16:49:00Z",
-   "symbols": [],
-   "status": "done",
-   "tries": 1
-  },
-  {
    "id": "sika-65847",
    "title": "BGFIBank Côte d’Ivoire mobilise 100 millions d’euros pour financer la campagne cacao",
    "summary": "Kafèhè Silué, directeur général de BGFIBank Côte d'Ivoire La banque a obtenu un crédit syndiqué de 100 millio...",
@@ -229,6 +229,20 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-11-19T16:28:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "gn-13y7fcp",
+   "title": "BRVM : Les 500 points cèdent face à un marché hésitant",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNHlVbzlOOWRkMFlZRjExWDR5Ri0zUlhISnRkYzRmQy04VEdGbjlIX2NMel9MYTdKdnJsUVRHR2dfbm1TZkdOcWs5WWlGanFZOGczZFYyMTNrZmFNcFpKcWUzT0lOR1dFWGdZSU5Qb0RpbEQ0QlZVYmlGQ01SelQxUHViekNzOWpBYU5QUG9KUTNldmZMMnhGMHhB?oc=5",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-19T15:49:56.000Z",
    "symbols": [],
    "status": "done",
    "tries": 1
@@ -4304,20 +4318,6 @@
    "symbols": [
     "BNBC"
    ],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "sika-65309",
-   "title": "Côte d’Ivoire : La production industrielle en hausse de 3,2% en 8 mois, portée par le cacao transformé et le raffinage",
-   "summary": "L'industrie ivoirienne conserve une trajectoire ascendante en 2026, soutenue par le dynamisme manufacturier et énergéti...",
-   "url": "https://www.sikafinance.com/marches/cote-divoire-la-production-industrielle-en-hausse-de-3-2-en-8-mois-portee-par-le-cacao-transforme-et-le-raffinage_65309",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": true,
-   "publishedAt": "2026-10-28T13:27:00Z",
-   "symbols": [],
    "status": "new",
    "tries": 0
   }
