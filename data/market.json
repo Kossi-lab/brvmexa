@@ -1,15 +1,15 @@
 {
- "updatedAt": "2026-11-20T14:45:14.710Z",
+ "updatedAt": "2026-11-20T15:00:19.804Z",
  "sessionDate": "2026-11-20",
- "sessionTime": "14:30",
+ "sessionTime": "14:45",
  "source": "brvm.org",
- "transactionsValue": 4551968663,
- "capitalisationActions": 19308983772207,
- "capitalisationBonds": 13420732128551,
+ "transactionsValue": 4610703798,
+ "capitalisationActions": 19328818938929,
+ "capitalisationBonds": 13424990989851,
  "advancing": 19,
- "declining": 20,
- "unchanged": 9,
- "totalVolume": 1776659,
+ "declining": 19,
+ "unchanged": 10,
+ "totalVolume": 1811592,
  "gainers": [
   {
    "symbol": "UNLC",
@@ -40,11 +40,11 @@
    "volume": 8521
   },
   {
-   "symbol": "SDSC",
-   "shortName": "Africa Global Logistics CI",
-   "close": 2685,
-   "change": 3.27,
-   "volume": 13978
+   "symbol": "CIEC",
+   "shortName": "CIE Côte d’Ivoire",
+   "close": 4400,
+   "change": 4.76,
+   "volume": 5568
   }
  ],
  "losers": [
@@ -77,11 +77,11 @@
    "volume": 9592
   },
   {
-   "symbol": "SIVC",
-   "shortName": "Erium CI",
-   "close": 1600,
-   "change": -2.74,
-   "volume": 1042
+   "symbol": "BICB",
+   "shortName": "BIIC Bénin",
+   "close": 7500,
+   "change": -3.85,
+   "volume": 5676
   }
  ],
  "mostActive": [
@@ -107,18 +107,18 @@
    "volume": 9592
   },
   {
+   "symbol": "ETIT",
+   "shortName": "Ecobank Transnational (ETI)",
+   "close": 57,
+   "change": 0,
+   "volume": 950024
+  },
+  {
    "symbol": "NSBC",
    "shortName": "NSIA Banque CI",
    "close": 15000,
    "change": -1.64,
    "volume": 3507
-  },
-  {
-   "symbol": "ETIT",
-   "shortName": "Ecobank Transnational (ETI)",
-   "close": 56,
-   "change": -1.75,
-   "volume": 915574
   }
  ]
 }

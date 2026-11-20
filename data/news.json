@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-20T14:45:20.524Z",
+ "updatedAt": "2026-11-20T15:00:30.491Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -17,6 +17,32 @@
     "19 PAGES"
    ],
    "pinned": true
+  },
+  {
+   "id": "gn-1tppuot",
+   "title": "Coris Bank CI : ouverture du capital à la Bourse régionale dès le 30 novembre",
+   "summary": "La filiale ivoirienne de Coris Bank s'apprête à faire son entrée sur le marché boursier régional. Les investisseurs pourront souscrire aux titres de la banque à compter de la fin du mois de novembre.",
+   "body": [
+    "Le marché financier de l'UEMOA s'apprête à accueillir une nouvelle opération d'envergure. Coris Bank Côte d'Ivoire a officiellement annoncé l'ouverture de son capital au public, une étape stratégique qui se concrétisera le lundi 30 novembre 2026.",
+    "Cette opération permettra aux investisseurs de la BRVM de prendre part au développement de l'institution bancaire. Les modalités de cette entrée en bourse marqueront une nouvelle étape dans la présence de l'établissement sur le marché financier régional."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#gn-1tppuot",
+   "image": null,
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-20T14:55:00.000Z",
+   "writtenAt": "2026-11-20T15:00:30.488Z",
+   "symbols": [
+    "CBIBF"
+   ],
+   "origin": {
+    "name": "AGENCE ECOFIN",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQ3JlYnM2RXpSTXpjNEJZUU9tR2NiVWJvdWJrb3prWlFFdi11YmxLZ0NNckVXSjY0ZFNlYTNHcTIzd3lYNHZnZlJhMHZfVmRzRE5kOG5HOHlOV2hrVWVLVVNWNTF1TVdHNi1KblVsU18xbG9CLUNGeGZCalBrdlQyemQ5N0Q5X2ZuMUxKSEtrNlV4anVtLWVsVDVPYjl3dU1oeGVOOHcxYVhTLW55cWJFOUdwUFctWWZ5dnRaM2lZSEVpeGRiRGsxbkwxeTZadmdhYUFyNXVn?oc=5",
+    "title": "BRVM : Coris Bank CI ouvre son capital aux investisseurs dès le lundi 30 novembre"
+   },
+   "rewritten": true
   },
   {
    "id": "gn-1bai590",
@@ -3729,30 +3755,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/afrique-la-bad-ouvre-les-candidatures-a-ses-bourses-de-master-et-de-doctorat-pour-2027-en-chine_65594",
     "title": "Afrique : la BAD ouvre les candidatures à ses bourses de master et de doctorat pour 2027 en Chine"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65593",
-   "title": "Air Côte d’Ivoire inaugure un programme exclusif pour ses voyageurs fidèles",
-   "summary": "La compagnie aérienne nationale a officiellement lancé « Le Club », un cercle privé accessible uniquement sur invitation pour récompenser ses clients les plus réguliers.",
-   "body": [
-    "Le 6 novembre 2026, Air Côte d'Ivoire a dévoilé son nouveau programme baptisé « Le Club » lors d'une cérémonie organisée au Palais WIA. Ce dispositif se présente comme un cercle restreint destiné à fédérer une communauté de voyageurs privilégiés.",
-    "L'accès à ce service se fait exclusivement sur invitation. Cette initiative vise à renforcer les liens entre la compagnie et ses passagers les plus fidèles en leur offrant un statut particulier au sein de l'écosystème du transporteur aérien."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65593",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-09T14:12:00Z",
-   "writtenAt": "2026-11-09T15:04:36.727Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/air-cote-divoire-lance-le-club-un-cercle-tres-ferme-reserve-a-ses-voyageurs-les-plus-fideles_65593",
-    "title": "Air Côte d’Ivoire lance le Club, un cercle très fermé réservé à ses voyageurs les plus fidèles"
    },
    "rewritten": true
   }

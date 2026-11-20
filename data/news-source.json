@@ -1,6 +1,22 @@
 {
- "updatedAt": "2026-11-20T14:45:20.521Z",
+ "updatedAt": "2026-11-20T15:00:30.489Z",
  "items": [
+  {
+   "id": "gn-1tppuot",
+   "title": "BRVM : Coris Bank CI ouvre son capital aux investisseurs dès le lundi 30 novembre",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQ3JlYnM2RXpSTXpjNEJZUU9tR2NiVWJvdWJrb3prWlFFdi11YmxLZ0NNckVXSjY0ZFNlYTNHcTIzd3lYNHZnZlJhMHZfVmRzRE5kOG5HOHlOV2hrVWVLVVNWNTF1TVdHNi1KblVsU18xbG9CLUNGeGZCalBrdlQyemQ5N0Q5X2ZuMUxKSEtrNlV4anVtLWVsVDVPYjl3dU1oeGVOOHcxYVhTLW55cWJFOUdwUFctWWZ5dnRaM2lZSEVpeGRiRGsxbkwxeTZadmdhYUFyNXVn?oc=5",
+   "image": null,
+   "source": "AGENCE ECOFIN",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-20T14:55:00.000Z",
+   "symbols": [
+    "CBIBF"
+   ],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "gn-1bai590",
    "title": "Financement de l’Afrique : la BRVM appelle à mobiliser 4 000 milliards de dollars d’actifs africains",
@@ -4304,20 +4320,6 @@
    "symbols": [
     "ORAC"
    ],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "sika-65303",
-   "title": "Burkina Faso : A Bomboré, Orezone Gold vise jusqu’à 5 tonnes d’or en 2026",
-   "summary": "Au Burkina Faso, la mine de Bomboré aborde un tournant industriel. L'entrée en production commerciale de sa nouvelle un...",
-   "url": "https://www.sikafinance.com/marches/burkina-faso-a-bombore-orezone-gold-vise-jusqua-5-tonnes-dor-en-2026_65303",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": true,
-   "publishedAt": "2026-10-28T10:41:00Z",
-   "symbols": [],
    "status": "new",
    "tries": 0
   }
