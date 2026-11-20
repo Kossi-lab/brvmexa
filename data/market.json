@@ -1,15 +1,15 @@
 {
- "updatedAt": "2026-11-20T14:15:23.220Z",
+ "updatedAt": "2026-11-20T14:30:27.194Z",
  "sessionDate": "2026-11-20",
- "sessionTime": "14:02",
+ "sessionTime": "14:15",
  "source": "brvm.org",
- "transactionsValue": 4547948683,
- "capitalisationActions": 19278728318277,
+ "transactionsValue": 4548427713,
+ "capitalisationActions": 19281081652277,
  "capitalisationBonds": 13420481574351,
- "advancing": 19,
+ "advancing": 20,
  "declining": 16,
- "unchanged": 13,
- "totalVolume": 1764362,
+ "unchanged": 12,
+ "totalVolume": 1768748,
  "gainers": [
   {
    "symbol": "UNLC",
@@ -63,6 +63,13 @@
    "volume": 957
   },
   {
+   "symbol": "SCRC",
+   "shortName": "Sucrivoire CI",
+   "close": 1230,
+   "change": -4.28,
+   "volume": 13787
+  },
+  {
    "symbol": "BBGC",
    "shortName": "Bridge Bank Group CI",
    "close": 8145,
@@ -75,13 +82,6 @@
    "close": 1600,
    "change": -2.74,
    "volume": 1012
-  },
-  {
-   "symbol": "BICB",
-   "shortName": "BIIC Bénin",
-   "close": 7600,
-   "change": -2.56,
-   "volume": 5394
   }
  ],
  "mostActive": [
@@ -118,7 +118,7 @@
    "shortName": "Ecobank Transnational (ETI)",
    "close": 56,
    "change": -1.75,
-   "volume": 911244
+   "volume": 915574
   }
  ]
 }
