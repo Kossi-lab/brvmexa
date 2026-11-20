@@ -1,6 +1,22 @@
 {
- "updatedAt": "2026-11-20T01:00:28.972Z",
+ "updatedAt": "2026-11-20T01:15:21.631Z",
  "items": [
+  {
+   "id": "gn-pfcddy",
+   "title": "Bridge Bank Group (BBGC) — BRVM",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VWFNIS3puU1RSY09PZGRsWkVIcnh4cHM3ZXFnd2lVbmR1OGU3dFRfMG92UENpbkdnVjNnNGpvckliaWthcXBZaVBjeVVFZXBodzNCZEpSU1hBN1FXbDlLSC0yb0Nvdw?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-19T19:50:33.000Z",
+   "symbols": [
+    "BBGC"
+   ],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65851",
    "title": "Transport aérien : Alors que la demande mondiale de passagers recule de 0,5% en septembre, l’Afrique affiche une croissance de 8%",
@@ -393,22 +409,6 @@
    "publishedAt": "2026-11-18T09:30:00Z",
    "symbols": [
     "SHEC"
-   ],
-   "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "gn-pfcddy",
-   "title": "Bridge Bank Group (BBGC) — BRVM",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VWFNIS3puU1RSY09PZGRsWkVIcnh4cHM3ZXFnd2lVbmR1OGU3dFRfMG92UENpbkdnVjNnNGpvckliaWthcXBZaVBjeVVFZXBodzNCZEpSU1hBN1FXbDlLSC0yb0Nvdw?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-11-18T06:17:41.000Z",
-   "symbols": [
-    "BBGC"
    ],
    "status": "done",
    "tries": 1
