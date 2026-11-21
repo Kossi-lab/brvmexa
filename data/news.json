@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T17:15:24.407Z",
+ "updatedAt": "2026-11-21T17:30:21.050Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -17,6 +17,30 @@
     "19 PAGES"
    ],
    "pinned": true
+  },
+  {
+   "id": "gn-1x1c30v",
+   "title": "Un groupe bancaire ivoirien annonce son introduction en bourse à la BRVM",
+   "summary": "Une institution bancaire basée en Côte d'Ivoire s'apprête à faire son entrée sur le marché financier régional en cédant 20 % de son capital au public.",
+   "body": [
+    "Le paysage financier de la zone UEMOA s'apprête à accueillir un nouvel acteur coté. Un groupe bancaire opérant en Côte d'Ivoire a officiellement fait part de son intention de s'introduire à la Bourse régionale des valeurs mobilières (BRVM).",
+    "Cette opération stratégique se traduira par l'ouverture de 20 % du capital de l'établissement aux investisseurs. Cette démarche marque une étape importante dans le développement boursier de cet acteur bancaire ivoirien."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#gn-1x1c30v",
+   "image": null,
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-21T16:49:32.000Z",
+   "writtenAt": "2026-11-21T17:30:21.046Z",
+   "symbols": [],
+   "origin": {
+    "name": "AIP - Agence Ivoirienne de Presse",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLXhZeV9mb21ndzYtV3JlOFhiSno0cHl5SlpFRWRHdnl0cDdnRV9XWDRJZ0lodjVIZC15WVVFQU1EOHJSRGt3aW9FMGxtNTV1aWxOT3VnWTh3SlBVYkJxLVJrNldrN2NfQUswNmx5ajU5cW9fS1JaSHhSS0JpWkU0SUhvRWgyd0dHbHdLX0oxdllOb3ZvMWFGREZnSzJIc01wQldHOHF0QVZjSEtvRlloSGNWLXNqblR2ZWNDeG5pT0JxWkVVaXgzdg?oc=5",
+    "title": "Côte d’Ivoire-AIP/ Un groupe bancaire ouvre 20 % de son capital aux investisseurs pour son introduction à la BRVM"
+   },
+   "rewritten": true
   },
   {
    "id": "gn-1y9w9h",
@@ -3738,30 +3762,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/gouvernance-la-boad-decroche-la-certification-internationale-iso-37001-pour-son-dispositif-anticorruption_65625",
     "title": "Gouvernance : La BOAD décroche la certification internationale ISO 37001 pour son dispositif anticorruption"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65623",
-   "title": "Zanaga Iron Ore explore de nouvelles options financières pour son projet minier au Congo",
-   "summary": "Le projet de fer de Zanaga revoit son calendrier de financement alors que les négociations avec Red Arc Minerals stagnent, poussant la société à rechercher de nouvelles alternatives.",
-   "body": [
-    "La société Zanaga Iron Ore Company (ZIOC) a annoncé le 10 novembre 2026 que l'accord stratégique avec Red Arc Minerals, en discussion depuis février, ne devrait pas aboutir avant la fin du mois. En conséquence, l'exclusivité accordée à ce partenaire a pris fin le 31 juillet dernier. L'entreprise envisage désormais de mandater un conseiller financier pour étudier diverses solutions de capitaux, tout en maintenant les échanges avec une institution de développement soutenue par un gouvernement occidental concernant une enveloppe potentielle de 500 millions de dollars (environ 328 milliards FCFA).",
-    "Ce projet minier, situé en République du Congo, dispose de ressources estimées à 6,9 milliards de tonnes de fer, dont 2,1 milliards de réserves. L'objectif industriel est d'atteindre une capacité de production annuelle de 30 millions de tonnes, déployée en deux phases. Malgré les incertitudes sur le financement, ZIOC poursuit ses travaux techniques et ingénierie, s'appuyant sur un permis minier et une convention déjà validés par l'État congolais, après avoir finalisé une levée de fonds de 5,6 millions de livres sterling en mai dernier."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65623",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-10T14:19:00Z",
-   "writtenAt": "2026-11-10T14:46:23.778Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/congo-zanaga-iron-cherche-de-nouveaux-financements-apres-le-report-de-son-accord-avec-red-arc_65623",
-    "title": "Congo : Zanaga Iron cherche de nouveaux financements après le report de son accord avec Red Arc"
    },
    "rewritten": true
   }

@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-21T17:15:24.404Z",
+ "updatedAt": "2026-11-21T17:30:21.047Z",
  "items": [
+  {
+   "id": "gn-1x1c30v",
+   "title": "Côte d’Ivoire-AIP/ Un groupe bancaire ouvre 20 % de son capital aux investisseurs pour son introduction à la BRVM",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLXhZeV9mb21ndzYtV3JlOFhiSno0cHl5SlpFRWRHdnl0cDdnRV9XWDRJZ0lodjVIZC15WVVFQU1EOHJSRGt3aW9FMGxtNTV1aWxOT3VnWTh3SlBVYkJxLVJrNldrN2NfQUswNmx5ajU5cW9fS1JaSHhSS0JpWkU0SUhvRWgyd0dHbHdLX0oxdllOb3ZvMWFGREZnSzJIc01wQldHOHF0QVZjSEtvRlloSGNWLXNqblR2ZWNDeG5pT0JxWkVVaXgzdg?oc=5",
+   "image": null,
+   "source": "AIP - Agence Ivoirienne de Presse",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-21T16:49:32.000Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "gn-1y9w9h",
    "title": "Introduction en bourse : Coris Bank CI vend 20 % à 7 720 FCFA",
@@ -4309,20 +4323,6 @@
    "category": "Marchés",
    "premium": true,
    "publishedAt": "2026-10-28T18:16:00Z",
-   "symbols": [],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "sika-65325",
-   "title": "Climat des affaires : 20 pays africains se distinguent, la Côte d’Ivoire gagne 11,5 points en 16 ans",
-   "summary": "Quels sont les 20 pays africains offrant le meilleur environnement économique, juridique et institutionnel aux entrepri...",
-   "url": "https://www.sikafinance.com/marches/climat-des-affaires-20-pays-africains-se-distinguent-la-cote-divoire-gagne-11-5-points-en-16-ans_65325",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": true,
-   "publishedAt": "2026-10-28T18:05:00Z",
    "symbols": [],
    "status": "new",
    "tries": 0
