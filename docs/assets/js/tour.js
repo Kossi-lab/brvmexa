@@ -159,11 +159,14 @@
 
   function open() {
     if (ui) return;
-    store.set('vue'); // une seule fois par visiteur (la visite reste disponible depuis le pied de page)
     // Sur mobile, le menu remplace les rubriques une par une
     steps = ALL.filter(function (s) { return s.kind || !!s.sel(); });
     i = 0; lastFocus = document.activeElement;
-    build(); render();
+    build();
+    // Ancienne feuille de style encore en cache : on n'affiche rien (la visite sera proposée plus tard)
+    if (getComputedStyle(ui).position !== 'fixed') { ui.remove(); ui = null; document.body.classList.remove('gt-on'); return; }
+    store.set('vue'); // une seule fois par visiteur (la visite reste disponible depuis le pied de page)
+    render();
     addEventListener('resize', onMove); addEventListener('scroll', onMove, { passive: true });
     document.addEventListener('keydown', onKey);
   }
