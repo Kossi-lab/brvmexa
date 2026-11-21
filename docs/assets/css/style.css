@@ -2093,6 +2093,17 @@ body.gt-on .al, body.nx-open .al { display: none; }
 }
 @media (prefers-reduced-motion: reduce) { .as-dot, .as-prem::after { animation: none; } }
 
+/* ─── Bandeau de consentement (mesure d'audience) ─── */
+.ck { position: fixed; left: 16px; bottom: 16px; z-index: 1900; max-width: 420px; padding: 16px 18px; border-radius: 18px; background: #131D30; border: 1px solid #26344D;
+  box-shadow: 0 20px 50px rgba(0, 0, 0, .5); transform: translateY(20px); opacity: 0; transition: transform .3s ease, opacity .3s ease; }
+.ck.is-on { transform: none; opacity: 1; }
+.ck p { margin: 0 0 12px; font-size: .88rem; line-height: 1.5; color: var(--sec); }
+.ck p b { display: block; color: var(--text); margin-bottom: 2px; }
+.ck p a { color: var(--accent); }
+.ck-btns { display: flex; gap: 8px; justify-content: flex-end; }
+.ck-btns .btn { padding: 8px 16px; font-size: .88rem; }
+@media (max-width: 640px) { .ck { left: 10px; right: 10px; bottom: 10px; max-width: none; } }
+
 /* ─── Réactions et commentaires ─── */
 .so { margin: 44px 0 8px; scroll-margin-top: 90px; }
 .so h2 { margin: 0; }
