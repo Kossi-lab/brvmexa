@@ -1,6 +1,22 @@
 {
- "updatedAt": "2026-11-21T12:15:26.784Z",
+ "updatedAt": "2026-11-21T12:30:19.012Z",
  "items": [
+  {
+   "id": "gn-1y9w9h",
+   "title": "Introduction en bourse : Coris Bank CI vend 20 % à 7 720 FCFA",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObjE3Y3hZYkdHa2d1ZUx6SHNJNGNwRk5wLVY4eDhJV0dvekwwdGJVNlEwVjMtQV9meFVlUjJmcEl4MzNTQTMyVElLMTBDOTk4VzEwT0g0UGp3QVRpZnJhWlpSQ1BUNVA2NGYzUEotVzZrZkoya1c3Q2Z6QnVBZ1VpTTAycmozUQ?oc=5",
+   "image": null,
+   "source": "Afrique sur 7",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-21T12:17:20.000Z",
+   "symbols": [
+    "CBIBF"
+   ],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "gn-xovbr8",
    "title": "Coris Bank Côte d’Ivoire cède 20 % de son capital pour 62,74 milliards FCFA",
@@ -4306,22 +4322,6 @@
    "premium": true,
    "publishedAt": "2026-10-28T17:50:00Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "sika-65323",
-   "title": "PALMCI : Le bénéfice recule de 12% à fin septembre 2026, malgré un redressement au 3ème trimestre",
-   "summary": "PALMCI affiche un résultat net en baisse à fin septembre 2026, pénalisé par un début d'année difficile et la hausse des...",
-   "url": "https://www.sikafinance.com/marches/palmci-le-benefice-recule-de-12-a-fin-septembre-2026-malgre-un-redressement-au-3eme-trimestre_65323",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": true,
-   "publishedAt": "2026-10-28T17:09:00Z",
-   "symbols": [
-    "PALC"
-   ],
    "status": "new",
    "tries": 0
   }

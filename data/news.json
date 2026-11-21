@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T12:15:26.792Z",
+ "updatedAt": "2026-11-21T12:30:19.015Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -17,6 +17,32 @@
     "19 PAGES"
    ],
    "pinned": true
+  },
+  {
+   "id": "gn-1y9w9h",
+   "title": "Coris Bank CI lance son introduction en bourse avec une offre à 7 720 FCFA",
+   "summary": "La filiale ivoirienne du groupe Coris Bank entame son processus d'entrée sur le marché financier régional en proposant 20 % de son capital au public.",
+   "body": [
+    "Le marché financier de l'UEMOA accueille une nouvelle opération d'envergure. Coris Bank CI a officiellement annoncé son introduction à la Bourse régionale des valeurs mobilières (BRVM), mettant en vente 20 % de ses parts sociales.",
+    "Les investisseurs intéressés par cette opération peuvent acquérir les titres de l'établissement bancaire au prix unitaire de 7 720 FCFA. Cette mise sur le marché marque une étape significative pour la présence de la banque au sein de la cote officielle."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#gn-1y9w9h",
+   "image": null,
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-21T12:17:20.000Z",
+   "writtenAt": "2026-11-21T12:30:19.012Z",
+   "symbols": [
+    "CBIBF"
+   ],
+   "origin": {
+    "name": "Afrique sur 7",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObjE3Y3hZYkdHa2d1ZUx6SHNJNGNwRk5wLVY4eDhJV0dvekwwdGJVNlEwVjMtQV9meFVlUjJmcEl4MzNTQTMyVElLMTBDOTk4VzEwT0g0UGp3QVRpZnJhWlpSQ1BUNVA2NGYzUEotVzZrZkoya1c3Q2Z6QnVBZ1VpTTAycmozUQ?oc=5",
+    "title": "Introduction en bourse : Coris Bank CI vend 20 % à 7 720 FCFA"
+   },
+   "rewritten": true
   },
   {
    "id": "gn-xovbr8",
@@ -3734,30 +3760,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/congo-2-investisseurs-restent-en-lice-pour-racheter-kore-potash-et-ses-projets-miniers_65622",
     "title": "Congo : 2 investisseurs restent en lice pour racheter Kore Potash et ses projets miniers"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65621",
-   "title": "La fintech Send Chap facilite les transferts d'argent depuis le Canada vers l'Afrique",
-   "summary": "La plateforme numérique Send Chap, fondée par l'entrepreneur ivoirien Ange Philippe Oteyami, permet désormais d'envoyer des fonds du Canada vers l'Afrique et la Chine via les portefeuilles Mobile Money.",
-   "body": [
-    "La fintech Send Chap, développée par Dev Studios, étend ses activités en permettant des transferts de fonds depuis le Canada vers plusieurs pays africains et la Chine. Cette solution, pilotée par l'entrepreneur ivoirien Ange Philippe Oteyami, vise à simplifier l'envoi d'argent vers les portefeuilles Mobile Money des bénéficiaires, notamment via des opérateurs comme Orange Money, MTN, Wave ou encore Airtel Money.",
-    "L'application, disponible sur iOS et Android, permet aux utilisateurs de visualiser en temps réel les frais et les taux de change avant de valider leurs transactions. La société, opérée par DEV STUDIOS CANADA INC., est enregistrée auprès du CANAFE depuis le 19 août 2024 et dispose d'un agrément de la Banque du Canada. À ce jour, Send Chap revendique un volume traité de plus de 60 millions d'euros pour une base dépassant le million d'utilisateurs."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65621",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-10T13:50:00Z",
-   "writtenAt": "2026-11-10T14:47:02.202Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/la-fintech-send-chap-lance-ses-services-de-transfert-dargent-du-canada-vers-lafrique-et-la-chine_65621",
-    "title": "La Fintech Send Chap lance ses services de transfert d’argent du Canada vers l’Afrique et la Chine"
    },
    "rewritten": true
   }
