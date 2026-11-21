@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T12:45:22.887Z",
+ "updatedAt": "2026-11-21T13:00:21.421Z",
  "items": [
   {
    "id": "gn-1y9w9h",
@@ -14,6 +14,20 @@
    "symbols": [
     "CBIBF"
    ],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "gn-kl4bkz",
+   "title": "Une banque ouvre 20 % de son capital au public en prélude à son introduction à la BRVM",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZ2tmbTEtaHl0V00zZnFkTmFGQlMzSUpGY3VpUlV2TjVwZ2RNUkJqcEtIUERaZlctS2xTN0xBa3JxWG1FcGktQUdwUXJ4emp2N1pyNzh6WjlabklkNE5NN0M4RllPMnNJWnFHQ3Q1cThnTy13QWtXQUJCNktrX1B0N1NiVkRPY093bHZIV1VEcjJ3Skx1RERZNjRUeG9aQmEwZjBEY3lQSUEzTjVmbDdibTBtZVRGMHFMbC1iR3FPS1g?oc=5",
+   "image": null,
+   "source": "Pressecotedivoire",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-21T11:06:37.000Z",
+   "symbols": [],
    "status": "done",
    "tries": 1
   },
@@ -46,20 +60,6 @@
    "symbols": [
     "CBIBF"
    ],
-   "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "gn-kl4bkz",
-   "title": "Une banque ouvre 20 % de son capital au public en prélude à son introduction à la BRVM",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZ2tmbTEtaHl0V00zZnFkTmFGQlMzSUpGY3VpUlV2TjVwZ2RNUkJqcEtIUERaZlctS2xTN0xBa3JxWG1FcGktQUdwUXJ4emp2N1pyNzh6WjlabklkNE5NN0M4RllPMnNJWnFHQ3Q1cThnTy13QWtXQUJCNktrX1B0N1NiVkRPY093bHZIV1VEcjJ3Skx1RERZNjRUeG9aQmEwZjBEY3lQSUEzTjVmbDdibTBtZVRGMHFMbC1iR3FPS1g?oc=5",
-   "image": null,
-   "source": "Pressecotedivoire",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-11-21T06:54:40.000Z",
-   "symbols": [],
    "status": "done",
    "tries": 1
   },
