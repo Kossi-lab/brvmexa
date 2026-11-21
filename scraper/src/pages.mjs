@@ -17,7 +17,6 @@ const MARK = '<svg viewBox="0 0 32 32" aria-hidden="true"><rect width="32" heigh
 
 export const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]);
 export const safeId = (id) => String(id ?? '').toLowerCase().replace(/[^a-z0-9-]/g, '').slice(0, 64);
-const httpsUrl = (u) => (/^https:\/\//i.test(u ?? '') ? u : '');
 const clip = (s, n) => { s = String(s ?? '').replace(/\s+/g, ' ').trim(); return s.length > n ? s.slice(0, n - 1).replace(/\s+\S*$/, '') + '…' : s; };
 
 function longDate(iso) {
@@ -40,22 +39,19 @@ export function articleBody(a) {
   const content = (a.sections ?? []).length
     ? a.sections.map((x) => `<h2>${esc(x.h)}</h2>` + (x.p ?? []).map((p) => `<p>${esc(p)}</p>`).join('')).join('')
     : (a.paragraphs ?? []).map((p) => `<p>${esc(p)}</p>`).join('');
-  const origin = httpsUrl(a.origin?.url) && a.origin?.name
-    ? `<p class="ar-src">D’après une information de <a href="${esc(a.origin.url)}" target="_blank" rel="noopener nofollow">${esc(a.origin.name)}</a>, réécrite par la rédaction de BRVMexa.</p>` : '';
+  // Le texte est signé par la rédaction de BRVMexa : la source d'origine n'est pas affichée
   return `<article class="ar">
-<div class="container ar-wrap">
 <nav class="ar-crumbs" aria-label="Fil d’Ariane"><a href="../../">Actualités</a><span aria-hidden="true">›</span><span>${esc(a.kind)}</span></nav>
 <header class="ar-head">
 <p class="ar-kick"><span class="${a.une ? 'is-une' : ''}">${esc(a.kind)}</span>${esc(longDate(a.date))}</p>
 <h1>${esc(a.title)}</h1>
 ${a.summary ? `<p class="ar-lead">${esc(a.summary)}</p>` : ''}
-<div class="ar-meta"><span class="ar-author">${MARK}${esc(a.author || 'La Rédaction, BRVMexa')}</span><span>${a.minutes} min de lecture</span>
+<div class="ar-meta"><span class="ar-author">${MARK}La Rédaction BRVMexa</span><span>${a.minutes} min de lecture</span>
 <button type="button" class="ar-sharebtn"${shareAttrs}>${SHARE_ICON}<span>Partager</span></button></div>
 </header>
 ${points}
 <div class="ar-body">${content}</div>
 ${tags ? `<div class="ar-tags"><span>Sociétés citées</span><div class="tags">${tags}</div></div>` : ''}
-${origin}
 ${/^(actu|une):[a-z0-9-]{1,64}$/.test(a.social ?? '') ? `<div data-bx-social="${esc(a.social)}"></div>` : ''}
 <aside class="ar-end">
 <div><b>Cet article vous a été utile ?</b><span>Partagez-le avec vos proches qui investissent à la BRVM.</span></div>
@@ -63,7 +59,6 @@ ${/^(actu|une):[a-z0-9-]{1,64}$/.test(a.social ?? '') ? `<div data-bx-social="${
 <a class="btn btn--ghost" href="../../">Toutes les actualités</a></div>
 </aside>
 <p class="fx-disclaimer">Article d’information. Il ne constitue pas un conseil en investissement.</p>
-</div>
 </article>`;
 }
 
@@ -72,7 +67,7 @@ export function renderPage(tpl, a) {
   const ld = {
     '@context': 'https://schema.org', '@type': 'NewsArticle', headline: clip(a.title, 110), description: clip(a.summary, 300),
     datePublished: a.date, dateModified: a.modified || a.date, inLanguage: 'fr', mainEntityOfPage: a.url, image: [a.image],
-    author: { '@type': 'Organization', name: 'BRVMexa', url: SITE + '/' },
+    author: { '@type': 'Organization', name: 'La Rédaction BRVMexa', url: SITE + '/' },
     publisher: { '@type': 'Organization', name: 'BRVMexa', logo: { '@type': 'ImageObject', url: SITE + '/assets/img/icon-512.jpg' } },
   };
   const json = JSON.stringify(ld).replace(/</g, '\\u003c');
