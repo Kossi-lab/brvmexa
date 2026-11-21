@@ -27,6 +27,9 @@
     return DAYS[d.getUTCDay()] + ' ' + p[2] + ' ' + MONTHS[p[1] - 1] + ' ' + p[0];
   };
 
+  // Adresse de la fiche d'une action (même règle que le robot : scraper/src/stocks.mjs)
+  var stockUrl = function (q) { var s = String(q.shortName || q.name || '').normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/[’'`]/g, '-').replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, ''); return '/actions/' + s + '-' + String(q.symbol).toLowerCase() + '/'; };
+
   var get = function (name) {
     var stamp = Math.floor(Date.now() / 300000); // contourne le cache toutes les 5 minutes
     return fetch(base + '/' + name + '?t=' + stamp, { cache: 'no-cache' }).then(function (r) {
@@ -67,7 +70,6 @@
       el.innerHTML = idx(composite.close) + ' <span class="' + tone(composite.change) + '">' + pct(composite.change) + '</span>';
     });
 
-    var stockUrl = function (q) { var s = String(q.shortName || q.name || '').normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/[’'`]/g, '-').replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, ''); return '/actions/' + s + '-' + String(q.symbol).toLowerCase() + '/'; };
     var row = function (m) {
       return '<div class="row"><div><span class="sym">' + esc(m.symbol) + '</span><span class="name">' + esc(m.shortName) + '</span></div>' +
         '<div class="right"><span class="num">' + price(m.close) + ' F</span><span class="badge num ' + tone(m.change) + '">' + pct(m.change) + '</span></div></div>';
