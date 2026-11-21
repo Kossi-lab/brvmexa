@@ -58,7 +58,17 @@
     if (get() === 'granted') { set('denied'); location.reload(); } else banner();
   });
 
+  // Le bandeau attend que la visite guidée d'Alice soit fermée (jamais deux fenêtres à la fois)
+  var tourOn = function () { return document.body.classList.contains('gt-on') || !!document.querySelector('.gt'); };
+  function whenFree() {
+    var t = setInterval(function () {
+      if (get()) return clearInterval(t);
+      var b = document.querySelector('.ck');
+      if (tourOn()) { if (b) b.classList.remove('is-on'); return; }
+      if (!b) banner(); else b.classList.add('is-on');
+    }, 700);
+  }
   var c = get();
   if (c === 'granted') start();
-  else if (c !== 'denied') setTimeout(banner, 1500);
+  else if (c !== 'denied') setTimeout(whenFree, 3500);
 })();
