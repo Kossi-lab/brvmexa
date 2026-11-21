@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T21:15:15.634Z",
+ "updatedAt": "2026-11-21T21:30:29.374Z",
  "items": [
   {
    "id": "gn-1x1c30v",
@@ -107,6 +107,22 @@
     "CBIBF"
    ],
    "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "gn-1gfad7o",
+   "title": "Sogb Côte d'Ivoire (SOGC) — BRVM",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sZUtjYXhXV041LTR6dVZsNkFvNzVIUXFtWlBibk55VUdnOV9OcEVSQzY3N1EzMGlhbEVJRFdBaUdPZ3dXLUpSUWppRXZZT1JTU29NeVJibE5XQU9UMkdLTWMyNEhzdw?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-20T23:04:03.000Z",
+   "symbols": [
+    "SOGC"
+   ],
+   "status": "skip",
    "tries": 1
   },
   {
@@ -4310,22 +4326,6 @@
    "premium": false,
    "publishedAt": "2026-10-29T09:31:00Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "sika-65335",
-   "title": "Le bénéfice d’Orange CI progresse de 18% à 141 milliards FCFA à fin septembre 2026",
-   "summary": "Le groupe Orange Côte d'Ivoire confirme sa solide dynamique de croissance, avec un résultat net consolidé de 141 ...",
-   "url": "https://www.sikafinance.com/marches/le-benefice-dorange-ci-progresse-de-18-a-141-milliards-fcfa-a-fin-septembre-2026_65335",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-29T09:28:00Z",
-   "symbols": [
-    "ORAC"
-   ],
    "status": "new",
    "tries": 0
   }
