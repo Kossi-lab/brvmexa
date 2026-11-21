@@ -29,6 +29,14 @@
         '\u00a0à\u00a0' + d.toLocaleTimeString('fr-FR', { hour: '2-digit', minute: '2-digit', timeZone: 'Africa/Abidjan' }).replace(':', '\u00a0h\u00a0');
     } catch (e) { return d.toLocaleString('fr-FR'); }
   };
+  // Partage (share.js) : lien vers notre page pour les articles de la rédaction, vers la source sinon
+  var SITE = 'https://www.brvmexa.com';
+  var shareBtn = function (d, cls) { return window.BxShare ? window.BxShare.button(d, cls) : ''; };
+  var shareOf = function (n) {
+    return n.rewritten
+      ? { url: SITE + '/actualites/#' + n.id, title: n.title, text: n.summary, kind: 'Actualité BRVMexa', slug: 'actu' }
+      : { url: safeUrl(n.url), title: n.title, text: n.summary, kind: n.source || 'Actualité', slug: 'actu' };
+  };
   var mark = '<svg viewBox="0 0 32 32" aria-hidden="true"><rect width="32" height="32" rx="8" fill="#16C47F"/><rect x="7" y="17" width="4" height="8" rx="1.5" fill="#0A0F1A"/><rect x="14" y="12" width="4" height="13" rx="1.5" fill="#0A0F1A"/><rect x="21" y="7" width="4" height="18" rx="1.5" fill="#0A0F1A"/><path d="M6 14 13 9l5 2 8-6" stroke="#0A0F1A" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>';
 
   fetch(base + '/news.json?t=' + Math.floor(Date.now() / 300000), { cache: 'no-cache' })
@@ -54,7 +62,7 @@
         reader = document.createElement('div');
         reader.className = 'nx-reader';
         reader.innerHTML = '<div class="nx-dialog" role="dialog" aria-modal="true" aria-labelledby="nx-title" tabindex="-1">' +
-          '<button type="button" class="nx-close" aria-label="Fermer l’article">×</button>' +
+          '<button type="button" class="nx-close" aria-label="Fermer l’article">×</button>' + shareBtn(shareOf(n)) +
           '<p class="nx-cat">' + esc(n.category || 'Actualités') + '</p>' +
           '<h2 id="nx-title">' + esc(n.title) + '</h2>' +
           '<p class="nx-meta"><span class="nx-author">' + mark + esc(n.author) + '</span><span>Publié le ' + esc(when(n.publishedAt)) + '</span></p>' +
@@ -88,13 +96,14 @@
             var tags = (n.symbols || []).slice(0, 3).map(function (s) { return '<span class="tag">' + esc(s) + '</span>'; }).join('');
             if (n.rewritten) {
               var href = '#' + esc(n.id), nx = ' data-nx="' + esc(n.id) + '"';
-              return '<article class="post-card"><a class="thumb thumb--empty" href="' + href + '"' + nx + ' tabindex="-1" aria-hidden="true">' + mark + '</a>' +
+              return '<article class="post-card">' + shareBtn(shareOf(n)) + '<a class="thumb thumb--empty" href="' + href + '"' + nx + ' tabindex="-1" aria-hidden="true">' + mark + '</a>' +
                 '<div class="body"><div class="meta">' + esc(n.author) + ' · ' + esc(when(n.publishedAt)) + '</div>' +
                 '<h3><a href="' + href + '"' + nx + '>' + esc(n.title) + '</a></h3>' +
                 (n.summary ? '<p>' + esc(n.summary) + '</p>' : '') +
                 (tags ? '<div class="tags">' + tags + '</div>' : '') + '</div></article>';
             }
-            return '<article class="post-card"><a class="thumb' + (n.image ? '' : ' thumb--empty') + '" href="' + esc(safeUrl(n.url)) + '" target="_blank" rel="noopener" tabindex="-1" aria-hidden="true">' + thumb + '</a>' +
+            if (safeUrl(n.url) === '#') return '';
+            return '<article class="post-card">' + shareBtn(shareOf(n)) + '<a class="thumb' + (n.image ? '' : ' thumb--empty') + '" href="' + esc(safeUrl(n.url)) + '" target="_blank" rel="noopener" tabindex="-1" aria-hidden="true">' + thumb + '</a>' +
               '<div class="body"><div class="meta">' + esc(n.source) + ' · ' + esc(ago(n.publishedAt)) + '</div>' +
               '<h3><a href="' + esc(safeUrl(n.url)) + '" target="_blank" rel="noopener">' + esc(n.title) + '</a></h3>' +
               (n.summary ? '<p>' + esc(n.summary) + '</p>' : '') +
@@ -123,6 +132,7 @@
         reader.className = 'nx-reader nx-reader--une';
         reader.innerHTML = '<div class="nx-dialog" role="dialog" aria-modal="true" aria-labelledby="nx-title" tabindex="-1">' +
           '<button type="button" class="nx-close" aria-label="Fermer l’article">×</button>' +
+          shareBtn({ url: SITE + '/actualites/#a-la-une', title: une.title, text: une.summary, kind: 'À la une', slug: 'a-la-une' }) +
           '<p class="nx-cat une-kick">À la une · ' + esc(day(une.date)) + '</p>' +
           '<h2 id="nx-title">' + esc(une.title) + '</h2>' +
           '<p class="nx-meta"><span class="nx-author">' + mark + esc(une.author) + '</span><span>' + esc(une.readMinutes) + ' min de lecture</span></p>' +
@@ -147,7 +157,7 @@
             var card = document.createElement('section');
             card.className = 'une';
             card.setAttribute('aria-label', 'À la une');
-            card.innerHTML = '<div class="une-main"><p class="une-kick"><span>À la une</span>' + esc(day(u.date)) + '</p>' +
+            card.innerHTML = '<div class="une-main">' + shareBtn({ url: SITE + '/actualites/#a-la-une', title: u.title, text: u.summary, kind: 'À la une', slug: 'a-la-une' }) + '<p class="une-kick"><span>À la une</span>' + esc(day(u.date)) + '</p>' +
               '<h2><a href="#a-la-une" data-une>' + esc(u.title) + '</a></h2>' +
               (u.summary ? '<p class="une-lead">' + esc(u.summary) + '</p>' : '') +
               '<p class="une-meta">' + mark + '<span>' + esc(u.author) + ' · ' + esc(u.readMinutes) + ' min de lecture</span></p>' +
