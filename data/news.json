@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T13:30:16.613Z",
+ "updatedAt": "2026-11-21T13:46:02.183Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -67,6 +67,32 @@
     "name": "Africtelegraph",
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdnpObzUtVmg0RXlpWGhKOGczZFdmUTlDcGJBUHFvakdTVF9Beld2VmtIQnpXekI0NUFEMzhIQWR0QUZ0Vzgycjl6NHZkZm13Y1VueVJMTzQxdHZNTHBOWGcxTE9BYXZpRjdfQ2VPNXNaY2ZtWk9qQkN2T2ZGblplc3FPSGVzdUhDUWVOelJSV3c1TkF3MG5DWkM3MWpfOTBCRkRuMktSaw?oc=5",
     "title": "Coris Bank Côte d’Ivoire cède 20 % de son capital pour 62,74 milliards FCFA"
+   },
+   "rewritten": true
+  },
+  {
+   "id": "gn-1apynbn",
+   "title": "Actualité de la société Air Liquide Côte d'Ivoire sur le marché financier de la BRVM",
+   "summary": "La société Air Liquide Côte d'Ivoire fait l'objet d'un suivi boursier ce 21 novembre 2026 sur la Bourse régionale des valeurs mobilières.",
+   "body": [
+    "La valeur Air Liquide Côte d'Ivoire, cotée sous le mnémonique SIVC, est au cœur de l'actualité sur la place boursière régionale ce vendredi 21 novembre 2026.",
+    "Les investisseurs et observateurs du marché suivent avec attention les informations relatives à cette entreprise, dont la cotation est enregistrée au sein de la Bourse régionale des valeurs mobilières."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#gn-1apynbn",
+   "image": null,
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-21T10:42:00.000Z",
+   "writtenAt": "2026-11-21T13:46:02.178Z",
+   "symbols": [
+    "SIVC"
+   ],
+   "origin": {
+    "name": "Dabafinance",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01TU9WZUExelpvaEV5MlVDV0Y5blVQalVYRmVkWXFWUVVvS3RZUXctR1dObXR5di1GeFoyc2lTN0dmNTgzbEpYVGtWdVpod0FrS0Jfc0hCcmZGTmhYakpnNEZWM3Nrdw?oc=5",
+    "title": "Air Liquide Côte d'Ivoire (SIVC) — BRVM"
    },
    "rewritten": true
   },
@@ -3736,30 +3762,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/congo-zanaga-iron-cherche-de-nouveaux-financements-apres-le-report-de-son-accord-avec-red-arc_65623",
     "title": "Congo : Zanaga Iron cherche de nouveaux financements après le report de son accord avec Red Arc"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65622",
-   "title": "Kore Potash : deux candidats en lice pour le rachat de l'entreprise minière",
-   "summary": "Le groupe minier Kore Potash, actif en République du Congo, poursuit ses négociations avec deux investisseurs potentiels en vue d'une acquisition totale de son capital.",
-   "body": [
-    "Engagé depuis le 4 novembre 2025, le processus de cession de Kore Potash se précise. Selon le rapport trimestriel du 30 octobre 2026, deux investisseurs mènent actuellement des vérifications techniques et financières sur la société, cotée à Londres, en Australie et en Afrique du Sud. Ces candidats s'intéressent particulièrement aux projets Kola et Dougou Extension, situés dans le bassin de Sintoukola, où l'entreprise détient 97,58 % de sa filiale locale, Sintoukola Potash SA.",
-    "Le parcours de cette vente a été marqué par plusieurs étapes, notamment le retrait d'un candidat en février 2026, suivi de l'arrivée d'un nouveau partenaire en juin. Parallèlement, Kore Potash poursuit ses discussions avec les autorités congolaises concernant la loi minière du 18 avril 2026 et maintient ses échanges avec OWI-RAMS sur le financement du projet Kola. À ce jour, aucune offre ferme n'a été formalisée, alors que la trésorerie de l'entreprise s'élevait à 6,4 millions de dollars au 30 septembre 2026."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65622",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-10T14:15:00Z",
-   "writtenAt": "2026-11-10T14:46:43.051Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/congo-2-investisseurs-restent-en-lice-pour-racheter-kore-potash-et-ses-projets-miniers_65622",
-    "title": "Congo : 2 investisseurs restent en lice pour racheter Kore Potash et ses projets miniers"
    },
    "rewritten": true
   }

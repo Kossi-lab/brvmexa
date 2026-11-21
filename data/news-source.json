@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T13:30:16.611Z",
+ "updatedAt": "2026-11-21T13:46:02.180Z",
  "items": [
   {
    "id": "gn-1y9w9h",
@@ -43,6 +43,22 @@
    "publishedAt": "2026-11-21T11:06:20.000Z",
    "symbols": [
     "CBIBF"
+   ],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "gn-1apynbn",
+   "title": "Air Liquide Côte d'Ivoire (SIVC) — BRVM",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01TU9WZUExelpvaEV5MlVDV0Y5blVQalVYRmVkWXFWUVVvS3RZUXctR1dObXR5di1GeFoyc2lTN0dmNTgzbEpYVGtWdVpod0FrS0Jfc0hCcmZGTmhYakpnNEZWM3Nrdw?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-21T10:42:00.000Z",
+   "symbols": [
+    "SIVC"
    ],
    "status": "done",
    "tries": 1
@@ -4307,20 +4323,6 @@
    "category": "Marchés",
    "premium": true,
    "publishedAt": "2026-10-28T18:05:00Z",
-   "symbols": [],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "sika-65324",
-   "title": "Burkina Faso : West African Resources produit 3,6 tonnes d’or en 3 mois et vise jusqu’à 14 tonnes en 2026",
-   "summary": "Dans les sous-sols aurifères du Burkina Faso, West African Resources accélère sa production. Le groupe minier australie...",
-   "url": "https://www.sikafinance.com/marches/burkina-faso-west-african-resources-produit-3-6-tonnes-dor-en-3-mois-et-vise-jusqua-14-tonnes-en-2026_65324",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": true,
-   "publishedAt": "2026-10-28T17:50:00Z",
    "symbols": [],
    "status": "new",
    "tries": 0
