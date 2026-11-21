@@ -83,6 +83,22 @@
       '<p class="lmm-switch"><a href="../membre/">Mon Espace membre</a> · <a href="../telecharger/">L’application</a></p></div>';
   }
 
+  // L'adresse appartient déjà à un compte (Google, Apple ou e-mail) : message clair + bonne méthode
+  function existsView(email, info) {
+    var x = info ? window.BxMember.existing(info) : { kind: 'unknown', google: true, title: 'Vous avez déjà un compte',
+      text: 'Un compte existe déjà avec cette adresse email. Connectez-vous avec votre mot de passe, ou avec l’option « Continuer avec Google » si vous vous êtes inscrit avec Google.' };
+    var btns = (x.google ? '<button type="button" class="lmm-google" data-lmm-google data-email="' + esc(email) + '">' + GOOGLE + '<span>Continuer avec Google</span></button>' : '') +
+      (x.kind === 'password' || x.kind === 'unknown' ? '<button type="button" class="btn btn--primary lmm-submit" data-lmm-mode="login" data-email="' + esc(email) + '">Me connecter avec mon mot de passe</button>' : '') +
+      (x.kind === 'apple' ? '<a class="btn btn--primary lmm-submit" href="../membre/">Choisir un mot de passe</a>' : '');
+    return aside() + '<div class="lmm-main lmm-exists">' +
+      '<p class="lmm-kick">Content de vous revoir</p>' +
+      '<h2 id="lmm-t">' + esc(x.title) + '</h2>' +
+      '<p class="lmm-mail">' + esc(email) + '</p>' +
+      '<p class="lmm-lead">' + esc(x.text) + '</p>' + btns +
+      '<p class="lmm-msg" data-lmm-msg role="alert"></p>' +
+      '<p class="lmm-switch"><button type="button" data-lmm-mode="signup">Utiliser une autre adresse</button></p></div>';
+  }
+
   function mailView(email) {
     return aside() + '<div class="lmm-main lmm-done">' +
       '<span class="lmm-badge lmm-badge--mail">' + MAIL + '</span>' +
@@ -136,11 +152,15 @@
       start();
     }
     else if (t.hasAttribute('data-lmm-close')) close();
-    else if (t.hasAttribute('data-lmm-mode')) { mode = t.getAttribute('data-lmm-mode'); open(formView()); }
+    else if (t.hasAttribute('data-lmm-mode')) {
+      mode = t.getAttribute('data-lmm-mode'); open(formView());
+      var pre = t.getAttribute('data-email'), fe = modal && modal.querySelector('input[name="email"]');
+      if (pre && fe) { fe.value = pre; var fp = modal.querySelector('input[name="password"]'); if (fp) fp.focus(); }
+    }
     else if (t.hasAttribute('data-lmm-google')) {
       if (!sb) return setMsg('Service momentanément indisponible. Réessayez plus tard.');
       busy(true); mark();
-      sb.auth.signInWithOAuth({ provider: 'google', options: { redirectTo: back } }).then(function (r) { if (r && r.error) { busy(false); setMsg(tr(r.error.message)); } });
+      window.BxMember.google(back, t.getAttribute('data-email') || '').then(function (r) { if (r && r.error) { busy(false); setMsg(tr(r.error.message)); } });
     }
   });
   document.addEventListener('keydown', function (e) { if (e.key === 'Escape') close(); });
@@ -157,13 +177,27 @@
     if (pw.length < 8) return setMsg('Le mot de passe doit contenir au moins 8 caractères.');
     if (mode === 'signup' && !form.elements.cgu.checked) return setMsg('Cochez la case pour accepter les conditions.');
     busy(true); setMsg('Patientez…'); mark();
-    var p = mode === 'login'
-      ? sb.auth.signInWithPassword({ email: email, password: pw })
-      : sb.auth.signUp({ email: email, password: pw, options: { data: { full_name: v('name'), source: 'le-mag' }, emailRedirectTo: back } });
+    var M = window.BxMember, known = null;
+    // Inscription : l'adresse appartient-elle déjà à un compte ? (Google, Apple ou e-mail)
+    var pre = mode === 'signup' ? M.methods(email).then(function (info) { known = info; return M.taken(info); }) : Promise.resolve(false);
+    var p = pre.then(function (isTaken) {
+      if (isTaken) return { taken: true };
+      return mode === 'login'
+        ? sb.auth.signInWithPassword({ email: email, password: pw })
+        : sb.auth.signUp({ email: email, password: pw, options: { data: { full_name: v('name'), source: 'le-mag' }, emailRedirectTo: back } });
+    });
     p.then(function (r) {
       busy(false);
+      if (r.taken || (mode === 'signup' && M.signupHitExisting(r))) return open(existsView(email, known));
       if (r.error) {
         if (/not confirmed/i.test(r.error.message)) return open(mailView(email));
+        if (mode === 'login' && /invalid login/i.test(r.error.message)) {
+          return M.methods(email).then(function (info) {
+            if (info && info.exists && !info.password && (info.providers || []).indexOf('email') < 0) return open(existsView(email, info));
+            if (info && !info.exists) return setMsg('Aucun compte n’existe avec cette adresse. Vérifiez-la, ou inscrivez-vous gratuitement.');
+            setMsg(tr(r.error.message));
+          });
+        }
         return setMsg(tr(r.error.message));
       }
       if (r.data && r.data.session) { window.BxMember.refresh(); return success(); }

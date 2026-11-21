@@ -834,6 +834,21 @@ html.dv-open { overflow: hidden; }
 .mb-msg { min-height: 1.2em; margin: 12px 0 0; font-size: .9rem; color: var(--sec); }
 .mb-msg.ok { color: #16C47F; font-weight: 600; }
 .mb-msg.err { color: #F0526B; font-weight: 600; }
+.mb-exists .mb-exists-mail { display: inline-block; margin: -4px 0 12px; padding: 4px 12px; border-radius: 99px; background: var(--surface-2, rgba(255,255,255,.06)); font-weight: 700; font-size: .9rem; }
+.mb-exists p { line-height: 1.55; }
+.mb-exists .mb-submit { width: 100%; margin-top: 14px; }
+.mb-methods { margin-top: 22px; padding-top: 18px; border-top: 1px solid var(--border); }
+.mb-methods h3 { font-size: 1rem; margin: 0 0 10px; }
+.mb-methods ul { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; }
+.mb-methods li { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 10px 14px; border: 1px solid var(--border); border-radius: 12px; }
+.mb-methods li > span { display: inline-flex; align-items: center; gap: 8px; font-weight: 600; }
+.mb-methods li b { color: var(--sec); font-size: .85rem; }
+.mb-methods li.on b { color: #16C47F; }
+.mb-methods li small { color: var(--sec); font-size: .78rem; text-align: right; max-width: 55%; }
+.mb-methods form { margin-top: 12px; }
+.lmm-exists p { line-height: 1.55; }
+.lmm-exists .lmm-mail { display: inline-block; margin: 0 0 6px; padding: 4px 12px; border-radius: 99px; background: rgba(255,255,255,.07); font-weight: 700; font-size: .9rem; }
+.lmm-exists .lmm-google, .lmm-exists .lmm-submit { margin-top: 12px; }
 .mb-pending { padding: 10px 12px; border-radius: 10px; background: var(--accent-soft); font-size: .9rem; }
 .mb-hello { display: flex; gap: 14px; align-items: center; }
 .mb-hello h2 { font-size: 1.25rem; margin: 0; }

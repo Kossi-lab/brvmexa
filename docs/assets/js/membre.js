@@ -134,8 +134,51 @@
     });
   }
 
+  // ───────── Un seul compte par adresse e-mail ─────────
+  // Méthodes de connexion déjà liées à une adresse (fonction Supabase « auth_methods »).
+  // Renvoie null si la vérification est impossible : l'inscription suit alors son cours normal.
+  function methods(email) {
+    if (!sb || !email) return Promise.resolve(null);
+    return sb.rpc('auth_methods', { p_email: String(email).trim().toLowerCase() })
+      .then(function (r) { return r.error || !r.data ? null : r.data; })
+      .catch(function () { return null; });
+  }
+  // Message à afficher quand l'adresse appartient déjà à un compte
+  function existing(info) {
+    var p = (info && info.providers) || [];
+    var pw = !!(info && (info.password || p.indexOf('email') >= 0));
+    var g = p.indexOf('google') >= 0, a = p.indexOf('apple') >= 0;
+    if (!pw && g) return { kind: 'google', google: true, title: 'Vous avez déjà un compte',
+      text: 'Un compte existe déjà avec cette adresse email. Vous vous êtes précédemment inscrit avec Google. Veuillez utiliser l’option « Continuer avec Google » pour accéder à votre compte.' };
+    if (!pw && a) return { kind: 'apple', title: 'Vous avez déjà un compte',
+      text: 'Un compte existe déjà avec cette adresse email. Vous vous êtes précédemment inscrit avec Apple, depuis l’application BRVMexa. Connectez-vous dans l’application avec « Continuer avec Apple », ou choisissez un mot de passe pour ce compte.' };
+    return { kind: 'password', google: g, title: 'Vous avez déjà un compte',
+      text: 'Un compte existe déjà avec cette adresse email. Connectez-vous avec votre mot de passe' + (g ? ', ou avec l’option « Continuer avec Google »' : '') + '.' };
+  }
+  // L'adresse est-elle déjà prise ? (un compte non confirmé par e-mail peut, lui, recevoir un nouveau lien)
+  function taken(info) {
+    if (!info || !info.exists) return false;
+    var p = info.providers || [];
+    return info.confirmed || p.some(function (x) { return x !== 'email'; });
+  }
+  // Supabase ne signale pas les adresses déjà prises (protection anti-espionnage) : il renvoie un compte sans « identité »
+  function signupHitExisting(r) {
+    var u = r && r.data && r.data.user;
+    return !!(u && !r.data.session && Array.isArray(u.identities) && u.identities.length === 0);
+  }
+  function google(redirectTo, email) {
+    var o = { redirectTo: redirectTo };
+    if (email) o.queryParams = { login_hint: email };   // Google propose directement le bon compte
+    return sb.auth.signInWithOAuth({ provider: 'google', options: o });
+  }
+
   window.BxMember = {
     ready: function () { return ready; },
+    methods: methods,
+    existing: existing,
+    taken: taken,
+    signupHitExisting: signupHitExisting,
+    google: google,
     refresh: function () { ready = load(); return ready; },
     client: function () { return sb; },
     paywall: paywall,
@@ -217,6 +260,25 @@
     notice = '';
   }
 
+  // L'adresse appartient déjà à un compte : on explique et on propose la bonne méthode
+  function existsView(email, info) {
+    var x = info ? existing(info) : { kind: 'unknown', google: true, title: 'Vous avez déjà un compte',
+      text: 'Un compte existe déjà avec cette adresse email. Connectez-vous avec votre mot de passe, ou avec l’option « Continuer avec Google » si vous vous êtes inscrit avec Google.' };
+    var main = x.google
+      ? '<button type="button" class="mb-google" data-mb-google data-email="' + esc(email) + '">' + GOOGLE + '<span>Continuer avec Google</span></button>' : '';
+    if (x.kind === 'password' || x.kind === 'unknown') main = '<button type="button" class="btn btn--primary mb-submit" data-mb-login="' + esc(email) + '">Me connecter avec mon mot de passe</button>' + main;
+    var alt = x.kind === 'password' || x.kind === 'unknown'
+      ? '<button type="button" class="mb-link" data-mb-forgot="' + esc(email) + '">Mot de passe oublié ?</button>'
+      : '<button type="button" class="mb-link" data-mb-forgot="' + esc(email) + '">Je préfère un mot de passe : le recevoir par e-mail</button>';
+    box.innerHTML = '<div class="mb-card mb-login mb-exists">' +
+      '<div class="pw-ico" aria-hidden="true"><svg viewBox="0 0 24 24" width="26" height="26"><circle cx="12" cy="8" r="4" fill="none" stroke="currentColor" stroke-width="2"/><path d="M4 20c1.5-4 4.5-6 8-6s6.5 2 8 6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg></div>' +
+      '<h2>' + esc(x.title) + '</h2>' +
+      '<p class="mb-exists-mail">' + esc(email) + '</p>' +
+      '<p>' + esc(x.text) + '</p>' + main +
+      '<p class="mb-msg" data-mb-msg role="status" aria-live="polite"></p>' +
+      '<div class="mb-links">' + alt + '<button type="button" class="mb-link" data-mode="signup">Utiliser une autre adresse</button></div></div>';
+  }
+
   function recoveryView() {
     box.innerHTML = '<div class="mb-card mb-login"><h2>Nouveau mot de passe</h2><p class="muted">Choisissez votre nouveau mot de passe (8 caractères minimum).</p>' +
       '<form data-mb-recover novalidate><label>Nouveau mot de passe<input name="password" type="password" minlength="8" autocomplete="new-password" required></label>' +
@@ -246,11 +308,31 @@
       '<div class="mb-hello"><div class="mb-avatar" aria-hidden="true">' + esc(name.charAt(0).toUpperCase()) + '</div><div><h2>Bonjour ' + esc(name) + '</h2><p class="muted">' + esc(u.email || '') + '</p></div></div>' +
       (st.premium ? mcard : status) + '<p class="mb-msg" data-mb-msg role="status" aria-live="polite">' + esc(notice) + '</p>' +
       '<div class="mb-actions">' + go + '<button type="button" class="btn btn--ghost" data-mb-logout>Se déconnecter</button></div>' +
-      app +
+      app + '<div class="mb-methods" data-mb-methods></div>' +
       (st.premium ? '<p class="muted mb-small">Vous pouvez prolonger votre abonnement à tout moment : la durée choisie s’ajoute à la date de fin actuelle.</p>' : '') +
       '</div>';
     notice = '';
     page.classList.toggle('is-premium', !!st.premium);
+    methodsBox(u);
+  }
+
+  // Méthodes de connexion liées au compte (Google, mot de passe) : une seule fiche, plusieurs façons d'y entrer
+  function methodsBox(u) {
+    var el = box.querySelector('[data-mb-methods]');
+    if (!el) return;
+    var ids = (u.identities || []).map(function (i) { return i.provider; });
+    var prov = (u.app_metadata || {}).providers || [];
+    var has = function (p) { return ids.indexOf(p) >= 0 || prov.indexOf(p) >= 0; };
+    methods(u.email).then(function (info) {
+      var pw = info ? !!(info.password || (info.providers || []).indexOf('email') >= 0) : has('email');
+      var row = function (on, label, extra) { return '<li class="' + (on ? 'on' : '') + '"><span>' + label + '</span>' + (extra || '<b>' + (on ? 'Activé' : 'Non') + '</b>') + '</li>'; };
+      el.innerHTML = '<h3>Mes méthodes de connexion</h3><ul>' +
+        row(has('google'), GOOGLE + ' Google', has('google') ? '<b>Activé</b>' : '<small>Se fait tout seul à votre prochaine connexion avec Google, avec cette même adresse</small>') +
+        (has('apple') ? row(true, ' Apple') : '') +
+        row(pw, 'E-mail et mot de passe', pw ? '<b>Activé</b>' : '<button type="button" class="mb-link" data-mb-addpw>Ajouter un mot de passe</button>') +
+        '</ul><p class="muted mb-small">Toutes ces méthodes ouvrent <b>le même compte</b>, sur le site et dans l’application.</p>' +
+        '<form data-mb-setpw hidden novalidate><label>Nouveau mot de passe<input name="password" type="password" minlength="8" autocomplete="new-password" required></label><button class="btn btn--primary mb-submit" type="submit">Enregistrer le mot de passe</button></form>';
+    });
   }
 
   function verifyView(st, sent) {
@@ -362,14 +444,21 @@
   }
 
   page.addEventListener('click', function (e) {
-    var t = e.target.closest('[data-plan], [data-mode], [data-mb-google], [data-mb-logout], [data-mb-check], [data-mb-resend], [data-mb-resignup], [data-mb-check-email], [data-mb-change]');
+    var t = e.target.closest('[data-plan], [data-mode], [data-mb-google], [data-mb-logout], [data-mb-check], [data-mb-resend], [data-mb-resignup], [data-mb-check-email], [data-mb-change], [data-mb-login], [data-mb-forgot], [data-mb-addpw]');
     if (!t) return;
     if (t.hasAttribute('data-plan')) { e.preventDefault(); checkout(t.getAttribute('data-plan'), t); }
     else if (t.hasAttribute('data-mode')) { mode = t.getAttribute('data-mode'); loginView(); var f = box.querySelector('input'); if (f) f.focus(); }
     else if (t.hasAttribute('data-mb-google')) {
       t.disabled = true;
-      sb.auth.signInWithOAuth({ provider: 'google', options: { redirectTo: location.origin + location.pathname } })
+      google(location.origin + location.pathname, t.getAttribute('data-email') || '')
         .then(function (r) { if (r.error) { t.disabled = false; setMsg(tr(r.error.message), 'err'); } });
+    } else if (t.hasAttribute('data-mb-login') || t.hasAttribute('data-mb-forgot')) {
+      var pre = t.getAttribute('data-mb-login') || t.getAttribute('data-mb-forgot');
+      mode = t.hasAttribute('data-mb-login') ? 'login' : 'forgot'; loginView();
+      var fe = box.querySelector('input[name=email]'); if (fe) fe.value = pre;
+      var fp = box.querySelector('input[name=password]'); (fp || box.querySelector('.mb-submit')).focus();
+    } else if (t.hasAttribute('data-mb-addpw')) {
+      var fm = box.querySelector('[data-mb-setpw]'); if (fm) { fm.hidden = false; fm.querySelector('input').focus(); }
     } else if (t.hasAttribute('data-mb-check')) {
       t.disabled = true;
       sb.auth.refreshSession().then(function () { return window.BxMember.refresh(); }).then(function (st) {
@@ -411,6 +500,17 @@
     var form = e.target;
     e.preventDefault();
     var v = function (n) { var el = form.elements[n]; return el ? el.value.trim() : ''; };
+    if (form.hasAttribute('data-mb-setpw')) {
+      if (v('password').length < 8) return setMsg('8 caractères minimum.', 'err');
+      busy(form, true);
+      sb.auth.updateUser({ password: v('password') }).then(function (r) {
+        busy(form, false);
+        if (r.error) return setMsg(/reauth|recent/i.test(r.error.message) ? 'Par sécurité, reconnectez-vous puis réessayez (ou utilisez « Mot de passe oublié »).' : tr(r.error.message), 'err');
+        notice = 'Mot de passe ajouté : vous pouvez maintenant vous connecter avec Google ou avec votre e-mail et ce mot de passe.';
+        render();
+      });
+      return;
+    }
     if (form.hasAttribute('data-mb-recover')) {
       if (v('password').length < 8) return setMsg('8 caractères minimum.', 'err');
       busy(form, true);
@@ -429,13 +529,28 @@
     if (mode !== 'forgot' && pw.length < 8) return setMsg('Le mot de passe doit contenir au moins 8 caractères.', 'err');
     busy(form, true); setMsg('Patientez…');
     var here = location.origin + location.pathname;
-    var p = mode === 'login' ? sb.auth.signInWithPassword({ email: email, password: pw })
-      : mode === 'signup' ? sb.auth.signUp({ email: email, password: pw, options: { data: { full_name: v('name') }, emailRedirectTo: here } })
-        : sb.auth.resetPasswordForEmail(email, { redirectTo: here });
+    var known = null;
+    // Inscription : on vérifie d'abord que l'adresse n'appartient pas déjà à un compte (Google, Apple ou e-mail)
+    var pre = mode === 'signup' ? methods(email).then(function (info) { known = info; return taken(info); }) : Promise.resolve(false);
+    var p = pre.then(function (isTaken) {
+      if (isTaken) return { taken: true };
+      return mode === 'login' ? sb.auth.signInWithPassword({ email: email, password: pw })
+        : mode === 'signup' ? sb.auth.signUp({ email: email, password: pw, options: { data: { full_name: v('name') }, emailRedirectTo: here } })
+          : sb.auth.resetPasswordForEmail(email, { redirectTo: here });
+    });
     p.then(function (r) {
       busy(form, false);
+      if (r.taken || (mode === 'signup' && signupHitExisting(r))) return existsView(email, known);
       if (r.error) {
         if (/not confirmed/i.test(r.error.message)) { store.set('bx-pending-email', email); return pendingEmailView(email, false); }
+        // Mauvais mot de passe : le compte a peut-être été créé avec Google (sans mot de passe)
+        if (mode === 'login' && /invalid login/i.test(r.error.message)) {
+          return methods(email).then(function (info) {
+            if (info && info.exists && !info.password && (info.providers || []).indexOf('email') < 0) return existsView(email, info);
+            if (info && !info.exists) return setMsg('Aucun compte n’existe avec cette adresse. Vérifiez-la, ou créez un compte.', 'err');
+            setMsg(tr(r.error.message), 'err');
+          });
+        }
         setMsg(tr(r.error.message), 'err');
         return;
       }
