@@ -1745,9 +1745,9 @@ body.gt-on { overflow-anchor: none; }
 @media (max-width: 520px) { .gt-pop { padding: 16px 16px 14px; } .gt-text { font-size: .9rem; } .gt-alice { width: 44px; height: 44px; } .gt-face { font-size: 1.5rem; } }
 
 /* ───────── Alice, l'assistante (alice.js) ───────── */
-.al { position: fixed; left: 20px; bottom: 20px; z-index: 900; font-family: var(--font); }
+.al { position: fixed; right: 20px; bottom: 20px; z-index: 900; font-family: var(--font); }
 body.gt-on .al, body.nx-open .al { display: none; }
-.al-launch { position: relative; display: flex; align-items: center; gap: 10px; height: 60px; padding: 0 18px 0 6px; border-radius: 99px; border: 1px solid rgba(22, 196, 127, .45); background: linear-gradient(135deg, #142338, #0d1626); color: var(--text); cursor: pointer; box-shadow: 0 14px 34px rgba(0, 0, 0, .45), 0 0 0 0 rgba(22, 196, 127, .4); animation: al-in .6s cubic-bezier(.2, .9, .25, 1.3) 1s both, al-glow 3s ease-in-out 2s 3; transition: transform .2s, border-color .2s; }
+.al-launch { position: relative; margin-left: auto; display: flex; align-items: center; gap: 10px; height: 60px; padding: 0 18px 0 6px; border-radius: 99px; border: 1px solid rgba(22, 196, 127, .45); background: linear-gradient(135deg, #142338, #0d1626); color: var(--text); cursor: pointer; box-shadow: 0 14px 34px rgba(0, 0, 0, .45), 0 0 0 0 rgba(22, 196, 127, .4); animation: al-in .6s cubic-bezier(.2, .9, .25, 1.3) 1s both, al-glow 3s ease-in-out 2s 3; transition: transform .2s, border-color .2s; }
 .al-launch:hover, .al-launch:focus-visible { transform: translateY(-2px); border-color: var(--accent); }
 .al-face { width: 48px; height: 48px; border-radius: 50%; display: grid; place-items: center; font-size: 1.7rem; background: radial-gradient(circle at 35% 30%, #24365a, #101a2b); box-shadow: 0 0 0 2px var(--accent); animation: al-float 3.4s ease-in-out infinite; }
 .al-dot { position: absolute; left: 42px; top: 8px; width: 12px; height: 12px; border-radius: 50%; background: var(--accent); border: 2px solid #0d1626; }
@@ -1755,11 +1755,11 @@ body.gt-on .al, body.nx-open .al { display: none; }
 .al-lbl { font-weight: 800; font-size: .95rem; }
 .al.is-open .al-launch { opacity: 0; pointer-events: none; transform: scale(.8); }
 
-.al-nudge { position: absolute; left: 0; bottom: 74px; width: 250px; padding: 14px 34px 14px 16px; border-radius: 16px 16px 16px 4px; background: #fff; color: #0A0F1A; font-size: .88rem; line-height: 1.45; box-shadow: 0 16px 40px rgba(0, 0, 0, .4); cursor: pointer; animation: al-pop .45s cubic-bezier(.2, .9, .25, 1.4) both; }
+.al-nudge { position: absolute; right: 0; bottom: 74px; width: 250px; padding: 14px 34px 14px 16px; border-radius: 16px 16px 4px 16px; background: #fff; color: #0A0F1A; font-size: .88rem; line-height: 1.45; box-shadow: 0 16px 40px rgba(0, 0, 0, .4); cursor: pointer; animation: al-pop .45s cubic-bezier(.2, .9, .25, 1.4) both; }
 .al-nudge b { display: block; font-size: .95rem; margin-bottom: 2px; }
 .al-nudge-x { position: absolute; top: 6px; right: 6px; width: 26px; height: 26px; border: 0; border-radius: 8px; background: transparent; color: #5F6B80; font-size: 1.2rem; cursor: pointer; }
 
-.al-panel { position: absolute; left: 0; bottom: 0; width: 380px; height: min(600px, calc(100vh - 110px)); display: flex; flex-direction: column; border-radius: 22px; overflow: hidden; background: #0d1524; border: 1px solid rgba(22, 196, 127, .3); box-shadow: 0 30px 80px rgba(0, 0, 0, .6); transform-origin: 30px 100%; opacity: 0; transform: translateY(16px) scale(.9); pointer-events: none; transition: opacity .25s ease, transform .35s cubic-bezier(.2, .9, .25, 1.15); }
+.al-panel { position: absolute; right: 0; bottom: 0; width: 380px; height: min(600px, calc(100vh - 110px)); display: flex; flex-direction: column; border-radius: 22px; overflow: hidden; background: #0d1524; border: 1px solid rgba(22, 196, 127, .3); box-shadow: 0 30px 80px rgba(0, 0, 0, .6); transform-origin: calc(100% - 30px) 100%; opacity: 0; transform: translateY(16px) scale(.9); pointer-events: none; transition: opacity .25s ease, transform .35s cubic-bezier(.2, .9, .25, 1.15); }
 .al.is-open .al-panel { opacity: 1; transform: none; pointer-events: auto; }
 .al-head { display: flex; align-items: center; gap: 12px; padding: 14px 12px 14px 16px; background: linear-gradient(135deg, rgba(22, 196, 127, .22), rgba(242, 179, 61, .12)); border-bottom: 1px solid var(--border); }
 .al-av { width: 44px; height: 44px; border-radius: 50%; display: grid; place-items: center; font-size: 1.55rem; background: #101a2b; box-shadow: 0 0 0 2px var(--accent); }
@@ -1818,7 +1818,7 @@ body.gt-on .al, body.nx-open .al { display: none; }
 @keyframes al-ring { 0%, 100% { box-shadow: 0 0 0 3px var(--accent), 0 0 0 9px rgba(22, 196, 127, .2), 0 0 40px rgba(22, 196, 127, .45); } 50% { box-shadow: 0 0 0 3px var(--accent), 0 0 0 16px rgba(22, 196, 127, .08), 0 0 60px rgba(22, 196, 127, .55); } }
 @media (prefers-reduced-motion: reduce) { .al *, .al, .al-ring, .al-ring * { animation: none !important; transition: none !important; } }
 @media (max-width: 600px) {
-  .al { left: 12px; bottom: 12px; }
+  .al { right: 12px; bottom: 12px; }
   .al-launch { height: 54px; padding: 0 6px; }
   .al-lbl { display: none; }
   .al-face { width: 42px; height: 42px; font-size: 1.5rem; }
