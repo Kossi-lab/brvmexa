@@ -2249,3 +2249,4 @@ body.gt-on .al, body.nx-open .al { display: none; }
 .st-peers em { font-style: normal; font-weight: 700; font-size: .85rem; }
 .st-src ul { color: var(--sec); font-size: .9rem; line-height: 1.7; }
 @media (max-width: 640px) { .st-perf { grid-template-columns: repeat(2, 1fr); } .st-stats { grid-template-columns: repeat(2, 1fr); } .st-table th, .st-table td { padding: 10px 12px; } }
+.st-sec p a, .st-note a, .st-when a { text-decoration: underline; text-underline-offset: 2px; }
