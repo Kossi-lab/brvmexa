@@ -1743,3 +1743,87 @@ body.gt-on { overflow-anchor: none; }
   .gt-pop, .gt-pop.gt-anim, .gt-spot, .gt-mask i, .gt-alice, .gt-wave, .gt-ico, .gt-w, .gt-spot::after, .gt-progress i { animation: none !important; transition: none !important; }
 }
 @media (max-width: 520px) { .gt-pop { padding: 16px 16px 14px; } .gt-text { font-size: .9rem; } .gt-alice { width: 44px; height: 44px; } .gt-face { font-size: 1.5rem; } }
+
+/* ───────── Alice, l'assistante (alice.js) ───────── */
+.al { position: fixed; left: 20px; bottom: 20px; z-index: 900; font-family: var(--font); }
+body.gt-on .al, body.nx-open .al { display: none; }
+.al-launch { position: relative; display: flex; align-items: center; gap: 10px; height: 60px; padding: 0 18px 0 6px; border-radius: 99px; border: 1px solid rgba(22, 196, 127, .45); background: linear-gradient(135deg, #142338, #0d1626); color: var(--text); cursor: pointer; box-shadow: 0 14px 34px rgba(0, 0, 0, .45), 0 0 0 0 rgba(22, 196, 127, .4); animation: al-in .6s cubic-bezier(.2, .9, .25, 1.3) 1s both, al-glow 3s ease-in-out 2s 3; transition: transform .2s, border-color .2s; }
+.al-launch:hover, .al-launch:focus-visible { transform: translateY(-2px); border-color: var(--accent); }
+.al-face { width: 48px; height: 48px; border-radius: 50%; display: grid; place-items: center; font-size: 1.7rem; background: radial-gradient(circle at 35% 30%, #24365a, #101a2b); box-shadow: 0 0 0 2px var(--accent); animation: al-float 3.4s ease-in-out infinite; }
+.al-dot { position: absolute; left: 42px; top: 8px; width: 12px; height: 12px; border-radius: 50%; background: var(--accent); border: 2px solid #0d1626; }
+.al-dot::after { content: ""; position: absolute; inset: -2px; border-radius: 50%; border: 2px solid var(--accent); animation: al-ping 2s ease-out infinite; }
+.al-lbl { font-weight: 800; font-size: .95rem; }
+.al.is-open .al-launch { opacity: 0; pointer-events: none; transform: scale(.8); }
+
+.al-nudge { position: absolute; left: 0; bottom: 74px; width: 250px; padding: 14px 34px 14px 16px; border-radius: 16px 16px 16px 4px; background: #fff; color: #0A0F1A; font-size: .88rem; line-height: 1.45; box-shadow: 0 16px 40px rgba(0, 0, 0, .4); cursor: pointer; animation: al-pop .45s cubic-bezier(.2, .9, .25, 1.4) both; }
+.al-nudge b { display: block; font-size: .95rem; margin-bottom: 2px; }
+.al-nudge-x { position: absolute; top: 6px; right: 6px; width: 26px; height: 26px; border: 0; border-radius: 8px; background: transparent; color: #5F6B80; font-size: 1.2rem; cursor: pointer; }
+
+.al-panel { position: absolute; left: 0; bottom: 0; width: 380px; height: min(600px, calc(100vh - 110px)); display: flex; flex-direction: column; border-radius: 22px; overflow: hidden; background: #0d1524; border: 1px solid rgba(22, 196, 127, .3); box-shadow: 0 30px 80px rgba(0, 0, 0, .6); transform-origin: 30px 100%; opacity: 0; transform: translateY(16px) scale(.9); pointer-events: none; transition: opacity .25s ease, transform .35s cubic-bezier(.2, .9, .25, 1.15); }
+.al.is-open .al-panel { opacity: 1; transform: none; pointer-events: auto; }
+.al-head { display: flex; align-items: center; gap: 12px; padding: 14px 12px 14px 16px; background: linear-gradient(135deg, rgba(22, 196, 127, .22), rgba(242, 179, 61, .12)); border-bottom: 1px solid var(--border); }
+.al-av { width: 44px; height: 44px; border-radius: 50%; display: grid; place-items: center; font-size: 1.55rem; background: #101a2b; box-shadow: 0 0 0 2px var(--accent); }
+.al-id { flex: 1; display: flex; flex-direction: column; line-height: 1.2; }
+.al-id b { font-size: 1rem; }
+.al-id small { display: flex; align-items: center; gap: 6px; font-size: .75rem; color: var(--sec); }
+.al-id small i { width: 7px; height: 7px; border-radius: 50%; background: var(--accent); box-shadow: 0 0 0 3px rgba(22, 196, 127, .2); }
+.al-home, .al-close { width: 34px; height: 34px; border: 0; border-radius: 10px; background: transparent; color: var(--sec); font-size: 1.3rem; cursor: pointer; }
+.al-home:hover, .al-close:hover, .al-home:focus-visible, .al-close:focus-visible { background: rgba(255, 255, 255, .07); color: var(--text); }
+.al-log { flex: 1; overflow-y: auto; padding: 16px 14px 8px; display: flex; flex-direction: column; gap: 10px; scroll-behavior: smooth; overscroll-behavior: contain; }
+.al-msg { max-width: 88%; padding: 10px 14px; border-radius: 16px; font-size: .9rem; line-height: 1.5; animation: al-msg .3s ease both; }
+.al-msg p { margin: 0; }
+.al-bot { align-self: flex-start; background: #172338; border-bottom-left-radius: 4px; color: #D5DEEA; }
+.al-bot b { color: #fff; }
+.al-me { align-self: flex-end; background: var(--accent); color: #06110B; font-weight: 600; border-bottom-right-radius: 4px; }
+.al-plain { background: transparent; padding: 0; max-width: 100%; width: 100%; }
+.al-typing { display: inline-flex; gap: 4px; padding: 4px 2px; }
+.al-typing i { width: 7px; height: 7px; border-radius: 50%; background: var(--sec); animation: al-type 1s infinite; }
+.al-typing i:nth-child(2) { animation-delay: .15s; } .al-typing i:nth-child(3) { animation-delay: .3s; }
+.al-cats { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+.al-cats button { display: flex; align-items: center; gap: 8px; padding: 10px 12px; border-radius: 12px; border: 1px solid var(--border); background: #111b2c; color: var(--text); font: inherit; font-size: .84rem; font-weight: 700; text-align: left; cursor: pointer; transition: border-color .2s, transform .2s; }
+.al-cats button span { font-size: 1.1rem; }
+.al-cats button:hover, .al-cats button:focus-visible { border-color: var(--accent); transform: translateY(-1px); }
+.al-qs { display: flex; flex-direction: column; gap: 6px; }
+.al-qs button, .al-sug button { display: flex; align-items: center; justify-content: space-between; gap: 10px; width: 100%; padding: 10px 12px; border-radius: 12px; border: 1px solid rgba(22, 196, 127, .3); background: rgba(22, 196, 127, .07); color: var(--text); font: inherit; font-size: .86rem; font-weight: 600; text-align: left; cursor: pointer; transition: background .2s, border-color .2s; }
+.al-qs button span { color: var(--accent); font-size: 1.2rem; }
+.al-qs button:hover, .al-qs button:focus-visible, .al-sug button:hover { background: rgba(22, 196, 127, .16); border-color: var(--accent); }
+.al-acts { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 10px; }
+.al-go { display: inline-flex; align-items: center; gap: 6px; padding: 8px 14px; border-radius: 99px; border: 0; background: var(--accent); color: #06110B; font: inherit; font-size: .84rem; font-weight: 800; cursor: pointer; text-decoration: none; }
+.al-go:hover { filter: brightness(1.08); }
+.al-more { padding: 8px 12px; border-radius: 99px; border: 1px solid var(--border); background: transparent; color: var(--sec); font: inherit; font-size: .82rem; font-weight: 600; cursor: pointer; }
+.al-more:hover { color: var(--text); border-color: var(--sec); }
+.al-sug { padding: 8px 14px 0; display: flex; flex-direction: column; gap: 6px; }
+.al-sug button { padding: 8px 10px; font-size: .82rem; }
+.al-ask { display: flex; gap: 8px; padding: 12px 14px 14px; border-top: 1px solid var(--border); }
+.al-ask input { flex: 1; min-width: 0; height: 44px; padding: 0 14px; border-radius: 12px; border: 1px solid var(--border); background: #0a1220; color: var(--text); font: inherit; font-size: .9rem; }
+.al-ask input:focus { outline: none; border-color: var(--accent); }
+.al-ask button { width: 44px; height: 44px; border-radius: 12px; border: 0; background: var(--accent); color: #06110B; cursor: pointer; display: grid; place-items: center; }
+
+/* « Me montrer » : mise en lumière sur la page */
+.al-ring { position: fixed; z-index: 899; border-radius: 14px; pointer-events: none; box-shadow: 0 0 0 3px var(--accent), 0 0 0 9px rgba(22, 196, 127, .2), 0 0 40px rgba(22, 196, 127, .45); animation: al-ring 1.4s ease-in-out 3; transition: opacity .25s; }
+.al-ring.al-out { opacity: 0; }
+.al-tip { position: absolute; left: 0; top: calc(100% + 12px); display: flex; align-items: center; gap: 10px; max-width: min(320px, calc(100vw - 32px)); padding: 10px 34px 10px 10px; border-radius: 14px; background: #fff; color: #0A0F1A; font-size: .88rem; font-weight: 600; line-height: 1.4; box-shadow: 0 14px 36px rgba(0, 0, 0, .45); pointer-events: auto; animation: al-pop .45s cubic-bezier(.2, .9, .25, 1.4) .2s both; }
+.al-tip-up .al-tip { top: auto; bottom: calc(100% + 12px); }
+.al-tip span { flex: none; width: 36px; height: 36px; border-radius: 50%; display: grid; place-items: center; font-size: 1.3rem; background: #EAF7F1; }
+.al-tip p { margin: 0; }
+.al-tip button { position: absolute; top: 4px; right: 4px; width: 26px; height: 26px; border: 0; background: transparent; color: #5F6B80; font-size: 1.1rem; cursor: pointer; border-radius: 8px; }
+
+@keyframes al-in { from { opacity: 0; transform: translateY(24px) scale(.8); } to { opacity: 1; transform: none; } }
+@keyframes al-pop { from { opacity: 0; transform: translateY(8px) scale(.85); } to { opacity: 1; transform: none; } }
+@keyframes al-float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-2px); } }
+@keyframes al-ping { 0% { opacity: .8; transform: scale(1); } 100% { opacity: 0; transform: scale(2.2); } }
+@keyframes al-glow { 0%, 100% { box-shadow: 0 14px 34px rgba(0, 0, 0, .45), 0 0 0 0 rgba(22, 196, 127, .4); } 50% { box-shadow: 0 14px 34px rgba(0, 0, 0, .45), 0 0 0 10px rgba(22, 196, 127, 0); } }
+@keyframes al-msg { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+@keyframes al-type { 0%, 60%, 100% { opacity: .3; transform: none; } 30% { opacity: 1; transform: translateY(-3px); } }
+@keyframes al-ring { 0%, 100% { box-shadow: 0 0 0 3px var(--accent), 0 0 0 9px rgba(22, 196, 127, .2), 0 0 40px rgba(22, 196, 127, .45); } 50% { box-shadow: 0 0 0 3px var(--accent), 0 0 0 16px rgba(22, 196, 127, .08), 0 0 60px rgba(22, 196, 127, .55); } }
+@media (prefers-reduced-motion: reduce) { .al *, .al, .al-ring, .al-ring * { animation: none !important; transition: none !important; } }
+@media (max-width: 600px) {
+  .al { left: 12px; bottom: 12px; }
+  .al-launch { height: 54px; padding: 0 6px; }
+  .al-lbl { display: none; }
+  .al-face { width: 42px; height: 42px; font-size: 1.5rem; }
+  .al-dot { left: 36px; top: 6px; }
+  .al-panel { position: fixed; left: 8px; right: 8px; bottom: 8px; width: auto; height: min(78vh, 640px); }
+  .al-nudge { bottom: 66px; width: 230px; }
+}
+@media print { .al, .al-ring { display: none !important; } }
