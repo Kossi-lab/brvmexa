@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T11:15:14.959Z",
+ "updatedAt": "2026-11-21T11:30:43.448Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -17,6 +17,32 @@
     "19 PAGES"
    ],
    "pinned": true
+  },
+  {
+   "id": "gn-xovbr8",
+   "title": "Coris Bank Côte d’Ivoire cède 20 % de son capital pour 62,74 milliards FCFA",
+   "summary": "Coris Bank Côte d'Ivoire réalise une cession majeure en vendant 20 % de ses parts pour un montant global de 62,74 milliards de FCFA.",
+   "body": [
+    "La filiale ivoirienne du groupe bancaire Coris vient de finaliser une opération financière d'envergure en cédant une participation de 20 % dans son capital social.",
+    "Cette transaction s'est conclue pour un montant total de 62,74 milliards de FCFA, marquant une étape importante pour la structure sur le plan financier."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#gn-xovbr8",
+   "image": null,
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-21T11:06:20.000Z",
+   "writtenAt": "2026-11-21T11:30:43.442Z",
+   "symbols": [
+    "CBIBF"
+   ],
+   "origin": {
+    "name": "Africtelegraph",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdnpObzUtVmg0RXlpWGhKOGczZFdmUTlDcGJBUHFvakdTVF9Beld2VmtIQnpXekI0NUFEMzhIQWR0QUZ0Vzgycjl6NHZkZm13Y1VueVJMTzQxdHZNTHBOWGcxTE9BYXZpRjdfQ2VPNXNaY2ZtWk9qQkN2T2ZGblplc3FPSGVzdUhDUWVOelJSV3c1TkF3MG5DWkM3MWpfOTBCRkRuMktSaw?oc=5",
+    "title": "Coris Bank Côte d’Ivoire cède 20 % de son capital pour 62,74 milliards FCFA"
+   },
+   "rewritten": true
   },
   {
    "id": "gn-hvpvxb",
@@ -3732,31 +3758,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/la-fintech-send-chap-lance-ses-services-de-transfert-dargent-du-canada-vers-lafrique-et-la-chine_65621",
     "title": "La Fintech Send Chap lance ses services de transfert d’argent du Canada vers l’Afrique et la Chine"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65618",
-   "title": "Burkina Faso et ONU signent un plan de coopération 2027-2030 axé sur le Plan RELANCE",
-   "summary": "Le Burkina Faso et l'ONU ont conclu un plan de coopération pour la période 2027-2030, alignant l'aide internationale sur le Plan national de développement RELANCE.",
-   "body": [
-    "Les autorités burkinabè et le système des Nations Unies ont officialisé, le 9 novembre 2026 dans la capitale, un nouveau Plan-cadre de coopération pour le développement durable. Cet accord s'étendra de 2027 à 2030 et vise à harmoniser l'action onusienne avec la stratégie économique, sociale et sécuritaire du pays, incarnée par le Plan national de développement RELANCE 2026-2030.",
-    "Trois axes prioritaires structureront cette collaboration sur le terrain : la transformation durable des systèmes alimentaires pour stimuler la production locale, le renforcement de la résilience des citoyens par l'articulation entre aide d'urgence et consolidation de la paix, ainsi que la stabilisation des régions vulnérables. Ces actions chercheront à atténuer les fragilités économiques et à dynamiser le tissu social.",
-    "Ce partenariat soutient la feuille de route globale du Plan RELANCE, un programme quinquennal évalué à 36 190,7 milliards de FCFA adopté en janvier 2026. Ce référentiel national cible divers indicateurs d'ici la fin de la décennie, incluant la réduction du taux de pauvreté, l'extension de la capacité électrique et la hausse de la contribution industrielle au PIB, tout en tablant sur une forte mobilisation des ressources intérieures pour combler les besoins de financement."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65618",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-10T11:59:00Z",
-   "writtenAt": "2026-11-10T12:35:30.355Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/burkina-faso-un-nouveau-partenariat-avec-lonu-pour-accelerer-les-ambitions-de-developpement-a-lhorizon-2030_65618",
-    "title": "Burkina Faso : Un nouveau partenariat avec l’ONU pour accélérer les ambitions de développement à l’horizon 2030"
    },
    "rewritten": true
   }

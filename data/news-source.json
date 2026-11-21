@@ -1,6 +1,22 @@
 {
- "updatedAt": "2026-11-21T11:15:14.956Z",
+ "updatedAt": "2026-11-21T11:30:43.444Z",
  "items": [
+  {
+   "id": "gn-xovbr8",
+   "title": "Coris Bank Côte d’Ivoire cède 20 % de son capital pour 62,74 milliards FCFA",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdnpObzUtVmg0RXlpWGhKOGczZFdmUTlDcGJBUHFvakdTVF9Beld2VmtIQnpXekI0NUFEMzhIQWR0QUZ0Vzgycjl6NHZkZm13Y1VueVJMTzQxdHZNTHBOWGcxTE9BYXZpRjdfQ2VPNXNaY2ZtWk9qQkN2T2ZGblplc3FPSGVzdUhDUWVOelJSV3c1TkF3MG5DWkM3MWpfOTBCRkRuMktSaw?oc=5",
+   "image": null,
+   "source": "Africtelegraph",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-21T11:06:20.000Z",
+   "symbols": [
+    "CBIBF"
+   ],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "gn-hvpvxb",
    "title": "Guide pratique : où et comment souscrire à l’OPV de Coris Bank Côte d’Ivoire ?",
@@ -4305,22 +4321,6 @@
    "publishedAt": "2026-10-28T17:09:00Z",
    "symbols": [
     "PALC"
-   ],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "sika-65321",
-   "title": "BRVM : Sonatel capte un volume historique de 10 milliards FCFA dans un marché hésitant",
-   "summary": "La BRVM prolonge son mouvement de baisse. Les trois principaux indices terminent dans le rouge : le BRVM-Composite recu...",
-   "url": "https://www.sikafinance.com/marches/brvm-sonatel-capte-un-volume-historique-de-10-milliards-fcfa-dans-un-marche-hesitant_65321",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-28T16:41:00Z",
-   "symbols": [
-    "SNTS"
    ],
    "status": "new",
    "tries": 0
