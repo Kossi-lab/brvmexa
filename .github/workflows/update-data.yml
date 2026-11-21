@@ -61,7 +61,15 @@ jobs:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_SECRET_KEY: ${{ secrets.SUPABASE_SECRET_KEY }}
           EXPO_ACCESS_TOKEN: ${{ secrets.EXPO_ACCESS_TOKEN }}
-        run: npm run alerts
+        # Sécurité : la clé secrète n'est jamais donnée à un paquet npm.
+        # Le script des alertes n'utilise que Node ; les paquets sont mis de côté pendant son exécution.
+        run: |
+          mv node_modules "$RUNNER_TEMP/nm"
+          set +e
+          node src/alerts.mjs
+          code=$?
+          mv "$RUNNER_TEMP/nm" node_modules
+          exit $code
 
       - name: Historique des cours (une seule fois)
         if: inputs.task == 'backfill'
