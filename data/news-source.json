@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-21T06:45:19.058Z",
+ "updatedAt": "2026-11-21T07:00:18.847Z",
  "items": [
+  {
+   "id": "gn-kl4bkz",
+   "title": "Une banque ouvre 20 % de son capital au public en prélude à son introduction à la BRVM",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZ2tmbTEtaHl0V00zZnFkTmFGQlMzSUpGY3VpUlV2TjVwZ2RNUkJqcEtIUERaZlctS2xTN0xBa3JxWG1FcGktQUdwUXJ4emp2N1pyNzh6WjlabklkNE5NN0M4RllPMnNJWnFHQ3Q1cThnTy13QWtXQUJCNktrX1B0N1NiVkRPY093bHZIV1VEcjJ3Skx1RERZNjRUeG9aQmEwZjBEY3lQSUEzTjVmbDdibTBtZVRGMHFMbC1iR3FPS1g?oc=5",
+   "image": null,
+   "source": "Pressecotedivoire",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-21T06:54:40.000Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "gn-gcnnja",
    "title": "Côte d’Ivoire : Coris Bank International ouvre 20 % de son capital au public à 7 720 FCFA l’action",
@@ -4305,20 +4319,6 @@
    "category": "Marchés",
    "premium": true,
    "publishedAt": "2026-10-28T16:28:00Z",
-   "symbols": [],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "sika-65319",
-   "title": "Nigeria : Dangote Cement annonce un bénéfice de plus de 245 millions USD au 3e trimestre, en hausse de 51%",
-   "summary": "Le géant nigérian du ciment, Dangote Cement, aborde son projet de cotation secondaire à Londres avec des résultats fina...",
-   "url": "https://www.sikafinance.com/marches/nigeria-dangote-cement-annonce-un-benefice-de-plus-de-245-millions-usd-au-3e-trimestre-en-hausse-de-51_65319",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": true,
-   "publishedAt": "2026-10-28T16:18:00Z",
    "symbols": [],
    "status": "new",
    "tries": 0

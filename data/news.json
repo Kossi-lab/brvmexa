@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T06:45:19.061Z",
+ "updatedAt": "2026-11-21T07:00:18.849Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -17,6 +17,30 @@
     "19 PAGES"
    ],
    "pinned": true
+  },
+  {
+   "id": "gn-kl4bkz",
+   "title": "Une institution bancaire cède 20 % de son capital avant son entrée à la BRVM",
+   "summary": "En vue d'une future cotation à la Bourse régionale des valeurs mobilières, une banque a lancé une ouverture de 20 % de son capital au grand public.",
+   "body": [
+    "Dans le cadre de sa stratégie d'introduction sur le marché financier régional, une banque a officialisé l'ouverture de 20 % de ses parts sociales aux investisseurs. Cette opération marque une étape préparatoire essentielle pour l'établissement avant son entrée effective à la BRVM.",
+    "Cette démarche permet à l'institution de diversifier son actionnariat en intégrant le public dans son capital. Ce mouvement s'inscrit dans le processus réglementaire habituel précédant une première cotation boursière au sein de l'espace UEMOA."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#gn-kl4bkz",
+   "image": null,
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-21T06:54:40.000Z",
+   "writtenAt": "2026-11-21T07:00:18.847Z",
+   "symbols": [],
+   "origin": {
+    "name": "Pressecotedivoire",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZ2tmbTEtaHl0V00zZnFkTmFGQlMzSUpGY3VpUlV2TjVwZ2RNUkJqcEtIUERaZlctS2xTN0xBa3JxWG1FcGktQUdwUXJ4emp2N1pyNzh6WjlabklkNE5NN0M4RllPMnNJWnFHQ3Q1cThnTy13QWtXQUJCNktrX1B0N1NiVkRPY093bHZIV1VEcjJ3Skx1RERZNjRUeG9aQmEwZjBEY3lQSUEzTjVmbDdibTBtZVRGMHFMbC1iR3FPS1g?oc=5",
+    "title": "Une banque ouvre 20 % de son capital au public en prélude à son introduction à la BRVM"
+   },
+   "rewritten": true
   },
   {
    "id": "gn-zedccu",
@@ -3732,31 +3756,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/a-abidjan-the-fintech-event-mise-sur-les-partenariats-pour-faire-grandir-les-fintechs-francophones_65616",
     "title": "À Abidjan, THE FINTECH EVENT mise sur les partenariats pour faire grandir les fintechs francophones"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65614",
-   "title": "La Côte d'Ivoire décroche la deuxième place du classement CPIA 2026 de la Banque mondiale",
-   "summary": "Le pays se positionne au deuxième rang du dernier rapport de la Banque mondiale évaluant les politiques publiques des nations éligibles à l'IDA en Afrique subsaharienne.",
-   "body": [
-    "Dans l'édition 2026 de son indice Country Policy and Institutional Assessment (CPIA) rendue publique le 30 septembre, la Banque mondiale attribue à la Côte d'Ivoire la note globale de 4,0 sur 6 pour l'année 2025. Cette performance permet au pays de se hisser au deuxième rang parmi les 40 États d'Afrique subsaharienne éligibles aux ressources de l'Association internationale de développement (IDA), juste derrière le Rwanda (4,2) et devant le Cap-Vert et le Bénin (3,9). Le score ivoirien dépasse nettement la moyenne des pays évalués, établie à 3,1, ainsi que celle de l'Afrique de l'Ouest fixée à 3,2.",
-    "L'évaluation, qui s'appuie sur 16 critères répartis en quatre grands volets, met en lumière les points forts du pays, en particulier la gestion économique notée 4,3 — avec des sous-indicateurs à 4,5 pour la politique budgétaire et le traitement de la dette. Le domaine de l'inclusion sociale et de l'équité enregistre également un score solide de 4,0, porté par la valorisation du capital humain et l'équité dans l'allocation des deniers publics. Aucun des critères évalués ne descend sous la barre des 3,5, illustrant la régularité des progrès accomplis depuis la sortie de la crise post-électorale de 2010-2011, période où l'indice national ne dépassait pas 2,7.",
-    "Cette progression continue, passée de 3,6 en 2020 à 4,0 en 2025, reflète les efforts de modernisation de l'administration et des finances publiques, illustrés notamment par l'adoption du budget-programme en 2020. Pour pérenniser cette dynamique à l'horizon 2030, les autorités misent sur les axes du nouveau Plan national de développement, qui ciblent une réduction du taux de pauvreté à 20 %, la création de 3 millions d'emplois formels, la transition environnementale et une meilleure répartition des fruits d'une croissance maintenue au-dessus de 6 % depuis 2021."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65614",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-10T09:50:00Z",
-   "writtenAt": "2026-11-10T10:47:07.954Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/politiques-publiques-la-cote-divoire-deuxieme-au-classement-cpia_65614",
-    "title": "Politiques publiques : La Côte d’Ivoire deuxième au classement CPIA"
    },
    "rewritten": true
   }
