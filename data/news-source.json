@@ -1,6 +1,22 @@
 {
- "updatedAt": "2026-11-21T09:00:20.041Z",
+ "updatedAt": "2026-11-21T09:15:40.146Z",
  "items": [
+  {
+   "id": "gn-hvpvxb",
+   "title": "Guide pratique : où et comment souscrire à l’OPV de Coris Bank Côte d’Ivoire ?",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRElnSFhxVTVnNHpoa2stS1hmR3VPQUE2azA0MmJDNG1uT3hrZU5kdks3VTZLdXg3T05jcVlQa1ZEZ2R6ckdUNU5XWDlybjRTMDRCNHR4NXM3TnlpUEFlUDNha1RkSXlkZXFwX0ZsUEVHMHdpYU1ZOVhrRUxjUE1nTENacWZubHVQcTBVY0RJRDN2OW90YlZsUC1UeE9VRTBfYWg0cUdBRXJiNF8xSVVPaUZfdDhVZw?oc=5",
+   "image": null,
+   "source": "Financial Afrik",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-21T09:12:16.000Z",
+   "symbols": [
+    "CBIBF"
+   ],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "gn-kl4bkz",
    "title": "Une banque ouvre 20 % de son capital au public en prélude à son introduction à la BRVM",
@@ -4306,20 +4322,6 @@
    "symbols": [
     "SNTS"
    ],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "sika-65320",
-   "title": "Cybersécurité : Interpol et ses partenaires arrêtent près de 1 500 criminels lors d’une vaste opération en Afrique",
-   "summary": "Du 29 juin au 31 août 2026, l'organisation internationale de police criminelle Interpol a orchestré une opération...",
-   "url": "https://www.sikafinance.com/marches/cybersecurite-interpol-et-ses-partenaires-arretent-pres-de-1-500-criminels-lors-dune-vaste-operation-en-afrique_65320",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": true,
-   "publishedAt": "2026-10-28T16:28:00Z",
-   "symbols": [],
    "status": "new",
    "tries": 0
   }

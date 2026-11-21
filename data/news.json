@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T09:00:20.043Z",
+ "updatedAt": "2026-11-21T09:15:40.149Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -17,6 +17,32 @@
     "19 PAGES"
    ],
    "pinned": true
+  },
+  {
+   "id": "gn-hvpvxb",
+   "title": "Modalités de souscription à l'offre publique de vente de Coris Bank Côte d'Ivoire",
+   "summary": "Les investisseurs intéressés par l'offre publique de vente (OPV) de Coris Bank Côte d'Ivoire peuvent désormais consulter le guide pratique détaillant les procédures de souscription.",
+   "body": [
+    "La banque Coris Bank Côte d'Ivoire a rendu public un guide pratique destiné à accompagner les investisseurs souhaitant participer à son opération d'offre publique de vente (OPV). Ce document explicite les démarches nécessaires pour prendre part à cette opération financière.",
+    "Les personnes désireuses d'obtenir des informations sur les lieux et les méthodes de souscription sont invitées à se référer à ce guide. Il centralise les instructions essentielles pour faciliter la participation des épargnants à cette opération sur le marché financier."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#gn-hvpvxb",
+   "image": null,
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-21T09:12:16.000Z",
+   "writtenAt": "2026-11-21T09:15:40.144Z",
+   "symbols": [
+    "CBIBF"
+   ],
+   "origin": {
+    "name": "Financial Afrik",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRElnSFhxVTVnNHpoa2stS1hmR3VPQUE2azA0MmJDNG1uT3hrZU5kdks3VTZLdXg3T05jcVlQa1ZEZ2R6ckdUNU5XWDlybjRTMDRCNHR4NXM3TnlpUEFlUDNha1RkSXlkZXFwX0ZsUEVHMHdpYU1ZOVhrRUxjUE1nTENacWZubHVQcTBVY0RJRDN2OW90YlZsUC1UeE9VRTBfYWg0cUdBRXJiNF8xSVVPaUZfdDhVZw?oc=5",
+    "title": "Guide pratique : où et comment souscrire à l’OPV de Coris Bank Côte d’Ivoire ?"
+   },
+   "rewritten": true
   },
   {
    "id": "gn-kl4bkz",
@@ -3731,31 +3757,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/burkina-faso-un-nouveau-partenariat-avec-lonu-pour-accelerer-les-ambitions-de-developpement-a-lhorizon-2030_65618",
     "title": "Burkina Faso : Un nouveau partenariat avec l’ONU pour accélérer les ambitions de développement à l’horizon 2030"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65616",
-   "title": "Abidjan accueille la première édition de THE FINTECH EVENT le 23 novembre 2026",
-   "summary": "Prévu au Sofitel Abidjan Hôtel Ivoire, THE FINTECH EVENT réunira les acteurs de l'écosystème pour stimuler les partenariats stratégiques.",
-   "body": [
-    "La capitale ivoirienne s'apprête à abriter la toute première édition de THE FINTECH EVENT, programmée pour le lundi 23 novembre 2026 au Sofitel Abidjan Hôtel Ivoire. Cet événement, piloté par le cabinet MPZ Consulting fondé par Marie-Pierre Zingoua, a pour ambition de transformer les habitudes de paiement en véritables leviers de développement pour l'Afrique francophone.",
-    "Les discussions s'articuleront autour des opportunités ouvertes par la plateforme de paiement instantané interopérable de l'UEMOA, lancée le 30 septembre 2025 par la BCEAO. Banques, opérateurs de téléphonie, régulateurs et jeunes pousses échangeront ainsi sur l'accès aux infrastructures et sur la collaboration entre institutions financières et acteurs technologiques.",
-    "Le programme prévoit également une keynote de Kantar axée sur le comportement des utilisateurs, ainsi qu'une Deal Room facilitant les rencontres B2B via la plateforme Swapcard. Des entités telles que Wave, Lemfi, Ecobank, ADEC, Molo Molo Pay et Sayele apportent leur soutien à cette initiative inaugurale."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65616",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-10T10:52:00Z",
-   "writtenAt": "2026-11-10T12:35:39.047Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/a-abidjan-the-fintech-event-mise-sur-les-partenariats-pour-faire-grandir-les-fintechs-francophones_65616",
-    "title": "À Abidjan, THE FINTECH EVENT mise sur les partenariats pour faire grandir les fintechs francophones"
    },
    "rewritten": true
   }
