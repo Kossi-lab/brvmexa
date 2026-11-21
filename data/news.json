@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T19:15:59.479Z",
+ "updatedAt": "2026-11-21T19:30:19.572Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -550,6 +550,32 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/or-ivoirien-afg-bank-veut-que-la-mine-se-finance-a-abidjan_65855",
     "title": "Or ivoirien : AFG Bank veut que la mine se finance à Abidjan"
+   },
+   "rewritten": true
+  },
+  {
+   "id": "gn-1bkqz72",
+   "title": "Actualité de la valeur Saph Côte d'Ivoire sur le marché boursier régional",
+   "summary": "La société Saph Côte d'Ivoire fait l'objet d'une mise à jour d'information sur la Bourse régionale des valeurs mobilières en ce jeudi 20 novembre 2026.",
+   "body": [
+    "La Bourse régionale des valeurs mobilières (BRVM) a diffusé ce 20 novembre 2026 des données concernant la société Saph Côte d'Ivoire, cotée sous le mnémonique SPHC.",
+    "Ces informations permettent aux investisseurs de suivre l'évolution et les actualités liées à cette valeur au sein du compartiment actions du marché financier ouest-africain."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#gn-1bkqz72",
+   "image": null,
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-20T08:00:00.000Z",
+   "writtenAt": "2026-11-21T19:30:19.569Z",
+   "symbols": [
+    "SPHC"
+   ],
+   "origin": {
+    "name": "Dabafinance",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1zVWZyMmlqQ1JyNjFwRnlINzU3WEp4VDh1Ykszano4RXU1TzJSa3RTaklKVWN1UTZDNllocVY4d05fcDNXdVN1M0pyWDE1RU9zS2xLSzN0UEtuZVE5RExzR1N5amN3QQ?oc=5",
+    "title": "Saph Côte d'Ivoire (SPHC) — BRVM"
    },
    "rewritten": true
   },
@@ -3737,31 +3763,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/cote-divoire-la-production-de-cacao-bondit-de-58-6-a-fin-juin-sur-fond-de-performances-agricoles-contrastees_65626",
     "title": "Côte d’Ivoire : La production de cacao bondit de 58,6% à fin juin, sur fond de performances agricoles contrastées"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65625",
-   "title": "La BOAD obtient la certification internationale ISO 37001 pour sa lutte contre la corruption",
-   "summary": "La Banque ouest-africaine de développement a reçu la certification ISO 37001, validant l'efficacité de son système de management anticorruption.",
-   "body": [
-    "La Banque ouest-africaine de développement (BOAD) a franchi une étape majeure dans sa gouvernance en décrochant la norme ISO 37001. Cette distinction internationale confirme que l'institution dispose d'un cadre robuste pour prévenir, identifier et gérer les risques de corruption au sein de ses opérations.",
-    "La remise officielle du certificat a eu lieu le 2 novembre dernier à Paris, lors d'un événement orchestré par l'organisme EuroCompliance. Braima Luis Soares Cassama, vice-président de la Banque, a reçu ce document qui souligne l'engagement de l'organisation à aligner ses pratiques sur les standards mondiaux les plus exigeants.",
-    "Pour la BOAD, cet accomplissement renforce la transparence et l'éthique au cœur de ses missions de financement dans l'espace UEMOA. En consolidant ses procédures internes, l'institution financière affirme sa volonté de renforcer la confiance de ses partenaires tout en soutenant durablement le développement socio-économique de la région."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65625",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-10T14:42:00Z",
-   "writtenAt": "2026-11-10T15:29:43.331Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/gouvernance-la-boad-decroche-la-certification-internationale-iso-37001-pour-son-dispositif-anticorruption_65625",
-    "title": "Gouvernance : La BOAD décroche la certification internationale ISO 37001 pour son dispositif anticorruption"
    },
    "rewritten": true
   }

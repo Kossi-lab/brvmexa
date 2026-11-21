@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T19:15:59.476Z",
+ "updatedAt": "2026-11-21T19:30:19.569Z",
  "items": [
   {
    "id": "gn-1x1c30v",
@@ -324,6 +324,22 @@
    "premium": false,
    "publishedAt": "2026-11-20T09:35:00Z",
    "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "gn-1bkqz72",
+   "title": "Saph Côte d'Ivoire (SPHC) — BRVM",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1zVWZyMmlqQ1JyNjFwRnlINzU3WEp4VDh1Ykszano4RXU1TzJSa3RTaklKVWN1UTZDNllocVY4d05fcDNXdVN1M0pyWDE1RU9zS2xLSzN0UEtuZVE5RExzR1N5amN3QQ?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-20T08:00:00.000Z",
+   "symbols": [
+    "SPHC"
+   ],
    "status": "done",
    "tries": 1
   },
@@ -4310,20 +4326,6 @@
    "symbols": [
     "ORAC"
    ],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "sika-65326",
-   "title": "Afrique : Face au repli de la tech, les capitaux privés s’orientent vers l’énergie et les services B2B",
-   "summary": "L'essoufflement brutal des transactions dans la fintech perturbe profondément l'équilibre des secteurs financier et tec...",
-   "url": "https://www.sikafinance.com/marches/afrique-face-au-repli-de-la-tech-les-capitaux-prives-sorientent-vers-lenergie-et-les-services-b2b_65326",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": true,
-   "publishedAt": "2026-10-28T18:16:00Z",
-   "symbols": [],
    "status": "new",
    "tries": 0
   }
