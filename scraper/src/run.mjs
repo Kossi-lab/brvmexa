@@ -15,6 +15,8 @@ import { writePerformance } from './performance.mjs';
 import { rewriteItem, extractArticle, writer, QuotaError, PAUSE_MS, AUTHOR } from './rewrite.mjs';
 import { updateUne } from './une.mjs';
 import { writeArticlePages } from './pages.mjs';
+import { writeStockPages } from './stocks.mjs';
+import { writeSitemap, pingIndexNow } from './sitemap.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..', '..');
 const DATA = process.env.DATA_DIR ?? path.join(ROOT, 'data');
@@ -272,8 +274,16 @@ async function main() {
   if (only !== 'market') await updateUne({ dataDir: DATA, w: writer(), fetchText, log, force: process.env.UNE_FORCE === '1' })
     .catch((e) => log('À la une : rédaction reportée :', e.message));
   // Pages d'article du site (aperçu propre à chaque article quand on le partage) : erreur non bloquante
-  if (only !== 'market') await writeArticlePages({ dataDir: DATA, docsDir: path.join(ROOT, 'docs'), tplFile: path.join(ROOT, 'scraper', 'templates', 'article.html'), log })
-    .catch((e) => log('Pages d’article : reportées :', e.message));
+  // Pages du site (articles, fiches des actions), sitemap et signalement aux moteurs : erreurs non bloquantes
+  const DOCS = path.join(ROOT, 'docs'), TPL = path.join(ROOT, 'scraper', 'templates');
+  const fresh = [];
+  if (only !== 'market') await writeArticlePages({ dataDir: DATA, docsDir: DOCS, tplFile: path.join(TPL, 'article.html'), log })
+    .then((r) => fresh.push(...(r.urls ?? []))).catch((e) => log('Pages d’article : reportées :', e.message));
+  if (only !== 'news') await writeStockPages({ dataDir: DATA, docsDir: DOCS, tplDir: TPL, log })
+    .catch((e) => log('Fiches actions : reportées :', e.message));
+  await writeSitemap({ dataDir: DATA, docsDir: DOCS, tplDir: TPL, log })
+    .then((r) => fresh.push(...r.added)).catch((e) => log('Sitemap : reporté :', e.message));
+  await pingIndexNow(fresh, { log });
   await writeJson(path.join(DATA, 'status.json'), {
     lastRun: new Date().toISOString(),
     ok: errors.length === 0,

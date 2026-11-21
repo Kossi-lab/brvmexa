@@ -1,0 +1,23 @@
+# BRVMexa
+
+> Plateforme francophone d’information sur la Bourse Régionale des Valeurs Mobilières (BRVM, Abidjan), la bourse commune aux 8 pays de l’UEMOA : cours des 48 actions cotées, indices, dividendes, actualités rédigées par La Rédaction BRVMexa, analyses fondamentales et guides pour apprendre à investir. Les informations sont pédagogiques et ne constituent pas un conseil en investissement.
+
+## Pages principales
+
+- [Cours BRVM](https://www.brvmexa.com/marches/) : cours des actions et des indices, mis à jour plusieurs fois par jour
+- [Les 48 actions de la BRVM](https://www.brvmexa.com/actions/) : une fiche par société (cours, historique, capitalisation, dividendes)
+- [Actualités](https://www.brvmexa.com/actualites/) : actualités des sociétés cotées et des marchés de l’UEMOA
+- [Analyse fondamentale](https://www.brvmexa.com/fondamentaux/) : BPA, PER, rendement et comptes sur 5 ans
+- [Sources et méthodes](https://www.brvmexa.com/sources-et-methodes/) : origine des données et formules de calcul
+
+## Guides
+
+- [Comment fonctionne la BRVM ?](https://www.brvmexa.com/apprendre/comment-fonctionne-la-brvm/) : La Bourse Régionale des Valeurs Mobilières expliquée simplement : sa création, les 8 pays membres, les acteurs, les sociétés cotées et les indices.
+- [Comment acheter des actions à la BRVM ?](https://www.brvmexa.com/apprendre/comment-acheter-des-actions-brvm/) : Les étapes pour acheter ses premières actions à la BRVM : choisir une SGI, ouvrir un compte titres, passer un ordre, suivre son portefeuille et ses dividendes.
+- [BPA, PER et rendement : comprendre les ratios d’une action](https://www.brvmexa.com/apprendre/per-bpa-rendement/) : Définitions simples et formules du BPA, du PER, du rendement du dividende et du taux de distribution, avec un exemple chiffré, pour analyser une action de la BRVM.
+- [Les dividendes à la BRVM : comment ça marche ?](https://www.brvmexa.com/apprendre/dividendes-brvm/) : Date de détachement, montant brut et net, calendrier des versements : tout comprendre aux dividendes des sociétés cotées à la BRVM.
+- [Les indices de la BRVM : Composite, BRVM 30, Prestige…](https://www.brvmexa.com/apprendre/indices-de-la-brvm/) : Que mesurent le BRVM Composite, le BRVM 30, le BRVM Prestige, le BRVM Principal et les indices sectoriels ? Les indices de la Bourse régionale expliqués.
+
+## Application
+
+- [Application BRVMexa](https://www.brvmexa.com/application/) : application mobile gratuite (Android)

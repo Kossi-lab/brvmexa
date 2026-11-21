@@ -78,7 +78,7 @@
   // ───────── Calcul des ratios ─────────
   function analyse(q, f) {
     if (!f.netIncome) { // version gratuite : seuls le cours et la capitalisation sont calculables
-      return { sym: q.symbol, name: q.shortName || q.name, fullName: q.name, sector: q.sector, country: q.countryName,
+      return { sym: q.symbol, name: q.shortName || q.name, fullName: q.name, page: stockUrl(q), sector: q.sector, country: q.countryName,
         price: q.close, change: q.change, year: f.year || null, f: f, cap: q.close && f.shares ? q.close * f.shares : null, locked: true };
     }
     var L = -1;
@@ -96,7 +96,7 @@
     var span = L - first;
     var cagr = first >= 0 && span >= 2 && f.netIncome[first] > 0 && rn > 0 ? Math.pow(rn / f.netIncome[first], 1 / span) - 1 : null;
     return {
-      sym: q.symbol, name: q.shortName || q.name, fullName: q.name, sector: q.sector, country: q.countryName,
+      sym: q.symbol, name: q.shortName || q.name, fullName: q.name, page: stockUrl(q), sector: q.sector, country: q.countryName,
       price: price, change: q.change, year: L >= 0 ? f.years[L] : null, f: f,
       cap: price && f.shares ? price * f.shares : null,
       eps: eps,
@@ -236,6 +236,7 @@
   function detail(s, med, premium) {
     return '<div class="fx-detail">' +
       '<div class="fx-detail-head"><div><h3>' + esc(s.fullName) + ' <span class="fx-sym">' + esc(s.sym) + '</span></h3>' +
+        (s.page ? '<p class="fx-page-link"><a href="' + esc(s.page) + '">Fiche de l’action : cours, historique, dividendes →</a></p>' : '') +
       '<p>' + esc(s.sector) + ' · ' + esc(s.country) + ' · Dernier exercice publié : ' + esc(s.year) + '</p></div>' +
       '<div class="fx-price"><small>Dernier cours</small><strong class="num">' + money(s.price) + ' F</strong></div></div>' +
       '<div class="fx-chartbox" data-chartbox><p class="fx-tip">Chargement du graphique…</p></div>' +
@@ -285,6 +286,7 @@
       hist;
   }
 
+  var stockUrl = function (q) { var s = String(q.shortName || q.name || '').normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/[’'`]/g, '-').replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, ''); return '/actions/' + s + '-' + String(q.symbol).toLowerCase() + '/'; };
   // ───────── Tableau principal ─────────
   var COLS = [
     ['sym', 'Société', ''], ['price', 'Cours', 'r'], ['cap', 'Capitalisation', 'r'], ['eps', 'BPA', 'r'], ['per', 'PER', 'r'],

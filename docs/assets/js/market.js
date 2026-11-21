@@ -67,6 +67,7 @@
       el.innerHTML = idx(composite.close) + ' <span class="' + tone(composite.change) + '">' + pct(composite.change) + '</span>';
     });
 
+    var stockUrl = function (q) { var s = String(q.shortName || q.name || '').normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/[’'`]/g, '-').replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, ''); return '/actions/' + s + '-' + String(q.symbol).toLowerCase() + '/'; };
     var row = function (m) {
       return '<div class="row"><div><span class="sym">' + esc(m.symbol) + '</span><span class="name">' + esc(m.shortName) + '</span></div>' +
         '<div class="right"><span class="num">' + price(m.close) + ' F</span><span class="badge num ' + tone(m.change) + '">' + pct(m.change) + '</span></div></div>';
@@ -126,7 +127,7 @@
         return desc ? -r : r;
       });
       body.innerHTML = list.length ? list.map(function (s) {
-        return '<tr><td><b>' + esc(s.symbol) + '</b></td><td>' + esc(s.shortName) + '</td><td>' + esc(s.countryName) + '</td>' +
+        return '<tr><td><b>' + esc(s.symbol) + '</b></td><td><a class="mk-link" href="' + esc(stockUrl(s)) + '">' + esc(s.shortName) + '</a></td><td>' + esc(s.countryName) + '</td>' +
           '<td class="r num"><b>' + price(s.close) + '</b></td><td class="r"><span class="badge num ' + tone(s.change) + '">' + pct(s.change) + '</span></td>' +
           '<td class="r num">' + price(s.volume) + '</td></tr>';
       }).join('') : '<tr><td colspan="6">Aucune action ne correspond à votre recherche.</td></tr>';

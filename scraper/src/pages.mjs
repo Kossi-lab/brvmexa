@@ -71,13 +71,16 @@ export function renderPage(tpl, a) {
     publisher: { '@type': 'Organization', name: 'BRVMexa', logo: { '@type': 'ImageObject', url: SITE + '/assets/img/icon-512.jpg' } },
   };
   const json = JSON.stringify(ld).replace(/</g, '\\u003c');
+  const crumbs = JSON.stringify({ '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Accueil', item: SITE + '/' }, { '@type': 'ListItem', position: 2, name: 'Actualités', item: SITE + '/actualites/' },
+    { '@type': 'ListItem', position: 3, name: clip(a.title, 110), item: a.url }] }).replace(/</g, '\\u003c');
   return tpl
     .split('{{TITLE}}').join(esc(clip(a.title, 120)))
     .split('{{DESC}}').join(esc(clip(a.summary || a.title, 200)))
     .split('{{URL}}').join(esc(a.url))
     .split('{{IMAGE}}').join(esc(a.image))
     .split('{{DATE}}').join(esc(a.date))
-    .split('{{JSONLD}}').join(`<script type="application/ld+json">${json}</script>`)
+    .split('{{JSONLD}}').join(`<script type="application/ld+json">${json}</script><script type="application/ld+json">${crumbs}</script>`)
     .split('{{BODY}}').join(articleBody(a));
 }
 
@@ -122,8 +125,8 @@ export async function writeArticlePages({ dataDir, docsDir, tplFile, log = conso
       },
     });
   }
-  let written = 0;
-  for (const j of jobs) if (await writeIfChanged(j.file, renderPage(tpl, j.a))) written++;
+  let written = 0; const urls = [];
+  for (const j of jobs) if (await writeIfChanged(j.file, renderPage(tpl, j.a))) { written++; urls.push(j.a.url); }
   log(`Pages d’article : ${jobs.length} à jour${written ? `, ${written} créée(s) ou modifiée(s)` : ''}`);
-  return { written, total: jobs.length };
+  return { written, total: jobs.length, urls };
 }
