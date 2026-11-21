@@ -1850,10 +1850,10 @@ body.gt-on .al, body.nx-open .al { display: none; }
 @media (prefers-reduced-motion: reduce) { .mb-flow i { animation: none; opacity: .7; } }
 @media (max-width: 380px) { .mb-stores { grid-template-columns: 1fr; } }
 
-/* Placement : sous l'aperçu de David, à droite de la connexion (sur mobile : juste après la connexion) */
-.pm-top > .pm-acc { grid-row: span 2; }
-.pm-top > .pm-show { position: static; } /* l'aperçu de David ne glisse plus par-dessus le bloc */
-.pm-top > .mb-apps { grid-column: 2; margin: 0; padding: 22px 24px; border-radius: 22px; display: grid; grid-template-columns: auto 1fr; gap: 6px 22px; align-items: center; text-align: left; animation: mb-apps-in .6s cubic-bezier(.2, .8, .2, 1) .3s both; }
+/* Placement : au-dessus de l'aperçu de David, à droite de la connexion (sur mobile : juste après la connexion) */
+.pm-top > .pm-acc { grid-column: 1; grid-row: 1 / span 2; }
+.pm-top > .pm-show { position: static; grid-column: 2; grid-row: 2; } /* l'aperçu de David ne glisse plus par-dessus le bloc */
+.pm-top > .mb-apps { grid-column: 2; grid-row: 1; margin: 0; padding: 22px 24px; border-radius: 22px; display: grid; grid-template-columns: auto 1fr; gap: 6px 22px; align-items: center; text-align: left; animation: mb-apps-in .6s cubic-bezier(.2, .8, .2, 1) .3s both; }
 .pm-top > .mb-apps .mb-sync { grid-row: span 2; flex-direction: column; gap: 0; }
 .pm-top > .mb-apps .mb-flow { flex-direction: column; width: 34px; height: 64px; max-width: none; margin: 6px 0 4px; padding: 4px 0; }
 .pm-top > .mb-apps .mb-flow::before { left: 50%; right: auto; top: 0; bottom: 0; border-top: 0; border-left: 2px dashed rgba(22, 196, 127, .35); }
@@ -1863,9 +1863,9 @@ body.gt-on .al, body.nx-open .al { display: none; }
 .pm-top > .mb-apps .mb-stores { align-self: start; }
 @keyframes mb-apps-in { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: none; } }
 @media (max-width: 980px) {
-  .pm-top > .pm-acc { grid-row: auto; order: 1; }
-  .pm-top > .mb-apps { grid-column: auto; order: 2; }
-  .pm-top > .pm-show { order: 3; }
+  .pm-top > .pm-acc { grid-column: auto; grid-row: auto; order: 1; }
+  .pm-top > .mb-apps { grid-column: auto; grid-row: auto; order: 2; }
+  .pm-top > .pm-show { grid-column: auto; grid-row: auto; order: 3; }
 }
 @media (max-width: 520px) {
   .pm-top > .mb-apps { grid-template-columns: 1fr; text-align: center; padding: 18px 16px; }
