@@ -79,6 +79,40 @@
     try { var saved = JSON.parse(localStorage.getItem(KEY) || 'null'); if (saved && saved.d) { drawings = saved.d; capital = saved.c || capital; } } catch (e) {}
     drawings.forEach(function (d) { d.id = seq++; });
 
+    // ───────── Sauvegarde : sur cet appareil et, pour un membre connecté, dans son compte ─────────
+    // Les tracés d'un membre sont retrouvés à chaque connexion, sur le site comme sur un autre ordinateur.
+    var SYM = String(o.sym || '').toUpperCase(), uid = null, cloudTimer = 0, touched = false;
+    var sb = window.BxMember && window.BxMember.client ? window.BxMember.client() : null;
+    var pack = function () { return { c: capital, d: drawings.map(function (d) { var c = Object.assign({}, d); delete c.id; return c; }) }; };
+    var keyFor = function () { return uid ? 'bx-draw-u' + uid + '-' + SYM : KEY; };
+    function applySaved(sv) {
+      if (!sv || !Array.isArray(sv.d)) return;
+      drawings = sv.d; capital = sv.c || capital; selected = null; undo = [];
+      drawings.forEach(function (d) { d.id = seq++; });
+      if (typeof redraw === 'function') redraw();
+    }
+    function pushCloud() {
+      if (!sb || !uid) return;
+      clearTimeout(cloudTimer);
+      cloudTimer = setTimeout(function () {
+        sb.from('chart_drawings').upsert({ user_id: uid, sym: SYM, data: pack(), updated_at: new Date().toISOString() }, { onConflict: 'user_id,sym' })
+          .then(function (r) { if (o.onSync) o.onSync(!r.error); });
+      }, 1200);
+    }
+    if (sb && window.BxMember.ready) {
+      window.BxMember.ready().then(function (st) {
+        if (!st || !st.user || !host.isConnected) return;
+        uid = st.user.id;
+        try { var mine = JSON.parse(localStorage.getItem(keyFor()) || 'null'); if (mine && !touched) applySaved(mine); } catch (e) {}
+        return sb.from('chart_drawings').select('data').eq('sym', SYM).maybeSingle().then(function (r) {
+          if (r.error || !host.isConnected) return;
+          if (touched) { pushCloud(); return; } // l'utilisateur a déjà dessiné : sa version l'emporte
+          if (r.data && r.data.data) { applySaved(r.data.data); try { localStorage.setItem(keyFor(), JSON.stringify(pack())); } catch (e) {} }
+          else if (drawings.length) pushCloud(); // premiers tracés de ce compte : on les enregistre
+        });
+      }).catch(function () {});
+    }
+
     // ───────── Conversions temps / prix ↔ pixels (index de séance fractionnaire) ─────────
     var ts = function () { return chart.timeScale(); };
     var geo = function () {
@@ -93,7 +127,9 @@
     var lastClose = pts[lastIdx].c;
 
     function save() {
-      try { localStorage.setItem(KEY, JSON.stringify({ c: capital, d: drawings.map(function (d) { var c = Object.assign({}, d); delete c.id; return c; }) })); } catch (e) {}
+      touched = true;
+      try { localStorage.setItem(keyFor(), JSON.stringify(pack())); } catch (e) {}
+      pushCloud();
       if (o.onChange) o.onChange({ count: drawings.length, selected: selected });
     }
     function snapshot() { undo.push(JSON.stringify(drawings)); if (undo.length > 50) undo.shift(); }

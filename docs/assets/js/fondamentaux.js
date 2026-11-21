@@ -515,7 +515,7 @@
     var hash = decodeURIComponent((location.hash || '').slice(1)).toUpperCase();
     if (hash && items[hash]) open = hash;
     if (member && member.premium) promo.hidden = true; // les vraies données arrivent dans un instant
-    else if (items.SNTS) open = 'SNTS'; // ouverte par défaut, sans défilement
+    if (!open && items.SNTS) open = 'SNTS'; // Sonatel ouverte par défaut pour tous, sans défilement
     draw();
     if (open && hash) { var r0 = body.querySelector('tr[data-sym="' + open + '"]'); if (r0) setTimeout(function () { r0.scrollIntoView({ block: 'start' }); }, 50); }
 

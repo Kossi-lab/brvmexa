@@ -492,6 +492,8 @@
       });
     } else if (t.hasAttribute('data-mb-logout')) {
       // « local » : se déconnecter du site ne déconnecte pas l'application sur le téléphone
+      // Les tracés du membre restent dans son compte ; on efface seulement leur copie sur cet appareil
+      try { Object.keys(localStorage).forEach(function (k) { if (k.indexOf('bx-draw-u') === 0) localStorage.removeItem(k); }); } catch (e2) { /* stockage indisponible */ }
       sb.auth.signOut({ scope: 'local' }).then(function () { store.set('bx-plan', null); mode = 'login'; try { localStorage.removeItem('bx-premium'); } catch (e) { /* stockage indisponible */ } document.documentElement.classList.remove('pm-hide-premium'); render(); });
     }
   });
