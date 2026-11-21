@@ -217,6 +217,11 @@
     }
   });
   var box = page.querySelector('[data-mb-account]');
+  // Bloc « site et application liés » : bien visible, à côté de la carte de connexion
+  setTimeout(function () {
+    var top = page.querySelector('.pm-top');
+    if (top && !top.querySelector('.mb-apps')) top.insertAdjacentHTML('beforeend', APPS);
+  }, 0);
   var params = new URLSearchParams(location.search);
   var back = safeBack(params.get('retour'));
   var offre = params.get('offre');
@@ -271,7 +276,7 @@
       (mode !== 'forgot' ? '<button type="button" class="mb-google" data-mb-google>' + GOOGLE + '<span>Continuer avec Google</span></button><div class="mb-or"><span>ou avec votre e-mail</span></div>' : '') +
       '<form data-mb-form novalidate>' + fields + '<button class="btn btn--primary mb-submit" type="submit">' + submit + '</button></form>' +
       '<p class="mb-msg" data-mb-msg role="status" aria-live="polite">' + esc(notice) + '</p>' +
-      '<div class="mb-links">' + links + '</div>' + APPS + '</div>';
+      '<div class="mb-links">' + links + '</div></div>';
     notice = '';
   }
 
