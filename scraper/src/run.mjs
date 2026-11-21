@@ -14,6 +14,7 @@ import { updateDividends } from './dividends.mjs';
 import { writePerformance } from './performance.mjs';
 import { rewriteItem, extractArticle, writer, QuotaError, PAUSE_MS, AUTHOR } from './rewrite.mjs';
 import { updateUne } from './une.mjs';
+import { writeArticlePages } from './pages.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..', '..');
 const DATA = process.env.DATA_DIR ?? path.join(ROOT, 'data');
@@ -270,6 +271,9 @@ async function main() {
   // À la une : erreur non bloquante (nouvel essai au passage suivant)
   if (only !== 'market') await updateUne({ dataDir: DATA, w: writer(), fetchText, log, force: process.env.UNE_FORCE === '1' })
     .catch((e) => log('À la une : rédaction reportée :', e.message));
+  // Pages d'article du site (aperçu propre à chaque article quand on le partage) : erreur non bloquante
+  if (only !== 'market') await writeArticlePages({ dataDir: DATA, docsDir: path.join(ROOT, 'docs'), tplFile: path.join(ROOT, 'scraper', 'templates', 'article.html'), log })
+    .catch((e) => log('Pages d’article : reportées :', e.message));
   await writeJson(path.join(DATA, 'status.json'), {
     lastRun: new Date().toISOString(),
     ok: errors.length === 0,

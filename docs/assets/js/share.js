@@ -309,4 +309,11 @@
   }, true);
 
   window.BxShare = { open: open, button: button, close: close };
+
+  // Page d'article pas encore publiée (lien partagé il y a moins de 15 minutes) : on ouvre l'article sur la page Actualités
+  if (document.body && document.body.classList.contains('page-404')) {
+    var m = /^\/actualites\/a\/([a-z0-9-]{3,64})\/?$/.exec(location.pathname);
+    var u = /^\/actualites\/une\/\d{4}-\d{2}-\d{2}\/?$/.test(location.pathname);
+    if (m) location.replace('/actualites/#' + m[1]); else if (u) location.replace('/actualites/#a-la-une');
+  }
 })();

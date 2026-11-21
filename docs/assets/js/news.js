@@ -34,7 +34,7 @@
   var shareBtn = function (d, cls) { return window.BxShare ? window.BxShare.button(d, cls) : ''; };
   var shareOf = function (n) {
     return n.rewritten
-      ? { url: SITE + '/actualites/#' + n.id, title: n.title, text: n.summary, kind: 'Actualité BRVMexa', slug: 'actu' }
+      ? { url: SITE + '/actualites/a/' + String(n.id).toLowerCase().replace(/[^a-z0-9-]/g, '') + '/', title: n.title, text: n.summary, kind: 'Actualité BRVMexa', slug: 'actu' }
       : { url: safeUrl(n.url), title: n.title, text: n.summary, kind: n.source || 'Actualité', slug: 'actu' };
   };
   var mark = '<svg viewBox="0 0 32 32" aria-hidden="true"><rect width="32" height="32" rx="8" fill="#16C47F"/><rect x="7" y="17" width="4" height="8" rx="1.5" fill="#0A0F1A"/><rect x="14" y="12" width="4" height="13" rx="1.5" fill="#0A0F1A"/><rect x="21" y="7" width="4" height="18" rx="1.5" fill="#0A0F1A"/><path d="M6 14 13 9l5 2 8-6" stroke="#0A0F1A" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>';
@@ -132,7 +132,7 @@
         reader.className = 'nx-reader nx-reader--une';
         reader.innerHTML = '<div class="nx-dialog" role="dialog" aria-modal="true" aria-labelledby="nx-title" tabindex="-1">' +
           '<button type="button" class="nx-close" aria-label="Fermer l’article">×</button>' +
-          shareBtn({ url: SITE + '/actualites/#a-la-une', title: une.title, text: une.summary, kind: 'À la une', slug: 'a-la-une' }) +
+          shareBtn({ url: SITE + '/actualites/une/' + une.date + '/', title: une.title, text: une.summary, kind: 'À la une', slug: 'a-la-une' }) +
           '<p class="nx-cat une-kick">À la une · ' + esc(day(une.date)) + '</p>' +
           '<h2 id="nx-title">' + esc(une.title) + '</h2>' +
           '<p class="nx-meta"><span class="nx-author">' + mark + esc(une.author) + '</span><span>' + esc(une.readMinutes) + ' min de lecture</span></p>' +
@@ -157,7 +157,7 @@
             var card = document.createElement('section');
             card.className = 'une';
             card.setAttribute('aria-label', 'À la une');
-            card.innerHTML = '<div class="une-main">' + shareBtn({ url: SITE + '/actualites/#a-la-une', title: u.title, text: u.summary, kind: 'À la une', slug: 'a-la-une' }) + '<p class="une-kick"><span>À la une</span>' + esc(day(u.date)) + '</p>' +
+            card.innerHTML = '<div class="une-main">' + shareBtn({ url: SITE + '/actualites/une/' + u.date + '/', title: u.title, text: u.summary, kind: 'À la une', slug: 'a-la-une' }) + '<p class="une-kick"><span>À la une</span>' + esc(day(u.date)) + '</p>' +
               '<h2><a href="#a-la-une" data-une>' + esc(u.title) + '</a></h2>' +
               (u.summary ? '<p class="une-lead">' + esc(u.summary) + '</p>' : '') +
               '<p class="une-meta">' + mark + '<span>' + esc(u.author) + ' · ' + esc(u.readMinutes) + ' min de lecture</span></p>' +
