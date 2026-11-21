@@ -56,6 +56,7 @@ ${points}
 <div class="ar-body">${content}</div>
 ${tags ? `<div class="ar-tags"><span>Sociétés citées</span><div class="tags">${tags}</div></div>` : ''}
 ${origin}
+${/^(actu|une):[a-z0-9-]{1,64}$/.test(a.social ?? '') ? `<div data-bx-social="${esc(a.social)}"></div>` : ''}
 <aside class="ar-end">
 <div><b>Cet article vous a été utile ?</b><span>Partagez-le avec vos proches qui investissent à la BRVM.</span></div>
 <div class="ar-end-btns"><button type="button" class="btn btn--primary ar-sharebig"${shareAttrs}>${SHARE_ICON}<span>Partager l’article</span></button>
@@ -110,7 +111,7 @@ export async function writeArticlePages({ dataDir, docsDir, tplFile, log = conso
     jobs.push({
       file: path.join(docsDir, 'actualites', 'a', id, 'index.html'),
       a: {
-        url: `${SITE}/actualites/a/${id}/`, slug: 'actu', kind: 'Actualité', title: n.title, summary: n.summary,
+        url: `${SITE}/actualites/a/${id}/`, slug: 'actu', kind: 'Actualité', social: `actu:${id}`, title: n.title, summary: n.summary,
         author: n.author, date: n.publishedAt, modified: n.writtenAt, symbols: n.symbols, origin: n.origin,
         paragraphs, minutes: readMinutes([n.summary ?? '', ...paragraphs]), image: OG.actu,
       },
@@ -120,7 +121,7 @@ export async function writeArticlePages({ dataDir, docsDir, tplFile, log = conso
     jobs.push({
       file: path.join(docsDir, 'actualites', 'une', une.date, 'index.html'),
       a: {
-        url: `${SITE}/actualites/une/${une.date}/`, slug: 'a-la-une', kind: 'À la une', une: true, title: une.title, summary: une.summary,
+        url: `${SITE}/actualites/une/${une.date}/`, slug: 'a-la-une', kind: 'À la une', une: true, social: `une:${une.date}`, title: une.title, summary: une.summary,
         author: une.author, date: `${une.date}T08:00:00Z`, modified: une.writtenAt, symbols: une.symbols, origin: une.origin,
         points: une.points, sections: une.sections, minutes: une.readMinutes || 2, image: OG.une,
       },

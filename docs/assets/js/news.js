@@ -95,7 +95,8 @@
               : mark;
             var tags = (n.symbols || []).slice(0, 3).map(function (s) { return '<span class="tag">' + esc(s) + '</span>'; }).join('');
             if (n.rewritten) {
-              var href = '#' + esc(n.id), nx = ' data-nx="' + esc(n.id) + '"';
+              // Article de la rédaction : sa propre page (texte complet, réactions et commentaires)
+              var href = '/actualites/a/' + esc(String(n.id).toLowerCase().replace(/[^a-z0-9-]/g, '')) + '/', nx = '';
               return '<article class="post-card">' + shareBtn(shareOf(n)) + '<a class="thumb thumb--empty" href="' + href + '"' + nx + ' tabindex="-1" aria-hidden="true">' + mark + '</a>' +
                 '<div class="body"><div class="meta">' + esc(n.author) + ' · ' + esc(when(n.publishedAt)) + '</div>' +
                 '<h3><a href="' + href + '"' + nx + '>' + esc(n.title) + '</a></h3>' +
@@ -158,10 +159,10 @@
             card.className = 'une';
             card.setAttribute('aria-label', 'À la une');
             card.innerHTML = '<div class="une-main">' + shareBtn({ url: SITE + '/actualites/une/' + u.date + '/', title: u.title, text: u.summary, kind: 'À la une', slug: 'a-la-une' }) + '<p class="une-kick"><span>À la une</span>' + esc(day(u.date)) + '</p>' +
-              '<h2><a href="#a-la-une" data-une>' + esc(u.title) + '</a></h2>' +
+              '<h2><a href="/actualites/une/' + esc(u.date) + '/">' + esc(u.title) + '</a></h2>' +
               (u.summary ? '<p class="une-lead">' + esc(u.summary) + '</p>' : '') +
               '<p class="une-meta">' + mark + '<span>' + esc(u.author) + ' · ' + esc(u.readMinutes) + ' min de lecture</span></p>' +
-              '<a class="btn btn--primary une-btn" href="#a-la-une" data-une>Lire l’article complet</a></div>' +
+              '<a class="btn btn--primary une-btn" href="/actualites/une/' + esc(u.date) + '/">Lire l’article complet</a></div>' +
               ((u.points || []).length ? '<aside class="une-side"><b>L’essentiel</b><ol>' + u.points.map(function (p) { return '<li>' + esc(p) + '</li>'; }).join('') + '</ol></aside>' : '');
             uneBox.parentNode.insertBefore(card, uneBox);
             if (decodeURIComponent((location.hash || '').slice(1)) === 'a-la-une') openUne();
