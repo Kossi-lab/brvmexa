@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T01:30:29.696Z",
+ "updatedAt": "2026-11-21T01:45:18.835Z",
  "items": [
   {
    "id": "gn-gcnnja",
@@ -161,6 +161,20 @@
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-11-20T12:36:13.000Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "gn-2p1cl9",
+   "title": "Premier Agri Green Bond de l’UEMOA : SWAMI AGRI franchit une étape historique à la BRVM",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOOG5JLUtLUGJqb0x1SFAwZVQ5Qk1XRUFLd2xwZWE3d2FNWENVak9Ed0VSTE92dzVyTF9Gd1ktVGZibWFOS3NUc1VCVDdpZFRITnA5QU1iNWowQ3Y2WTV2TE1CcFczU0RMdFJXZmZzVGJiZ254STIzRVQyY3hNWTVoa0Y2Vm5fUDk0SXhJNEZvVTdEcXJtLVFGS1lURE4xaGxIX3I2TzV2WVJ1c3JFMXAwdjFOS2JBWWpPd05jTEMtSDEtYzRWb1V2Ymg0WWpBd2Y5RExocUhYRTM?oc=5",
+   "image": null,
+   "source": "Seneweb",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-20T11:51:23.000Z",
    "symbols": [],
    "status": "done",
    "tries": 1
@@ -4305,20 +4319,6 @@
    "category": "Marchés",
    "premium": true,
    "publishedAt": "2026-10-28T16:18:00Z",
-   "symbols": [],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "sika-65318",
-   "title": "RDC : La contrebande d’or rapporte jusqu’à 1,6 million USD par an aux rebelles affiliés à l’État islamique",
-   "summary": "L'or extrait illégalement dans l'est de la République démocratique du Congo (RDC) constitue une importante source de fi...",
-   "url": "https://www.sikafinance.com/marches/rdc-la-contrebande-dor-rapporte-jusqua-1-6-million-usd-par-an-aux-rebelles-affilies-a-letat-islamique_65318",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-28T16:01:00Z",
    "symbols": [],
    "status": "new",
    "tries": 0
