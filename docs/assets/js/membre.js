@@ -238,6 +238,21 @@
   var busy = function (form, on) { form.querySelectorAll('button, input').forEach(function (el) { el.disabled = on; }); };
   var setMsg = function (txt, kind) { var m = box.querySelector('[data-mb-msg]'); if (m) { m.textContent = txt || ''; m.className = 'mb-msg ' + (kind || ''); } };
 
+  // Bas de la carte de connexion : le site et l'application, un seul compte (+ magasins d'applications)
+  var PLAY = '<svg viewBox="0 0 24 24" aria-hidden="true"><path fill="#34A853" d="M3.6 1.8 13.5 12 3.6 22.2c-.4-.2-.6-.7-.6-1.2V3c0-.5.2-1 .6-1.2z"/><path fill="#FBBC04" d="M17 8.6 13.5 12l3.5 3.4 3.9-2.2c1.1-.6 1.1-1.8 0-2.4L17 8.6z"/><path fill="#EA4335" d="M13.5 12 3.6 22.2c.4.2.9.2 1.4-.1L17 15.4 13.5 12z"/><path fill="#4285F4" d="M3.6 1.8 13.5 12 17 8.6 5 1.9c-.5-.3-1-.3-1.4-.1z"/></svg>';
+  var APPLE = '<svg viewBox="0 0 24 24" fill="#fff" aria-hidden="true"><path d="M16.37 12.6c-.02-2.2 1.8-3.26 1.88-3.31-1.03-1.5-2.62-1.7-3.18-1.72-1.35-.14-2.64.8-3.33.8-.69 0-1.74-.78-2.87-.76-1.47.02-2.83.86-3.59 2.17-1.54 2.66-.39 6.6 1.1 8.76.73 1.06 1.6 2.24 2.73 2.2 1.1-.05 1.51-.71 2.84-.71 1.32 0 1.7.71 2.86.69 1.18-.02 1.93-1.07 2.65-2.13.84-1.22 1.18-2.41 1.2-2.47-.03-.01-2.27-.87-2.29-3.52zM14.2 6.13c.6-.74 1.01-1.75.9-2.77-.87.04-1.94.59-2.56 1.32-.56.64-1.05 1.68-.92 2.67.98.07 1.97-.49 2.58-1.22z"/></svg>';
+  var APPS = '<div class="mb-apps">' +
+    '<div class="mb-sync" aria-hidden="true">' +
+      '<span class="mb-dev"><svg viewBox="0 0 24 24"><rect x="3.5" y="4.5" width="17" height="11" rx="1.8" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M1.5 19h21" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg><small>Site</small></span>' +
+      '<span class="mb-flow"><i></i><i></i><i></i><i></i><i></i><b>' + 'Un seul compte' + '</b></span>' +
+      '<span class="mb-dev"><svg viewBox="0 0 24 24"><rect x="6.5" y="2.5" width="11" height="19" rx="2.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M10.5 18.5h3" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg><small>Application</small></span>' +
+    '</div>' +
+    '<p class="mb-apps-t"><b>Le site et l’application sont liés.</b> Connectez-vous une seule fois avec le même compte : vos alertes, votre Premium, vos tracés et Le Mag vous suivent de l’ordinateur au téléphone.</p>' +
+    '<div class="mb-stores">' +
+      '<span class="store is-soon" aria-disabled="true">' + PLAY + '<span><small>Bientôt sur</small><strong>Google Play</strong></span></span>' +
+      '<span class="store is-soon" aria-disabled="true">' + APPLE + '<span><small>Bientôt dans</small><strong>l’App Store</strong></span></span>' +
+    '</div></div>';
+
   function loginView() {
     var title = { login: 'Connexion', signup: 'Créer un compte', forgot: 'Mot de passe oublié' }[mode];
     var pending = store.get('bx-plan');
@@ -256,7 +271,7 @@
       (mode !== 'forgot' ? '<button type="button" class="mb-google" data-mb-google>' + GOOGLE + '<span>Continuer avec Google</span></button><div class="mb-or"><span>ou avec votre e-mail</span></div>' : '') +
       '<form data-mb-form novalidate>' + fields + '<button class="btn btn--primary mb-submit" type="submit">' + submit + '</button></form>' +
       '<p class="mb-msg" data-mb-msg role="status" aria-live="polite">' + esc(notice) + '</p>' +
-      '<div class="mb-links">' + links + '</div></div>';
+      '<div class="mb-links">' + links + '</div>' + APPS + '</div>';
     notice = '';
   }
 

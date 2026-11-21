@@ -1827,3 +1827,25 @@ body.gt-on .al, body.nx-open .al { display: none; }
   .al-nudge { bottom: 66px; width: 230px; }
 }
 @media print { .al, .al-ring { display: none !important; } }
+
+/* Connexion : le site et l'application, un seul compte */
+.mb-apps { margin: 22px -4px 0; padding: 18px 16px 16px; border-radius: 16px; background: linear-gradient(160deg, rgba(22, 196, 127, .1), rgba(242, 179, 61, .05)); border: 1px solid rgba(22, 196, 127, .25); text-align: center; }
+.mb-sync { display: flex; align-items: center; justify-content: center; gap: 10px; }
+.mb-dev { display: flex; flex-direction: column; align-items: center; gap: 4px; color: var(--text); }
+.mb-dev svg { width: 34px; height: 34px; padding: 7px; box-sizing: content-box; border-radius: 12px; background: #0b1322; border: 1px solid rgba(22, 196, 127, .4); color: var(--accent); }
+.mb-dev small { font-size: .7rem; font-weight: 700; color: var(--sec); text-transform: uppercase; letter-spacing: .05em; }
+.mb-flow { position: relative; flex: 1; max-width: 170px; height: 34px; margin-bottom: 18px; display: flex; align-items: center; justify-content: space-between; padding: 0 4px; }
+.mb-flow::before { content: ""; position: absolute; left: 0; right: 0; top: 50%; border-top: 2px dashed rgba(22, 196, 127, .35); }
+.mb-flow i { position: relative; width: 7px; height: 7px; border-radius: 50%; background: var(--accent); opacity: .25; animation: mb-flow 1.6s ease-in-out infinite; }
+.mb-flow i:nth-child(2) { animation-delay: .16s; } .mb-flow i:nth-child(3) { animation-delay: .32s; } .mb-flow i:nth-child(4) { animation-delay: .48s; } .mb-flow i:nth-child(5) { animation-delay: .64s; }
+.mb-flow b { position: absolute; left: 50%; top: calc(50% + 12px); transform: translateX(-50%); white-space: nowrap; font-size: .68rem; font-weight: 800; color: var(--accent); letter-spacing: .04em; text-transform: uppercase; }
+.mb-apps-t { margin: 12px 0 14px; font-size: .86rem; line-height: 1.55; color: var(--sec); }
+.mb-apps-t b { color: var(--text); }
+.mb-stores { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+.mb-stores .store { justify-content: center; padding: 8px 10px; gap: 8px; }
+.mb-stores .store svg { width: 22px; height: 22px; }
+.mb-stores .store strong { font-size: .9rem; }
+.mb-stores .store small { font-size: .62rem; }
+@keyframes mb-flow { 0%, 100% { opacity: .25; transform: scale(.8); } 50% { opacity: 1; transform: scale(1.25); box-shadow: 0 0 10px var(--accent); } }
+@media (prefers-reduced-motion: reduce) { .mb-flow i { animation: none; opacity: .7; } }
+@media (max-width: 380px) { .mb-stores { grid-template-columns: 1fr; } }
