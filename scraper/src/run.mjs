@@ -281,9 +281,8 @@ async function main() {
     .then((r) => fresh.push(...(r.urls ?? []))).catch((e) => log('Pages d’article : reportées :', e.message));
   if (only !== 'news') await writeStockPages({ dataDir: DATA, docsDir: DOCS, tplDir: TPL, log })
     .catch((e) => log('Fiches actions : reportées :', e.message));
-  await writeSitemap({ dataDir: DATA, docsDir: DOCS, tplDir: TPL, log })
-    .then((r) => fresh.push(...r.added)).catch((e) => log('Sitemap : reporté :', e.message));
-  await pingIndexNow(fresh, { log });
+  const sm = await writeSitemap({ dataDir: DATA, docsDir: DOCS, tplDir: TPL, log }).catch((e) => { log('Sitemap : reporté :', e.message); return null; });
+  if (sm) await pingIndexNow([...fresh, ...sm.added, ...sm.unsent], { log, sentFile: sm.sentFile, sent: sm.sent });
   await writeJson(path.join(DATA, 'status.json'), {
     lastRun: new Date().toISOString(),
     ok: errors.length === 0,

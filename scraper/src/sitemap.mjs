@@ -31,18 +31,28 @@ export async function writeSitemap({ dataDir, docsDir, tplDir, log = console.log
   const xml = '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
     + [...urls].map(([loc, lm]) => `  <url><loc>${xmlEsc(loc)}</loc><lastmod>${lm}</lastmod></url>\n`).join('') + '</urlset>\n';
   if (xml !== old) { await fs.writeFile(file, xml); log(`Sitemap : ${urls.size} adresses`); }
-  return { count: urls.size, added: [...urls.keys()].filter((u) => !prev.has(u)) };
+  // Adresses jamais signalées à IndexNow (mémoire : data/indexnow.json) : toutes les pages existantes partent au premier passage
+  const sentFile = path.join(dataDir, 'indexnow.json');
+  const sent = new Set((await readJson(sentFile, { sent: [] })).sent ?? []);
+  const unsent = [...urls.keys()].filter((u) => !sent.has(u));
+  return { count: urls.size, added: [...urls.keys()].filter((u) => !prev.has(u)), unsent, sentFile, sent };
 }
 
 /** Signale des adresses nouvelles ou modifiées aux moteurs compatibles IndexNow (sans effet bloquant). */
-export async function pingIndexNow(urls, { log = console.log } = {}) {
+export async function pingIndexNow(urls, { log = console.log, sentFile = null, sent = null } = {}) {
   const list = [...new Set(urls)].filter((u) => u.startsWith(SITE + '/')).slice(0, 1000);
   if (!list.length || process.env.INDEXNOW === '0') return;
+  const remember = async () => {
+    if (!sentFile || !sent) return;
+    list.forEach((u) => sent.add(u));
+    await fs.writeFile(sentFile, JSON.stringify({ updatedAt: new Date().toISOString(), sent: [...sent].sort() }, null, 0));
+  };
   try {
     const r = await fetch('https://api.indexnow.org/indexnow', {
       method: 'POST', headers: { 'Content-Type': 'application/json; charset=utf-8' }, signal: AbortSignal.timeout(15000),
       body: JSON.stringify({ host: 'www.brvmexa.com', key: INDEXNOW_KEY, keyLocation: `${SITE}/${INDEXNOW_KEY}.txt`, urlList: list }),
     });
     log(`IndexNow : ${list.length} adresse(s) signalée(s) (réponse ${r.status})`);
+    if (r.status === 200 || r.status === 202) await remember();
   } catch (e) { log('IndexNow : envoi reporté :', e.message); }
 }
