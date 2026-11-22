@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-22T18:15:16.262Z",
+ "updatedAt": "2026-11-22T18:30:36.289Z",
  "items": [
   {
    "id": "gn-1x1c30v",
@@ -107,22 +107,6 @@
     "CBIBF"
    ],
    "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "gn-1gfad7o",
-   "title": "Sogb Côte d'Ivoire (SOGC) — BRVM",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sZUtjYXhXV041LTR6dVZsNkFvNzVIUXFtWlBibk55VUdnOV9OcEVSQzY3N1EzMGlhbEVJRFdBaUdPZ3dXLUpSUWppRXZZT1JTU29NeVJibE5XQU9UMkdLTWMyNEhzdw?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-11-20T23:04:03.000Z",
-   "symbols": [
-    "SOGC"
-   ],
-   "status": "skip",
    "tries": 1
   },
   {
@@ -357,6 +341,38 @@
     "SPHC"
    ],
    "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "gn-1lzzfnd",
+   "title": "Bank of Africa - Benin (BOAB) — BRVM",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE04a2FES05hTmtBQk4tOGt5WTU0M0IzTl9DLUlmaDNPOVFwX0w1QzZwM3V3Nk9pNklRcUxCVWVmaFFkUjRJeXp6Q3JRMlRLNTdmMHlrb2JXVmxWVy1Pei04WHBBclBXZw?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-20T08:00:00.000Z",
+   "symbols": [
+    "BOAB"
+   ],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "gn-1gfad7o",
+   "title": "Sogb Côte d'Ivoire (SOGC) — BRVM",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sZUtjYXhXV041LTR6dVZsNkFvNzVIUXFtWlBibk55VUdnOV9OcEVSQzY3N1EzMGlhbEVJRFdBaUdPZ3dXLUpSUWppRXZZT1JTU29NeVJibE5XQU9UMkdLTWMyNEhzdw?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-20T08:00:00.000Z",
+   "symbols": [
+    "SOGC"
+   ],
+   "status": "skip",
    "tries": 1
   },
   {
@@ -4311,20 +4327,6 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-10-29T09:34:00Z",
-   "symbols": [],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "sika-65338",
-   "title": "Sénégal : Babacar Sène nommé Directeur du développement du secteur privé",
-   "summary": "Au Sénégal, de vastes mouvements ont été opérés dans l'administration économique et financière lors du Conseil des mini...",
-   "url": "https://www.sikafinance.com/marches/senegal-babacar-sene-nomme-directeur-du-developpement-du-secteur-prive_65338",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-29T09:31:00Z",
    "symbols": [],
    "status": "new",
    "tries": 0

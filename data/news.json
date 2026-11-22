@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-22T18:15:16.264Z",
+ "updatedAt": "2026-11-22T18:30:36.293Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -576,6 +576,32 @@
     "name": "Dabafinance",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1zVWZyMmlqQ1JyNjFwRnlINzU3WEp4VDh1Ykszano4RXU1TzJSa3RTaklKVWN1UTZDNllocVY4d05fcDNXdVN1M0pyWDE1RU9zS2xLSzN0UEtuZVE5RExzR1N5amN3QQ?oc=5",
     "title": "Saph Côte d'Ivoire (SPHC) — BRVM"
+   },
+   "rewritten": true
+  },
+  {
+   "id": "gn-1lzzfnd",
+   "title": "Actualité boursière concernant la valeur Bank of Africa Bénin sur la BRVM",
+   "summary": "La rédaction de BRVMexa fait le point sur la situation de la société Bank of Africa Bénin cotée sur le marché financier régional.",
+   "body": [
+    "La valeur Bank of Africa Bénin (BOAB) fait l'objet d'un suivi particulier sur la Bourse régionale des valeurs mobilières. Cette entité bancaire demeure une composante active du compartiment actions de la place boursière ouest-africaine.",
+    "En ce jeudi 20 novembre 2026, les investisseurs et observateurs du marché peuvent suivre l'évolution de ce titre au sein des transactions quotidiennes. L'analyse des mouvements de cette valeur permet de mieux comprendre la dynamique actuelle du secteur bancaire au sein de l'UEMOA."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#gn-1lzzfnd",
+   "image": null,
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-20T08:00:00.000Z",
+   "writtenAt": "2026-11-22T18:30:36.287Z",
+   "symbols": [
+    "BOAB"
+   ],
+   "origin": {
+    "name": "Dabafinance",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE04a2FES05hTmtBQk4tOGt5WTU0M0IzTl9DLUlmaDNPOVFwX0w1QzZwM3V3Nk9pNklRcUxCVWVmaFFkUjRJeXp6Q3JRMlRLNTdmMHlrb2JXVmxWVy1Pei04WHBBclBXZw?oc=5",
+    "title": "Bank of Africa - Benin (BOAB) — BRVM"
    },
    "rewritten": true
   },
@@ -3739,30 +3765,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/nigeria-un-projet-pour-connecter-son-marche-financier-a-ceux-de-luemoa-et-du-ghana_65629",
     "title": "Nigeria : Un projet pour connecter son marché financier à ceux de l’UEMOA et du Ghana"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65626",
-   "title": "Côte d'Ivoire : bond de 58,6 % de la production de cacao à fin juin 2026",
-   "summary": "À fin juin 2026, la production ivoirienne de cacao a enregistré une forte hausse de 58,6 %, au sein d'un secteur agricole aux résultats contrastés.",
-   "body": [
-    "Le secteur agricole ivoirien affiche des dynamiques variées selon les filières. À la date de fin juin 2026, la production de cacao s'est particulièrement distinguée en affichant une progression spectaculaire de 58,6 %.",
-    "Cette forte augmentation de la récolte de cacao intervient dans un contexte de performances agricoles globales contrastées pour le pays."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65626",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-10T15:36:00Z",
-   "writtenAt": "2026-11-10T16:23:24.612Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/cote-divoire-la-production-de-cacao-bondit-de-58-6-a-fin-juin-sur-fond-de-performances-agricoles-contrastees_65626",
-    "title": "Côte d’Ivoire : La production de cacao bondit de 58,6% à fin juin, sur fond de performances agricoles contrastées"
    },
    "rewritten": true
   }
