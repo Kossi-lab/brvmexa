@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-23T08:45:20.136Z",
+ "updatedAt": "2026-11-23T09:00:35.455Z",
  "items": [
+  {
+   "id": "sika-65875",
+   "title": "Le SIREXE referme ses portes avec près de 5 000 milliards FCFA d’investissements en perspective",
+   "summary": "A Abidjan, le succès de la deuxième édition du SIREXE se lit dans les premiers résultats présentés lors de la cérémonie...",
+   "url": "https://www.sikafinance.com/marches/le-sirexe-referme-ses-portes-avec-pres-de-5-000-milliards-fcfa-dinvestissements-en-perspective_65875",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-23T08:56:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "gn-1x1c30v",
    "title": "Côte d’Ivoire-AIP/ Un groupe bancaire ouvre 20 % de son capital aux investisseurs pour son introduction à la BRVM",
@@ -4314,20 +4328,6 @@
    "symbols": [
     "BBGC"
    ],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "sika-65336",
-   "title": "Bénin : Le Capital Reach Forum clôture ses travaux sur les leviers de financement de l’économie",
-   "summary": "Financer une entreprise, faciliter l'accès au logement ou accompagner l'industrialisation ne relève pas uniquement de l...",
-   "url": "https://www.sikafinance.com/marches/benin-le-capital-reach-forum-cloture-ses-travaux-sur-les-leviers-de-financement-de-leconomie_65336",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-29T09:34:00Z",
-   "symbols": [],
    "status": "new",
    "tries": 0
   }

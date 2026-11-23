@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-23T08:45:20.139Z",
+ "updatedAt": "2026-11-23T09:00:35.458Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -17,6 +17,30 @@
     "19 PAGES"
    ],
    "pinned": true
+  },
+  {
+   "id": "sika-65875",
+   "title": "Clôture du SIREXE à Abidjan : près de 5 000 milliards FCFA d'investissements annoncés",
+   "summary": "La deuxième édition du Salon international des ressources extractives et de l'énergie s'est achevée à Abidjan sur des perspectives d'investissement de 4 913 milliards FCFA, portées par 27 nouvelles conventions de financement.",
+   "body": [
+    "Le Salon international des ressources extractives et de l'énergie (SIREXE) a refermé ses portes le 22 novembre à Abidjan après cinq jours d'échanges. L'événement a attiré 107 164 participants et 400 exposants. Au total, 27 conventions de financement ont été actées, représentant une enveloppe globale de 4 913 milliards de FCFA destinée aux secteurs des mines, des hydrocarbures et de l'énergie.",
+    "Ce bilan affiche une progression de 23 % par rapport à la première édition de 2024, où 4 000 milliards de FCFA avaient été annoncés. L'édition 2026 a notamment mis en avant la plateforme « SIREXE Invest », facilitant la mise en relation entre investisseurs et porteurs de projets. Le Botswana, invité d'honneur, a également souligné l'importance de ces rencontres pour renforcer la coopération régionale et transformer localement les ressources extractives."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65875",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-23T08:56:00Z",
+   "writtenAt": "2026-11-23T09:00:35.455Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/le-sirexe-referme-ses-portes-avec-pres-de-5-000-milliards-fcfa-dinvestissements-en-perspective_65875",
+    "title": "Le SIREXE referme ses portes avec près de 5 000 milliards FCFA d’investissements en perspective"
+   },
+   "rewritten": true
   },
   {
    "id": "gn-1x1c30v",
@@ -3740,31 +3764,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/congo-dangote-cement-porte-sa-part-de-marche-a-73-grace-a-une-hausse-de-11-9-de-ses-ventes_65627",
     "title": "Congo : Dangote Cement porte sa part de marché à 73% grâce à une hausse de 11,9% de ses ventes"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65629",
-   "title": "Le Nigeria initie un projet pour lier son marché financier à l'UEMOA et au Ghana",
-   "summary": "Abuja souhaite fluidifier les investissements transfrontaliers en Afrique de l'Ouest à travers un rapprochement des places financières du Nigeria, du Ghana et de l'UEMOA.",
-   "body": [
-    "Le ministre nigérian des Finances, Taiwo Oyedele, a dévoilé le 10 novembre 2026 à Lagos un projet visant à interconnecter les bourses du Nigeria, du Ghana et des huit nations membres de l'UEMOA. Cette stratégie cherche à surmonter la fragmentation des places financières régionales pour stimuler la mobilisation de capitaux.",
-    "Pour simplifier les démarches, le plan suggère l'instauration d'un passeport régional et d'un identifiant unique pour les investisseurs, évitant ainsi la multiplication des procédures administratives d'un pays à l'autre. De plus, les infrastructures de transaction et de paiement seraient reliées afin de régler les opérations directement en monnaies locales, tout en s'appuyant sur des outils existants comme le PAPSS.",
-    "Par ailleurs, le Nigeria ambitionne de porter son propre marché des capitaux à un minimum de 1 000 milliards de dollars d'ici dix ans et de décrocher une notation de catégorie investissement d'ici trois ans. Cette intégration doit permettre aux entreprises et aux États de mobiliser des financements au-delà de leurs frontières nationales, notamment pour des projets d'infrastructures d'envergure."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65629",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-10T16:05:00Z",
-   "writtenAt": "2026-11-10T16:54:35.516Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/nigeria-un-projet-pour-connecter-son-marche-financier-a-ceux-de-luemoa-et-du-ghana_65629",
-    "title": "Nigeria : Un projet pour connecter son marché financier à ceux de l’UEMOA et du Ghana"
    },
    "rewritten": true
   }
