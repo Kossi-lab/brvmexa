@@ -1,6 +1,22 @@
 {
- "updatedAt": "2026-11-23T16:15:19.100Z",
+ "updatedAt": "2026-11-23T16:30:35.886Z",
  "items": [
+  {
+   "id": "sika-65892",
+   "title": "Télécoms : Orange Côte d’Ivoire mise sur la transparence pour consolider la confiance des consommateurs",
+   "summary": "La confiance des consommateurs ne se décrète pas, elle se construit. C'est le pari que fait Orange Côte d'Ivoire ...",
+   "url": "https://www.sikafinance.com/marches/telecoms-orange-cote-divoire-mise-sur-la-transparence-pour-consolider-la-confiance-des-consommateurs_65892",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-23T16:20:00Z",
+   "symbols": [
+    "ORAC"
+   ],
+   "status": "new",
+   "tries": 0
+  },
   {
    "id": "gn-i40t2e",
    "title": "BRVM : Coris Holding ramènera sa participation à 64,6 % après l’OPV de Coris Bank CI",
@@ -4316,20 +4332,6 @@
    "symbols": [
     "NSBC"
    ],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "sika-65355",
-   "title": "Anthropic vise 1 500 milliards USD en Bourse, soit plus que le PIB cumulé des 3 plus grandes économies africaines",
-   "summary": "Voir une seule entreprise technologique de 3 000 employés viser une valorisation supérieure à la richesse produite en u...",
-   "url": "https://www.sikafinance.com/marches/anthropic-vise-1-500-milliards-usd-en-bourse-soit-plus-que-le-pib-cumule-des-3-plus-grandes-economies-africaines_65355",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": true,
-   "publishedAt": "2026-10-29T17:00:00Z",
-   "symbols": [],
    "status": "new",
    "tries": 0
   }
