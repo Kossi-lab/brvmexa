@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-23T15:30:22.949Z",
+ "updatedAt": "2026-11-23T15:45:20.487Z",
  "items": [
   {
    "id": "gn-i40t2e",
@@ -274,22 +274,6 @@
    "tries": 1
   },
   {
-   "id": "gn-1gfad7o",
-   "title": "Sogb Côte d'Ivoire (SOGC) — BRVM",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sZUtjYXhXV041LTR6dVZsNkFvNzVIUXFtWlBibk55VUdnOV9OcEVSQzY3N1EzMGlhbEVJRFdBaUdPZ3dXLUpSUWppRXZZT1JTU29NeVJibE5XQU9UMkdLTWMyNEhzdw?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-11-20T23:04:03.000Z",
-   "symbols": [
-    "SOGC"
-   ],
-   "status": "skip",
-   "tries": 1
-  },
-  {
    "id": "gn-zedccu",
    "title": "BRVM : Coris Bank Côte d’Ivoire vend 20 % de son capital dès le 30 novembre",
    "summary": null,
@@ -537,6 +521,22 @@
     "BOAB"
    ],
    "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "gn-1gfad7o",
+   "title": "Sogb Côte d'Ivoire (SOGC) — BRVM",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sZUtjYXhXV041LTR6dVZsNkFvNzVIUXFtWlBibk55VUdnOV9OcEVSQzY3N1EzMGlhbEVJRFdBaUdPZ3dXLUpSUWppRXZZT1JTU29NeVJibE5XQU9UMkdLTWMyNEhzdw?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-20T08:00:00.000Z",
+   "symbols": [
+    "SOGC"
+   ],
+   "status": "skip",
    "tries": 1
   },
   {
@@ -2686,6 +2686,22 @@
    "tries": 1
   },
   {
+   "id": "gn-zm54qj",
+   "title": "Les actions du BRVM reculent alors que la vague de ventes de Sonatel et la faiblesse des résultats pèsent sur le marché",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPYzZIcVRCeVdQdDZoSU56V1lWNXRHU29rclJJWlFhRl9FemY4UUhXRS1KU1dVeG11NFlpZFl0bEU3YmdWRjNIQ0NNenE0RXJHNktqR0pvT1FPMkZaOGdFYU9HRl9ieEl2OGktcV9MZkt6M2VwSHBWY2xUSTR3QTFJT0VWV1NDQ0M0SFlUOG9VU0NydDdrVzF0dG1MUGVmVXpxNS14Sko3VWR5OERlUTRMSUN4NmRITmE1NTFoeVNHaU9yb0VJb2V1QVZQMk9oRk9DTkg1MXktRV95U3l2cmk4Y1pCX1NnUFNRVFBNTGllczE?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-07T08:00:00.000Z",
+   "symbols": [
+    "SNTS"
+   ],
+   "status": "new",
+   "tries": 0
+  },
+  {
    "id": "gn-4806ig",
    "title": "Afrique : la BRVM et d'autres bourses du continent sollicitées pour élargir l'accès à l'IPO de Dangote Refinery",
    "summary": null,
@@ -4313,20 +4329,6 @@
    "category": "Marchés",
    "premium": true,
    "publishedAt": "2026-10-29T17:00:00Z",
-   "symbols": [],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "sika-65353",
-   "title": "Pareto Labs : La pépite ivoirienne de l’IA intègre la cohorte Askya et vise une enveloppe globale de 500 000 USD",
-   "summary": "Askya Investment Partners annonce la première cohorte de sa plateforme d'accélération Askya AI Growth Platform. Parmi l...",
-   "url": "https://www.sikafinance.com/marches/pareto-labs-la-pepite-ivoirienne-de-lia-integre-la-cohorte-askya-et-vise-une-enveloppe-globale-de-500-000-usd_65353",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-29T16:48:00Z",
    "symbols": [],
    "status": "new",
    "tries": 0
