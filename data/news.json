@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-23T13:00:25.183Z",
+ "updatedAt": "2026-11-23T13:15:34.087Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -17,6 +17,30 @@
     "19 PAGES"
    ],
    "pinned": true
+  },
+  {
+   "id": "sika-65887",
+   "title": "Perseus Mining célèbre une décennie d'exploitation aurifère en Côte d'Ivoire",
+   "summary": "Le groupe minier australien Perseus Mining a marqué ses dix ans de présence en Côte d'Ivoire en soulignant son impact économique et son engagement durable auprès des acteurs locaux.",
+   "body": [
+    "Le 21 novembre 2026, en marge du SIREXE à Abidjan, Perseus Mining a célébré dix années d'activités en Côte d'Ivoire. Le groupe, qui exploite les sites aurifères de Sissingué depuis 2018 et de Yaouré depuis 2020, a mis en avant le démarrage de sa mine souterraine à Yaouré en avril 2026, une première dans le pays.",
+    "Sur le plan financier, l'entreprise affiche un chiffre d'affaires cumulé de 2 525 milliards FCFA pour 504 milliards FCFA d'investissements. Les contributions à l'État atteignent 284 milliards FCFA. Au-delà des chiffres, le groupe emploie plus de 1 500 collaborateurs et finance des projets sociaux via les Comités de développement local minier, tout en ayant formé 750 jeunes aux métiers techniques."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65887",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-23T12:57:00Z",
+   "writtenAt": "2026-11-23T13:15:22.517Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/cote-divoire-perseus-mining-celebre-dix-ans-dactivites-et-rend-hommage-a-ses-partenaires_65887",
+    "title": "Côte d’Ivoire : Perseus Mining célèbre dix ans d’activités et rend hommage à ses partenaires"
+   },
+   "rewritten": true
   },
   {
    "id": "sika-65881",
@@ -41,6 +65,32 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/coris-bank-international-ci-prepare-son-introduction-a-la-brvm-a-travers-une-offre-publique-de-vente-de-20-de-son-capital_65881",
     "title": "Coris Bank International CI prépare son introduction à la BRVM à travers une offre publique de vente de 20% de son capital"
+   },
+   "rewritten": true
+  },
+  {
+   "id": "sika-65889",
+   "title": "Orange Côte d'Ivoire déploie sa solution satellite pour désenclaver les entreprises",
+   "summary": "Pacôme Boidi, responsable chez Orange Côte d'Ivoire, présente le lancement d'Orange SAT comme un levier pour garantir la continuité d'activité et la compétitivité des entreprises situées en zones rurales.",
+   "body": [
+    "Le lancement de la solution Orange SAT marque une étape importante pour Orange Côte d'Ivoire dans sa stratégie de réduction de la fracture numérique. Ce service par satellite permet désormais aux entreprises opérant dans des zones isolées, telles que les sites miniers, les plantations ou les chantiers forestiers, de bénéficier d'une connectivité stable et performante, comparable à celle disponible dans les centres urbains comme le Plateau.",
+    "Au-delà de l'accès à Internet, cette technologie vise à assurer la continuité des activités professionnelles et à renforcer la sécurité des travailleurs isolés grâce au service de messagerie satellite. En s'appuyant sur l'expertise d'Eutelsat, Orange Côte d'Ivoire entend soutenir la productivité des secteurs agro-industriel et minier, tout en favorisant l'accès aux services essentiels comme la santé et l'éducation dans les régions les plus enclavées du pays."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65889",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-23T12:31:00Z",
+   "writtenAt": "2026-11-23T13:15:34.085Z",
+   "symbols": [
+    "ORAC"
+   ],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/pacome-boidi-manager-senior-chez-orange-ci-la-connectivite-satellite-permet-aux-entreprises-d-acceder-au-meme-niveau-de-performance-qu-en-ville_65889",
+    "title": "Pacôme BOIDI, Manager Senior chez Orange CI : ‘’La connectivité satellite permet aux entreprises d'accéder au même niveau de performance qu'en ville’’"
    },
    "rewritten": true
   },
@@ -3707,57 +3757,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/financement-du-terrorisme-la-cote-divoire-renforce-son-bouclier-financier-apres-sa-sortie-de-la-liste-grise-du-gafi_65648",
     "title": "Financement du terrorisme : La Côte d’Ivoire renforce son bouclier financier après sa sortie de la liste grise du GAFI"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65644",
-   "title": "BIIC Bénin : Une performance financière en forte hausse au troisième trimestre 2026",
-   "summary": "La Banque Internationale pour l'Industrie et le Commerce (BIIC) affiche une dynamique positive avec un bénéfice net en progression de 64 % sur les neuf premiers mois de l'année 2026.",
-   "body": [
-    "La BIIC a dévoilé ses indicateurs financiers pour la période s'achevant au 30 septembre 2026. L'établissement bancaire béninois enregistre une croissance notable de son résultat net, qui affiche une hausse de 64 % par rapport à la même période de l'exercice précédent.",
-    "Ces résultats témoignent de l'évolution de l'activité de la banque sur les trois premiers trimestres de l'année 2026. Cette progression souligne la trajectoire financière actuelle de l'institution sur le marché bancaire régional."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65644",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-11T11:40:00Z",
-   "writtenAt": "2026-11-11T11:47:08.958Z",
-   "symbols": [
-    "BICB"
-   ],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/biic-benin-le-resultat-net-progresse-de-64-a-fin-septembre-2026_65644",
-    "title": "BIIC Bénin : Le résultat net progresse de 64 % à fin septembre 2026"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65643",
-   "title": "Ghana : une découverte pétrolière inédite dans des roches carbonatées au large",
-   "summary": "Le Ghana a identifié des hydrocarbures dans des roches carbonatées, une première technologique ouvrant de nouvelles perspectives d'exploration pour le pays.",
-   "body": [
-    "Le 10 novembre 2026, le président John Dramani Mahama a officialisé une découverte majeure réalisée par la société dubaïote Planet One Oil & Gas. Situé à 148 kilomètres des côtes ghanéennes, le puits Nya Gyidie-1X, dans le bloc Deepwater Cape Three Points, a révélé la présence d'hydrocarbures au sein de roches carbonatées, une première pour le secteur pétrolier national qui exploitait jusqu'ici exclusivement des roches gréseuses.",
-    "Ce projet est mené par Planet One Oil & Gas, opérateur détenant 75 % des parts, en collaboration avec la Ghana National Petroleum Corporation (15 %) et GOIL Upstream Limited (10 %). Le forage a été effectué à une profondeur d'eau de 2 289 mètres, avec des indices d'hydrocarbures détectés entre 3 364 et 3 499 mètres de profondeur.",
-    "Si cette découverte marque un tournant technique, le volume et la nature exacte des ressources restent à déterminer. Des analyses complémentaires sont nécessaires pour évaluer la viabilité commerciale de ce gisement. Cette avancée s'inscrit dans une stratégie plus large du Ghana visant à renouveler ses réserves pétrolières et à soutenir sa production, portée par des engagements d'investissement de 3,5 milliards de dollars annoncés en juin 2026."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65643",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-11T11:00:00Z",
-   "writtenAt": "2026-11-11T11:48:03.941Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/le-ghana-decouvre-des-hydrocarbures-dans-un-nouveau-type-de-roche-au-large-de-ses-cotes_65643",
-    "title": "Le Ghana découvre des hydrocarbures dans un nouveau type de roche au large de ses côtes"
    },
    "rewritten": true
   }

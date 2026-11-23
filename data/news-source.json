@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-23T13:00:25.181Z",
+ "updatedAt": "2026-11-23T13:15:34.085Z",
  "items": [
+  {
+   "id": "sika-65887",
+   "title": "Côte d’Ivoire : Perseus Mining célèbre dix ans d’activités et rend hommage à ses partenaires",
+   "summary": "Dix ans après son implantation en Côte d'Ivoire, Perseus Mining entend inscrire son développement dans la durée, ...",
+   "url": "https://www.sikafinance.com/marches/cote-divoire-perseus-mining-celebre-dix-ans-dactivites-et-rend-hommage-a-ses-partenaires_65887",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-23T12:57:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65881",
    "title": "Coris Bank International CI prépare son introduction à la BRVM à travers une offre publique de vente de 20% de son capital",
@@ -13,6 +27,22 @@
    "publishedAt": "2026-11-23T12:48:00Z",
    "symbols": [
     "CBIBF"
+   ],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "sika-65889",
+   "title": "Pacôme BOIDI, Manager Senior chez Orange CI : ‘’La connectivité satellite permet aux entreprises d'accéder au même niveau de performance qu'en ville’’",
+   "summary": "Pacôme BOIDI, Manager Senior Coordination Commercialle B2B chez Orange Côte d'Ivoire : La connect...",
+   "url": "https://www.sikafinance.com/marches/pacome-boidi-manager-senior-chez-orange-ci-la-connectivite-satellite-permet-aux-entreprises-d-acceder-au-meme-niveau-de-performance-qu-en-ville_65889",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-23T12:31:00Z",
+   "symbols": [
+    "ORAC"
    ],
    "status": "done",
    "tries": 1
@@ -4298,34 +4328,6 @@
    "symbols": [
     "BNBC"
    ],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "sika-65354",
-   "title": "Côte d’Ivoire : Avec un potentiel qui s’accroît, Turaco Gold veut racheter les parts de son unique associé sur projet aurifère d’Afema",
-   "summary": "La compagnie australienne a conclu un accord pour acquérir les 20 % encore détenus par la firme israélienne Sodim, son ...",
-   "url": "https://www.sikafinance.com/marches/cote-divoire-avec-un-potentiel-qui-saccroit-turaco-gold-veut-racheter-les-parts-de-son-unique-associe-sur-projet-aurifere-dafema_65354",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-29T15:38:00Z",
-   "symbols": [],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "sika-65351",
-   "title": "Afrique : Quelles banques centrales détiennent les plus importantes réserves d’or ?",
-   "summary": "Coulés en un unique lingot, les stocks d'or de 12 pays et de la Banque centrale des États de l'Afrique de l'Oues...",
-   "url": "https://www.sikafinance.com/marches/afrique-quelles-banques-centrales-detiennent-les-plus-importantes-reserves-dor-_65351",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": true,
-   "publishedAt": "2026-10-29T14:46:00Z",
-   "symbols": [],
    "status": "new",
    "tries": 0
   }
