@@ -1,6 +1,22 @@
 {
- "updatedAt": "2026-11-23T10:45:24.095Z",
+ "updatedAt": "2026-11-23T11:00:25.535Z",
  "items": [
+  {
+   "id": "sika-65881",
+   "title": "Coris Bank International CI prépare son introduction à la BRVM à travers une offre publique de vente de 20% de son capital",
+   "summary": "Coris Bank International Côte d'Ivoire (CBI Côte d'Ivoire), filiale du Groupe Coris présente sur le marché ...",
+   "url": "https://www.sikafinance.com/marches/coris-bank-international-ci-prepare-son-introduction-a-la-brvm-a-travers-une-offre-publique-de-vente-de-20-de-son-capital_65881",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-23T12:48:00Z",
+   "symbols": [
+    "CBIBF"
+   ],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65880",
    "title": "SIREXE Awards 2026 : Koné, Petroci et Biovea en tête du premier palmarès",
@@ -31,7 +47,7 @@
   },
   {
    "id": "sika-65876",
-   "title": "Le Groupe Coris met en vente 20 % du capital de Coris Bank Côte d’Ivoire avant son entrée à la BRVM",
+   "title": "Le Groupe Coris met en vente 20% du capital de Coris Bank Côte d’Ivoire avant son entrée à la BRVM",
    "summary": "L'offre publique de vente porte sur 8,16 millions d'actions, proposées à 7 720 FCFA au public. Les souscriptions sont p...",
    "url": "https://www.sikafinance.com/marches/le-groupe-coris-met-en-vente-20-du-capital-de-coris-bank-cote-divoire-avant-son-entree-a-la-brvm_65876",
    "image": null,
@@ -4312,20 +4328,6 @@
    "symbols": [
     "LNBB"
    ],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "sika-65344",
-   "title": "Fintech : Daniel DINDJI, le CEO de CinetPay, décroche 3 distinctions au PADEV 2026 à Kigali",
-   "summary": "Daniel DINDJI, fondateur et directeur général de CinetPay, recevant le Sabre d'honneur du PADEV Trois distinctions en d...",
-   "url": "https://www.sikafinance.com/marches/fintech-daniel-dindji-le-ceo-de-cinetpay-decroche-3-distinctions-au-padev-2026-a-kigali_65344",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-29T11:42:00Z",
-   "symbols": [],
    "status": "new",
    "tries": 0
   }

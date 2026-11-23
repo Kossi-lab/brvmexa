@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-23T10:45:24.099Z",
+ "updatedAt": "2026-11-23T11:00:25.537Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -17,6 +17,32 @@
     "19 PAGES"
    ],
    "pinned": true
+  },
+  {
+   "id": "sika-65881",
+   "title": "Coris Bank International Côte d'Ivoire annonce son introduction à la BRVM",
+   "summary": "La filiale ivoirienne du groupe Coris s'apprête à faire son entrée au compartiment Prestige de la BRVM via une offre publique de vente de 20% de son capital.",
+   "body": [
+    "Coris Bank International Côte d'Ivoire (CBI CI) a officialisé le 20 novembre 2026 son projet d'introduction en bourse. Cette opération, pilotée par Coris Bourse en tant qu'arrangeur, consiste en la cession de 8 160 000 actions, soit 20% du capital de l'établissement, pour une valeur totale de 62 743 056 000 FCFA. Les titres seront inscrits au compartiment Prestige de la BRVM sous le code ISIN CI0000010740.",
+    "La période de souscription est fixée du 30 novembre au 4 décembre 2026. Le prix de l'action est établi à 7 720 FCFA pour le grand public et à 6 175 FCFA pour le personnel du groupe. Présente sur le marché ivoirien depuis 2013, la banque a clôturé l'exercice 2025 avec un résultat net de 24,5 milliards FCFA et un total de bilan de 1 323 milliards FCFA. L'opération a reçu le visa de l'AMF-UMOA le 11 novembre 2026."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65881",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-23T12:48:00Z",
+   "writtenAt": "2026-11-23T11:00:25.534Z",
+   "symbols": [
+    "CBIBF"
+   ],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/coris-bank-international-ci-prepare-son-introduction-a-la-brvm-a-travers-une-offre-publique-de-vente-de-20-de-son-capital_65881",
+    "title": "Coris Bank International CI prépare son introduction à la BRVM à travers une offre publique de vente de 20% de son capital"
+   },
+   "rewritten": true
   },
   {
    "id": "sika-65880",
@@ -3731,30 +3757,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/nigeria-dangote-cement-abandonne-son-projet-de-cotation-a-londres_65633",
     "title": "Nigeria : Dangote Cement abandonne son projet de cotation à Londres"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65634",
-   "title": "Analyse des rémunérations au sein de l'administration publique ivoirienne",
-   "summary": "Le salaire moyen dans la fonction publique ivoirienne s'établit à 404 000 FCFA, dans un contexte de reprise de la dynamique haussière des revenus des agents de l'État.",
-   "body": [
-    "Les données récentes révèlent que le revenu moyen perçu par les fonctionnaires en Côte d'Ivoire atteint désormais 404 000 FCFA. Ce chiffre marque une étape dans l'évolution des traitements au sein de l'administration publique, qui connaissent une tendance à la hausse après une période de stagnation.",
-    "Si cette moyenne offre une vision globale de la situation salariale, la question de la disparité des revenus demeure centrale, notamment en ce qui concerne les émoluments des hauts cadres de l'État. Cette dynamique de progression des salaires s'inscrit dans un processus de revalorisation entamé récemment par les autorités."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65634",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-10T17:23:00Z",
-   "writtenAt": "2026-11-10T17:49:52.307Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/fonction-publique-ivoirienne-404-000-fcfa-de-salaire-moyen-mais-combien-touchent-reellement-les-hauts-cadres-_65634",
-    "title": "Fonction publique ivoirienne : 404 000 FCFA de salaire moyen, mais combien touchent réellement les hauts cadres ?"
    },
    "rewritten": true
   }

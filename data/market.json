@@ -1,29 +1,29 @@
 {
- "updatedAt": "2026-11-23T10:45:15.775Z",
+ "updatedAt": "2026-11-23T11:00:18.291Z",
  "sessionDate": "2026-11-23",
- "sessionTime": "10:30",
+ "sessionTime": "10:45",
  "source": "brvm.org",
- "transactionsValue": 270381114,
- "capitalisationActions": 18930387742610,
+ "transactionsValue": 345200861,
+ "capitalisationActions": 18922926474001,
  "capitalisationBonds": 13419033033771,
  "advancing": 2,
- "declining": 38,
- "unchanged": 8,
- "totalVolume": 206245,
+ "declining": 39,
+ "unchanged": 7,
+ "totalVolume": 239363,
  "gainers": [
   {
-   "symbol": "ABJC",
-   "shortName": "Servair Abidjan",
-   "close": 3150,
-   "change": 5,
-   "volume": 23
+   "symbol": "SCRC",
+   "shortName": "Sucrivoire CI",
+   "close": 1285,
+   "change": 4.47,
+   "volume": 3696
   },
   {
    "symbol": "SHEC",
    "shortName": "Vivo Energy CI",
    "close": 1880,
    "change": 1.62,
-   "volume": 489
+   "volume": 520
   }
  ],
  "losers": [
@@ -32,14 +32,28 @@
    "shortName": "Coris Bank International",
    "close": 25445,
    "change": -7.49,
-   "volume": 342
+   "volume": 412
+  },
+  {
+   "symbol": "BOAB",
+   "shortName": "BOA Bénin",
+   "close": 8415,
+   "change": -7.48,
+   "volume": 377
   },
   {
    "symbol": "SDSC",
    "shortName": "Africa Global Logistics CI",
    "close": 2485,
    "change": -7.45,
-   "volume": 3335
+   "volume": 3675
+  },
+  {
+   "symbol": "SDCC",
+   "shortName": "SODECI",
+   "close": 10460,
+   "change": -7.43,
+   "volume": 499
   },
   {
    "symbol": "NEIC",
@@ -47,57 +61,43 @@
    "close": 1760,
    "change": -7.37,
    "volume": 45
-  },
-  {
-   "symbol": "ONTBF",
-   "shortName": "Onatel Burkina Faso",
-   "close": 2600,
-   "change": -7.31,
-   "volume": 910
-  },
-  {
-   "symbol": "PRSC",
-   "shortName": "Tractafric Motors CI",
-   "close": 3450,
-   "change": -7.26,
-   "volume": 3
   }
  ],
  "mostActive": [
   {
    "symbol": "SNTS",
    "shortName": "Sonatel",
-   "close": 3960,
-   "change": -1.98,
-   "volume": 11979
+   "close": 3995,
+   "change": -1.11,
+   "volume": 14773
   },
   {
    "symbol": "BOAS",
    "shortName": "BOA Sénégal",
    "close": 7700,
    "change": 0,
-   "volume": 3799
+   "volume": 4263
+  },
+  {
+   "symbol": "SGBC",
+   "shortName": "Société Générale CI",
+   "close": 38000,
+   "change": -2.05,
+   "volume": 684
   },
   {
    "symbol": "BOAC",
    "shortName": "BOA Côte d’Ivoire",
    "close": 10905,
    "change": -0.82,
-   "volume": 2126
+   "volume": 2332
   },
   {
    "symbol": "BBGC",
    "shortName": "Bridge Bank Group CI",
-   "close": 8130,
-   "change": -0.18,
-   "volume": 2586
-  },
-  {
-   "symbol": "SGBC",
-   "shortName": "Société Générale CI",
-   "close": 38400,
-   "change": -1.02,
-   "volume": 374
+   "close": 8100,
+   "change": -0.55,
+   "volume": 2938
   }
  ]
 }
