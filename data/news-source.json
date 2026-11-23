@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-23T18:02:27.720Z",
+ "updatedAt": "2026-11-23T18:15:42.291Z",
  "items": [
+  {
+   "id": "sika-65898",
+   "title": "Burkina : Inauguration d’une académie technologique de plus de 37 milliards FCFA pour accélérer la souveraineté industrielle",
+   "summary": "Le Burkina Faso entend faire de la maîtrise technologique un nouveau moteur de sa transformation économique. Pour...",
+   "url": "https://www.sikafinance.com/marches/burkina-inauguration-dune-academie-technologique-de-plus-de-37-milliards-fcfa-pour-accelerer-la-souverainete-industrielle_65898",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-23T17:58:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65897",
    "title": "Côte d’Ivoire : L’organisme panafricain de prévoyance sociale, CIPRES, forme une centaine de cadres aux nouveaux outils de gestion des pensions",
@@ -4311,20 +4325,6 @@
    "category": "Marchés",
    "premium": true,
    "publishedAt": "2026-10-30T11:49:00Z",
-   "symbols": [],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "sika-65370",
-   "title": "Congo : La nouvelle loi minière menace le financement du projet de potasse Kola, évalué à 2,2 milliards USD",
-   "summary": "La société britannique Kore Potash, qui détient les projets de potasse Kola et DX en République du Congo, réclame des é...",
-   "url": "https://www.sikafinance.com/marches/congo-la-nouvelle-loi-miniere-menace-le-financement-du-projet-de-potasse-kola-evalue-a-2-2-milliards-usd_65370",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-30T11:46:00Z",
    "symbols": [],
    "status": "new",
    "tries": 0

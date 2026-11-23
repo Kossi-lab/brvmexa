@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-23T18:02:27.722Z",
+ "updatedAt": "2026-11-23T18:15:42.294Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -17,6 +17,31 @@
     "19 PAGES"
    ],
    "pinned": true
+  },
+  {
+   "id": "sika-65898",
+   "title": "Burkina Faso : l'Académie technologique du Faso ouvre ses portes",
+   "summary": "Inaugurée le 23 novembre 2026 à Pabré, l'Académie technologique du Faso a nécessité un investissement étatique de 37,37 milliards FCFA pour doper l'expertise industrielle locale.",
+   "body": [
+    "Le Burkina Faso s'est doté d'une nouvelle infrastructure d'enseignement supérieur dédiée aux sciences et à l'ingénierie, baptisée l'Académie technologique du Faso (ATF). Bâtie à Pabré, dans le Grand Ouagadougou, et inaugurée le 23 novembre 2026 par le capitaine Ibrahim Traoré, cette structure a été entièrement financée par le budget de l'État à hauteur de 37,37 milliards de francs CFA pour sa phase initiale. Les travaux, débutés en décembre 2025, ont été bouclés en un peu plus de dix mois sur une parcelle de près de 60 hectares.",
+    "Le campus intègre des équipements modernes comprenant des laboratoires, des ateliers techniques, des forges industrielles, ainsi que des espaces connectés et des hébergements. Pour sa rentrée inaugurale, l'établissement accueille une cohorte de 250 étudiants triés parmi les meilleurs bacheliers scientifiques. Après deux années de tronc commun, ces futurs ingénieurs se spécifieront dans des domaines variés tels que le génie nucléaire, l'informatique, les télécommunications, l'aéronautique ou encore les mines et la métallurgie.",
+    "Née d'un décret adopté en conseil des ministres en juillet 2026, l'institution vise à doter le pays d'un vivier de compétences capable de réduire la dépendance extérieure aux équipements et à l'expertise étrangère. L'objectif des autorités est de connecter directement l'enseignement académique aux exigences pratiques des secteurs productifs afin d'accélérer l'essor industriel national."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65898",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-23T17:58:00Z",
+   "writtenAt": "2026-11-23T18:15:42.289Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/burkina-inauguration-dune-academie-technologique-de-plus-de-37-milliards-fcfa-pour-accelerer-la-souverainete-industrielle_65898",
+    "title": "Burkina : Inauguration d’une académie technologique de plus de 37 milliards FCFA pour accélérer la souveraineté industrielle"
+   },
+   "rewritten": true
   },
   {
    "id": "sika-65897",
@@ -3745,35 +3770,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/cote-divoire-ces-entreprises-publiques-ayant-realise-les-plus-gros-en-2025_65661",
     "title": "Côte d’Ivoire : Ces entreprises publiques ayant réalisé les plus gros en 2025"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65655",
-   "title": "La BRVM renoue avec la croissance portée par la performance de SICABLE",
-   "summary": "Après une séance difficile, les indices de la BRVM repartent à la hausse ce 11 novembre, portés par une dynamique sélective dominée par le titre SICABLE.",
-   "body": [
-    "La Bourse régionale des valeurs mobilières a clôturé la séance du 11 novembre dans le vert. Le BRVM-Composite a progressé de 0,85 % pour atteindre 517,17 points, tandis que le BRVM-30 et le BRVM-Prestige ont respectivement gagné 1,07 % et 0,45 %. Cette tendance haussière cache toutefois une certaine disparité, puisque seulement 15 titres ont terminé en hausse contre 23 en repli.",
-    "SICABLE CI a réalisé la meilleure performance de la journée avec une progression de 7,18 % à 2 910 FCFA. Le titre Sonatel Sénégal, en hausse de 4,75 % à 4 190 FCFA, a également joué un rôle moteur en augmentant sa capitalisation boursière de 190 milliards FCFA. À l'inverse, Tractafric Motors CI a subi le recul le plus marqué, perdant 6,97 % pour s'établir à 3 535 FCFA.",
-    "Le volume total des transactions s'est élevé à 1,2 milliard FCFA. Sonatel Sénégal a concentré l'essentiel de cette activité avec 346 millions FCFA d'échanges, représentant près de 28,8 % du montant global de la séance."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65655",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-11T16:44:00Z",
-   "writtenAt": "2026-11-11T16:57:43.065Z",
-   "symbols": [
-    "CABC",
-    "PRSC",
-    "SNTS"
-   ],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/brvm-sicable-s-illustre-dans-une-seance-de-reprise_65655",
-    "title": "BRVM : SICABLE s'illustre dans une séance de reprise"
    },
    "rewritten": true
   }
