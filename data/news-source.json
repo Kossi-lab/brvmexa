@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-23T10:01:06.401Z",
+ "updatedAt": "2026-11-23T10:15:31.846Z",
  "items": [
+  {
+   "id": "sika-65880",
+   "title": "SIREXE Awards 2026 : Koné, Petroci et Biovea en tête du premier palmarès",
+   "summary": "Les premières distinctions du SIREXE ont été remises le 21 novembre à Abidjan. Au-delà des grands projets miniers, pétr...",
+   "url": "https://www.sikafinance.com/marches/sirexe-awards-2026-kone-petroci-et-biovea-en-tete-du-premier-palmares_65880",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-23T09:50:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65878",
    "title": "BRVM / Semaine 46 : Une semaine difficile pour 43 valeurs",
@@ -4311,20 +4325,6 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-10-29T11:42:00Z",
-   "symbols": [],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "sika-65343",
-   "title": "Datacenters prêts pour l’IA, parc TIC : Le Nigeria lance un complexe numérique de 3 milliards USD",
-   "summary": "Une plateforme panafricaine d'infrastructures numériques de 2 à 3 milliards USD verra le jour au Nigeria. Ce complexe i...",
-   "url": "https://www.sikafinance.com/marches/datacenters-prets-pour-lia-parc-tic-le-nigeria-lance-un-complexe-numerique-de-3-milliards-usd_65343",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-29T11:35:00Z",
    "symbols": [],
    "status": "new",
    "tries": 0

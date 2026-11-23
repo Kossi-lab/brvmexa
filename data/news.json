@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-23T10:01:06.403Z",
+ "updatedAt": "2026-11-23T10:15:31.848Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -17,6 +17,30 @@
     "19 PAGES"
    ],
    "pinned": true
+  },
+  {
+   "id": "sika-65880",
+   "title": "SIREXE Awards 2026 : Koné, Petroci et Biovea distingués à Abidjan",
+   "summary": "La première édition des SIREXE Awards a récompensé les acteurs clés des secteurs minier, pétrolier et énergétique ivoiriens, tout en valorisant le développement communautaire et le contenu local.",
+   "body": [
+    "Lors d'une cérémonie tenue le 21 novembre à Abidjan sous l'égide du ministre Mamadou Sangafowa-Coulibaly, les premiers SIREXE Awards ont mis en lumière l'excellence opérationnelle. Les distinctions sectorielles ont été attribuées à la mine d'or de Koné, au projet pétrolier Baleine porté par Eni, et à la centrale biomasse Biovea Énergie. Au-delà de ces lauréats, le jury a également salué les efforts en matière de formation, de management et de développement communautaire, avec notamment une récompense pour Endeavour Mining.",
+    "Ces prix visent à établir de nouveaux standards industriels en évaluant les projets sur leurs impacts réels plutôt que sur leur seule envergure financière. Cette initiative s'inscrit dans la vision nationale de renforcer le poids des industries extractives et énergétiques dans l'économie ivoirienne d'ici 2030. Pour atteindre les objectifs fixés à l'horizon 2040, le gouvernement mise sur une mobilisation massive du secteur privé, estimée à 38 000 milliards de FCFA."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65880",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-23T09:50:00Z",
+   "writtenAt": "2026-11-23T10:15:31.846Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/sirexe-awards-2026-kone-petroci-et-biovea-en-tete-du-premier-palmares_65880",
+    "title": "SIREXE Awards 2026 : Koné, Petroci et Biovea en tête du premier palmarès"
+   },
+   "rewritten": true
   },
   {
    "id": "sika-65878",
@@ -3731,31 +3755,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/fonction-publique-ivoirienne-404-000-fcfa-de-salaire-moyen-mais-combien-touchent-reellement-les-hauts-cadres-_65634",
     "title": "Fonction publique ivoirienne : 404 000 FCFA de salaire moyen, mais combien touchent réellement les hauts cadres ?"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65632",
-   "title": "Sénégal : L'IFC et Tolbi s'unissent pour financer 2 millions d'agriculteurs d'ici 2030",
-   "summary": "La Société financière internationale s'associe à la startup sénégalaise Tolbi pour améliorer l'accès au crédit et aux outils numériques de deux millions d'exploitants agricoles à l'horizon 2030.",
-   "body": [
-    "La Société financière internationale (IFC), branche du Groupe de la Banque mondiale, a officialisé un partenariat stratégique avec l'entreprise sénégalaise Tolbi. Ce projet, soutenu par le programme GAFSP BIFT, a pour objectif de transformer le quotidien de 2 millions d'agriculteurs et de coopératives d'ici 2030 en leur offrant un meilleur accès aux financements, aux conseils techniques et aux marchés.",
-    "La plateforme technologique de Tolbi utilise l'intelligence artificielle et l'imagerie satellitaire pour optimiser la gestion des cultures. En fournissant des données fiables sur les rendements et les risques, ces outils numériques rassurent les institutions financières, facilitant ainsi l'octroi de crédits aux petits producteurs. L'IFC accompagnera également le renforcement du réseau de terrain de la startup pour mieux connecter les exploitants aux chaînes de valeur agroalimentaires.",
-    "Déjà active dans plusieurs pays dont le Sénégal, la Côte d'Ivoire et le Bénin, Tolbi collabore actuellement avec plus de 19 000 agriculteurs et 37 coopératives. Cette initiative s'aligne sur les priorités du programme AgriConnect, visant à stimuler l'investissement privé, renforcer la sécurité alimentaire et favoriser la création d'emplois dans le secteur agricole."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65632",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-10T16:51:00Z",
-   "writtenAt": "2026-11-10T17:50:08.013Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/senegal-lifc-sallie-a-tolbi-pour-faciliter-lacces-au-financement-de-2-millions-dagriculteurs-dici-2030_65632",
-    "title": "Sénégal : L’IFC s’allie à Tolbi pour faciliter l’accès au financement de 2 millions d’agriculteurs d’ici 2030"
    },
    "rewritten": true
   }

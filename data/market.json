@@ -1,16 +1,110 @@
 {
- "updatedAt": "2026-11-23T10:01:00.036Z",
+ "updatedAt": "2026-11-23T10:15:24.905Z",
  "sessionDate": "2026-11-23",
- "sessionTime": "09:45",
+ "sessionTime": "10:02",
  "source": "brvm.org",
- "transactionsValue": 0,
- "capitalisationActions": 19328818938929,
+ "transactionsValue": 197152637,
+ "capitalisationActions": 19179225539797,
  "capitalisationBonds": 13419033033771,
- "advancing": 0,
- "declining": 0,
- "unchanged": 48,
- "totalVolume": 0,
- "gainers": [],
- "losers": [],
- "mostActive": []
+ "advancing": 3,
+ "declining": 23,
+ "unchanged": 22,
+ "totalVolume": 82031,
+ "gainers": [
+  {
+   "symbol": "SCRC",
+   "shortName": "Sucrivoire CI",
+   "close": 1270,
+   "change": 3.25,
+   "volume": 535
+  },
+  {
+   "symbol": "SHEC",
+   "shortName": "Vivo Energy CI",
+   "close": 1885,
+   "change": 1.89,
+   "volume": 374
+  },
+  {
+   "symbol": "BOAS",
+   "shortName": "BOA Sénégal",
+   "close": 7710,
+   "change": 0.13,
+   "volume": 2506
+  }
+ ],
+ "losers": [
+  {
+   "symbol": "SDSC",
+   "shortName": "Africa Global Logistics CI",
+   "close": 2500,
+   "change": -6.89,
+   "volume": 2078
+  },
+  {
+   "symbol": "CBIBF",
+   "shortName": "Coris Bank International",
+   "close": 26000,
+   "change": -5.47,
+   "volume": 276
+  },
+  {
+   "symbol": "NEIC",
+   "shortName": "NEI-CEDA CI",
+   "close": 1800,
+   "change": -5.26,
+   "volume": 18
+  },
+  {
+   "symbol": "BICC",
+   "shortName": "BICI Côte d’Ivoire",
+   "close": 30005,
+   "change": -3.21,
+   "volume": 16
+  },
+  {
+   "symbol": "BNBC",
+   "shortName": "Bernabé CI",
+   "close": 1700,
+   "change": -2.86,
+   "volume": 1365
+  }
+ ],
+ "mostActive": [
+  {
+   "symbol": "SNTS",
+   "shortName": "Sonatel",
+   "close": 4020,
+   "change": -0.5,
+   "volume": 8441
+  },
+  {
+   "symbol": "BBGC",
+   "shortName": "Bridge Bank Group CI",
+   "close": 8140,
+   "change": -0.06,
+   "volume": 2468
+  },
+  {
+   "symbol": "BOAS",
+   "shortName": "BOA Sénégal",
+   "close": 7710,
+   "change": 0.13,
+   "volume": 2506
+  },
+  {
+   "symbol": "BOAC",
+   "shortName": "BOA Côte d’Ivoire",
+   "close": 10995,
+   "change": 0,
+   "volume": 1700
+  },
+  {
+   "symbol": "ECOC",
+   "shortName": "Ecobank Côte d’Ivoire",
+   "close": 14790,
+   "change": -0.03,
+   "volume": 900
+  }
+ ]
 }
