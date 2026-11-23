@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-23T13:30:22.744Z",
+ "updatedAt": "2026-11-23T13:46:19.970Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -17,6 +17,32 @@
     "19 PAGES"
    ],
    "pinned": true
+  },
+  {
+   "id": "gn-i40t2e",
+   "title": "Coris Holding ajuste sa participation dans Coris Bank CI après l'OPV",
+   "summary": "À l'issue de l'offre publique de vente de Coris Bank CI, Coris Holding verra sa part dans le capital de la filiale évoluer pour atteindre 64,6 %.",
+   "body": [
+    "La structure Coris Holding s'apprête à modifier la répartition de son actionnariat au sein de Coris Bank CI. Cette opération intervient dans le cadre de l'offre publique de vente (OPV) lancée par l'établissement bancaire sur le marché financier régional.",
+    "Une fois ce processus finalisé, la participation de Coris Holding dans le capital de la banque sera ramenée à un niveau de 64,6 %."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#gn-i40t2e",
+   "image": null,
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-23T13:27:00.000Z",
+   "writtenAt": "2026-11-23T13:46:19.966Z",
+   "symbols": [
+    "CBIBF"
+   ],
+   "origin": {
+    "name": "AGENCE ECOFIN",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQVpaTFJaa3BsMDR6NElvalBDQVZ6R3M4YXI0UE9VaTJRMUZtQ0R4TGdjMEdTVno4R1ZKSjlMWV9LQ1hOR3hBd2dfM1I5akp6eURWQU5ueE91RE10VXVZVzRfRWRKX3U5YjV6ZTB1bzhVcVB2clJxX1dtbjFBdl9uVEMyTmVDbUVfby1SM0MyLWluNWZOWHd0Slh5dGRhbElCZ0VSY2EtWHM4cG96V1Nha1F0cmQ1dXdYdHZnbzJZRmtKUGhXOEZyMmxEN19wbzNqcmZELWJQYw?oc=5",
+    "title": "BRVM : Coris Holding ramènera sa participation à 64,6 % après l’OPV de Coris Bank CI"
+   },
+   "rewritten": true
   },
   {
    "id": "sika-65887",
@@ -3733,30 +3759,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/nigeria-la-raffinerie-dangote-seduit-les-investisseurs-avec-4-1-milliards-usd-de-souscriptions-a-lipo_65646",
     "title": "Nigeria : La raffinerie Dangote séduit les investisseurs avec 4,1 milliards USD de souscriptions à l’IPO"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65648",
-   "title": "La Côte d'Ivoire renforce son intégrité financière après sa sortie de la liste grise du GAFI",
-   "summary": "Sortie de la liste grise du GAFI le 30 octobre 2026, la Côte d'Ivoire consolide son architecture financière pour mieux contrer le financement du terrorisme et rassurer les investisseurs internationaux.",
-   "body": [
-    "Le Groupe d'action financière (GAFI) a officiellement retiré la Côte d'Ivoire de sa liste grise lors de sa plénière à Paris. Cette décision, actée le 30 octobre 2026, valide les progrès significatifs du pays dans la lutte contre le blanchiment de capitaux et le financement de la prolifération. Pour le vice-Premier ministre et ministre de la Défense, Téné Birahima Ouattara, cette étape marque une avancée stratégique majeure dans la sécurisation du système financier national.",
-    "Au-delà de la réputation, ce dispositif renforcé permet aux autorités de mieux détecter les flux suspects au sein des banques et des circuits informels. En améliorant la qualité du renseignement financier et la coopération internationale, le pays se dote de moyens accrus pour anticiper les menaces. Cette stabilité accrue vise également à renforcer la confiance des partenaires économiques, facilitant ainsi les transactions internationales pour l'État et le secteur privé."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65648",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-11T12:02:00Z",
-   "writtenAt": "2026-11-11T13:55:48.695Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/financement-du-terrorisme-la-cote-divoire-renforce-son-bouclier-financier-apres-sa-sortie-de-la-liste-grise-du-gafi_65648",
-    "title": "Financement du terrorisme : La Côte d’Ivoire renforce son bouclier financier après sa sortie de la liste grise du GAFI"
    },
    "rewritten": true
   }
