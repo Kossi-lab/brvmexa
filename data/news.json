@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-23T11:00:25.537Z",
+ "updatedAt": "2026-11-23T11:15:42.795Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -41,6 +41,80 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/coris-bank-international-ci-prepare-son-introduction-a-la-brvm-a-travers-une-offre-publique-de-vente-de-20-de-son-capital_65881",
     "title": "Coris Bank International CI prépare son introduction à la BRVM à travers une offre publique de vente de 20% de son capital"
+   },
+   "rewritten": true
+  },
+  {
+   "id": "sika-65883",
+   "title": "PETROCI Holding distinguée lors de la première édition des SIREXE Awards",
+   "summary": "Lors du Salon International des Ressources Extractives et Énergétiques, PETROCI Holding a été doublement primée pour son projet phare et le leadership de sa Directrice Générale.",
+   "body": [
+    "Le 21 novembre 2026, PETROCI Holding a marqué la première édition des SIREXE Awards en obtenant deux récompenses significatives. Le Projet Baleine, mené par le consortium ENI-PETROCI, a été distingué comme le meilleur projet dans la catégorie hydrocarbures, soulignant son rôle clé dans l'autonomie énergétique et la production ivoirienne.",
+    "Parallèlement, Fatoumata Sanogo, à la tête de la société, a reçu le Prix de la Manager. Cette distinction honore sa vision stratégique et son implication dans le développement durable du secteur. La cérémonie, qui s'est tenue en présence du ministre Mamadou Sangafowa-Coulibaly, visait à valoriser les acteurs majeurs des industries extractives et énergétiques en Afrique."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65883",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-23T11:01:00Z",
+   "writtenAt": "2026-11-23T11:15:24.722Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/sirexe-awards-2026-petroci-holding-doublement-recompensee_65883",
+    "title": "SIREXE Awards 2026 : PETROCI Holding doublement récompensée"
+   },
+   "rewritten": true
+  },
+  {
+   "id": "sika-65882",
+   "title": "Marchés des matières premières : le robusta chute et le pétrole poursuit son repli",
+   "summary": "La 47e semaine de l'année a été marquée par une baisse généralisée des matières premières, le café robusta atteignant un plus bas de trois ans tandis que le pétrole subit un troisième recul hebdomadaire consécutif.",
+   "body": [
+    "Le café robusta a enregistré une chute de 9,7 % sur la semaine, clôturant à 2 881 dollars la tonne. Ce repli s'explique par une révision à la hausse de la production vietnamienne pour la campagne 2026/27, désormais estimée à 2,1 millions de tonnes, ainsi que par une activité spéculative accrue. Parallèlement, le cours du pétrole Brent a reculé de 3,4 % pour atteindre 92,57 dollars, sous l'effet d'un rapport de l'Agence internationale de l'énergie prévoyant un excédent d'offre mondial.",
+    "D'autres commodités ont également souffert, à l'image du sucre qui perd 7,5 % et de l'huile de palme qui recule de 7,3 % en raison de stocks malaisiens record. À l'inverse, le cacao et l'arabica ont fait preuve d'une meilleure résistance, affichant des baisses plus contenues de respectivement 0,7 % et 0,9 % sur la période."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65882",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-23T10:59:00Z",
+   "writtenAt": "2026-11-23T11:15:34.860Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/sika-commodities-weekly-46-le-robusta-tombe-a-un-plus-bas-de-plusieurs-annees_65882",
+    "title": "SIKA COMMODITIES WEEKLY 46 : Le robusta tombe à un plus bas de plusieurs années"
+   },
+   "rewritten": true
+  },
+  {
+   "id": "gn-16kqb1u",
+   "title": "Coris Bank International Côte d'Ivoire en route vers une introduction à la BRVM",
+   "summary": "La filiale ivoirienne de Coris Bank International s'apprête à faire son entrée sur le marché financier régional.",
+   "body": [
+    "La banque Coris Bank International Côte d'Ivoire a officiellement enclenché le processus pour rejoindre la Bourse régionale des valeurs mobilières (BRVM). Cette démarche stratégique s'effectue par le biais d'une offre publique.",
+    "L'annonce, rendue publique le 23 novembre 2026, marque une étape importante pour l'institution financière qui s'apprête ainsi à ouvrir son capital aux investisseurs du marché ouest-africain."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#gn-16kqb1u",
+   "image": null,
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-23T10:55:08.000Z",
+   "writtenAt": "2026-11-23T11:15:42.774Z",
+   "symbols": [
+    "CBIBF"
+   ],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQYVd6eE1PWGVJcGxoTFlPUXlxVUdWc0p3WnhVTFdrTTJiZEJYbnRkbllBdXVjWVVySFBqMkd2ano1cDZweThJT1gxZjUzZlFRa25hencxeXVnbEdmZFo1NmFUOG9mRGVpUndGNll4Sm5JSEZGVjY2UGI3M2NmYW91NTZMWVdVX0doU0pnNERBZVBhcGtFQjJwdXdJOGVlY0hENUFYdHVjZTB2TVNnamk4LTZKb0dDaXpYdXh5NzJkNzJFWVljZGZxRGZkbzFqNVlYMVpOai1mS3d4cnVTOUVWUjgxRmVGblhmaWl3MDRScWtOU0NXRWc?oc=5",
+    "title": "Coris Bank International CI prépare son introduction à la BRVM à travers une off"
    },
    "rewritten": true
   },
@@ -3684,79 +3758,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/le-ghana-decouvre-des-hydrocarbures-dans-un-nouveau-type-de-roche-au-large-de-ses-cotes_65643",
     "title": "Le Ghana découvre des hydrocarbures dans un nouveau type de roche au large de ses côtes"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65640",
-   "title": "Sénégal : Une inflation de 1,6 % enregistrée en octobre 2026 sur un an",
-   "summary": "L'économie sénégalaise a connu une hausse des prix à la consommation de 1,6 % en octobre 2026, portée principalement par le renchérissement des produits alimentaires et des services d'enseignement.",
-   "body": [
-    "En octobre 2026, le Sénégal a observé une progression de 1,6 % de son indice des prix à la consommation en glissement annuel. Cette tendance inflationniste est largement soutenue par le secteur alimentaire et les boissons non alcoolisées (+2,1 %), ainsi que par les services de restauration et d'hébergement (+2,1 %). Les dépenses liées à la santé, aux soins personnels et aux loisirs ont également contribué à cette hausse globale.",
-    "Sur une base mensuelle, plusieurs secteurs ont marqué des évolutions notables. Les frais d'enseignement ont grimpé de 2,4 % en raison de la rentrée scolaire, tandis que les coûts du logement, de l'eau et de l'électricité ont augmenté de 0,9 %, portés par une hausse des tarifs de l'électricité (+3,8 %). À l'inverse, des replis ont été constatés dans les transports (-0,2 %) et certains produits de grande consommation comme les tubercules (-8,4 %) et les poissons transformés (-5,6 %)."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65640",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-11T10:15:00Z",
-   "writtenAt": "2026-11-11T10:51:12.175Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/senegal-les-prix-a-la-consommation-progressent-de-1-6-dans-un-contexte-economique-tendu_65640",
-    "title": "Sénégal : Les prix à la consommation progressent de 1,6 % dans un contexte économique tendu"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65638",
-   "title": "Bénin : la réforme du secteur électrique au service de la création d'emplois",
-   "summary": "La Banque mondiale souligne que la croissance économique du Bénin doit s'appuyer sur une énergie fiable pour favoriser l'emploi formel, avec un potentiel de 159 000 postes grâce au Pacte M300.",
-   "body": [
-    "Malgré une dynamique économique robuste, marquée par une croissance moyenne de 7,1% entre 2021 et 2025 et une inflation maîtrisée à 1,1%, le Bénin peine à transformer ses résultats macroéconomiques en emplois salariés. En 2024, moins d'un travailleur sur cinq occupait un poste formel, une situation qui freine la progression des revenus et la productivité nationale.",
-    "Le rapport de la Banque mondiale publié le 9 novembre 2026 identifie l'accès à l'électricité comme un levier stratégique. Actuellement, les coupures fréquentes et la vétusté des infrastructures pénalisent près de la moitié des entreprises locales. La mise en œuvre du programme « Mission 300 » est présentée comme une solution clé, capable de générer 159 000 emplois qualifiés via la modernisation du réseau et la diversification énergétique.",
-    "Pour les années 2027 et 2028, les prévisions tablent sur une croissance annuelle de 7,6%. Le renforcement des échanges avec le Nigeria est également identifié comme un moteur potentiel pour stimuler les revenus nationaux et créer 26 000 emplois directs dans des secteurs variés, tels que le textile et la transformation des céréales."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65638",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-11T09:41:00Z",
-   "writtenAt": "2026-11-11T09:50:16.013Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/benin-159-000-emplois-en-jeu-grace-a-la-reforme-du-secteur-electrique_65638",
-    "title": "Bénin : 159 000 emplois en jeu grâce à la réforme du secteur électrique"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65633",
-   "title": "Dangote Cement annule son projet de cotation secondaire à la Bourse de Londres",
-   "summary": "Le géant nigérian du ciment a officiellement mis fin à son projet d'introduction à la Bourse de Londres, invoquant des conditions de marché défavorables et des priorités stratégiques.",
-   "body": [
-    "Le conseil d'administration de Dangote Cement, soutenu par sa maison mère Dangote Industries Limited, a choisi de stopper le processus de cotation secondaire annoncé en mai 2026. Malgré des préparatifs avancés, incluant des échanges avec des investisseurs à Londres, en Afrique du Sud et au Moyen-Orient, ainsi que la mobilisation d'institutions comme Citigroup, JPMorgan Chase et Standard Bank, l'opération n'aura pas lieu.",
-    "L'instabilité des marchés financiers internationaux, la prudence des investisseurs envers les marchés émergents et la faiblesse du flottant boursier au Nigeria ont pesé sur cette décision. Si Dangote Cement, coté à la Nigerian Exchange depuis 2010, maintient ses objectifs de développement, ce retrait constitue une déception pour la place financière londonienne, qui peine à retenir les grandes capitalisations internationales."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65633",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-10T17:37:00Z",
-   "writtenAt": "2026-11-10T17:49:40.156Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/nigeria-dangote-cement-abandonne-son-projet-de-cotation-a-londres_65633",
-    "title": "Nigeria : Dangote Cement abandonne son projet de cotation à Londres"
    },
    "rewritten": true
   }

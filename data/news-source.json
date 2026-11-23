@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-23T11:00:25.535Z",
+ "updatedAt": "2026-11-23T11:15:42.776Z",
  "items": [
   {
    "id": "sika-65881",
@@ -11,6 +11,50 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-11-23T12:48:00Z",
+   "symbols": [
+    "CBIBF"
+   ],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "sika-65883",
+   "title": "SIREXE Awards 2026 : PETROCI Holding doublement récompensée",
+   "summary": "À l'occasion de la première édition des SIREXE Awards, organisée le 21 novembre 2026 en marge du Salon Internati...",
+   "url": "https://www.sikafinance.com/marches/sirexe-awards-2026-petroci-holding-doublement-recompensee_65883",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-23T11:01:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "sika-65882",
+   "title": "SIKA COMMODITIES WEEKLY 46 : Le robusta tombe à un plus bas de plusieurs années",
+   "summary": "La semaine 47 est marquée par un repli généralisé sur l'ensemble du complexe. Le robusta s'effondre de près de 10 % jus...",
+   "url": "https://www.sikafinance.com/marches/sika-commodities-weekly-46-le-robusta-tombe-a-un-plus-bas-de-plusieurs-annees_65882",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-23T10:59:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "gn-16kqb1u",
+   "title": "Coris Bank International CI prépare son introduction à la BRVM à travers une off",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQYVd6eE1PWGVJcGxoTFlPUXlxVUdWc0p3WnhVTFdrTTJiZEJYbnRkbllBdXVjWVVySFBqMkd2ano1cDZweThJT1gxZjUzZlFRa25hencxeXVnbEdmZFo1NmFUOG9mRGVpUndGNll4Sm5JSEZGVjY2UGI3M2NmYW91NTZMWVdVX0doU0pnNERBZVBhcGtFQjJwdXdJOGVlY0hENUFYdHVjZTB2TVNnamk4LTZKb0dDaXpYdXh5NzJkNzJFWVljZGZxRGZkbzFqNVlYMVpOai1mS3d4cnVTOUVWUjgxRmVGblhmaWl3MDRScWtOU0NXRWc?oc=5",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-23T10:55:08.000Z",
    "symbols": [
     "CBIBF"
    ],
@@ -4282,52 +4326,6 @@
    "premium": true,
    "publishedAt": "2026-10-29T14:46:00Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "sika-65350",
-   "title": "Les Ivoiriens ont misé plus de 900 milliards FCFA dans les jeux et paris sportifs en 2025",
-   "summary": "En Côte d'Ivoire, le marché des jeux d'argent et des paris sportifs poursuit sa remarquable expansion, avec des m...",
-   "url": "https://www.sikafinance.com/marches/les-ivoiriens-ont-mise-plus-de-900-milliards-fcfa-dans-les-jeux-et-paris-sportifs-en-2025_65350",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": true,
-   "publishedAt": "2026-10-29T13:00:00Z",
-   "symbols": [],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "sika-65347",
-   "title": "Uniwax CI : Plus de 990 millions FCFA de bénéfice au T3, vers un retour aux profits en 2026 ?",
-   "summary": "Uniwax Côte d'Ivoire retrouve un résultat net positif à fin septembre 2026, après quatre exercices annuels défici...",
-   "url": "https://www.sikafinance.com/marches/uniwax-ci-plus-de-990-millions-fcfa-de-benefice-au-t3-vers-un-retour-aux-profits-en-2026-_65347",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": true,
-   "publishedAt": "2026-10-29T12:29:00Z",
-   "symbols": [
-    "UNXC"
-   ],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "sika-65345",
-   "title": "Le bénéfice de la Loterie Nationale du Bénin bondit de 72 % grâce à la maîtrise des charges",
-   "summary": "La Loterie Nationale du Bénin affiche des résultats en nette progression au terme des neuf premiers mois de 2026....",
-   "url": "https://www.sikafinance.com/marches/le-benefice-de-la-loterie-nationale-du-benin-bondit-de-72-grace-a-la-maitrise-des-charges_65345",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": true,
-   "publishedAt": "2026-10-29T11:57:00Z",
-   "symbols": [
-    "LNBB"
-   ],
    "status": "new",
    "tries": 0
   }
