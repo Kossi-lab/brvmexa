@@ -1,15 +1,15 @@
 {
- "updatedAt": "2026-11-23T14:15:18.245Z",
+ "updatedAt": "2026-11-23T14:30:16.236Z",
  "sessionDate": "2026-11-23",
- "sessionTime": "14:02",
+ "sessionTime": "14:15",
  "source": "brvm.org",
- "transactionsValue": 1158585328,
- "capitalisationActions": 18771685086621,
+ "transactionsValue": 1158689928,
+ "capitalisationActions": 18764125086621,
  "capitalisationBonds": 13419743433771,
  "advancing": 4,
- "declining": 38,
- "unchanged": 6,
- "totalVolume": 612694,
+ "declining": 39,
+ "unchanged": 5,
+ "totalVolume": 612704,
  "gainers": [
   {
    "symbol": "ABJC",
@@ -63,18 +63,18 @@
    "volume": 4450
   },
   {
+   "symbol": "SDCC",
+   "shortName": "SODECI",
+   "close": 10460,
+   "change": -7.43,
+   "volume": 1231
+  },
+  {
    "symbol": "BICC",
    "shortName": "BICI Côte d’Ivoire",
    "close": 28705,
    "change": -7.4,
    "volume": 300
-  },
-  {
-   "symbol": "NEIC",
-   "shortName": "NEI-CEDA CI",
-   "close": 1760,
-   "change": -7.37,
-   "volume": 382
   }
  ],
  "mostActive": [

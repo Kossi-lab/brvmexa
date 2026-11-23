@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-11-23T14:15:18.245Z",
+ "updatedAt": "2026-11-23T14:30:16.236Z",
  "sessionDate": "2026-11-23",
- "sessionTime": "14:02",
+ "sessionTime": "14:15",
  "source": "brvm.org",
  "items": [
   {
@@ -442,13 +442,13 @@
   {
    "symbol": "SDCC",
    "name": "SODE COTE D'IVOIRE",
-   "volume": 1221,
+   "volume": 1231,
    "prevClose": 11300,
-   "refPrice": 11300,
+   "refPrice": 10460,
    "open": 11000,
-   "close": 11300,
-   "change": 0,
-   "changeAbs": 0,
+   "close": 10460,
+   "change": -7.43,
+   "changeAbs": -840,
    "shortName": "SODECI",
    "sector": "Services publics",
    "country": "CI",
