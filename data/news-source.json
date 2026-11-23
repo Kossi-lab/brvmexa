@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-23T17:46:52.406Z",
+ "updatedAt": "2026-11-23T18:02:27.720Z",
  "items": [
   {
    "id": "sika-65897",
@@ -406,17 +406,17 @@
    "tries": 1
   },
   {
-   "id": "sika-65864",
+   "id": "gn-1ghblni",
    "title": "BRVM : L'équilibre des variations ne suffit pas à redresser les indices",
-   "summary": "La BRVM termine la séance dans le rouge, prolongeant une semaine de marché hésitant, sur fond d'attentisme autour des d...",
-   "url": "https://www.sikafinance.com/marches/brvm-l-equilibre-des-variations-ne-suffit-pas-a-redresser-les-indices_65864",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYWF2SzJWZ0p3cnlDdk4zaVg0NlhMT1NZckYyN3hHcC1yZHo3bmJHbDBCSmNyWDFnZzhUQVFDbUUzeVBqYmVvQ21RTVpFSnhwQlVlcllDc2k1b2o2RVFzSW5IMGdYbXJyejNMMXdnRUU4Ml9OSnNTZkNKZ1FHSWVkN3hXaktOSU95eXR5bUZwaHB2NHVQTWRwcE56R21lcHJqOEtxcENnY200N3VzSUk3ZQ?oc=5",
    "image": null,
    "source": "Sika Finance",
-   "category": "Marchés",
+   "category": "Presse",
    "premium": false,
-   "publishedAt": "2026-11-20T16:27:00Z",
+   "publishedAt": "2026-11-20T15:27:52.000Z",
    "symbols": [],
-   "status": "done",
+   "status": "skip",
    "tries": 1
   },
   {
