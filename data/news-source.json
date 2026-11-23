@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-23T09:45:19.455Z",
+ "updatedAt": "2026-11-23T10:01:06.401Z",
  "items": [
+  {
+   "id": "sika-65878",
+   "title": "BRVM / Semaine 46 : Une semaine difficile pour 43 valeurs",
+   "summary": "La BRVM franchit un nouveau seuil dans sa phase de correction au terme de la semaine du 16 octobre. Après plusieurs séa...",
+   "url": "https://www.sikafinance.com/marches/brvm-semaine-46-une-semaine-difficile-pour-43-valeurs_65878",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-11-23T09:33:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65876",
    "title": "Le Groupe Coris met en vente 20 % du capital de Coris Bank Côte d’Ivoire avant son entrée à la BRVM",
@@ -4312,22 +4326,6 @@
    "premium": false,
    "publishedAt": "2026-10-29T11:35:00Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "sika-65340",
-   "title": "Le groupe Ecobank affiche 292 milliards FCFA de bénéfice au 30 septembre 2026",
-   "summary": "Ecobank Transnational Incorporated (ETI) affiche des résultats en progression au terme des neuf premiers mois de 2026. ...",
-   "url": "https://www.sikafinance.com/marches/le-groupe-ecobank-affiche-292-milliards-fcfa-de-benefice-au-30-septembre-2026_65340",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": true,
-   "publishedAt": "2026-10-29T10:35:00Z",
-   "symbols": [
-    "ETIT"
-   ],
    "status": "new",
    "tries": 0
   }

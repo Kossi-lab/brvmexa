@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-23T09:45:19.457Z",
+ "updatedAt": "2026-11-23T10:01:06.403Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -17,6 +17,30 @@
     "19 PAGES"
    ],
    "pinned": true
+  },
+  {
+   "id": "sika-65878",
+   "title": "BRVM : Une dynamique baissière marquée pour 43 titres durant la 46ème semaine",
+   "summary": "Le marché financier régional a traversé une période délicate lors de la 46ème semaine de l'année, marquée par une correction touchant une large majorité de valeurs cotées.",
+   "body": [
+    "La Bourse régionale des valeurs mobilières a clôturé la semaine 46 sur une note négative. Au total, 43 valeurs ont subi des replis, illustrant la phase de correction actuelle qui traverse le marché.",
+    "Ce mouvement baissier s'inscrit dans la continuité des séances précédentes, confirmant une tendance au recul pour un nombre important d'actifs financiers cotés sur la place boursière ouest-africaine."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65878",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-23T09:33:00Z",
+   "writtenAt": "2026-11-23T10:01:06.401Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/brvm-semaine-46-une-semaine-difficile-pour-43-valeurs_65878",
+    "title": "BRVM / Semaine 46 : Une semaine difficile pour 43 valeurs"
+   },
+   "rewritten": true
   },
   {
    "id": "sika-65876",
@@ -3732,39 +3756,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/senegal-lifc-sallie-a-tolbi-pour-faciliter-lacces-au-financement-de-2-millions-dagriculteurs-dici-2030_65632",
     "title": "Sénégal : L’IFC s’allie à Tolbi pour faciliter l’accès au financement de 2 millions d’agriculteurs d’ici 2030"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65630",
-   "title": "Repli généralisé à la BRVM plombée par le secteur des télécoms",
-   "summary": "La Bourse régionale a clôturé en nette baisse, entraînée par le repli de ses trois indices phares et une forte pression sur les valeurs télécoms.",
-   "body": [
-    "La Bourse régionale a achevé sa cotation sur une tendance nettement négative, touchant l'ensemble de ses indicateurs principaux. L'indice BRVM-Composite a reculé de 1,74 % pour s'établir à 512,81 points, perdant ainsi 9,07 points. Les indices BRVM-30 et BRVM-Prestige ont également fini dans le rouge, chutant respectivement de 1,94 % à 247,47 points et de 1,73 % à 191,60 points. La balance des variations a penché en faveur des valeurs en repli, avec 25 actions orientées à la baisse contre 13 progressions.",
-    "Le secteur des télécommunications a particulièrement pesé sur la tendance, à l'image d'Orange Côte d'Ivoire qui a cédé 4,76 % à 20 000 FCFA. Les replis combinés de cet opérateur et de Sonatel Sénégal se sont traduits par une perte de capitalisation d'environ 150 milliards FCFA pour chacune des deux entreprises, l'opérateur ivoirien enregistrant précisément une baisse de 150,65 milliards FCFA. Parmi les plus fortes baisses de la séance figurent également Erium Côte d'Ivoire, en recul de 5,56 % à 1 700 FCFA, et Oragroup Togo, qui perd 5,47 % à 2 505 FCFA.",
-    "En sens inverse, quelques titres ont réussi à tirer leur épingle du jeu. Tractafric Motors CI s'est octroyé la meilleure performance de la journée en progressant de 5,12 % à 3 800 FCFA, suivie par AGL en hausse de 4,21 % à 2 845 FCFA et Sucrivoire CI qui s'adjuge 3,45 % à 1 650 FCFA.",
-    "Du côté des liquidités, le volume global des transactions a atteint 1,96 milliard FCFA. Sonatel Sénégal a capté l'essentiel de cette activité avec 1,11 milliard FCFA, représentant à elle seule 56,63 % de la valeur totale des échanges de la séance."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65630",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-10T16:34:00Z",
-   "writtenAt": "2026-11-10T16:54:26.086Z",
-   "symbols": [
-    "ORAC",
-    "ORGT",
-    "PRSC",
-    "SCRC",
-    "SIVC",
-    "SNTS"
-   ],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/brvm-le-marche-decroche-de-1-74--les-telecoms-en-premiere-ligne_65630",
-    "title": "BRVM : Le marché décroche de 1,74 %, les télécoms en première ligne"
    },
    "rewritten": true
   }
