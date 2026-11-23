@@ -1,6 +1,22 @@
 {
- "updatedAt": "2026-11-23T23:15:44.716Z",
+ "updatedAt": "2026-11-23T23:30:22.392Z",
  "items": [
+  {
+   "id": "gn-1apynbn",
+   "title": "Air Liquide Côte d'Ivoire (SIVC) — BRVM",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01TU9WZUExelpvaEV5MlVDV0Y5blVQalVYRmVkWXFWUVVvS3RZUXctR1dObXR5di1GeFoyc2lTN0dmNTgzbEpYVGtWdVpod0FrS0Jfc0hCcmZGTmhYakpnNEZWM3Nrdw?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-23T21:36:15.000Z",
+   "symbols": [
+    "SIVC"
+   ],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65898",
    "title": "Burkina : Inauguration d’une académie technologique de plus de 37 milliards FCFA pour accélérer la souveraineté industrielle",
@@ -321,22 +337,6 @@
    "publishedAt": "2026-11-21T11:06:20.000Z",
    "symbols": [
     "CBIBF"
-   ],
-   "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "gn-1apynbn",
-   "title": "Air Liquide Côte d'Ivoire (SIVC) — BRVM",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01TU9WZUExelpvaEV5MlVDV0Y5blVQalVYRmVkWXFWUVVvS3RZUXctR1dObXR5di1GeFoyc2lTN0dmNTgzbEpYVGtWdVpod0FrS0Jfc0hCcmZGTmhYakpnNEZWM3Nrdw?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-11-21T10:42:00.000Z",
-   "symbols": [
-    "SIVC"
    ],
    "status": "done",
    "tries": 1
