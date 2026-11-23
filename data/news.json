@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-23T09:31:01.996Z",
+ "updatedAt": "2026-11-23T09:45:19.457Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -17,6 +17,32 @@
     "19 PAGES"
    ],
    "pinned": true
+  },
+  {
+   "id": "sika-65876",
+   "title": "Coris Bank Côte d’Ivoire lance son introduction en bourse avec une offre de 62,74 milliards FCFA",
+   "summary": "Le groupe Coris met en vente 20 % du capital de sa filiale ivoirienne en vue d'une première cotation à la BRVM prévue pour janvier 2027.",
+   "body": [
+    "Coris Bank International Côte d'Ivoire s'apprête à faire son entrée sur le compartiment Prestige de la BRVM. L'opération, présentée le 20 novembre à Abidjan, porte sur la cession de 8,16 millions d'actions par Coris Holding, représentant 20 % du capital de la banque. La période de souscription est fixée du 30 novembre au 4 décembre 2026, avec une première cotation espérée pour fin janvier 2027. Le prix unitaire est établi à 7 720 FCFA pour le public, tandis que les employés du groupe bénéficient d'un tarif préférentiel de 6 175 FCFA.",
+    "Cette introduction intervient après une année 2025 marquée par une forte croissance, avec un bénéfice net en hausse de 45,4 % à 24,5 milliards FCFA et un total bilan atteignant 1 323 milliards FCFA. La direction, portée par le directeur général Alassane Kaboré, mise sur un plan stratégique 2026-2030 visant à renforcer le réseau d'agences et à porter le taux de distribution des dividendes à 65 %. Si cette opération aboutit, elle précédera une démarche similaire pour Coris Bank Bénin, consolidant ainsi la présence du groupe sur le marché financier régional."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65876",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-23T09:23:00Z",
+   "writtenAt": "2026-11-23T09:45:19.455Z",
+   "symbols": [
+    "CBIBF"
+   ],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/le-groupe-coris-met-en-vente-20-du-capital-de-coris-bank-cote-divoire-avant-son-entree-a-la-brvm_65876",
+    "title": "Le Groupe Coris met en vente 20 % du capital de Coris Bank Côte d’Ivoire avant son entrée à la BRVM"
+   },
+   "rewritten": true
   },
   {
    "id": "sika-65875",
@@ -3739,31 +3765,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/brvm-le-marche-decroche-de-1-74--les-telecoms-en-premiere-ligne_65630",
     "title": "BRVM : Le marché décroche de 1,74 %, les télécoms en première ligne"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65627",
-   "title": "Dangote Cement consolide sa domination au Congo avec une part de marché de 73 %",
-   "summary": "La filiale congolaise de Dangote Cement a vu ses ventes progresser de 11,9 % sur les neuf premiers mois de 2026, consolidant sa position dominante.",
-   "body": [
-    "D'après les documents financiers parus le 28 octobre 2026, la filiale locale du cimentier nigérian Dangote Cement a écoulé 790 200 tonnes de ciment au cours des neuf premiers mois de l'année. Ce volume est en hausse de 11,9 % par rapport aux 706 200 tonnes enregistrées un an plus tôt, ce qui représente un surplus de 84 000 tonnes. Cette dynamique a permis à l'entreprise de porter sa part de marché de 63 % à 73 % sur une période de douze mois.",
-    "Cette croissance s'appuie sur la capacité de production annuelle de 1,5 million de tonnes de l'usine de Mfila. La demande a été stimulée par divers chantiers, incluant la réhabilitation routière, l'agrandissement de structures portuaires, l'édification d'hôpitaux et des initiatives immobilières privées. De surcroît, les exportations vers les pays limitrophes ont participé à cette embellie des volumes, et ce, malgré des ralentissements passagers survenus lors de l'élection présidentielle.",
-    "En parallèle, l'industriel poursuit la transition énergétique de ses sites pour optimiser ses charges. Au Congo, la part des combustibles alternatifs, principalement constituée d'huiles usagées, s'est établie à 17,2 % sur les neuf premiers mois de 2026. Globalement, sur le continent et hors du Nigeria, le groupe a écoulé 9,1 millions de tonnes, affichant une augmentation de 14 % à laquelle la structure congolaise a pris part."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65627",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-10T16:08:00Z",
-   "writtenAt": "2026-11-10T16:23:15.813Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/congo-dangote-cement-porte-sa-part-de-marche-a-73-grace-a-une-hausse-de-11-9-de-ses-ventes_65627",
-    "title": "Congo : Dangote Cement porte sa part de marché à 73% grâce à une hausse de 11,9% de ses ventes"
    },
    "rewritten": true
   }

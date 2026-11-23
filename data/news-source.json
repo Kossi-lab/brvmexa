@@ -1,6 +1,22 @@
 {
- "updatedAt": "2026-11-23T09:31:01.994Z",
+ "updatedAt": "2026-11-23T09:45:19.455Z",
  "items": [
+  {
+   "id": "sika-65876",
+   "title": "Le Groupe Coris met en vente 20 % du capital de Coris Bank Côte d’Ivoire avant son entrée à la BRVM",
+   "summary": "L'offre publique de vente porte sur 8,16 millions d'actions, proposées à 7 720 FCFA au public. Les souscriptions sont p...",
+   "url": "https://www.sikafinance.com/marches/le-groupe-coris-met-en-vente-20-du-capital-de-coris-bank-cote-divoire-avant-son-entree-a-la-brvm_65876",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-23T09:23:00Z",
+   "symbols": [
+    "CBIBF"
+   ],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65875",
    "title": "Le SIREXE referme ses portes avec près de 5 000 milliards FCFA d’investissements en perspective",
@@ -4311,22 +4327,6 @@
    "publishedAt": "2026-10-29T10:35:00Z",
    "symbols": [
     "ETIT"
-   ],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "sika-65339",
-   "title": "BRIDGE BANK CI : Le bénéfice bondit de 41 % à 24 milliards FCFA à fin septembre 2026",
-   "summary": "Quelques semaines après son entrée à la BRVM, Bridge Bank Group Côte d'Ivoire (BBGCI) livre une première photogra...",
-   "url": "https://www.sikafinance.com/marches/bridge-bank-ci-le-benefice-bondit-de-41-a-24-milliards-fcfa-a-fin-septembre-2026_65339",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-29T10:11:00Z",
-   "symbols": [
-    "BBGC"
    ],
    "status": "new",
    "tries": 0
