@@ -2261,3 +2261,23 @@ body.gt-on .al, body.nx-open .al { display: none; }
 .st-src ul { color: var(--sec); font-size: .9rem; line-height: 1.7; }
 @media (max-width: 640px) { .st-perf { grid-template-columns: repeat(2, 1fr); } .st-stats { grid-template-columns: repeat(2, 1fr); } .st-table th, .st-table td { padding: 10px 12px; } }
 .st-sec p a, .st-note a, .st-when a { text-decoration: underline; text-underline-offset: 2px; }
+/* Dividendes réservés aux membres Premium */
+.st-div-teaser { margin: -4px 0 14px; color: var(--sec); }
+.st-div-teaser b { color: var(--text, inherit); }
+.st-div-box { position: relative; border-radius: 20px; overflow: hidden; }
+.st-div-data { filter: blur(7px) saturate(.6); opacity: .55; user-select: none; pointer-events: none; transition: filter .5s ease, opacity .5s ease; }
+.st-div.is-open .st-div-data { filter: none; opacity: 1; user-select: auto; pointer-events: auto; }
+.st-div-lock { position: absolute; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 10px; padding: 24px; text-align: center;
+  background: radial-gradient(70% 80% at 50% 45%, rgba(242, 179, 61, .16), transparent 70%), linear-gradient(180deg, rgba(10, 15, 26, .25), rgba(10, 15, 26, .55)); }
+.st-div-ico { display: grid; place-items: center; width: 56px; height: 56px; border-radius: 50%; color: #0A0F1A; background: linear-gradient(135deg, #F7CC6B, #F2B33D);
+  box-shadow: 0 0 0 8px rgba(242, 179, 61, .16); animation: stDivPulse 2.6s ease-in-out infinite; }
+.st-div-kick { margin: 4px 0 0; font-size: .74rem; font-weight: 800; letter-spacing: .14em; text-transform: uppercase; color: #F2B33D; }
+.st-div-lock h3 { margin: 0; font-size: clamp(1.1rem, 2.6vw, 1.4rem); line-height: 1.25; max-width: 520px; color: #fff; }
+.st-div-lock ul { list-style: none; margin: 2px 0 6px; padding: 0; display: grid; gap: 4px; font-size: .92rem; color: rgba(255, 255, 255, .86); }
+.st-div-lock ul li::before { content: '✓'; color: #16C47F; font-weight: 800; margin-right: 8px; }
+.st-div-lock ul b { color: #fff; }
+.st-div-login { font-size: .86rem; color: rgba(255, 255, 255, .8); text-decoration: underline; text-underline-offset: 2px; }
+@keyframes stDivPulse { 0%, 100% { box-shadow: 0 0 0 8px rgba(242, 179, 61, .16); } 50% { box-shadow: 0 0 0 14px rgba(242, 179, 61, .06); } }
+@media (prefers-reduced-motion: reduce) { .st-div-ico { animation: none; } .st-div-data { transition: none; } }
+@media (max-width: 640px) { .st-div-box { min-height: 420px; } .st-div-lock { padding: 18px 14px; } .st-div-lock ul { font-size: .86rem; } }
+.st-div-lock .btn { white-space: normal; max-width: 100%; text-align: center; }

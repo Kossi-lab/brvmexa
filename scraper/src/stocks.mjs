@@ -80,14 +80,31 @@ export function stockBody(q, ctx) {
   const dh = (div?.history ?? []).slice(-8).reverse();
   const lastDiv = div?.last;
   const grossYield = div?.annual && q.close ? (div.annual / q.close) * 100 : null;
+  // Dividendes : réservés aux membres Premium. La page publique ne contient AUCUN montant réel :
+  // des valeurs factices floutées, un message d'invitation, et action.js affiche les vrais chiffres aux membres Premium connectés.
+  void lastDiv; void grossYield;
+  const allDiv = div?.history ?? [];
+  const since = allDiv.length ? String(allDiv[0].d).slice(0, 4) : '';
+  const fakeRows = dh.map((_, i) => `<tr><td>12 mai ${2026 - i}</td><td class="r">0 000 F</td><td class="r">${2025 - i}</td></tr>`).join('');
+  const LOCK = '<svg viewBox="0 0 24 24" width="26" height="26" aria-hidden="true"><rect x="4.5" y="10.5" width="15" height="10" rx="2.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="M8 10.5V7.8a4 4 0 0 1 8 0v2.7" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>';
   const divHtml = dh.length
-    ? `<section class="st-sec" aria-labelledby="st-div"><h2 id="st-div">Dividendes de ${esc(name)}</h2>
-<div class="st-stats st-stats--3">${stat('Dernier dividende brut', `${F(lastDiv?.a, lastDiv?.a % 1 ? 2 : 0)} F`, lastDiv ? `payé le ${esc(frDate(lastDiv.d))}${lastDiv.ex ? ` · exercice ${lastDiv.ex}` : ''}` : '')}
-${grossYield != null ? stat('Rendement brut', P(grossYield, false), 'dividende annuel brut ÷ cours actuel') : ''}
-${stat('Versements', `${dh.length >= 8 ? '8+' : dh.length}`, 'dans l’historique ci-dessous')}</div>
-<div class="st-table-wrap"><table class="st-table"><caption>Historique des dividendes bruts par action (FCFA)</caption><thead><tr><th scope="col">Date de paiement</th><th scope="col">Montant brut</th><th scope="col">Exercice</th></tr></thead><tbody>
-${dh.map((h) => `<tr><td>${esc(frDate(h.d))}</td><td class="r">${F(h.a, h.a % 1 ? 2 : 0)} F</td><td class="r">${h.ex ?? '—'}</td></tr>`).join('')}</tbody></table></div>
-<p class="st-note">Montants bruts, avant l’impôt retenu à la source (son taux dépend du pays de la société), ajustés des éventuels fractionnements d’actions. Seule l’annonce officielle de la société fait foi. <a href="/apprendre/dividendes-brvm/">Comprendre les dividendes</a>.</p></section>`
+    ? `<section class="st-sec st-div" aria-labelledby="st-div" data-div-lock><h2 id="st-div">Dividendes de ${esc(name)}</h2>
+<p class="st-div-teaser"><b>${allDiv.length} versement${allDiv.length > 1 ? 's' : ''} de dividende</b> enregistré${allDiv.length > 1 ? 's' : ''} depuis ${esc(since)} pour ${esc(name)}.</p>
+<div class="st-div-box" data-div-box>
+<div class="st-div-data" data-div-data aria-hidden="true" data-nosnippet>
+<div class="st-stats st-stats--3">${stat('Dernier dividende brut', '0 000 F', 'payé le 12 mai 2026')}${stat('Rendement brut', '0,00 %', 'dividende annuel brut ÷ cours actuel')}${stat('Prochain versement', 'mai 2027', 'estimation')}</div>
+<div class="st-table-wrap"><table class="st-table"><caption>Historique des dividendes bruts par action (FCFA)</caption><thead><tr><th scope="col">Date de paiement</th><th scope="col">Montant brut</th><th scope="col">Exercice</th></tr></thead><tbody>${fakeRows}</tbody></table></div>
+</div>
+<div class="st-div-lock" data-div-cta>
+<span class="st-div-ico">${LOCK}</span>
+<p class="st-div-kick">Réservé aux membres Premium</p>
+<h3>Combien ${esc(name)} vous a-t-elle versé par action ?</h3>
+<ul><li>Le montant du <b>dernier dividende</b> et sa date de paiement</li><li>Le <b>rendement</b> au cours du jour</li><li>L’<b>historique</b> des versements sur ${dh.length >= 8 ? '8' : dh.length} an${dh.length > 1 ? 's' : ''}</li></ul>
+<a class="btn btn--primary" href="/membre/#offres" data-div-unlock>Débloquer les dividendes · dès&nbsp;3&nbsp;000&nbsp;FCFA/mois</a>
+<a class="st-div-login" href="/membre/">Déjà membre Premium ? Se connecter</a>
+</div>
+</div>
+<p class="st-note">Montants bruts, avant l’impôt retenu à la source, ajustés des éventuels fractionnements d’actions. Seule l’annonce officielle de la société fait foi. <a href="/apprendre/dividendes-brvm/">Comprendre les dividendes</a>.</p></section>`
     : `<section class="st-sec"><h2>Dividendes de ${esc(name)}</h2><p>Aucun versement de dividende n’est enregistré dans notre historique pour cette société.</p></section>`;
 
   const newsHtml = news.length

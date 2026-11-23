@@ -53,11 +53,14 @@
     lastFocus = document.activeElement;
     var back = location.pathname + location.hash;
     var title = kind === 'david' ? 'David est réservé aux membres Premium'
-      : kind === 'ratios' ? 'Débloquez les ratios de toutes les sociétés' : 'Devenez membre Premium';
+      : kind === 'ratios' ? 'Débloquez les ratios de toutes les sociétés'
+        : kind === 'dividendes' ? 'Débloquez les dividendes des 48 sociétés' : 'Devenez membre Premium';
     var lead = kind === 'david'
       ? 'L’analyse complète de l’action par David (verdict, arguments, plan d’action) fait partie de l’abonnement Premium.'
       : kind === 'ratios'
         ? 'BPA, PER, rendement, taux de distribution, marge nette, croissance, filtres et tris sont réservés aux membres Premium. Le cours et la capitalisation restent gratuits.'
+        : kind === 'dividendes'
+          ? 'Montant du dernier dividende, rendement au cours du jour, historique des versements et prochaine date estimée, pour chaque action de la BRVM. Le cours et le graphique restent gratuits.'
         : 'Débloquez l’analyse fondamentale complète de chaque société de la BRVM.';
     modal = document.createElement('div');
     modal.className = 'nx-reader pw';
