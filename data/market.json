@@ -1,15 +1,15 @@
 {
- "updatedAt": "2026-11-23T13:45:13.970Z",
+ "updatedAt": "2026-11-23T14:00:17.596Z",
  "sessionDate": "2026-11-23",
- "sessionTime": "13:30",
+ "sessionTime": "13:45",
  "source": "brvm.org",
- "transactionsValue": 1068831832,
- "capitalisationActions": 18773275668031,
+ "transactionsValue": 1116215683,
+ "capitalisationActions": 18781986286111,
  "capitalisationBonds": 13419743433771,
  "advancing": 3,
- "declining": 40,
- "unchanged": 5,
- "totalVolume": 566610,
+ "declining": 39,
+ "unchanged": 6,
+ "totalVolume": 583748,
  "gainers": [
   {
    "symbol": "ABJC",
@@ -21,9 +21,9 @@
   {
    "symbol": "SCRC",
    "shortName": "Sucrivoire CI",
-   "close": 1250,
-   "change": 1.63,
-   "volume": 9774
+   "close": 1240,
+   "change": 0.81,
+   "volume": 9919
   },
   {
    "symbol": "STAC",
@@ -39,14 +39,21 @@
    "shortName": "Coris Bank International",
    "close": 25445,
    "change": -7.49,
-   "volume": 749
+   "volume": 872
+  },
+  {
+   "symbol": "BOAB",
+   "shortName": "BOA Bénin",
+   "close": 8415,
+   "change": -7.48,
+   "volume": 1444
   },
   {
    "symbol": "SDSC",
    "shortName": "Africa Global Logistics CI",
    "close": 2485,
    "change": -7.45,
-   "volume": 4200
+   "volume": 4450
   },
   {
    "symbol": "NEIC",
@@ -56,41 +63,34 @@
    "volume": 382
   },
   {
-   "symbol": "BOAB",
-   "shortName": "BOA Bénin",
-   "close": 8430,
-   "change": -7.31,
-   "volume": 1344
-  },
-  {
    "symbol": "ETIT",
    "shortName": "Ecobank Transnational (ETI)",
    "close": 53,
    "change": -7.02,
-   "volume": 389877
+   "volume": 396584
   }
  ],
  "mostActive": [
   {
    "symbol": "SNTS",
    "shortName": "Sonatel",
-   "close": 3990,
-   "change": -1.24,
-   "volume": 59593
+   "close": 3995,
+   "change": -1.11,
+   "volume": 65295
   },
   {
    "symbol": "SIBC",
    "shortName": "Société Ivoirienne de Banque",
    "close": 7975,
    "change": -2.74,
-   "volume": 14337
+   "volume": 14462
   },
   {
    "symbol": "SGBC",
    "shortName": "Société Générale CI",
-   "close": 38000,
-   "change": -2.05,
-   "volume": 2809
+   "close": 37600,
+   "change": -3.08,
+   "volume": 2817
   },
   {
    "symbol": "ECOC",
@@ -104,7 +104,7 @@
    "shortName": "BOA Sénégal",
    "close": 7610,
    "change": -1.17,
-   "volume": 8654
+   "volume": 9073
   }
  ]
 }
