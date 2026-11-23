@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-23T08:30:23.078Z",
+ "updatedAt": "2026-11-23T08:45:20.136Z",
  "items": [
   {
    "id": "gn-1x1c30v",
@@ -107,6 +107,22 @@
     "CBIBF"
    ],
    "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "gn-1gfad7o",
+   "title": "Sogb Côte d'Ivoire (SOGC) — BRVM",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sZUtjYXhXV041LTR6dVZsNkFvNzVIUXFtWlBibk55VUdnOV9OcEVSQzY3N1EzMGlhbEVJRFdBaUdPZ3dXLUpSUWppRXZZT1JTU29NeVJibE5XQU9UMkdLTWMyNEhzdw?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-20T23:04:03.000Z",
+   "symbols": [
+    "SOGC"
+   ],
+   "status": "skip",
    "tries": 1
   },
   {
@@ -357,22 +373,6 @@
     "BOAB"
    ],
    "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "gn-1gfad7o",
-   "title": "Sogb Côte d'Ivoire (SOGC) — BRVM",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sZUtjYXhXV041LTR6dVZsNkFvNzVIUXFtWlBibk55VUdnOV9OcEVSQzY3N1EzMGlhbEVJRFdBaUdPZ3dXLUpSUWppRXZZT1JTU29NeVJibE5XQU9UMkdLTWMyNEhzdw?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-11-20T08:00:00.000Z",
-   "symbols": [
-    "SOGC"
-   ],
-   "status": "skip",
    "tries": 1
   },
   {
