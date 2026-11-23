@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-23T16:30:35.886Z",
+ "updatedAt": "2026-11-23T16:45:41.543Z",
  "items": [
   {
    "id": "sika-65892",
@@ -15,7 +15,21 @@
     "ORAC"
    ],
    "status": "new",
-   "tries": 0
+   "tries": 1
+  },
+  {
+   "id": "sika-65894",
+   "title": "Côte d’Ivoire : Quelles sont les banques qui rémunèrent le mieux leurs cadres ?",
+   "summary": "Si l'activité des banques repose en grande partie sur les mêmes opérations, notamment la collecte des dépôts et l...",
+   "url": "https://www.sikafinance.com/marches/cote-divoire-quelles-sont-les-banques-qui-remunerent-le-mieux-leurs-cadres-_65894",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-11-23T16:13:00Z",
+   "symbols": [],
+   "status": "skip",
+   "tries": 1
   },
   {
    "id": "gn-i40t2e",
@@ -94,6 +108,22 @@
    "tries": 1
   },
   {
+   "id": "gn-16kqb1u",
+   "title": "Coris Bank International CI prépare son introduction à la BRVM à travers une off",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQYVd6eE1PWGVJcGxoTFlPUXlxVUdWc0p3WnhVTFdrTTJiZEJYbnRkbllBdXVjWVVySFBqMkd2ano1cDZweThJT1gxZjUzZlFRa25hencxeXVnbEdmZFo1NmFUOG9mRGVpUndGNll4Sm5JSEZGVjY2UGI3M2NmYW91NTZMWVdVX0doU0pnNERBZVBhcGtFQjJwdXdJOGVlY0hENUFYdHVjZTB2TVNnamk4LTZKb0dDaXpYdXh5NzJkNzJFWVljZGZxRGZkbzFqNVlYMVpOai1mS3d4cnVTOUVWUjgxRmVGblhmaWl3MDRScWtOU0NXRWc?oc=5",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-23T10:59:25.000Z",
+   "symbols": [
+    "CBIBF"
+   ],
+   "status": "done",
+   "tries": 1
+  },
+  {
    "id": "sika-65882",
    "title": "SIKA COMMODITIES WEEKLY 46 : Le robusta tombe à un plus bas de plusieurs années",
    "summary": "La semaine 47 est marquée par un repli généralisé sur l'ensemble du complexe. Le robusta s'effondre de près de 10 % jus...",
@@ -104,22 +134,6 @@
    "premium": false,
    "publishedAt": "2026-11-23T10:59:00Z",
    "symbols": [],
-   "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "gn-16kqb1u",
-   "title": "Coris Bank International CI prépare son introduction à la BRVM à travers une off",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQYVd6eE1PWGVJcGxoTFlPUXlxVUdWc0p3WnhVTFdrTTJiZEJYbnRkbllBdXVjWVVySFBqMkd2ano1cDZweThJT1gxZjUzZlFRa25hencxeXVnbEdmZFo1NmFUOG9mRGVpUndGNll4Sm5JSEZGVjY2UGI3M2NmYW91NTZMWVdVX0doU0pnNERBZVBhcGtFQjJwdXdJOGVlY0hENUFYdHVjZTB2TVNnamk4LTZKb0dDaXpYdXh5NzJkNzJFWVljZGZxRGZkbzFqNVlYMVpOai1mS3d4cnVTOUVWUjgxRmVGblhmaWl3MDRScWtOU0NXRWc?oc=5",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-11-23T10:55:08.000Z",
-   "symbols": [
-    "CBIBF"
-   ],
    "status": "done",
    "tries": 1
   },
@@ -4315,22 +4329,6 @@
    "publishedAt": "2026-10-30T08:35:00Z",
    "symbols": [
     "SNTS"
-   ],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "sika-65356",
-   "title": "NSIA Banque Côte d’Ivoire mobilise 100 millions d’euros pour renforcer le financement des PME et accélérer la transition énergétique",
-   "summary": "NSIA Banque Côte d'Ivoire franchit une nouvelle étape dans sa stratégie de soutien au développement économique du...",
-   "url": "https://www.sikafinance.com/marches/nsia-banque-cote-divoire-mobilise-100-millions-deuros-pour-renforcer-le-financement-des-pme-et-accelerer-la-transition-energetique_65356",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-29T17:03:00Z",
-   "symbols": [
-    "NSBC"
    ],
    "status": "new",
    "tries": 0
