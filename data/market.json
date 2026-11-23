@@ -1,43 +1,22 @@
 {
- "updatedAt": "2026-11-23T14:45:13.914Z",
+ "updatedAt": "2026-11-23T15:00:20.901Z",
  "sessionDate": "2026-11-23",
- "sessionTime": "14:30",
+ "sessionTime": "14:45",
  "source": "brvm.org",
- "transactionsValue": 1158689928,
- "capitalisationActions": 18764125086621,
+ "transactionsValue": 1437245595,
+ "capitalisationActions": 18687506714521,
  "capitalisationBonds": 13419743433771,
- "advancing": 4,
- "declining": 39,
- "unchanged": 5,
- "totalVolume": 612704,
+ "advancing": 1,
+ "declining": 40,
+ "unchanged": 7,
+ "totalVolume": 684331,
  "gainers": [
   {
-   "symbol": "ABJC",
-   "shortName": "Servair Abidjan",
-   "close": 3050,
-   "change": 1.67,
-   "volume": 502
-  },
-  {
-   "symbol": "SHEC",
-   "shortName": "Vivo Energy CI",
-   "close": 1875,
-   "change": 1.35,
-   "volume": 1268
-  },
-  {
-   "symbol": "SCRC",
-   "shortName": "Sucrivoire CI",
-   "close": 1240,
-   "change": 0.81,
-   "volume": 9937
-  },
-  {
-   "symbol": "CFAC",
-   "shortName": "CFAO Motors CI",
-   "close": 1195,
-   "change": 0.42,
-   "volume": 2569
+   "symbol": "SIBC",
+   "shortName": "Société Ivoirienne de Banque",
+   "close": 8295,
+   "change": 1.16,
+   "volume": 26671
   }
  ],
  "losers": [
@@ -46,72 +25,72 @@
    "shortName": "Coris Bank International",
    "close": 25445,
    "change": -7.49,
-   "volume": 879
+   "volume": 950
   },
   {
    "symbol": "BOAB",
    "shortName": "BOA Bénin",
    "close": 8415,
    "change": -7.48,
-   "volume": 1444
+   "volume": 1919
   },
   {
-   "symbol": "SDSC",
-   "shortName": "Africa Global Logistics CI",
-   "close": 2485,
-   "change": -7.45,
-   "volume": 4450
+   "symbol": "NEIC",
+   "shortName": "NEI-CEDA CI",
+   "close": 1760,
+   "change": -7.37,
+   "volume": 384
   },
   {
-   "symbol": "SDCC",
-   "shortName": "SODECI",
-   "close": 10460,
-   "change": -7.43,
-   "volume": 1231
+   "symbol": "BICB",
+   "shortName": "BIIC Bénin",
+   "close": 6950,
+   "change": -7.33,
+   "volume": 3834
   },
   {
-   "symbol": "BICC",
-   "shortName": "BICI Côte d’Ivoire",
-   "close": 28705,
-   "change": -7.4,
-   "volume": 300
+   "symbol": "NTLC",
+   "shortName": "Nestlé CI",
+   "close": 11900,
+   "change": -7.03,
+   "volume": 246
   }
  ],
  "mostActive": [
   {
    "symbol": "SNTS",
    "shortName": "Sonatel",
-   "close": 3995,
-   "change": -1.11,
-   "volume": 69423
+   "close": 3900,
+   "change": -3.47,
+   "volume": 88961
   },
   {
    "symbol": "SIBC",
    "shortName": "Société Ivoirienne de Banque",
-   "close": 7975,
-   "change": -2.74,
-   "volume": 15007
+   "close": 8295,
+   "change": 1.16,
+   "volume": 26671
   },
   {
    "symbol": "SGBC",
    "shortName": "Société Générale CI",
-   "close": 37525,
-   "change": -3.27,
-   "volume": 2878
+   "close": 37610,
+   "change": -3.05,
+   "volume": 3002
+  },
+  {
+   "symbol": "BBGC",
+   "shortName": "Bridge Bank Group CI",
+   "close": 8000,
+   "change": -1.78,
+   "volume": 10895
   },
   {
    "symbol": "BOAS",
    "shortName": "BOA Sénégal",
-   "close": 7610,
-   "change": -1.17,
-   "volume": 9420
-  },
-  {
-   "symbol": "ECOC",
-   "shortName": "Ecobank Côte d’Ivoire",
-   "close": 14200,
-   "change": -4.02,
-   "volume": 5011
+   "close": 7600,
+   "change": -1.3,
+   "volume": 10541
   }
  ]
 }
