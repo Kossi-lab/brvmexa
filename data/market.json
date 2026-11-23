@@ -1,22 +1,22 @@
 {
- "updatedAt": "2026-11-23T15:00:20.901Z",
+ "updatedAt": "2026-11-23T15:15:15.351Z",
  "sessionDate": "2026-11-23",
- "sessionTime": "14:45",
+ "sessionTime": "15:02",
  "source": "brvm.org",
- "transactionsValue": 1437245595,
+ "transactionsValue": 1437362070,
  "capitalisationActions": 18687506714521,
  "capitalisationBonds": 13419743433771,
  "advancing": 1,
  "declining": 40,
  "unchanged": 7,
- "totalVolume": 684331,
+ "totalVolume": 684341,
  "gainers": [
   {
    "symbol": "SIBC",
    "shortName": "Société Ivoirienne de Banque",
    "close": 8295,
    "change": 1.16,
-   "volume": 26671
+   "volume": 26676
   }
  ],
  "losers": [
@@ -69,7 +69,7 @@
    "shortName": "Société Ivoirienne de Banque",
    "close": 8295,
    "change": 1.16,
-   "volume": 26671
+   "volume": 26676
   },
   {
    "symbol": "SGBC",
