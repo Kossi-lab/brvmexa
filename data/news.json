@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-23T17:30:24.653Z",
+ "updatedAt": "2026-11-23T17:46:52.409Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -17,6 +17,57 @@
     "19 PAGES"
    ],
    "pinned": true
+  },
+  {
+   "id": "sika-65897",
+   "title": "CIPRES : formation d'une centaine de cadres à Abidjan sur le nouveau plan comptable",
+   "summary": "La CIPRES réunit une centaine de responsables à Abidjan pour harmoniser les pratiques comptables et financières des organismes de prévoyance sociale de ses 18 États membres.",
+   "body": [
+    "Du 23 au 27 novembre 2026, l'hôtel Noom d’Abidjan accueille une session de renforcement des compétences destinée à une centaine d'auditeurs, juristes et responsables comptables de la région. Initié par la Conférence interafricaine de la prévoyance sociale (CIPRES) en collaboration avec le cabinet KPMG, ce séminaire vise à préparer l'adoption sur le terrain d'un cadre comptable actualisé et d'indicateurs de gestion rénovés.",
+    "Validés à Genève en juin 2026 durant la 40e session ordinaire du Conseil des ministres de l'organisation, ces nouveaux outils découlent de décisions actées dès 2021. L'objectif est d'assurer la publication régulière d'états financiers fiables au sein des 18 États membres. Ce dispositif intègre l'essor des régimes d'assurance maladie et de retraite complémentaire par capitalisation, à l'image des réformes engagées en Côte d'Ivoire depuis 2012 avec la Couverture maladie universelle, le Régime social des travailleurs indépendants et les produits de l'IPS-CGRAE.",
+    "Lors de la cérémonie d'ouverture, le ministre ivoirien en charge de la Protection sociale, Adama Kamara, a souligné l'importance de renforcer les aptitudes financières nécessaires à la gestion des placements à long terme. Les cadres formés lors de cette rencontre devront ensuite diffuser ces méthodes au sein de leurs institutions respectives et ajuster leurs outils informatiques ainsi que leurs procédures internes."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65897",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-23T17:38:00Z",
+   "writtenAt": "2026-11-23T17:46:24.975Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/cote-divoire-lorganisme-panafricain-de-prevoyance-sociale-cipres-forme-une-centaine-de-cadres-aux-nouveaux-outils-de-gestion-des-pensions_65897",
+    "title": "Côte d’Ivoire : L’organisme panafricain de prévoyance sociale, CIPRES, forme une centaine de cadres aux nouveaux outils de gestion des pensions"
+   },
+   "rewritten": true
+  },
+  {
+   "id": "sika-65896",
+   "title": "Afreximbank veut porter l'affacturage en Afrique à 240 milliards d'euros pour soutenir les PME",
+   "summary": "Pour réduire le manque à gagner financier des petites et moyennes entreprises africaines, Afreximbank entend faire passer le marché de l'affacturage sur le continent à au moins 240 milliards d'euros.",
+   "body": [
+    "Réunies le 23 novembre 2026 à Gaborone au Botswana lors d'un atelier annuel, l'institution financière Afreximbank a plaidé pour un recours massif à la cession de créances commerciales. Alors que les petites et moyennes entreprises représentent plus de 90 % du tissu économique et génèrent plus de 60 % de l'emploi et du PIB en Afrique, leur déficit de financement annuel atteint 300 milliards de dollars.",
+    "Pour pallier les contraintes des prêts bancaires traditionnels, l'affacturage offre aux sociétés la possibilité de convertir leurs factures clients en liquidités sans attendre leur terme. Afreximbank vise à porter les volumes continentaux d'affacturage à au moins 240 milliards d'euros, soit environ 10 % du produit intérieur brut africain, ce qui correspond à une multiplication par près de cinq par rapport au niveau de 2025.",
+    "Les statistiques exposées par Eric Intong Monchu, directeur général du groupe Relations clients d'Afreximbank et président du chapitre africain de FCI, traduisent une hausse marquée : la valeur du marché africain est passée de 21,6 milliards d'euros en 2017 à 51,4 milliards en 2025, avec environ 200 entreprises spécialisées actives. Au niveau global, le secteur a atteint 3 900 milliards d'euros en 2025 contre 3 100 milliards en 2021.",
+    "Pour concrétiser cet essor, la banque préconise la modernisation des lois nationales, le renforcement des compétences et l'accès à des ressources financières soutenues pour les acteurs de l'affacturage. Enfin, Betül Kurtulus, secrétaire générale de FCI, a souligné la nécessité de développer des dispositifs de financement transfrontaliers pour soutenir l'expansion régionale des entreprises."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65896",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-23T17:28:00Z",
+   "writtenAt": "2026-11-23T17:46:52.405Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/afrique-afreximbank-vise-240-milliards-deuros-daffacturage-pour-financer-les-pme_65896",
+    "title": "Afrique : Afreximbank vise 240 milliards d’euros d’affacturage pour financer les PME"
+   },
+   "rewritten": true
   },
   {
    "id": "sika-65895",
@@ -3723,54 +3774,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/brvm-sicable-s-illustre-dans-une-seance-de-reprise_65655",
     "title": "BRVM : SICABLE s'illustre dans une séance de reprise"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65654",
-   "title": "La BNI ambitionne de devenir un partenaire financier clé des secteurs extractifs et énergétiques",
-   "summary": "À l'approche du SIREXE 2026, la BNI réaffirme son rôle stratégique dans le financement des industries extractives et énergétiques ivoiriennes pour soutenir la transformation économique du pays.",
-   "body": [
-    "La Banque nationale d'investissement (BNI) se positionne comme un acteur central pour accompagner la stratégie nationale de développement des filières minières et énergétiques. Avec un besoin de financement estimé à 38 000 milliards FCFA d'ici 2040, l'établissement bancaire mise sur son expertise sectorielle pour soutenir les grands projets structurants ainsi que les PME locales intégrées à ces chaînes de valeur.",
-    "La banque a déjà prouvé sa capacité à mobiliser des capitaux locaux, notamment avec le projet aurifère de Doropo, où elle a contribué à hauteur de 148 milliards FCFA, et le gisement Baleine, pour lequel sa filiale BNI Finances a arrangé une levée de 200 milliards FCFA. À travers un département spécialisé, la BNI propose désormais une gamme complète de services financiers, allant des crédits d'investissement aux solutions de gestion de trésorerie, afin de renforcer le contenu local et l'essor économique ivoirien."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65654",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-11T16:08:00Z",
-   "writtenAt": "2026-11-11T16:58:30.024Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/youssouf-fadiga-dg-de-la-bni--notre-ambition-etre-un-partenaire-financier-de-reference-de-secteurs-extractifs-et-energetiques-en-cote-divoire-_65654",
-    "title": "Youssouf Fadiga, DG de la BNI : ''Notre ambition : être un partenaire financier de référence de secteurs extractifs et énergétiques en Côte d’Ivoire''"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65649",
-   "title": "Innov Immobilier lance la marque INNOPLAZA pour le marché de l'hôtellerie en Afrique",
-   "summary": "Le groupe ivoirien Innov Immobilier a officiellement lancé sa marque d'appart-hôtels INNOPLAZA à Abidjan, marquant une nouvelle étape de son expansion avec l'inauguration d'un quatrième site à Marcory.",
-   "body": [
-    "Lors d'une cérémonie tenue le 5 novembre 2026, le groupe Innov Immobilier a dévoilé INNOPLAZA, sa nouvelle enseigne d'appart-hôtels. Cette annonce a été accompagnée par l'ouverture d'un complexe de 20 logements situé sur le boulevard du Gabon à Marcory. Ce nouvel établissement propose des services complets, incluant un restaurant panoramique, une salle de sport et une conciergerie, visant une clientèle variée allant des cadres en déplacement aux résidents de longue durée.",
-    "Fondée en 2021, l'entreprise gère aujourd'hui un parc de 200 appartements, dont 80 sous la marque INNOPLAZA répartis entre la Zone 4, Biétry, Cocody et Marcory. Avec un taux d'occupation moyen de 80 % et plus de 3 000 clients actifs, le groupe mise sur la digitalisation via son application AfricaBooking.app pour optimiser l'expérience client. Le ministre du Tourisme et des Loisirs, Siandou Fofana, a salué cette initiative, encourageant le groupe à exporter ce savoir-faire ivoirien au-delà des frontières nationales."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65649",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-11T13:57:00Z",
-   "writtenAt": "2026-11-11T14:46:43.309Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/cote-d-ivoire-innov-immobilier-lance-la-marque-innoplaza-pour-conquerir-l-hospitalite-africaine-avec-80-appart-hotels_65649",
-    "title": "Côte d'Ivoire : Innov Immobilier lance la marque INNOPLAZA pour conquérir l'hospitalité africaine avec 80 appart-hôtels"
    },
    "rewritten": true
   }

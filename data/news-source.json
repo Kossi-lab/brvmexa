@@ -1,6 +1,34 @@
 {
- "updatedAt": "2026-11-23T17:30:24.651Z",
+ "updatedAt": "2026-11-23T17:46:52.406Z",
  "items": [
+  {
+   "id": "sika-65897",
+   "title": "Côte d’Ivoire : L’organisme panafricain de prévoyance sociale, CIPRES, forme une centaine de cadres aux nouveaux outils de gestion des pensions",
+   "summary": "La gestion des ressources destinées au financement des pensions et des prestations sociales exige des outils de contr&o...",
+   "url": "https://www.sikafinance.com/marches/cote-divoire-lorganisme-panafricain-de-prevoyance-sociale-cipres-forme-une-centaine-de-cadres-aux-nouveaux-outils-de-gestion-des-pensions_65897",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-23T17:38:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "sika-65896",
+   "title": "Afrique : Afreximbank vise 240 milliards d’euros d’affacturage pour financer les PME",
+   "summary": "Les factures impayées pourraient devenir l'une des principales sources de financement des PME africaines. C'est le pari...",
+   "url": "https://www.sikafinance.com/marches/afrique-afreximbank-vise-240-milliards-deuros-daffacturage-pour-financer-les-pme_65896",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-23T17:28:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65895",
    "title": "BRVM : La SIB fait figure d'exception dans un marché en repli",
@@ -4297,36 +4325,6 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-10-30T11:46:00Z",
-   "symbols": [],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "gn-11410t8",
-   "title": "Coris Bank Burkina Faso : le bénéfice progresse de 17,8 %, l'action a presque triplé en Bourse",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTDhhQXpTRS1GdUduMXk0T21FSFVQRTNOdzZCOVlBMjM1QmJaNlFkVGFraU45Sll4UllZY000VHdvN25TWVlJR2MtU3NWRTBSWGxoeGp3dXozMWwxVlJFV1hKLW1UejdwLVZpSE5wWmNYOG9xNzZHR2J5UHpyd1YzOHh6UUdsQ2xPU1BvQzJzeWNMNGVfVElsMzhOQnA4RE5tQU9WVzkxak92OURDNEwzdVJRdmg0TWc5VnpYMW1Kb2toQ2VrWnlhd0xvdU05cmJxSy1ESFdoZ2VlaWtweTNZaUpn?oc=5",
-   "image": null,
-   "source": "AGENCE ECOFIN",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-10-30T09:25:00.000Z",
-   "symbols": [
-    "CBIBF"
-   ],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "sika-65362",
-   "title": "Sénégal : Moody’s abaisse la dette extérieure à ‘’Ca’’ et anticipe jusqu’à 65% de pertes pour les créanciers",
-   "summary": "L'agence a dégradé de deux crans la note des emprunts sénégalais en devises, désormais classés parmi les dettes présent...",
-   "url": "https://www.sikafinance.com/marches/senegal-moodys-abaisse-la-dette-exterieure-a-ca-et-anticipe-jusqua-65-de-pertes-pour-les-creanciers_65362",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": true,
-   "publishedAt": "2026-10-30T08:45:00Z",
    "symbols": [],
    "status": "new",
    "tries": 0
