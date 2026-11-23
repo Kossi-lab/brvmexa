@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-23T20:53:33.410Z",
+ "updatedAt": "2026-11-23T21:00:27.695Z",
  "items": [
   {
    "id": "sika-65898",
@@ -261,6 +261,20 @@
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-11-21T16:49:32.000Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "gn-1i0i1wv",
+   "title": "Bourse : Une institution financière ouvre 20 % de son capital au public",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYy1ZSGFjdTZUZHVTdDluakp0UjA4OUpzdWVtR2RGSGJkYlBCRU0zMDlhR0JwdUo0bEE3YVVuTjNnaE9aOXQ5Y0pNZnRJS1ZWYXM2b3Nwc0JhSU5TRmpOdkR2Q205T08tOW5qaDdpY2Y5Q3pFYlVXTEVvcW0zVGl0NDdqSlpUVUxNREw0WFB3WXMtcVRGdDJpTV9uS04tUGZUcndNNkR2U3lvMzNkWERYRDVuV1JwUUd4?oc=5",
+   "image": null,
+   "source": "FratMat",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-21T15:54:00.000Z",
    "symbols": [],
    "status": "done",
    "tries": 1
@@ -4312,20 +4326,6 @@
    "symbols": [
     "PRSC"
    ],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "sika-65369",
-   "title": "Congés et jours fériés : Dans quels pays africains travaille-t-on le moins dans l’année ?",
-   "summary": "Le nombre de jours de congés et de jours fériés chômés et payés varie considérablement d'un pays à l'autre, en fo...",
-   "url": "https://www.sikafinance.com/marches/conges-et-jours-feries-dans-quels-pays-africains-travaille-t-on-le-moins-dans-lannee-_65369",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": true,
-   "publishedAt": "2026-10-30T11:49:00Z",
-   "symbols": [],
    "status": "new",
    "tries": 0
   }
