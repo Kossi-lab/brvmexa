@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-23T22:46:09.766Z",
+ "updatedAt": "2026-11-23T23:00:41.074Z",
  "items": [
   {
    "id": "sika-65898",
@@ -637,22 +637,6 @@
     "SOGC"
    ],
    "status": "skip",
-   "tries": 1
-  },
-  {
-   "id": "gn-pfcddy",
-   "title": "Bridge Bank Group (BBGC) — BRVM",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VWFNIS3puU1RSY09PZGRsWkVIcnh4cHM3ZXFnd2lVbmR1OGU3dFRfMG92UENpbkdnVjNnNGpvckliaWthcXBZaVBjeVVFZXBodzNCZEpSU1hBN1FXbDlLSC0yb0Nvdw?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-11-19T19:50:33.000Z",
-   "symbols": [
-    "BBGC"
-   ],
-   "status": "done",
    "tries": 1
   },
   {
@@ -4325,6 +4309,22 @@
    "publishedAt": "2026-10-30T12:18:00Z",
    "symbols": [
     "PRSC"
+   ],
+   "status": "new",
+   "tries": 0
+  },
+  {
+   "id": "gn-1l1iy5j",
+   "title": "BRVM : le fractionnement du titre Sonatel dope l’intérêt des investisseurs",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZjdiRmFsRHNLZUk0MlFXOEFGYkg1OVIwdmZQcWVvSldYak8tUV9raUIwQUt6OVFIQkxIMWNQUFBsWFZIbGVHajlOVkhSSVlVT1ZMN3REaWgwZHBudlFsX3hYNC0wTjFCdkw1RGNGYkt5REpiTklHUmo0bnJhRGhqRnhod2N6UlBDVFdjQXBfdy1JS3NubWUzcGliQnljaFk?oc=5",
+   "image": null,
+   "source": "Forbes Afrique",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-10-28T07:00:00.000Z",
+   "symbols": [
+    "SNTS"
    ],
    "status": "new",
    "tries": 0
