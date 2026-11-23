@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-23T16:45:41.543Z",
+ "updatedAt": "2026-11-23T17:01:42.088Z",
  "items": [
+  {
+   "id": "sika-65895",
+   "title": "BRVM : La SIB fait figure d'exception dans un marché en repli",
+   "summary": "La BRVM démarre la semaine sous forte pression. Dans le prolongement des turbulences de la semaine précédente, la séanc...",
+   "url": "https://www.sikafinance.com/marches/brvm-la-sib-fait-figure-d-exception-dans-un-marche-en-repli_65895",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-23T16:52:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65892",
    "title": "Télécoms : Orange Côte d’Ivoire mise sur la transparence pour consolider la confiance des consommateurs",
@@ -14,8 +28,8 @@
    "symbols": [
     "ORAC"
    ],
-   "status": "new",
-   "tries": 1
+   "status": "done",
+   "tries": 2
   },
   {
    "id": "sika-65894",
@@ -4314,22 +4328,6 @@
    "premium": true,
    "publishedAt": "2026-10-30T08:45:00Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "sika-65361",
-   "title": "Hausse de 13% à 354 milliards FCFA du résultat net de Sonatel à fin septembre 2026",
-   "summary": "Le groupe Sonatel poursuit sa croissance à fin septembre 2026, avec un résultat net de 354 milliards FCFA, en progressi...",
-   "url": "https://www.sikafinance.com/marches/hausse-de-13-a-354-milliards-fcfa-du-resultat-net-de-sonatel-a-fin-septembre-2026_65361",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": true,
-   "publishedAt": "2026-10-30T08:35:00Z",
-   "symbols": [
-    "SNTS"
-   ],
    "status": "new",
    "tries": 0
   }

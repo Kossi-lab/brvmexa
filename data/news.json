@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-23T16:45:41.545Z",
+ "updatedAt": "2026-11-23T17:01:42.090Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -17,6 +17,66 @@
     "19 PAGES"
    ],
    "pinned": true
+  },
+  {
+   "id": "sika-65895",
+   "title": "BRVM : Chute généralisée des indices, la SIB seule valeur dans le vert",
+   "summary": "La bourse régionale a entamé la semaine en forte baisse, avec 40 titres en repli sur 41. La SIB est la seule action à enregistrer une hausse.",
+   "body": [
+    "Le marché financier régional a démarré la semaine dans le rouge vif, prolongeant le mouvement baissier de la semaine précédente. L'ensemble des indicateurs clés s'est nettement replié : le BRVM-Composite recule de 3,32 % à 476,54 points, le BRVM-30 perd 3,30 % à 230,86 points et le BRVM-Prestige décroche de 2,31 % à 182,29 points. Sur 41 valeurs ayant enregistré des mouvements de cours, 40 ont fini la séance en baisse.",
+    "La contraction du cours de Sonatel Sénégal a lourdement pesé sur la cote, amputant la capitalisation globale du marché de 140 milliards FCFA. Plusieurs sociétés ont d'ailleurs subi des décrochages supérieurs à 7 %. La plus forte baisse est signée Coris Bank International BF (-7,49 % à 25 445 FCFA), suivie de près par BOA Bénin (-7,48 % à 8 415 FCFA), NEI-CEDA (-7,37 % à 1 760 FCFA), BIIC (-7,33 % à 6 950 FCFA) et Nestlé CI (-7,03 % à 11 900 FCFA).",
+    "À l'encontre de cette tendance générale, la SIB s'impose comme la seule satisfaction du jour. Le titre progresse de 1,16 % pour s'établir à 8 295 FCFA, constituant l'unique progression de la séance. Du côté des volumes, les transactions globales ont totalisé 1,43 milliard FCFA. Sonatel Sénégal a concentré l'essentiel de l'attention des investisseurs avec 351,54 millions FCFA échangés, représentant 24,51 % de la valeur totale négociée."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65895",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-23T16:52:00Z",
+   "writtenAt": "2026-11-23T17:01:08.877Z",
+   "symbols": [
+    "BICB",
+    "BOAB",
+    "CBIBF",
+    "NEIC",
+    "NTLC",
+    "SNTS"
+   ],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/brvm-la-sib-fait-figure-d-exception-dans-un-marche-en-repli_65895",
+    "title": "BRVM : La SIB fait figure d'exception dans un marché en repli"
+   },
+   "rewritten": true
+  },
+  {
+   "id": "sika-65892",
+   "title": "Orange Côte d'Ivoire privilégie la transparence et dévoile l'étendue de ses investissements",
+   "summary": "En ouvrant ses infrastructures aux associations de consommateurs, Orange Côte d'Ivoire mise sur l'écoute directe tout en rappelant l'injection de 100 milliards FCFA dans son réseau en 2025.",
+   "body": [
+    "Les 19 et 20 novembre 2026, l'opérateur de télécommunications Orange Côte d'Ivoire a accueilli des représentants d'organisations de consommateurs sur son site technique d'Assabou, situé à Yamoussoukro. Cette deuxième édition de la Journée du consommateur s'inscrit dans la continuité d'un premier rendez-vous organisé le 21 mai dernier à Abidjan. À travers cette immersion au cœur de ses équipements, la société entend concrétiser son plan stratégique « Trust for Future », porté par son directeur de l'expérience client, Habib Bamba.",
+    "Au cours des échanges, plusieurs thématiques sensibles ont été abordées, notamment la rapidité d'épuisement des forfaits Internet. La direction a apporté des éclaircissements sur l'impact de certains usages comme le streaming, les jeux vidéo ou les mises à jour automatiques. Pour accompagner ses abonnés et traiter plus efficacement les demandes, l'entreprise met en place des contenus pédagogiques et a renforcé les fonctionnalités de ses applications Ma Box et Max It.",
+    "Cette initiative de rapprochement intervient alors que la société affiche une position prédominante sur le marché national. Selon l'ARTCI, le groupe contrôlait en octobre 2026 près de 50 % des abonnés au mobile et plus de 60 % de l'Internet fixe. Au troisième trimestre 2026, ses activités mobiles ont généré 144,7 milliards FCFA de revenus, s'appuyant sur un réseau de fibre optique étendu sur 15 492 kilomètres et plus de 20 millions de comptes actifs Orange Money.",
+    "Pour préserver la qualité de ses prestations et maintenir ses infrastructures, l'opérateur a consenti un effort financier de près de 100 milliards FCFA en 2025, soit environ 167 millions de dollars. En concertation avec le régulateur sectoriel, l'entreprise poursuit le renforcement de ses équipements afin de répondre aux exigences croissantes des usagers."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65892",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-23T16:20:00Z",
+   "writtenAt": "2026-11-23T17:01:42.087Z",
+   "symbols": [
+    "ORAC"
+   ],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/telecoms-orange-cote-divoire-mise-sur-la-transparence-pour-consolider-la-confiance-des-consommateurs_65892",
+    "title": "Télécoms : Orange Côte d’Ivoire mise sur la transparence pour consolider la confiance des consommateurs"
+   },
+   "rewritten": true
   },
   {
    "id": "gn-i40t2e",
@@ -3711,54 +3771,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/cote-d-ivoire-innov-immobilier-lance-la-marque-innoplaza-pour-conquerir-l-hospitalite-africaine-avec-80-appart-hotels_65649",
     "title": "Côte d'Ivoire : Innov Immobilier lance la marque INNOPLAZA pour conquérir l'hospitalité africaine avec 80 appart-hôtels"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65647",
-   "title": "Cacao : la production ivoirienne sous la menace d'une baisse de 25% liée à El Niño",
-   "summary": "Le phénomène climatique El Niño pourrait entraîner une chute significative de la récolte de cacao en Côte d'Ivoire, premier producteur mondial.",
-   "body": [
-    "La Côte d'Ivoire, qui assure près de 40 % de l'offre mondiale de cacao, fait face à une menace climatique majeure. Le phénomène El Niño pourrait provoquer une diminution de la production nationale atteignant 25 %.",
-    "Cette perspective de recul des volumes récoltés pèse sur les perspectives du secteur, alors que le pays demeure le principal fournisseur du marché international de l'or brun."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65647",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-11T12:10:00Z",
-   "writtenAt": "2026-11-11T12:43:04.256Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/cote-divoire-el-ni%C3%B1o-menace-de-faire-chuter-la-production-de-cacao-jusqua-25_65647",
-    "title": "Côte d’Ivoire : El Niño menace de faire chuter la production de cacao jusqu’à 25%"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65646",
-   "title": "Raffinerie Dangote : un engouement massif des investisseurs pour son introduction en bourse",
-   "summary": "La raffinerie Dangote attire un intérêt financier majeur avec 4,1 milliards de dollars de souscriptions enregistrés lors de son introduction en bourse.",
-   "body": [
-    "Le projet industriel nigérian confirme son attractivité sur les marchés financiers. L'opération d'introduction en bourse de la raffinerie Dangote a suscité une forte mobilisation des investisseurs, atteignant un volume total de 4,1 milliards de dollars en souscriptions.",
-    "Cette performance souligne l'importance stratégique de l'infrastructure dans le secteur énergétique africain. Les données relatives à cette levée de fonds, enregistrées à la date du 11 novembre 2026, témoignent de la confiance accordée à ce complexe pétrolier par les acteurs du marché."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65646",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-11T12:03:00Z",
-   "writtenAt": "2026-11-11T12:43:12.423Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/nigeria-la-raffinerie-dangote-seduit-les-investisseurs-avec-4-1-milliards-usd-de-souscriptions-a-lipo_65646",
-    "title": "Nigeria : La raffinerie Dangote séduit les investisseurs avec 4,1 milliards USD de souscriptions à l’IPO"
    },
    "rewritten": true
   }
