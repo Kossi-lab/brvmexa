@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-24T21:15:25.206Z",
+ "updatedAt": "2026-11-24T21:30:22.177Z",
  "items": [
   {
    "id": "gn-oxc567",
@@ -278,6 +278,22 @@
    "premium": false,
    "publishedAt": "2026-11-24T09:42:00.000Z",
    "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "gn-1apynbn",
+   "title": "Air Liquide Côte d'Ivoire (SIVC) — BRVM",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01TU9WZUExelpvaEV5MlVDV0Y5blVQalVYRmVkWXFWUVVvS3RZUXctR1dObXR5di1GeFoyc2lTN0dmNTgzbEpYVGtWdVpod0FrS0Jfc0hCcmZGTmhYakpnNEZWM3Nrdw?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-23T21:36:15.000Z",
+   "symbols": [
+    "SIVC"
+   ],
    "status": "done",
    "tries": 1
   },
@@ -601,22 +617,6 @@
    "publishedAt": "2026-11-21T11:06:20.000Z",
    "symbols": [
     "CBIBF"
-   ],
-   "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "gn-1apynbn",
-   "title": "Air Liquide Côte d'Ivoire (SIVC) — BRVM",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01TU9WZUExelpvaEV5MlVDV0Y5blVQalVYRmVkWXFWUVVvS3RZUXctR1dObXR5di1GeFoyc2lTN0dmNTgzbEpYVGtWdVpod0FrS0Jfc0hCcmZGTmhYakpnNEZWM3Nrdw?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-11-21T10:42:00.000Z",
-   "symbols": [
-    "SIVC"
    ],
    "status": "done",
    "tries": 1
