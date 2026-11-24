@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-24T12:00:36.530Z",
+ "updatedAt": "2026-11-24T12:15:23.962Z",
  "items": [
+  {
+   "id": "sika-65910",
+   "title": "Côte d’Ivoire : Pétro Ivoire crée une nouvelle filiale dédiée à la maintenance des véhicules",
+   "summary": "Permettre aux automobilistes de faire le plein de carburant, mais aussi d'entretenir et de réparer leurs véhicules au m...",
+   "url": "https://www.sikafinance.com/marches/cote-divoire-petro-ivoire-cree-une-nouvelle-filiale-dediee-a-la-maintenance-des-vehicules_65910",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-24T11:52:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65907",
    "title": "Énergie et télécoms : Comment Orange CI utilise les mini-grids pour apporter électricité et Internet aux localités enclavées",
@@ -4307,22 +4321,6 @@
    "publishedAt": "2026-10-30T15:28:00Z",
    "symbols": [
     "SNTS"
-   ],
-   "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "sika-65378",
-   "title": "CIE : Le résultat net se hisse à 5 milliards FCFA au 1er semestre 2026",
-   "summary": "La Compagnie Ivoirienne d'Électricité (CIE) améliore son résultat net à fin juin 2026, mais moins rapidement que...",
-   "url": "https://www.sikafinance.com/marches/cie-le-resultat-net-se-hisse-a-5-milliards-fcfa-au-1er-semestre-2026_65378",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": true,
-   "publishedAt": "2026-10-30T14:23:00Z",
-   "symbols": [
-    "CIEC"
    ],
    "status": "done",
    "tries": 1

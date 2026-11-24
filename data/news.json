@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-24T12:00:36.532Z",
+ "updatedAt": "2026-11-24T12:15:23.964Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -17,6 +17,31 @@
     "19 PAGES"
    ],
    "pinned": true
+  },
+  {
+   "id": "sika-65910",
+   "title": "Pétro Ivoire lance PI Auto-Services pour diversifier son offre de maintenance",
+   "summary": "Pétro Ivoire crée sa filiale PI Auto-Services afin de proposer des prestations d'entretien automobile au sein de son réseau de stations-service.",
+   "body": [
+    "Le groupe PI Holding a officialisé le 20 novembre 2026 à Abidjan la création de PI Auto-Services, une nouvelle structure en charge des prestations d'entretien et de réparation automobile. Cette entité reprend l'activité de Fix&Go sous l'enseigne internationale POINT S, suite à un accord de cession et un contrat de master-franchise avec Allianco, le représentant de POINT S sur le continent africain.",
+    "Organisée sous forme de société par actions simplifiée, cette filiale dispose d'une équipe initiale d'environ 60 salariés et d'un parc de 12 centres spécialisés, dont 11 implantés dans la capitale économique et un à Yamoussoukro. L'offre couvre des interventions telles que la vidange, le freinage, la climatisation, la vente de pneus ou encore la carrosserie. Un directeur général doit prendre ses fonctions en janvier 2027 pour piloter cette entité.",
+    "À travers cette initiative, le PDG Sébastien Kadio-Morokro souhaite transformer les stations du groupe en espaces multiservices, capitalisant sur la croissance du parc automobile ivoirien et sur la vétusté des véhicules en circulation. Actif depuis près de trente ans dans la distribution pétrolière, Pétro Ivoire détient une part de marché de 17 % dans son secteur et entend faire de la maintenance un nouveau levier d'expansion."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65910",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-24T11:52:00Z",
+   "writtenAt": "2026-11-24T12:15:23.961Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/cote-divoire-petro-ivoire-cree-une-nouvelle-filiale-dediee-a-la-maintenance-des-vehicules_65910",
+    "title": "Côte d’Ivoire : Pétro Ivoire crée une nouvelle filiale dédiée à la maintenance des véhicules"
+   },
+   "rewritten": true
   },
   {
    "id": "sika-65907",
@@ -3747,30 +3772,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/digitalisation-et-cybersecurite-comment-orange-cloud-cyber-solutions-securise-lessor-du-numerique-ivoirien_65675",
     "title": "Digitalisation et cybersécurité : Comment Orange Cloud & Cyber Solutions sécurise l’essor du numérique ivoirien"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65674",
-   "title": "La BAD et l'AFD renforcent leur coopération pour dynamiser les investissements en Afrique",
-   "summary": "La Banque africaine de développement et l'Agence française de développement ont signé un accord pour la période 2026-2031 afin d'accélérer le financement de projets structurants sur le continent.",
-   "body": [
-    "Signé le 10 novembre 2026 en marge du Forum de Paris sur la paix, ce nouveau protocole d'accord vise à intensifier les cofinancements entre les deux institutions. Fortes d'un bilan de 17 opérations menées conjointement dans 14 pays depuis 2021, elles entendent désormais intervenir dès la phase de conception des projets pour garantir leur viabilité et leur attractivité auprès des investisseurs.",
-    "L'initiative met l'accent sur les infrastructures énergétiques, notamment via l'appui d'un milliard d'euros de l'AFD à l'initiative « Mission 300 », ainsi que sur les corridors de transport stratégiques comme Abidjan-Lagos. Au-delà, le partenariat couvrira des secteurs variés tels que l'industrie, l'agriculture, le numérique et la santé, tout en mobilisant des mécanismes de financement mixte pour attirer davantage de capitaux privés vers le continent."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65674",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-12T12:28:00Z",
-   "writtenAt": "2026-11-12T12:54:50.399Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/la-bad-et-lafd-renforcent-leur-alliance-pour-accelerer-le-financement-des-projets-en-afrique_65674",
-    "title": "La BAD et l’AFD renforcent leur alliance pour accélérer le financement des projets en Afrique"
    },
    "rewritten": true
   }
