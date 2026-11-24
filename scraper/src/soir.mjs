@@ -161,7 +161,9 @@ export function buildSoir({ market, indices, news, une, generatedAt = new Date()
   ] });
 
   S.push({ h: 'Fin', t: '3:50', lines: [
-    'C’était BRVMexa Soir. Merci de nous avoir suivis, et rendez-vous demain soir, après la clôture. Bonne soirée !',
+    'C’était BRVMexa Soir. Merci de nous avoir suivis.',
+    'Si ce journal vous est utile, abonnez-vous à la chaîne et activez la cloche des notifications : vous serez prévenu à chaque nouvelle édition, pour ne manquer aucune séance ni aucun événement de la BRVM.',
+    'Rendez-vous demain soir, après la clôture. Bonne soirée !',
     `[GÉNÉRIQUE DE FIN — à l’écran] Données BRVM différées, à titre d’information. Pas un conseil en investissement. Investir comporte des risques. ${STORES.site}`,
   ] });
 

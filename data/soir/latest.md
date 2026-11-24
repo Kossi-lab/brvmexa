@@ -1,7 +1,7 @@
 # BRVMexa Soir — mardi 24 novembre 2026
 
-> Script généré automatiquement le 2026-11-24 à 17:52 GMT à partir des données publiées (source des cours : brvm.org, données différées).
-> **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 3,6 minutes (539 mots).
+> Script généré automatiquement le 2026-11-24 à 17:59 GMT à partir des données publiées (source des cours : brvm.org, données différées).
+> **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 3,8 minutes (573 mots).
 
 ## 0:00 · Générique
 
@@ -53,6 +53,8 @@ Et sur le web : www point brvmexa point com, avec les fiches de toutes les soci�
 
 ## 3:50 · Fin
 
-C’était BRVMexa Soir. Merci de nous avoir suivis, et rendez-vous demain soir, après la clôture. Bonne soirée !
+C’était BRVMexa Soir. Merci de nous avoir suivis.
+Si ce journal vous est utile, abonnez-vous à la chaîne et activez la cloche des notifications : vous serez prévenu à chaque nouvelle édition, pour ne manquer aucune séance ni aucun événement de la BRVM.
+Rendez-vous demain soir, après la clôture. Bonne soirée !
 [GÉNÉRIQUE DE FIN — à l’écran] Données BRVM différées, à titre d’information. Pas un conseil en investissement. Investir comporte des risques. www.brvmexa.com
 
