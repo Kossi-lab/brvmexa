@@ -1,29 +1,36 @@
 {
- "updatedAt": "2026-11-24T12:45:15.964Z",
+ "updatedAt": "2026-11-24T13:00:28.520Z",
  "sessionDate": "2026-11-24",
- "sessionTime": "12:30",
+ "sessionTime": "12:45",
  "source": "brvm.org",
- "transactionsValue": 1437427708,
- "capitalisationActions": 18576746008475,
+ "transactionsValue": 1502931418,
+ "capitalisationActions": 18515631620350,
  "capitalisationBonds": 13419743433771,
  "advancing": 8,
- "declining": 31,
- "unchanged": 9,
- "totalVolume": 1065399,
+ "declining": 33,
+ "unchanged": 7,
+ "totalVolume": 1100274,
  "gainers": [
+  {
+   "symbol": "BOAC",
+   "shortName": "BOA Côte d’Ivoire",
+   "close": 11285,
+   "change": 7.48,
+   "volume": 9536
+  },
   {
    "symbol": "BICB",
    "shortName": "BIIC Bénin",
    "close": 7400,
    "change": 6.47,
-   "volume": 6702
+   "volume": 6729
   },
   {
-   "symbol": "BOAC",
-   "shortName": "BOA Côte d’Ivoire",
-   "close": 11000,
-   "change": 4.76,
-   "volume": 6911
+   "symbol": "SCRC",
+   "shortName": "Sucrivoire CI",
+   "close": 1290,
+   "change": 4.88,
+   "volume": 4910
   },
   {
    "symbol": "BICC",
@@ -37,14 +44,7 @@
    "shortName": "Orange Côte d’Ivoire",
    "close": 19495,
    "change": 2.58,
-   "volume": 3444
-  },
-  {
-   "symbol": "SCRC",
-   "shortName": "Sucrivoire CI",
-   "close": 1250,
-   "change": 1.63,
-   "volume": 3860
+   "volume": 3487
   }
  ],
  "losers": [
@@ -58,67 +58,67 @@
   {
    "symbol": "TTLS",
    "shortName": "TotalEnergies Marketing Sénégal",
-   "close": 3250,
-   "change": -7.14,
-   "volume": 2079
+   "close": 3245,
+   "change": -7.29,
+   "volume": 2244
+  },
+  {
+   "symbol": "STAC",
+   "shortName": "SETAO CI",
+   "close": 2025,
+   "change": -7.11,
+   "volume": 6430
   },
   {
    "symbol": "NEIC",
    "shortName": "NEI-CEDA CI",
-   "close": 1640,
-   "change": -6.82,
-   "volume": 186
+   "close": 1635,
+   "change": -7.1,
+   "volume": 292
   },
   {
-   "symbol": "SAFC",
-   "shortName": "SAFCA CI",
-   "close": 2700,
-   "change": -6.57,
-   "volume": 2550
-  },
-  {
-   "symbol": "CABC",
-   "shortName": "Sicable CI",
-   "close": 2540,
-   "change": -6.45,
-   "volume": 673
+   "symbol": "SIBC",
+   "shortName": "Société Ivoirienne de Banque",
+   "close": 7710,
+   "change": -7.05,
+   "volume": 10653
   }
  ],
  "mostActive": [
   {
    "symbol": "SNTS",
    "shortName": "Sonatel",
-   "close": 3900,
-   "change": 0,
-   "volume": 95686
+   "close": 3895,
+   "change": -0.13,
+   "volume": 98462
   },
   {
    "symbol": "SGBC",
    "shortName": "Société Générale CI",
-   "close": 37000,
-   "change": -1.62,
-   "volume": 7162
+   "close": 36900,
+   "change": -1.89,
+   "volume": 7278
+  },
+  {
+   "symbol": "BOAC",
+   "shortName": "BOA Côte d’Ivoire",
+   "close": 11285,
+   "change": 7.48,
+   "volume": 9536
   },
   {
    "symbol": "BBGC",
    "shortName": "Bridge Bank Group CI",
    "close": 7700,
    "change": -3.75,
-   "volume": 13799
+   "volume": 13954
   },
   {
    "symbol": "SIBC",
    "shortName": "Société Ivoirienne de Banque",
-   "close": 8250,
-   "change": -0.54,
-   "volume": 10623
-  },
-  {
-   "symbol": "BOAC",
-   "shortName": "BOA Côte d’Ivoire",
-   "close": 11000,
-   "change": 4.76,
-   "volume": 6911
+   "close": 7710,
+   "change": -7.05,
+   "volume": 10653
   }
  ]
 }
