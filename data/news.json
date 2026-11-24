@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-24T16:15:24.845Z",
+ "updatedAt": "2026-11-24T16:30:45.185Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -17,6 +17,31 @@
     "19 PAGES"
    ],
    "pinned": true
+  },
+  {
+   "id": "sika-65918",
+   "title": "Nigeria : Dangote obtient le feu vert pour augmenter son offre boursière",
+   "summary": "Le régulateur nigérian a validé l'augmentation du nombre d'actions de l'IPO de Dangote Petroleum Refinery pour répondre à une forte sursouscription.",
+   "body": [
+    "L'introduction en Bourse de Dangote Petroleum Refinery, lancée le 14 septembre 2026 au prix unitaire de 525 nairas, a rencontré un vif succès auprès du public. À la clôture de la période de souscription le 27 octobre 2026, l'offre a fait l'objet d'une forte sursouscription, drainant 3,78 millions de participants pour une demande globale de 11,15 milliards d'actions.",
+    "Face à cette demande représentant environ 5 850 milliards de nairas, soit près de 2,7 fois la cible initiale, l'émetteur a sollicité l'autorité de régulation du marché financier. Le 23 novembre 2026, la Securities and Exchange Commission a ainsi validé un plan de répartition réhaussé à 5,196 milliards d'actions, contre 4,1 milliards prévus au départ.",
+    "Cette validation permet de distribuer un volume total évalué à environ 2 728 milliards de nairas. Le mécanisme de distribution accorde l'intégralité des titres demandés aux petits porteurs, tandis que les souscriptions portant sur plus de 10 millions d'actions subissent des réductions avant l'inscription prochaine des titres à la Nigerian Exchange."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65918",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-24T16:01:00Z",
+   "writtenAt": "2026-11-24T16:30:45.181Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/nigeria-apres-la-forte-sursouscription-de-son-ipo-dangote-obtient-le-feu-vert-pour-augmenter-le-nombre-dactions-a-attribuer_65918",
+    "title": "Nigeria : Après la forte sursouscription de son IPO, Dangote obtient le feu vert pour augmenter le nombre d’actions à attribuer"
+   },
+   "rewritten": true
   },
   {
    "id": "sika-65915",
@@ -3749,30 +3774,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/afrique-subsaharienne-proparco-mobilise-15-millions-de-dollars-pour-financer-les-entreprises-en-croissance_65681",
     "title": "Afrique subsaharienne : Proparco mobilise 15 millions de dollars pour financer les entreprises en croissance"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65680",
-   "title": "Le Centre d'analyses de PETROCI s'ouvre au public lors du SIREXE 2026",
-   "summary": "À l'occasion du SIREXE, le Centre d'analyses et de recherche de PETROCI dévoile ses activités techniques, quarante ans après sa création.",
-   "body": [
-    "Fondé en 1986, le Centre d'analyses et de recherche (CAR) de PETROCI s'apprête à accueillir le public lors du Salon international des ressources extractives et de l'énergie (SIREXE), prévu du 18 au 22 novembre 2026 à Abidjan. Cette structure, initialement composée de six personnes, emploie désormais 58 collaborateurs spécialisés dans l'exploration pétrolière et le contrôle qualité des produits énergétiques.",
-    "Au-delà de son expertise dans l'analyse des roches et la connaissance du sous-sol, le laboratoire intervient sur une large gamme de produits, incluant les carburants, le gaz et les lubrifiants. Fort d'une expérience étendue au-delà des frontières ivoiriennes, le centre collabore avec de nombreux opérateurs internationaux et diversifie ses services vers les secteurs minier et du BTP, illustrant ainsi le renforcement des capacités techniques nationales."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65680",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-12T14:38:00Z",
-   "writtenAt": "2026-11-12T15:05:02.716Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/cote-divoire-40-ans-apres-sa-creation-petroci-va-ouvrir-au-public-les-portes-de-son-laboratoire-strategique-lors-du-sirexe_65680",
-    "title": "Côte d’Ivoire : 40 ans après sa création, PETROCI va ouvrir au public les portes de son laboratoire stratégique lors du SIREXE"
    },
    "rewritten": true
   }
