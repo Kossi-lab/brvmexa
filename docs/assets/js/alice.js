@@ -115,7 +115,7 @@
       a: 'Dans l’application, créez une <b>alerte</b> sur une action : vous êtes prévenu dès qu’elle atteint votre prix.',
       go: ['/application/', '#fonctionnalites', 'Toutes les fonctionnalités de l’application.'] },
     { c: 'app', q: 'Voir la vidéo de présentation', k: 'video presentation demo',
-      a: 'BRVMexa en 52 secondes, en vidéo.', go: ['/application/', '#video', 'La vidéo de présentation.'] },
+      a: 'BRVMexa en un peu plus d’une minute, en vidéo.', go: ['/application/', '#video', 'La vidéo de présentation.'] },
 
     // La Bourse, simplement
     { c: 'bourse', q: 'C’est quoi la BRVM ?', k: 'brvm bourse regionale c est quoi definition uemoa',
