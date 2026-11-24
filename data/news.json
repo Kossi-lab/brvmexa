@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-24T18:46:07.571Z",
+ "updatedAt": "2026-11-24T19:00:53.657Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -17,6 +17,32 @@
     "19 PAGES"
    ],
    "pinned": true
+  },
+  {
+   "id": "gn-oxc567",
+   "title": "Coris Bank Bénin lance une opération majeure sur le marché financier régional",
+   "summary": "Coris Bank Bénin procède à une ouverture de capital d'un montant de 19,19 milliards de FCFA sur le marché de la BRVM.",
+   "body": [
+    "La filiale béninoise du groupe bancaire Coris a initié une opération financière d'envergure sur la place boursière régionale. Cette levée de fonds, matérialisée par une ouverture de capital, atteint la valorisation globale de 19,19 milliards de FCFA.",
+    "Cette démarche offre de nouvelles opportunités de placement aux investisseurs désireux de positionner leurs liquidités sur le secteur bancaire ouest-africain, dans le cadre des transactions enregistrées sur le marché financier de l'UEMOA."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#gn-oxc567",
+   "image": null,
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-24T18:02:47.000Z",
+   "writtenAt": "2026-11-24T19:00:30.241Z",
+   "symbols": [
+    "CBIBF"
+   ],
+   "origin": {
+    "name": "Bénin Web TV",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9oSkZkTUo4dXE0SDNrSmNHcHJIVnNxZXRTSVJmLTFkS1ZrMUdVbGxlQ1ZBTzhmZnJrU1V1VHZuVlVvRXJhYmxjM2xKMlp4TU9NLVlFZFo3aGdBZmY2ZFk3dlFfd29pMnR2OHg4amRB?oc=5",
+    "title": "BRVM : Coris Bank Bénin ouvre son capital pour 19,19 milliards FCFA"
+   },
+   "rewritten": true
   },
   {
    "id": "sika-65922",
@@ -126,6 +152,32 @@
     "name": "BENIN WEB TV",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMXBVNHhNY2tDdzRJUVhlSHVKMjFtcUp6NXZUSHdqbFkxQ0JiMFFVWWF6VFJWTDB6V2NBa3N5OVZDNTl6ZTdjWXhzT2lHTzB5ZkhqRm5rTXVjNm9XUkZIbG51NjlJT1BPZTRlRE9fUlVzbGFpcHBUQ1RGVmxzQ0cxMVJR?oc=5",
     "title": "BRVM : Coris Bank Bénin met 20 % de son capital en vente à 4 700 FCFA l’action"
+   },
+   "rewritten": true
+  },
+  {
+   "id": "gn-1r6k7i4",
+   "title": "Coris Bank International Bénin lance son ouverture de capital au public",
+   "summary": "Coris Bank International au Bénin propose l'ouverture de son capital au grand public, avec une action fixée à 4 700 FCFA.",
+   "body": [
+    "La filiale béninoise de Coris Bank International a initié une opération financière d'envergure en proposant ses actions directement au public. Cette démarche permet aux investisseurs de participer au capital de l'établissement bancaire.",
+    "Pour cette opération annoncée le 24 novembre 2026, le prix unitaire d'une action a été établi à 4 700 FCFA, offrant ainsi une opportunité d'accessibilité aux épargnants désireux de placer leurs fonds dans le secteur bancaire régional."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#gn-1r6k7i4",
+   "image": null,
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-24T16:53:10.000Z",
+   "writtenAt": "2026-11-24T19:00:53.652Z",
+   "symbols": [
+    "CBIBF"
+   ],
+   "origin": {
+    "name": "La Nouvelle Tribune",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSGZSRVhBcDVOYlVmZFducW5aX1JxLUtjQi10c2xSdG5yTTBiU0N3ZzJ4bXJ5cUhIMkhBajlJS3JndnRqVF9YQndwVmZHc3MxSnpvOWpFaE1WaHJTWGU2YlQyM3pnUTRTem1IS2c5d3hGQ25jQWE0Y25RVjZEZGZCcVY1cTRsdVBwZ21yRzhxM3JaZW5NOEFKcm03LTZJUVBMalFPVGhLbzlidU9WQUpfMWZqWnVqU1dFV3BiUjhn?oc=5",
+    "title": "Bénin : Coris Bank International ouvre son capital au public à partir de 4 700 FCFA"
    },
    "rewritten": true
   },
@@ -3732,54 +3784,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/oragroup-affiche-un-benefice-en-hausse-de-14-a-fin-septembre-2026_65693",
     "title": "ORAGROUP affiche un bénéfice en hausse de 14 % à fin septembre 2026"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65691",
-   "title": "Panne technique mondiale chez Microsoft : un impact majeur sur les grandes entreprises",
-   "summary": "Une défaillance interne au sein des services de Microsoft 365 perturbe les activités de nombreuses grandes entreprises à travers 74 pays.",
-   "body": [
-    "Le géant technologique américain Microsoft fait face à une panne technique d'envergure mondiale touchant ses services de messagerie. Cet incident, survenu le 13 novembre 2026, affecte le fonctionnement quotidien de nombreuses structures.",
-    "Les conséquences de cette défaillance sont significatives, puisque 70 % des grandes entreprises réparties dans 74 pays se retrouvent exposées aux perturbations de ces outils informatiques."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65691",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-13T08:47:00Z",
-   "writtenAt": "2026-11-13T08:58:42.486Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/panne-mondiale-de-microsoft-365-70-des-grandes-entreprises-exposees-dans-74-pays_65691",
-    "title": "Panne mondiale de Microsoft 365 : 70 % des grandes entreprises exposées dans 74 pays"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65690",
-   "title": "Performance financière : les banques de la BRVM dépassent 680 milliards FCFA de bénéfices",
-   "summary": "Au terme des neuf premiers mois de l'année 2026, les établissements bancaires cotés sur le marché financier régional affichent une dynamique de profitabilité robuste.",
-   "body": [
-    "Le secteur bancaire présent à la Bourse régionale des valeurs mobilières (BRVM) a clôturé la période s'étendant jusqu'au 30 septembre 2026 avec des résultats financiers solides. Les bénéfices cumulés de ces institutions ont franchi le cap des 680 milliards FCFA.",
-    "Cette performance témoigne d'une tendance globalement favorable pour les banques cotées à l'issue du troisième trimestre 2026. Ces chiffres illustrent la solidité actuelle des acteurs bancaires sur le marché financier de l'UEMOA."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65690",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-13T07:35:00Z",
-   "writtenAt": "2026-11-13T08:58:51.717Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/brvm-les-banques-portent-leurs-benefices-a-plus-de-680-milliards-fcfa-a-fin-septembre-2026_65690",
-    "title": "BRVM : Les banques portent leurs bénéfices à plus de 680 milliards FCFA à fin septembre 2026"
    },
    "rewritten": true
   }
