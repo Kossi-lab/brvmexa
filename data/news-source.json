@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-24T23:00:27.128Z",
+ "updatedAt": "2026-11-24T23:15:29.204Z",
  "items": [
   {
    "id": "gn-oxc567",
@@ -75,6 +75,22 @@
     "CBIBF"
    ],
    "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "gn-bce020",
+   "title": "Bourse régionale des valeurs mobilières : Coris Bank International Côte d’Ivoire ouvre son capital",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA2dnV1X2NrZ203N2k5YldOdy02SFJrSUNfWU1Iblk4aWdGVG1peW8tYlo1SFE2WjYwaUJxeHRPbkliRHdydkJVaFRlRW9mN3dhbDFN?oc=5",
+   "image": null,
+   "source": "leFaso.net - L'actualité au Burkina Faso",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-24T17:01:15.000Z",
+   "symbols": [
+    "CBIBF"
+   ],
+   "status": "skip",
    "tries": 1
   },
   {
@@ -163,22 +179,6 @@
    "publishedAt": "2026-11-24T16:01:00Z",
    "symbols": [],
    "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "gn-bce020",
-   "title": "Bourse régionale des valeurs mobilières : Coris Bank International Côte d’Ivoire ouvre son capital",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA2dnV1X2NrZ203N2k5YldOdy02SFJrSUNfWU1Iblk4aWdGVG1peW8tYlo1SFE2WjYwaUJxeHRPbkliRHdydkJVaFRlRW9mN3dhbDFN?oc=5",
-   "image": null,
-   "source": "leFaso.net - L'actualité au Burkina Faso",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-11-24T15:53:00.000Z",
-   "symbols": [
-    "CBIBF"
-   ],
-   "status": "skip",
    "tries": 1
   },
   {
