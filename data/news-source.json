@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-24T06:00:20.972Z",
+ "updatedAt": "2026-11-24T06:15:32.405Z",
  "items": [
   {
    "id": "gn-1apynbn",
@@ -606,22 +606,6 @@
    ],
    "status": "done",
    "tries": 1
-  },
-  {
-   "id": "gn-1lzzfnd",
-   "title": "Bank of Africa - Benin (BOAB) — BRVM",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE04a2FES05hTmtBQk4tOGt5WTU0M0IzTl9DLUlmaDNPOVFwX0w1QzZwM3V3Nk9pNklRcUxCVWVmaFFkUjRJeXp6Q3JRMlRLNTdmMHlrb2JXVmxWVy1Pei04WHBBclBXZw?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-11-20T08:00:00.000Z",
-   "symbols": [
-    "BOAB"
-   ],
-   "status": "new",
-   "tries": 0
   },
   {
    "id": "gn-1gfad7o",
@@ -4323,6 +4307,22 @@
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-10-28T07:00:00.000Z",
+   "symbols": [
+    "SNTS"
+   ],
+   "status": "new",
+   "tries": 0
+  },
+  {
+   "id": "gn-bk2dr7",
+   "title": "L'indice principal de la BRVM recule pour la deuxième semaine consécutive à l'approche du fractionnement des actions de Sonatel",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSy1jTDczcVNidDBCRVJ3NzRQdVJYeW8yS2VkRm4zVm1JdVVEOGh3Sk1TaW0yR0JKRVBELWJzbVNncGZmQlc5cnVxdEdMdmd4dTNiZnIzT1lfdk9ueEFMZ0w0YkZaeFVhbHRTWnZkb2Q3cTVBa1BFdU1mcHdrb2Ewb3JObFFCbGFPWS05S1kzS1J0RkJxeUw5eWl1dGZ5bXFDel9pMmVic0ZKem1rVU5rdUF2dHpMX1ZkLURJTEpkVXNEN2pPUGd6OEg1VFVDMTZkNVJSVm1xbmhVN0FkcGlKUG5fZ3k5NUk?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-10-24T07:00:00.000Z",
    "symbols": [
     "SNTS"
    ],
