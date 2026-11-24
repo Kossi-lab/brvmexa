@@ -1,6 +1,34 @@
 {
- "updatedAt": "2026-11-24T15:00:23.530Z",
+ "updatedAt": "2026-11-24T15:16:04.696Z",
  "items": [
+  {
+   "id": "sika-65915",
+   "title": "Côte d’Ivoire : L’australien MetalsGrove identifie 7 cibles aurifères et prépare des forages dès 2027",
+   "summary": "La Côte d'Ivoire continue d'attirer les compagnies minières internationales à la recherche de nouveaux gisements ...",
+   "url": "https://www.sikafinance.com/marches/cote-divoire-laustralien-metalsgrove-identifie-7-cibles-auriferes-et-prepare-des-forages-des-2027_65915",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-24T15:01:00Z",
+   "symbols": [],
+   "status": "new",
+   "tries": 0
+  },
+  {
+   "id": "sika-65914",
+   "title": "Énergie numérique : ‘’Avant mars 2028, la Côte d’Ivoire sera le 1er réseau électrique africain certifié’’ ISO 24001",
+   "summary": "La Côte d'Ivoire s'apprête à devenir une référence continentale en matière de sécurité énergétique grâce au ...",
+   "url": "https://www.sikafinance.com/marches/energie-numerique-avant-mars-2028-la-cote-divoire-sera-le-1er-reseau-electrique-africain-certifie-iso-24001_65914",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-24T14:57:00Z",
+   "symbols": [],
+   "status": "new",
+   "tries": 0
+  },
   {
    "id": "sika-65912",
    "title": "Pour la 1ère fois, la Côte d’Ivoire enregistre un excédent commercial de 412 milliards FCFA vis-à-vis de la France à fin 2025",
@@ -4290,38 +4318,6 @@
    "symbols": [],
    "status": "done",
    "tries": 1
-  },
-  {
-   "id": "sika-65379",
-   "title": "BRVM : Sonatel impulse le rebond du marché avec 200 milliards FCFA de capitalisation gagnés",
-   "summary": "La BRVM retrouve des couleurs au terme de la séance, portée par une progression simultanée de ses trois principaux indi...",
-   "url": "https://www.sikafinance.com/marches/brvm-sonatel-impulse-le-rebond-du-marche-avec-200-milliards-fcfa-de-capitalisation-gagnes_65379",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-30T15:28:00Z",
-   "symbols": [
-    "SNTS"
-   ],
-   "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "gn-1l1iy5j",
-   "title": "BRVM : le fractionnement du titre Sonatel dope l’intérêt des investisseurs",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZjdiRmFsRHNLZUk0MlFXOEFGYkg1OVIwdmZQcWVvSldYak8tUV9raUIwQUt6OVFIQkxIMWNQUFBsWFZIbGVHajlOVkhSSVlVT1ZMN3REaWgwZHBudlFsX3hYNC0wTjFCdkw1RGNGYkt5REpiTklHUmo0bnJhRGhqRnhod2N6UlBDVFdjQXBfdy1JS3NubWUzcGliQnljaFk?oc=5",
-   "image": null,
-   "source": "Forbes Afrique",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-10-28T07:00:00.000Z",
-   "symbols": [
-    "SNTS"
-   ],
-   "status": "new",
-   "tries": 0
   }
  ]
 }
