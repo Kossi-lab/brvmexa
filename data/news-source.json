@@ -1,6 +1,34 @@
 {
- "updatedAt": "2026-11-24T16:45:34.090Z",
+ "updatedAt": "2026-11-24T17:01:14.302Z",
  "items": [
+  {
+   "id": "sika-65920",
+   "title": "Massetou Traoré nommée Directrice générale de CREDAF GROUP",
+   "summary": "CREDAF GROUP annonce la nomination de Massetou Traoré à sa direction générale. Son mandat couvre l'ensemble des activit...",
+   "url": "https://www.sikafinance.com/marches/massetou-traore-nommee-directrice-generale-de-credaf-group_65920",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-24T16:53:00Z",
+   "symbols": [],
+   "status": "new",
+   "tries": 0
+  },
+  {
+   "id": "sika-65919",
+   "title": "Rrising African Content : De l’ambition du contenu local aux contrats, aux financements et aux résultats",
+   "summary": "Lancée à Abidjan à l'occasion du SIREXE 2026, Rising African Content (RAC) entend transformer la préférence africaine en...",
+   "url": "https://www.sikafinance.com/marches/rrising-african-content-de-lambition-du-contenu-local-aux-contrats-aux-financements-et-aux-resultats_65919",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-24T16:47:00Z",
+   "symbols": [],
+   "status": "new",
+   "tries": 0
+  },
   {
    "id": "sika-65917",
    "title": "Pays en développement : Le déficit de financement des PME atteint 4 000 milliards USD, soit 11% du PIB",
@@ -4289,34 +4317,6 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-10-30T17:24:00Z",
-   "symbols": [],
-   "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "sika-65387",
-   "title": "UEMOA : La BOAD et Proparco mobilisent de nouvelles ressources pour financer le secteur privé",
-   "summary": "Le financement des entreprises dans l'Union économique et monétaire ouest-africaine (UEMOA) repose aussi sur la capacit...",
-   "url": "https://www.sikafinance.com/marches/uemoa-la-boad-et-proparco-mobilisent-de-nouvelles-ressources-pour-financer-le-secteur-prive_65387",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-30T17:18:00Z",
-   "symbols": [],
-   "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "sika-65386",
-   "title": "Lithium : Après le Mali, Kodal Minerals veut renforcer sa présence en Afrique de l’Ouest en misant sur le Ghana",
-   "summary": "Kodal Minerals veut accélérer son développement dans le lithium en Afrique de l'Ouest. Après la mise en production de s...",
-   "url": "https://www.sikafinance.com/marches/lithium-apres-le-mali-kodal-minerals-veut-renforcer-sa-presence-en-afrique-de-louest-en-misant-sur-le-ghana_65386",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-30T16:44:00Z",
    "symbols": [],
    "status": "done",
    "tries": 1
