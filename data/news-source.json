@@ -1,6 +1,54 @@
 {
- "updatedAt": "2026-11-24T17:01:14.302Z",
+ "updatedAt": "2026-11-24T17:16:05.935Z",
  "items": [
+  {
+   "id": "gn-1ytmkcj",
+   "title": "Après la Côte d’Ivoire, Coris Bank International Bénin se lance à la conquête de la BRVM",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQmx4d3lZOEZ2VDVnZENlaFhwOEVvVzlLaVlXa0RNaXV0NmViSzN3aXZOd2ZuVGt4WUVaSXp3WjBzY2R5bUVGLXZPdXFTZUtWRFdpaVZvYlJYZm1tU1RheVQ3cndZM21laDNraVlldmFNMFJFelRQOUpCUFhkM0xsOExETjNxWlRfX2hjR0syMXNKS29zWDZJSXpiQ3FWVnc3Wmx0VkdYNDE2N2xIZXJjLVg1UHZpdTV3TkYyVWw1QmN6OTczSVdRaA?oc=5",
+   "image": null,
+   "source": "Financial Afrik",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-24T17:07:37.000Z",
+   "symbols": [
+    "CBIBF"
+   ],
+   "status": "skip",
+   "tries": 1
+  },
+  {
+   "id": "gn-630xb3",
+   "title": "Coris Bank Bénin ouvre 20 % de son capital aux investisseurs, devenez actionnaire à partir de 4500 FCFA",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTFZIcjRUVWpmRGVZQmF0MjNqanozQmM5UTVDdXkyM0txQ19WZG00UFJ6bUdnQ1d5eDJhMDJtR0k4ZWtBUmZsUEFJSVlDSjQwdVpKd3VrNE1fb0lmRjdrUXV5bnFFcVJlSEx2VVdRdG1zeEZaOEFxODlPWG02UUdzOHJteFp2TmlxdDJqVTNYbldLLTZ3bkhSYWZfemsySzZ5UThzcUdlajc4dEpyRkdFTEo5c0NFNlVVN2NqWU5vaDJnT0FCSlNVSktVX0pnMEwtLXVYR3N2bFBJdjkxcDFYblBfRQ?oc=5",
+   "image": null,
+   "source": "Banouto.bj",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-24T17:06:03.000Z",
+   "symbols": [
+    "CBIBF"
+   ],
+   "status": "new",
+   "tries": 0
+  },
+  {
+   "id": "gn-qmzevy",
+   "title": "BRVM : Coris Bank Bénin met 20 % de son capital en vente à 4 700 FCFA l’action",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMXBVNHhNY2tDdzRJUVhlSHVKMjFtcUp6NXZUSHdqbFkxQ0JiMFFVWWF6VFJWTDB6V2NBa3N5OVZDNTl6ZTdjWXhzT2lHTzB5ZkhqRm5rTXVjNm9XUkZIbG51NjlJT1BPZTRlRE9fUlVzbGFpcHBUQ1RGVmxzQ0cxMVJR?oc=5",
+   "image": null,
+   "source": "BENIN WEB TV",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-24T16:57:11.000Z",
+   "symbols": [
+    "CBIBF"
+   ],
+   "status": "new",
+   "tries": 0
+  },
   {
    "id": "sika-65920",
    "title": "Massetou Traoré nommée Directrice générale de CREDAF GROUP",
@@ -56,6 +104,22 @@
    "symbols": [],
    "status": "done",
    "tries": 1
+  },
+  {
+   "id": "gn-bce020",
+   "title": "Bourse régionale des valeurs mobilières : Coris Bank International Côte d’Ivoire ouvre son capital",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA2dnV1X2NrZ203N2k5YldOdy02SFJrSUNfWU1Iblk4aWdGVG1peW8tYlo1SFE2WjYwaUJxeHRPbkliRHdydkJVaFRlRW9mN3dhbDFN?oc=5",
+   "image": null,
+   "source": "leFaso.net - L'actualité au Burkina Faso",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-24T15:53:00.000Z",
+   "symbols": [
+    "CBIBF"
+   ],
+   "status": "new",
+   "tries": 0
   },
   {
    "id": "sika-65915",
@@ -4261,62 +4325,6 @@
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-11-01T07:00:00.000Z",
-   "symbols": [],
-   "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "sika-65395",
-   "title": "Petroci fait face à une fuite enflammée au niveau de son installation de gaz de Vridi",
-   "summary": "Ce matin, à 7h25, une fuite enflammée est survenue sur la ligne de retour de la sphère 1 de notre installation de gaz d...",
-   "url": "https://www.sikafinance.com/marches/petroci-fait-face-a-une-fuite-enflammee-au-niveau-de-son-installation-de-gaz-de-vridi_65395",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-31T13:54:00Z",
-   "symbols": [],
-   "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "sika-65391",
-   "title": "Jean Damascène NIGNAN, DG UAB Vie : ‘’Notre ambition est de passer d’une logique de reconquête à une logique de leadership durable’’",
-   "summary": "Jean Damascène NIGNAN, Directeur général de UAB Vie : Notre ambition est de passer d'une logique de reconquête à une lo...",
-   "url": "https://www.sikafinance.com/marches/jean-damascene-nignan-dg-uab-vie-notre-ambition-est-de-passer-dune-logique-de-reconquete-a-une-logique-de-leadership-durable_65391",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-31T07:13:00Z",
-   "symbols": [],
-   "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "sika-65390",
-   "title": "Blanchiment de capitaux : La Côte d’Ivoire officiellement retirée de la liste grise du GAFI",
-   "summary": "Le Groupe d'action financière (GAFI) a officiellement acté, ce vendredi 30 octobre 2026 à Paris, le retrait de la C&oci...",
-   "url": "https://www.sikafinance.com/marches/blanchiment-de-capitaux-la-cote-divoire-officiellement-retiree-de-la-liste-grise-du-gafi_65390",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-30T19:24:00Z",
-   "symbols": [],
-   "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "sika-65388",
-   "title": "France : La police interpelle un ado de 16 ans lié au vol de données du fisc",
-   "summary": "Trois mois après l'incident informatique, la cyberattaque contre le fisc français livre ses secrets. Selon des i...",
-   "url": "https://www.sikafinance.com/marches/france-la-police-interpelle-un-ado-de-16-ans-lie-au-vol-de-donnees-du-fisc_65388",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-10-30T17:24:00Z",
    "symbols": [],
    "status": "done",
    "tries": 1
