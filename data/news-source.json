@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-24T10:15:31.946Z",
+ "updatedAt": "2026-11-24T10:30:31.535Z",
  "items": [
+  {
+   "id": "sika-65906",
+   "title": "Côte d’Ivoire : AGF, FIN’Elle et HEC Paris s’unissent pour former 105 femmes entrepreneures",
+   "summary": "Pour propulser l'entrepreneuriat féminin sur le continent africain, l'African Guarantee Fund, acteur incontournable de ...",
+   "url": "https://www.sikafinance.com/marches/cote-divoire-agf-finelle-et-hec-paris-sunissent-pour-former-105-femmes-entrepreneures_65906",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-24T10:03:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "gn-1apynbn",
    "title": "Air Liquide Côte d'Ivoire (SIVC) — BRVM",
@@ -4309,22 +4323,6 @@
    "publishedAt": "2026-10-30T12:18:00Z",
    "symbols": [
     "PRSC"
-   ],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "gn-1l1iy5j",
-   "title": "BRVM : le fractionnement du titre Sonatel dope l’intérêt des investisseurs",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZjdiRmFsRHNLZUk0MlFXOEFGYkg1OVIwdmZQcWVvSldYak8tUV9raUIwQUt6OVFIQkxIMWNQUFBsWFZIbGVHajlOVkhSSVlVT1ZMN3REaWgwZHBudlFsX3hYNC0wTjFCdkw1RGNGYkt5REpiTklHUmo0bnJhRGhqRnhod2N6UlBDVFdjQXBfdy1JS3NubWUzcGliQnljaFk?oc=5",
-   "image": null,
-   "source": "Forbes Afrique",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-10-28T07:00:00.000Z",
-   "symbols": [
-    "SNTS"
    ],
    "status": "new",
    "tries": 0

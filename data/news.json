@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-24T10:15:31.948Z",
+ "updatedAt": "2026-11-24T10:30:31.538Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -17,6 +17,30 @@
     "19 PAGES"
    ],
    "pinned": true
+  },
+  {
+   "id": "sika-65906",
+   "title": "Côte d’Ivoire : un partenariat pour former 105 femmes entrepreneures",
+   "summary": "L'African Guarantee Fund, FIN'Elle et HEC Paris lancent une nouvelle cohorte du programme HEC Stand Up pour soutenir l'entrepreneuriat féminin en Côte d'Ivoire.",
+   "body": [
+    "Le 5 novembre 2026, l'African Guarantee Fund, FIN'Elle et HEC Paris ont officialisé un partenariat à Abidjan pour déployer le programme certifiant HEC Stand Up. Cette initiative, qui s'inscrit dans le cadre du dispositif AFAWA de la Banque africaine de développement, vise à accompagner 105 femmes entrepreneures ivoiriennes. L'appel à candidatures pour cette nouvelle promotion a été ouvert le 10 novembre 2026.",
+    "Ce programme gratuit de 10 semaines, structuré en trois étapes, cherche à lever les obstacles structurels et financiers auxquels font face les dirigeantes de PME. Après une phase pilote réussie en 2025 ayant permis de certifier 15 femmes, les partenaires souhaitent désormais renforcer les compétences de gestion et l'accès au financement des entrepreneures locales pour favoriser leur autonomie économique."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65906",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-24T10:03:00Z",
+   "writtenAt": "2026-11-24T10:30:31.535Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/cote-divoire-agf-finelle-et-hec-paris-sunissent-pour-former-105-femmes-entrepreneures_65906",
+    "title": "Côte d’Ivoire : AGF, FIN’Elle et HEC Paris s’unissent pour former 105 femmes entrepreneures"
+   },
+   "rewritten": true
   },
   {
    "id": "sika-65898",
@@ -3746,30 +3770,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/cote-divoire-40-ans-apres-sa-creation-petroci-va-ouvrir-au-public-les-portes-de-son-laboratoire-strategique-lors-du-sirexe_65679",
     "title": "Côte d’Ivoire : 40 ans après sa création, PETROCI va ouvrir au public les portes de son laboratoire stratégique lors du SIREXE"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "gn-1t6xarq",
-   "title": "Repli de 1,74 % pour l'indice BRVM Composite ce 11 novembre 2026",
-   "summary": "La séance de cotation du 11 novembre 2026 s'est soldée par une baisse de 1,74 % de l'indice BRVM Composite, malgré une dynamique positive observée sur certaines valeurs.",
-   "body": [
-    "Le marché financier régional a clôturé la journée du 11 novembre 2026 sur une note négative. L'indice BRVM Composite a en effet enregistré un recul de 1,74 % au terme des échanges.",
-    "Cette tendance baissière globale est survenue en dépit de la bonne tenue de plusieurs titres, qui ont affiché une certaine vitalité au cours de la séance."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#gn-1t6xarq",
-   "image": null,
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-11-11T18:48:00.000Z",
-   "writtenAt": "2026-11-11T22:52:56.530Z",
-   "symbols": [],
-   "origin": {
-    "name": "Pressafrik",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSmdXWFlpRHFTYWREZFZDNWZLWVhQV19ZQXJPdlZoREJuRGVBd0tHV0Fra0N0QWZxc0R4Z3lhT0UteGQ5dXdranBnaHJ4QlpxLWw4R2RGWWppeUR0aWd3QW90WHRSVlJheXFkS1RYS2FnSDdEc2UwV3N3UVkwQ2pLdEZBVnNzQ256LVRjb3F2NlZsN2ZEMzhoOVU5NVVQS1h0UVF4bzBqVVdaQnFuU091MWR4UGVjTzBBWkg3WG5lT1VoMG9KZmMwMU1GOUdBWE1Meng1Vw?oc=5",
-    "title": "​Bourse régionale : Le BRVM Composite en baisse de 1,74 % malgré la vitalité de certains titres"
    },
    "rewritten": true
   }
