@@ -1,50 +1,50 @@
 {
- "updatedAt": "2026-11-24T11:00:23.125Z",
+ "updatedAt": "2026-11-24T11:15:23.535Z",
  "sessionDate": "2026-11-24",
- "sessionTime": "10:45",
+ "sessionTime": "11:02",
  "source": "brvm.org",
- "transactionsValue": 442866641,
- "capitalisationActions": 18329249170342,
+ "transactionsValue": 543770211,
+ "capitalisationActions": 18382990806585,
  "capitalisationBonds": 13419743433771,
  "advancing": 5,
- "declining": 36,
- "unchanged": 7,
- "totalVolume": 442523,
+ "declining": 34,
+ "unchanged": 9,
+ "totalVolume": 504812,
  "gainers": [
   {
-   "symbol": "SCRC",
-   "shortName": "Sucrivoire CI",
-   "close": 1250,
-   "change": 1.63,
-   "volume": 935
-  },
-  {
-   "symbol": "UNXC",
-   "shortName": "Uniwax CI",
-   "close": 1720,
-   "change": 1.18,
-   "volume": 860
+   "symbol": "SNTS",
+   "shortName": "Sonatel",
+   "close": 3950,
+   "change": 1.28,
+   "volume": 66782
   },
   {
    "symbol": "BOAC",
    "shortName": "BOA Côte d’Ivoire",
    "close": 10600,
    "change": 0.95,
-   "volume": 2104
-  },
-  {
-   "symbol": "SPHC",
-   "shortName": "SAPH CI",
-   "close": 7550,
-   "change": 0.6,
-   "volume": 680
+   "volume": 2106
   },
   {
    "symbol": "SOGC",
    "shortName": "SOGB CI",
-   "close": 7160,
+   "close": 7200,
+   "change": 0.63,
+   "volume": 201
+  },
+  {
+   "symbol": "UNXC",
+   "shortName": "Uniwax CI",
+   "close": 1705,
+   "change": 0.29,
+   "volume": 893
+  },
+  {
+   "symbol": "BOAS",
+   "shortName": "BOA Sénégal",
+   "close": 7605,
    "change": 0.07,
-   "volume": 171
+   "volume": 3965
   }
  ],
  "losers": [
@@ -53,72 +53,72 @@
    "shortName": "Erium CI",
    "close": 1480,
    "change": -7.5,
-   "volume": 611
+   "volume": 766
   },
   {
-   "symbol": "STAC",
-   "shortName": "SETAO CI",
-   "close": 2020,
-   "change": -7.34,
-   "volume": 530
-  },
-  {
-   "symbol": "CABC",
-   "shortName": "Sicable CI",
-   "close": 2540,
-   "change": -6.45,
-   "volume": 127
+   "symbol": "NSBC",
+   "shortName": "NSIA Banque CI",
+   "close": 14005,
+   "change": -6.63,
+   "volume": 528
   },
   {
    "symbol": "SIBC",
    "shortName": "Société Ivoirienne de Banque",
    "close": 7775,
    "change": -6.27,
-   "volume": 334
+   "volume": 1155
   },
   {
    "symbol": "CBIBF",
    "shortName": "Coris Bank International",
-   "close": 23970,
-   "change": -5.8,
-   "volume": 717
+   "close": 23950,
+   "change": -5.88,
+   "volume": 787
+  },
+  {
+   "symbol": "ETIT",
+   "shortName": "Ecobank Transnational (ETI)",
+   "close": 50,
+   "change": -5.66,
+   "volume": 399802
   }
  ],
  "mostActive": [
   {
    "symbol": "SNTS",
    "shortName": "Sonatel",
-   "close": 3855,
-   "change": -1.15,
-   "volume": 54656
+   "close": 3950,
+   "change": 1.28,
+   "volume": 66782
+  },
+  {
+   "symbol": "BOAS",
+   "shortName": "BOA Sénégal",
+   "close": 7605,
+   "change": 0.07,
+   "volume": 3965
   },
   {
    "symbol": "BBGC",
    "shortName": "Bridge Bank Group CI",
-   "close": 7740,
-   "change": -3.25,
-   "volume": 3441
+   "close": 7735,
+   "change": -3.31,
+   "volume": 3687
   },
   {
    "symbol": "SGBC",
    "shortName": "Société Générale CI",
-   "close": 37535,
-   "change": -0.2,
-   "volume": 709
+   "close": 37550,
+   "change": -0.16,
+   "volume": 750
   },
   {
    "symbol": "BOAC",
    "shortName": "BOA Côte d’Ivoire",
    "close": 10600,
    "change": 0.95,
-   "volume": 2104
-  },
-  {
-   "symbol": "BOAS",
-   "shortName": "BOA Sénégal",
-   "close": 7600,
-   "change": 0,
-   "volume": 2886
+   "volume": 2106
   }
  ]
 }
