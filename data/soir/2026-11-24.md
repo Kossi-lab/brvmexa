@@ -1,7 +1,7 @@
 # BRVMexa Soir — mardi 24 novembre 2026
 
-> Script généré automatiquement le 2026-11-24 à 18:00 GMT à partir des données publiées (source des cours : brvm.org, données différées).
-> **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 3,8 minutes (573 mots).
+> Script généré automatiquement le 2026-11-24 à 18:16 GMT à partir des données publiées (source des cours : brvm.org, données différées).
+> **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 3,7 minutes (561 mots).
 
 ## 0:00 · Générique
 
@@ -39,7 +39,7 @@ La période de souscription est ouverte du 30 novembre au 4 décembre 2026. Le p
 Retrouvez l’article complet dans la rubrique À la une de BRVMexa.
 En bref :
 Tullow Oil trouve un accord avec le Ghana pour solder un litige fiscal. Le géant pétrolier Tullow Oil a signé un accord avec le gouvernement ghanéen pour résoudre un différend fiscal de 387 millions de dollars.
-Nigeria : Dangote obtient le feu vert pour augmenter son offre boursière. Le régulateur nigérian a validé l'augmentation du nombre d'actions de l'IPO de Dangote Petroleum Refinery pour répondre à une forte sursouscription.
+Massetou Traoré prend la tête de CREDAF GROUP et de ses filiales. CREDAF GROUP confie sa direction générale à Massetou Traoré.
 
 ## 3:15 · Le mot de la fin
 

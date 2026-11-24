@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-24T18:00:45.481Z",
+ "updatedAt": "2026-11-24T18:16:17.960Z",
  "items": [
   {
    "id": "sika-65922",
@@ -88,8 +88,8 @@
    "premium": false,
    "publishedAt": "2026-11-24T16:53:00Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65919",
@@ -102,8 +102,8 @@
    "premium": false,
    "publishedAt": "2026-11-24T16:47:00Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
+   "status": "skip",
+   "tries": 1
   },
   {
    "id": "sika-65917",
@@ -146,8 +146,8 @@
    "symbols": [
     "CBIBF"
    ],
-   "status": "new",
-   "tries": 0
+   "status": "skip",
+   "tries": 1
   },
   {
    "id": "sika-65915",

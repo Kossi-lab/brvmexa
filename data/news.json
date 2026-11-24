@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-24T18:00:45.484Z",
+ "updatedAt": "2026-11-24T18:16:17.963Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -126,6 +126,33 @@
     "name": "BENIN WEB TV",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMXBVNHhNY2tDdzRJUVhlSHVKMjFtcUp6NXZUSHdqbFkxQ0JiMFFVWWF6VFJWTDB6V2NBa3N5OVZDNTl6ZTdjWXhzT2lHTzB5ZkhqRm5rTXVjNm9XUkZIbG51NjlJT1BPZTRlRE9fUlVzbGFpcHBUQ1RGVmxzQ0cxMVJR?oc=5",
     "title": "BRVM : Coris Bank Bénin met 20 % de son capital en vente à 4 700 FCFA l’action"
+   },
+   "rewritten": true
+  },
+  {
+   "id": "sika-65920",
+   "title": "Massetou Traoré prend la tête de CREDAF GROUP et de ses filiales",
+   "summary": "CREDAF GROUP confie sa direction générale à Massetou Traoré. Elle pilotera la stratégie de croissance du groupe et de ses sept filiales Alios Finance.",
+   "body": [
+    "La holding financière panafricaine CREDAF GROUP, établie à Abidjan, a officialisé l'arrivée de Massetou Traoré au poste de Directrice générale. Sa mission englobe l'ensemble des activités de la structure, y compris les entités d'Alios Finance présentes dans sept pays africains, à savoir le Burkina Faso, le Cameroun, la Côte d'Ivoire, le Gabon, le Mali, le Sénégal et la Tunisie.",
+    "La nouvelle dirigeante apporte un parcours de plus de 18 ans dans le secteur financier, forgé au sein d'établissements bancaires internationaux et régionaux. Elle a notamment exercé des fonctions de direction et des responsabilités régionales pour Citibank et le groupe Ecobank en Afrique de l'Ouest et centrale, avant d'exercer en tant que Directrice Générale Adjointe de NSIA Banque Côte d'Ivoire. Sur le plan académique, elle est diplômée de l'ESG Paris, titulaire d'un MSc en Finance and Investment Management du Robert Kennedy College et de l'Université de Salford, ainsi que d'un certificat exécutif d'HEC Paris.",
+    "Sa feuille de route consiste à accroître la performance financière et opérationnelle des filiales, à consolider la gouvernance, à nouer des partenariats stratégiques et à stimuler l'innovation pour les clients. Cette transition s'inscrit dans la dynamique de transformation du groupe amorcée depuis l'intégration des entités Alios Finance en avril 2025."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65920",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-24T16:53:00Z",
+   "writtenAt": "2026-11-24T18:15:47.416Z",
+   "symbols": [
+    "NSBC"
+   ],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/massetou-traore-nommee-directrice-generale-de-credaf-group_65920",
+    "title": "Massetou Traoré nommée Directrice générale de CREDAF GROUP"
    },
    "rewritten": true
   },
@@ -3753,30 +3780,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/brvm-les-banques-portent-leurs-benefices-a-plus-de-680-milliards-fcfa-a-fin-septembre-2026_65690",
     "title": "BRVM : Les banques portent leurs bénéfices à plus de 680 milliards FCFA à fin septembre 2026"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65687",
-   "title": "Le marché du travail ivoirien enregistre une progression marquée de l'emploi",
-   "summary": "L'économie ivoirienne affiche une dynamique positive sur le front de l'emploi, avec une croissance significative du nombre de travailleurs recensés sur une période de six ans.",
-   "body": [
-    "Le marché de l'emploi en Côte d'Ivoire connaît une embellie notable. Selon les données disponibles, le pays compte désormais 13,28 millions de personnes en activité professionnelle.",
-    "Cette statistique témoigne d'une progression de 55 % du volume total d'emplois sur une période de six ans, illustrant une évolution importante de la structure du marché du travail national."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65687",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-12T17:51:00Z",
-   "writtenAt": "2026-11-12T18:55:32.627Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/cote-divoire-13-28-millions-de-personnes-en-emploi-une-hausse-de-55-en-6-ans_65687",
-    "title": "Côte d’Ivoire : 13,28 millions de personnes en emploi, une hausse de 55% en 6 ans"
    },
    "rewritten": true
   }
