@@ -1,50 +1,50 @@
 {
- "updatedAt": "2026-11-24T14:00:21.524Z",
+ "updatedAt": "2026-11-24T14:15:20.800Z",
  "sessionDate": "2026-11-24",
- "sessionTime": "13:45",
+ "sessionTime": "14:02",
  "source": "brvm.org",
- "transactionsValue": 1992549010,
- "capitalisationActions": 18462599184140,
+ "transactionsValue": 2120173352,
+ "capitalisationActions": 18453594286484,
  "capitalisationBonds": 13419743433771,
- "advancing": 7,
- "declining": 35,
- "unchanged": 6,
- "totalVolume": 1544829,
+ "advancing": 10,
+ "declining": 30,
+ "unchanged": 8,
+ "totalVolume": 1802758,
  "gainers": [
+  {
+   "symbol": "TTLC",
+   "shortName": "TotalEnergies Marketing CI",
+   "close": 3010,
+   "change": 7.31,
+   "volume": 7175
+  },
+  {
+   "symbol": "STAC",
+   "shortName": "SETAO CI",
+   "close": 2300,
+   "change": 5.5,
+   "volume": 10303
+  },
   {
    "symbol": "BICB",
    "shortName": "BIIC Bénin",
    "close": 7300,
    "change": 5.04,
-   "volume": 6819
-  },
-  {
-   "symbol": "BICC",
-   "shortName": "BICI Côte d’Ivoire",
-   "close": 30985,
-   "change": 3.98,
-   "volume": 1709
+   "volume": 6878
   },
   {
    "symbol": "SCRC",
    "shortName": "Sucrivoire CI",
-   "close": 1270,
-   "change": 3.25,
-   "volume": 5361
+   "close": 1280,
+   "change": 4.07,
+   "volume": 5940
   },
   {
-   "symbol": "STAC",
-   "shortName": "SETAO CI",
-   "close": 2240,
-   "change": 2.75,
-   "volume": 9689
-  },
-  {
-   "symbol": "LNBB",
-   "shortName": "Loterie Nationale du Bénin",
-   "close": 3850,
-   "change": 2.39,
-   "volume": 1342
+   "symbol": "SDSC",
+   "shortName": "Africa Global Logistics CI",
+   "close": 2650,
+   "change": 3.92,
+   "volume": 12169
   }
  ],
  "losers": [
@@ -56,11 +56,11 @@
    "volume": 883
   },
   {
-   "symbol": "NEIC",
-   "shortName": "NEI-CEDA CI",
-   "close": 1630,
-   "change": -7.39,
-   "volume": 2744
+   "symbol": "SLBC",
+   "shortName": "Solibra CI",
+   "close": 36080,
+   "change": -7.49,
+   "volume": 596
   },
   {
    "symbol": "CABC",
@@ -74,7 +74,7 @@
    "shortName": "Servair Abidjan",
    "close": 2590,
    "change": -7.33,
-   "volume": 1232
+   "volume": 1557
   },
   {
    "symbol": "FTSC",
@@ -88,37 +88,37 @@
   {
    "symbol": "SNTS",
    "shortName": "Sonatel",
-   "close": 3890,
-   "change": -0.26,
-   "volume": 160022
+   "close": 3895,
+   "change": -0.13,
+   "volume": 164337
   },
   {
    "symbol": "SGBC",
    "shortName": "Société Générale CI",
-   "close": 37500,
-   "change": -0.29,
-   "volume": 8137
+   "close": 37550,
+   "change": -0.16,
+   "volume": 8507
   },
   {
    "symbol": "BBGC",
    "shortName": "Bridge Bank Group CI",
-   "close": 7600,
-   "change": -5,
-   "volume": 15089
+   "close": 7580,
+   "change": -5.25,
+   "volume": 18488
   },
   {
    "symbol": "BOAC",
    "shortName": "BOA Côte d’Ivoire",
    "close": 10590,
    "change": 0.86,
-   "volume": 9772
+   "volume": 9960
   },
   {
    "symbol": "SIBC",
    "shortName": "Société Ivoirienne de Banque",
-   "close": 8000,
-   "change": -3.56,
-   "volume": 11393
+   "close": 8100,
+   "change": -2.35,
+   "volume": 11649
   }
  ]
 }
