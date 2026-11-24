@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-24T17:47:01.318Z",
+ "updatedAt": "2026-11-24T18:00:45.484Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -100,6 +100,32 @@
     "name": "Banouto.bj",
     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTFZIcjRUVWpmRGVZQmF0MjNqanozQmM5UTVDdXkyM0txQ19WZG00UFJ6bUdnQ1d5eDJhMDJtR0k4ZWtBUmZsUEFJSVlDSjQwdVpKd3VrNE1fb0lmRjdrUXV5bnFFcVJlSEx2VVdRdG1zeEZaOEFxODlPWG02UUdzOHJteFp2TmlxdDJqVTNYbldLLTZ3bkhSYWZfemsySzZ5UThzcUdlajc4dEpyRkdFTEo5c0NFNlVVN2NqWU5vaDJnT0FCSlNVSktVX0pnMEwtLXVYR3N2bFBJdjkxcDFYblBfRQ?oc=5",
     "title": "Coris Bank Bénin ouvre 20 % de son capital aux investisseurs, devenez actionnaire à partir de 4500 FCFA"
+   },
+   "rewritten": true
+  },
+  {
+   "id": "gn-qmzevy",
+   "title": "Coris Bank Bénin lance son introduction en bourse sur la BRVM",
+   "summary": "Coris Bank Bénin met en vente 20 % de son capital sur le marché financier régional au prix unitaire de 4 700 FCFA.",
+   "body": [
+    "La filiale béninoise du groupe bancaire Coris propose aux investisseurs de participer à son capital dans le cadre d'une opération sur le marché financier régional. Cette mise en vente porte sur 20 % de ses actions.",
+    "Pour cette opération financière enregistrée le 24 novembre 2026, le prix d'acquisition a été fixé à 4 700 FCFA par titre."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#gn-qmzevy",
+   "image": null,
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-24T16:57:11.000Z",
+   "writtenAt": "2026-11-24T18:00:32.438Z",
+   "symbols": [
+    "CBIBF"
+   ],
+   "origin": {
+    "name": "BENIN WEB TV",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMXBVNHhNY2tDdzRJUVhlSHVKMjFtcUp6NXZUSHdqbFkxQ0JiMFFVWWF6VFJWTDB6V2NBa3N5OVZDNTl6ZTdjWXhzT2lHTzB5ZkhqRm5rTXVjNm9XUkZIbG51NjlJT1BPZTRlRE9fUlVzbGFpcHBUQ1RGVmxzQ0cxMVJR?oc=5",
+    "title": "BRVM : Coris Bank Bénin met 20 % de son capital en vente à 4 700 FCFA l’action"
    },
    "rewritten": true
   },
@@ -3751,30 +3777,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/cote-divoire-13-28-millions-de-personnes-en-emploi-une-hausse-de-55-en-6-ans_65687",
     "title": "Côte d’Ivoire : 13,28 millions de personnes en emploi, une hausse de 55% en 6 ans"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65685",
-   "title": "Côte d’Ivoire : Vaalco lance la deuxième phase d'exploration du bloc offshore CI-705",
-   "summary": "L'opérateur américain Vaalco a reçu le feu vert des autorités ivoiriennes pour entamer une nouvelle étape d'exploration sur le bloc CI-705, incluant un forage prévu d'ici fin 2028.",
-   "body": [
-    "La compagnie pétrolière américaine Vaalco, qui détient 70 % du bloc CI-705, a obtenu l'autorisation du gouvernement ivoirien pour passer à la seconde phase de ses travaux. Après une période initiale dédiée à l'analyse sismique et aux données géologiques, ce nouveau programme vise à affiner les cibles avant la réalisation d'un forage exploratoire, programmé au plus tard pour la fin de l'année 2028.",
-    "Ce projet, mené en partenariat avec la société ivoirienne ICE Oil & Gas et la PETROCI, s'inscrit dans la stratégie de développement de Vaalco en Côte d'Ivoire. Si les études préliminaires ont renforcé l'optimisme de l'opérateur, le forage demeure l'étape décisive pour confirmer la viabilité commerciale d'un éventuel gisement dans cette zone située à proximité des champs de Baobab et de Kossipo."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65685",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-12T17:22:00Z",
-   "writtenAt": "2026-11-12T17:54:58.119Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/cote-divoire-vaalco-obtient-le-feu-vert-de-l-etat-pour-la-deuxieme-phase-dexploration-du-bloc-ci-705_65685",
-    "title": "Côte d’Ivoire : Vaalco obtient le feu vert de l'Etat pour la deuxième phase d’exploration du bloc CI-705"
    },
    "rewritten": true
   }

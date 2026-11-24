@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-24T17:47:01.314Z",
+ "updatedAt": "2026-11-24T18:00:45.481Z",
  "items": [
   {
    "id": "sika-65922",
@@ -38,7 +38,7 @@
    "source": "Financial Afrik",
    "category": "Presse",
    "premium": false,
-   "publishedAt": "2026-11-24T17:07:37.000Z",
+   "publishedAt": "2026-11-24T17:09:30.000Z",
    "symbols": [
     "CBIBF"
    ],
@@ -74,8 +74,8 @@
    "symbols": [
     "CBIBF"
    ],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "sika-65920",
