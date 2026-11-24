@@ -1,6 +1,34 @@
 {
- "updatedAt": "2026-11-24T17:16:05.935Z",
+ "updatedAt": "2026-11-24T17:31:16.759Z",
  "items": [
+  {
+   "id": "sika-65922",
+   "title": "Ghana : Tullow Oil conclut un accord avec l’État pour régler un litige fiscal de 387 millions USD",
+   "summary": "Tullow Oil tourne une page importante de son bras de fer fiscal avec les autorités ghanéennes. En effet, le groupe pétr...",
+   "url": "https://www.sikafinance.com/marches/ghana-tullow-oil-conclut-un-accord-avec-letat-pour-regler-un-litige-fiscal-de-387-millions-usd_65922",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-24T17:22:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "sika-65921",
+   "title": "BRVM : La pression retombe d’un cran, TotalEnergies Marketing CI s’illustre",
+   "summary": "La BRVM achève la séance de ce mardi dans une dynamique nettement plus calme que celle observée à l'ouverture de ...",
+   "url": "https://www.sikafinance.com/marches/brvm-la-pression-retombe-dun-cran-totalenergies-marketing-ci-sillustre_65921",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-24T17:12:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "gn-1ytmkcj",
    "title": "Après la Côte d’Ivoire, Coris Bank International Bénin se lance à la conquête de la BRVM",
@@ -30,8 +58,8 @@
    "symbols": [
     "CBIBF"
    ],
-   "status": "new",
-   "tries": 0
+   "status": "done",
+   "tries": 1
   },
   {
    "id": "gn-qmzevy",
@@ -4298,34 +4326,6 @@
    "symbols": [
     "SDCC"
    ],
-   "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "sika-65402",
-   "title": "Avec la Banque africaine de l’énergie, l’Afrique reprend en main le financement de ses ressources pétrogazières",
-   "summary": "Dotée d'un capital autorisé de 5 milliards de dollars, la nouvelle institution doit financer des projets allant d...",
-   "url": "https://www.sikafinance.com/marches/avec-la-banque-africaine-de-lenergie-lafrique-reprend-en-main-le-financement-de-ses-ressources-petrogazieres_65402",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-01T08:26:00Z",
-   "symbols": [],
-   "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "gn-1yhz37v",
-   "title": "Le patron de la BRVM reçoit la plus haute distinction de l’Université Laval",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQWJ4Yi1SQjVPdUdHWklaTmUtZnBsQXQ2SG1KWm50LWdJcndHRy03Z21jTlJ4V3pUdXdXdm83OWdILWdkSGVhbTBPdVpNMU1Jck9RbUhSOFdfa1lqM3hYekxHbmVHSmJobnMwa2p6VDZUM2Z0Y3BySGJBRFhsVk1JQmlXS0E1Ym5kZUhydVlCaUxDRWtDLUY2RjUwQXFYLUh5U2p6TXVld00ycDExQVhQQjBPeDhYZ042MFJnVVd1N0lWTXhqWVNxZm1ldUFFWVdEZjJkNk5R?oc=5",
-   "image": null,
-   "source": "République Togolaise",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-11-01T07:00:00.000Z",
-   "symbols": [],
    "status": "done",
    "tries": 1
   }
