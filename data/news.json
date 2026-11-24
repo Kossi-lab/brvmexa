@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-24T10:30:31.538Z",
+ "updatedAt": "2026-11-24T10:45:31.193Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -17,6 +17,32 @@
     "19 PAGES"
    ],
    "pinned": true
+  },
+  {
+   "id": "sika-65907",
+   "title": "Orange Côte d'Ivoire mise sur les mini-grids pour désenclaver les zones rurales",
+   "summary": "Lors du SIREXE 2026, Orange Côte d'Ivoire a présenté sa stratégie utilisant les mini-réseaux solaires pour fournir simultanément électricité et connectivité aux zones isolées du pays.",
+   "body": [
+    "Le 20 novembre 2026, lors du Salon international des ressources extractives et énergétiques, Rolly Ehouman, directeur technique d'Orange Côte d'Ivoire, a exposé l'intérêt des systèmes décentralisés appelés mini-grids. Ces installations autonomes, combinant panneaux solaires et antennes télécoms, permettent de desservir les 4% de la population ivoirienne encore privés d'accès au réseau électrique national et à une connexion mobile stable.",
+    "Face aux coûts élevés de l'extension des réseaux classiques, Orange mise sur le paiement à l'usage via mobile money. Ce modèle permet aux ménages ruraux de régler leur consommation électrique selon leurs moyens, tout en offrant aux investisseurs une sécurité accrue grâce au verrouillage à distance des équipements en cas d'impayé. Cette synergie technologique vise à favoriser l'inclusion numérique et économique dans les localités les plus enclavées."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65907",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-24T10:25:00Z",
+   "writtenAt": "2026-11-24T10:45:31.190Z",
+   "symbols": [
+    "ORAC"
+   ],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/energie-et-telecoms-comment-orange-ci-utilise-les-mini-grids-pour-apporter-electricite-et-internet-aux-localites-enclavees_65907",
+    "title": "Énergie et télécoms : Comment Orange CI utilise les mini-grids pour apporter électricité et Internet aux localités enclavées"
+   },
+   "rewritten": true
   },
   {
    "id": "sika-65906",
@@ -3745,31 +3771,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/recherche-scientifique-avec-seulement-82-chercheurs-parmi-lelite-mondiale-lafrique-francophone-subsaharienne-fait-moins-que-le-ghana_65673",
     "title": "Recherche scientifique : Avec seulement 82 chercheurs parmi l’élite mondiale, l’Afrique francophone subsaharienne fait moins que le Ghana"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65679",
-   "title": "Le Centre d'analyses de PETROCI ouvre ses portes au public lors du SIREXE",
-   "summary": "À l'occasion du SIREXE qui se tiendra à Abidjan du 18 au 22 novembre 2026, le Centre d'analyses et de recherche de PETROCI dévoilera ses activités scientifiques au grand public pour la première fois.",
-   "body": [
-    "Fondé en 1986, le Centre d'analyses et de recherche (CAR) de PETROCI célèbre cette année ses quarante ans d'existence. Habituellement restreinte aux professionnels du secteur pétrolier, cette infrastructure stratégique située à Yopougon sera accessible aux visiteurs lors du Salon international des ressources extractives et de l'énergie (SIREXE).",
-    "Le CAR joue un rôle pivot dans la chaîne de valeur pétrolière ivoirienne en se spécialisant dans l'étude des gisements, la conservation de la mémoire géologique via sa carothèque et le contrôle de la qualité des produits énergétiques tels que les carburants, le gaz et les lubrifiants. Depuis sa création, l'entité a vu ses effectifs passer de six agents à 58 collaborateurs experts, étendant son influence technique au-delà des frontières ivoiriennes, notamment au Ghana, au Liberia, au Bénin, au Congo et au Brésil.",
-    "Cette vitrine permettra de mettre en lumière le travail technique indispensable à l'exploration et à la sécurité industrielle. En plus de ses missions pour les compagnies pétrolières internationales, le centre diversifie ses prestations pour répondre aux besoins des secteurs minier, gazier et du BTP, illustrant ainsi l'évolution des compétences nationales au service du développement économique ivoirien."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65679",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-12T10:10:00Z",
-   "writtenAt": "2026-11-12T14:12:42.774Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/cote-divoire-40-ans-apres-sa-creation-petroci-va-ouvrir-au-public-les-portes-de-son-laboratoire-strategique-lors-du-sirexe_65679",
-    "title": "Côte d’Ivoire : 40 ans après sa création, PETROCI va ouvrir au public les portes de son laboratoire stratégique lors du SIREXE"
    },
    "rewritten": true
   }

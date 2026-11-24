@@ -1,6 +1,22 @@
 {
- "updatedAt": "2026-11-24T10:30:31.535Z",
+ "updatedAt": "2026-11-24T10:45:31.191Z",
  "items": [
+  {
+   "id": "sika-65907",
+   "title": "Énergie et télécoms : Comment Orange CI utilise les mini-grids pour apporter électricité et Internet aux localités enclavées",
+   "summary": "La convergence entre le hors réseau et les mini-réseaux est une alternative concrète pour bâtir des systèmes déce...",
+   "url": "https://www.sikafinance.com/marches/energie-et-telecoms-comment-orange-ci-utilise-les-mini-grids-pour-apporter-electricite-et-internet-aux-localites-enclavees_65907",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-24T10:25:00Z",
+   "symbols": [
+    "ORAC"
+   ],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65906",
    "title": "Côte d’Ivoire : AGF, FIN’Elle et HEC Paris s’unissent pour former 105 femmes entrepreneures",
@@ -4308,22 +4324,6 @@
    "premium": false,
    "publishedAt": "2026-10-30T13:30:00Z",
    "symbols": [],
-   "status": "new",
-   "tries": 0
-  },
-  {
-   "id": "sika-65373",
-   "title": "Tractafric Motors CI : La croissance de l'activité ne suffit pas à soutenir le bénéfice au 1er semestre 2026",
-   "summary": "Tractafric Motors Côte d'Ivoire affiche une activité en progression au premier semestre 2026, avec une améliorati...",
-   "url": "https://www.sikafinance.com/marches/tractafric-motors-ci-la-croissance-de-l-activite-ne-suffit-pas-a-soutenir-le-benefice-au-1er-semestre-2026_65373",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": true,
-   "publishedAt": "2026-10-30T12:18:00Z",
-   "symbols": [
-    "PRSC"
-   ],
    "status": "new",
    "tries": 0
   }
