@@ -17,6 +17,7 @@ import { updateUne } from './une.mjs';
 import { writeArticlePages } from './pages.mjs';
 import { writeStockPages } from './stocks.mjs';
 import { writeSitemap, pingIndexNow } from './sitemap.mjs';
+import { writeSoir } from './soir.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..', '..');
 const DATA = process.env.DATA_DIR ?? path.join(ROOT, 'data');
@@ -281,6 +282,8 @@ async function main() {
     .then((r) => fresh.push(...(r.urls ?? []))).catch((e) => log('Pages d’article : reportées :', e.message));
   if (only !== 'news') await writeStockPages({ dataDir: DATA, docsDir: DOCS, tplDir: TPL, log })
     .catch((e) => log('Fiches actions : reportées :', e.message));
+  // BRVMexa Soir : script du journal de la séance (erreur non bloquante)
+  if (only !== 'news') await writeSoir(DATA, { log }).catch((e) => log('BRVMexa Soir : reporté :', e.message));
   const sm = await writeSitemap({ dataDir: DATA, docsDir: DOCS, tplDir: TPL, log }).catch((e) => { log('Sitemap : reporté :', e.message); return null; });
   if (sm) await pingIndexNow([...fresh, ...sm.added, ...sm.unsent], { log, sentFile: sm.sentFile, sent: sm.sent });
   await writeJson(path.join(DATA, 'status.json'), {
