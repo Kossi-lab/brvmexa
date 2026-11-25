@@ -1,6 +1,34 @@
 {
- "updatedAt": "2026-11-25T09:15:23.142Z",
+ "updatedAt": "2026-11-25T09:31:55.118Z",
  "items": [
+  {
+   "id": "sika-65932",
+   "title": "Rising African Content : De l’ambition du contenu local aux contrats, aux financements et aux résultats",
+   "summary": "Lancée à Abidjan à l'occasion du SIREXE 2026, Rising African Content (RAC) entend transformer la préférence africaine en...",
+   "url": "https://www.sikafinance.com/marches/rising-african-content-de-lambition-du-contenu-local-aux-contrats-aux-financements-et-aux-resultats_65932",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-25T09:19:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "sika-65931",
+   "title": "Nigeria : Malgré le recul de l’inflation, la Banque centrale maintient son taux directeur à 23 %",
+   "summary": "Alors que l'inflation nigériane poursuit son ralentissement depuis cinq mois, la Banque centrale du Nigeria (CBN) chois...",
+   "url": "https://www.sikafinance.com/marches/nigeria-malgre-le-recul-de-linflation-la-banque-centrale-maintient-son-taux-directeur-a-23-_65931",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-25T09:15:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65929",
    "title": "Souveraineté numérique : La BAD débloque 750 000 USD pour doter la CEDEAO d’une ambassade régionale des données en Sierra Leone",
@@ -4297,36 +4325,6 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-11-02T11:04:00Z",
-   "symbols": [],
-   "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "sika-65416",
-   "title": "Société Générale CI réalise un résultat net de 80 milliards FCFA à fin septembre 2026",
-   "summary": "Au terme des neuf premiers mois de 2026, Société Générale Côte d'Ivoire affiche des performances contrastées. La ...",
-   "url": "https://www.sikafinance.com/marches/societe-generale-ci-realise-un-resultat-net-de-80-milliards-fcfa-a-fin-septembre-2026_65416",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-02T10:54:00Z",
-   "symbols": [
-    "SGBC"
-   ],
-   "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "sika-65413",
-   "title": "Côte d’Ivoire : Perseus Mining, Air France, Port autonome d’Abidjan … ces entreprises qui ont réalisé les plus gros bénéfices en 2025",
-   "summary": "Dégager des bénéfices à la fin de chaque exercice est un objectif majeur pour toute entreprise. Mais si certaines peine...",
-   "url": "https://www.sikafinance.com/marches/cote-divoire-perseus-mining-air-france-port-autonome-dabidjan-ces-entreprises-qui-ont-realise-les-plus-gros-benefices-en-2025_65413",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": true,
-   "publishedAt": "2026-11-02T09:45:00Z",
    "symbols": [],
    "status": "done",
    "tries": 1

@@ -1,7 +1,7 @@
 # BRVMexa Soir — mercredi 25 novembre 2026
 
-> Script généré automatiquement le 2026-11-25 à 09:15 GMT à partir des données publiées (source des cours : brvm.org, données différées).
-> **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 3,0 minutes (446 mots).
+> Script généré automatiquement le 2026-11-25 à 09:31 GMT à partir des données publiées (source des cours : brvm.org, données différées).
+> **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 2,9 minutes (441 mots).
 
 ## 0:00 · Générique
 
@@ -29,8 +29,8 @@ La filiale béninoise du groupe Coris réalise une ouverture de capital historiq
 Cette démarche financière d'envergure positionne la filiale béninoise du groupe Coris parmi les acteurs très actifs du marché. Elle met en lumière la dynamique des institutions financières de la sous-région qui choisissent le marché boursier pour consolider leurs fonds propres.
 Retrouvez l’article complet dans la rubrique À la une de BRVMexa.
 En bref :
-La BAD finance une infrastructure de données régionale pour la CEDEAO en Sierra Leone. La Banque africaine de développement a accordé un don de 750 000 dollars pour soutenir la création d'une ambassade régionale des données en Sierra Leone, visant à renforcer la souveraineté numérique ouest-africaine.
-SIREXE 2026 : Orange Cloud & Cyber Solutions renforce la sécurité du réseau électrique ivoirien. Lors du SIREXE 2026, Orange Cloud & Cyber Solutions a présenté ses stratégies de cybersécurité pour protéger la transformation numérique du secteur électrique national face aux risques d'intrusions informatiques.
+Lancement de Rising African Content pour dynamiser le contenu local en Afrique. L'initiative panafricaine Rising African Content a été inaugurée à Abidjan lors du SIREXE 2026 pour favoriser l'accès des entreprises locales aux marchés et aux financements.
+Nigeria : La Banque centrale maintient son taux directeur à 23 % malgré la baisse de l'inflation. La Banque centrale du Nigeria a choisi de conserver son taux directeur à 23 % lors de sa dernière réunion, préférant consolider la baisse de l'inflation observée ces cinq derniers mois.
 
 ## 3:15 · Le mot de la fin
 
