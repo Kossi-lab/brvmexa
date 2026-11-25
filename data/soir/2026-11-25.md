@@ -1,7 +1,7 @@
 # BRVMexa Soir — mercredi 25 novembre 2026
 
-> Script généré automatiquement le 2026-11-25 à 10:15 GMT à partir des données publiées (source des cours : brvm.org, données différées).
-> **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 3,9 minutes (585 mots).
+> Script généré automatiquement le 2026-11-25 à 10:30 GMT à partir des données publiées (source des cours : brvm.org, données différées).
+> **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 3,9 minutes (580 mots).
 
 ## 0:00 · Générique
 
@@ -17,18 +17,19 @@ Et à la une : Coris Bank Bénin lance une levée de fonds majeure de 19,19 mill
 ## 0:30 · La séance
 
 Commençons par le marché.
-L’indice BRVM Composite, qui regroupe toutes les actions, termine à 468 points, en baisse de 0,9 %.
-Le BRVM 30, l’indice des trente valeurs les plus actives, est en baisse de 0,7 %, et le BRVM Prestige en baisse de 0,5 %.
-Sur l’ensemble de la séance, 3 actions ont progressé, 28 ont reculé et 17 sont restées stables.
-Côté activité, environ 167 millions de francs CFA ont été échangés aujourd’hui.
-Du côté des secteurs, meilleur score pour l’Énergie, en hausse de 0,6 %, tandis que les Industriels ferme la marche, en baisse de 2,6 %.
+L’indice BRVM Composite, qui regroupe toutes les actions, termine à 466 points, en baisse de 1,3 %.
+Le BRVM 30, l’indice des trente valeurs les plus actives, est en baisse de 1,2 %, et le BRVM Prestige en baisse de 1,2 %.
+Sur l’ensemble de la séance, 4 actions ont progressé, 31 ont reculé et 13 sont restées stables.
+Côté activité, environ 210 millions de francs CFA ont été échangés aujourd’hui.
+Du côté des secteurs, les Industriels recule le plus, en baisse de 2,8 %.
 
 ## 1:15 · Le palmarès
 
 Dans le haut du tableau, Vivo Energy CI gagne 6,1 % à 1 910 francs CFA.
-Suivent CIE Côte d’Ivoire, en hausse de 2,2 %, et Bridge Bank Group CI, en hausse de 1,1 %.
-En bas du tableau, BICI Côte d’Ivoire cède 7,3 %, Filtisac CI 7,1 % et BOA Burkina Faso 5,3 %.
-La valeur la plus échangée du jour est Sonatel, avec 11 419 titres, à 3 885 francs CFA, en baisse de 0,1 %.
+Suivent TotalEnergies Marketing Sénégal, en hausse de 2,9 %, et Bridge Bank Group CI, en hausse de 2,7 %.
+En bas du tableau, BICI Côte d’Ivoire cède 7,3 %, Filtisac CI 6,8 % et TotalEnergies Marketing CI 6,2 %.
+La valeur la plus échangée du jour est Sonatel, avec 12 935 titres, à 3 880 francs CFA, en baisse de 0,3 %.
+À noter aussi : BOA Burkina Faso, très échangée, recule de 5,2 %.
 
 ## 2:00 · L’actualité du jour
 
@@ -37,8 +38,8 @@ La filiale béninoise du groupe Coris réalise une ouverture de capital historiq
 Cette démarche financière d'envergure positionne la filiale béninoise du groupe Coris parmi les acteurs très actifs du marché. Elle met en lumière la dynamique des institutions financières de la sous-région qui choisissent le marché boursier pour consolider leurs fonds propres.
 Retrouvez l’article complet dans la rubrique À la une de BRVMexa.
 En bref :
+RDC : 965 millions USD mobilisés pour transformer le cuivre, le cobalt et l'étain. Lors du Forum minier Makutano 2026, près d'un milliard de dollars ont été annoncés pour renforcer la transformation locale des ressources minières en République démocratique du Congo.
 Lancement de Rising African Content pour dynamiser le contenu local en Afrique. L'initiative panafricaine Rising African Content a été inaugurée à Abidjan lors du SIREXE 2026 pour favoriser l'accès des entreprises locales aux marchés et aux financements.
-Nigeria : La Banque centrale maintient son taux directeur à 23 % malgré la baisse de l'inflation. La Banque centrale du Nigeria a choisi de conserver son taux directeur à 23 % lors de sa dernière réunion, préférant consolider la baisse de l'inflation observée ces cinq derniers mois.
 
 ## 3:15 · Le mot de la fin
 

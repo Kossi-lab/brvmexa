@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-25T10:15:27.831Z",
+ "updatedAt": "2026-11-25T10:30:34.153Z",
  "items": [
+  {
+   "id": "sika-65935",
+   "title": "RDC : Près d’un milliard USD pour financer la transformation du cuivre, du cobalt et de l’étain",
+   "summary": "La République démocratique du Congo (RDC) entend attirer davantage de capitaux vers les activités industrielles liées à...",
+   "url": "https://www.sikafinance.com/marches/rdc-pres-dun-milliard-usd-pour-financer-la-transformation-du-cuivre-du-cobalt-et-de-letain_65935",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-25T10:17:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65932",
    "title": "Rising African Content : De l’ambition du contenu local aux contrats, aux financements et aux résultats",
@@ -4311,20 +4325,6 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-11-02T11:32:00Z",
-   "symbols": [],
-   "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "sika-65417",
-   "title": "Connectivité en Afrique : La 24e réunion du Fratel explore les grands défis de l'investissement public et de la régulation",
-   "summary": "L'aménagement numérique des territoires reste un défi majeur pour les pays africains. Un accès équitable aux services n...",
-   "url": "https://www.sikafinance.com/marches/connectivite-en-afrique-la-24e-reunion-du-fratel-explore-les-grands-defis-de-l-investissement-public-et-de-la-regulation_65417",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-02T11:04:00Z",
    "symbols": [],
    "status": "done",
    "tries": 1

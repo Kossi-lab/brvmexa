@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-25T10:15:27.833Z",
+ "updatedAt": "2026-11-25T10:30:34.155Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -17,6 +17,31 @@
     "19 PAGES"
    ],
    "pinned": true
+  },
+  {
+   "id": "sika-65935",
+   "title": "RDC : 965 millions USD mobilisés pour transformer le cuivre, le cobalt et l'étain",
+   "summary": "Lors du Forum minier Makutano 2026, près d'un milliard de dollars ont été annoncés pour renforcer la transformation locale des ressources minières en République démocratique du Congo.",
+   "body": [
+    "Le 23 novembre 2026, à Kinshasa, des engagements financiers totalisant 965 millions de dollars ont été dévoilés pour dynamiser le secteur minier congolais. Ce montant se compose d'une enveloppe de 700 millions de dollars provenant d'institutions financières partenaires et d'un apport de 265 millions de dollars de la Société financière internationale (SFI), destiné prioritairement aux PME, à la sous-traitance et à la transformation locale.",
+    "L'opération, coordonnée par Tshinu Consulting lors du forum Makutano, implique plusieurs banques locales telles que Rawbank, UBA RDC, BGFIBank RDC et TMB. Les fonds soutiennent des projets variés, allant de l'acquisition d'équipements de forage à l'extension d'usines de traitement de cuivre et d'étain, visant à accroître la valeur ajoutée industrielle du pays.",
+    "Bien que la RDC soit un leader mondial avec 14 % de la production de cuivre et 73 % de celle de cobalt en 2025, elle cherche désormais à dépasser le stade de l'extraction. L'objectif est de bâtir une véritable industrie locale, notamment pour les composants de batteries, en s'appuyant sur ces nouveaux financements et en améliorant les infrastructures énergétiques nécessaires à cette montée en puissance."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65935",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-25T10:17:00Z",
+   "writtenAt": "2026-11-25T10:30:34.152Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/rdc-pres-dun-milliard-usd-pour-financer-la-transformation-du-cuivre-du-cobalt-et-de-letain_65935",
+    "title": "RDC : Près d’un milliard USD pour financer la transformation du cuivre, du cobalt et de l’étain"
+   },
+   "rewritten": true
   },
   {
    "id": "sika-65932",
@@ -3756,30 +3781,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/senegal-2-07-millions-de-barils-de-petrole-commercialises-en-octobre-signe-dune-tendance-baissiere-de-la-production_65707",
     "title": "Sénégal : 2,07 millions de barils de pétrole commercialisés en octobre, signe d’une tendance baissière de la production"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65702",
-   "title": "CANEX WKND 2026 : 2 milliards USD pour doper les industries créatives africaines",
-   "summary": "Le CANEX WKND 2026, qui se tient à Lagos, ambitionne de transformer le rayonnement culturel africain en moteur économique grâce à un engagement financier majeur d'Afreximbank.",
-   "body": [
-    "L'événement, inauguré le 6 novembre à Lagos, met en lumière la volonté de structurer les industries créatives africaines pour en faire des piliers de croissance. Afreximbank s'est engagée à mobiliser 2 milliards de dollars d'ici 2027 pour soutenir ce secteur, dont le poids actuel est estimé à 60 milliards de dollars, soit environ 2 % du marché mondial.",
-    "Au-delà du financement, l'enjeu est de mieux capter la valeur générée par les œuvres africaines. Le Nigeria, moteur de cette dynamique, a mis en place des outils stratégiques comme sa politique de propriété intellectuelle de 2025 et le programme iDICE, doté de 600 millions de dollars, pour renforcer la compétitivité des entreprises locales sur les marchés nationaux et internationaux."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65702",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-13T11:27:00Z",
-   "writtenAt": "2026-11-13T11:48:27.936Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/canex-wknd-2026-2-milliards-usd-pour-capter-la-valeur-des-industries-creatives-africaines_65702",
-    "title": "CANEX WKND 2026 : 2 milliards USD pour capter la valeur des industries créatives africaines"
    },
    "rewritten": true
   }
