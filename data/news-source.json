@@ -1,6 +1,36 @@
 {
- "updatedAt": "2026-11-25T11:30:24.177Z",
+ "updatedAt": "2026-11-25T11:45:47.862Z",
  "items": [
+  {
+   "id": "sika-65940",
+   "title": "RDC : 965 millions USD annoncés pour dynamiser le secteur minier",
+   "summary": "La République démocratique du Congo (RDC) s'apprête à mobiliser une enveloppe de 965 millions de dollars, soit environ ...",
+   "url": "https://www.sikafinance.com/marches/rdc-965-millions-usd-annonces-pour-dynamiser-le-secteur-minier_65940",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-25T11:25:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "sika-65939",
+   "title": "Après le Burkina Faso et la Côte d’Ivoire, le Groupe Coris introduit sa filiale béninoise à la BRVM à 4 700 FCFA l’action",
+   "summary": "Avec 4,1 millions de titres proposés à 4 700 FCFA l'unité au public, l'offre de Coris Bank International Bénin porte su...",
+   "url": "https://www.sikafinance.com/marches/apres-le-burkina-faso-et-la-cote-divoire-le-groupe-coris-introduit-sa-filiale-beninoise-a-la-brvm-a-4-700-fcfa-laction_65939",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-25T11:21:00Z",
+   "symbols": [
+    "CBIBF"
+   ],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65938",
    "title": "Fintech : First Circle Capital boucle 26 millions USD pour propulser 24 pépites africaines en phase de démarrage",
@@ -4294,36 +4324,6 @@
    "symbols": [
     "SMBC"
    ],
-   "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "sika-65420",
-   "title": "NSIA Banque CI réalise un bénéfice de 18 milliards FCFA à fin septembre 2026 sur fond d'une gestion de bilan volontariste",
-   "summary": "Le neuvième mois de l'exercice 2026 marque un coup d'arrêt pour NSIA Banque Côte d'Ivoire. L'établissement, qui a...",
-   "url": "https://www.sikafinance.com/marches/nsia-banque-ci-realise-un-benefice-de-18-milliards-fcfa-a-fin-septembre-2026-sur-fond-d-une-gestion-de-bilan-volontariste_65420",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-02T11:58:00Z",
-   "symbols": [
-    "NSBC"
-   ],
-   "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "sika-65419",
-   "title": "Côte d’Ivoire : Forvis Mazars et Sciences Po lancent une certification pour renforcer les compétences des administrateurs",
-   "summary": "Siéger dans un conseil d'administration ne suffit pas à garantir une bonne gouvernance. Encore faut-il maîtriser ...",
-   "url": "https://www.sikafinance.com/marches/cote-divoire-forvis-mazars-et-sciences-po-lancent-une-certification-pour-renforcer-les-competences-des-administrateurs_65419",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-02T11:55:00Z",
-   "symbols": [],
    "status": "done",
    "tries": 1
   }
