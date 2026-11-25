@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-25T10:30:34.155Z",
+ "updatedAt": "2026-11-25T10:45:19.830Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -17,6 +17,30 @@
     "19 PAGES"
    ],
    "pinned": true
+  },
+  {
+   "id": "sika-65936",
+   "title": "La BERD lance un dispositif complet pour soutenir le financement des PME en Côte d'Ivoire",
+   "summary": "La BERD déploie une offre intégrée en Côte d'Ivoire pour lever les obstacles financiers et opérationnels rencontrés par les PME, en collaboration avec la BAD.",
+   "body": [
+    "Face aux difficultés d'accès au crédit qui freinent les petites et moyennes entreprises ivoiriennes, la Banque européenne pour la reconstruction et le développement (BERD) a lancé, en 2026, un programme global. Ce dispositif combine des solutions de financement, telles que des lignes de crédit et des mécanismes de partage des risques via des partenaires locaux, avec un accompagnement technique visant à structurer la gestion des entreprises.",
+    "Au-delà du soutien financier, l'institution mise sur le renforcement des compétences et l'accès aux marchés. Le programme inclut des services de conseil opérationnel et l'extension du dispositif Star Venture pour accompagner les jeunes entreprises innovantes. Cette stratégie, présentée avec la Banque africaine de développement, ambitionne de dynamiser le secteur privé en s'appuyant sur une coopération renforcée entre acteurs financiers internationaux et locaux."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65936",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-25T10:22:00Z",
+   "writtenAt": "2026-11-25T10:45:19.828Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/cote-divoire-la-berd-deploie-une-offre-integree-pour-faciliter-le-financement-et-la-croissance-des-pme_65936",
+    "title": "Côte d’Ivoire : La BERD déploie une offre intégrée pour faciliter le financement et la croissance des PME"
+   },
+   "rewritten": true
   },
   {
    "id": "sika-65935",
@@ -3756,31 +3780,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/pi-spi-les-frais-sont-ils-vraiment-de-0-8-_65705",
     "title": "PI-SPI : Les frais sont-ils vraiment de 0,8% ?"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65707",
-   "title": "Sénégal : recul de la production pétrolière en octobre malgré la dynamique du gaz naturel",
-   "summary": "Le Sénégal a enregistré une baisse de ses exportations de pétrole brut en octobre 2026, tandis que la production de gaz naturel liquéfié affiche une progression constante.",
-   "body": [
-    "Durant le mois d'octobre 2026, le Sénégal a exporté 2,07 millions de barils de pétrole brut répartis sur deux cargaisons, contre 2,94 millions de barils via trois cargaisons en septembre. Cette diminution reflète une inflexion à la baisse de la production journalière, selon les autorités nationales.",
-    "À l'inverse, le secteur gazier du projet Grand Tortue Ahmeyim maintient une dynamique positive. Les exportations de gaz naturel liquéfié ont atteint 0,49 million de mètres cubes en octobre avec trois cargaisons, dépassant ainsi le volume de 0,33 million de mètres cubes enregistré en septembre.",
-    "Face à ces enjeux énergétiques, le gouvernement sénégalais privilégie une réduction structurelle des coûts de production électrique plutôt qu'un recours prolongé aux subventions. Le ministre du Pétrole et de l'Énergie, Abdourahmane Diouf, a réaffirmé l'objectif d'atteindre un accès universel à l'électricité d'ici 2029, tout en misant sur le développement du gisement Yakaar-Teranga pour renforcer les retombées économiques locales."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65707",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-13T11:51:00Z",
-   "writtenAt": "2026-11-13T12:53:44.985Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/senegal-2-07-millions-de-barils-de-petrole-commercialises-en-octobre-signe-dune-tendance-baissiere-de-la-production_65707",
-    "title": "Sénégal : 2,07 millions de barils de pétrole commercialisés en octobre, signe d’une tendance baissière de la production"
    },
    "rewritten": true
   }

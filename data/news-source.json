@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-25T10:30:34.153Z",
+ "updatedAt": "2026-11-25T10:45:19.829Z",
  "items": [
+  {
+   "id": "sika-65936",
+   "title": "Côte d’Ivoire : La BERD déploie une offre intégrée pour faciliter le financement et la croissance des PME",
+   "summary": "L'accès au financement reste l'un des principaux freins au développement des petites et moyennes entreprises (PME) en C...",
+   "url": "https://www.sikafinance.com/marches/cote-divoire-la-berd-deploie-une-offre-integree-pour-faciliter-le-financement-et-la-croissance-des-pme_65936",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-25T10:22:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65935",
    "title": "RDC : Près d’un milliard USD pour financer la transformation du cuivre, du cobalt et de l’étain",
@@ -4312,20 +4326,6 @@
    "symbols": [
     "ONTBF"
    ],
-   "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "sika-65418",
-   "title": "Côte d’Ivoire : L’École d’agriculture numérique inaugurée à l’INP-HB, 50 talents composent la première promotion Agritech",
-   "summary": "L'Institut national polytechnique Félix Houphouët-Boigny (INP-HB) et l'Université Mohammed VI Polytechnique (UM6P)...",
-   "url": "https://www.sikafinance.com/marches/cote-divoire-lecole-dagriculture-numerique-inauguree-a-linp-hb-50-talents-composent-la-premiere-promotion-agritech_65418",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-02T11:32:00Z",
-   "symbols": [],
    "status": "done",
    "tries": 1
   }
