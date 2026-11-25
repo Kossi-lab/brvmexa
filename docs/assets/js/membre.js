@@ -224,6 +224,7 @@
   setTimeout(function () {
     var top = page.querySelector('.pm-top');
     if (top && !top.querySelector('.mb-apps')) top.insertAdjacentHTML('beforeend', APPS);
+    if (top && !top.querySelector('.mb-vid')) top.insertAdjacentHTML('beforeend', VIDEO);
   }, 0);
   var params = new URLSearchParams(location.search);
   var back = safeBack(params.get('retour'));
@@ -260,6 +261,12 @@
       '<span class="store is-soon" aria-disabled="true">' + PLAY + '<span><small>Bientôt sur</small><strong>Google Play</strong></span></span>' +
       '<span class="store is-soon" aria-disabled="true">' + APPLE + '<span><small>Bientôt dans</small><strong>l’App Store</strong></span></span>' +
     '</div></div>';
+
+  // Juste sous le bloc « liés » : la vidéo qui explique le site, l'application et le compte unique
+  var VIDEO = '<div class="mb-vid" id="video-mode-emploi">' +
+    '<p class="mb-vid-h"><b>Le site et l’application, mode d’emploi</b><span>Vidéo · 2 min</span></p>' +
+    '<div class="mb-vid-f"><iframe src="https://www.youtube-nocookie.com/embed/kVq8v-49R4w?rel=0&amp;modestbranding=1" title="BRVMexa : le site + l’application, mode d’emploi" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>' +
+    '<p class="mb-vid-l">Comment retrouver votre Premium dans l’application, et par où commencer. <a href="https://youtu.be/kVq8v-49R4w" target="_blank" rel="noopener">Voir sur YouTube →</a></p></div>';
 
   function loginView() {
     var title = { login: 'Connexion', signup: 'Créer un compte', forgot: 'Mot de passe oublié' }[mode];

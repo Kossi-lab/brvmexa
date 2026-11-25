@@ -1193,7 +1193,6 @@ html.dv-open { overflow: hidden; }
 .pm-steps li::before { content: counter(s); flex: none; width: 28px; height: 28px; border-radius: 50%; display: grid; place-items: center; background: #16C47F; color: #06110B; font-weight: 800; font-size: .85rem; }
 .pm-steps b { color: var(--text); }
 .pm-warn { font-size: .88rem; padding: 12px 14px; border-radius: 12px; background: rgba(242, 179, 61, .08); border-left: 3px solid #F2B33D; }
-.pm-sync.pm-vid { grid-template-columns: .85fr 1.15fr; }
 .pm-sync-art { display: flex; align-items: center; justify-content: center; gap: 0; min-height: 260px; }
 .pm-laptop { width: 250px; }
 .pm-laptop .pm-scr { height: 160px; border-radius: 12px 12px 0 0; border: 3px solid #2A3650; border-bottom: 0; }
@@ -1246,7 +1245,6 @@ html.dv-open { overflow: hidden; }
   .pm-show { position: static; }
   .pm-feats { grid-template-columns: 1fr 1fr; }
   .pm-sync { grid-template-columns: 1fr; padding: 30px; gap: 26px; }
-  .pm-sync.pm-vid { grid-template-columns: 1fr; }
   .pm-offers-head { grid-template-columns: 1fr; }
   .pm-offers-david { flex-direction: row; gap: 10px; }
   .pm-offers-david .dv-svg { width: 100px; height: 100px; }
@@ -1853,8 +1851,8 @@ body.gt-on .al, body.nx-open .al { display: none; }
 @media (max-width: 380px) { .mb-stores { grid-template-columns: 1fr; } }
 
 /* Placement : au-dessus de l'aperçu de David, à droite de la connexion (sur mobile : juste après la connexion) */
-.pm-top > .pm-acc { grid-column: 1; grid-row: 1 / span 2; }
-.pm-top > .pm-show { position: static; grid-column: 2; grid-row: 2; } /* l'aperçu de David ne glisse plus par-dessus le bloc */
+.pm-top > .pm-acc { grid-column: 1; grid-row: 1 / span 3; }
+.pm-top > .pm-show { position: static; grid-column: 2; grid-row: 3; } /* l'aperçu de David ne glisse plus par-dessus le bloc */
 .pm-top > .mb-apps { grid-column: 2; grid-row: 1; margin: 0; padding: 22px 24px; border-radius: 22px; display: grid; grid-template-columns: auto 1fr; gap: 6px 22px; align-items: center; text-align: left; animation: mb-apps-in .6s cubic-bezier(.2, .8, .2, 1) .3s both; }
 .pm-top > .mb-apps .mb-sync { grid-row: span 2; flex-direction: column; gap: 0; }
 .pm-top > .mb-apps .mb-flow { flex-direction: column; width: 34px; height: 64px; max-width: none; margin: 6px 0 4px; padding: 4px 0; }
@@ -1863,11 +1861,22 @@ body.gt-on .al, body.nx-open .al { display: none; }
 .pm-top > .mb-apps .mb-apps-t { margin: 0 0 4px; font-size: .92rem; }
 .pm-top > .mb-apps .mb-apps-t b { display: block; font-size: 1.05rem; margin-bottom: 4px; }
 .pm-top > .mb-apps .mb-stores { align-self: start; }
+
+/* Vidéo « mode d'emploi » : juste sous le bloc « site et application liés », même carte, même largeur */
+.pm-top > .mb-vid { grid-column: 2; grid-row: 2; margin: 0; padding: 18px 20px 16px; border-radius: 22px; background: linear-gradient(160deg, rgba(22, 196, 127, .1), rgba(242, 179, 61, .05)); border: 1px solid rgba(22, 196, 127, .25); animation: mb-apps-in .6s cubic-bezier(.2, .8, .2, 1) .45s both; }
+.mb-vid-h { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; margin: 0 0 12px; }
+.mb-vid-h b { font-size: 1.05rem; color: var(--text); }
+.mb-vid-h span { font-size: .8rem; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; color: var(--accent); white-space: nowrap; }
+.mb-vid-f { position: relative; aspect-ratio: 16 / 9; border-radius: 14px; overflow: hidden; background: #060B16; border: 1px solid var(--border); }
+.mb-vid-f iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+.mb-vid-l { margin: 10px 0 0; font-size: .86rem; color: var(--sec); }
+.mb-vid-l a { color: var(--accent); font-weight: 700; }
 @keyframes mb-apps-in { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: none; } }
 @media (max-width: 980px) {
   .pm-top > .pm-acc { grid-column: auto; grid-row: auto; order: 1; }
   .pm-top > .mb-apps { grid-column: auto; grid-row: auto; order: 2; }
-  .pm-top > .pm-show { grid-column: auto; grid-row: auto; order: 3; }
+  .pm-top > .mb-vid { grid-column: auto; grid-row: auto; order: 3; }
+  .pm-top > .pm-show { grid-column: auto; grid-row: auto; order: 4; }
 }
 @media (max-width: 520px) {
   .pm-top > .mb-apps { grid-template-columns: 1fr; text-align: center; padding: 18px 16px; }
