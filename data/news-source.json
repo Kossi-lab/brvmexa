@@ -1,18 +1,18 @@
 {
- "updatedAt": "2026-11-25T12:30:24.192Z",
+ "updatedAt": "2026-11-25T12:45:48.598Z",
  "items": [
   {
-   "id": "sika-65941",
-   "title": "Société Générale Côte d’Ivoire lance son club expérience client",
-   "summary": "Le vendredi 20 novembre 2026, Société Générale Côte d'Ivoire (SGCI) a officiellement lancé son Club Expérience Cl...",
-   "url": "https://www.sikafinance.com/marches/societe-generale-cote-divoire-lance-son-club-experience-client_65941",
+   "id": "gn-b1jt4m",
+   "title": "BRVM : Coris Bank Bénin ouvre 20 % de son capital, l’action à 4 700 FCFA",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaUdEYkoxelFvTTJXS0MzWlNIaE9URW1CbFBnb2RCMWhQdHRvUFh6bjJTeE9TSlNZd2hBZi1SX2dpR19YNjBZMkNCeTZSRTNCcDNNX0pfSmpDeEhIS1BUbXJTb3RsbjBFbWNNRlhtRHBOa2FYdWo0RkQwQWRmVktzMElnYzh2RTltSjIyMjFfdEg0ZWl6?oc=5",
    "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
+   "source": "beninwebtv.com",
+   "category": "Presse",
    "premium": false,
-   "publishedAt": "2026-11-25T12:00:00Z",
+   "publishedAt": "2026-11-25T12:31:34.000Z",
    "symbols": [
-    "SGBC"
+    "CBIBF"
    ],
    "status": "done",
    "tries": 1
@@ -26,8 +26,24 @@
    "source": "Financial Afrik",
    "category": "Presse",
    "premium": false,
-   "publishedAt": "2026-11-25T11:57:08.000Z",
+   "publishedAt": "2026-11-25T12:02:19.000Z",
    "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "sika-65941",
+   "title": "Société Générale Côte d’Ivoire lance son club expérience client",
+   "summary": "Le vendredi 20 novembre 2026, Société Générale Côte d'Ivoire (SGCI) a officiellement lancé son Club Expérience Cl...",
+   "url": "https://www.sikafinance.com/marches/societe-generale-cote-divoire-lance-son-club-experience-client_65941",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-25T12:00:00Z",
+   "symbols": [
+    "SGBC"
+   ],
    "status": "done",
    "tries": 1
   },
@@ -4307,20 +4323,6 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-11-02T15:44:00Z",
-   "symbols": [],
-   "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "sika-65430",
-   "title": "Côte d’Ivoire : Orange mise sur la formation des talents locaux pour accélérer la souveraineté numérique",
-   "summary": "Le développement des compétences numériques s'impose comme un enjeu stratégique pour la Côte d'Ivoire, dans un co...",
-   "url": "https://www.sikafinance.com/marches/cote-divoire-orange-mise-sur-la-formation-des-talents-locaux-pour-accelerer-la-souverainete-numerique_65430",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-02T15:39:00Z",
    "symbols": [],
    "status": "done",
    "tries": 1

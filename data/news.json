@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-25T12:30:24.194Z",
+ "updatedAt": "2026-11-25T12:45:48.601Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -17,6 +17,32 @@
     "19 PAGES"
    ],
    "pinned": true
+  },
+  {
+   "id": "gn-b1jt4m",
+   "title": "Coris Bank Bénin lance son introduction en bourse sur la BRVM à 4 700 FCFA",
+   "summary": "Coris Bank Bénin met en vente 20 % de ses parts sur le marché financier régional, avec un prix unitaire fixé à 4 700 FCFA.",
+   "body": [
+    "La filiale béninoise du groupe bancaire Coris procède à l'ouverture de son capital au public. Cette opération financière porte sur la cession de 20 % de ses parts sociales sur le marché financier de l'Union monétaire ouest-africaine.",
+    "À l'occasion de cette cotation enregistrée le 25 novembre 2026, la valeur d'acquisition de chaque action a été arrêtée à 4 700 FCFA pour les investisseurs intéressés par cette nouvelle opportunité de placement."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#gn-b1jt4m",
+   "image": null,
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-25T12:31:34.000Z",
+   "writtenAt": "2026-11-25T12:45:48.595Z",
+   "symbols": [
+    "CBIBF"
+   ],
+   "origin": {
+    "name": "beninwebtv.com",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaUdEYkoxelFvTTJXS0MzWlNIaE9URW1CbFBnb2RCMWhQdHRvUFh6bjJTeE9TSlNZd2hBZi1SX2dpR19YNjBZMkNCeTZSRTNCcDNNX0pfSmpDeEhIS1BUbXJTb3RsbjBFbWNNRlhtRHBOa2FYdWo0RkQwQWRmVktzMElnYzh2RTltSjIyMjFfdEg0ZWl6?oc=5",
+    "title": "BRVM : Coris Bank Bénin ouvre 20 % de son capital, l’action à 4 700 FCFA"
+   },
+   "rewritten": true
   },
   {
    "id": "sika-65941",
@@ -3759,32 +3785,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/cote-divoire-1-16-million-de-passagers-transportes-par-avion-au-1er-semestre-2026_65711",
     "title": "Côte d’Ivoire : 1,16 million de passagers transportés par avion au 1er semestre 2026"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65712",
-   "title": "Bernabé Équipement : une nouvelle stratégie pour le secteur des engins lourds en Côte d'Ivoire",
-   "summary": "Dirigée par Paul Kouao depuis janvier 2026, la nouvelle entité Bernabé Équipement ambitionne de devenir un partenaire clé pour les professionnels du BTP, des mines et de l'industrie en Côte d'Ivoire.",
-   "body": [
-    "Issue de l'intégration de l'ancienne structure RIMCO Equipment au sein de Bernabé Côte d'Ivoire, cette nouvelle unité d'affaires se spécialise dans la fourniture d'engins lourds. Sous la direction de Paul Kouao, ingénieur fort de plus de dix ans d'expérience, l'entreprise distribue les marques LiuGong et Ammann. Elle s'appuie sur un réseau de proximité présent à Abidjan, San Pedro et Bouaké pour répondre aux besoins en terrassement, extraction et construction routière.",
-    "Pour accompagner les entreprises, des PME aux grands opérateurs, Bernabé Équipement propose des solutions variées incluant la vente, la location et des options de financement via des partenariats avec des institutions locales. L'offre est complétée par un service technique spécialisé et un approvisionnement en pièces d'origine, avec pour objectif de renforcer la productivité des clients tout en maîtrisant les coûts d'exploitation à l'horizon 2027."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65712",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-13T15:13:00Z",
-   "writtenAt": "2026-11-13T16:35:19.369Z",
-   "symbols": [
-    "BNBC"
-   ],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/paul-kouao-directeur-de-bernabe-equipement-en-cote-d-ivoire-notre-ambition-accompagner-les-projets-contribuer-a-developper-des-competences_65712",
-    "title": "Paul KOUAO, Directeur de Bernabé Équipement en Côte d'Ivoire : ‘’Notre ambition, accompagner les projets, contribuer à développer des compétences’’"
    },
    "rewritten": true
   }
