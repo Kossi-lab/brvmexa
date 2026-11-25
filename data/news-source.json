@@ -1,6 +1,22 @@
 {
- "updatedAt": "2026-11-25T16:00:44.368Z",
+ "updatedAt": "2026-11-25T16:15:31.216Z",
  "items": [
+  {
+   "id": "sika-65955",
+   "title": "BRVM : Les vendeurs reprennent l'avantage, Bank of Africa Niger résiste",
+   "summary": "Les vendeurs ont conservé l'avantage ce mercredi à la BRVM, entraînant la cote dans un mouvement de repli général...",
+   "url": "https://www.sikafinance.com/marches/brvm-les-vendeurs-reprennent-l-avantage-bank-of-africa-niger-resiste_65955",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-25T16:03:00Z",
+   "symbols": [
+    "BOAN"
+   ],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65954",
    "title": "Togo : Le FMI envisage un accord de 22 mois au titre de la facilité pour la résilience et la durabilité",
@@ -4307,22 +4323,6 @@
    "publishedAt": "2026-11-03T07:22:00Z",
    "symbols": [
     "CBIBF"
-   ],
-   "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "sika-65441",
-   "title": "NEI-CEDA CI : Baisse de 94% du résultat net à fin septembre 2026",
-   "summary": "NEI-CEDA CI retrouve un résultat net positif à fin septembre 2026, après un premier semestre déficitaire marqué p...",
-   "url": "https://www.sikafinance.com/marches/nei-ceda-ci-baisse-de-94-du-resultat-net-a-fin-septembre-2026_65441",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": true,
-   "publishedAt": "2026-11-02T17:19:00Z",
-   "symbols": [
-    "NEIC"
    ],
    "status": "done",
    "tries": 1

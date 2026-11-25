@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-25T16:00:44.371Z",
+ "updatedAt": "2026-11-25T16:15:31.219Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -17,6 +17,38 @@
     "19 PAGES"
    ],
    "pinned": true
+  },
+  {
+   "id": "sika-65955",
+   "title": "La BRVM termine en baisse, pénalisée par Sonatel et Filtisac",
+   "summary": "La séance de ce mercredi à la BRVM a été marquée par une baisse généralisée des indices, malgré la résistance de quelques titres comme Bank of Africa Niger.",
+   "body": [
+    "Ce mercredi, les investisseurs vendeurs ont dominé la Bourse régionale des valeurs mobilières, provoquant une baisse de l'ensemble des indicateurs. Le baromètre BRVM-Composite a chuté de 1,54 % pour s'établir à 464,78 points. Le BRVM-30 et le BRVM-Prestige ont suivi la même tendance négative, perdant respectivement 1,59 % et 1,41 %. Sur les 36 actions ayant fluctué au cours de la journée, 27 ont affiché une baisse contre seulement 9 à la hausse.",
+    "La baisse de la capitalisation globale a été accentuée par la contre-performance de Sonatel Sénégal, dont la valorisation a fondu de 140 milliards de FCFA. Du côté des plus fortes baisses individuelles, Filtisac Côte d'Ivoire a essuyé la correction la plus forte en perdant 7,46 % à 1 365 FCFA, suivie par la BICI CI et la CIE Côte d'Ivoire. En sens inverse, Bank of Africa Niger a réalisé la meilleure performance de la séance en progressant de 5,97 % à 4 350 FCFA, devançant Vivo Energy CI et Sucrivoire CI.",
+    "Les transactions de la journée se sont élevées à 1,24 milliard de FCFA. L'action Sonatel Sénégal a capté la majeure partie de l'activité, devenant le titre le plus échangé avec un montant de 213,22 millions de FCFA, représentant ainsi 17,22 % du volume total des échanges de ce marché financier."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65955",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-25T16:03:00Z",
+   "writtenAt": "2026-11-25T16:15:31.216Z",
+   "symbols": [
+    "BICC",
+    "BOAN",
+    "FTSC",
+    "SCRC",
+    "SHEC",
+    "SNTS"
+   ],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/brvm-les-vendeurs-reprennent-l-avantage-bank-of-africa-niger-resiste_65955",
+    "title": "BRVM : Les vendeurs reprennent l'avantage, Bank of Africa Niger résiste"
+   },
+   "rewritten": true
   },
   {
    "id": "sika-65954",
@@ -3757,30 +3789,6 @@
     "name": "Forbes Afrique",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeTNWNkdua3hRaDJQMjZWTUtVbUw3OWRMNF9fMWtOYnpYczYzN2ZvLVdZdGxaZUZ2ekFGLVViTkFzbDZuc080ckh0aldhVFlTSFlBX2xwT01XZmlwaEtRVXpseTVHVkJSMXNMcGNjTGxOQ1kxakNlTTV5QW4wS0tOTjl1SU15U3NSZmk1WVV2YkZzNmJ2a0pleHlWV3c4UQ?oc=5",
     "title": "La Société ivoirienne de raffinage envisage une introduction en Bourse"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65718",
-   "title": "Le secteur aurifère ivoirien affiche un chiffre d'affaires de 2 605,8 milliards FCFA en 2025",
-   "summary": "Le classement des dix principales entreprises minières opérant en Côte d'Ivoire révèle une performance financière globale robuste pour l'année 2025, portée par la mine d'Ity.",
-   "body": [
-    "Le marché de l'or en Côte d'Ivoire confirme son poids économique majeur. En 2025, les dix plus grandes sociétés du secteur ont généré un chiffre d'affaires cumulé atteignant 2 605,8 milliards FCFA.",
-    "Au sein de ce palmarès, la mine d'Ity s'impose comme l'acteur dominant, illustrant la dynamique de production aurifère nationale sur cette période."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65718",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-13T19:48:00Z",
-   "writtenAt": "2026-11-13T19:55:54.705Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/cote-divoire-la-mine-dity-domine-un-top-10-aurifere-qui-pese-plus-de-2-600-milliards-fcfa_65718",
-    "title": "Côte d’Ivoire : La mine d’Ity domine un top 10 aurifère qui pèse plus de 2 600 milliards FCFA"
    },
    "rewritten": true
   }
