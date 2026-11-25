@@ -1193,6 +1193,7 @@ html.dv-open { overflow: hidden; }
 .pm-steps li::before { content: counter(s); flex: none; width: 28px; height: 28px; border-radius: 50%; display: grid; place-items: center; background: #16C47F; color: #06110B; font-weight: 800; font-size: .85rem; }
 .pm-steps b { color: var(--text); }
 .pm-warn { font-size: .88rem; padding: 12px 14px; border-radius: 12px; background: rgba(242, 179, 61, .08); border-left: 3px solid #F2B33D; }
+.pm-sync.pm-vid { grid-template-columns: .85fr 1.15fr; }
 .pm-sync-art { display: flex; align-items: center; justify-content: center; gap: 0; min-height: 260px; }
 .pm-laptop { width: 250px; }
 .pm-laptop .pm-scr { height: 160px; border-radius: 12px 12px 0 0; border: 3px solid #2A3650; border-bottom: 0; }
@@ -1245,6 +1246,7 @@ html.dv-open { overflow: hidden; }
   .pm-show { position: static; }
   .pm-feats { grid-template-columns: 1fr 1fr; }
   .pm-sync { grid-template-columns: 1fr; padding: 30px; gap: 26px; }
+  .pm-sync.pm-vid { grid-template-columns: 1fr; }
   .pm-offers-head { grid-template-columns: 1fr; }
   .pm-offers-david { flex-direction: row; gap: 10px; }
   .pm-offers-david .dv-svg { width: 100px; height: 100px; }
