@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-25T00:45:23.001Z",
+ "updatedAt": "2026-11-25T01:00:28.602Z",
  "items": [
   {
    "id": "gn-oxc567",
@@ -870,22 +870,6 @@
    "symbols": [],
    "status": "done",
    "tries": 1
-  },
-  {
-   "id": "gn-1bkqz72",
-   "title": "Saph Côte d'Ivoire (SPHC) — BRVM",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1zVWZyMmlqQ1JyNjFwRnlINzU3WEp4VDh1Ykszano4RXU1TzJSa3RTaklKVWN1UTZDNllocVY4d05fcDNXdVN1M0pyWDE1RU9zS2xLSzN0UEtuZVE5RExzR1N5amN3QQ?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-11-20T08:00:00.000Z",
-   "symbols": [
-    "SPHC"
-   ],
-   "status": "new",
-   "tries": 0
   },
   {
    "id": "gn-1gfad7o",
@@ -4330,6 +4314,22 @@
    "symbols": [],
    "status": "done",
    "tries": 1
+  },
+  {
+   "id": "gn-1l1iy5j",
+   "title": "BRVM : le fractionnement du titre Sonatel dope l’intérêt des investisseurs",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZjdiRmFsRHNLZUk0MlFXOEFGYkg1OVIwdmZQcWVvSldYak8tUV9raUIwQUt6OVFIQkxIMWNQUFBsWFZIbGVHajlOVkhSSVlVT1ZMN3REaWgwZHBudlFsX3hYNC0wTjFCdkw1RGNGYkt5REpiTklHUmo0bnJhRGhqRnhod2N6UlBDVFdjQXBfdy1JS3NubWUzcGliQnljaFk?oc=5",
+   "image": null,
+   "source": "Forbes Afrique",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-10-28T07:00:00.000Z",
+   "symbols": [
+    "SNTS"
+   ],
+   "status": "new",
+   "tries": 0
   }
  ]
 }
