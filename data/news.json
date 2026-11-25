@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-25T14:15:19.948Z",
+ "updatedAt": "2026-11-25T14:31:21.134Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -17,6 +17,31 @@
     "19 PAGES"
    ],
    "pinned": true
+  },
+  {
+   "id": "sika-65950",
+   "title": "La BOAD et la BERD étudient un dispositif de financement croisé de 400 millions d'euros",
+   "summary": "Un accord signé entre la BOAD et la BERD vise à créer un mécanisme de liquidités croisées en euros et en francs CFA pour atténuer le risque de change.",
+   "body": [
+    "La Banque ouest-africaine de développement et la Banque européenne pour la reconstruction et le développement ont conclu un protocole d'accord le 24 novembre. Cette alliance envisage la mise en place d'un instrument financier réciproque d'une valeur maximale de 400 millions d'euros, soit près de 262,4 milliards FCFA, afin d'octroyer des ressources à long terme aux acteurs économiques de la zone UEMOA.",
+    "Le système repose sur un échange de devises : la BERD disposerait de liquidités en francs CFA pour soutenir directement le secteur privé des huit États membres, tandis que la BOAD obtiendrait des fonds en euros pour étendre sa capacité d'action. Ce dispositif vise à prémunir les entreprises contre les variations de change en leur évitant de s'endetter dans une monnaie différente de celle de leurs recettes.",
+    "Pour le président de la BOAD, Serge Ekué, cette stratégie contribue à sécuriser les investissements privés prioritaires dans les infrastructures et l'industrie. La présidente de la BERD, Odile Renaud-Basso, met également en avant la nécessité d'apporter des financements adaptés aux besoins locaux. Active en Afrique subsaharienne depuis 2025, l'institution européenne consolide ainsi son implantation régionale."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65950",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-25T14:27:00Z",
+   "writtenAt": "2026-11-25T14:31:21.130Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/uemoa-la-boad-et-la-berd-envisagent-un-mecanisme-de-financement-reciproque-de-400-millions-deuros-pour-dynamiser-les-investissements_65950",
+    "title": "UEMOA : La BOAD et la BERD envisagent un mécanisme de financement réciproque de 400 millions d’euros pour dynamiser les investissements"
+   },
+   "rewritten": true
   },
   {
    "id": "sika-65948",
@@ -3755,30 +3780,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/cote-divoire-la-mine-dity-domine-un-top-10-aurifere-qui-pese-plus-de-2-600-milliards-fcfa_65716",
     "title": "Côte d’Ivoire : La mine d’Ity domine un top 10 aurifère qui pèse plus de 2 600 milliards FCFA"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65715",
-   "title": "Mali : 940 milliards FCFA de recettes minières enregistrés en 2025",
-   "summary": "Malgré une baisse de la production aurifère nationale à 42 tonnes, les entreprises minières ont versé 940 milliards FCFA au Trésor public malien au cours de l'année 2025.",
-   "body": [
-    "Le secteur extractif malien a généré des revenus substantiels pour l'État en 2025. Les sociétés minières opérant dans le pays ont en effet contribué à hauteur de 940 milliards FCFA aux caisses publiques sur cette période.",
-    "Cette performance financière intervient dans un contexte de repli de l'activité productive. En 2025, le volume total d'or extrait sur le territoire national s'est établi à 42 tonnes."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65715",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-13T17:05:00Z",
-   "writtenAt": "2026-11-13T17:53:05.025Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/mali-940-milliards-fcfa-verses-a-letat-par-les-societes-minieres-en-2025-malgre-une-production-dor-en-recul-a-42-tonnes_65715",
-    "title": "Mali : 940 milliards FCFA versés à l’État par les sociétés minières en 2025, malgré une production d’or en recul à 42 tonnes"
    },
    "rewritten": true
   }

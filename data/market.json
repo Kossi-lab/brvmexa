@@ -1,15 +1,15 @@
 {
- "updatedAt": "2026-11-25T14:15:14.325Z",
+ "updatedAt": "2026-11-25T14:30:18.528Z",
  "sessionDate": "2026-11-25",
- "sessionTime": "14:02",
+ "sessionTime": "14:15",
  "source": "brvm.org",
- "transactionsValue": 2100858521,
- "capitalisationActions": 18305035871432,
+ "transactionsValue": 2107943711,
+ "capitalisationActions": 18297170701432,
  "capitalisationBonds": 13416646779571,
  "advancing": 8,
- "declining": 35,
- "unchanged": 5,
- "totalVolume": 947770,
+ "declining": 34,
+ "unchanged": 6,
+ "totalVolume": 950682,
  "gainers": [
   {
    "symbol": "SCRC",
@@ -26,13 +26,6 @@
    "volume": 8564
   },
   {
-   "symbol": "BOAC",
-   "shortName": "BOA Côte d’Ivoire",
-   "close": 11000,
-   "change": 3.87,
-   "volume": 17167
-  },
-  {
    "symbol": "TTLS",
    "shortName": "TotalEnergies Marketing Sénégal",
    "close": 3500,
@@ -45,6 +38,13 @@
    "close": 4200,
    "change": 2.31,
    "volume": 4053
+  },
+  {
+   "symbol": "BOAM",
+   "shortName": "BOA Mali",
+   "close": 4875,
+   "change": 1.35,
+   "volume": 3708
   }
  ],
  "losers": [
@@ -70,18 +70,18 @@
    "volume": 7527
   },
   {
-   "symbol": "UNXC",
-   "shortName": "Uniwax CI",
-   "close": 1650,
-   "change": -5.71,
-   "volume": 7670
-  },
-  {
    "symbol": "CBIBF",
    "shortName": "Coris Bank International",
    "close": 23500,
    "change": -5.62,
    "volume": 1548
+  },
+  {
+   "symbol": "SDCC",
+   "shortName": "SODECI",
+   "close": 10400,
+   "change": -5.45,
+   "volume": 1458
   }
  ],
  "mostActive": [
@@ -95,9 +95,9 @@
   {
    "symbol": "BOAC",
    "shortName": "BOA Côte d’Ivoire",
-   "close": 11000,
-   "change": 3.87,
-   "volume": 17167
+   "close": 10600,
+   "change": 0.09,
+   "volume": 17168
   },
   {
    "symbol": "BOAS",

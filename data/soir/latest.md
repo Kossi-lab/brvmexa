@@ -1,7 +1,7 @@
 # BRVMexa Soir — mercredi 25 novembre 2026
 
-> Script généré automatiquement le 2026-11-25 à 14:15 GMT à partir des données publiées (source des cours : brvm.org, données différées).
-> **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 3,6 minutes (545 mots).
+> Script généré automatiquement le 2026-11-25 à 14:31 GMT à partir des données publiées (source des cours : brvm.org, données différées).
+> **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 3,8 minutes (565 mots).
 
 ## 0:00 · Générique
 
@@ -17,16 +17,16 @@ Et à la une : Coris Bank Bénin lance une levée de fonds majeure de 19,19 mill
 ## 0:30 · La séance
 
 Commençons par le marché.
-L’indice BRVM Composite, qui regroupe toutes les actions, termine à 467 points, en baisse de 1,1 %.
-Le BRVM 30, l’indice des trente valeurs les plus actives, est en baisse de 1,0 %, et le BRVM Prestige en baisse de 0,9 %.
-Sur l’ensemble de la séance, 8 actions ont progressé, 35 ont reculé et 5 sont restées stables.
+L’indice BRVM Composite, qui regroupe toutes les actions, termine à 467 points, en baisse de 1,2 %.
+Le BRVM 30, l’indice des trente valeurs les plus actives, est en baisse de 1,1 %, et le BRVM Prestige en baisse de 0,8 %.
+Sur l’ensemble de la séance, 8 actions ont progressé, 34 ont reculé et 6 sont restées stables.
 Côté activité, environ 2,1 milliards de francs CFA ont été échangés aujourd’hui.
 Du côté des secteurs, les Services publics recule le plus, en baisse de 5,8 %.
 
 ## 1:15 · Le palmarès
 
 Dans le haut du tableau, Sucrivoire CI gagne 5,5 % à 1 335 francs CFA.
-Suivent Bridge Bank Group CI, en hausse de 3,9 %, et BOA Côte d’Ivoire, en hausse de 3,9 %.
+Suivent Bridge Bank Group CI, en hausse de 3,9 %, et TotalEnergies Marketing Sénégal, en hausse de 2,9 %.
 En bas du tableau, Filtisac CI cède 7,1 %, BICI Côte d’Ivoire 6,4 % et CIE Côte d’Ivoire 5,9 %.
 La valeur la plus échangée du jour est Sonatel, avec 52 883 titres, à 3 885 francs CFA, en baisse de 0,1 %.
 
@@ -37,8 +37,8 @@ La filiale béninoise du groupe Coris réalise une ouverture de capital historiq
 Cette démarche financière d'envergure positionne la filiale béninoise du groupe Coris parmi les acteurs très actifs du marché. Elle met en lumière la dynamique des institutions financières de la sous-région qui choisissent le marché boursier pour consolider leurs fonds propres.
 Retrouvez l’article complet dans la rubrique À la une de BRVMexa.
 En bref :
+La BOAD et la BERD étudient un dispositif de financement croisé de 400 millions d'euros. Un accord signé entre la BOAD et la BERD vise à créer un mécanisme de liquidités croisées en euros et en francs CFA pour atténuer le risque de change.
 La Côte d’Ivoire se hisse au deuxième rang des investisseurs africains en France. La Côte d'Ivoire renforce son influence économique internationale en devenant le deuxième plus grand investisseur africain sur le territoire français.
-Recomposition au conseil d’administration d'Ecobank après le départ de trois membres. Ecobank Transnational Incorporated enregistre le départ de trois membres de son conseil d'administration.
 
 ## 3:15 · Le mot de la fin
 

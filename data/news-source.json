@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-25T14:15:19.946Z",
+ "updatedAt": "2026-11-25T14:31:21.132Z",
  "items": [
+  {
+   "id": "sika-65950",
+   "title": "UEMOA : La BOAD et la BERD envisagent un mécanisme de financement réciproque de 400 millions d’euros pour dynamiser les investissements",
+   "summary": "La Banque ouest-africaine de développement (BOAD) et la Banque européenne pour la reconstruction et le développement (B...",
+   "url": "https://www.sikafinance.com/marches/uemoa-la-boad-et-la-berd-envisagent-un-mecanisme-de-financement-reciproque-de-400-millions-deuros-pour-dynamiser-les-investissements_65950",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-25T14:27:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65948",
    "title": "La Côte d’Ivoire s’impose comme le 2e investisseur africain en France",
@@ -4312,20 +4326,6 @@
    "symbols": [
     "BICC"
    ],
-   "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "sika-65435",
-   "title": "Le nouveau numéro du magazine Sika Finance est disponible, avec à la Une Gilles Thierry Beugré, directeur général de l’ANSUT !",
-   "summary": "Pour cette édition du troisième trimestre 2026, Sika Finance met le cap sur la transformation numérique de l'Afrique, a...",
-   "url": "https://www.sikafinance.com/marches/le-nouveau-numero-du-magazine-sika-finance-est-disponible-avec-a-la-une-gilles-thierry-beugre-directeur-general-de-lansut-_65435",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-02T16:21:00Z",
-   "symbols": [],
    "status": "done",
    "tries": 1
   }
