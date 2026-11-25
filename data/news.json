@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-25T08:30:28.426Z",
+ "updatedAt": "2026-11-25T08:45:26.498Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -17,6 +17,30 @@
     "19 PAGES"
    ],
    "pinned": true
+  },
+  {
+   "id": "sika-65928",
+   "title": "SIREXE 2026 : Orange Cloud & Cyber Solutions renforce la sécurité du réseau électrique ivoirien",
+   "summary": "Lors du SIREXE 2026, Orange Cloud & Cyber Solutions a présenté ses stratégies de cybersécurité pour protéger la transformation numérique du secteur électrique national face aux risques d'intrusions informatiques.",
+   "body": [
+    "Le 20 novembre 2026, à l'occasion du Salon international des ressources extractives et énergétiques (SIREXE) à Abidjan, Ferdinand Tra, président d'Orange Cloud & Cyber Solutions (OCCS), a souligné l'importance de sécuriser les infrastructures énergétiques. Face à la numérisation croissante du réseau, qui compte désormais 5,2 millions d'abonnés et près de 4,9 millions de compteurs intelligents, l'opérateur propose des solutions de surveillance continue pour prévenir les cyberattaques sur les systèmes de pilotage et les données de consommation.",
+    "Pour répondre aux défis de cette transition industrielle, OCCS préconise l'usage de capteurs intelligents et d'un centre opérationnel actif en permanence. Cette approche permet une maintenance prédictive et une détection rapide des anomalies. Par ailleurs, la collaboration entre les secteurs de l'énergie et des télécommunications se renforce, notamment par la mutualisation des infrastructures physiques, comme les poteaux électriques, visant à optimiser les coûts et à consolider la résilience numérique du pays."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65928",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-25T08:32:00Z",
+   "writtenAt": "2026-11-25T08:45:26.495Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/sirexe-2026-electricite-ferdinand-tra-expose-les-solutions-avancees-de-cyberprotection-d-orange-cloud-cyber-solutions_65928",
+    "title": "SIREXE 2026 / Électricité : Ferdinand Tra expose les solutions avancées de cyberprotection d'Orange Cloud & Cyber Solutions"
+   },
+   "rewritten": true
   },
   {
    "id": "sika-65927",
@@ -3759,30 +3783,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/congo-la-banque-mondiale-alerte-sur-les-risques-des-eurobonds-a-taux-dor-pour-les-finances-publiques_65695",
     "title": "Congo : La Banque mondiale alerte sur les risques des Eurobonds à taux d’or pour les finances publiques"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65694",
-   "title": "Côte d’Ivoire : la mine d’or de Koné officiellement lancée pour booster la production nationale",
-   "summary": "Inaugurée le 12 novembre, la mine de Koné ambitionne de produire dix tonnes d'or par an. Ce projet majeur, porté par Montage Gold, représente un pilier stratégique pour l'économie ivoirienne.",
-   "body": [
-    "Le site minier de Koné, situé à Fadiadougou, a été inauguré le 12 novembre 2026 par le vice-Premier ministre Téné Birahima Ouattara. Avec un investissement dépassant 580 milliards de FCFA, cette infrastructure est désormais la plus grande mine d'or du pays et se positionne déjà comme la troisième plus importante en Afrique de l'Ouest. L'exploitant, Montage Gold, prévoit une production annuelle moyenne de dix tonnes d'or sur les huit premières années, pour une durée d'exploitation totale estimée à deux décennies.",
-    "Ce projet s'inscrit dans la stratégie nationale visant à faire du secteur minier un moteur de croissance économique. Le gouvernement ivoirien anticipe que 55 % des revenus générés par Koné resteront sur le territoire national. Par ailleurs, un fonds de développement local doté de quatre milliards de FCFA par an a été mis en place pour soutenir les communautés riveraines, tandis que l'opérateur s'est engagé à réinvestir ses profits dans de nouveaux projets d'exploration au sein du pays."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65694",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-13T09:55:00Z",
-   "writtenAt": "2026-11-13T10:51:39.064Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/la-cote-divoire-inaugure-kone-un-geant-minier-ouest-africain-qui-vise-dix-tonnes-dor-par-an_65694",
-    "title": "La Côte d’Ivoire inaugure Koné, un géant minier ouest africain qui vise dix tonnes d’or par an"
    },
    "rewritten": true
   }

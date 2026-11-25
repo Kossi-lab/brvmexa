@@ -1,7 +1,7 @@
 # BRVMexa Soir — mardi 24 novembre 2026
 
-> Script généré automatiquement le 2026-11-25 à 08:30 GMT à partir des données publiées (source des cours : brvm.org, données différées).
-> **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 3,9 minutes (584 mots).
+> Script généré automatiquement le 2026-11-25 à 08:45 GMT à partir des données publiées (source des cours : brvm.org, données différées).
+> **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 3,9 minutes (592 mots).
 
 ## 0:00 · Générique
 
@@ -38,8 +38,8 @@ Coris Bank Côte d’Ivoire lance une offre publique de vente de 20 % de son cap
 La période de souscription est ouverte du 30 novembre au 4 décembre 2026. Le prix unitaire est fixé à 7 720 FCFA pour le grand public, tandis qu'un tarif préférentiel de 6 175 FCFA a été réservé aux employés du groupe.
 Retrouvez l’article complet dans la rubrique À la une de BRVMexa.
 En bref :
+SIREXE 2026 : Orange Cloud & Cyber Solutions renforce la sécurité du réseau électrique ivoirien. Lors du SIREXE 2026, Orange Cloud & Cyber Solutions a présenté ses stratégies de cybersécurité pour protéger la transformation numérique du secteur électrique national face aux risques d'intrusions informatiques.
 La BAD finance une ambassade régionale des données pour la CEDEAO en Sierra Leone. La Banque africaine de développement a accordé 750 000 USD à la Sierra Leone pour lancer le projet d'une ambassade régionale des données destinée à renforcer la souveraineté numérique ouest-africaine.
-Tullow Oil trouve un accord avec le Ghana pour solder un litige fiscal. Le géant pétrolier Tullow Oil a signé un accord avec le gouvernement ghanéen pour résoudre un différend fiscal de 387 millions de dollars.
 
 ## 3:15 · Le mot de la fin
 

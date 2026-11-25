@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-25T08:30:28.424Z",
+ "updatedAt": "2026-11-25T08:45:26.495Z",
  "items": [
+  {
+   "id": "sika-65928",
+   "title": "SIREXE 2026 / Électricité : Ferdinand Tra expose les solutions avancées de cyberprotection d'Orange Cloud & Cyber Solutions",
+   "summary": "Face à la digitalisation accélérée du réseau national d'électricité, Orange Cloud & Cyber Solutions (OCCS) accompag...",
+   "url": "https://www.sikafinance.com/marches/sirexe-2026-electricite-ferdinand-tra-expose-les-solutions-avancees-de-cyberprotection-d-orange-cloud-cyber-solutions_65928",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-25T08:32:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65927",
    "title": "Souveraineté numérique : La BAD débloque 750 000 USD pour doter la CEDEAO d’une ambassade régionale des données en Sierra Leone",
@@ -14,6 +28,22 @@
    "symbols": [],
    "status": "done",
    "tries": 1
+  },
+  {
+   "id": "gn-pfcddy",
+   "title": "Bridge Bank Group (BBGC) — BRVM",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VWFNIS3puU1RSY09PZGRsWkVIcnh4cHM3ZXFnd2lVbmR1OGU3dFRfMG92UENpbkdnVjNnNGpvckliaWthcXBZaVBjeVVFZXBodzNCZEpSU1hBN1FXbDlLSC0yb0Nvdw?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-25T06:15:45.000Z",
+   "symbols": [
+    "BBGC"
+   ],
+   "status": "new",
+   "tries": 0
   },
   {
    "id": "gn-oxc567",
@@ -884,22 +914,6 @@
    "symbols": [],
    "status": "done",
    "tries": 1
-  },
-  {
-   "id": "gn-1bkqz72",
-   "title": "Saph Côte d'Ivoire (SPHC) — BRVM",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1zVWZyMmlqQ1JyNjFwRnlINzU3WEp4VDh1Ykszano4RXU1TzJSa3RTaklKVWN1UTZDNllocVY4d05fcDNXdVN1M0pyWDE1RU9zS2xLSzN0UEtuZVE5RExzR1N5amN3QQ?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-11-20T08:00:00.000Z",
-   "symbols": [
-    "SPHC"
-   ],
-   "status": "new",
-   "tries": 0
   },
   {
    "id": "gn-1gfad7o",
@@ -4313,20 +4327,6 @@
    "category": "Marchés",
    "premium": true,
    "publishedAt": "2026-11-02T09:45:00Z",
-   "symbols": [],
-   "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "sika-65411",
-   "title": "Sénégal : Le gouvernement craint des arriérés et des manquements dans l’approvisionnement des centrales",
-   "summary": "Au Sénégal, le projet de loi de finances rectificative (PLFR) 2026 est rejeté pour la deuxième fois en commission de l'...",
-   "url": "https://www.sikafinance.com/marches/senegal-le-gouvernement-craint-des-arrieres-et-des-manquements-dans-lapprovisionnement-des-centrales_65411",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-02T09:23:00Z",
    "symbols": [],
    "status": "done",
    "tries": 1
