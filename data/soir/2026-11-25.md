@@ -1,6 +1,6 @@
 # BRVMexa Soir — mercredi 25 novembre 2026
 
-> Script généré automatiquement le 2026-11-25 à 18:32 GMT à partir des données publiées (source des cours : brvm.org, données différées).
+> Script généré automatiquement le 2026-11-25 à 18:37 GMT à partir des données publiées (source des cours : brvm.org, données différées).
 > **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 3,9 minutes (589 mots).
 
 ## 0:00 · Générique
