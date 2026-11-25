@@ -1,6 +1,34 @@
 {
- "updatedAt": "2026-11-25T11:45:47.862Z",
+ "updatedAt": "2026-11-25T12:01:25.344Z",
  "items": [
+  {
+   "id": "gn-1l30lgk",
+   "title": "Tunisie : Hausse de 4,2% du revenu global des sociétés cotées à la Bourse de Tunis à fin septembre 2026",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQendTV2Y3Nks4UHJPVmNjcl9UN2VUOWRpRUJjeFlEa3JLb09rX25BSjdGRmo5Yzd1ZHJyc2VRaEkxczVGSGVfYzRlUWUwcVlIN0pjcUNBb1JabDROc2tHZXdJdnAzTWVnWWJNaVZ3UEFYb09rdWRqMUVLa2p1VlhYLTFwaFJwTlBRS0djV3NWRDRyTVdpY210RW1sV1pXMHlYRkJFMU1vODFPU0trTVdEaU5pUEtlR3JSbGVORjRsVW4yVjZCcjNwVlNvYllmOFlUQ2diVVcxQjhfQQ?oc=5",
+   "image": null,
+   "source": "Financial Afrik",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-25T11:57:08.000Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "gn-1y6mh3h",
+   "title": "UMOA : la Côte d’Ivoire lève 110 milliards de FCFA et conforte son statut de signature souveraine de référence",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUkhZVU1kbG43VlF1amRLRzRfR2V3Vm1xbjJ4ZkhQNjZCSENoWXJURjI4RFY0TTFhbnYxZUx5Sk41WDlOeFp6T0N0c1RpWEpTQndWTE1RbWF3MVhpZmZuWnNuT0tRVE1nY2lMS05kVlZJZ1lGWHRTMzdHZk1jNzU4TThUYlRBcVRHajlvWXJfb01sSF90WE5TSWlnX1N5cVZFUjNPYTVCc1NiVDRNaWptV2RHYUl3OHZqZzlOblI4ODVGTjRpT3B0QlNSQ25zT1hwdzJNdHJZTmw5MWlYWlN1c0xENzM?oc=5",
+   "image": null,
+   "source": "Financial Afrik",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-25T11:55:22.000Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65940",
    "title": "RDC : 965 millions USD annoncés pour dynamiser le secteur minier",
@@ -18,7 +46,7 @@
   {
    "id": "sika-65939",
    "title": "Après le Burkina Faso et la Côte d’Ivoire, le Groupe Coris introduit sa filiale béninoise à la BRVM à 4 700 FCFA l’action",
-   "summary": "Avec 4,1 millions de titres proposés à 4 700 FCFA l'unité au public, l'offre de Coris Bank International Bénin porte su...",
+   "summary": "Avec 4,1 millions de titres proposés à 4 700 FCFA l'unité au public, l'offre de Coris Bank International Bénin porte sur...",
    "url": "https://www.sikafinance.com/marches/apres-le-burkina-faso-et-la-cote-divoire-le-groupe-coris-introduit-sa-filiale-beninoise-a-la-brvm-a-4-700-fcfa-laction_65939",
    "image": null,
    "source": "Sika Finance",
@@ -4292,38 +4320,6 @@
    "premium": false,
    "publishedAt": "2026-11-02T15:31:00Z",
    "symbols": [],
-   "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "sika-65426",
-   "title": "Journées de l'expérience client en Afrique francophone : NSIA Banque Côte d'Ivoire partage sa vision",
-   "summary": "NSIA Banque Côte d'Ivoire a pris part à la 8ᵉ édition des Journées de l'Expérience Client en Afrique Francophone ...",
-   "url": "https://www.sikafinance.com/marches/journees-de-l-experience-client-en-afrique-francophone-nsia-banque-cote-d-ivoire-partage-sa-vision_65426",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-02T15:15:00Z",
-   "symbols": [
-    "NSBC"
-   ],
-   "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "sika-65422",
-   "title": "SMB CI : Hausse de 57% du résultat net au 30 septembre 2026",
-   "summary": "La Société Multinationale de Bitumes (SMB CI) voit son résultat net nettement progresser à fin septembre 2026, ap...",
-   "url": "https://www.sikafinance.com/marches/smb-ci-hausse-de-57-du-resultat-net-au-30-septembre-2026_65422",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": true,
-   "publishedAt": "2026-11-02T13:04:00Z",
-   "symbols": [
-    "SMBC"
-   ],
    "status": "done",
    "tries": 1
   }

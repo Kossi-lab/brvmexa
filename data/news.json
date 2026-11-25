@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-25T11:45:47.864Z",
+ "updatedAt": "2026-11-25T12:01:25.346Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -17,6 +17,54 @@
     "19 PAGES"
    ],
    "pinned": true
+  },
+  {
+   "id": "gn-1l30lgk",
+   "title": "Bourse de Tunis : une progression de 4,2% des revenus des sociétés cotées au troisième trimestre",
+   "summary": "Les entreprises cotées à la Bourse de Tunis affichent une dynamique positive avec une croissance de 4,2% de leur revenu global enregistrée à la fin du mois de septembre 2026.",
+   "body": [
+    "Le marché financier tunisien témoigne d'une tendance haussière concernant l'activité des sociétés qui y sont inscrites. Au terme des neuf premiers mois de l'année 2026, le chiffre d'affaires cumulé de ces entités a progressé de 4,2%.",
+    "Ces données, arrêtées au 30 septembre 2026, illustrent la performance financière globale des entreprises sur cette période. Cette évolution reflète la dynamique économique actuelle observée au sein des sociétés cotées sur la place boursière tunisienne."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#gn-1l30lgk",
+   "image": null,
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-25T11:57:08.000Z",
+   "writtenAt": "2026-11-25T12:00:51.640Z",
+   "symbols": [],
+   "origin": {
+    "name": "Financial Afrik",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQendTV2Y3Nks4UHJPVmNjcl9UN2VUOWRpRUJjeFlEa3JLb09rX25BSjdGRmo5Yzd1ZHJyc2VRaEkxczVGSGVfYzRlUWUwcVlIN0pjcUNBb1JabDROc2tHZXdJdnAzTWVnWWJNaVZ3UEFYb09rdWRqMUVLa2p1VlhYLTFwaFJwTlBRS0djV3NWRDRyTVdpY210RW1sV1pXMHlYRkJFMU1vODFPU0trTVdEaU5pUEtlR3JSbGVORjRsVW4yVjZCcjNwVlNvYllmOFlUQ2diVVcxQjhfQQ?oc=5",
+    "title": "Tunisie : Hausse de 4,2% du revenu global des sociétés cotées à la Bourse de Tunis à fin septembre 2026"
+   },
+   "rewritten": true
+  },
+  {
+   "id": "gn-1y6mh3h",
+   "title": "La Côte d’Ivoire mobilise 110 milliards FCFA sur le marché financier de l’UMOA",
+   "summary": "La Côte d’Ivoire a réussi une opération de levée de fonds de 110 milliards de FCFA, confirmant ainsi sa position de premier plan parmi les émetteurs souverains de la zone.",
+   "body": [
+    "Le 25 novembre 2026, l'État ivoirien a finalisé avec succès une émission de titres publics sur le marché financier de l'Union monétaire ouest-africaine (UMOA). Cette opération a permis de collecter un montant total de 110 milliards de FCFA.",
+    "Ce résultat souligne la solidité de la signature de la Côte d'Ivoire auprès des investisseurs de la sous-région. Par cette levée de fonds, le pays consolide son statut de référence en tant qu'émetteur souverain au sein de l'espace communautaire."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#gn-1y6mh3h",
+   "image": null,
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-25T11:55:22.000Z",
+   "writtenAt": "2026-11-25T12:01:25.343Z",
+   "symbols": [],
+   "origin": {
+    "name": "Financial Afrik",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUkhZVU1kbG43VlF1amRLRzRfR2V3Vm1xbjJ4ZkhQNjZCSENoWXJURjI4RFY0TTFhbnYxZUx5Sk41WDlOeFp6T0N0c1RpWEpTQndWTE1RbWF3MVhpZmZuWnNuT0tRVE1nY2lMS05kVlZJZ1lGWHRTMzdHZk1jNzU4TThUYlRBcVRHajlvWXJfb01sSF90WE5TSWlnX1N5cVZFUjNPYTVCc1NiVDRNaWptV2RHYUl3OHZqZzlOblI4ODVGTjRpT3B0QlNSQ25zT1hwdzJNdHJZTmw5MWlYWlN1c0xENzM?oc=5",
+    "title": "UMOA : la Côte d’Ivoire lève 110 milliards de FCFA et conforte son statut de signature souveraine de référence"
+   },
+   "rewritten": true
   },
   {
    "id": "sika-65940",
@@ -3736,55 +3784,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/senegal-le-fmi-conditionne-lapprobation-de-son-programme-de-2-2-milliards-usd-a-la-finalisation-du-cadre-budgetaire_65710",
     "title": "Sénégal : Le FMI conditionne l’approbation de son programme de 2,2 milliards USD à la finalisation du cadre budgétaire"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65709",
-   "title": "Ghana : un plan de 10 milliards de dollars pour transformer l'économie d'ici 2030",
-   "summary": "Le gouvernement ghanéen a dévoilé le programme « New Economy, New Ghana », visant à stimuler la production locale et réduire les importations via des investissements massifs sur la période 2027-2030.",
-   "body": [
-    "Présenté le 12 novembre 2026 par le ministre des Finances Cassiel Ato Forson, ce projet ambitieux prévoit une enveloppe globale de 10 milliards de dollars, soit environ 2,5 milliards de dollars par an. L'objectif est de réorienter le modèle économique national pour privilégier la transformation locale des matières premières et renforcer les capacités industrielles, tout en évitant le recours à de nouveaux emprunts grâce à une meilleure gestion des recettes fiscales et des marges budgétaires.",
-    "Le programme cible plusieurs secteurs clés : l'agriculture recevra 3 milliards de dollars pour développer des filières comme le riz et le cacao, tandis que 1,5 milliard sera alloué à la transformation locale des ressources minières. Le secteur énergétique bénéficiera de 2,2 milliards de dollars pour moderniser les infrastructures et réduire les coûts de production, complété par 1 milliard dédié au tourisme et aux industries créatives.",
-    "Cette stratégie s'inscrit dans un contexte de redressement des finances publiques ghanéennes. Pour 2027, le gouvernement anticipe une croissance économique de 5,2 % et un déficit budgétaire ramené à 3,6 % du PIB. La réussite de ce plan dépendra désormais de la capacité de l'État à concrétiser ces investissements pour transformer durablement la structure productive du pays."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65709",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-13T13:48:00Z",
-   "writtenAt": "2026-11-13T14:59:06.199Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/ghana-un-programme-de-10-milliards-de-dollars-pour-transformer-leconomie-a-lhorizon-2030_65709",
-    "title": "Ghana : Un programme de 10 milliards de dollars pour transformer l’économie à l’horizon 2030"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "gn-8kh3g8",
-   "title": "Le groupe Coris envisage l'introduction en bourse de deux nouvelles filiales",
-   "summary": "Le dirigeant Idrissa Nassa projette de faire entrer deux entités du groupe Coris sur le marché financier régional de la BRVM.",
-   "body": [
-    "Le président Idrissa Nassa a annoncé son intention de procéder à l'introduction en bourse (IPO) de deux filiales du groupe Coris. Cette opération stratégique se déroulera sur la Bourse régionale des valeurs mobilières (BRVM).",
-    "Cette démarche marque une nouvelle étape dans le développement du groupe sur les marchés financiers d'Afrique de l'Ouest. Les détails concernant le calendrier et les modalités de ces futures cotations restent à préciser."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#gn-8kh3g8",
-   "image": null,
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-11-13T13:40:00.000Z",
-   "writtenAt": "2026-11-13T16:35:40.262Z",
-   "symbols": [],
-   "origin": {
-    "name": "africabusinessplus.com",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdE5VcUwwS2ZJdW95RnAydEZlNkxuLW55RjkyR3R5el81NGQ5N1ZjYnl5NlBKNFljZFJWWmNtdU50LUJGdmlFZGdUbW5lbzhILS1fYzBxNnpEYVpveWMxeC1ob0pZS09zbDBDR0FXWXYyUXFHeU9WUF9IaTJ5bFd2ZVBVSmlacnZwTGc1cXUwZWNhS1ZvYnN3N2J0R1ROTHFQQ0pLX0F6UGhndl9TcG9B?oc=5",
-    "title": "Idrissa Nassa prépare l’IPO de deux filiales de Coris sur la BRVM"
    },
    "rewritten": true
   }
