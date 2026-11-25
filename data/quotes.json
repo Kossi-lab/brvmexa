@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-11-25T15:00:17.746Z",
+ "updatedAt": "2026-11-25T15:15:17.506Z",
  "sessionDate": "2026-11-25",
- "sessionTime": "14:45",
+ "sessionTime": "15:02",
  "source": "brvm.org",
  "items": [
   {
@@ -232,7 +232,7 @@
   {
    "symbol": "ECOC",
    "name": "ECOBANK COTE D'IVOIRE",
-   "volume": 774,
+   "volume": 781,
    "prevClose": 14500,
    "refPrice": 14500,
    "open": 14005,
@@ -517,7 +517,7 @@
   {
    "symbol": "SIBC",
    "name": "SOCIETE IVOIRIENNE DE BANQUE COTE D'IVOIRE",
-   "volume": 6791,
+   "volume": 6801,
    "prevClose": 7990,
    "refPrice": 7800,
    "open": 7950,
@@ -607,7 +607,7 @@
   {
    "symbol": "SOGC",
    "name": "SOGB COTE D'IVOIRE",
-   "volume": 838,
+   "volume": 879,
    "prevClose": 7250,
    "refPrice": 7250,
    "open": 7240,
