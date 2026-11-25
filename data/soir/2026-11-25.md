@@ -1,7 +1,7 @@
 # BRVMexa Soir — mercredi 25 novembre 2026
 
-> Script généré automatiquement le 2026-11-25 à 11:00 GMT à partir des données publiées (source des cours : brvm.org, données différées).
-> **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 4,0 minutes (593 mots).
+> Script généré automatiquement le 2026-11-25 à 11:16 GMT à partir des données publiées (source des cours : brvm.org, données différées).
+> **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 3,9 minutes (581 mots).
 
 ## 0:00 · Générique
 
@@ -17,19 +17,19 @@ Et à la une : Coris Bank Bénin lance une levée de fonds majeure de 19,19 mill
 ## 0:30 · La séance
 
 Commençons par le marché.
-L’indice BRVM Composite, qui regroupe toutes les actions, termine à 468 points, en baisse de 0,8 %.
-Le BRVM 30, l’indice des trente valeurs les plus actives, est en baisse de 1,0 %, et le BRVM Prestige en baisse de 0,9 %.
-Sur l’ensemble de la séance, 7 actions ont progressé, 29 ont reculé et 12 sont restées stables.
-Côté activité, environ 342 millions de francs CFA ont été échangés aujourd’hui.
-Du côté des secteurs, meilleur score pour l’Énergie, en hausse de 0,4 %, tandis que les Industriels ferme la marche, en baisse de 2,9 %.
+L’indice BRVM Composite, qui regroupe toutes les actions, termine à 469 points, en baisse de 0,7 %.
+Le BRVM 30, l’indice des trente valeurs les plus actives, est en baisse de 0,8 %, et le BRVM Prestige en baisse de 0,7 %.
+Sur l’ensemble de la séance, 6 actions ont progressé, 29 ont reculé et 13 sont restées stables.
+Côté activité, environ 403 millions de francs CFA ont été échangés aujourd’hui.
+Du côté des secteurs, meilleur score pour l’Énergie, en hausse de 1,4 %, tandis que les Industriels ferme la marche, en baisse de 3,4 %.
 
 ## 1:15 · Le palmarès
 
-Dans le haut du tableau, Bridge Bank Group CI gagne 6,7 % à 8 000 francs CFA.
-Suivent TotalEnergies Marketing Sénégal, en hausse de 2,8 %, et Vivo Energy CI, en hausse de 2,8 %.
-En bas du tableau, Filtisac CI cède 7,5 %, SAFCA CI 5,4 % et SODECI 4,6 %.
-La valeur la plus échangée du jour est Sonatel, avec 16 003 titres, à 3 880 francs CFA, en baisse de 0,3 %.
-À noter aussi : Bridge Bank Group CI, très échangée, progresse de 6,7 %.
+Dans le haut du tableau, Bridge Bank Group CI gagne 5,5 % à 7 910 francs CFA.
+Suivent Vivo Energy CI, en hausse de 5,3 %, et TotalEnergies Marketing Sénégal, en hausse de 2,8 %.
+En bas du tableau, Filtisac CI cède 7,5 %, SODECI 4,6 % et SETAO CI 4,4 %.
+La valeur la plus échangée du jour est Sonatel, avec 26 734 titres, à 3 890 francs CFA, stable.
+À noter aussi : Bridge Bank Group CI, très échangée, progresse de 5,5 %.
 
 ## 2:00 · L’actualité du jour
 
@@ -38,8 +38,8 @@ La filiale béninoise du groupe Coris réalise une ouverture de capital historiq
 Cette démarche financière d'envergure positionne la filiale béninoise du groupe Coris parmi les acteurs très actifs du marché. Elle met en lumière la dynamique des institutions financières de la sous-région qui choisissent le marché boursier pour consolider leurs fonds propres.
 Retrouvez l’article complet dans la rubrique À la une de BRVMexa.
 En bref :
+First Circle Capital lève 26 millions USD pour la fintech en Afrique. Le fonds panafricain First Circle Capital a mobilisé 26 millions de dollars pour soutenir 24 jeunes startups de la finance numérique.
 La BERD lance un dispositif complet pour soutenir le financement des PME en Côte d'Ivoire. La BERD déploie une offre intégrée en Côte d'Ivoire pour lever les obstacles financiers et opérationnels rencontrés par les PME, en collaboration avec la BAD.
-RDC : 965 millions USD mobilisés pour transformer le cuivre, le cobalt et l'étain. Lors du Forum minier Makutano 2026, près d'un milliard de dollars ont été annoncés pour renforcer la transformation locale des ressources minières en République démocratique du Congo.
 
 ## 3:15 · Le mot de la fin
 

@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-25T11:00:27.339Z",
+ "updatedAt": "2026-11-25T11:16:58.668Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -17,6 +17,31 @@
     "19 PAGES"
    ],
    "pinned": true
+  },
+  {
+   "id": "sika-65938",
+   "title": "First Circle Capital lève 26 millions USD pour la fintech en Afrique",
+   "summary": "Le fonds panafricain First Circle Capital a mobilisé 26 millions de dollars pour soutenir 24 jeunes startups de la finance numérique.",
+   "body": [
+    "Le fonds panafricain First Circle Capital a finalisé une levée de fonds de 26 millions USD, coordonnée depuis Paris, Casablanca, Kampala, Nairobi et Le Cap. Cette ressource financière est destinée à accompagner 24 jeunes pousses de la technologie financière en phase de démarrage sur le continent.",
+    "Ce tour de table a bénéficié de la contribution de plusieurs institutions majeures, telles que la banque publique française Bpifrance à travers Averroès Africa Ventures, la Société financière internationale (SFI), le groupe Axian, le fonds néerlandais Dutch Good Growth Fund ainsi que l'agence égyptienne MSMEDA.",
+    "L'objectif de cette démarche est de stimuler l'inclusion financière en préparant ces structures innovantes à obtenir de futurs financements de série A. L'initiative est pilotée par une équipe de trois associés aux parcours internationaux et s'appuie sur un premier portefeuille comprenant déjà 15 participations réparties dans 8 pays."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65938",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-25T11:12:00Z",
+   "writtenAt": "2026-11-25T11:16:58.665Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/fintech-first-circle-capital-boucle-26-millions-usd-pour-propulser-24-pepites-africaines-en-phase-de-demarrage_65938",
+    "title": "Fintech : First Circle Capital boucle 26 millions USD pour propulser 24 pépites africaines en phase de démarrage"
+   },
+   "rewritten": true
   },
   {
    "id": "sika-65936",
@@ -3756,30 +3781,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/rdc-le-chinois-jiayou-veut-rehabiliter-366-km-de-rail-et-moderniser-deux-ports_65706",
     "title": "RDC : Le chinois Jiayou veut réhabiliter 366 km de rail et moderniser deux ports"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65705",
-   "title": "PI-SPI : Analyse des frais de transaction sur la plateforme de paiement instantané",
-   "summary": "La mise en service de la Plateforme interopérable du système de paiement instantané (PI-SPI) suscite des interrogations concernant sa structure tarifaire et le taux de commission appliqué.",
-   "body": [
-    "Le lancement récent de la PI-SPI a généré un vif intérêt au sein de l'écosystème financier. Depuis son déploiement le 13 novembre 2026, les modalités de facturation de cet outil de paiement instantané font l'objet de discussions, notamment concernant le niveau des frais prélevés sur les opérations.",
-    "Au cœur des débats figure le taux de 0,8 %, souvent évoqué comme la commission appliquée aux transactions. Cette structure tarifaire interroge les utilisateurs et les acteurs du marché sur l'impact réel de ces coûts dans le cadre de l'interopérabilité des systèmes de paiement."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65705",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-13T11:55:00Z",
-   "writtenAt": "2026-11-13T12:53:29.119Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/pi-spi-les-frais-sont-ils-vraiment-de-0-8-_65705",
-    "title": "PI-SPI : Les frais sont-ils vraiment de 0,8% ?"
    },
    "rewritten": true
   }

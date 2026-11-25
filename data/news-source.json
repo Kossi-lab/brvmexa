@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-25T11:00:27.337Z",
+ "updatedAt": "2026-11-25T11:16:58.666Z",
  "items": [
+  {
+   "id": "sika-65938",
+   "title": "Fintech : First Circle Capital boucle 26 millions USD pour propulser 24 pépites africaines en phase de démarrage",
+   "summary": "First Circle Capital, fonds panafricain dédié aux startups fintech à fort potentiel, annonce la clôture d'une env...",
+   "url": "https://www.sikafinance.com/marches/fintech-first-circle-capital-boucle-26-millions-usd-pour-propulser-24-pepites-africaines-en-phase-de-demarrage_65938",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-25T11:12:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65936",
    "title": "Côte d’Ivoire : La BERD déploie une offre intégrée pour faciliter le financement et la croissance des PME",
@@ -4310,22 +4324,6 @@
    "premium": false,
    "publishedAt": "2026-11-02T11:55:00Z",
    "symbols": [],
-   "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "gn-1lr0nmy",
-   "title": "Onatel Burkina Faso (ONTBF) — BRVM",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tMVRXdFVBdDhJeEhBSUhIMjdZS2RaWXZtX2F3YUNaV0lJczZDRnVPa19OeE41Rm9BcjE2N0ZGc3FONVpfX1VTVzdJRkpMLVR1V0JFNUZtR3Q3czN1dVVaTlZRYTgtdDg?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-11-02T11:48:55.000Z",
-   "symbols": [
-    "ONTBF"
-   ],
    "status": "done",
    "tries": 1
   }
