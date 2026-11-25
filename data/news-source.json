@@ -1,6 +1,34 @@
 {
- "updatedAt": "2026-11-25T13:02:38.443Z",
+ "updatedAt": "2026-11-25T13:15:56.172Z",
  "items": [
+  {
+   "id": "sika-65945",
+   "title": "La Côte d’Ivoire s’impose comme le 2e investisseur africain en France",
+   "summary": "La Côte d'Ivoire n'est plus seulement une destination attractive pour les investisseurs étrangers. Mieux, elle re...",
+   "url": "https://www.sikafinance.com/marches/la-cote-divoire-simpose-comme-le-2e-investisseur-africain-en-france_65945",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-11-25T13:12:00Z",
+   "symbols": [],
+   "status": "skip",
+   "tries": 1
+  },
+  {
+   "id": "sika-65946",
+   "title": "Les fonds de pension africains pèsent 455 milliards USD",
+   "summary": "L'Afrique pourrait trouver une partie des financements nécessaires à son développement dans une ressource qu'elle mobil...",
+   "url": "https://www.sikafinance.com/marches/les-fonds-de-pension-africains-pesent-455-milliards-usd_65946",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-11-25T13:11:00Z",
+   "symbols": [],
+   "status": "skip",
+   "tries": 1
+  },
   {
    "id": "sika-65943",
    "title": "Afrique : Trois administrateurs quittent le conseil d’administration du groupe bancaire Ecobank",
@@ -18,19 +46,19 @@
    "tries": 1
   },
   {
-   "id": "gn-b1jt4m",
+   "id": "gn-1v1pu1t",
    "title": "BRVM : Coris Bank Bénin ouvre 20 % de son capital, l’action à 4 700 FCFA",
    "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaUdEYkoxelFvTTJXS0MzWlNIaE9URW1CbFBnb2RCMWhQdHRvUFh6bjJTeE9TSlNZd2hBZi1SX2dpR19YNjBZMkNCeTZSRTNCcDNNX0pfSmpDeEhIS1BUbXJTb3RsbjBFbWNNRlhtRHBOa2FYdWo0RkQwQWRmVktzMElnYzh2RTltSjIyMjFfdEg0ZWl6?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQVJZQkxGeW1pYzNYUnN0UXFLQTV0Q2djNExGUHh6dmdCa0sxVTByLTh0M3JPQVc1S3dnb2FiWkZqMlB2WnZoR3JPYXp1V3VLTGFsYk9qbXFHc0JWZXpvc1V3SEgwTFlvcU9xd3dNSHhnbjFHVXlNNE9ZbVJZQVdKSTNIeWxqTk93RU5nUjVTbFRjWXc?oc=5",
    "image": null,
-   "source": "beninwebtv.com",
+   "source": "Bénin Web TV",
    "category": "Presse",
    "premium": false,
-   "publishedAt": "2026-11-25T12:31:34.000Z",
+   "publishedAt": "2026-11-25T12:42:43.000Z",
    "symbols": [
     "CBIBF"
    ],
-   "status": "done",
+   "status": "skip",
    "tries": 1
   },
   {
@@ -4297,34 +4325,6 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-11-02T16:21:00Z",
-   "symbols": [],
-   "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "sika-65433",
-   "title": "RDC : L'accord commercial avec les Émirats arabes unis entre en vigueur et ouvre l’accès de 6 000 produits au marché émirati",
-   "summary": "Depuis le 30 octobre 2026, quelque 6 000 produits d'origine congolaise peuvent accéder au marché des Émirats ara...",
-   "url": "https://www.sikafinance.com/marches/rdc-l-accord-commercial-avec-les-emirats-arabes-unis-entre-en-vigueur-et-ouvre-lacces-de-6-000-produits-au-marche-emirati_65433",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-02T15:50:00Z",
-   "symbols": [],
-   "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "gn-1qr2q8x",
-   "title": "BRVM / Semaine 43 : Les résultats rebattent les cartes, le marché rebondit",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNzhOcTZOUE00SUZCZ2hXNzlFdHZDYW5aTkhQdVlQWm1ZMXQ5V1ZoNnpiWWs1bGpydHQ0cktyd1pRWVpKN1F6U0hQSzhuZVFDMnM1TkJSU2k0YUkwVm4yTF9CX1JvNkNPQ05TVzB0VDJxcV9DdGJPUVkwdXZwOU1IOXlGdFM0ZHN5VmdJVWdNR1NjbVNMcVpmQ1RUZjYwalhoMkV6TVp1VlZFYmFSX2poaA?oc=5",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-11-02T15:49:01.000Z",
    "symbols": [],
    "status": "done",
    "tries": 1

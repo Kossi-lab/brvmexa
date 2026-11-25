@@ -1,22 +1,22 @@
 {
- "updatedAt": "2026-11-25T13:00:20.560Z",
+ "updatedAt": "2026-11-25T13:15:14.359Z",
  "sessionDate": "2026-11-25",
- "sessionTime": "12:45",
+ "sessionTime": "13:02",
  "source": "brvm.org",
- "transactionsValue": 862783972,
- "capitalisationActions": 18275587179042,
+ "transactionsValue": 894141974,
+ "capitalisationActions": 18287298242042,
  "capitalisationBonds": 13419743433771,
  "advancing": 6,
  "declining": 36,
  "unchanged": 6,
- "totalVolume": 789685,
+ "totalVolume": 796376,
  "gainers": [
   {
    "symbol": "BBGC",
    "shortName": "Bridge Bank Group CI",
-   "close": 7900,
-   "change": 5.33,
-   "volume": 7624
+   "close": 7795,
+   "change": 3.93,
+   "volume": 7943
   },
   {
    "symbol": "TTLS",
@@ -30,21 +30,21 @@
    "shortName": "Sucrivoire CI",
    "close": 1300,
    "change": 2.77,
-   "volume": 8482
+   "volume": 8623
   },
   {
    "symbol": "BOAM",
    "shortName": "BOA Mali",
-   "close": 4850,
-   "change": 0.83,
-   "volume": 2411
+   "close": 4870,
+   "change": 1.25,
+   "volume": 2690
   },
   {
    "symbol": "BOAC",
    "shortName": "BOA Côte d’Ivoire",
    "close": 10605,
    "change": 0.14,
-   "volume": 15478
+   "volume": 15721
   }
  ],
  "losers": [
@@ -60,65 +60,65 @@
    "shortName": "Filtisac CI",
    "close": 1370,
    "change": -7.12,
-   "volume": 3662
+   "volume": 3664
+  },
+  {
+   "symbol": "CBIBF",
+   "shortName": "Coris Bank International",
+   "close": 23400,
+   "change": -6.02,
+   "volume": 1340
   },
   {
    "symbol": "CIEC",
    "shortName": "CIE Côte d’Ivoire",
    "close": 4000,
    "change": -5.88,
-   "volume": 4623
+   "volume": 6914
   },
   {
    "symbol": "UNXC",
    "shortName": "Uniwax CI",
    "close": 1650,
    "change": -5.71,
-   "volume": 6368
-  },
-  {
-   "symbol": "CBIBF",
-   "shortName": "Coris Bank International",
-   "close": 23500,
-   "change": -5.62,
-   "volume": 1285
+   "volume": 6390
   }
  ],
  "mostActive": [
   {
    "symbol": "SNTS",
    "shortName": "Sonatel",
-   "close": 3850,
-   "change": -1.03,
-   "volume": 45943
+   "close": 3885,
+   "change": -0.13,
+   "volume": 47030
   },
   {
    "symbol": "BOAC",
    "shortName": "BOA Côte d’Ivoire",
    "close": 10605,
    "change": 0.14,
-   "volume": 15478
+   "volume": 15721
   },
   {
    "symbol": "BOAS",
    "shortName": "BOA Sénégal",
    "close": 7490,
    "change": -1.64,
-   "volume": 14780
+   "volume": 14997
   },
   {
    "symbol": "BBGC",
    "shortName": "Bridge Bank Group CI",
-   "close": 7900,
-   "change": 5.33,
-   "volume": 7624
+   "close": 7795,
+   "change": 3.93,
+   "volume": 7943
   },
   {
    "symbol": "SGBC",
    "shortName": "Société Générale CI",
    "close": 37100,
    "change": -1.2,
-   "volume": 1280
+   "volume": 1282
   }
  ]
 }
