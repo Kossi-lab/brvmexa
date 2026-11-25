@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-25T08:45:26.498Z",
+ "updatedAt": "2026-11-25T09:00:25.973Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -17,6 +17,30 @@
     "19 PAGES"
    ],
    "pinned": true
+  },
+  {
+   "id": "sika-65929",
+   "title": "La BAD finance une infrastructure de données régionale pour la CEDEAO en Sierra Leone",
+   "summary": "La Banque africaine de développement a accordé un don de 750 000 dollars pour soutenir la création d'une ambassade régionale des données en Sierra Leone, visant à renforcer la souveraineté numérique ouest-africaine.",
+   "body": [
+    "Le 24 novembre 2026, le Groupe de la Banque africaine de développement (BAD) a officialisé un don de 750 000 USD destiné à la Sierra Leone. Ce financement, issu du Fonds fiduciaire de coopération économique Corée-Afrique (KOAFEC), servira à réaliser les études techniques et préparatoires nécessaires à l'implantation de l'Initiative d'ambassade régionale des données de la CEDEAO. L'objectif est d'évaluer la capacité du pays à héberger et sécuriser les informations gouvernementales sensibles de la sous-région.",
+    "Ce projet, qui fait suite au Sommet de l'intégration et de l'investissement tenu à Lungi en novembre 2026, ambitionne de mutualiser les infrastructures numériques pour favoriser l'essor de l'intelligence artificielle tout en limitant la dépendance aux fournisseurs étrangers. Le cadre juridique prévu garantira la souveraineté des États membres sur leurs données et leur propriété intellectuelle. Des consultations techniques pilotées par la Commission de la CEDEAO débuteront dès la fin du mois de novembre 2026."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65929",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-25T08:47:00Z",
+   "writtenAt": "2026-11-25T09:00:25.971Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/souverainete-numerique-la-bad-debloque-750-000-usd-pour-doter-la-cedeao-dune-ambassade-regionale-des-donnees-en-sierra-leone_65929",
+    "title": "Souveraineté numérique : La BAD débloque 750 000 USD pour doter la CEDEAO d’une ambassade régionale des données en Sierra Leone"
+   },
+   "rewritten": true
   },
   {
    "id": "sika-65928",
@@ -3759,30 +3783,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/cote-divoire-kaizene-international-organise-une-nouvelle-edition-de-son-pme-breakfast-autour-du-financement-immobilier_65696",
     "title": "Côte d’Ivoire : Kaizene International organise une nouvelle édition de son PME Breakfast autour du financement immobilier"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65695",
-   "title": "Congo : La Banque mondiale alerte sur le coût élevé des récentes émissions d'Eurobonds",
-   "summary": "Dans son dernier rapport, la Banque mondiale met en garde la République du Congo contre les risques financiers liés à son recours intensif aux marchés obligataires internationaux pour gérer sa trésorerie.",
-   "body": [
-    "Entre novembre 2025 et mai 2026, Brazzaville a multiplié les opérations sur les marchés internationaux, levant un montant total de 2,48 milliards USD à travers quatre émissions. Ces fonds ont été principalement utilisés pour apurer des titres publics arrivant à échéance sur le marché de la CEMAC et restructurer une partie de la dette intérieure, dans un contexte où le stock d'arriérés a progressé pour atteindre 1 289,8 milliards FCFA à la fin de l'année 2025.",
-    "Toutefois, ces opérations se sont traduites par des taux de rendement élevés, allant de 11,6 % à 13,7 %. La Banque mondiale souligne que cette stratégie, bien qu'elle offre un répit immédiat en décalant les échéances de remboursement vers 2028-2035, alourdit considérablement le coût de la dette. Avec un service de la dette ayant absorbé 128,3 % des recettes et dons en 2025, l'institution préconise une révision de la stratégie d'endettement et une meilleure mobilisation des revenus non pétroliers pour limiter la dépendance aux financements commerciaux."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65695",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-13T10:01:00Z",
-   "writtenAt": "2026-11-13T10:51:30.208Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/congo-la-banque-mondiale-alerte-sur-les-risques-des-eurobonds-a-taux-dor-pour-les-finances-publiques_65695",
-    "title": "Congo : La Banque mondiale alerte sur les risques des Eurobonds à taux d’or pour les finances publiques"
    },
    "rewritten": true
   }

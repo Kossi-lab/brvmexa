@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-25T08:45:26.495Z",
+ "updatedAt": "2026-11-25T09:00:25.971Z",
  "items": [
+  {
+   "id": "sika-65929",
+   "title": "Souveraineté numérique : La BAD débloque 750 000 USD pour doter la CEDEAO d’une ambassade régionale des données en Sierra Leone",
+   "summary": "Abdul Kamara, vice-président par intérim du Groupe de la Banque (à l'extrême gauche), en compagnie du président de la Si...",
+   "url": "https://www.sikafinance.com/marches/souverainete-numerique-la-bad-debloque-750-000-usd-pour-doter-la-cedeao-dune-ambassade-regionale-des-donnees-en-sierra-leone_65929",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-25T08:47:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65928",
    "title": "SIREXE 2026 / Électricité : Ferdinand Tra expose les solutions avancées de cyberprotection d'Orange Cloud & Cyber Solutions",
@@ -11,20 +25,6 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-11-25T08:32:00Z",
-   "symbols": [],
-   "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "sika-65927",
-   "title": "Souveraineté numérique : La BAD débloque 750 000 USD pour doter la CEDEAO d’une ambassade régionale des données en Sierra Leone",
-   "summary": "Le Groupe de la Banque africaine de développement a officialisé, ce 24 novembre 2026 à Lungi, en Sierra Leone, l'octroi...",
-   "url": "https://www.sikafinance.com/marches/souverainete-numerique-la-bad-debloque-750-000-usd-pour-doter-la-cedeao-dune-ambassade-regionale-des-donnees-en-sierra-leone_65927",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-25T08:04:00Z",
    "symbols": [],
    "status": "done",
    "tries": 1

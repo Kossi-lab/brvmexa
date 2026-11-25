@@ -1,7 +1,7 @@
 # BRVMexa Soir — mardi 24 novembre 2026
 
-> Script généré automatiquement le 2026-11-25 à 08:45 GMT à partir des données publiées (source des cours : brvm.org, données différées).
-> **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 3,9 minutes (592 mots).
+> Script généré automatiquement le 2026-11-25 à 09:00 GMT à partir des données publiées (source des cours : brvm.org, données différées).
+> **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 3,3 minutes (492 mots).
 
 ## 0:00 · Générique
 
@@ -12,7 +12,7 @@
 Bonsoir et bienvenue dans BRVMexa Soir, nous sommes le mardi 24 novembre 2026.
 Au programme ce soir : une BRVM en repli, avec nettement plus de baisses que de hausses.
 TotalEnergies Marketing CI signe la meilleure performance du jour.
-Et à la une : Coris Bank Côte d’Ivoire prépare son entrée historique au compartiment Prestige de la BRVM.
+Et dans l’actualité : La BAD finance une infrastructure de données régionale pour la CEDEAO en Sierra Leone.
 
 ## 0:30 · La séance
 
@@ -33,13 +33,9 @@ La valeur la plus échangée du jour est Sonatel, avec 166 495 titres, à 3 890 
 
 ## 2:00 · L’actualité du jour
 
-Notre sujet principal ce soir : Coris Bank Côte d’Ivoire prépare son entrée historique au compartiment Prestige de la BRVM.
-Coris Bank Côte d’Ivoire lance une offre publique de vente de 20 % de son capital, soit 62,74 milliards FCFA. Cette opération majeure précède une première cotation attendue fin janvier 2027.
-La période de souscription est ouverte du 30 novembre au 4 décembre 2026. Le prix unitaire est fixé à 7 720 FCFA pour le grand public, tandis qu'un tarif préférentiel de 6 175 FCFA a été réservé aux employés du groupe.
-Retrouvez l’article complet dans la rubrique À la une de BRVMexa.
-En bref :
+Dans l’actualité du jour :
+La BAD finance une infrastructure de données régionale pour la CEDEAO en Sierra Leone. La Banque africaine de développement a accordé un don de 750 000 dollars pour soutenir la création d'une ambassade régionale des données en Sierra Leone, visant à renforcer la souveraineté numérique ouest-africaine.
 SIREXE 2026 : Orange Cloud & Cyber Solutions renforce la sécurité du réseau électrique ivoirien. Lors du SIREXE 2026, Orange Cloud & Cyber Solutions a présenté ses stratégies de cybersécurité pour protéger la transformation numérique du secteur électrique national face aux risques d'intrusions informatiques.
-La BAD finance une ambassade régionale des données pour la CEDEAO en Sierra Leone. La Banque africaine de développement a accordé 750 000 USD à la Sierra Leone pour lancer le projet d'une ambassade régionale des données destinée à renforcer la souveraineté numérique ouest-africaine.
 
 ## 3:15 · Le mot de la fin
 
