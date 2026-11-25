@@ -1,7 +1,7 @@
 # BRVMexa Soir — mercredi 25 novembre 2026
 
-> Script généré automatiquement le 2026-11-25 à 14:00 GMT à partir des données publiées (source des cours : brvm.org, données différées).
-> **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 3,6 minutes (547 mots).
+> Script généré automatiquement le 2026-11-25 à 14:15 GMT à partir des données publiées (source des cours : brvm.org, données différées).
+> **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 3,6 minutes (545 mots).
 
 ## 0:00 · Générique
 
@@ -11,24 +11,24 @@
 
 Bonsoir et bienvenue dans BRVMexa Soir, nous sommes le mercredi 25 novembre 2026.
 Au programme ce soir : une BRVM en repli, avec nettement plus de baisses que de hausses.
-Bridge Bank Group CI signe la meilleure performance du jour.
+Sucrivoire CI signe la meilleure performance du jour.
 Et à la une : Coris Bank Bénin lance une levée de fonds majeure de 19,19 milliards à la BRVM.
 
 ## 0:30 · La séance
 
 Commençons par le marché.
-L’indice BRVM Composite, qui regroupe toutes les actions, termine à 466 points, en baisse de 1,3 %.
-Le BRVM 30, l’indice des trente valeurs les plus actives, est en baisse de 1,5 %, et le BRVM Prestige en baisse de 1,1 %.
-Sur l’ensemble de la séance, 7 actions ont progressé, 37 ont reculé et 4 sont restées stables.
-Côté activité, environ 1,0 milliards de francs CFA ont été échangés aujourd’hui.
-Du côté des secteurs, les Services publics recule le plus, en baisse de 5,9 %.
+L’indice BRVM Composite, qui regroupe toutes les actions, termine à 467 points, en baisse de 1,1 %.
+Le BRVM 30, l’indice des trente valeurs les plus actives, est en baisse de 1,0 %, et le BRVM Prestige en baisse de 0,9 %.
+Sur l’ensemble de la séance, 8 actions ont progressé, 35 ont reculé et 5 sont restées stables.
+Côté activité, environ 2,1 milliards de francs CFA ont été échangés aujourd’hui.
+Du côté des secteurs, les Services publics recule le plus, en baisse de 5,8 %.
 
 ## 1:15 · Le palmarès
 
-Dans le haut du tableau, Bridge Bank Group CI gagne 4,0 % à 7 800 francs CFA.
-Suivent Sucrivoire CI, en hausse de 4,0 %, et TotalEnergies Marketing Sénégal, en hausse de 2,9 %.
-En bas du tableau, Africa Global Logistics CI cède 7,2 %, Uniwax CI 7,1 % et Filtisac CI 7,1 %.
-La valeur la plus échangée du jour est Sonatel, avec 50 809 titres, à 3 885 francs CFA, en baisse de 0,1 %.
+Dans le haut du tableau, Sucrivoire CI gagne 5,5 % à 1 335 francs CFA.
+Suivent Bridge Bank Group CI, en hausse de 3,9 %, et BOA Côte d’Ivoire, en hausse de 3,9 %.
+En bas du tableau, Filtisac CI cède 7,1 %, BICI Côte d’Ivoire 6,4 % et CIE Côte d’Ivoire 5,9 %.
+La valeur la plus échangée du jour est Sonatel, avec 52 883 titres, à 3 885 francs CFA, en baisse de 0,1 %.
 
 ## 2:00 · L’actualité du jour
 
