@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-25T17:45:21.484Z",
+ "updatedAt": "2026-11-25T18:00:35.517Z",
  "items": [
+  {
+   "id": "sika-65957",
+   "title": "Afrique : L’OCDE et l’UA préconisent 93 milliards USD d’emprunts productifs pour réduire le poids de la dette",
+   "summary": "Et si l'Afrique devait emprunter davantage pour sortir progressivement du piège de la dette ? C'est la thèse défendue p...",
+   "url": "https://www.sikafinance.com/marches/afrique-locde-et-lua-preconisent-93-milliards-usd-demprunts-productifs-pour-reduire-le-poids-de-la-dette_65957",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-11-25T17:42:00Z",
+   "symbols": [],
+   "status": "skip",
+   "tries": 1
+  },
   {
    "id": "sika-65956",
    "title": "BRT et Métro : Abidjan accélère ses deux grands chantiers à l'approche de 2029",
@@ -4308,20 +4322,6 @@
    "symbols": [
     "SOGC"
    ],
-   "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "sika-65445",
-   "title": "ALIOS FINANCE CI : Un bénéfice multiplié par 4 à 1,2 milliard FCFA au 3ème trimestre 2026",
-   "summary": "Le troisième trimestre 2026 marque une étape particulièrement remarquable dans le développement de la Société africaine...",
-   "url": "https://www.sikafinance.com/marches/alios-finance-ci-un-benefice-multiplie-par-4-a-1-2-milliard-fcfa-au-3eme-trimestre-2026_65445",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-03T08:30:00Z",
-   "symbols": [],
    "status": "done",
    "tries": 1
   }
