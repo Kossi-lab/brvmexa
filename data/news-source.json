@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-25T18:00:35.517Z",
+ "updatedAt": "2026-11-25T18:15:38.221Z",
  "items": [
   {
    "id": "sika-65957",
@@ -25,6 +25,20 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-11-25T16:41:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "gn-rij7j5",
+   "title": "​ Marché financier de l'UEMOA : Plus de 20 000 milliards de capitalisation à la BRVM et 11 858 milliards levés sur UMOA",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQckc1NWdCNnVVWTRZLWVZYzE5MzJSRGk1SlZmOFhrNERkSnBGeXhYaVZTNjhZMkxKYk5yQmdFTFQ5QzJjODMyQ1JZRi11UElfc2M2WGxmakZLcHA3ZThfZGVBb0tOaldPLWZEdlFtNjdLd0hFOUR1U1NCOVJ3bGdYdWtnR0JNeEFTX3RTY2ZwYURUWmg3RTRZeTFKQTRfX2dBcGcyWU0xdG8zVVRFR1M3SnJzel92bTcyNWlkbmZPNThoNmo0MW5zc0doekNvOVpIcEVJQ241MmdVT0EtLTZzMFFyVEMtQ0h0SG9vOTVTYTFmZ3hURUgzSg?oc=5",
+   "image": null,
+   "source": "Pressafrik",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-25T16:16:00.000Z",
    "symbols": [],
    "status": "done",
    "tries": 1
@@ -132,20 +146,20 @@
    "tries": 1
   },
   {
-   "id": "gn-1v1pu1t",
+   "id": "gn-b1jt4m",
    "title": "BRVM : Coris Bank Bénin ouvre 20 % de son capital, l’action à 4 700 FCFA",
    "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQVJZQkxGeW1pYzNYUnN0UXFLQTV0Q2djNExGUHh6dmdCa0sxVTByLTh0M3JPQVc1S3dnb2FiWkZqMlB2WnZoR3JPYXp1V3VLTGFsYk9qbXFHc0JWZXpvc1V3SEgwTFlvcU9xd3dNSHhnbjFHVXlNNE9ZbVJZQVdKSTNIeWxqTk93RU5nUjVTbFRjWXc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaUdEYkoxelFvTTJXS0MzWlNIaE9URW1CbFBnb2RCMWhQdHRvUFh6bjJTeE9TSlNZd2hBZi1SX2dpR19YNjBZMkNCeTZSRTNCcDNNX0pfSmpDeEhIS1BUbXJTb3RsbjBFbWNNRlhtRHBOa2FYdWo0RkQwQWRmVktzMElnYzh2RTltSjIyMjFfdEg0ZWl6?oc=5",
    "image": null,
-   "source": "Bénin Web TV",
+   "source": "BENIN WEB TV",
    "category": "Presse",
    "premium": false,
-   "publishedAt": "2026-11-25T12:42:43.000Z",
+   "publishedAt": "2026-11-25T12:31:34.000Z",
    "symbols": [
     "CBIBF"
    ],
-   "status": "skip",
-   "tries": 1
+   "status": "new",
+   "tries": 0
   },
   {
    "id": "gn-1l30lgk",
@@ -4306,22 +4320,6 @@
    "premium": false,
    "publishedAt": "2026-11-03T10:12:00Z",
    "symbols": [],
-   "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "sika-65448",
-   "title": "SOGB CI : La baisse du résultat net contenue à 34 % à fin septembre 2026",
-   "summary": "Après un premier semestre marqué par le ralentissement de l'activité hévéicole et des conditions de marché moins favora...",
-   "url": "https://www.sikafinance.com/marches/sogb-ci-la-baisse-du-resultat-net-contenue-a-34-a-fin-septembre-2026_65448",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": true,
-   "publishedAt": "2026-11-03T09:04:00Z",
-   "symbols": [
-    "SOGC"
-   ],
    "status": "done",
    "tries": 1
   }
