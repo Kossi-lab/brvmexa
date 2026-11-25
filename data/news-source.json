@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-25T16:45:20.490Z",
+ "updatedAt": "2026-11-25T17:02:30.606Z",
  "items": [
+  {
+   "id": "sika-65956",
+   "title": "BRT et Métro : Abidjan accélère ses deux grands chantiers à l'approche de 2029",
+   "summary": "Abidjan s'apprête à franchir un cap important dans la modernisation de son système de transport urbain. Face à l'explos...",
+   "url": "https://www.sikafinance.com/marches/brt-et-metro-abidjan-accelere-ses-deux-grands-chantiers-a-l-approche-de-2029_65956",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-25T16:41:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65955",
    "title": "BRVM : Les vendeurs reprennent l'avantage, Bank of Africa Niger résiste",
@@ -4308,22 +4322,6 @@
    "premium": false,
    "publishedAt": "2026-11-03T08:30:00Z",
    "symbols": [],
-   "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "sika-65442",
-   "title": "Coris Bank International BF : Le bénéfice progresse de 18% à 62 milliards FCFA à fin septembre 2026",
-   "summary": "Coris Bank International Burkina Faso poursuit sa trajectoire de croissance à fin septembre 2026. La banque consolide s...",
-   "url": "https://www.sikafinance.com/marches/coris-bank-international-bf-le-benefice-progresse-de-18-a-62-milliards-fcfa-a-fin-septembre-2026_65442",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-03T07:22:00Z",
-   "symbols": [
-    "CBIBF"
-   ],
    "status": "done",
    "tries": 1
   }

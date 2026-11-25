@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-25T16:45:20.492Z",
+ "updatedAt": "2026-11-25T17:02:30.608Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -17,6 +17,31 @@
     "19 PAGES"
    ],
    "pinned": true
+  },
+  {
+   "id": "sika-65956",
+   "title": "Transports à Abidjan : la ligne 1 du métro et le BRT visent un lancement début 2029",
+   "summary": "Les chantiers de la ligne 1 du métro et du réseau de bus rapide avancent dans la capitale ivoirienne, ciblant un démarrage commercial début 2029 pour fluidifier la circulation.",
+   "body": [
+    "La modernisation des infrastructures de transport franchit une nouvelle étape dans la capitale économique ivoirienne. À la mi-novembre 2026, le niveau d'exécution global de la première ligne de métro atteignait 66 %, incluant un taux de réalisation de 55 % pour les voies et systèmes, et de 8 % pour les infrastructures. Représentant un investissement de plus de 1 100 milliards FCFA, ce tracé de 37,4 kilomètres comptera 18 stations entre Anyama et Port-Bouët. Conçue pour acheminer 540 000 passagers par jour grâce à une flotte de 25 à 30 rames, la ligne effectuera ses premiers tests fin 2028 en vue d'un démarrage commercial en janvier 2029.",
+    "Parallèlement, le chantier du Bus de transport rapide (BRT) affichait un taux d'avancement de 35 % au début du mois de novembre 2026. Ce projet de 316 milliards FCFA s'étend sur environ 20 kilomètres entre Yopougon et Bingerville, en intégrant 20 stations et 11 ouvrages d'art. Desserte assurée par des véhicules électriques, ce réseau vise une capacité de 500 000 usagers quotidiens et doit réduire le temps de trajet à moins de 30 minutes, contre jusqu'à une heure et demie aujourd'hui. Les voies doivent être finalisées fin 2028 pour une exploitation début 2029.",
+    "Ensemble, ces deux réseaux complémentaires offriront une capacité de transport combinée d'environ 1,04 million de personnes par jour. Au-delà des retombées en matière d'emploi local — avec plus de 2 000 personnes travaillant sur le chantier ferroviaire —, l'interconnexion de ces transports en commun vise à résorber les embouteillages abidjanais, à optimiser la productivité économique et à limiter les émissions polluantes."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65956",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-25T16:41:00Z",
+   "writtenAt": "2026-11-25T17:02:30.604Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/brt-et-metro-abidjan-accelere-ses-deux-grands-chantiers-a-l-approche-de-2029_65956",
+    "title": "BRT et Métro : Abidjan accélère ses deux grands chantiers à l'approche de 2029"
+   },
+   "rewritten": true
   },
   {
    "id": "sika-65955",
@@ -3765,30 +3790,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/rdc-apres-la-microfinance-les-dirigeants-de-proxima-se-lancent-dans-le-capital-investissement_65724",
     "title": "RDC : Après la microfinance, les dirigeants de Proxima se lancent dans le capital-investissement"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "gn-101dty3",
-   "title": "La Société ivoirienne de raffinage étudie une possible entrée à la BRVM",
-   "summary": "La Société ivoirienne de raffinage (SIR) explore actuellement les modalités d'une future introduction en Bourse.",
-   "body": [
-    "La Société ivoirienne de raffinage (SIR) a fait part de son intention d'intégrer le marché financier régional. Ce projet d'introduction en Bourse marque une étape stratégique pour l'entreprise ivoirienne.",
-    "Les réflexions autour de cette opération ont été rendues publiques ce 14 novembre 2026. La société examine désormais les conditions nécessaires à une telle démarche sur la place boursière de l'UEMOA."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#gn-101dty3",
-   "image": null,
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-11-14T05:00:00.000Z",
-   "writtenAt": "2026-11-14T08:58:09.398Z",
-   "symbols": [],
-   "origin": {
-    "name": "Forbes Afrique",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeTNWNkdua3hRaDJQMjZWTUtVbUw3OWRMNF9fMWtOYnpYczYzN2ZvLVdZdGxaZUZ2ekFGLVViTkFzbDZuc080ckh0aldhVFlTSFlBX2xwT01XZmlwaEtRVXpseTVHVkJSMXNMcGNjTGxOQ1kxakNlTTV5QW4wS0tOTjl1SU15U3NSZmk1WVV2YkZzNmJ2a0pleHlWV3c4UQ?oc=5",
-    "title": "La Société ivoirienne de raffinage envisage une introduction en Bourse"
    },
    "rewritten": true
   }
