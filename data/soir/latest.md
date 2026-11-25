@@ -1,7 +1,7 @@
 # BRVMexa Soir — mercredi 25 novembre 2026
 
-> Script généré automatiquement le 2026-11-25 à 09:45 GMT à partir des données publiées (source des cours : brvm.org, données différées).
-> **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 2,9 minutes (441 mots).
+> Script généré automatiquement le 2026-11-25 à 10:00 GMT à partir des données publiées (source des cours : brvm.org, données différées).
+> **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 3,9 minutes (590 mots).
 
 ## 0:00 · Générique
 
@@ -10,17 +10,25 @@
 ## 0:10 · Les titres
 
 Bonsoir et bienvenue dans BRVMexa Soir, nous sommes le mercredi 25 novembre 2026.
-Au programme ce soir : une BRVM quasiment stable.
+Au programme ce soir : une BRVM quasiment stable, avec nettement plus de baisses que de hausses.
+CIE Côte d’Ivoire signe la meilleure performance du jour.
 Et à la une : Coris Bank Bénin lance une levée de fonds majeure de 19,19 milliards à la BRVM.
 
 ## 0:30 · La séance
 
 Commençons par le marché.
-L’indice BRVM Composite, qui regroupe toutes les actions, termine à 472 points, stable.
-Le BRVM 30, l’indice des trente valeurs les plus actives, est stable, et le BRVM Prestige stable.
-Sur l’ensemble de la séance, 0 actions ont progressé, 0 ont reculé et 48 sont restées stables.
+L’indice BRVM Composite, qui regroupe toutes les actions, termine à 472 points, en baisse de 0,07 %.
+Le BRVM 30, l’indice des trente valeurs les plus actives, est en baisse de 0,05 %, et le BRVM Prestige en baisse de 0,2 %.
+Sur l’ensemble de la séance, 3 actions ont progressé, 10 ont reculé et 35 sont restées stables.
+Côté activité, environ 43 millions de francs CFA ont été échangés aujourd’hui.
+Du côté des secteurs, meilleur score pour les Services publics, en hausse de 0,8 %, tandis que la Consommation de base ferme la marche, en baisse de 0,2 %.
 
 ## 1:15 · Le palmarès
+
+Dans le haut du tableau, CIE Côte d’Ivoire gagne 1,2 % à 4 300 francs CFA.
+Suivent Oragroup Togo, en hausse de 0,4 %, et Bridge Bank Group CI, en hausse de 0,1 %.
+En bas du tableau, SAFCA CI cède 1,8 %, Onatel Burkina Faso 1,8 % et Nestlé CI 1,7 %.
+La valeur la plus échangée du jour est Bridge Bank Group CI, avec 1 372 titres, à 7 510 francs CFA, en hausse de 0,1 %.
 
 ## 2:00 · L’actualité du jour
 

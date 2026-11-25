@@ -1,16 +1,110 @@
 {
- "updatedAt": "2026-11-25T09:45:14.660Z",
+ "updatedAt": "2026-11-25T10:00:20.436Z",
  "sessionDate": "2026-11-25",
- "sessionTime": "09:30",
+ "sessionTime": "09:45",
  "source": "brvm.org",
- "transactionsValue": 0,
- "capitalisationActions": 18511176505734,
+ "transactionsValue": 43134410,
+ "capitalisationActions": 18528836581644,
  "capitalisationBonds": 13419743433771,
- "advancing": 0,
- "declining": 0,
- "unchanged": 48,
- "totalVolume": 0,
- "gainers": [],
- "losers": [],
- "mostActive": []
+ "advancing": 3,
+ "declining": 10,
+ "unchanged": 35,
+ "totalVolume": 6850,
+ "gainers": [
+  {
+   "symbol": "CIEC",
+   "shortName": "CIE Côte d’Ivoire",
+   "close": 4300,
+   "change": 1.18,
+   "volume": 184
+  },
+  {
+   "symbol": "ORGT",
+   "shortName": "Oragroup Togo",
+   "close": 2400,
+   "change": 0.42,
+   "volume": 20
+  },
+  {
+   "symbol": "BBGC",
+   "shortName": "Bridge Bank Group CI",
+   "close": 7510,
+   "change": 0.13,
+   "volume": 1372
+  }
+ ],
+ "losers": [
+  {
+   "symbol": "SAFC",
+   "shortName": "SAFCA CI",
+   "close": 2750,
+   "change": -1.79,
+   "volume": 422
+  },
+  {
+   "symbol": "ONTBF",
+   "shortName": "Onatel Burkina Faso",
+   "close": 2750,
+   "change": -1.79,
+   "volume": 95
+  },
+  {
+   "symbol": "NTLC",
+   "shortName": "Nestlé CI",
+   "close": 11600,
+   "change": -1.69,
+   "volume": 45
+  },
+  {
+   "symbol": "PRSC",
+   "shortName": "Tractafric Motors CI",
+   "close": 3400,
+   "change": -1.45,
+   "volume": 7
+  },
+  {
+   "symbol": "SIVC",
+   "shortName": "Erium CI",
+   "close": 1460,
+   "change": -1.35,
+   "volume": 65
+  }
+ ],
+ "mostActive": [
+  {
+   "symbol": "BBGC",
+   "shortName": "Bridge Bank Group CI",
+   "close": 7510,
+   "change": 0.13,
+   "volume": 1372
+  },
+  {
+   "symbol": "BOAC",
+   "shortName": "BOA Côte d’Ivoire",
+   "close": 10590,
+   "change": 0,
+   "volume": 527
+  },
+  {
+   "symbol": "BOAS",
+   "shortName": "BOA Sénégal",
+   "close": 7615,
+   "change": 0,
+   "volume": 621
+  },
+  {
+   "symbol": "SGBC",
+   "shortName": "Société Générale CI",
+   "close": 37550,
+   "change": 0,
+   "volume": 79
+  },
+  {
+   "symbol": "BOAN",
+   "shortName": "BOA Niger",
+   "close": 4100,
+   "change": -0.12,
+   "volume": 688
+  }
+ ]
 }
