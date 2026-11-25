@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-25T15:30:22.782Z",
+ "updatedAt": "2026-11-25T16:00:44.371Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -17,6 +17,31 @@
     "19 PAGES"
    ],
    "pinned": true
+  },
+  {
+   "id": "sika-65954",
+   "title": "Togo : le FMI étudie un accord de 22 mois pour soutenir la résilience et le climat",
+   "summary": "Le Togo et le FMI négocient un programme de 22 mois adossé à la Facilité pour la résilience et la durabilité, parallèlement au suivi du programme économique en cours.",
+   "body": [
+    "Une mission du Fonds monétaire international, menée par Manrique Saenz, s'est rendue à Lomé du 9 au 20 novembre 2026. L'objectif était de faire le point sur la situation économique togolaise et d'évaluer la mise en place d'un partenariat de 22 mois via la Facilité pour la résilience et la durabilité (FRD). Ce dispositif doit aider le pays à financer des réformes face aux défis climatiques et sanitaires.",
+    "Ces discussions interviennent en parallèle des travaux sur la cinquième revue du programme soutenu par la Facilité élargie de crédit (FEC). Les pourparlers portent sur l'amélioration de la collecte des recettes nationales, l'optimisation des dépenses de l'État et le renforcement des filets sociaux, tout en garantissant la viabilité de la dette publique et la stabilité macroéconomique.",
+    "Les réformes visent en outre à rendre le climat des affaires plus attractif pour appuyer l'expansion du secteur privé. La validation finale de la revue de la FEC et la concrétisation du mécanisme de la FRD feront l'objet de nouvelles négociations au cours des prochaines semaines."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65954",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-25T15:31:00Z",
+   "writtenAt": "2026-11-25T16:00:44.366Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/togo-le-fmi-envisage-un-accord-de-22-mois-au-titre-de-la-facilite-pour-la-resilience-et-la-durabilite_65954",
+    "title": "Togo : Le FMI envisage un accord de 22 mois au titre de la facilité pour la résilience et la durabilité"
+   },
+   "rewritten": true
   },
   {
    "id": "gn-qpoxv7",
@@ -3756,30 +3781,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/cote-divoire-la-mine-dity-domine-un-top-10-aurifere-qui-pese-plus-de-2-600-milliards-fcfa_65718",
     "title": "Côte d’Ivoire : La mine d’Ity domine un top 10 aurifère qui pèse plus de 2 600 milliards FCFA"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "gn-6rdbx8",
-   "title": "L'impact de la sous-représentation féminine sur le marché financier de la BRVM",
-   "summary": "Une analyse souligne les conséquences économiques pour la Côte d'Ivoire liées à la faible participation des femmes au sein de la Bourse régionale.",
-   "body": [
-    "Le 13 novembre 2026, un constat a été dressé concernant la place des femmes à la Bourse Régionale des Valeurs Mobilières (BRVM). Il en ressort que l'absence d'une implication accrue des femmes sur ce marché financier pèse négativement sur la richesse nationale ivoirienne.",
-    "Selon les observations relayées, ce manque de représentativité féminine au sein de l'écosystème boursier entraîne un appauvrissement annuel pour le pays. Cette dynamique met en lumière l'enjeu de l'inclusion des femmes pour le développement économique de la Côte d'Ivoire."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#gn-6rdbx8",
-   "image": null,
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-11-13T17:11:52.000Z",
-   "writtenAt": "2026-11-13T17:52:36.395Z",
-   "symbols": [],
-   "origin": {
-    "name": "Financial Afrik",
-    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQY2c5czJoZ0dQVDV0TjFUd0ZoODZzZmRQQzJRelRyMkNfM1ItdXRxd1NxQkl6VEZaWXhrX1JUWlZFT09HbHFzTG54d2s0dGxJSXdpX0JwREFrMl9faVpKRUZFaGpWVWFFaXhxUHdkMktDVENUUzd4VlRQUi1DZlhPLUE4NVVwUWljUGFZeUJ4ZVBWRkhpRFlVRUp4Qnl4QUwwZXplN3I4SDBRd1BVLVhoRFA0bmh5RXQzVldmQ3J4UHVlQ0pxclpUaldhY2NmWXAyTDdQQWVwRWQ0djI0Tk03YkVB?oc=5",
-    "title": "Sans les femmes à la Bourse Régionale des Valeurs Mobilières (BRVM), la Côte d’Ivoire s'appauvrit tous les ans"
    },
    "rewritten": true
   }

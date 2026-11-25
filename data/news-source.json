@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-25T15:30:22.779Z",
+ "updatedAt": "2026-11-25T16:00:44.368Z",
  "items": [
+  {
+   "id": "sika-65954",
+   "title": "Togo : Le FMI envisage un accord de 22 mois au titre de la facilité pour la résilience et la durabilité",
+   "summary": "Le Fonds monétaire international (FMI) et les autorités togolaises discutent de la possibilité de conclure un accord de...",
+   "url": "https://www.sikafinance.com/marches/togo-le-fmi-envisage-un-accord-de-22-mois-au-titre-de-la-facilite-pour-la-resilience-et-la-durabilite_65954",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-25T15:31:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "gn-qpoxv7",
    "title": "Après un premier report, la première cotation de Renaprov à la BVMAC prévue en décembre",
@@ -4310,20 +4324,6 @@
    "symbols": [
     "NEIC"
    ],
-   "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "sika-65437",
-   "title": "BRVM : SMB fait sensation au milieu de la vague de publications trimestrielles",
-   "summary": "La BRVM ouvre la semaine sous pression. Ses trois principaux indices accusent un repli marqué : le BRVM-Composite perd ...",
-   "url": "https://www.sikafinance.com/marches/brvm-smb-fait-sensation-au-milieu-de-la-vague-de-publications-trimestrielles_65437",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-02T16:48:00Z",
-   "symbols": [],
    "status": "done",
    "tries": 1
   }
