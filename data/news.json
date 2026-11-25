@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-25T18:45:20.679Z",
+ "updatedAt": "2026-11-25T19:00:32.833Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -17,6 +17,34 @@
     "19 PAGES"
    ],
    "pinned": true
+  },
+  {
+   "id": "sika-65958",
+   "title": "Côte d'Ivoire : La BAD alerte sur l'impact des datacenters sur la demande d'électricité",
+   "summary": "La Banque africaine de développement invite la Côte d'Ivoire à ajuster à la hausse sa planification électrique pour faire face aux besoins importants des futurs centres de données informatiques.",
+   "body": [
+    "Lors du Salon international des ressources extractives et énergétiques tenu le 20 novembre 2026 à Abidjan, la Banque africaine de développement (BAD) a préconisé un relèvement des ambitions énergétiques de la Côte d'Ivoire. Alors que les autorités visent une puissance nationale de 11 000 mégawatts d'ici 2040, la multiplication des centres d'hébergement numérique et l'essor de l'intelligence artificielle risquent d'entraîner des besoins électriques supérieurs à ces prévisions.",
+    "Cette mise en garde s'inscrit dans le cadre du Projet d'appui et de renforcement de l'administration électronique, doté d'un budget de 110 millions d'euros, dont 75 millions d'euros fournis par la BAD. Ce chantier intègre la construction d'un datacenter secondaire à Yamoussoukro, qui viendra épauler le site principal de Grand-Bassam. Dès sa mise en service, cet équipement nécessitera une puissance de 2 mégawatts, destinée à monter rapidement à 3,2 mégawatts.",
+    "Parallèlement à la question énergétique, ces investissements technologiques visent à moderniser le fonctionnement du secteur de l'électricité. Le déploiement d'une plateforme d'interopérabilité des données publiques permettra notamment à la Compagnie ivoirienne d'électricité (CIE) de vérifier instantanément l'identité des nouveaux clients et de mieux cibler ses investissements dans les zones peu raccordées. Un portail centralisé des paiements publics contribuera également à sécuriser le recouvrement des factures.",
+    "Enfin, la BAD a souligné que le traitement local des données produites dans le pays constitue un levier souverain pour générer des emplois qualifiés. L'institution financière panafricaine a aussi rappelé l'évolution de sa politique de financement, axée désormais sur des projets régionaux intégrés combinant simultanément les infrastructures énergétiques, numériques, éducatives et sanitaires."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65958",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-25T18:51:00Z",
+   "writtenAt": "2026-11-25T19:00:32.830Z",
+   "symbols": [
+    "CIEC"
+   ],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/cote-divoire-lalerte-de-la-bad-sur-les-besoins-energetiques-des-datacenters-a-lhorizon-2040_65958",
+    "title": "Côte d’Ivoire : L’alerte de la BAD sur les besoins énergétiques des datacenters à l’horizon 2040"
+   },
+   "rewritten": true
   },
   {
    "id": "sika-65956",
@@ -3765,30 +3793,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/rdc-proxima-capital-obtient-son-agrement-et-fait-son-entree-sur-le-marche-de-la-microfinance_65726",
     "title": "RDC : Proxima Capital obtient son agrément et fait son entrée sur le marché de la microfinance"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65725",
-   "title": "Sénégal : le Plan de redressement économique affiche un déficit de 162,3 milliards FCFA",
-   "summary": "À fin septembre 2026, le Plan de redressement économique et social (PRES) du Sénégal accuse un retard de mobilisation de 162,3 milliards FCFA, avec un taux de réalisation des recettes limité à 52,5 %.",
-   "body": [
-    "Le rapport trimestriel du ministère des Finances et du Budget, publié le 13 novembre, révèle que les mesures liées au PRES ont généré 179,1 milliards FCFA sur les neuf premiers mois de l'année, loin des 341,4 milliards FCFA escomptés. Si les prélèvements sur le mobile money ont atteint 97,4 % de leurs objectifs, d'autres leviers comme la taxation des jeux de hasard ou les concessions téléphoniques ont sous-performé. Par ailleurs, des retards techniques et des renoncements, notamment sur la taxation des téléphones importés et des minerais, ont pesé sur les recettes douanières.",
-    "Toutefois, la performance globale des finances publiques est nuancée par les revenus hors PRES. Les recettes non fiscales totales de l'État ont dépassé les prévisions à 255 milliards FCFA, portées par les redevances minières, les dividendes et les hydrocarbures. Ces résultats ont permis d'atténuer le manque à gagner global des recettes intérieures, qui s'établit à 91,7 milliards FCFA. Le dernier trimestre sera crucial pour tenter de redresser la trajectoire budgétaire du programme."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65725",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-14T13:34:00Z",
-   "writtenAt": "2026-11-14T16:50:16.748Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/senegal-le-plan-de-redressement-accuse-un-manque-a-gagner-de-162-3-milliards-fcfa-a-fin-septembre-2026_65725",
-    "title": "Sénégal : Le plan de redressement accuse un manque à gagner de 162,3 milliards FCFA à fin septembre 2026"
    },
    "rewritten": true
   }

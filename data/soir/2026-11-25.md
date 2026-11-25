@@ -1,7 +1,7 @@
 # BRVMexa Soir — mercredi 25 novembre 2026
 
-> Script généré automatiquement le 2026-11-25 à 18:45 GMT à partir des données publiées (source des cours : brvm.org, données différées).
-> **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 3,9 minutes (589 mots).
+> Script généré automatiquement le 2026-11-25 à 19:00 GMT à partir des données publiées (source des cours : brvm.org, données différées).
+> **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 3,9 minutes (586 mots).
 
 ## 0:00 · Générique
 
@@ -37,8 +37,8 @@ La filiale béninoise du groupe Coris réalise une ouverture de capital historiq
 Cette démarche financière d'envergure positionne la filiale béninoise du groupe Coris parmi les acteurs très actifs du marché. Elle met en lumière la dynamique des institutions financières de la sous-région qui choisissent le marché boursier pour consolider leurs fonds propres.
 Retrouvez l’article complet dans la rubrique À la une de BRVMexa.
 En bref :
+Côte d'Ivoire : La BAD alerte sur l'impact des datacenters sur la demande d'électricité. La Banque africaine de développement invite la Côte d'Ivoire à ajuster à la hausse sa planification électrique pour faire face aux besoins importants des futurs centres de données informatiques.
 Transports à Abidjan : la ligne 1 du métro et le BRT visent un lancement début 2029. Les chantiers de la ligne 1 du métro et du réseau de bus rapide avancent dans la capitale ivoirienne, ciblant un démarrage commercial début 2029 pour fluidifier la circulation.
-Togo : le FMI étudie un accord de 22 mois pour soutenir la résilience et le climat. Le Togo et le FMI négocient un programme de 22 mois adossé à la Facilité pour la résilience et la durabilité, parallèlement au suivi du programme économique en cours.
 
 ## 3:15 · Le mot de la fin
 

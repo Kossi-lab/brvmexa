@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-25T18:45:20.677Z",
+ "updatedAt": "2026-11-25T19:00:32.831Z",
  "items": [
+  {
+   "id": "sika-65958",
+   "title": "Côte d’Ivoire : L’alerte de la BAD sur les besoins énergétiques des datacenters à l’horizon 2040",
+   "summary": "Face à l'essor fulgurant des infrastructures de stockage de données en Côte d'Ivoire, la Banque africaine de déve...",
+   "url": "https://www.sikafinance.com/marches/cote-divoire-lalerte-de-la-bad-sur-les-besoins-energetiques-des-datacenters-a-lhorizon-2040_65958",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-25T18:51:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65957",
    "title": "Afrique : L’OCDE et l’UA préconisent 93 milliards USD d’emprunts productifs pour réduire le poids de la dette",
@@ -4306,22 +4320,6 @@
    "premium": false,
    "publishedAt": "2026-11-03T11:08:00Z",
    "symbols": [],
-   "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "sika-65453",
-   "title": "SITAB : Le bond des ventes au troisième trimestre 2026 ne profite pas au bénéfice",
-   "summary": "La Société ivoirienne des tabacs (SITAB) aborde la seconde moitié de l'exercice 2026 dans un environnement marqué...",
-   "url": "https://www.sikafinance.com/marches/sitab-le-bond-des-ventes-au-troisieme-trimestre-2026-ne-profite-pas-au-benefice_65453",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": true,
-   "publishedAt": "2026-11-03T10:23:00Z",
-   "symbols": [
-    "STBC"
-   ],
    "status": "done",
    "tries": 1
   }
