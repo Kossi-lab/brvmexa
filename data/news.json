@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-25T12:01:25.346Z",
+ "updatedAt": "2026-11-25T12:15:32.962Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -17,6 +17,32 @@
     "19 PAGES"
    ],
    "pinned": true
+  },
+  {
+   "id": "sika-65941",
+   "title": "Société Générale Côte d'Ivoire inaugure son Club Expérience Client",
+   "summary": "La banque a officiellement lancé son Club Expérience Client le 20 novembre 2026, une initiative visant à co-construire ses services avec 200 clients volontaires.",
+   "body": [
+    "Le 20 novembre 2026, Société Générale Côte d'Ivoire a inauguré son Club Expérience Client lors d'un événement réunissant sa direction, ses collaborateurs et ses clients. Ce projet stratégique vise à placer les attentes de la clientèle au centre de la politique de la banque, en privilégiant l'écoute et la réactivité.",
+    "Le club se compose de 200 membres volontaires, incluant des particuliers, des professionnels, des PME et des grandes entreprises. Ces derniers seront impliqués dans des ateliers de co-construction et testeront les futures offres de l'établissement avant leur lancement officiel, renforçant ainsi la relation de confiance entre la banque et ses usagers."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65941",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-25T12:00:00Z",
+   "writtenAt": "2026-11-25T12:15:32.959Z",
+   "symbols": [
+    "SGBC"
+   ],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/societe-generale-cote-divoire-lance-son-club-experience-client_65941",
+    "title": "Société Générale Côte d’Ivoire lance son club expérience client"
+   },
+   "rewritten": true
   },
   {
    "id": "gn-1l30lgk",
@@ -3759,31 +3785,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/paul-kouao-directeur-de-bernabe-equipement-en-cote-d-ivoire-notre-ambition-accompagner-les-projets-contribuer-a-developper-des-competences_65712",
     "title": "Paul KOUAO, Directeur de Bernabé Équipement en Côte d'Ivoire : ‘’Notre ambition, accompagner les projets, contribuer à développer des compétences’’"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65710",
-   "title": "Sénégal : Le FMI conditionne son aide de 2,2 milliards USD à des réformes budgétaires",
-   "summary": "Le Sénégal doit finaliser son cadre budgétaire et clarifier sa situation d'endettement pour débloquer un programme de financement de 2,2 milliards de dollars auprès du FMI.",
-   "body": [
-    "L'octroi définitif d'un prêt de 2,2 milliards de dollars (environ 1 320 milliards FCFA) au profit du Sénégal demeure suspendu à plusieurs exigences du Fonds monétaire international. L'institution exige notamment la finalisation du cadre budgétaire national, la mise en place de mesures correctives face aux dettes non déclarées, ainsi que l'obtention de garanties de financement auprès des partenaires extérieurs du pays.",
-    "Ces conditions interviennent dans un climat politique complexe, marqué par des difficultés dans l'adoption des lois de finances pour 2026 et 2027. Si le FMI souligne l'importance du respect des engagements pris lors de l'accord préliminaire, il précise ne pas s'immiscer dans les débats institutionnels internes, rappelant que la gestion des relations entre le gouvernement et le Parlement relève de la souveraineté sénégalaise.",
-    "La transparence financière est au cœur des préoccupations, suite à la découverte en 2024 d'engagements financiers non déclarés, estimés à près de 13 milliards de dollars (environ 7 800 milliards FCFA). Le rétablissement de la fiabilité des données publiques est jugé indispensable par le FMI pour restaurer la confiance des créanciers et permettre la restructuration de la dette nationale."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65710",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-13T14:14:00Z",
-   "writtenAt": "2026-11-13T14:58:50.250Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/senegal-le-fmi-conditionne-lapprobation-de-son-programme-de-2-2-milliards-usd-a-la-finalisation-du-cadre-budgetaire_65710",
-    "title": "Sénégal : Le FMI conditionne l’approbation de son programme de 2,2 milliards USD à la finalisation du cadre budgétaire"
    },
    "rewritten": true
   }

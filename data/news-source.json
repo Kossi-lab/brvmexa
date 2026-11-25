@@ -1,6 +1,22 @@
 {
- "updatedAt": "2026-11-25T12:01:25.344Z",
+ "updatedAt": "2026-11-25T12:15:32.960Z",
  "items": [
+  {
+   "id": "sika-65941",
+   "title": "Société Générale Côte d’Ivoire lance son club expérience client",
+   "summary": "Le vendredi 20 novembre 2026, Société Générale Côte d'Ivoire (SGCI) a officiellement lancé son Club Expérience Cl...",
+   "url": "https://www.sikafinance.com/marches/societe-generale-cote-divoire-lance-son-club-experience-client_65941",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-25T12:00:00Z",
+   "symbols": [
+    "SGBC"
+   ],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "gn-1l30lgk",
    "title": "Tunisie : Hausse de 4,2% du revenu global des sociétés cotées à la Bourse de Tunis à fin septembre 2026",
@@ -4305,20 +4321,6 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-11-02T15:39:00Z",
-   "symbols": [],
-   "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "sika-65429",
-   "title": "Mediterrania Capital Partners investit dans AFG Assurances, pôle assurance d’Atlantic Group, pour accompagner son expansion en Afrique francophone",
-   "summary": "Cet investissement accompagnera le plan de développement d'AFG Assurances, qui vise à doubler son réseau pour le porter...",
-   "url": "https://www.sikafinance.com/marches/mediterrania-capital-partners-investit-dans-afg-assurances-pole-assurance-datlantic-group-pour-accompagner-son-expansion-en-afrique-francophone_65429",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-02T15:31:00Z",
    "symbols": [],
    "status": "done",
    "tries": 1
