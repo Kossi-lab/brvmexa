@@ -1,7 +1,7 @@
 # BRVMexa Soir — mercredi 25 novembre 2026
 
-> Script généré automatiquement le 2026-11-25 à 13:15 GMT à partir des données publiées (source des cours : brvm.org, données différées).
-> **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 3,7 minutes (559 mots).
+> Script généré automatiquement le 2026-11-25 à 13:30 GMT à partir des données publiées (source des cours : brvm.org, données différées).
+> **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 3,6 minutes (546 mots).
 
 ## 0:00 · Générique
 
@@ -17,18 +17,18 @@ Et à la une : Coris Bank Bénin lance une levée de fonds majeure de 19,19 mill
 ## 0:30 · La séance
 
 Commençons par le marché.
-L’indice BRVM Composite, qui regroupe toutes les actions, termine à 466 points, en baisse de 1,2 %.
-Le BRVM 30, l’indice des trente valeurs les plus actives, est en baisse de 1,4 %, et le BRVM Prestige en baisse de 0,8 %.
+L’indice BRVM Composite, qui regroupe toutes les actions, termine à 466 points, en baisse de 1,3 %.
+Le BRVM 30, l’indice des trente valeurs les plus actives, est en baisse de 1,5 %, et le BRVM Prestige en baisse de 0,9 %.
 Sur l’ensemble de la séance, 6 actions ont progressé, 36 ont reculé et 6 sont restées stables.
-Côté activité, environ 894 millions de francs CFA ont été échangés aujourd’hui.
-Du côté des secteurs, meilleur score pour l’Énergie, en hausse de 0,2 %, tandis que les Services publics ferme la marche, en baisse de 5,8 %.
+Côté activité, environ 935 millions de francs CFA ont été échangés aujourd’hui.
+Du côté des secteurs, les Industriels recule le plus, en baisse de 5,5 %.
 
 ## 1:15 · Le palmarès
 
-Dans le haut du tableau, Bridge Bank Group CI gagne 3,9 % à 7 795 francs CFA.
+Dans le haut du tableau, Bridge Bank Group CI gagne 4,0 % à 7 800 francs CFA.
 Suivent TotalEnergies Marketing Sénégal, en hausse de 2,8 %, et Sucrivoire CI, en hausse de 2,8 %.
-En bas du tableau, Africa Global Logistics CI cède 7,2 %, Filtisac CI 7,1 % et Coris Bank International 6,0 %.
-La valeur la plus échangée du jour est Sonatel, avec 47 030 titres, à 3 885 francs CFA, en baisse de 0,1 %.
+En bas du tableau, Africa Global Logistics CI cède 7,2 %, Uniwax CI 7,1 % et Filtisac CI 7,1 %.
+La valeur la plus échangée du jour est Sonatel, avec 48 055 titres, à 3 885 francs CFA, en baisse de 0,1 %.
 
 ## 2:00 · L’actualité du jour
 
@@ -37,8 +37,8 @@ La filiale béninoise du groupe Coris réalise une ouverture de capital historiq
 Cette démarche financière d'envergure positionne la filiale béninoise du groupe Coris parmi les acteurs très actifs du marché. Elle met en lumière la dynamique des institutions financières de la sous-région qui choisissent le marché boursier pour consolider leurs fonds propres.
 Retrouvez l’article complet dans la rubrique À la une de BRVMexa.
 En bref :
+La Côte d’Ivoire se hisse au deuxième rang des investisseurs africains en France. La Côte d'Ivoire renforce son influence économique internationale en devenant le deuxième plus grand investisseur africain sur le territoire français.
 Recomposition au conseil d’administration d'Ecobank après le départ de trois membres. Ecobank Transnational Incorporated enregistre le départ de trois membres de son conseil d'administration.
-Société Générale Côte d'Ivoire inaugure son Club Expérience Client. La banque a officiellement lancé son Club Expérience Client le 20 novembre 2026, une initiative visant à co-construire ses services avec 200 clients volontaires.
 
 ## 3:15 · Le mot de la fin
 

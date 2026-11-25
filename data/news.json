@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-25T13:15:56.174Z",
+ "updatedAt": "2026-11-25T13:30:27.662Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -17,6 +17,30 @@
     "19 PAGES"
    ],
    "pinned": true
+  },
+  {
+   "id": "sika-65948",
+   "title": "La Côte d’Ivoire se hisse au deuxième rang des investisseurs africains en France",
+   "summary": "La Côte d'Ivoire renforce son influence économique internationale en devenant le deuxième plus grand investisseur africain sur le territoire français.",
+   "body": [
+    "Le dynamisme économique ivoirien franchit une nouvelle étape à l'international. Selon les données publiées ce 25 novembre 2026, le pays occupe désormais la deuxième place parmi les nations africaines ayant investi en France.",
+    "Cette performance illustre une évolution stratégique pour la Côte d'Ivoire, qui ne se contente plus d'attirer des capitaux étrangers, mais devient elle-même un acteur actif du paysage économique français."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65948",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-25T13:18:00Z",
+   "writtenAt": "2026-11-25T13:30:27.659Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/la-cote-divoire-simpose-comme-le-2e-investisseur-africain-en-france_65948",
+    "title": "La Côte d’Ivoire s’impose comme le 2e investisseur africain en France"
+   },
+   "rewritten": true
   },
   {
    "id": "sika-65943",
@@ -3755,38 +3779,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/mali-940-milliards-fcfa-verses-a-letat-par-les-societes-minieres-en-2025-malgre-une-production-dor-en-recul-a-42-tonnes_65715",
     "title": "Mali : 940 milliards FCFA versés à l’État par les sociétés minières en 2025, malgré une production d’or en recul à 42 tonnes"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65714",
-   "title": "La BRVM clôture en baisse ce vendredi malgré la progression de Vivo Energy CI",
-   "summary": "La séance boursière de ce vendredi s'est soldée par un repli généralisé des principaux indices de la BRVM, malgré la performance notable de quelques titres.",
-   "body": [
-    "La journée a été marquée par une tendance baissière sur l'ensemble du marché. Le BRVM-Composite a reculé de 0,58 % pour s'établir à 515,94 points, tandis que les indices BRVM-30 et BRVM-Prestige ont respectivement perdu 0,82 % et 0,98 %. Au total, 21 valeurs ont clôturé en baisse, contre 12 en progression.",
-    "Parmi les replis les plus marqués, SETAO CI a chuté de 6,27 %, suivie par la Loterie Nationale du Bénin et Sucrivoire CI. À l'inverse, Vivo Energy CI s'est distinguée avec une hausse de 6,90 %, accompagnée par Bridge Bank Group CI et BICI CI. Le volume total des transactions s'est élevé à 1,24 milliard FCFA, Sonatel Sénégal ayant généré la plus grande part des échanges avec 390 millions FCFA."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65714",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-13T16:28:00Z",
-   "writtenAt": "2026-11-13T16:55:41.276Z",
-   "symbols": [
-    "BBGC",
-    "BICC",
-    "LNBB",
-    "SCRC",
-    "SHEC",
-    "SNTS",
-    "STAC"
-   ],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/brvm-le-marche-marque-un-arret-vivo-energy-ci-s-illustre-a-contre-courant_65714",
-    "title": "BRVM : Le marché marque un arrêt, Vivo Energy CI s'illustre à contre-courant"
    },
    "rewritten": true
   }
