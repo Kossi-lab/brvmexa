@@ -33,15 +33,16 @@ jobs:
       run:
         working-directory: scraper
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
 
-      - uses: actions/setup-node@v5
+      - uses: actions/setup-node@a0853c24544627f65ddf259abe73b1d18a591444 # v5
         with:
           node-version: 22
           cache: npm
           cache-dependency-path: scraper/package-lock.json
 
-      - run: npm ci
+      # --ignore-scripts : aucun paquet npm n'exécute de code à l'installation
+      - run: npm ci --ignore-scripts
 
       - name: Collecte (cours, indices, actualités)
         if: github.event_name == 'schedule' || inputs.task == 'update'
@@ -86,6 +87,11 @@ jobs:
             echo "Aucun changement."
           else
             git commit -m "Données BRVM $(date -u +'%Y-%m-%d %H:%M') UTC"
-            git pull --rebase --autostash
-            git push
+            # Jusqu'à 3 essais : si un autre commit est arrivé entre-temps, nos données (les plus récentes) l'emportent
+            for i in 1 2 3; do
+              if git pull --rebase -X theirs --autostash && git push; then exit 0; fi
+              git rebase --abort 2>/dev/null || true
+              echo "Publication : essai $i échoué, nouvel essai dans 10 s"; sleep 10
+            done
+            exit 1
           fi

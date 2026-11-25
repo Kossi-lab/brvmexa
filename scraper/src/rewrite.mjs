@@ -2,6 +2,7 @@
 // (nouveau titre, chapeau et article), à partir des seuls faits de la source.
 // La source d'origine reste citée en lien, par honnêteté et par respect du droit d'auteur.
 import * as cheerio from 'cheerio';
+import { unknownNumbers } from './numbers.mjs';
 
 export const AUTHOR = 'La Rédaction, BRVMexa';
 const API = process.env.NEWS_API_URL || 'https://api.anthropic.com/v1/messages';
@@ -130,7 +131,11 @@ export async function rewriteItem(item, text, w) {
   const body = (Array.isArray(r.body) ? r.body : [r.body]).map(clean).filter((p) => p.length > 20);
   const title = clean(r.title).replace(/\.$/, '');
   if (title.length < 20 || !body.length) throw new Error('IA : réponse incomplète');
-  return { title, summary: clean(r.summary) || null, body };
+  const summary = clean(r.summary) || null;
+  // Garde-fou : aucun chiffre absent de la dépêche ne doit être publié
+  const bad = unknownNumbers([title, summary, ...body].join(' '), source);
+  if (bad.length) throw new Error(`IA : chiffres absents de la source (${bad.slice(0, 5).join(', ')}), article refusé`);
+  return { title, summary, body };
 }
 
 export async function askAnthropic(content, key, prompt = PROMPT, maxTokens = 1500) {

@@ -16,9 +16,24 @@ export async function readHistory(file) {
   try { return JSON.parse(await fs.readFile(file, 'utf8')); } catch { return []; }
 }
 
+/**
+ * Retire les « séances recopiées » : jours où la source répète exactement le cours ET le volume de la veille
+ * (jours fériés comme le 25 décembre, le 1er mai, la Tabaski…). Une vraie séance avec échanges n'a
+ * pratiquement jamais le même volume que la précédente ; un jour sans échange a un volume nul et reste.
+ */
+export function dropCopiedSessions(rows) {
+  const out = [];
+  for (const p of rows) {
+    const prev = out.at(-1);
+    if (prev && p.v > 0 && p.v === prev.v && p.c === prev.c) continue;
+    out.push(p);
+  }
+  return out;
+}
+
 /** Écriture compacte (une séance par ligne) : fichiers légers à télécharger sur mobile */
 export async function writeHistory(file, rows) {
-  const out = [...rows].sort((a, b) => a.d.localeCompare(b.d)).slice(-HISTORY_MAX_DAYS);
+  const out = dropCopiedSessions([...rows].sort((a, b) => a.d.localeCompare(b.d))).slice(-HISTORY_MAX_DAYS);
   await fs.mkdir(path.dirname(file), { recursive: true });
   await fs.writeFile(file, '[\n' + out.map((p) => JSON.stringify(p)).join(',\n') + '\n]\n');
   return out.length;

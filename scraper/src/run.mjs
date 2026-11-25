@@ -85,7 +85,7 @@ async function updateMarket() {
   const now = new Date().toISOString();
   const quotesHtml = await fetchText(`${BRVM}/cours-actions/0`);
   const quotes = parseQuotes(quotesHtml);
-  if (quotes.length < 20) throw new Error(`Seulement ${quotes.length} actions lues : structure du site modifiée ?`);
+  if (quotes.length < 45) throw new Error(`Seulement ${quotes.length} actions lues sur 48 : publication refusée (structure du site modifiée ?)`);
   const session = parseLastUpdate(quotesHtml) ?? { date: now.slice(0, 10), time: null };
 
   // Secteurs officiels

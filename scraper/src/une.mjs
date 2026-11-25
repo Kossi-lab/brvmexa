@@ -2,6 +2,7 @@
 // investisseurs de la BRVM et en tire un article détaillé (intertitres, points clés, enjeux).
 // Une seule rédaction par jour, au premier passage du robot à partir de 9 h (heure de Lomé).
 // Fichiers : data/une.json (l'article du jour) et data/une-history.json (les 30 derniers).
+import { unknownNumbers } from './numbers.mjs';
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { askGemini, askAnthropic, extractArticle } from './rewrite.mjs';
@@ -94,6 +95,9 @@ export async function updateUne({ dataDir, w, fetchText, log = console.log, now 
   const sections = (r.sections ?? []).map((x) => ({ h: clean(x.h), p: (Array.isArray(x.p) ? x.p : [x.p]).map(clean).filter((p) => p.length > 30) })).filter((x) => x.h && x.p.length);
   const title = clean(r.title).replace(/\.$/, '');
   if (title.length < 20 || sections.length < 2) throw new Error('À la une : réponse incomplète');
+  // Garde-fou : aucun chiffre absent des éléments fournis ne doit être publié
+  const bad = unknownNumbers([title, r.summary, ...sections.flatMap((x) => [x.h, ...x.p]), ...(r.points ?? [])].join(' '), source);
+  if (bad.length) throw new Error(`À la une : chiffres absents de la source (${bad.slice(0, 5).join(', ')}), article refusé`);
   const words = [r.summary, ...sections.flatMap((x) => x.p)].join(' ').split(/\s+/).length;
   const une = {
     v: VERSION,

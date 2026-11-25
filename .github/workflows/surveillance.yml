@@ -1,0 +1,34 @@
+# Surveillance des données : pendant les séances, vérifie que le robot tourne et que les cours du jour sont publiés.
+# En cas de problème, ouvre (ou met à jour) un ticket « Alerte données » : GitHub vous prévient par e-mail.
+# Le ticket se referme tout seul quand tout redevient normal.
+name: Surveillance des données
+
+on:
+  schedule:
+    - cron: '41 10,12,14 * * 1-5'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  controle:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
+        with:
+          sparse-checkout: |
+            data/status.json
+            data/market.json
+            scraper/src/freshness.mjs
+          sparse-checkout-cone-mode: false
+      - uses: actions/setup-node@a0853c24544627f65ddf259abe73b1d18a591444 # v5
+        with:
+          node-version: 22
+      - name: Contrôle de fraîcheur
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+        run: node scraper/src/freshness.mjs
