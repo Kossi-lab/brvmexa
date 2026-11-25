@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-25T08:15:21.017Z",
+ "updatedAt": "2026-11-25T08:30:28.426Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -17,6 +17,31 @@
     "19 PAGES"
    ],
    "pinned": true
+  },
+  {
+   "id": "sika-65927",
+   "title": "La BAD finance une ambassade régionale des données pour la CEDEAO en Sierra Leone",
+   "summary": "La Banque africaine de développement a accordé 750 000 USD à la Sierra Leone pour lancer le projet d'une ambassade régionale des données destinée à renforcer la souveraineté numérique ouest-africaine.",
+   "body": [
+    "Le 24 novembre 2026, la Banque africaine de développement a officialisé un don de 750 000 USD, financé par le Fonds fiduciaire de coopération économique Corée-Afrique (KOAFEC). Cette somme est destinée à financer les études de faisabilité et les travaux préparatoires nécessaires à l'installation d'une ambassade régionale des données de la CEDEAO en Sierra Leone.",
+    "Ce projet vise à créer une infrastructure sécurisée pour le stockage des informations gouvernementales critiques tout en garantissant la souveraineté juridique et la propriété intellectuelle des États membres. En mutualisant les ressources numériques, la région cherche à limiter la dépendance aux fournisseurs étrangers et à mieux se positionner pour exploiter les opportunités offertes par l'intelligence artificielle.",
+    "Suite au Sommet de l'intégration et de l'investissement tenu en novembre 2026 à Lungi, la Commission de la CEDEAO s'apprête à lancer des consultations techniques dès la fin du mois. Abdul Kamara, vice-président par intérim à la BAD, a souligné que cet investissement constitue une étape clé pour sécuriser les actifs numériques essentiels de l'Afrique de l'Ouest."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65927",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-25T08:04:00Z",
+   "writtenAt": "2026-11-25T08:30:28.423Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/souverainete-numerique-la-bad-debloque-750-000-usd-pour-doter-la-cedeao-dune-ambassade-regionale-des-donnees-en-sierra-leone_65927",
+    "title": "Souveraineté numérique : La BAD débloque 750 000 USD pour doter la CEDEAO d’une ambassade régionale des données en Sierra Leone"
+   },
+   "rewritten": true
   },
   {
    "id": "gn-oxc567",
@@ -3758,32 +3783,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/la-cote-divoire-inaugure-kone-un-geant-minier-ouest-africain-qui-vise-dix-tonnes-dor-par-an_65694",
     "title": "La Côte d’Ivoire inaugure Koné, un géant minier ouest africain qui vise dix tonnes d’or par an"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65693",
-   "title": "Oragroup enregistre une progression de 14 % de son bénéfice au troisième trimestre 2026",
-   "summary": "Le groupe bancaire Oragroup affiche une performance financière positive avec une hausse de 14 % de son bénéfice net à l'issue des neuf premiers mois de l'année 2026.",
-   "body": [
-    "Le bilan financier d'Oragroup au 30 septembre 2026 témoigne d'une dynamique favorable pour l'institution. Le groupe bancaire a réussi à accroître son bénéfice de 14 % sur cette période, marquant une étape significative dans son activité annuelle.",
-    "Cette progression des résultats souligne la capacité de la banque à renforcer sa rentabilité au cours des trois premiers trimestres de l'année. Ces chiffres reflètent l'évolution actuelle de la situation financière de l'établissement sur le marché."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65693",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-13T09:24:00Z",
-   "writtenAt": "2026-11-13T09:51:43.585Z",
-   "symbols": [
-    "ORGT"
-   ],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/oragroup-affiche-un-benefice-en-hausse-de-14-a-fin-septembre-2026_65693",
-    "title": "ORAGROUP affiche un bénéfice en hausse de 14 % à fin septembre 2026"
    },
    "rewritten": true
   }
