@@ -1,7 +1,7 @@
 # BRVMexa Soir — mercredi 25 novembre 2026
 
-> Script généré automatiquement le 2026-11-25 à 14:45 GMT à partir des données publiées (source des cours : brvm.org, données différées).
-> **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 3,8 minutes (567 mots).
+> Script généré automatiquement le 2026-11-25 à 15:00 GMT à partir des données publiées (source des cours : brvm.org, données différées).
+> **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 3,8 minutes (576 mots).
 
 ## 0:00 · Générique
 
@@ -11,24 +11,24 @@
 
 Bonsoir et bienvenue dans BRVMexa Soir, nous sommes le mercredi 25 novembre 2026.
 Au programme ce soir : une BRVM en repli, avec nettement plus de baisses que de hausses.
-Sucrivoire CI signe la meilleure performance du jour.
+BOA Niger signe la meilleure performance du jour.
 Et à la une : Coris Bank Bénin lance une levée de fonds majeure de 19,19 milliards à la BRVM.
 
 ## 0:30 · La séance
 
 Commençons par le marché.
-L’indice BRVM Composite, qui regroupe toutes les actions, termine à 468 points, en baisse de 0,9 %.
-Le BRVM 30, l’indice des trente valeurs les plus actives, est en baisse de 0,8 %, et le BRVM Prestige en baisse de 0,8 %.
-Sur l’ensemble de la séance, 8 actions ont progressé, 29 ont reculé et 11 sont restées stables.
+L’indice BRVM Composite, qui regroupe toutes les actions, termine à 465 points, en baisse de 1,5 %.
+Le BRVM 30, l’indice des trente valeurs les plus actives, est en baisse de 1,6 %, et le BRVM Prestige en baisse de 1,4 %.
+Sur l’ensemble de la séance, 9 actions ont progressé, 27 ont reculé et 12 sont restées stables.
 Côté activité, environ 2,2 milliards de francs CFA ont été échangés aujourd’hui.
-Du côté des secteurs, les Services publics recule le plus, en baisse de 5,8 %.
+Du côté des secteurs, meilleur score pour l’Énergie, en hausse de 0,9 %, tandis que les Services publics ferme la marche, en baisse de 5,8 %.
 
 ## 1:15 · Le palmarès
 
-Dans le haut du tableau, Sucrivoire CI gagne 5,5 % à 1 335 francs CFA.
-Suivent Bridge Bank Group CI, en hausse de 4,0 %, et TotalEnergies Marketing Sénégal, en hausse de 2,9 %.
+Dans le haut du tableau, BOA Niger gagne 6,0 % à 4 350 francs CFA.
+Suivent Vivo Energy CI, en hausse de 5,6 %, et Sucrivoire CI, en hausse de 5,5 %.
 En bas du tableau, Filtisac CI cède 7,5 %, BICI Côte d’Ivoire 6,4 % et CIE Côte d’Ivoire 5,9 %.
-La valeur la plus échangée du jour est Sonatel, avec 52 883 titres, à 3 885 francs CFA, en baisse de 0,1 %.
+La valeur la plus échangée du jour est Sonatel, avec 55 953 titres, à 3 750 francs CFA, en baisse de 3,6 %.
 
 ## 2:00 · L’actualité du jour
 

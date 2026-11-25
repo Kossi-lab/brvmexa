@@ -1,22 +1,36 @@
 {
- "updatedAt": "2026-11-25T14:45:16.647Z",
+ "updatedAt": "2026-11-25T15:00:17.746Z",
  "sessionDate": "2026-11-25",
- "sessionTime": "14:30",
+ "sessionTime": "14:45",
  "source": "brvm.org",
- "transactionsValue": 2198829502,
- "capitalisationActions": 18337013129289,
+ "transactionsValue": 2221198512,
+ "capitalisationActions": 18226419319289,
  "capitalisationBonds": 13416988725371,
- "advancing": 8,
- "declining": 29,
- "unchanged": 11,
- "totalVolume": 1018118,
+ "advancing": 9,
+ "declining": 27,
+ "unchanged": 12,
+ "totalVolume": 1023998,
  "gainers": [
+  {
+   "symbol": "BOAN",
+   "shortName": "BOA Niger",
+   "close": 4350,
+   "change": 5.97,
+   "volume": 5553
+  },
+  {
+   "symbol": "SHEC",
+   "shortName": "Vivo Energy CI",
+   "close": 1900,
+   "change": 5.56,
+   "volume": 3011
+  },
   {
    "symbol": "SCRC",
    "shortName": "Sucrivoire CI",
    "close": 1335,
    "change": 5.53,
-   "volume": 8836
+   "volume": 8922
   },
   {
    "symbol": "BBGC",
@@ -26,25 +40,11 @@
    "volume": 10026
   },
   {
-   "symbol": "TTLS",
-   "shortName": "TotalEnergies Marketing Sénégal",
-   "close": 3500,
-   "change": 2.94,
-   "volume": 5079
-  },
-  {
-   "symbol": "BOAC",
-   "shortName": "BOA Côte d’Ivoire",
-   "close": 10845,
-   "change": 2.41,
-   "volume": 17194
-  },
-  {
-   "symbol": "BOAN",
-   "shortName": "BOA Niger",
-   "close": 4200,
-   "change": 2.31,
-   "volume": 4053
+   "symbol": "SAFC",
+   "shortName": "SAFCA CI",
+   "close": 2900,
+   "change": 3.57,
+   "volume": 4031
   }
  ],
  "losers": [
@@ -88,9 +88,9 @@
   {
    "symbol": "SNTS",
    "shortName": "Sonatel",
-   "close": 3885,
-   "change": -0.13,
-   "volume": 52883
+   "close": 3750,
+   "change": -3.6,
+   "volume": 55953
   },
   {
    "symbol": "BOAC",
