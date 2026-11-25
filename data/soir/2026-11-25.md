@@ -1,7 +1,7 @@
 # BRVMexa Soir — mercredi 25 novembre 2026
 
-> Script généré automatiquement le 2026-11-25 à 10:00 GMT à partir des données publiées (source des cours : brvm.org, données différées).
-> **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 3,9 minutes (590 mots).
+> Script généré automatiquement le 2026-11-25 à 10:15 GMT à partir des données publiées (source des cours : brvm.org, données différées).
+> **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 3,9 minutes (585 mots).
 
 ## 0:00 · Générique
 
@@ -10,25 +10,25 @@
 ## 0:10 · Les titres
 
 Bonsoir et bienvenue dans BRVMexa Soir, nous sommes le mercredi 25 novembre 2026.
-Au programme ce soir : une BRVM quasiment stable, avec nettement plus de baisses que de hausses.
-CIE Côte d’Ivoire signe la meilleure performance du jour.
+Au programme ce soir : une BRVM en repli, avec nettement plus de baisses que de hausses.
+Vivo Energy CI signe la meilleure performance du jour.
 Et à la une : Coris Bank Bénin lance une levée de fonds majeure de 19,19 milliards à la BRVM.
 
 ## 0:30 · La séance
 
 Commençons par le marché.
-L’indice BRVM Composite, qui regroupe toutes les actions, termine à 472 points, en baisse de 0,07 %.
-Le BRVM 30, l’indice des trente valeurs les plus actives, est en baisse de 0,05 %, et le BRVM Prestige en baisse de 0,2 %.
-Sur l’ensemble de la séance, 3 actions ont progressé, 10 ont reculé et 35 sont restées stables.
-Côté activité, environ 43 millions de francs CFA ont été échangés aujourd’hui.
-Du côté des secteurs, meilleur score pour les Services publics, en hausse de 0,8 %, tandis que la Consommation de base ferme la marche, en baisse de 0,2 %.
+L’indice BRVM Composite, qui regroupe toutes les actions, termine à 468 points, en baisse de 0,9 %.
+Le BRVM 30, l’indice des trente valeurs les plus actives, est en baisse de 0,7 %, et le BRVM Prestige en baisse de 0,5 %.
+Sur l’ensemble de la séance, 3 actions ont progressé, 28 ont reculé et 17 sont restées stables.
+Côté activité, environ 167 millions de francs CFA ont été échangés aujourd’hui.
+Du côté des secteurs, meilleur score pour l’Énergie, en hausse de 0,6 %, tandis que les Industriels ferme la marche, en baisse de 2,6 %.
 
 ## 1:15 · Le palmarès
 
-Dans le haut du tableau, CIE Côte d’Ivoire gagne 1,2 % à 4 300 francs CFA.
-Suivent Oragroup Togo, en hausse de 0,4 %, et Bridge Bank Group CI, en hausse de 0,1 %.
-En bas du tableau, SAFCA CI cède 1,8 %, Onatel Burkina Faso 1,8 % et Nestlé CI 1,7 %.
-La valeur la plus échangée du jour est Bridge Bank Group CI, avec 1 372 titres, à 7 510 francs CFA, en hausse de 0,1 %.
+Dans le haut du tableau, Vivo Energy CI gagne 6,1 % à 1 910 francs CFA.
+Suivent CIE Côte d’Ivoire, en hausse de 2,2 %, et Bridge Bank Group CI, en hausse de 1,1 %.
+En bas du tableau, BICI Côte d’Ivoire cède 7,3 %, Filtisac CI 7,1 % et BOA Burkina Faso 5,3 %.
+La valeur la plus échangée du jour est Sonatel, avec 11 419 titres, à 3 885 francs CFA, en baisse de 0,1 %.
 
 ## 2:00 · L’actualité du jour
 
