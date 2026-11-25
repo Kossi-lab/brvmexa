@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-25T14:31:21.132Z",
+ "updatedAt": "2026-11-25T14:45:26.626Z",
  "items": [
+  {
+   "id": "gn-qpoxv7",
+   "title": "Après un premier report, la première cotation de Renaprov à la BVMAC prévue en décembre",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcS1YLWpnc2F0NktHektsNGlENGl3QlhJZzVsS0o2UWZzVTJERlhPajdZWE92VFlzRTBkczM5cWRrd3lfN1ZWdW1keXBTczZHU2RuaWU1aVFpN0t0Qld4SGtzeFh2TEwyVGlpbHd0aU9ERFl3VHVwa0o1WDAwMkhNajk3ZlVXZ1I1cjE5T1R1V01yY08tUDFZcjV6Z1h0VnlvNFNHekVYeTFicEs3dUlNT1loOEVIUkVUOEp5X28zQW9ocjNOdnJWLTczZHF4b1dvQ0JfTw?oc=5",
+   "image": null,
+   "source": "AGENCE ECOFIN",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-25T14:39:00.000Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65950",
    "title": "UEMOA : La BOAD et la BERD envisagent un mécanisme de financement réciproque de 400 millions d’euros pour dynamiser les investissements",
@@ -4310,22 +4324,6 @@
    "premium": false,
    "publishedAt": "2026-11-02T16:48:00Z",
    "symbols": [],
-   "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "sika-65436",
-   "title": "BICICI : Une croissance de 15 % du bénéfice au 3ème trimestre 2026",
-   "summary": "Au terme des neuf premiers mois de 2026, la Banque internationale pour le commerce et l'industrie de Côte d'Ivoir...",
-   "url": "https://www.sikafinance.com/marches/bicici-une-croissance-de-15-du-benefice-au-3eme-trimestre-2026_65436",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": true,
-   "publishedAt": "2026-11-02T16:32:00Z",
-   "symbols": [
-    "BICC"
-   ],
    "status": "done",
    "tries": 1
   }
