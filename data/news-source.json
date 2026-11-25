@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-25T18:15:38.221Z",
+ "updatedAt": "2026-11-25T18:32:02.093Z",
  "items": [
   {
    "id": "sika-65957",
@@ -12,6 +12,22 @@
    "premium": true,
    "publishedAt": "2026-11-25T17:42:00Z",
    "symbols": [],
+   "status": "skip",
+   "tries": 1
+  },
+  {
+   "id": "gn-131mbng",
+   "title": "Marché financier régional : Coris Bank International Bénin ouvre 20% de son capital au public",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9pVEpSN0dNdEwwOHY5bkJEYjgzUDNvb2psT2hia1REWlZfdUprTnYtYTFUS2JVVTFUamZlRG9Bd2hsU1VZSGg1cmV6cHdHOXFtVTA0?oc=5",
+   "image": null,
+   "source": "leFaso.net - L'actualité au Burkina Faso",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-25T16:53:00.000Z",
+   "symbols": [
+    "CBIBF"
+   ],
    "status": "skip",
    "tries": 1
   },
@@ -4306,20 +4322,6 @@
    "symbols": [
     "STBC"
    ],
-   "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "sika-65452",
-   "title": "Bénin : L'obtention du casier judiciaire devient instantanée depuis un téléphone portable",
-   "summary": "Le ministère de la Justice et de la Législation du Bénin a officiellement lancé, le 1er novembre 2026, la délivrance en...",
-   "url": "https://www.sikafinance.com/marches/benin-l-obtention-du-casier-judiciaire-devient-instantanee-depuis-un-telephone-portable_65452",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-03T10:12:00Z",
-   "symbols": [],
    "status": "done",
    "tries": 1
   }
