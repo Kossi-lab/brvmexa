@@ -1,6 +1,22 @@
 {
- "updatedAt": "2026-11-25T12:45:48.598Z",
+ "updatedAt": "2026-11-25T13:02:38.443Z",
  "items": [
+  {
+   "id": "sika-65943",
+   "title": "Afrique : Trois administrateurs quittent le conseil d’administration du groupe bancaire Ecobank",
+   "summary": "Ecobank Transnational Incorporated (ETI), la société mère du groupe bancaire panafricain Ecobank, annonce le départ de ...",
+   "url": "https://www.sikafinance.com/marches/afrique-trois-administrateurs-quittent-le-conseil-dadministration-du-groupe-bancaire-ecobank_65943",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-25T12:53:00Z",
+   "symbols": [
+    "ETIT"
+   ],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "gn-b1jt4m",
    "title": "BRVM : Coris Bank Bénin ouvre 20 % de son capital, l’action à 4 700 FCFA",
@@ -4309,20 +4325,6 @@
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-11-02T15:49:01.000Z",
-   "symbols": [],
-   "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "sika-65434",
-   "title": "Bénin : Proparco et IFC mobilisent 28 millions d’euros pour quatre centrales solaires de 62 MWc",
-   "summary": "Le Bénin entend réduire sa dépendance aux centrales thermiques en s'appuyant davantage sur les investissements privés d...",
-   "url": "https://www.sikafinance.com/marches/benin-proparco-et-ifc-mobilisent-28-millions-deuros-pour-quatre-centrales-solaires-de-62-mwc_65434",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-02T15:44:00Z",
    "symbols": [],
    "status": "done",
    "tries": 1

@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-25T12:45:48.601Z",
+ "updatedAt": "2026-11-25T13:02:38.446Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -17,6 +17,32 @@
     "19 PAGES"
    ],
    "pinned": true
+  },
+  {
+   "id": "sika-65943",
+   "title": "Recomposition au conseil d’administration d'Ecobank après le départ de trois membres",
+   "summary": "Ecobank Transnational Incorporated enregistre le départ de trois membres de son conseil d'administration. Deux administrateurs arrivent au terme de leur mandat, tandis qu'une administratrice indépendante a démissionné.",
+   "body": [
+    "La maison mère du groupe bancaire panafricain, Ecobank Transnational Incorporated (ETI), a formalisé le 24 novembre 2026 depuis Lomé le retrait de trois membres de son conseil d'administration. David O'Sullivan, désigné par la Qatar National Bank (QNB), ainsi que Zanele Monnakgotla, représentant la société de gestion sud-africaine Public Investment Corporation (PIC), quittent la gouvernance suite à l'échéance normale de leurs mandats.",
+    "De son côté, Esther Chibesa, qui siégeait en tant qu'administratrice indépendante, a choisi de démissionner afin d'embrasser d'autres projets. L'ensemble des dirigeants et des équipes d'ETI ont salué l'implication de ces trois responsables durant leur passage, bien que l'institution n'ait pas encore précisé les conditions relatives à leur remplacement."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65943",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-25T12:53:00Z",
+   "writtenAt": "2026-11-25T13:02:38.441Z",
+   "symbols": [
+    "ETIT"
+   ],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/afrique-trois-administrateurs-quittent-le-conseil-dadministration-du-groupe-bancaire-ecobank_65943",
+    "title": "Afrique : Trois administrateurs quittent le conseil d’administration du groupe bancaire Ecobank"
+   },
+   "rewritten": true
   },
   {
    "id": "gn-b1jt4m",
@@ -3761,30 +3787,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/brvm-le-marche-marque-un-arret-vivo-energy-ci-s-illustre-a-contre-courant_65714",
     "title": "BRVM : Le marché marque un arrêt, Vivo Energy CI s'illustre à contre-courant"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65711",
-   "title": "Transport aérien en Côte d'Ivoire : 1,16 million de passagers au premier semestre 2026",
-   "summary": "Le secteur de l'aviation commerciale ivoirienne affiche une dynamique soutenue avec plus d'un million de voyageurs enregistrés sur les six premiers mois de l'année 2026.",
-   "body": [
-    "Le trafic aérien en Côte d'Ivoire a maintenu une cadence élevée durant la première moitié de l'année 2026. Au total, 1,16 million de passagers ont emprunté les lignes commerciales au cours de cette période.",
-    "Ces chiffres témoignent de l'activité intense du secteur aéroportuaire ivoirien, alors que les flux de voyageurs continuent de progresser sur les infrastructures nationales."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65711",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-13T15:20:00Z",
-   "writtenAt": "2026-11-13T15:43:04.010Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/cote-divoire-1-16-million-de-passagers-transportes-par-avion-au-1er-semestre-2026_65711",
-    "title": "Côte d’Ivoire : 1,16 million de passagers transportés par avion au 1er semestre 2026"
    },
    "rewritten": true
   }
