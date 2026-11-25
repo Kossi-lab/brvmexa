@@ -1,6 +1,6 @@
 # BRVMexa Soir — mercredi 25 novembre 2026
 
-> Script généré automatiquement le 2026-11-25 à 13:30 GMT à partir des données publiées (source des cours : brvm.org, données différées).
+> Script généré automatiquement le 2026-11-25 à 13:45 GMT à partir des données publiées (source des cours : brvm.org, données différées).
 > **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 3,6 minutes (546 mots).
 
 ## 0:00 · Générique
@@ -18,17 +18,17 @@ Et à la une : Coris Bank Bénin lance une levée de fonds majeure de 19,19 mill
 
 Commençons par le marché.
 L’indice BRVM Composite, qui regroupe toutes les actions, termine à 466 points, en baisse de 1,3 %.
-Le BRVM 30, l’indice des trente valeurs les plus actives, est en baisse de 1,5 %, et le BRVM Prestige en baisse de 0,9 %.
-Sur l’ensemble de la séance, 6 actions ont progressé, 36 ont reculé et 6 sont restées stables.
-Côté activité, environ 935 millions de francs CFA ont été échangés aujourd’hui.
+Le BRVM 30, l’indice des trente valeurs les plus actives, est en baisse de 1,4 %, et le BRVM Prestige en baisse de 1,0 %.
+Sur l’ensemble de la séance, 6 actions ont progressé, 37 ont reculé et 5 sont restées stables.
+Côté activité, environ 962 millions de francs CFA ont été échangés aujourd’hui.
 Du côté des secteurs, les Industriels recule le plus, en baisse de 5,5 %.
 
 ## 1:15 · Le palmarès
 
 Dans le haut du tableau, Bridge Bank Group CI gagne 4,0 % à 7 800 francs CFA.
-Suivent TotalEnergies Marketing Sénégal, en hausse de 2,8 %, et Sucrivoire CI, en hausse de 2,8 %.
-En bas du tableau, Africa Global Logistics CI cède 7,2 %, Uniwax CI 7,1 % et Filtisac CI 7,1 %.
-La valeur la plus échangée du jour est Sonatel, avec 48 055 titres, à 3 885 francs CFA, en baisse de 0,1 %.
+Suivent Sucrivoire CI, en hausse de 4,0 %, et TotalEnergies Marketing Sénégal, en hausse de 2,9 %.
+En bas du tableau, Filtisac CI cède 7,5 %, Africa Global Logistics CI 7,2 % et Uniwax CI 7,1 %.
+La valeur la plus échangée du jour est Sonatel, avec 48 799 titres, à 3 880 francs CFA, en baisse de 0,3 %.
 
 ## 2:00 · L’actualité du jour
 
