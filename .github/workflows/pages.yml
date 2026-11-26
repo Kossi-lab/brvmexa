@@ -1,0 +1,52 @@
+# Mise en ligne du site www.brvmexa.com (audit A-09).
+# Le site (docs/) et les données (data/) sont publiés ensemble : l'application lit ses données sur
+# https://www.brvmexa.com/data/… (CDN de GitHub Pages) au lieu de raw.githubusercontent.com, qui limite
+# les lectures anonymes. Lancé à chaque modification poussée, et par le robot après chaque mise à jour
+# des données (ses propres commits ne déclenchent pas les workflows).
+name: Mise en ligne du site
+
+on:
+  push:
+    branches: [main]
+    paths: ['docs/**', 'data/**']
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Une seule mise en ligne à la fois ; la plus récente en attente remplace les autres
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
+
+      - name: Assembler le site et les données
+        run: |
+          set -euo pipefail
+          cp -r docs _site
+          test ! -e _site/data || { echo "docs/data existe déjà : conflit avec les données"; exit 1; }
+          cp -r data _site/data
+          # Contrôles : pages principales et fichiers lus par l'application
+          for f in index.html CNAME .nojekyll .well-known/security.txt data/quotes.json data/market.json data/dividends.json data/history/_splits.json; do
+            test -s "_site/$f" || { echo "Manquant : $f"; exit 1; }
+          done
+          du -sh _site
+
+      - uses: actions/upload-pages-artifact@fc324d3547104276b827a68afc52ff2a11cc49c9 # v5
+        with:
+          path: _site
+          include-hidden-files: true
+
+      - id: deployment
+        uses: actions/deploy-pages@368f82528645a54fb793d4d04e342629a3f51346 # v5.0.1

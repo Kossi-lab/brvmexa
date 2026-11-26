@@ -76,7 +76,9 @@
   }
 
   // ───────── Calcul des ratios ─────────
-  function analyse(q, f) {
+  // Dividende brut annuel de la fiche de l'action (dividends.json), habituel si le dernier versement est exceptionnel (audit A-14)
+  function grossOf(info) { return !info || !info.annual ? null : info.exceptional && info.usual ? info.usual : info.annual; }
+  function analyse(q, f, dv) {
     if (!f.netIncome) { // version gratuite : seuls le cours et la capitalisation sont calculables
       return { sym: q.symbol, name: q.shortName || q.name, fullName: q.name, page: stockUrl(q), sector: q.sector, country: q.countryName,
         price: q.close, change: q.change, year: f.year || null, f: f, cap: q.close && f.shares ? q.close * f.shares : null, locked: true };
@@ -90,7 +92,8 @@
     var caPrev = L > 0 ? f.revenue[L - 1] : null;
     var eps = L >= 0 ? f.eps[L] : null;
     if (eps == null && rn != null && f.shares) eps = rn * 1e6 / f.shares;
-    var div = L >= 0 ? f.dividend[L] : null;
+    var gross = !!dv; // flux des dividendes disponible : même chiffre que la fiche de l'action
+    var div = gross ? grossOf(dv[q.symbol]) : L >= 0 ? f.dividend[L] : null;
     var first = -1;
     for (var j = 0; j < L; j++) if (f.netIncome[j] != null) { first = j; break; }
     var span = L - first;
@@ -103,7 +106,7 @@
       per: eps > 0 && price ? price / eps : null,
       loss: rn != null && rn < 0,
       yield: div > 0 && price ? div / price : null,
-      div: div,
+      div: div, gross: gross,
       payout: div > 0 && eps > 0 ? div / eps : null,
       margin: rn != null && ca > 0 ? rn / ca : null,
       grRev: ca > 0 && caPrev > 0 ? ca / caPrev - 1 : null,
@@ -127,7 +130,7 @@
     if (s.yield != null) {
       if (s.yield >= 0.06) out.push(['up', 'Rendement élevé (≥ 6 %)']);
       else if (s.yield < 0.03) out.push(['flat', 'Rendement faible']);
-    } else out.push(['flat', 'Pas de dividende sur le dernier exercice']);
+    } else out.push(['flat', s.gross ? 'Pas de dividende depuis 12 mois' : 'Pas de dividende sur le dernier exercice']);
     if (s.payout != null && s.payout > 1) out.push(['warn', 'Distribue plus que son bénéfice']);
     if (s.grNet != null) out.push(s.grNet >= 0 ? ['up', 'Bénéfice en hausse sur un an'] : ['down', 'Bénéfice en baisse sur un an']);
     if (s.divYears >= 5) out.push(['up', 'Dividende versé 5 années sur 5']);
@@ -188,7 +191,7 @@
     [/^Prochain dividende/, 'La société n’a rien versé depuis plus de 18 mois : aucun versement n’est prévisible pour l’instant. À surveiller lors de ses prochains résultats.'],
     [/^BPA/, 'Bénéfice par action : la part du bénéfice annuel qui revient à chaque action. S’il progresse d’année en année, c’est bon signe.'],
     [/^PER/, 'Combien d’années de bénéfices il faut pour « rembourser » le prix de l’action. Plus il est bas, moins l’action est chère. Comparez-le à la médiane du secteur.'],
-    [/^Rendement net/, 'Dividende net du dernier exercice divisé par le cours actuel : le revenu annuel que l’action vous verse, en pourcentage de votre mise.'],
+    [/^Rendement/, 'Dividende brut versé sur les 12 derniers mois divisé par le cours actuel (le même chiffre que sur la fiche de l’action) : le revenu annuel que l’action vous verse, en pourcentage de votre mise.'],
     [/^Taux de distribution/, 'Part du bénéfice reversée aux actionnaires. Au-delà de 100 %, la société distribue plus qu’elle ne gagne : le dividende risque de baisser.'],
     [/^Marge nette/, 'Sur 100 F de chiffre d’affaires (ou de produit net bancaire pour une banque), ce qu’il reste en bénéfice. Plus elle est haute, plus l’entreprise est rentable.'],
     [/^Croissance du bénéfice/, 'Évolution du bénéfice net par rapport à l’exercice précédent : la société gagne-t-elle plus ou moins d’argent ?'],
@@ -255,7 +258,7 @@
     var cards = [
       card('BPA ' + (s.year || ''), s.eps != null ? money(s.eps) + ' F' : '—', 'Bénéfice net ÷ nombre d’actions'),
       card('PER', s.loss ? 'n.s.' : mult(s.per), mPer ? 'Médiane du secteur : ' + mult(mPer) : 'Cours ÷ BPA', rel(s.per, mPer, true)),
-      card('Rendement net', pctv(s.yield), mYield ? 'Médiane du secteur : ' + pctv(mYield) : 'Dividende ÷ cours', rel(s.yield, mYield, false)),
+      card(s.gross || demo ? 'Rendement brut' : 'Rendement', pctv(s.yield), mYield ? 'Médiane du secteur : ' + pctv(mYield) : 'Dividende brut sur 12 mois ÷ cours', rel(s.yield, mYield, false)),
       card('Taux de distribution', pctv(s.payout), 'Dividende ÷ BPA', s.payout > 1 ? 'down' : ''),
       card('Marge nette', pctv(s.margin), 'Bénéfice ÷ ' + (bank ? 'PNB' : 'chiffre d’affaires'), s.margin < 0 ? 'down' : ''),
       card('Croissance du bénéfice', pctv(s.grNet, true), 'Sur un an', s.grNet != null ? (s.grNet >= 0 ? 'up' : 'down') : ''),
@@ -276,13 +279,13 @@
       row('Résultat net', f.netIncome, money) +
       row('Marge nette', margins, function (v) { return pctv(v); }) +
       row('BPA (FCFA)', f.eps, function (v) { return v == null ? '—' : tidy(n2.format(v)); }) +
-      row('Dividende net (FCFA)', f.dividend, function (v) { return v == null ? '—' : tidy(n2.format(v)); }) +
+      row('Dividende par action (FCFA)', f.dividend, function (v) { return v == null ? '—' : tidy(n2.format(v)); }) +
       row('Taux de distribution', payouts, function (v) { return pctv(v); }) +
       '</tbody></table></div>';
     return '<div class="fx-chips" aria-label="Lecture rapide">' + chips + '</div>' +
       divBlock(s) +
       '<div class="fx-cards">' + cards + '</div>' +
-      '<div class="fx-charts">' + bars(f.years, f.netIncome, 'Résultat net (millions de FCFA)', 'M FCFA') + bars(f.years, f.dividend, 'Dividende net par action (FCFA)', 'FCFA') + '</div>' +
+      '<div class="fx-charts">' + bars(f.years, f.netIncome, 'Résultat net (millions de FCFA)', 'M FCFA') + bars(f.years, f.dividend, 'Dividende par action (FCFA)', 'FCFA') + '</div>' +
       hist;
   }
 
@@ -295,9 +298,9 @@
 
   function start(quotes, fund, member) {
     var items, rows, med, premium = false;
-    var compute = function (fd) {
+    var compute = function (fd, dv) {
       items = fd.items || {};
-      rows = (quotes.items || []).filter(function (q) { return items[q.symbol]; }).map(function (q) { return analyse(q, items[q.symbol]); });
+      rows = (quotes.items || []).filter(function (q) { return items[q.symbol]; }).map(function (q) { return analyse(q, items[q.symbol], dv); });
       med = { per: {}, yield: {} };
       var sectors = {};
       rows.forEach(function (s) { (sectors[s.sector] = sectors[s.sector] || []).push(s); });
@@ -527,7 +530,7 @@
       Promise.all([window.BxMember.data('fondamentaux'), divs]).then(function (res) {
         var full = res[0], dv = res[1] && res[1].items ? res[1].items : null;
         premium = true;
-        compute(full);
+        compute(full, dv);
         if (dv) rows.forEach(function (s) { s.nd = nextDividend(dv[s.sym], s.price); });
         promo.remove();
         drawHead();

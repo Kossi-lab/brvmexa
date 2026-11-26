@@ -184,11 +184,11 @@
       if (fx.per > 20) cons.push('Valorisation exigeante (PER ' + X(fx.per) + ')');
     }
     if (fx.yield != null) {
-      fund.push('Rendement net de ' + P(fx.yield) + (fu.mYield ? ' (secteur : ' + P(fu.mYield) + ')' : '') + ', avec un taux de distribution de ' + P(fx.payout) + ' du bénéfice. Dividende versé ' + fx.divYears + ' années sur ' + fx.years + '.');
+      fund.push('Rendement ' + (fx.gross ? 'brut sur 12 mois' : 'du dernier exercice') + ' de ' + P(fx.yield) + (fu.mYield ? ' (secteur : ' + P(fu.mYield) + ')' : '') + ', avec un taux de distribution de ' + P(fx.payout) + ' du bénéfice. Dividende versé ' + fx.divYears + ' années sur ' + fx.years + '.');
       if (fx.yield >= 0.06) pros.push('Rendement du dividende élevé (' + P(fx.yield) + ')');
       if (fx.payout > 1) cons.push('Le dividende dépasse le bénéfice (' + P(fx.payout) + ') : il pourrait baisser');
       if (fx.divYears >= 5) pros.push('Dividende versé chaque année depuis 5 ans');
-    } else { fund.push('Pas de dividende versé au titre du dernier exercice.'); cons.push('Pas de dividende sur le dernier exercice'); }
+    } else { fund.push(fx.gross ? 'Pas de dividende versé ces 12 derniers mois.' : 'Pas de dividende versé au titre du dernier exercice.'); cons.push(fx.gross ? 'Pas de dividende depuis 12 mois' : 'Pas de dividende sur le dernier exercice'); }
     if (fx.grNet != null) {
       fund.push('Bénéfice ' + (fx.grNet >= 0 ? 'en hausse' : 'en baisse') + ' de ' + P(Math.abs(fx.grNet)) + ' sur un an' + (fx.cagr != null ? ', soit ' + P(fx.cagr, true) + ' par an en moyenne sur ' + fx.cagrSpan + ' ans.' : '.'));
       if (fx.grNet > 0.1) pros.push('Bénéfice en forte progression (' + P(fx.grNet, true) + ')');
@@ -249,10 +249,10 @@
           'Gardez toujours une épargne de précaution hors bourse.';
       case 'div':
         return fx.yield != null
-          ? 'Dividende net de ' + F(fx.div) + ' par action au titre de ' + fx.year + ', soit un rendement de <b>' + P(fx.yield) + '</b> au cours actuel' + (fu.mYield ? ' (secteur : ' + P(fu.mYield) + ')' : '') + '. ' +
+          ? 'Dividende ' + (fx.gross ? 'brut de ' + F(fx.div) + ' par action sur les 12 derniers mois' : 'de ' + F(fx.div) + ' par action au titre de ' + fx.year) + ', soit un rendement de <b>' + P(fx.yield) + '</b> au cours actuel' + (fu.mYield ? ' (secteur : ' + P(fu.mYield) + ')' : '') + '. ' +
             'La société distribue ' + P(fx.payout) + ' de son bénéfice' + (fx.payout > 1 ? ' : c’est plus qu’elle ne gagne, une baisse du dividende est possible.' : fx.payout > 0.85 ? ' : peu de marge de sécurité.' : ' : le dividende est bien couvert.') +
             ' Il a été versé ' + fx.divYears + ' années sur ' + fx.years + '.'
-          : 'La société n’a pas versé de dividende au titre de son dernier exercice publié. Ce titre convient mieux à un objectif de plus-value qu’à un objectif de revenus.';
+          : 'La société n’a pas versé de dividende ' + (fx.gross ? 'depuis 12 mois' : 'au titre de son dernier exercice publié') + '. Ce titre convient mieux à un objectif de plus-value qu’à un objectif de revenus.';
       case 'divdate':
         var nd = fx.nd;
         if (!nd) return 'Le calendrier des dividendes est momentanément indisponible. Réessayez dans un instant.';

@@ -20,6 +20,7 @@ on:
 
 permissions:
   contents: write
+  actions: write   # relancer la mise en ligne du site après publication (audit A-09)
 
 concurrency:
   group: update-data
@@ -77,6 +78,7 @@ jobs:
         run: npm run backfill
 
       - name: Publication des données
+        id: publication
         if: always()
         working-directory: .
         run: |
@@ -89,9 +91,17 @@ jobs:
             git commit -m "Données BRVM $(date -u +'%Y-%m-%d %H:%M') UTC"
             # Jusqu'à 3 essais : si un autre commit est arrivé entre-temps, nos données (les plus récentes) l'emportent
             for i in 1 2 3; do
-              if git pull --rebase -X theirs --autostash && git push; then exit 0; fi
+              if git pull --rebase -X theirs --autostash && git push; then echo "publie=1" >> "$GITHUB_OUTPUT"; exit 0; fi
               git rebase --abort 2>/dev/null || true
               echo "Publication : essai $i échoué, nouvel essai dans 10 s"; sleep 10
             done
             exit 1
           fi
+
+      # Les commits du robot ne déclenchent pas les workflows : on lance la mise en ligne du site
+      - name: Mise en ligne du site et des données
+        if: always() && steps.publication.outputs.publie == '1'
+        working-directory: .
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run pages.yml --ref main
