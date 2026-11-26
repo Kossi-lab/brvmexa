@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-26T17:45:23.057Z",
+ "updatedAt": "2026-11-26T18:00:32.198Z",
  "items": [
   {
    "id": "sika-65983",
@@ -799,6 +799,20 @@
    "publishedAt": "2026-11-24T13:24:00Z",
    "symbols": [],
    "status": "skip",
+   "tries": 1
+  },
+  {
+   "id": "gn-1cki9kj",
+   "title": "CBI Bénin lance une vente d’actions de plus de 19 milliards FCFA",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNkduNDVmbk5BaFNBOGxMbkxSemRHYjV2bndhR2ozRkdZQl9nOF9KazNleVZtdmdBd1hqaTNqOW5TOFlKcnprTWw0T0J6bmlVNk5rQVdxdkNycndOaVNFVFZTcHcwblcteGVmaEYyd2l6NDFGeE8wVWdVa3RrSE5uYm5HdG9SMjJWS0pDVzZnUjNZU19YSWR3eg?oc=5",
+   "image": null,
+   "source": "24 heures au benin",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-24T12:05:31.000Z",
+   "symbols": [],
+   "status": "done",
    "tries": 1
   },
   {
@@ -4302,20 +4316,6 @@
    "symbols": [],
    "status": "done",
    "tries": 1
-  },
-  {
-   "id": "gn-24mewh",
-   "title": "La BRVM évoque l'ouverture de l'introduction en bourse de la raffinerie Dangote",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaEJMeEdnMEk2dWIxMzktWHB5aE55VlhlV3hTR1ppcUo1UU9Tb2I4QmxPZGo3RHBjRk1KMHRfcjVqdUlEMzFwTUJvRWxFczBfQkxlTktRVWFfd0ZWTEVuQU5lYUZydXVKeENhV1gwY1I1OHpSWEZCY0FsYzJCZXYxTzROclZkT3hUWkxGVmxoMTVBNWwzWGNkbWRTS2VyZ3lXM0E?oc=5",
-   "image": null,
-   "source": "energynews.pro",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-11-04T08:00:00.000Z",
-   "symbols": [],
-   "status": "new",
-   "tries": 0
   }
  ]
 }

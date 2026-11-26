@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-26T17:45:23.059Z",
+ "updatedAt": "2026-11-26T18:00:32.201Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -1217,6 +1217,30 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/energie-numerique-avant-mars-2028-la-cote-divoire-sera-le-1er-reseau-electrique-africain-certifie-iso-24001_65914",
     "title": "Énergie numérique : ‘’Avant mars 2028, la Côte d’Ivoire sera le 1er réseau électrique africain certifié’’ ISO 24001"
+   },
+   "rewritten": true
+  },
+  {
+   "id": "gn-1cki9kj",
+   "title": "CBI Bénin mobilise plus de 19 milliards FCFA via une opération sur ses titres",
+   "summary": "La banque CBI Bénin initie une levée de fonds importante sur le marché financier, visant à récolter plus de 19 milliards FCFA par l'émission de nouvelles actions.",
+   "body": [
+    "La banque CBI Bénin vient d'annoncer le lancement d'une opération financière d'envergure. L'établissement bancaire propose à la souscription des actions pour un montant total dépassant les 19 milliards FCFA.",
+    "Cette initiative marque une étape significative pour l'institution dans sa stratégie de renforcement de ses fonds propres. Les investisseurs intéressés par le marché financier régional peuvent désormais prendre connaissance des modalités de cette vente d'actions."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#gn-1cki9kj",
+   "image": null,
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-24T12:05:31.000Z",
+   "writtenAt": "2026-11-26T18:00:32.197Z",
+   "symbols": [],
+   "origin": {
+    "name": "24 heures au benin",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNkduNDVmbk5BaFNBOGxMbkxSemRHYjV2bndhR2ozRkdZQl9nOF9KazNleVZtdmdBd1hqaTNqOW5TOFlKcnprTWw0T0J6bmlVNk5rQVdxdkNycndOaVNFVFZTcHcwblcteGVmaEYyd2l6NDFGeE8wVWdVa3RrSE5uYm5HdG9SMjJWS0pDVzZnUjNZU19YSWR3eg?oc=5",
+    "title": "CBI Bénin lance une vente d’actions de plus de 19 milliards FCFA"
    },
    "rewritten": true
   },
@@ -3783,30 +3807,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/schneider-electric-presente-l-intelligence-energetique-au-sirexe-2026_65757",
     "title": "Schneider Electric présente l'intelligence énergétique au SIREXE 2026"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65756",
-   "title": "Le marché mondial des services de données en route vers les 168 milliards USD en 2026",
-   "summary": "Le secteur de l'analyse de données affiche une croissance annuelle de 13,9 %, portée par la transformation numérique des entreprises et l'explosion du volume d'informations générées mondialement.",
-   "body": [
-    "Le marché mondial de l'analyse et des services de données confirme son essor avec des revenus prévisionnels de 167,69 milliards USD pour 2026, contre 147,21 milliards USD en 2025. Cette progression annuelle de 13,9 % souligne l'importance stratégique accordée par les entreprises à l'exploitation intelligente de leurs informations numériques pour optimiser leur prise de décision.",
-    "Cette dynamique est alimentée par une production massive de données, illustrée par le trafic mobile mondial qui a atteint 145 exaoctets en juin 2024. Pour répondre à cet afflux, des acteurs comme Accenture, IBM ou Snowflake multiplient les innovations. Le secteur connaît également des mouvements de consolidation, à l'image du rachat d'Incite Analytics par Definian Data LLC en février 2026. Si l'Amérique du Nord domine actuellement le marché, la région Asie-Pacifique s'impose désormais comme le moteur de croissance le plus rapide du secteur, dont la valeur est estimée à 278,17 milliards USD d'ici 2030."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65756",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-16T14:51:00Z",
-   "writtenAt": "2026-11-16T20:42:01.979Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/numerique-pres-de-168-milliards-usd-de-revenus-attendus-pour-le-marche-mondial-des-donnees-en-2026_65756",
-    "title": "Numérique : Près de 168 milliards USD de revenus attendus pour le marché mondial des données en 2026"
    },
    "rewritten": true
   }
