@@ -31,15 +31,30 @@
   var stockUrl = function (q) { var s = String(q.shortName || q.name || '').normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/[’'`]/g, '-').replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, ''); return '/actions/' + s + '-' + String(q.symbol).toLowerCase() + '/'; };
 
   var get = function (name) {
-    var stamp = Math.floor(Date.now() / 300000); // contourne le cache toutes les 5 minutes
+    var stamp = Math.floor(Date.now() / 30000); // « no-cache » : le navigateur revalide (réponse 304 si rien n'a changé)
     return fetch(base + '/' + name + '?t=' + stamp, { cache: 'no-cache' }).then(function (r) {
       if (!r.ok) throw new Error('HTTP ' + r.status);
       return r.json();
     });
   };
+  var shown = null;
+  var load = function () {
+    return Promise.all([get('quotes.json'), get('indices.json'), get('market.json')]).then(function (res) {
+      if (res[0].updatedAt && res[0].updatedAt === shown) return; // rien de nouveau
+      shown = res[0].updatedAt;
+      render(res[0], res[1], res[2]);
+    });
+  };
 
-  Promise.all([get('quotes.json'), get('indices.json'), get('market.json')])
-    .then(function (res) { render(res[0], res[1], res[2]); })
+  // Pendant la séance (jours ouvrés, 8 h 50 – 15 h 40 GMT) : nouveaux cours affichés sans recharger la page
+  var inSession = function () {
+    var d = new Date(), j = d.getUTCDay(), m = d.getUTCHours() * 60 + d.getUTCMinutes();
+    return j >= 1 && j <= 5 && m >= 530 && m <= 940;
+  };
+  setInterval(function () { if (!document.hidden && inSession()) load().catch(function () {}); }, 30000);
+  document.addEventListener('visibilitychange', function () { if (!document.hidden && inSession()) load().catch(function () {}); });
+
+  load()
     .catch(function () {
       document.querySelectorAll('[data-bx-ticker]').forEach(function (el) {
         el.innerHTML = '<div class="ticker-loading">Les cours sont momentanément indisponibles.</div>';
@@ -103,6 +118,9 @@
   }
 
   function table(box, stocks) {
+    // Rafraîchissement en direct : on garde la recherche, les filtres et le tri, seules les lignes changent
+    if (box._bx) { box._bx.stocks = stocks; box._bx.draw(); return; }
+    var st = box._bx = { stocks: stocks };
     var body = box.querySelector('[data-bx-table]');
     var search = box.querySelector('[data-bx-search]');
     var sector = box.querySelector('[data-bx-sector]');
@@ -112,14 +130,14 @@
 
     var uniq = function (key) {
       var seen = {};
-      return stocks.map(function (s) { return s[key]; }).filter(function (v) { if (!v || seen[v]) return false; seen[v] = 1; return true; }).sort();
+      return st.stocks.map(function (s) { return s[key]; }).filter(function (v) { if (!v || seen[v]) return false; seen[v] = 1; return true; }).sort();
     };
     uniq('sector').forEach(function (s) { sector.insertAdjacentHTML('beforeend', '<option>' + esc(s) + '</option>'); });
     uniq('countryName').forEach(function (s) { country.insertAdjacentHTML('beforeend', '<option>' + esc(s) + '</option>'); });
 
     var draw = function () {
       var q = (search.value || '').trim().toLowerCase();
-      var list = stocks.filter(function (s) {
+      var list = st.stocks.filter(function (s) {
         return (!sector.value || s.sector === sector.value) &&
           (!country.value || s.countryName === country.value) &&
           (!q || (s.symbol + ' ' + s.name + ' ' + s.shortName).toLowerCase().indexOf(q) >= 0);
@@ -146,6 +164,7 @@
       });
     });
     [search, sector, country].forEach(function (el) { el.addEventListener('input', draw); });
+    st.draw = draw;
     draw();
   }
 })();

@@ -98,6 +98,19 @@ jobs:
             exit 1
           fi
 
+      # Pendant la séance, le direct (cours toutes les 30 s) doit tourner : on le relance s'il est arrêté
+      - name: Vérifier que le direct tourne
+        if: always()
+        working-directory: .
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          h=$(date -u +%H%M); j=$(date -u +%u)
+          if [ "$j" -le 5 ] && [ "$h" -ge 0850 ] && [ "$h" -lt 1525 ]; then
+            n=$(gh api "repos/${{ github.repository }}/actions/workflows/direct.yml/runs?per_page=10" --jq '[.workflow_runs[] | select(.status=="in_progress" or .status=="queued" or .status=="waiting" or .status=="pending")] | length')
+            if [ "${n:-0}" = 0 ]; then echo "Direct arrêté : relance."; gh workflow run direct.yml --ref main; else echo "Direct en cours."; fi
+          fi
+
       # Les commits du robot ne déclenchent pas les workflows : on lance la mise en ligne du site
       - name: Mise en ligne du site et des données
         if: always() && steps.publication.outputs.publie == '1'

@@ -1,0 +1,43 @@
+# Cours en direct pendant la séance de la BRVM (jours ouvrés, 9 h – 15 h 35 GMT).
+# Une seule tâche tourne toute la séance et publie les nouveaux cours dès que la BRVM les met en ligne
+# (contrôle toutes les 30 secondes), au lieu d'attendre le passage du robot toutes les 15 minutes.
+# Démarrage : horaires ci-dessous, et le robot des 15 minutes le relance s'il ne tourne pas (horaires GitHub peu fiables).
+name: Cours en direct
+
+on:
+  schedule:
+    - cron: '52 8 * * 1-5'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write   # relancer la mise en ligne du site, et le direct lui-même après 5 h 40
+
+# Un seul direct à la fois ; une relance attend la fin du précédent
+concurrency:
+  group: direct
+  cancel-in-progress: false
+
+jobs:
+  direct:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
+
+      - uses: actions/setup-node@a0853c24544627f65ddf259abe73b1d18a591444 # v5
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: scraper/package-lock.json
+
+      - run: npm ci --ignore-scripts
+        working-directory: scraper
+
+      - name: Direct (toutes les 30 secondes jusqu'à la fin de la séance)
+        env:
+          GH_TOKEN: ${{ github.token }}
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SECRET_KEY: ${{ secrets.SUPABASE_SECRET_KEY }}
+          EXPO_ACCESS_TOKEN: ${{ secrets.EXPO_ACCESS_TOKEN }}
+        run: scraper/live.sh

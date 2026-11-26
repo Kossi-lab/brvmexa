@@ -8,9 +8,12 @@
   if (!page || !base) return;
   var sym = page.getAttribute('data-st');
   var nf = function (v, d) { return new Intl.NumberFormat('fr-FR', { minimumFractionDigits: d, maximumFractionDigits: d }).format(v).replace(/[  ]/g, ' '); };
-  fetch(base + '/quotes.json?t=' + Math.floor(Date.now() / 300000), { cache: 'no-cache' })
+  var shown = null;
+  var load = function () { return fetch(base + '/quotes.json?t=' + Math.floor(Date.now() / 30000), { cache: 'no-cache' })
     .then(function (r) { if (!r.ok) throw new Error(); return r.json(); })
     .then(function (q) {
+      if (q.updatedAt === shown) return;
+      shown = q.updatedAt;
       var it = (q.items || []).filter(function (x) { return x.symbol === sym; })[0];
       if (!it || !q.sessionDate || q.sessionDate < page.getAttribute('data-session')) return;
       var c = page.querySelector('[data-live="close"]'), ch = page.querySelector('[data-live="change"]'), w = page.querySelector('[data-live="when"]');
@@ -22,7 +25,13 @@
         w.setAttribute('datetime', q.sessionDate);
       }
     })
-    .catch(function () { /* on garde le cours affiché par la page */ });
+    .catch(function () { /* on garde le cours affiché par la page */ }); };
+  load();
+  // Pendant la séance (jours ouvrés, 8 h 50 – 15 h 40 GMT) : le cours se met à jour sans recharger la page
+  setInterval(function () {
+    var d = new Date(), j = d.getUTCDay(), m = d.getUTCHours() * 60 + d.getUTCMinutes();
+    if (!document.hidden && j >= 1 && j <= 5 && m >= 530 && m <= 940) load();
+  }, 30000);
 })();
 
 /* Dividendes de la fiche : floutés pour tous ; les vrais montants ne s'affichent que pour un membre Premium connecté. */

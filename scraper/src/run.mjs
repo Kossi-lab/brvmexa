@@ -81,16 +81,25 @@ async function appendHistory(id, date, point) {
 }
 
 // ───────────────────────────── Cours ─────────────────────────────
-async function updateMarket() {
+/**
+ * Cours, indices, palmarès et historique du jour.
+ * quick = mode « direct » (pendant la séance, toutes les 30 s) : réutilise les secteurs déjà connus et laisse
+ * au passage complet (toutes les 15 min) l'archive historique et les dividendes, plus longs à collecter.
+ */
+export async function updateMarket({ quick = false, quotesHtml: given } = {}) {
   const now = new Date().toISOString();
-  const quotesHtml = await fetchText(`${BRVM}/cours-actions/0`);
+  const quotesHtml = given ?? await fetchText(`${BRVM}/cours-actions/0`);
   const quotes = parseQuotes(quotesHtml);
   if (quotes.length < 45) throw new Error(`Seulement ${quotes.length} actions lues sur 48 : publication refusée (structure du site modifiée ?)`);
   const session = parseLastUpdate(quotesHtml) ?? { date: now.slice(0, 10), time: null };
 
   // Secteurs officiels
   const sectorOf = {};
-  for (const [id, label] of Object.entries(SECTORS)) {
+  if (quick) {
+    const prev = await readJson(path.join(DATA, 'quotes.json'), { items: [] });
+    for (const q of prev.items ?? []) if (q.sector) sectorOf[q.symbol] = q.sector;
+  }
+  if (!quick) for (const [id, label] of Object.entries(SECTORS)) {
     try {
       for (const q of parseQuotes(await fetchText(`${BRVM}/cours-actions/${id}`))) sectorOf[q.symbol] = label;
     } catch (e) { log('secteur', id, 'ignoré :', e.message); }
@@ -150,7 +159,7 @@ async function updateMarket() {
   for (const q of items) await appendHistory(q.symbol, session.date, { o: q.open, c: q.close, v: q.volume });
   for (const ix of indices) await appendHistory(ix.id, session.date, { c: ix.close });
   // Séances passées (graphiques) : comblées automatiquement depuis l'archive publique
-  if (!FIXTURES) {
+  if (!FIXTURES && !quick) {
     try { await ensureHistory(DATA, items.map((q) => q.symbol), { log }); }
     catch (e) { log('Historique : archive indisponible pour le moment :', e.message); }
     try { await updateDividends(DATA, items.map((q) => q.symbol), { log }); }
