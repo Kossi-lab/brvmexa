@@ -15,6 +15,7 @@ permissions:
   contents: read
   pages: write
   id-token: write
+  actions: read   # deploy-pages lit l'artefact du site (nécessaire depuis le jeton par défaut en lecture seule)
 
 # Une seule mise en ligne à la fois ; la plus récente en attente remplace les autres
 concurrency:
