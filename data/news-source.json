@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-26T04:30:22.946Z",
+ "updatedAt": "2026-11-26T04:45:22.806Z",
  "items": [
   {
    "id": "sika-65958",
@@ -277,6 +277,22 @@
    "publishedAt": "2026-11-25T11:12:00Z",
    "symbols": [],
    "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "gn-wlw5cj",
+   "title": "Coris Bank International (CBIBF) — BRVM",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MUmh2ZEpxU2wtNmpUcEtBQWFFQm9uN0F3ZG9nX3VDMEdiNlFYNFB5MHVRMTA4ekhRWnR6QXJqTHExdVV2djJPVDRMWVVLeUMwa1JkLURQa2VlblZQc2RIMldLblpBdG8?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-25T10:52:09.000Z",
+   "symbols": [
+    "CBIBF"
+   ],
+   "status": "skip",
    "tries": 1
   },
   {
@@ -656,22 +672,6 @@
    "premium": false,
    "publishedAt": "2026-11-24T09:42:00.000Z",
    "symbols": [],
-   "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "gn-1apynbn",
-   "title": "Air Liquide Côte d'Ivoire (SIVC) — BRVM",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01TU9WZUExelpvaEV5MlVDV0Y5blVQalVYRmVkWXFWUVVvS3RZUXctR1dObXR5di1GeFoyc2lTN0dmNTgzbEpYVGtWdVpod0FrS0Jfc0hCcmZGTmhYakpnNEZWM3Nrdw?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-11-23T21:36:15.000Z",
-   "symbols": [
-    "SIVC"
-   ],
    "status": "done",
    "tries": 1
   },
