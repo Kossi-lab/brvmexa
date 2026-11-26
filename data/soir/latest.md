@@ -1,7 +1,7 @@
 # BRVMexa Soir — jeudi 26 novembre 2026
 
-> Script généré automatiquement le 2026-11-26 à 11:45 GMT à partir des données publiées (source des cours : brvm.org, données différées).
-> **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 3,9 minutes (587 mots).
+> Script généré automatiquement le 2026-11-26 à 12:00 GMT à partir des données publiées (source des cours : brvm.org, données différées).
+> **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 3,9 minutes (588 mots).
 
 ## 0:00 · Générique
 
@@ -11,25 +11,25 @@
 
 Bonsoir et bienvenue dans BRVMexa Soir, nous sommes le jeudi 26 novembre 2026.
 Au programme ce soir : une BRVM en repli, avec nettement plus de baisses que de hausses.
-BOA Mali signe la meilleure performance du jour.
+CIE Côte d’Ivoire signe la meilleure performance du jour.
 Et à la une : Coris Bank International Bénin s'apprête à faire son entrée à la BRVM.
 
 ## 0:30 · La séance
 
 Commençons par le marché.
 L’indice BRVM Composite, qui regroupe toutes les actions, termine à 456 points, en baisse de 1,8 %.
-Le BRVM 30, l’indice des trente valeurs les plus actives, est en baisse de 1,9 %, et le BRVM Prestige en baisse de 3,0 %.
-Sur l’ensemble de la séance, 12 actions ont progressé, 32 ont reculé et 4 sont restées stables.
-Côté activité, environ 758 millions de francs CFA ont été échangés aujourd’hui.
-Du côté des secteurs, meilleur score pour les Services publics, en hausse de 3,7 %, tandis que les Industriels ferme la marche, en baisse de 5,5 %.
+Le BRVM 30, l’indice des trente valeurs les plus actives, est en baisse de 1,8 %, et le BRVM Prestige en baisse de 2,5 %.
+Sur l’ensemble de la séance, 11 actions ont progressé, 33 ont reculé et 4 sont restées stables.
+Côté activité, environ 805 millions de francs CFA ont été échangés aujourd’hui.
+Du côté des secteurs, meilleur score pour les Services publics, en hausse de 3,6 %, tandis que les Industriels ferme la marche, en baisse de 5,6 %.
 
 ## 1:15 · Le palmarès
 
-Dans le haut du tableau, BOA Mali gagne 6,7 % à 5 200 francs CFA.
-Suivent CIE Côte d’Ivoire, en hausse de 6,0 %, et Sucrivoire CI, en hausse de 5,2 %.
-En bas du tableau, Unilever CI cède 7,5 %, Société Ivoirienne de Banque 7,5 % et TotalEnergies Marketing CI 7,4 %.
-La valeur la plus échangée du jour est Sonatel, avec 46 744 titres, à 3 700 francs CFA, en baisse de 1,3 %.
-À noter aussi : Société Ivoirienne de Banque, très échangée, recule de 7,5 %.
+Dans le haut du tableau, CIE Côte d’Ivoire gagne 5,9 % à 4 235 francs CFA.
+Suivent Sucrivoire CI, en hausse de 4,9 %, et BOA Mali, en hausse de 2,7 %.
+En bas du tableau, Unilever CI cède 7,5 %, Africa Global Logistics CI 7,4 % et TotalEnergies Marketing CI 7,4 %.
+La valeur la plus échangée du jour est Sonatel, avec 51 427 titres, à 3 730 francs CFA, en baisse de 0,5 %.
+À noter aussi : Société Ivoirienne de Banque, très échangée, recule de 5,7 %.
 
 ## 2:00 · L’actualité du jour
 
