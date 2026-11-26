@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-26T10:46:53.859Z",
+ "updatedAt": "2026-11-26T11:00:35.821Z",
  "items": [
+  {
+   "id": "sika-65971",
+   "title": "Côte d’Ivoire : Le gouvernement approuve le contrat de déploiement de dix centres de livraison médicale par drones",
+   "summary": "Le déploiement du réseau national de distribution de produits médicaux par drones franchit une nouvelle étape en C&ocir...",
+   "url": "https://www.sikafinance.com/marches/cote-divoire-le-gouvernement-approuve-le-contrat-de-deploiement-de-dix-centres-de-livraison-medicale-par-drones_65971",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-26T10:41:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65968",
    "title": "Côte d’Ivoire : A la tonne, les produits transformés exportés rapportent deux fois plus que les bruts",
@@ -4299,20 +4313,6 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-11-03T17:03:00Z",
-   "symbols": [],
-   "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "sika-65469",
-   "title": "Congo-Cameroun : bois, ciment et produits alimentaires au cœur de 2,8 milliards FCFA d’échanges informels",
-   "summary": "Le bois, le ciment et les produits alimentaires figurent parmi les principales marchandises exportées de manière inform...",
-   "url": "https://www.sikafinance.com/marches/congo-cameroun-bois-ciment-et-produits-alimentaires-au-c%C5%93ur-de-2-8-milliards-fcfa-dechanges-informels_65469",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-03T16:46:00Z",
    "symbols": [],
    "status": "done",
    "tries": 1

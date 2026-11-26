@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-26T10:46:53.862Z",
+ "updatedAt": "2026-11-26T11:00:35.823Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -17,6 +17,31 @@
     "19 PAGES"
    ],
    "pinned": true
+  },
+  {
+   "id": "sika-65971",
+   "title": "Côte d'Ivoire : le gouvernement valide le partenariat pour dix centres de drones médicaux",
+   "summary": "Le Conseil des ministres a validé le contrat PPP avec ZIPLINE pour bâtir un réseau de dix centres de livraison médicale par drones.",
+   "body": [
+    "Lors de sa réunion du 25 novembre 2026, l'exécutif ivoirien a entériné par décret le contrat de partenariat public-privé passé avec ZIPLINE Côte d'Ivoire. Cette entente, formalisée en décembre 2025 pour une période de huit ans, concerne le financement, la construction et la gestion de dix plateformes de stockage et de distribution de produits sanguins et médicaux.",
+    "Le plan de déploiement s'articule en deux étapes. La première englobe le site pilote de Daloa — actif depuis 2023 — ainsi que trois nouvelles implantations à Biankouma, San Pedro et Kouto. La seconde étape verra l'édification de six autres centres répartis dans le District autonome d'Abidjan, l'Indénié-Djuablin, le Gbêkê, le Kabadougou, le Bélier et le Gontougo.",
+    "Ce dispositif logistique s'appuie sur un financement initial de 150 millions de dollars accordé par le département d'État américain, tandis que l'État ivoirien prendra le relais pour le fonctionnement. À terme, le projet ambitionne de ravitailler plus de 2 200 structures de santé et de couvrir les besoins de plus de 12 millions d'habitants, tout en favorisant l'émergence de compétences locales en logistique, ingénierie et gestion des données."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65971",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-26T10:41:00Z",
+   "writtenAt": "2026-11-26T11:00:35.820Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/cote-divoire-le-gouvernement-approuve-le-contrat-de-deploiement-de-dix-centres-de-livraison-medicale-par-drones_65971",
+    "title": "Côte d’Ivoire : Le gouvernement approuve le contrat de déploiement de dix centres de livraison médicale par drones"
+   },
+   "rewritten": true
   },
   {
    "id": "sika-65968",
@@ -3770,31 +3795,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/apres-le-petrole-le-ciment-le-sucre-et-les-engrais-dangote-ouvre-un-nouveau-chapitre-dans-le-cacao-au-ghana_65740",
     "title": "Après le pétrole, le ciment, le sucre et les engrais, Dangote ouvre un nouveau chapitre dans le cacao au Ghana"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65742",
-   "title": "L'ANSUT lance le programme PASS pour démocratiser l'accès aux smartphones en Côte d'Ivoire",
-   "summary": "Lors de l'Ivoire Tech Forum, l'ANSUT a dévoilé le Programme d'Accès aux Smartphones Subventionnés (PASS) pour soutenir l'inclusion numérique et doubler le taux de pénétration des terminaux d'ici 2030.",
-   "body": [
-    "L'Agence Nationale du Service Universel des Télécommunications (ANSUT) a profité de la seconde édition de l'Ivoire Tech Forum, organisée du 11 au 13 novembre à Abidjan, pour officialiser le lancement du Programme d'Accès aux Smartphones Subventionnés (PASS). Ce dispositif, piloté par l'Agence sous l'égide du Ministère de la Transition Numérique et de l'Innovation Technologique, vise à rendre les terminaux mobiles plus abordables pour l'ensemble de la population.",
-    "Cette initiative s'inscrit dans une stratégie nationale ambitieuse portée par le ministre Djibril Ouattara, qui vise à faire passer le taux de pénétration des smartphones de 40 % à 80 % d'ici 2030. Le projet bénéficie d'une coopération internationale renforcée, notamment via un protocole d'accord signé avec la GSMA à Doha pour intégrer le programme mondial « Affordability ».",
-    "Au-delà du PASS, l'ANSUT a mis en avant plusieurs projets structurants, tels que le programme « Nos Villages Connectés », qui a déjà désenclavé 211 localités, et la plateforme JULABA, utilisant l'intelligence artificielle pour faciliter la gestion commerciale par commande vocale en langues locales. L'événement a également permis de récompenser des jeunes talents, dont la startup TINAATECH, lauréate du Prix ANSUT de l'Innovation Technologique avec une solution de diagnostic médical hors ligne."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65742",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-16T09:30:00Z",
-   "writtenAt": "2026-11-16T10:15:19.946Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/ivoire-tech-forum-2026-lansut-au-c%C5%93ur-des-solutions-numeriques-inclusives_65742",
-    "title": "Ivoire Tech Forum 2026 : L’ANSUT au cœur des solutions numériques inclusives"
    },
    "rewritten": true
   }
