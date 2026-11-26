@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-26T12:45:18.434Z",
+ "updatedAt": "2026-11-26T13:00:24.937Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -17,6 +17,30 @@
     "19 PAGES"
    ],
    "pinned": true
+  },
+  {
+   "id": "sika-65975",
+   "title": "La raffinerie Dangote fera ses débuts à la Bourse de Lagos le 1er décembre 2026",
+   "summary": "La raffinerie Dangote s'apprête à faire son entrée sur le Nigerian Exchange après une introduction en Bourse marquée par une forte demande des investisseurs.",
+   "body": [
+    "La société Dangote Petroleum Refinery & Petrochemicals sera officiellement cotée sur le Nigerian Exchange (NGX) à partir du 1er décembre 2026. Cette décision, annoncée par le vice-président du groupe Devakumar Edwin, fait suite à une opération de souscription ayant suscité un vif intérêt. Près de 3,8 millions d'investisseurs ont formulé des demandes pour 11,15 milliards d'actions, alors que l'offre initiale portait sur 4,1 milliards de titres au prix unitaire de 525 nairas.",
+    "Face à cette demande massive, représentant environ 5 850 milliards de nairas, la société a obtenu l'aval de la Securities and Exchange Commission le 23 novembre pour augmenter le volume de titres proposés de 30 %. Malgré cette ouverture au public, Aliko Dangote conservera le contrôle de l'infrastructure avec environ 83,5 % des parts, tandis que la part de la compagnie pétrolière nationale NNPC devrait s'établir à 6,5 %. Cette opération vise à soutenir le développement de cette raffinerie, dont la capacité actuelle de 700 000 barils par jour devrait doubler d'ici 2029."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65975",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-26T12:30:00Z",
+   "writtenAt": "2026-11-26T13:00:24.934Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/nigeria-la-raffinerie-dangote-fera-son-entree-a-la-bourse-de-lagos-le-1er-decembre_65975",
+    "title": "Nigeria : La raffinerie Dangote fera son entrée à la Bourse de Lagos le 1er décembre"
+   },
+   "rewritten": true
   },
   {
    "id": "sika-65973",
@@ -3775,30 +3799,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/sika-commodities-weekly-45-des-marches-contrastes-entre-repli-du-petrole-et-rebond-du-caoutchouc_65745",
     "title": "SIKA COMMODITIES WEEKLY 45 : Des marchés contrastés, entre repli du pétrole et rebond du caoutchouc"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65743",
-   "title": "Congo : sept ministères pilotes pour moderniser le contrôle des dépenses publiques d'ici 2027",
-   "summary": "Le Congo-Brazzaville lance une réforme de son contrôle budgétaire au sein de sept ministères stratégiques, avec l'appui de la Banque mondiale, pour optimiser la gestion des ressources publiques d'ici 2027.",
-   "body": [
-    "Le gouvernement congolais a initié un programme visant à renforcer le contrôle interne et la gestion budgétaire dans sept départements ministériels clés, dont les Finances, l'Économie et les Industries minières. Ce projet, soutenu par la Banque mondiale via le programme PAGIR, est piloté par le cabinet Ymago Conseil sous la supervision de la Direction générale du budget. L'objectif est d'améliorer le suivi des crédits publics et d'évaluer plus précisément l'efficacité des politiques menées.",
-    "La mission, dont les conclusions sont attendues pour le premier trimestre 2027, repose sur trois axes : un diagnostic des pratiques actuelles, l'élaboration d'un cadre méthodologique et la création de feuilles de route opérationnelles. Cette démarche s'inscrit dans une transition vers une budgétisation par programme, où la performance et la maîtrise des risques deviennent centrales. Le succès de cette phase expérimentale déterminera les modalités d'un déploiement plus large au sein de l'administration congolaise."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65743",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-16T09:59:00Z",
-   "writtenAt": "2026-11-16T10:15:02.017Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/congo-7-ministeres-pilotes-retenus-pour-renforcer-le-controle-des-depenses-publiques-d-ici-2027_65743",
-    "title": "Congo : 7 ministères pilotes retenus pour renforcer le contrôle des dépenses publiques d'ici 2027"
    },
    "rewritten": true
   }

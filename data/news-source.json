@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-26T12:45:18.433Z",
+ "updatedAt": "2026-11-26T13:00:24.935Z",
  "items": [
+  {
+   "id": "sika-65975",
+   "title": "Nigeria : La raffinerie Dangote fera son entrée à la Bourse de Lagos le 1er décembre",
+   "summary": "La raffinerie de pétrole Dangote s'apprête à ouvrir son capital aux investisseurs du marché financier nigérian. Les act...",
+   "url": "https://www.sikafinance.com/marches/nigeria-la-raffinerie-dangote-fera-son-entree-a-la-bourse-de-lagos-le-1er-decembre_65975",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-26T12:30:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65973",
    "title": "Société Générale Côte d’Ivoire s’allie à la BERD pour mobiliser 250 millions d’euros en faveur des entreprises",
@@ -4302,22 +4316,6 @@
    ],
    "status": "done",
    "tries": 1
-  },
-  {
-   "id": "gn-1l1iy5j",
-   "title": "BRVM : le fractionnement du titre Sonatel dope l’intérêt des investisseurs",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZjdiRmFsRHNLZUk0MlFXOEFGYkg1OVIwdmZQcWVvSldYak8tUV9raUIwQUt6OVFIQkxIMWNQUFBsWFZIbGVHajlOVkhSSVlVT1ZMN3REaWgwZHBudlFsX3hYNC0wTjFCdkw1RGNGYkt5REpiTklHUmo0bnJhRGhqRnhod2N6UlBDVFdjQXBfdy1JS3NubWUzcGliQnljaFk?oc=5",
-   "image": null,
-   "source": "Forbes Afrique",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-10-28T07:00:00.000Z",
-   "symbols": [
-    "SNTS"
-   ],
-   "status": "new",
-   "tries": 0
   }
  ]
 }
