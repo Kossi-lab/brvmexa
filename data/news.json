@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-26T22:00:29.787Z",
+ "updatedAt": "2026-11-26T22:15:25.682Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -295,6 +295,32 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/senegal-le-secteur-prive-retrouve-de-lappetit-sur-le-marche-financier-regional_65965",
     "title": "Sénégal : Le secteur privé retrouve de \" l’appétit \" sur le marché financier régional"
+   },
+   "rewritten": true
+  },
+  {
+   "id": "gn-1dlcrta",
+   "title": "Coris Bank International initie deux nouvelles opérations d'appel public à l'épargne sur la BRVM",
+   "summary": "L'institution financière Coris Bank International vient d'annoncer le lancement officiel de deux introductions en bourse sur le marché financier régional.",
+   "body": [
+    "Ce mercredi 26 novembre 2026, Coris Bank International a marqué l'actualité de la Bourse régionale des valeurs mobilières (BRVM) en dévoilant le lancement de deux opérations d'appel public à l'épargne (IPO).",
+    "Ces initiatives s'inscrivent dans la stratégie de développement de l'institution sur le marché financier de l'Union économique et monétaire ouest-africaine."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#gn-1dlcrta",
+   "image": null,
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-26T09:03:00.000Z",
+   "writtenAt": "2026-11-26T22:15:25.679Z",
+   "symbols": [
+    "CBIBF"
+   ],
+   "origin": {
+    "name": "Dabafinance",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMkVtZkFxMjE3bl9Jd25ZcXYwRk9KMHdET0h0NW8zeWNncVIyNlVTTWlGQ0lUVWxlM1hNUmFwb3lpZEZPWDRuUXRFcDNtZ2VsX2ZPUkRTdkxzX0hDOUo4R1p1QkFQSDRlVHJMVWU1MUdGSnB3cU1LcHRrdnc5WGoybWZNZ01MeFA1MTdNb01kYTdVLURiaWJjc3htQjhpOUtm?oc=5",
+    "title": "Coris Bank International Lance Deux IPO Sur La BRVM"
    },
    "rewritten": true
   },
@@ -3775,38 +3801,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/cote-divoire-le-riz-et-le-poisson-ont-coute-pres-de-1-260-milliards-fcfa-dimportation-en-2025_65762",
     "title": "Côte d’Ivoire : Le riz et le poisson ont coûté près de 1 260 milliards FCFA d’importation en 2025"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65761",
-   "title": "La BRVM débute la semaine dans le rouge malgré la percée de SETAO CI",
-   "summary": "Le marché financier régional entame la semaine en baisse, marqué par un repli généralisé des indices principaux et une prédominance des titres en recul.",
-   "body": [
-    "La séance du 16 novembre 2026 s'est soldée par une tendance baissière sur la Bourse régionale des valeurs mobilières. Le BRVM-Composite a reculé de 0,60 % à 512,85 points, tandis que le BRVM-30 et le BRVM-Prestige ont respectivement perdu 0,55 % et 0,37 %. Sur les 42 valeurs ayant varié, 33 ont clôturé en baisse, contre 9 seulement en territoire positif.",
-    "Parmi les replis les plus marqués, SOGB CI enregistre une chute de 4,46 % à 7 500 FCFA, suivie par la Société Ivoirienne de Banque (-4,22 %) et Bank of Africa CI (-4,09 %). À l'inverse, SETAO CI se distingue avec une progression de 7,46 % à 2 090 FCFA, accompagnée par Bernabé CI et CFAO Motors CI. Le volume total des transactions s'élève à 2,48 milliards FCFA, avec Sonatel Sénégal en tête des échanges, représentant 21,31 % du montant global."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65761",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-16T16:18:00Z",
-   "writtenAt": "2026-11-16T20:41:26.653Z",
-   "symbols": [
-    "BNBC",
-    "BOAC",
-    "CFAC",
-    "SIBC",
-    "SNTS",
-    "SOGC",
-    "STAC"
-   ],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/brvm-setao-ci-prend-de-la-hauteur-malgre-le-recul-generalise_65761",
-    "title": "BRVM : SETAO CI prend de la hauteur malgré le recul généralisé"
    },
    "rewritten": true
   }

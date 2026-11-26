@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-26T22:00:29.783Z",
+ "updatedAt": "2026-11-26T22:15:25.680Z",
  "items": [
   {
    "id": "sika-65984",
@@ -142,6 +142,22 @@
    "premium": false,
    "publishedAt": "2026-11-26T09:48:00Z",
    "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "gn-1dlcrta",
+   "title": "Coris Bank International Lance Deux IPO Sur La BRVM",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMkVtZkFxMjE3bl9Jd25ZcXYwRk9KMHdET0h0NW8zeWNncVIyNlVTTWlGQ0lUVWxlM1hNUmFwb3lpZEZPWDRuUXRFcDNtZ2VsX2ZPUkRTdkxzX0hDOUo4R1p1QkFQSDRlVHJMVWU1MUdGSnB3cU1LcHRrdnc5WGoybWZNZ01MeFA1MTdNb01kYTdVLURiaWJjc3htQjhpOUtm?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-26T09:03:00.000Z",
+   "symbols": [
+    "CBIBF"
+   ],
    "status": "done",
    "tries": 1
   },
@@ -4299,20 +4315,6 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-11-04T09:40:00Z",
-   "symbols": [],
-   "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "gn-8gfk7z",
-   "title": "Marchés africains : la BRVM rebondit, le Gabon cote 173,5 milliards FCFA de dette et les Eurobonds sénégalais restent sous pression",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQbHAwNFNhd01KREIycnZoaUlEV21tN0Zpc05hcE1jMWI1cURGbEpheFB3T2Q1anN6SEQ3cEpVaUxkWVItSHdhQmFzQUV5aF82U1hhRWwzVkZoamdEOHVyeGZhdV9vRzItaEJWVkc0dkV0cDN5VHNOVEQzd3JrdnhrM2dRZ3hyQUtTVnBJaVo1MXZ6YnYtamxTQndzR1lLWGFLUXdCckJrUmVNcW9pYm42eFFDZDAxeVhxbXRoVGdwWllIOUo3NEFJaG5GV2RubG9QU3hWRUJORnkyZ0RRYzMybmVoR3lZdlpkOG9qX1Vfc1RUWFEwUFZxZTlmeS1PSzg?oc=5",
-   "image": null,
-   "source": "Financial Afrik",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-11-04T09:21:35.000Z",
    "symbols": [],
    "status": "done",
    "tries": 1
