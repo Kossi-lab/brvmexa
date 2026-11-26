@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-26T16:30:27.703Z",
+ "updatedAt": "2026-11-26T16:45:26.514Z",
  "items": [
+  {
+   "id": "sika-65983",
+   "title": "Les 7 pays africains où les grandes entreprises soutiennent le plus les startups technologiques",
+   "summary": "L'Afrique du Sud, la Tunisie, l'Égypte, le Maroc, le Kenya, le Nigeria et Madagascar sont les 7 économies africa...",
+   "url": "https://www.sikafinance.com/marches/les-7-pays-africains-ou-les-grandes-entreprises-soutiennent-le-plus-les-startups-technologiques_65983",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-11-26T16:38:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65982",
    "title": "BRVM : NSIA Banque CI à contre-courant d'un marché sous pression",
@@ -171,22 +185,6 @@
    "publishedAt": "2026-11-26T08:01:00Z",
    "symbols": [],
    "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "gn-1gfad7o",
-   "title": "Sogb Côte d'Ivoire (SOGC) — BRVM",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sZUtjYXhXV041LTR6dVZsNkFvNzVIUXFtWlBibk55VUdnOV9OcEVSQzY3N1EzMGlhbEVJRFdBaUdPZ3dXLUpSUWppRXZZT1JTU29NeVJibE5XQU9UMkdLTWMyNEhzdw?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-11-25T21:09:33.000Z",
-   "symbols": [
-    "SOGC"
-   ],
-   "status": "skip",
    "tries": 1
   },
   {
@@ -1433,6 +1431,22 @@
    "publishedAt": "2026-11-20T09:35:00Z",
    "symbols": [],
    "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "gn-1gfad7o",
+   "title": "Sogb Côte d'Ivoire (SOGC) — BRVM",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sZUtjYXhXV041LTR6dVZsNkFvNzVIUXFtWlBibk55VUdnOV9OcEVSQzY3N1EzMGlhbEVJRFdBaUdPZ3dXLUpSUWppRXZZT1JTU29NeVJibE5XQU9UMkdLTWMyNEhzdw?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-20T08:00:00.000Z",
+   "symbols": [
+    "SOGC"
+   ],
+   "status": "skip",
    "tries": 1
   },
   {
@@ -4299,20 +4313,6 @@
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-11-04T08:00:00.000Z",
-   "symbols": [],
-   "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "gn-1eb5rqu",
-   "title": "BRVM : Sika Finance lance Sika Forecast pour éclairer les choix d’investissement en 2027",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdGM5ZXpSeFRVeldRemJNNzNtOHlPSHNpMDdFQm84NURxazFYMkNfZ1lRbFhRVHNzenl1YUtreDM0a3ZVeG9lX0taczlKNTZZaHJsUWNUcXZPajBOQmhrNkthZy1TR1RCMmRnRzhNYjhQSnFUR1JqVEsxc3NBUnZsVFdJdHpXV25ob2FsbEltaUVmbVFCWmxwQkdPWDUwRkdNUkpBSDNLZDlmRTBhNDk4TVNqWHhMNGYtZmlJdzdhdUd6SkxkYWc?oc=5",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-11-04T06:29:11.000Z",
    "symbols": [],
    "status": "done",
    "tries": 1

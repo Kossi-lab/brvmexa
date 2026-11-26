@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-26T16:30:27.705Z",
+ "updatedAt": "2026-11-26T16:45:26.517Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -17,6 +17,30 @@
     "19 PAGES"
    ],
    "pinned": true
+  },
+  {
+   "id": "sika-65983",
+   "title": "Sept pays africains en tête du soutien aux startups technologiques par les grandes entreprises",
+   "summary": "Un récent rapport identifie sept nations africaines où les grandes sociétés s'impliquent activement dans le développement de l'écosystème des startups technologiques.",
+   "body": [
+    "L'Afrique du Sud, la Tunisie, l'Égypte, le Maroc, le Kenya, le Nigeria et Madagascar se distinguent comme les sept économies du continent où les grandes entreprises apportent le soutien le plus significatif aux jeunes pousses du secteur technologique.",
+    "Cette dynamique souligne l'engagement croissant des acteurs économiques majeurs dans l'accompagnement de l'innovation numérique à travers ces différents marchés africains."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65983",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-26T16:38:00Z",
+   "writtenAt": "2026-11-26T16:45:26.514Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/les-7-pays-africains-ou-les-grandes-entreprises-soutiennent-le-plus-les-startups-technologiques_65983",
+    "title": "Les 7 pays africains où les grandes entreprises soutiennent le plus les startups technologiques"
+   },
+   "rewritten": true
   },
   {
    "id": "sika-65982",
@@ -3783,31 +3807,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/numerique-pres-de-168-milliards-usd-de-revenus-attendus-pour-le-marche-mondial-des-donnees-en-2026_65756",
     "title": "Numérique : Près de 168 milliards USD de revenus attendus pour le marché mondial des données en 2026"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65755",
-   "title": "Tech ivoirienne : une croissance en volume qui peine à générer de la rentabilité",
-   "summary": "En 2025, le secteur technologique ivoirien a vu son chiffre d'affaires progresser de 23,8 %, mais son résultat net cumulé a chuté de 14,3 %, révélant une rentabilité sous pression.",
-   "body": [
-    "L'analyse d'un échantillon de plus de trente entreprises technologiques en Côte d'Ivoire montre une dynamique contrastée pour l'année 2025. Si le chiffre d'affaires global a atteint 136,8 milliards FCFA, marquant une progression de 23,8 % à périmètre comparable, la rentabilité ne suit pas cette tendance. Le résultat net cumulé affiche en effet un recul de 14,3 %, soulignant que l'augmentation des ventes ne se traduit pas mécaniquement par une création de valeur accrue.",
-    "Le marché reste fortement concentré, avec la distribution d'équipements et l'intégration de systèmes représentant une part prépondérante de l'activité. À lui seul, le groupe Huawei, via ses deux entités locales, génère près de la moitié du chiffre d'affaires total. Cette prédominance de la distribution, activité à faibles marges, explique en partie la difficulté du secteur à transformer sa croissance commerciale en bénéfices nets solides.",
-    "Parmi les différents métiers, l'intégration de systèmes d'information se distingue comme le segment le plus équilibré, alliant une croissance à deux chiffres à une rentabilité significative. À l'inverse, des secteurs très dynamiques comme la cybersécurité, qui a bondi de 144,5 %, affichent des marges nettes très faibles. Cette situation illustre le défi actuel de la tech ivoirienne : réussir à passer d'une logique de volume, portée par l'importation de matériel, à un modèle économique plus créateur de valeur ajoutée locale."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65755",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-16T14:28:00Z",
-   "writtenAt": "2026-11-16T20:42:13.095Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/distribution-cybersecurite-integration-ou-se-trouve-l-argent-dans-la-tech-ivoirienne-_65755",
-    "title": "Distribution, cybersécurité, intégration : Où se trouve l'argent dans la Tech ivoirienne ?"
    },
    "rewritten": true
   }

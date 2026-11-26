@@ -1,7 +1,7 @@
 # BRVMexa Soir — jeudi 26 novembre 2026
 
-> Script généré automatiquement le 2026-11-26 à 16:30 GMT à partir des données publiées (source des cours : brvm.org, données différées).
-> **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 3,8 minutes (577 mots).
+> Script généré automatiquement le 2026-11-26 à 16:45 GMT à partir des données publiées (source des cours : brvm.org, données différées).
+> **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 3,9 minutes (578 mots).
 
 ## 0:00 · Générique
 
@@ -37,8 +37,8 @@ Le Groupe Coris poursuit son expansion régionale en introduisant sa filiale bé
 Les investisseurs pourront souscrire à ces actions du 7 au 11 décembre 2026 au prix unitaire de 4 700 FCFA. Une mesure incitative a été prévue pour le personnel de la banque, qui bénéficiera d'un tarif préférentiel de 3 760 FCFA.
 Retrouvez l’article complet dans la rubrique À la une de BRVMexa.
 En bref :
+Sept pays africains en tête du soutien aux startups technologiques par les grandes entreprises. Un récent rapport identifie sept nations africaines où les grandes sociétés s'impliquent activement dans le développement de l'écosystème des startups technologiques.
 Côte d'Ivoire : la dématérialisation fiscale atteint 79 % des recettes en 2025. La plateforme e-impôts s'est imposée comme le canal privilégié de collecte fiscale en Côte d'Ivoire, traitant une large majorité des recettes nationales au cours de l'année 2025.
-Côte d'Ivoire : dix nouveaux permis de recherche minière octroyés par le gouvernement. Le gouvernement ivoirien a validé l'octroi de dix permis de recherche minière, valables quatre ans, pour diversifier l'exploitation des ressources nationales.
 
 ## 3:15 · Le mot de la fin
 
