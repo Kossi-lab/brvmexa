@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-26T08:45:17.453Z",
+ "updatedAt": "2026-11-26T09:01:07.479Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -17,6 +17,54 @@
     "19 PAGES"
    ],
    "pinned": true
+  },
+  {
+   "id": "sika-65963",
+   "title": "Sénégal : 3MD INDUSTRIES investit près de 3 milliards FCFA dans la zone de Diass",
+   "summary": "L'entreprise 3MD INDUSTRIES s'associe à l'APIX pour implanter une unité de production d'équipements électriques au sein de la Zone économique spéciale intégrée de Diass.",
+   "body": [
+    "La société 3MD INDUSTRIES, spécialisée dans le matériel électrique, a officialisé un partenariat avec l'Agence de promotion des investissements et des grands travaux (APIX). Ce projet, qui s'inscrit dans le développement de la Zone économique spéciale intégrée de Diass (ZESID), représente un investissement de 2,88 milliards de FCFA sur un terrain de 12 352 m². L'objectif est de fournir aux secteurs du BTP et de l'énergie des équipements fabriqués localement selon des normes internationales.",
+    "L'unité industrielle prévoit une production annuelle de 1 200 transformateurs, 750 postes de transformation et 10 500 poteaux en béton. Outre la création de 78 emplois permanents, l'initiative favorisera la formation locale grâce à l'accueil de stagiaires du Lycée Technique de Sandiara. Fondée en 2015 par Momar Diouf, 3MD INDUSTRIES renforce ainsi sa présence industrielle au Sénégal et en Afrique de l'Ouest au sein d'une zone stratégique située près de l'aéroport Blaise Diagne."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65963",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-26T08:52:00Z",
+   "writtenAt": "2026-11-26T09:00:51.213Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/senegal-3md-industries-sallie-a-lapix-et-engage-pres-de-3-milliards-fcfa-dinvestissement-dans-la-zone-economique-de-diass_65963",
+    "title": "Sénégal : 3MD INDUSTRIES s’allie à l’APIX et engage près de 3 milliards FCFA d’investissement dans la zone économique de Diass"
+   },
+   "rewritten": true
+  },
+  {
+   "id": "sika-65964",
+   "title": "BRVM : Une progression limitée des bénéfices au premier semestre 2026",
+   "summary": "Les entreprises cotées à la Bourse régionale des valeurs mobilières ont enregistré une hausse modérée de leurs profits sur les six premiers mois de l'année 2026.",
+   "body": [
+    "Au terme du premier semestre 2026, les sociétés inscrites à la cote de la BRVM ont vu leurs résultats financiers progresser de 3 %. Cette performance témoigne d'une dynamique de croissance positive, bien que celle-ci demeure contenue sur la période.",
+    "Ces données, arrêtées à la fin du mois de juin 2026, illustrent la tendance actuelle des entreprises du marché financier régional. Malgré un contexte économique global, l'évolution des bénéfices reste ainsi relativement étroite pour l'ensemble des acteurs cotés."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65964",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-26T08:40:00Z",
+   "writtenAt": "2026-11-26T09:00:59.558Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/brvm-la-croissance-des-benefices-plafonne-a-3-au-premier-semestre-2026_65964",
+    "title": "BRVM : La croissance des bénéfices plafonne à 3 % au premier semestre 2026"
+   },
+   "rewritten": true
   },
   {
    "id": "sika-65958",
@@ -449,6 +497,32 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/cote-divoire-la-berd-deploie-une-offre-integree-pour-faciliter-le-financement-et-la-croissance-des-pme_65936",
     "title": "Côte d’Ivoire : La BERD déploie une offre intégrée pour faciliter le financement et la croissance des PME"
+   },
+   "rewritten": true
+  },
+  {
+   "id": "gn-1kct5ez",
+   "title": "Coris Bank International Bénin fait son entrée à la Bourse régionale des valeurs mobilières",
+   "summary": "Le groupe Coris poursuit son expansion boursière en introduisant sa filiale béninoise sur le marché financier régional, avec un prix d'action fixé à 4 700 FCFA.",
+   "body": [
+    "Après avoir déjà franchi le pas pour ses entités au Burkina Faso et en Côte d'Ivoire, le Groupe Coris élargit sa présence sur la BRVM. Cette nouvelle étape concerne la filiale du Bénin, qui rejoint désormais la cote officielle.",
+    "L'opération d'introduction en bourse de cette institution financière a été actée avec une valeur unitaire de 4 700 FCFA par titre. Cette décision marque une nouvelle phase de développement pour le groupe dans l'espace UEMOA."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#gn-1kct5ez",
+   "image": null,
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-25T10:21:10.000Z",
+   "writtenAt": "2026-11-26T09:01:07.476Z",
+   "symbols": [
+    "CBIBF"
+   ],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNdUlzeG1wWlhwNk1KV3dTcUJ5S0NnUGtBMWttaERacXVRQmJKcjB0aHBuVnE4dWJLaEFFeUtUZV9sdHlJOXpuWDJ2MTZqaVM1SC1ocVp4dEQ3VmlHTjNldjZWSjJKSm9TWG9sYW5Za3ZvaHN0ZWlNM2M2dG5tZG9mWHl2Zi1qQmhjSGRUbi1JcHYzcTlDN1AwMnUyV1lJSFVCZlF2c2xUZ3Z0UnBEUUhWTXI2NGVHMDNxeHN3anprUklHV2ZDTkpqTTh0QkxiMGNySHlNeF8zNHh6Yi1FN0JGV1RYTFozWHQ3dy1IblBDQk5Ddw?oc=5",
+    "title": "Après le Burkina Faso et la Côte d’Ivoire, le Groupe Coris introduit sa filiale béninoise à la BRVM à 4 700 FCFA l’action"
    },
    "rewritten": true
   },
@@ -3721,78 +3795,6 @@
     "name": "Connectionivoirienne",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbjRFVFBIdndkZ2loVmgwcnEyWTdaZ1QzU2JJRnJyNmJlcExFekNaaThpc2JSdjVuYzV2X0ozUnQyQmJxSXBlME9PME1na1lLTm9aSFZNbmZpbk94XzduZGFiX3poTkJ5SG41QUl6OGFCUVA0RWw4TGp0aXRfek14bW5Zb1NQMFNPdTlJTmdnRDJiMWg4Ul9hTVVfWnBPcDNwZkQ4Vm0yUHBYMkFFUE85ZUZNNTZCSkU4dUhDYWZtRXVmeDg0NXc?oc=5",
     "title": "Énergie SIR: la Société ivoirienne de raffinage envisage une introduction à la BRVM -"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "gn-knt0d5",
-   "title": "Performance positive pour les entreprises burkinabè cotées à la BRVM",
-   "summary": "Les sociétés originaires du Burkina Faso affichent une bonne santé financière sur le marché boursier régional en ce mois de novembre 2026.",
-   "body": [
-    "Le marché financier régional observe actuellement une dynamique favorable pour les entreprises burkinabè. Selon les données disponibles au 16 novembre 2026, ces entités maintiennent une trajectoire solide au sein de la Bourse régionale des valeurs mobilières.",
-    "Cette tendance témoigne de la résilience et de la vitalité des sociétés du pays sur la place boursière. Les investisseurs suivent avec attention ces indicateurs qui confirment la bonne tenue des valeurs burkinabè dans le contexte économique actuel."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#gn-knt0d5",
-   "image": null,
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-11-16T07:43:25.000Z",
-   "writtenAt": "2026-11-16T10:15:55.135Z",
-   "symbols": [],
-   "origin": {
-    "name": "L'economiste du faso",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOV1pFdFdYazY3TEI3YjBIT05RUl9MMHNVd0NTYzI5OUJrYXVuSDhCdzNrSkJQaG5MUXNrMXVPekdORzFuaDhTRlEzdWotaC1TVEdwa3Y3Y2owYVhWbzRudGQtRW5ZYk5XNHNCVXhoRVBIeC1obmx3Sl9xeDZqWll6aHJqSnk3TVhOTmlaMF9OTDRuUFY1b01uMGpyMXhHN1VEbTBoM1hWSXdsbTZESXlVNHJjVXZnT0JQd3BZcw?oc=5",
-    "title": "Bourse régionale des valeurs mobilières: les sociétés burkinabè se portent bien"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65734",
-   "title": "La BAD et le Japon scellent un prêt record de 583 millions USD pour le développement africain",
-   "summary": "La Banque africaine de développement et l'Agence japonaise de coopération internationale ont officialisé un prêt concessionnel de 583,4 millions de dollars pour soutenir le Fonds africain de développement.",
-   "body": [
-    "Le 13 novembre 2026, Sidi Ould Tah, président de la BAD, et Akihiko Tanaka, président de la JICA, ont signé à Tokyo un accord de prêt de 86,6 milliards de yens. Ce financement, équivalent à environ 583,4 millions de dollars, est destiné à renforcer le Fonds africain de développement (FAD-17), le guichet de la BAD dédié aux pays africains à faibles revenus.",
-    "Ces ressources soutiendront des projets cruciaux dans les domaines de l'énergie, des infrastructures, de la sécurité alimentaire et de l'intégration régionale. Ce prêt s'inscrit dans le cadre d'une enveloppe globale record de 11 milliards de dollars mobilisée auprès de 44 partenaires pour le FAD-17, illustrant la volonté de diversifier les sources de financement du Fonds pour accroître ses capacités d'intervention sur le continent."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65734",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-16T06:29:00Z",
-   "writtenAt": "2026-11-16T10:16:03.679Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/la-bad-et-la-jica-signent-un-pret-de-583-millions-usd-pour-financer-les-infrastructures-lenergie-et-la-securite-alimentaire-en-afrique_65734",
-    "title": "La BAD et la JICA signent un prêt de 583 millions USD pour financer les infrastructures, l’énergie et la sécurité alimentaire en Afrique"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65726",
-   "title": "Proxima Capital reçoit son agrément pour opérer dans la microfinance en RDC",
-   "summary": "La Banque centrale du Congo a octroyé une licence d'institution de microfinance à Proxima Capital, un nouvel acteur local visant à soutenir les TPME et les populations sous-financées.",
-   "body": [
-    "Proxima Capital RDC vient d'obtenir l'autorisation officielle de la Banque centrale du Congo pour déployer ses services sur le territoire national. Cette structure, détenue par des capitaux congolais, ambitionne de proposer une offre diversifiée incluant l'épargne, le crédit productif et l'éducation financière. Pour toucher sa cible composée de TPME, d'entrepreneurs et de travailleurs du secteur informel, l'établissement prévoit de combiner des agences physiques avec des outils numériques.",
-    "Le marché de la microfinance en RDC affiche une dynamique de croissance notable, avec 116 institutions recensées fin 2025 pour un total bilan de 824,2 millions USD. Si le nombre de comptes actifs a progressé pour atteindre 3,7 millions, le secteur reste toutefois modeste face aux banques commerciales, ne représentant que 3,2 % des actifs financiers nationaux. Proxima Capital intègre ainsi un environnement concurrentiel en pleine expansion, bien que les détails opérationnels, tels que le capital social ou le calendrier de lancement, n'aient pas encore été dévoilés par la direction."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65726",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-14T13:54:00Z",
-   "writtenAt": "2026-11-14T16:49:38.288Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/rdc-proxima-capital-obtient-son-agrement-et-fait-son-entree-sur-le-marche-de-la-microfinance_65726",
-    "title": "RDC : Proxima Capital obtient son agrément et fait son entrée sur le marché de la microfinance"
    },
    "rewritten": true
   }

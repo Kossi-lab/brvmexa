@@ -1,7 +1,7 @@
 # BRVMexa Soir — mercredi 25 novembre 2026
 
-> Script généré automatiquement le 2026-11-26 à 08:45 GMT à partir des données publiées (source des cours : brvm.org, données différées).
-> **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 3,9 minutes (586 mots).
+> Script généré automatiquement le 2026-11-26 à 09:01 GMT à partir des données publiées (source des cours : brvm.org, données différées).
+> **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 3,2 minutes (477 mots).
 
 ## 0:00 · Générique
 
@@ -12,7 +12,7 @@
 Bonsoir et bienvenue dans BRVMexa Soir, nous sommes le mercredi 25 novembre 2026.
 Au programme ce soir : une BRVM en repli, avec nettement plus de baisses que de hausses.
 BOA Niger signe la meilleure performance du jour.
-Et à la une : Coris Bank Bénin lance une levée de fonds majeure de 19,19 milliards à la BRVM.
+Et dans l’actualité : Sénégal : 3MD INDUSTRIES investit près de 3 milliards FCFA dans la zone de Diass.
 
 ## 0:30 · La séance
 
@@ -32,13 +32,9 @@ La valeur la plus échangée du jour est Sonatel, avec 55 953 titres, à 3 750 f
 
 ## 2:00 · L’actualité du jour
 
-Notre sujet principal ce soir : Coris Bank Bénin lance une levée de fonds majeure de 19,19 milliards à la BRVM.
-La filiale béninoise du groupe Coris réalise une ouverture de capital historique sur le marché financier régional pour un montant de 19,19 milliards de FCFA.
-Cette démarche financière d'envergure positionne la filiale béninoise du groupe Coris parmi les acteurs très actifs du marché. Elle met en lumière la dynamique des institutions financières de la sous-région qui choisissent le marché boursier pour consolider leurs fonds propres.
-Retrouvez l’article complet dans la rubrique À la une de BRVMexa.
-En bref :
-Côte d'Ivoire : La BAD alerte sur l'impact des datacenters sur la demande d'électricité. La Banque africaine de développement invite la Côte d'Ivoire à ajuster à la hausse sa planification électrique pour faire face aux besoins importants des futurs centres de données informatiques.
-Transports à Abidjan : la ligne 1 du métro et le BRT visent un lancement début 2029. Les chantiers de la ligne 1 du métro et du réseau de bus rapide avancent dans la capitale ivoirienne, ciblant un démarrage commercial début 2029 pour fluidifier la circulation.
+Dans l’actualité du jour :
+Sénégal : 3MD INDUSTRIES investit près de 3 milliards FCFA dans la zone de Diass. L'entreprise 3MD INDUSTRIES s'associe à l'APIX pour implanter une unité de production d'équipements électriques au sein de la Zone économique spéciale intégrée de Diass.
+BRVM : Une progression limitée des bénéfices au premier semestre 2026. Les entreprises cotées à la Bourse régionale des valeurs mobilières ont enregistré une hausse modérée de leurs profits sur les six premiers mois de l'année 2026.
 
 ## 3:15 · Le mot de la fin
 

@@ -1,20 +1,32 @@
 {
- "updatedAt": "2026-11-26T08:45:17.451Z",
+ "updatedAt": "2026-11-26T09:01:07.476Z",
  "items": [
   {
-   "id": "gn-1gfad7o",
-   "title": "Sogb Côte d'Ivoire (SOGC) — BRVM",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sZUtjYXhXV041LTR6dVZsNkFvNzVIUXFtWlBibk55VUdnOV9OcEVSQzY3N1EzMGlhbEVJRFdBaUdPZ3dXLUpSUWppRXZZT1JTU29NeVJibE5XQU9UMkdLTWMyNEhzdw?oc=5",
+   "id": "sika-65963",
+   "title": "Sénégal : 3MD INDUSTRIES s’allie à l’APIX et engage près de 3 milliards FCFA d’investissement dans la zone économique de Diass",
+   "summary": "Au Sénégal, l'ambition d'industrialisation se poursuit avec la Zone économique spéciale intégrée de Diass (ZESID). Dans...",
+   "url": "https://www.sikafinance.com/marches/senegal-3md-industries-sallie-a-lapix-et-engage-pres-de-3-milliards-fcfa-dinvestissement-dans-la-zone-economique-de-diass_65963",
    "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
+   "source": "Sika Finance",
+   "category": "Marchés",
    "premium": false,
-   "publishedAt": "2026-11-25T21:09:33.000Z",
-   "symbols": [
-    "SOGC"
-   ],
-   "status": "skip",
+   "publishedAt": "2026-11-26T08:52:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "sika-65964",
+   "title": "BRVM : La croissance des bénéfices plafonne à 3 % au premier semestre 2026",
+   "summary": "À fin juin 2026, les sociétés cotées à la BRVM affichent une croissance globale positive, mais étroite. Le chiff...",
+   "url": "https://www.sikafinance.com/marches/brvm-la-croissance-des-benefices-plafonne-a-3-au-premier-semestre-2026_65964",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-11-26T08:40:00Z",
+   "symbols": [],
+   "status": "done",
    "tries": 1
   },
   {
@@ -266,22 +278,6 @@
    "tries": 1
   },
   {
-   "id": "sika-65939",
-   "title": "Après le Burkina Faso et la Côte d’Ivoire, le Groupe Coris introduit sa filiale béninoise à la BRVM à 4 700 FCFA l’action",
-   "summary": "Avec 4,1 millions de titres proposés à 4 700 FCFA l'unité au public, l'offre de Coris Bank International Bénin porte sur...",
-   "url": "https://www.sikafinance.com/marches/apres-le-burkina-faso-et-la-cote-divoire-le-groupe-coris-introduit-sa-filiale-beninoise-a-la-brvm-a-4-700-fcfa-laction_65939",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-25T11:21:00Z",
-   "symbols": [
-    "CBIBF"
-   ],
-   "status": "done",
-   "tries": 1
-  },
-  {
    "id": "sika-65938",
    "title": "Fintech : First Circle Capital boucle 26 millions USD pour propulser 24 pépites africaines en phase de démarrage",
    "summary": "First Circle Capital, fonds panafricain dédié aux startups fintech à fort potentiel, annonce la clôture d'une env...",
@@ -321,6 +317,20 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-11-25T10:22:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "gn-1kct5ez",
+   "title": "Après le Burkina Faso et la Côte d’Ivoire, le Groupe Coris introduit sa filiale béninoise à la BRVM à 4 700 FCFA l’action",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNdUlzeG1wWlhwNk1KV3dTcUJ5S0NnUGtBMWttaERacXVRQmJKcjB0aHBuVnE4dWJLaEFFeUtUZV9sdHlJOXpuWDJ2MTZqaVM1SC1ocVp4dEQ3VmlHTjNldjZWSjJKSm9TWG9sYW5Za3ZvaHN0ZWlNM2M2dG5tZG9mWHl2Zi1qQmhjSGRUbi1JcHYzcTlDN1AwMnUyV1lJSFVCZlF2c2xUZ3Z0UnBEUUhWTXI2NGVHMDNxeHN3anprUklHV2ZDTkpqTTh0QkxiMGNySHlNeF8zNHh6Yi1FN0JGV1RYTFozWHQ3dy1IblBDQk5Ddw?oc=5",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-25T10:21:10.000Z",
    "symbols": [],
    "status": "done",
    "tries": 1
@@ -690,22 +700,6 @@
    "symbols": [],
    "status": "done",
    "tries": 1
-  },
-  {
-   "id": "gn-1apynbn",
-   "title": "Air Liquide Côte d'Ivoire (SIVC) — BRVM",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01TU9WZUExelpvaEV5MlVDV0Y5blVQalVYRmVkWXFWUVVvS3RZUXctR1dObXR5di1GeFoyc2lTN0dmNTgzbEpYVGtWdVpod0FrS0Jfc0hCcmZGTmhYakpnNEZWM3Nrdw?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-11-23T21:36:15.000Z",
-   "symbols": [
-    "SIVC"
-   ],
-   "status": "new",
-   "tries": 0
   },
   {
    "id": "sika-65898",
@@ -1279,6 +1273,22 @@
    "publishedAt": "2026-11-20T09:35:00Z",
    "symbols": [],
    "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "gn-1gfad7o",
+   "title": "Sogb Côte d'Ivoire (SOGC) — BRVM",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sZUtjYXhXV041LTR6dVZsNkFvNzVIUXFtWlBibk55VUdnOV9OcEVSQzY3N1EzMGlhbEVJRFdBaUdPZ3dXLUpSUWppRXZZT1JTU29NeVJibE5XQU9UMkdLTWMyNEhzdw?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-20T08:00:00.000Z",
+   "symbols": [
+    "SOGC"
+   ],
+   "status": "skip",
    "tries": 1
   },
   {
@@ -4306,22 +4316,6 @@
    "premium": false,
    "publishedAt": "2026-11-03T12:30:00Z",
    "symbols": [],
-   "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "sika-65459",
-   "title": "SUCRIVOIRE ponctionne plus de 8 milliards FCFA sur une activité en forte croissance",
-   "summary": "SUCRIVOIRE produit davantage et améliore nettement sa performance opérationnelle au premier semestre 2026, mais reste d...",
-   "url": "https://www.sikafinance.com/marches/sucrivoire-ponctionne-plus-de-8-milliards-fcfa-sur-une-activite-en-forte-croissance_65459",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": true,
-   "publishedAt": "2026-11-03T11:20:00Z",
-   "symbols": [
-    "SCRC"
-   ],
    "status": "done",
    "tries": 1
   }
