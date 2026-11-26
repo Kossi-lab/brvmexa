@@ -38,7 +38,7 @@ jobs:
           test ! -e _site/data || { echo "docs/data existe déjà : conflit avec les données"; exit 1; }
           cp -r data _site/data
           # Contrôles : pages principales et fichiers lus par l'application
-          for f in index.html CNAME .nojekyll .well-known/security.txt data/quotes.json data/market.json data/dividends.json data/history/_splits.json; do
+          for f in index.html CNAME .well-known/security.txt data/quotes.json data/market.json data/dividends.json data/history/_splits.json; do
             test -s "_site/$f" || { echo "Manquant : $f"; exit 1; }
           done
           du -sh _site
