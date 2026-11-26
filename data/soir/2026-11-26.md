@@ -1,7 +1,7 @@
 # BRVMexa Soir — jeudi 26 novembre 2026
 
-> Script généré automatiquement le 2026-11-26 à 09:45 GMT à partir des données publiées (source des cours : brvm.org, données différées).
-> **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 2,9 minutes (434 mots).
+> Script généré automatiquement le 2026-11-26 à 10:00 GMT à partir des données publiées (source des cours : brvm.org, données différées).
+> **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 3,1 minutes (472 mots).
 
 ## 0:00 · Générique
 
@@ -16,9 +16,10 @@ Et à la une : Coris Bank International Bénin s'apprête à faire son entrée �
 ## 0:30 · La séance
 
 Commençons par le marché.
-L’indice BRVM Composite, qui regroupe toutes les actions, termine à 465 points, stable.
-Le BRVM 30, l’indice des trente valeurs les plus actives, est stable, et le BRVM Prestige stable.
+L’indice BRVM Composite, qui regroupe toutes les actions, termine à 465 points, en baisse de 0,03 %.
+Le BRVM 30, l’indice des trente valeurs les plus actives, est en baisse de 0,04 %, et le BRVM Prestige en baisse de 0,08 %.
 Sur l’ensemble de la séance, 0 actions ont progressé, 0 ont reculé et 48 sont restées stables.
+Du côté des secteurs, meilleur score pour l’Énergie, en hausse de 0,1 %, tandis que les Services publics ferme la marche, en baisse de 0,3 %.
 
 ## 1:15 · Le palmarès
 
