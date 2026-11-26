@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-26T10:30:25.505Z",
+ "updatedAt": "2026-11-26T10:46:53.859Z",
  "items": [
   {
    "id": "sika-65968",
@@ -11,6 +11,20 @@
    "category": "Marchés",
    "premium": true,
    "publishedAt": "2026-11-26T10:21:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "sika-65970",
+   "title": "Ovic M’Bi Mabiala, DG de CIMPOR Côte d’Ivoire : ‘’La Côte d’Ivoire peut devenir un hub régional de l’argile calcinée ou de ciment bas carbone’’",
+   "summary": "Ovic M'Bi Mabiala, Directeur général de CIMPOR Côte d'Ivoire : La Côte d'Ivoire peut devenir un hub rég...",
+   "url": "https://www.sikafinance.com/marches/ovic-mbi-mabiala-dg-de-cimpor-cote-divoire-la-cote-divoire-peut-devenir-un-hub-regional-de-largile-calcinee-ou-de-ciment-bas-carbone_65970",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-26T09:48:00Z",
    "symbols": [],
    "status": "done",
    "tries": 1
@@ -4299,20 +4313,6 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-11-03T16:46:00Z",
-   "symbols": [],
-   "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "sika-65466",
-   "title": "AFIS 2026 : À Luanda, la finance africaine face au défi de canaliser 4 000 milliards USD d’épargne vers 400 milliards de besoins annuels",
-   "summary": "Ouvert ce 3 novembre 2026 pour deux jours, l'Africa Financial Summit (AFIS) réunit plus de 1 500 décideurs. Quatre alloc...",
-   "url": "https://www.sikafinance.com/marches/afis-2026-a-luanda-la-finance-africaine-face-au-defi-de-canaliser-4-000-milliards-usd-depargne-vers-400-milliards-de-besoins-annuels_65466",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-03T16:12:00Z",
    "symbols": [],
    "status": "done",
    "tries": 1

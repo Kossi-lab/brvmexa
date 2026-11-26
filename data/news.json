@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-26T10:30:25.508Z",
+ "updatedAt": "2026-11-26T10:46:53.862Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -39,6 +39,31 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/cote-divoire-a-la-tonne-les-produits-transformes-exportes-rapportent-deux-fois-plus-que-les-bruts_65968",
     "title": "Côte d’Ivoire : A la tonne, les produits transformés exportés rapportent deux fois plus que les bruts"
+   },
+   "rewritten": true
+  },
+  {
+   "id": "sika-65970",
+   "title": "Ciment bas carbone : la Côte d'Ivoire appelée à devenir un hub régional",
+   "summary": "L'essor de l'argile calcinée pourrait permettre à la Côte d'Ivoire de réduire ses importations de clinker, de préserver ses devises et de s'affirmer comme un pôle régional du ciment vert.",
+   "body": [
+    "Face à une demande en progression constante d'au moins 7 % par an, le secteur du bâtiment en Côte d'Ivoire supporte une lourde charge financière. L'achat annuel d'environ six millions de tonnes de clinker entraîne une sortie de capitaux estimée à près de 240 milliards de FCFA. Cette situation engendre une vulnérabilité face aux aléas du fret maritime, à la congestion portuaire et aux fluctuations sur les marchés internationaux.",
+    "Pour atténuer cette dépendance, le recours à l'argile calcinée s'impose comme une alternative crédible. Déjà active dans ce domaine depuis août 2020 avec son site d'Abidjan, la société CIMPOR a permis la fabrication de près de deux millions de tonnes de ciment intégrant ce substitut partiel. Cette unité utilise en outre de la biomasse pour couvrir plus de 60 % de ses besoins en énergie thermique.",
+    "Substituer la moitié du clinker importé permettrait de retenir annuellement près de 120 milliards de FCFA au sein du pays. Selon les acteurs de la filière, le développement de cette filière à l'échelle nationale et l'émergence d'un marché pour les matériaux décarbonés pourraient à terme positionner le territoire ivoirien comme un carrefour régional majeur, desservant également les pays voisins tels que le Mali et le Burkina Faso."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65970",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-26T09:48:00Z",
+   "writtenAt": "2026-11-26T10:46:53.858Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/ovic-mbi-mabiala-dg-de-cimpor-cote-divoire-la-cote-divoire-peut-devenir-un-hub-regional-de-largile-calcinee-ou-de-ciment-bas-carbone_65970",
+    "title": "Ovic M’Bi Mabiala, DG de CIMPOR Côte d’Ivoire : ‘’La Côte d’Ivoire peut devenir un hub régional de l’argile calcinée ou de ciment bas carbone’’"
    },
    "rewritten": true
   },
@@ -3770,32 +3795,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/ivoire-tech-forum-2026-lansut-au-c%C5%93ur-des-solutions-numeriques-inclusives_65742",
     "title": "Ivoire Tech Forum 2026 : L’ANSUT au cœur des solutions numériques inclusives"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65744",
-   "title": "BRVM : une deuxième semaine de repli marquée par la résilience de Solibra CI",
-   "summary": "Le marché financier régional clôture une nouvelle semaine dans le rouge, malgré la performance notable de l'action Solibra CI.",
-   "body": [
-    "La Bourse régionale des valeurs mobilières (BRVM) a terminé la semaine du 9 novembre sur une note baissière, confirmant une tendance à la correction pour la deuxième période consécutive. Les indices n'ont pas réussi à inverser cette dynamique négative malgré les mouvements observés sur les différentes valeurs cotées.",
-    "Au cœur de cette conjoncture difficile, le titre Solibra CI s'est distingué en affichant une certaine résistance face à la pression vendeuse. Cette performance individuelle constitue l'un des rares points d'attention dans un marché globalement orienté à la baisse au cours de cette quarante-cinquième semaine de l'année 2026."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65744",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-16T09:21:00Z",
-   "writtenAt": "2026-11-16T10:15:29.369Z",
-   "symbols": [
-    "SLBC"
-   ],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/brvm-semaine-45-solibra-ci-mene-la-resistance-dans-une-2eme-semaine-de-correction_65744",
-    "title": "BRVM / Semaine 45 : Solibra CI mène la résistance dans une 2ème semaine de correction"
    },
    "rewritten": true
   }

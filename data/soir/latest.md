@@ -1,7 +1,7 @@
 # BRVMexa Soir — jeudi 26 novembre 2026
 
-> Script généré automatiquement le 2026-11-26 à 10:30 GMT à partir des données publiées (source des cours : brvm.org, données différées).
-> **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 3,8 minutes (574 mots).
+> Script généré automatiquement le 2026-11-26 à 10:46 GMT à partir des données publiées (source des cours : brvm.org, données différées).
+> **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 3,8 minutes (573 mots).
 
 ## 0:00 · Générique
 
@@ -11,24 +11,24 @@
 
 Bonsoir et bienvenue dans BRVMexa Soir, nous sommes le jeudi 26 novembre 2026.
 Au programme ce soir : une BRVM en repli, avec nettement plus de baisses que de hausses.
-CIE Côte d’Ivoire signe la meilleure performance du jour.
+Sucrivoire CI signe la meilleure performance du jour.
 Et à la une : Coris Bank International Bénin s'apprête à faire son entrée à la BRVM.
 
 ## 0:30 · La séance
 
 Commençons par le marché.
-L’indice BRVM Composite, qui regroupe toutes les actions, termine à 461 points, en baisse de 0,8 %.
-Le BRVM 30, l’indice des trente valeurs les plus actives, est en baisse de 0,8 %, et le BRVM Prestige en baisse de 1,1 %.
-Sur l’ensemble de la séance, 9 actions ont progressé, 29 ont reculé et 10 sont restées stables.
-Côté activité, environ 301 millions de francs CFA ont été échangés aujourd’hui.
-Du côté des secteurs, meilleur score pour les Services publics, en hausse de 4,0 %, tandis que la Consommation discrétionnaire ferme la marche, en baisse de 4,1 %.
+L’indice BRVM Composite, qui regroupe toutes les actions, termine à 458 points, en baisse de 1,6 %.
+Le BRVM 30, l’indice des trente valeurs les plus actives, est en baisse de 1,5 %, et le BRVM Prestige en baisse de 1,7 %.
+Sur l’ensemble de la séance, 8 actions ont progressé, 30 ont reculé et 10 sont restées stables.
+Côté activité, environ 465 millions de francs CFA ont été échangés aujourd’hui.
+Du côté des secteurs, meilleur score pour les Services publics, en hausse de 2,2 %, tandis que les Industriels ferme la marche, en baisse de 5,0 %.
 
 ## 1:15 · Le palmarès
 
-Dans le haut du tableau, CIE Côte d’Ivoire gagne 6,0 % à 4 240 francs CFA.
-Suivent BICI Côte d’Ivoire, en hausse de 3,5 %, et BOA Mali, en hausse de 2,7 %.
-En bas du tableau, TotalEnergies Marketing CI cède 7,4 %, CFAO Motors CI 7,2 % et SETAO CI 7,0 %.
-La valeur la plus échangée du jour est Sonatel, avec 22 112 titres, à 3 790 francs CFA, en hausse de 1,1 %.
+Dans le haut du tableau, Sucrivoire CI gagne 3,8 % à 1 385 francs CFA.
+Suivent BOA Mali, en hausse de 3,7 %, et CIE Côte d’Ivoire, en hausse de 3,5 %.
+En bas du tableau, Unilever CI cède 7,5 %, TotalEnergies Marketing CI 7,4 % et NEI-CEDA CI 7,2 %.
+La valeur la plus échangée du jour est Sonatel, avec 24 961 titres, à 3 750 francs CFA, stable.
 
 ## 2:00 · L’actualité du jour
 
@@ -38,7 +38,7 @@ Les investisseurs pourront souscrire à ces actions du 7 au 11 décembre 2026 au
 Retrouvez l’article complet dans la rubrique À la une de BRVMexa.
 En bref :
 Côte d'Ivoire : La transformation agricole booste la valeur des exportations. L'exportation de produits agricoles transformés en Côte d'Ivoire génère des revenus nettement supérieurs aux matières brutes, illustrant l'importance stratégique de la transformation locale.
-Sénégal : le secteur privé fait un retour remarqué sur le marché obligataire régional. Après une période dominée par les emprunts publics, les entreprises sénégalaises renouent avec le marché financier à travers d'importantes levées de fonds.
+Ciment bas carbone : la Côte d'Ivoire appelée à devenir un hub régional. L'essor de l'argile calcinée pourrait permettre à la Côte d'Ivoire de réduire ses importations de clinker, de préserver ses devises et de s'affirmer comme un pôle régional du ciment vert.
 
 ## 3:15 · Le mot de la fin
 
