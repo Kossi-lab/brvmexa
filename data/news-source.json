@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-26T09:30:24.802Z",
+ "updatedAt": "2026-11-26T09:45:24.737Z",
  "items": [
+  {
+   "id": "sika-65965",
+   "title": "Sénégal : Le secteur privé retrouve de \" l’appétit \" sur le marché financier régional",
+   "summary": "Au Sénégal après un temps d'accalmie marqué par de nombreuses opérations de l'État, le secteur privé semble avoi...",
+   "url": "https://www.sikafinance.com/marches/senegal-le-secteur-prive-retrouve-de-lappetit-sur-le-marche-financier-regional_65965",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-26T09:16:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65963",
    "title": "Sénégal : 3MD INDUSTRIES s’allie à l’APIX et engage près de 3 milliards FCFA d’investissement dans la zone économique de Diass",
@@ -1872,20 +1886,6 @@
    "tries": 1
   },
   {
-   "id": "gn-43jmjm",
-   "title": "BRVM : Le groupe Coris prépare l’introduction en bourse de ses filiales de Côte d’Ivoire et du Bénin",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNzhmU1NWRUVlWTcxV2xmWENRSWt3b2tsc1lhM1dGNWJpaDUtcGp6MFMzbHdfbXN5RUNnSHQ0RW9MZHFjTld1Z01hRklGcDZ4cXliaUZfUEtKcENOcWlnYkR6STdGakxKRTFWWW1pMkNreWVnaWJjdFdNUG8wakhjbTd5OElIRmx0NmdTcUZjNU5vc1V1MnhCc213YUp3WUk2b2pNdFlPZnRmZUlmbW5ob21BMXZlcWloeGhIQUllcEJKTFNDSE5VaTcycmxwTU5FWUVfZg?oc=5",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-11-17T13:17:01.000Z",
-   "symbols": [],
-   "status": "done",
-   "tries": 1
-  },
-  {
    "id": "sika-65782",
    "title": "Avec un niveau d’exportations de 9 400 milliards FCFA à fin juin, la Côte d’Ivoire vend désormais deux fois plus qu’elle n’achète",
    "summary": "Sur la balance commerciale ivoirienne, un plateau pèse désormais deux fois plus lourd que l'autre. Au premier semestre ...",
@@ -1951,6 +1951,20 @@
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-11-17T09:47:00.000Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "gn-43jmjm",
+   "title": "BRVM : Le groupe Coris prépare l’introduction en bourse de ses filiales de Côte d’Ivoire et du Bénin",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNzhmU1NWRUVlWTcxV2xmWENRSWt3b2tsc1lhM1dGNWJpaDUtcGp6MFMzbHdfbXN5RUNnSHQ0RW9MZHFjTld1Z01hRklGcDZ4cXliaUZfUEtKcENOcWlnYkR6STdGakxKRTFWWW1pMkNreWVnaWJjdFdNUG8wakhjbTd5OElIRmx0NmdTcUZjNU5vc1V1MnhCc213YUp3WUk2b2pNdFlPZnRmZUlmbW5ob21BMXZlcWloeGhIQUllcEJKTFNDSE5VaTcycmxwTU5FWUVfZg?oc=5",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-17T08:00:00.000Z",
    "symbols": [],
    "status": "done",
    "tries": 1
@@ -4302,20 +4316,6 @@
    "symbols": [
     "SLBC"
    ],
-   "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "sika-65460",
-   "title": "Sénégal : L’Assemblée nationale rejette le projet de loi de finances rectificative 2026",
-   "summary": "Au Sénégal, l'Assemblée nationale a rejeté le projet de loi de finances rectificative 2026, ce mardi 3 novembre 2026. C...",
-   "url": "https://www.sikafinance.com/marches/senegal-lassemblee-nationale-rejette-le-projet-de-loi-de-finances-rectificative-2026_65460",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-03T12:30:00Z",
-   "symbols": [],
    "status": "done",
    "tries": 1
   }

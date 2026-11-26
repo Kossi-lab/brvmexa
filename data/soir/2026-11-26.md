@@ -1,7 +1,7 @@
 # BRVMexa Soir — jeudi 26 novembre 2026
 
-> Script généré automatiquement le 2026-11-26 à 09:30 GMT à partir des données publiées (source des cours : brvm.org, données différées).
-> **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 2,9 minutes (435 mots).
+> Script généré automatiquement le 2026-11-26 à 09:45 GMT à partir des données publiées (source des cours : brvm.org, données différées).
+> **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 2,9 minutes (434 mots).
 
 ## 0:00 · Générique
 
@@ -29,8 +29,8 @@ Le Groupe Coris poursuit son expansion régionale en introduisant sa filiale bé
 Les investisseurs pourront souscrire à ces actions du 7 au 11 décembre 2026 au prix unitaire de 4 700 FCFA. Une mesure incitative a été prévue pour le personnel de la banque, qui bénéficiera d'un tarif préférentiel de 3 760 FCFA.
 Retrouvez l’article complet dans la rubrique À la une de BRVMexa.
 En bref :
+Sénégal : le secteur privé fait un retour remarqué sur le marché obligataire régional. Après une période dominée par les emprunts publics, les entreprises sénégalaises renouent avec le marché financier à travers d'importantes levées de fonds.
 Sénégal : 3MD INDUSTRIES investit près de 3 milliards FCFA dans la zone de Diass. L'entreprise 3MD INDUSTRIES s'associe à l'APIX pour implanter une unité de production d'équipements électriques au sein de la Zone économique spéciale intégrée de Diass.
-BRVM : Une progression limitée des bénéfices au premier semestre 2026. Les entreprises cotées à la Bourse régionale des valeurs mobilières ont enregistré une hausse modérée de leurs profits sur les six premiers mois de l'année 2026.
 
 ## 3:15 · Le mot de la fin
 

@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-26T09:30:24.804Z",
+ "updatedAt": "2026-11-26T09:45:24.740Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -17,6 +17,31 @@
     "19 PAGES"
    ],
    "pinned": true
+  },
+  {
+   "id": "sika-65965",
+   "title": "Sénégal : le secteur privé fait un retour remarqué sur le marché obligataire régional",
+   "summary": "Après une période dominée par les emprunts publics, les entreprises sénégalaises renouent avec le marché financier à travers d'importantes levées de fonds.",
+   "body": [
+    "Le marché financier régional voit le secteur privé sénégalais reprendre des couleurs après une phase d'inactivité relative face aux multiples émissions de l'État. Cette dynamique se traduit par des opérations d'envergure menées récemment par des acteurs économiques majeurs du pays.",
+    "L'entreprise Swami Agri a ainsi réussi à lever 30 milliards de FCFA grâce au tout premier emprunt obligataire vert agricole de l'UEMOA, baptisé « Agri Green Bond ». Cette émission, assortie d'un taux de 7 % sur la période 2026-2031 et d'une double cotation à la BRVM et à la Bourse de Luxembourg, sert à financer des infrastructures de stockage frigorifique solaire et une centrale photovoltaïque de 16,7 MW.",
+    "De son côté, le groupe EDK a clôturé par anticipation, le 25 novembre 2026, un emprunt obligataire de 30 milliards de FCFA dénommé « EDK 7,50 % 2026-2033 ». Offrant un taux de 7,50 % sur une maturité de sept ans, cette opération permettra au distributeur de carburant et d'aliments de financer l'extension de son réseau de points de vente, la construction d'une usine d'aliments pour animaux et la modernisation de ses solutions de paiement."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65965",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-26T09:16:00Z",
+   "writtenAt": "2026-11-26T09:45:24.737Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/senegal-le-secteur-prive-retrouve-de-lappetit-sur-le-marche-financier-regional_65965",
+    "title": "Sénégal : Le secteur privé retrouve de \" l’appétit \" sur le marché financier régional"
+   },
+   "rewritten": true
   },
   {
    "id": "sika-65963",
@@ -3771,30 +3796,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/senegal-ces-societes-qui-ont-absorbe-les-subventions-de-letat-a-fin-septembre-2026_65738",
     "title": "Sénégal : Ces sociétés qui ont absorbé les subventions de l’État à fin septembre 2026"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "gn-1wvjby6",
-   "title": "La Société ivoirienne de raffinage étudie une possible entrée en bourse à la BRVM",
-   "summary": "La SIR, acteur majeur du raffinage en Côte d'Ivoire, explore actuellement les modalités d'une future introduction sur le marché financier régional.",
-   "body": [
-    "La Société ivoirienne de raffinage (SIR) porte une réflexion stratégique sur une éventuelle cotation à la Bourse régionale des valeurs mobilières (BRVM). Ce projet, révélé ce 16 novembre 2026, marque une étape potentielle dans le développement boursier de l'entreprise.",
-    "Cette initiative pourrait permettre à la société de s'ouvrir aux investisseurs du marché ouest-africain. À ce stade, les détails concernant le calendrier ou les conditions de cette opération n'ont pas encore été communiqués par l'entité."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#gn-1wvjby6",
-   "image": null,
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-11-16T08:49:01.000Z",
-   "writtenAt": "2026-11-16T10:15:46.851Z",
-   "symbols": [],
-   "origin": {
-    "name": "Connectionivoirienne",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbjRFVFBIdndkZ2loVmgwcnEyWTdaZ1QzU2JJRnJyNmJlcExFekNaaThpc2JSdjVuYzV2X0ozUnQyQmJxSXBlME9PME1na1lLTm9aSFZNbmZpbk94XzduZGFiX3poTkJ5SG41QUl6OGFCUVA0RWw4TGp0aXRfek14bW5Zb1NQMFNPdTlJTmdnRDJiMWg4Ul9hTVVfWnBPcDNwZkQ4Vm0yUHBYMkFFUE85ZUZNNTZCSkU4dUhDYWZtRXVmeDg0NXc?oc=5",
-    "title": "Énergie SIR: la Société ivoirienne de raffinage envisage une introduction à la BRVM -"
    },
    "rewritten": true
   }
