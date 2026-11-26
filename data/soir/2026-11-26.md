@@ -1,6 +1,6 @@
 # BRVMexa Soir — jeudi 26 novembre 2026
 
-> Script généré automatiquement le 2026-11-26 à 14:30 GMT à partir des données publiées (source des cours : brvm.org, données différées).
+> Script généré automatiquement le 2026-11-26 à 14:45 GMT à partir des données publiées (source des cours : brvm.org, données différées).
 > **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 3,9 minutes (588 mots).
 
 ## 0:00 · Générique
@@ -17,18 +17,18 @@ Et à la une : Coris Bank International Bénin s'apprête à faire son entrée �
 ## 0:30 · La séance
 
 Commençons par le marché.
-L’indice BRVM Composite, qui regroupe toutes les actions, termine à 454 points, en baisse de 2,3 %.
-Le BRVM 30, l’indice des trente valeurs les plus actives, est en baisse de 2,5 %, et le BRVM Prestige en baisse de 3,1 %.
-Sur l’ensemble de la séance, 12 actions ont progressé, 26 ont reculé et 10 sont restées stables.
+L’indice BRVM Composite, qui regroupe toutes les actions, termine à 454 points, en baisse de 2,4 %.
+Le BRVM 30, l’indice des trente valeurs les plus actives, est en baisse de 2,6 %, et le BRVM Prestige en baisse de 3,0 %.
+Sur l’ensemble de la séance, 10 actions ont progressé, 29 ont reculé et 9 sont restées stables.
 Côté activité, environ 2,0 milliards de francs CFA ont été échangés aujourd’hui.
-Du côté des secteurs, meilleur score pour les Services publics, en hausse de 4,5 %, tandis que les Télécommunications ferme la marche, en baisse de 4,3 %.
+Du côté des secteurs, meilleur score pour les Services publics, en hausse de 3,7 %, tandis que les Télécommunications ferme la marche, en baisse de 4,3 %.
 
 ## 1:15 · Le palmarès
 
 Dans le haut du tableau, NSIA Banque CI gagne 7,5 % à 16 125 francs CFA.
 Suivent CIE Côte d’Ivoire, en hausse de 6,0 %, et BOA Mali, en hausse de 5,6 %.
 En bas du tableau, Unilever CI cède 7,5 %, Orange Côte d’Ivoire 7,1 % et Vivo Energy CI 5,5 %.
-La valeur la plus échangée du jour est Société Générale CI, avec 18 044 titres, à 36 495 francs CFA, en baisse de 1,4 %.
+La valeur la plus échangée du jour est Société Générale CI, avec 18 242 titres, à 36 500 francs CFA, en baisse de 1,4 %.
 
 ## 2:00 · L’actualité du jour
 
