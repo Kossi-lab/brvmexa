@@ -1,6 +1,22 @@
 {
- "updatedAt": "2026-11-26T16:15:35.423Z",
+ "updatedAt": "2026-11-26T16:30:27.703Z",
  "items": [
+  {
+   "id": "sika-65982",
+   "title": "BRVM : NSIA Banque CI à contre-courant d'un marché sous pression",
+   "summary": "La BRVM poursuit sa spirale baissière ce jeudi 26 novembre, dans un marché où les vendeurs conservent largement ...",
+   "url": "https://www.sikafinance.com/marches/brvm-nsia-banque-ci-a-contre-courant-d-un-marche-sous-pression_65982",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-26T16:16:00Z",
+   "symbols": [
+    "NSBC"
+   ],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65981",
    "title": "Côte d’Ivoire : 79% des recettes fiscales collectées par voie électronique en 2025",
@@ -155,6 +171,22 @@
    "publishedAt": "2026-11-26T08:01:00Z",
    "symbols": [],
    "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "gn-1gfad7o",
+   "title": "Sogb Côte d'Ivoire (SOGC) — BRVM",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sZUtjYXhXV041LTR6dVZsNkFvNzVIUXFtWlBibk55VUdnOV9OcEVSQzY3N1EzMGlhbEVJRFdBaUdPZ3dXLUpSUWppRXZZT1JTU29NeVJibE5XQU9UMkdLTWMyNEhzdw?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-25T21:09:33.000Z",
+   "symbols": [
+    "SOGC"
+   ],
+   "status": "skip",
    "tries": 1
   },
   {
@@ -1401,22 +1433,6 @@
    "publishedAt": "2026-11-20T09:35:00Z",
    "symbols": [],
    "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "gn-1gfad7o",
-   "title": "Sogb Côte d'Ivoire (SOGC) — BRVM",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sZUtjYXhXV041LTR6dVZsNkFvNzVIUXFtWlBibk55VUdnOV9OcEVSQzY3N1EzMGlhbEVJRFdBaUdPZ3dXLUpSUWppRXZZT1JTU29NeVJibE5XQU9UMkdLTWMyNEhzdw?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-11-20T08:00:00.000Z",
-   "symbols": [
-    "SOGC"
-   ],
-   "status": "skip",
    "tries": 1
   },
   {
@@ -4297,20 +4313,6 @@
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-11-04T06:29:11.000Z",
-   "symbols": [],
-   "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "sika-65476",
-   "title": "Afrique : L'IA au cœur d'un prix de jeunes innovateurs pour booster la planification familiale",
-   "summary": "Speak Up Africa et l'Unité de coordination du partenariat de Ouagadougou ont officiellement ouvert, le 3 novembre 2026,...",
-   "url": "https://www.sikafinance.com/marches/afrique-l-ia-au-c%C5%93ur-d-un-prix-de-jeunes-innovateurs-pour-booster-la-planification-familiale_65476",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-03T18:11:00Z",
    "symbols": [],
    "status": "done",
    "tries": 1

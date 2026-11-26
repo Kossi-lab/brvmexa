@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-26T16:15:35.426Z",
+ "updatedAt": "2026-11-26T16:30:27.705Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -17,6 +17,39 @@
     "19 PAGES"
    ],
    "pinned": true
+  },
+  {
+   "id": "sika-65982",
+   "title": "La BRVM enregistre une quatrième baisse d'affilée ce jeudi 26 novembre",
+   "summary": "La Bourse régionale subit une nouvelle contraction généralisée, marquée par le recul de ses indices principaux malgré la résistance de quelques titres.",
+   "body": [
+    "Ce jeudi 26 novembre, la Bourse régionale a prolongé sa série négative pour la quatrième séance consécutive. La tendance est restée dominée par les vendeurs, touchant l'ensemble de la cote où 29 actions ont fini dans le rouge, contre seulement 9 progressions parmi les 48 valeurs suivies. Le BRVM-Composite a ainsi chuté de 2,41 % pour s'établir à 453,57 points. Le BRVM-30 et le BRVM-Prestige ont suivi la même trajectoire, essuyant des pertes respectives de 2,52 % et de 2,77 %.",
+    "Plusieurs poids lourds de la cote ont lourdement pesé sur la tendance. Le titre Orange Côte d'Ivoire a fléchi de 7,05 % à 17 195 FCFA, provoquant à lui seul une érosion de 196,6 milliards FCFA de sa capitalisation. Dans le même temps, Unilever CI a accusé la baisse maximale de la séance avec un repli de 7,50 % à 38 850 FCFA, talonné par Solibra CI qui a perdu 6,87 % à 34 005 FCFA.",
+    "À l'inverse, NSIA Banque CI a réussi à tirer son épingle du jeu en affichant la plus forte hausse de la journée, s'appréciant de 7,50 % à 16 125 FCFA. Elle a été accompagnée par Bank of Africa Mali et Sucrivoire CI, qui ont progressé respectivement de 5,64 % et de 4,49 %. Du côté des transactions, le volume global a atteint 2,05 milliards FCFA, dominé par Société Générale Côte d'Ivoire qui a capté 649,98 millions FCFA, soit près de 32 % du total des échanges."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65982",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-26T16:16:00Z",
+   "writtenAt": "2026-11-26T16:30:27.702Z",
+   "symbols": [
+    "BOAM",
+    "NSBC",
+    "ORAC",
+    "SCRC",
+    "SGBC",
+    "SLBC",
+    "UNLC"
+   ],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/brvm-nsia-banque-ci-a-contre-courant-d-un-marche-sous-pression_65982",
+    "title": "BRVM : NSIA Banque CI à contre-courant d'un marché sous pression"
+   },
+   "rewritten": true
   },
   {
    "id": "sika-65981",
@@ -3775,30 +3808,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/distribution-cybersecurite-integration-ou-se-trouve-l-argent-dans-la-tech-ivoirienne-_65755",
     "title": "Distribution, cybersécurité, intégration : Où se trouve l'argent dans la Tech ivoirienne ?"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65753",
-   "title": "Cybersécurité : l'IA et le cloud au cœur des budgets des entreprises pour 2027",
-   "summary": "Face à la recrudescence des cyberattaques, les entreprises privilégient l'externalisation de leur sécurité. Le rapport PwC 2027 souligne une hausse massive des investissements dédiés à l'intelligence artificielle et au cloud.",
-   "body": [
-    "Selon l'étude '2027 Global Digital Trust Insights' de PwC, menée auprès de 3 934 dirigeants, les entreprises se tournent vers des prestataires spécialisés pour pallier le manque d'experts internes. La gestion de l'intelligence artificielle (53%), la sécurisation des données en ligne (49%) et la protection des informations sensibles (42%) constituent les priorités majeures confiées à ces fournisseurs.",
-    "Face à une menace numérique croissante, 84% des décideurs prévoient d'accroître leurs budgets de cybersécurité en 2027. Si l'IA est un levier de défense, elle représente aussi un risque, 50% des responsables de la sécurité craignant des attaques ciblant directement leurs modèles. Malgré ces investissements, la résilience reste un défi : seuls 39% des dirigeants disposent d'un plan d'urgence opérationnel en cas d'incident."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65753",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-16T14:14:00Z",
-   "writtenAt": "2026-11-16T20:42:22.969Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/cybersecurite-lia-et-le-cloud-en-tete-des-priorites-confiees-aux-fournisseurs-de-services-manages_65753",
-    "title": "Cybersécurité : L’IA et le cloud en tête des priorités confiées aux fournisseurs de services managés"
    },
    "rewritten": true
   }
