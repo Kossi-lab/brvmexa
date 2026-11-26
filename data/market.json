@@ -1,15 +1,15 @@
 {
- "updatedAt": "2026-11-26T14:45:15.282Z",
+ "updatedAt": "2026-11-26T14:48:29.742Z",
  "sessionDate": "2026-11-26",
  "sessionTime": "14:30",
  "source": "brvm.org",
- "transactionsValue": 2035619050,
- "capitalisationActions": 17789493423222,
+ "transactionsValue": 2053536095,
+ "capitalisationActions": 17786572515422,
  "capitalisationBonds": 13416988725371,
- "advancing": 10,
+ "advancing": 9,
  "declining": 29,
- "unchanged": 9,
- "totalVolume": 1556133,
+ "unchanged": 10,
+ "totalVolume": 1560645,
  "gainers": [
   {
    "symbol": "NSBC",
@@ -17,13 +17,6 @@
    "close": 16125,
    "change": 7.5,
    "volume": 2707
-  },
-  {
-   "symbol": "CIEC",
-   "shortName": "CIE Côte d’Ivoire",
-   "close": 4240,
-   "change": 6,
-   "volume": 1591
   },
   {
    "symbol": "BOAM",
@@ -37,14 +30,21 @@
    "shortName": "Sucrivoire CI",
    "close": 1395,
    "change": 4.49,
-   "volume": 17396
+   "volume": 17577
   },
   {
    "symbol": "STAC",
    "shortName": "SETAO CI",
-   "close": 2395,
-   "change": 4.13,
-   "volume": 5074
+   "close": 2390,
+   "change": 3.91,
+   "volume": 5224
+  },
+  {
+   "symbol": "ONTBF",
+   "shortName": "Onatel Burkina Faso",
+   "close": 2895,
+   "change": 3.39,
+   "volume": 5920
   }
  ],
  "losers": [
@@ -63,6 +63,13 @@
    "volume": 3142
   },
   {
+   "symbol": "SLBC",
+   "shortName": "Solibra CI",
+   "close": 34005,
+   "change": -6.87,
+   "volume": 938
+  },
+  {
    "symbol": "SHEC",
    "shortName": "Vivo Energy CI",
    "close": 1795,
@@ -70,18 +77,11 @@
    "volume": 4284
   },
   {
-   "symbol": "NEIC",
-   "shortName": "NEI-CEDA CI",
-   "close": 1700,
-   "change": -5.29,
-   "volume": 484
-  },
-  {
-   "symbol": "SAFC",
-   "shortName": "SAFCA CI",
-   "close": 2795,
-   "change": -3.62,
-   "volume": 5899
+   "symbol": "ECOC",
+   "shortName": "Ecobank Côte d’Ivoire",
+   "close": 14000,
+   "change": -3.45,
+   "volume": 2383
   }
  ],
  "mostActive": [
@@ -95,9 +95,9 @@
   {
    "symbol": "SNTS",
    "shortName": "Sonatel",
-   "close": 3650,
-   "change": -2.67,
-   "volume": 92007
+   "close": 3690,
+   "change": -1.6,
+   "volume": 94427
   },
   {
    "symbol": "BOAC",
@@ -111,14 +111,14 @@
    "shortName": "Société Ivoirienne de Banque",
    "close": 7680,
    "change": -3.4,
-   "volume": 16782
+   "volume": 16792
   },
   {
    "symbol": "BBGC",
    "shortName": "Bridge Bank Group CI",
-   "close": 7900,
-   "change": 1.28,
-   "volume": 8780
+   "close": 7700,
+   "change": -1.28,
+   "volume": 9080
   }
  ]
 }
