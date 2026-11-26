@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-26T18:00:32.198Z",
+ "updatedAt": "2026-11-26T18:15:33.063Z",
  "items": [
+  {
+   "id": "sika-65984",
+   "title": "Côte d’Ivoire : Ces 10 plus grandes entreprises ayant dépassé pour la 1ère fois les 100 milliards FCFA de chiffre d’affaires en 2025",
+   "summary": "Entre infrastructures, agro-industrie, distribution et jeux en ligne, un nouveau groupe d'entreprises s'installe dans l...",
+   "url": "https://www.sikafinance.com/marches/cote-divoire-ces-10-plus-grandes-entreprises-ayant-depasse-pour-la-1ere-fois-les-100-milliards-fcfa-de-chiffre-daffaires-en-2025_65984",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-11-26T18:00:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65983",
    "title": "Les 7 pays africains où les grandes entreprises soutiennent le plus les startups technologiques",
@@ -132,20 +146,6 @@
    "tries": 1
   },
   {
-   "id": "sika-65965",
-   "title": "Sénégal : Le secteur privé retrouve de ‘’l’appétit’’ sur le marché financier régional",
-   "summary": "Au Sénégal après un temps d'accalmie marqué par de nombreuses opérations de l'État, le secteur privé semble avoi...",
-   "url": "https://www.sikafinance.com/marches/senegal-le-secteur-prive-retrouve-de-lappetit-sur-le-marche-financier-regional_65965",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-26T09:16:00Z",
-   "symbols": [],
-   "status": "done",
-   "tries": 1
-  },
-  {
    "id": "sika-65963",
    "title": "Sénégal : 3MD INDUSTRIES s’allie à l’APIX et engage près de 3 milliards FCFA d’investissement dans la zone économique de Diass",
    "summary": "Au Sénégal, l'ambition d'industrialisation se poursuit avec la Zone économique spéciale intégrée de Diass (ZESID). Dans...",
@@ -169,6 +169,20 @@
    "category": "Marchés",
    "premium": true,
    "publishedAt": "2026-11-26T08:40:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "gn-rc5rt",
+   "title": "Sénégal : Le secteur privé retrouve de ‘’l’appétit’’ sur le marché financier régional",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUHI0MHQwNGkyYlZkSWxsZ0tDT3VOUVgyWUxPYk9rT1R3MzRHS3M5V0laTGtNa1pEUFpvMVY2bnNRc1k0QWFFWG5zWEotUDM1UGJQeHpHa2JGeVBnR3JVM1dkVFBFU2lXWWt2RXVBbkw2NGhSajQ5R1JkUUNWUEZHNDZ6aGdrV3VUb1ZaVi12VE1MRDhsSUZjaUpyQ25nM1BpeG1mV3dqVGdLTm13emx1bnJUSU4tRHZTYUtGLQ?oc=5",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-26T08:16:04.000Z",
    "symbols": [],
    "status": "done",
    "tries": 1
@@ -4299,20 +4313,6 @@
    "category": "Presse",
    "premium": false,
    "publishedAt": "2026-11-04T09:21:35.000Z",
-   "symbols": [],
-   "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "sika-65480",
-   "title": "Côte d’Ivoire : Sept banques locales mobilisent 148 milliards FCFA pour la construction de la mine d’or de Doropo",
-   "summary": "Dans la région du Bounkani, au nord-est de la Côte d'Ivoire, à environ 650 kilomètres d'Abidjan, le sous-sol ivoi...",
-   "url": "https://www.sikafinance.com/marches/cote-divoire-sept-banques-locales-mobilisent-148-milliards-fcfa-pour-la-construction-de-la-mine-dor-de-doropo_65480",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-04T08:19:00Z",
    "symbols": [],
    "status": "done",
    "tries": 1
