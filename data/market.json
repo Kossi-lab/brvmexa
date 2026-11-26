@@ -1,22 +1,22 @@
 {
- "updatedAt": "2026-11-26T14:30:17.883Z",
+ "updatedAt": "2026-11-26T14:33:30.307Z",
  "sessionDate": "2026-11-26",
- "sessionTime": "14:15",
+ "sessionTime": "14:30",
  "source": "brvm.org",
- "transactionsValue": 1970528402,
- "capitalisationActions": 17806608621554,
+ "transactionsValue": 2035619050,
+ "capitalisationActions": 17789493423222,
  "capitalisationBonds": 13416988725371,
- "advancing": 12,
- "declining": 26,
- "unchanged": 10,
- "totalVolume": 1545950,
+ "advancing": 10,
+ "declining": 29,
+ "unchanged": 9,
+ "totalVolume": 1556133,
  "gainers": [
   {
    "symbol": "NSBC",
    "shortName": "NSIA Banque CI",
    "close": 16125,
    "change": 7.5,
-   "volume": 2673
+   "volume": 2707
   },
   {
    "symbol": "CIEC",
@@ -30,7 +30,14 @@
    "shortName": "BOA Mali",
    "close": 5150,
    "change": 5.64,
-   "volume": 8059
+   "volume": 8384
+  },
+  {
+   "symbol": "SCRC",
+   "shortName": "Sucrivoire CI",
+   "close": 1395,
+   "change": 4.49,
+   "volume": 17396
   },
   {
    "symbol": "STAC",
@@ -38,13 +45,6 @@
    "close": 2395,
    "change": 4.13,
    "volume": 5074
-  },
-  {
-   "symbol": "SCRC",
-   "shortName": "Sucrivoire CI",
-   "close": 1390,
-   "change": 4.12,
-   "volume": 17312
   }
  ],
  "losers": [
@@ -60,14 +60,14 @@
    "shortName": "Orange Côte d’Ivoire",
    "close": 17195,
    "change": -7.05,
-   "volume": 3069
+   "volume": 3142
   },
   {
    "symbol": "SHEC",
    "shortName": "Vivo Energy CI",
    "close": 1795,
    "change": -5.53,
-   "volume": 4109
+   "volume": 4284
   },
   {
    "symbol": "NEIC",
@@ -77,20 +77,20 @@
    "volume": 484
   },
   {
-   "symbol": "SIBC",
-   "shortName": "Société Ivoirienne de Banque",
-   "close": 7600,
-   "change": -4.4,
-   "volume": 16604
+   "symbol": "SAFC",
+   "shortName": "SAFCA CI",
+   "close": 2795,
+   "change": -3.62,
+   "volume": 5899
   }
  ],
  "mostActive": [
   {
    "symbol": "SGBC",
    "shortName": "Société Générale CI",
-   "close": 36495,
-   "change": -1.36,
-   "volume": 18044
+   "close": 36500,
+   "change": -1.35,
+   "volume": 18242
   },
   {
    "symbol": "SNTS",
@@ -102,16 +102,16 @@
   {
    "symbol": "BOAC",
    "shortName": "BOA Côte d’Ivoire",
-   "close": 10585,
-   "change": -2.4,
-   "volume": 13005
+   "close": 10590,
+   "change": -2.35,
+   "volume": 13304
   },
   {
    "symbol": "SIBC",
    "shortName": "Société Ivoirienne de Banque",
-   "close": 7600,
-   "change": -4.4,
-   "volume": 16604
+   "close": 7680,
+   "change": -3.4,
+   "volume": 16782
   },
   {
    "symbol": "BBGC",
