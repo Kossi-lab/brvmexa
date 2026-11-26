@@ -1,6 +1,22 @@
 {
- "updatedAt": "2026-11-26T12:00:36.839Z",
+ "updatedAt": "2026-11-26T12:16:54.769Z",
  "items": [
+  {
+   "id": "sika-65973",
+   "title": "Société Générale Côte d’Ivoire s’allie à la BERD pour mobiliser 250 millions d’euros en faveur des entreprises",
+   "summary": "Le financement des entreprises ivoiriennes franchit une étape nouvelle avec le rapprochement entre Société Générale C&o...",
+   "url": "https://www.sikafinance.com/marches/societe-generale-cote-divoire-sallie-a-la-berd-pour-mobiliser-250-millions-deuros-en-faveur-des-entreprises_65973",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-26T11:51:00Z",
+   "symbols": [
+    "SGBC"
+   ],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65971",
    "title": "Côte d’Ivoire : Le gouvernement approuve le contrat de déploiement de dix centres de livraison médicale par drones",
@@ -4299,22 +4315,6 @@
    "publishedAt": "2026-11-03T17:12:00Z",
    "symbols": [
     "BOAC"
-   ],
-   "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "sika-65472",
-   "title": "JONPCI 2026 : NSIA Banque CI réaffirme son engagement aux côtés des professionnels de santé",
-   "summary": "À l'occasion des Journées de l'Ordre National des Pharmaciens de Côte d'Ivoire (JNOPCI) 2026, organisées l...",
-   "url": "https://www.sikafinance.com/marches/jonpci-2026-nsia-banque-ci-reaffirme-son-engagement-aux-cotes-des-professionnels-de-sante_65472",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-03T17:03:00Z",
-   "symbols": [
-    "NSBC"
    ],
    "status": "done",
    "tries": 1
