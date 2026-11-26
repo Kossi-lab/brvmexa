@@ -1,15 +1,15 @@
 {
- "updatedAt": "2026-11-26T15:00:20.419Z",
+ "updatedAt": "2026-11-26T15:03:31.143Z",
  "sessionDate": "2026-11-26",
- "sessionTime": "14:45",
+ "sessionTime": "15:02",
  "source": "brvm.org",
- "transactionsValue": 2053536095,
+ "transactionsValue": 2053606095,
  "capitalisationActions": 17786572515422,
  "capitalisationBonds": 13416988725371,
  "advancing": 9,
  "declining": 29,
  "unchanged": 10,
- "totalVolume": 1560645,
+ "totalVolume": 1560673,
  "gainers": [
   {
    "symbol": "NSBC",
