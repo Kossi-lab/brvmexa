@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-26T15:30:25.216Z",
+ "updatedAt": "2026-11-26T15:45:25.573Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -17,6 +17,30 @@
     "19 PAGES"
    ],
    "pinned": true
+  },
+  {
+   "id": "sika-65980",
+   "title": "Côte d'Ivoire : dix nouveaux permis de recherche minière octroyés par le gouvernement",
+   "summary": "Le gouvernement ivoirien a validé l'octroi de dix permis de recherche minière, valables quatre ans, pour diversifier l'exploitation des ressources nationales.",
+   "body": [
+    "Lors du Conseil des ministres du 25 novembre, dix décrets ont été adoptés pour autoriser l'exploration minière dans plusieurs localités. Ces permis, d'une durée de quatre ans, concernent l'or, le lithium, le coltan, le cuivre, le manganèse, le fer et le chrome, sous réserve du respect des normes environnementales et techniques.",
+    "L'or demeure la ressource prioritaire avec huit permis dédiés, dont ceux attribués à Magic Mineral Structure, Tietto Minerals Côte d'Ivoire, Flower Holding, Shark Mining CDI, Tougo Resources et Boxworx Metals. Parallèlement, Argil Mining Co Ltd, Switch Metals CI et Simba Exploration diversifient leurs recherches vers des minerais stratégiques comme le lithium et le coltan."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65980",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-26T15:28:00Z",
+   "writtenAt": "2026-11-26T15:45:25.570Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/cote-divoire-dix-nouveaux-permis-de-recherche-miniere-attribues-a-des-entreprises_65980",
+    "title": "Côte d’Ivoire : Dix nouveaux permis de recherche minière attribués à des entreprises"
+   },
+   "rewritten": true
   },
   {
    "id": "sika-65975",
@@ -3775,30 +3799,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/umoa-pres-dune-banque-sur-4-perd-de-largent-le-revers-cache-du-classement-des-plus-rentables_65749",
     "title": "UMOA : Près d’une banque sur 4 perd de l’argent, le revers caché du classement des plus rentables"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65750",
-   "title": "SIREXE 2026 : Le centre de recherche de PETROCI dévoile ses coulisses scientifiques",
-   "summary": "À l'occasion du SIREXE 2026 qui débute ce mercredi 18 novembre, le Centre d'analyses et de recherche de PETROCI ouvre ses portes pour présenter ses activités techniques et scientifiques.",
-   "body": [
-    "Dès ce mercredi 18 novembre, le public pourra découvrir les installations du Centre d'analyses et de recherche de PETROCI, situé à Yopougon. Cette immersion, organisée dans le cadre du SIREXE 2026, mettra en lumière les étapes invisibles de la chaîne pétrolière, allant de l'étude géologique des sous-sols au contrôle qualité des carburants distribués aux consommateurs.",
-    "Le parcours permettra d'explorer la carothèque, véritable mémoire géologique du pays, ainsi que les laboratoires de géochimie utilisant des technologies de pointe pour identifier la signature chimique des hydrocarbures. Enfin, les visiteurs pourront observer les tests de conformité appliqués aux produits pétroliers, tels que l'essence ou le gaz, soulignant l'importance de l'expertise scientifique dans la gestion des ressources nationales."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65750",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-16T13:02:00Z",
-   "writtenAt": "2026-11-16T20:42:42.007Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/sirexe-2026-ce-que-le-centre-danalyses-et-de-recherche-de-petroci-sapprete-a-reveler-au-public_65750",
-    "title": "SIREXE 2026 : Ce que le Centre d’analyses et de recherche de PETROCI s’apprête à révéler au public"
    },
    "rewritten": true
   }

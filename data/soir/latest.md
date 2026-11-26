@@ -1,7 +1,7 @@
 # BRVMexa Soir — jeudi 26 novembre 2026
 
-> Script généré automatiquement le 2026-11-26 à 15:30 GMT à partir des données publiées (source des cours : brvm.org, données différées).
-> **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 3,9 minutes (586 mots).
+> Script généré automatiquement le 2026-11-26 à 15:45 GMT à partir des données publiées (source des cours : brvm.org, données différées).
+> **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 3,8 minutes (576 mots).
 
 ## 0:00 · Générique
 
@@ -37,8 +37,8 @@ Le Groupe Coris poursuit son expansion régionale en introduisant sa filiale bé
 Les investisseurs pourront souscrire à ces actions du 7 au 11 décembre 2026 au prix unitaire de 4 700 FCFA. Une mesure incitative a été prévue pour le personnel de la banque, qui bénéficiera d'un tarif préférentiel de 3 760 FCFA.
 Retrouvez l’article complet dans la rubrique À la une de BRVMexa.
 En bref :
+Côte d'Ivoire : dix nouveaux permis de recherche minière octroyés par le gouvernement. Le gouvernement ivoirien a validé l'octroi de dix permis de recherche minière, valables quatre ans, pour diversifier l'exploitation des ressources nationales.
 La raffinerie Dangote fera ses débuts à la Bourse de Lagos le 1er décembre 2026. La raffinerie Dangote s'apprête à faire son entrée sur le Nigerian Exchange après une introduction en Bourse marquée par une forte demande des investisseurs.
-Société Générale Côte d’Ivoire et la BERD unissent leurs forces pour un financement de 250 millions d'euros. Société Générale Côte d'Ivoire et la BERD s'associent à travers un accord de 250 millions d'euros afin d'accroître le soutien financier aux entreprises et aux PME locales.
 
 ## 3:15 · Le mot de la fin
 

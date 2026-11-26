@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-26T15:30:25.214Z",
+ "updatedAt": "2026-11-26T15:45:25.571Z",
  "items": [
+  {
+   "id": "sika-65980",
+   "title": "Côte d’Ivoire : Dix nouveaux permis de recherche minière attribués à des entreprises",
+   "summary": "La Côte d'Ivoire poursuit l'intensification de l'exploration de son potentiel minier. Le gouvernement a approuvé,...",
+   "url": "https://www.sikafinance.com/marches/cote-divoire-dix-nouveaux-permis-de-recherche-miniere-attribues-a-des-entreprises_65980",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-26T15:28:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65975",
    "title": "Nigeria : La raffinerie Dangote fera son entrée à la Bourse de Lagos le 1er décembre",
@@ -4300,22 +4314,6 @@
    "symbols": [],
    "status": "done",
    "tries": 1
-  },
-  {
-   "id": "gn-1l1iy5j",
-   "title": "BRVM : le fractionnement du titre Sonatel dope l’intérêt des investisseurs",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZjdiRmFsRHNLZUk0MlFXOEFGYkg1OVIwdmZQcWVvSldYak8tUV9raUIwQUt6OVFIQkxIMWNQUFBsWFZIbGVHajlOVkhSSVlVT1ZMN3REaWgwZHBudlFsX3hYNC0wTjFCdkw1RGNGYkt5REpiTklHUmo0bnJhRGhqRnhod2N6UlBDVFdjQXBfdy1JS3NubWUzcGliQnljaFk?oc=5",
-   "image": null,
-   "source": "Forbes Afrique",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-10-28T07:00:00.000Z",
-   "symbols": [
-    "SNTS"
-   ],
-   "status": "new",
-   "tries": 0
   }
  ]
 }
