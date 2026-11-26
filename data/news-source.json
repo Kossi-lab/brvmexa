@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-26T17:15:20.958Z",
+ "updatedAt": "2026-11-26T17:30:23.422Z",
  "items": [
   {
    "id": "sika-65983",
@@ -185,22 +185,6 @@
    "publishedAt": "2026-11-26T08:01:00Z",
    "symbols": [],
    "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "gn-1gfad7o",
-   "title": "Sogb Côte d'Ivoire (SOGC) — BRVM",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sZUtjYXhXV041LTR6dVZsNkFvNzVIUXFtWlBibk55VUdnOV9OcEVSQzY3N1EzMGlhbEVJRFdBaUdPZ3dXLUpSUWppRXZZT1JTU29NeVJibE5XQU9UMkdLTWMyNEhzdw?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-11-25T21:09:33.000Z",
-   "symbols": [
-    "SOGC"
-   ],
-   "status": "skip",
    "tries": 1
   },
   {
@@ -876,22 +860,6 @@
    "tries": 1
   },
   {
-   "id": "gn-1apynbn",
-   "title": "Air Liquide Côte d'Ivoire (SIVC) — BRVM",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01TU9WZUExelpvaEV5MlVDV0Y5blVQalVYRmVkWXFWUVVvS3RZUXctR1dObXR5di1GeFoyc2lTN0dmNTgzbEpYVGtWdVpod0FrS0Jfc0hCcmZGTmhYakpnNEZWM3Nrdw?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-11-23T21:36:15.000Z",
-   "symbols": [
-    "SIVC"
-   ],
-   "status": "new",
-   "tries": 0
-  },
-  {
    "id": "sika-65898",
    "title": "Burkina : Inauguration d’une académie technologique de plus de 37 milliards FCFA pour accélérer la souveraineté industrielle",
    "summary": "Le Burkina Faso entend faire de la maîtrise technologique un nouveau moteur de sa transformation économique. Pour...",
@@ -1463,6 +1431,22 @@
    "publishedAt": "2026-11-20T09:35:00Z",
    "symbols": [],
    "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "gn-1gfad7o",
+   "title": "Sogb Côte d'Ivoire (SOGC) — BRVM",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sZUtjYXhXV041LTR6dVZsNkFvNzVIUXFtWlBibk55VUdnOV9OcEVSQzY3N1EzMGlhbEVJRFdBaUdPZ3dXLUpSUWppRXZZT1JTU29NeVJibE5XQU9UMkdLTWMyNEhzdw?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-20T08:00:00.000Z",
+   "symbols": [
+    "SOGC"
+   ],
+   "status": "skip",
    "tries": 1
   },
   {
@@ -4318,6 +4302,20 @@
    "symbols": [],
    "status": "done",
    "tries": 1
+  },
+  {
+   "id": "gn-24mewh",
+   "title": "La BRVM évoque l'ouverture de l'introduction en bourse de la raffinerie Dangote",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaEJMeEdnMEk2dWIxMzktWHB5aE55VlhlV3hTR1ppcUo1UU9Tb2I4QmxPZGo3RHBjRk1KMHRfcjVqdUlEMzFwTUJvRWxFczBfQkxlTktRVWFfd0ZWTEVuQU5lYUZydXVKeENhV1gwY1I1OHpSWEZCY0FsYzJCZXYxTzROclZkT3hUWkxGVmxoMTVBNWwzWGNkbWRTS2VyZ3lXM0E?oc=5",
+   "image": null,
+   "source": "energynews.pro",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-04T08:00:00.000Z",
+   "symbols": [],
+   "status": "new",
+   "tries": 0
   }
  ]
 }
