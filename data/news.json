@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-26T16:00:28.947Z",
+ "updatedAt": "2026-11-26T16:15:35.426Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -17,6 +17,30 @@
     "19 PAGES"
    ],
    "pinned": true
+  },
+  {
+   "id": "sika-65981",
+   "title": "Côte d'Ivoire : la dématérialisation fiscale atteint 79 % des recettes en 2025",
+   "summary": "La plateforme e-impôts s'est imposée comme le canal privilégié de collecte fiscale en Côte d'Ivoire, traitant une large majorité des recettes nationales au cours de l'année 2025.",
+   "body": [
+    "L'administration fiscale ivoirienne a franchi une étape significative dans sa transition numérique en 2025. Sur cette période, 79 % des recettes fiscales totales ont été encaissées via le portail électronique e-impôts.",
+    "Au total, 85 404 contribuables ont eu recours à cet outil digital pour s'acquitter de leurs obligations. Ces transactions ont représenté un volume financier de 2 843,6 milliards de francs CFA collectés par voie dématérialisée."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65981",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-26T15:59:00Z",
+   "writtenAt": "2026-11-26T16:15:35.423Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/cote-divoire-79-des-recettes-fiscales-collectees-par-voie-electronique-en-2025_65981",
+    "title": "Côte d’Ivoire : 79% des recettes fiscales collectées par voie électronique en 2025"
+   },
+   "rewritten": true
   },
   {
    "id": "sika-65980",
@@ -3775,30 +3799,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/cybersecurite-lia-et-le-cloud-en-tete-des-priorites-confiees-aux-fournisseurs-de-services-manages_65753",
     "title": "Cybersécurité : L’IA et le cloud en tête des priorités confiées aux fournisseurs de services managés"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65749",
-   "title": "Rentabilité bancaire dans l'UEMOA : une analyse contrastée pour l'exercice 2024",
-   "summary": "Si le secteur bancaire de l'UEMOA affiche une rentabilité moyenne de 15,2 % pour l'année 2024, une analyse détaillée révèle que près d'un quart des établissements financiers sont déficitaires.",
-   "body": [
-    "Le secteur bancaire au sein de l'Union monétaire ouest-africaine (UMOA) présente un bilan mitigé pour l'année 2024. En moyenne, chaque tranche de 100 FCFA investie dans les établissements de la zone a généré un profit de 15,2 FCFA.",
-    "Toutefois, cette performance globale masque une réalité plus complexe. Derrière les chiffres flatteurs des banques les plus rentables, près de 25 % des institutions financières de la région ont clôturé l'exercice sur des pertes, soulignant une disparité marquée au sein du paysage bancaire."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65749",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-16T13:07:00Z",
-   "writtenAt": "2026-11-16T20:42:33.078Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/umoa-pres-dune-banque-sur-4-perd-de-largent-le-revers-cache-du-classement-des-plus-rentables_65749",
-    "title": "UMOA : Près d’une banque sur 4 perd de l’argent, le revers caché du classement des plus rentables"
    },
    "rewritten": true
   }
