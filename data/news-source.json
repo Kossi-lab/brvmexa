@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-26T10:15:22.890Z",
+ "updatedAt": "2026-11-26T10:30:25.505Z",
  "items": [
+  {
+   "id": "sika-65968",
+   "title": "Côte d’Ivoire : A la tonne, les produits transformés exportés rapportent deux fois plus que les bruts",
+   "summary": "Avec un cinquième des tonnages agricoles exportés, la première transformation génère un tiers de la valeur. Dans la sou...",
+   "url": "https://www.sikafinance.com/marches/cote-divoire-a-la-tonne-les-produits-transformes-exportes-rapportent-deux-fois-plus-que-les-bruts_65968",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-11-26T10:21:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65965",
    "title": "Sénégal : Le secteur privé retrouve de ‘’l’appétit’’ sur le marché financier régional",
@@ -4300,22 +4314,6 @@
    "premium": false,
    "publishedAt": "2026-11-03T16:12:00Z",
    "symbols": [],
-   "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "sika-65464",
-   "title": "SOLIBRA : La croissance commerciale se heurte à la pression des coûts à fin juin 2026",
-   "summary": "La Société de limonaderies et boissons rafraîchissantes d'Afrique poursuit sa progression au premier semestre 202...",
-   "url": "https://www.sikafinance.com/marches/solibra-la-croissance-commerciale-se-heurte-a-la-pression-des-couts-a-fin-juin-2026_65464",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": true,
-   "publishedAt": "2026-11-03T14:29:00Z",
-   "symbols": [
-    "SLBC"
-   ],
    "status": "done",
    "tries": 1
   }

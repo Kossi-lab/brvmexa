@@ -1,7 +1,7 @@
 # BRVMexa Soir — jeudi 26 novembre 2026
 
-> Script généré automatiquement le 2026-11-26 à 10:15 GMT à partir des données publiées (source des cours : brvm.org, données différées).
-> **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 3,7 minutes (561 mots).
+> Script généré automatiquement le 2026-11-26 à 10:30 GMT à partir des données publiées (source des cours : brvm.org, données différées).
+> **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 3,8 minutes (574 mots).
 
 ## 0:00 · Générique
 
@@ -11,24 +11,24 @@
 
 Bonsoir et bienvenue dans BRVMexa Soir, nous sommes le jeudi 26 novembre 2026.
 Au programme ce soir : une BRVM en repli, avec nettement plus de baisses que de hausses.
-BICI Côte d’Ivoire signe la meilleure performance du jour.
+CIE Côte d’Ivoire signe la meilleure performance du jour.
 Et à la une : Coris Bank International Bénin s'apprête à faire son entrée à la BRVM.
 
 ## 0:30 · La séance
 
 Commençons par le marché.
-L’indice BRVM Composite, qui regroupe toutes les actions, termine à 462 points, en baisse de 0,5 %.
-Le BRVM 30, l’indice des trente valeurs les plus actives, est en baisse de 0,7 %, et le BRVM Prestige en baisse de 0,8 %.
-Sur l’ensemble de la séance, 12 actions ont progressé, 22 ont reculé et 14 sont restées stables.
-Côté activité, environ 227 millions de francs CFA ont été échangés aujourd’hui.
-Du côté des secteurs, les Services financiers recule le plus, en baisse de 1,1 %.
+L’indice BRVM Composite, qui regroupe toutes les actions, termine à 461 points, en baisse de 0,8 %.
+Le BRVM 30, l’indice des trente valeurs les plus actives, est en baisse de 0,8 %, et le BRVM Prestige en baisse de 1,1 %.
+Sur l’ensemble de la séance, 9 actions ont progressé, 29 ont reculé et 10 sont restées stables.
+Côté activité, environ 301 millions de francs CFA ont été échangés aujourd’hui.
+Du côté des secteurs, meilleur score pour les Services publics, en hausse de 4,0 %, tandis que la Consommation discrétionnaire ferme la marche, en baisse de 4,1 %.
 
 ## 1:15 · Le palmarès
 
-Dans le haut du tableau, BICI Côte d’Ivoire gagne 3,5 % à 30 000 francs CFA.
-Suivent BOA Mali, en hausse de 2,6 %, et Bridge Bank Group CI, en hausse de 1,3 %.
-En bas du tableau, SETAO CI cède 7,0 %, SAFCA CI 6,9 % et NEI-CEDA CI 6,7 %.
-La valeur la plus échangée du jour est Sonatel, avec 18 975 titres, à 3 750 francs CFA, stable.
+Dans le haut du tableau, CIE Côte d’Ivoire gagne 6,0 % à 4 240 francs CFA.
+Suivent BICI Côte d’Ivoire, en hausse de 3,5 %, et BOA Mali, en hausse de 2,7 %.
+En bas du tableau, TotalEnergies Marketing CI cède 7,4 %, CFAO Motors CI 7,2 % et SETAO CI 7,0 %.
+La valeur la plus échangée du jour est Sonatel, avec 22 112 titres, à 3 790 francs CFA, en hausse de 1,1 %.
 
 ## 2:00 · L’actualité du jour
 
@@ -37,8 +37,8 @@ Le Groupe Coris poursuit son expansion régionale en introduisant sa filiale bé
 Les investisseurs pourront souscrire à ces actions du 7 au 11 décembre 2026 au prix unitaire de 4 700 FCFA. Une mesure incitative a été prévue pour le personnel de la banque, qui bénéficiera d'un tarif préférentiel de 3 760 FCFA.
 Retrouvez l’article complet dans la rubrique À la une de BRVMexa.
 En bref :
+Côte d'Ivoire : La transformation agricole booste la valeur des exportations. L'exportation de produits agricoles transformés en Côte d'Ivoire génère des revenus nettement supérieurs aux matières brutes, illustrant l'importance stratégique de la transformation locale.
 Sénégal : le secteur privé fait un retour remarqué sur le marché obligataire régional. Après une période dominée par les emprunts publics, les entreprises sénégalaises renouent avec le marché financier à travers d'importantes levées de fonds.
-Sénégal : 3MD INDUSTRIES investit près de 3 milliards FCFA dans la zone de Diass. L'entreprise 3MD INDUSTRIES s'associe à l'APIX pour implanter une unité de production d'équipements électriques au sein de la Zone économique spéciale intégrée de Diass.
 
 ## 3:15 · Le mot de la fin
 
