@@ -1,15 +1,15 @@
 {
- "updatedAt": "2026-11-26T14:15:17.088Z",
+ "updatedAt": "2026-11-26T14:18:29.506Z",
  "sessionDate": "2026-11-26",
- "sessionTime": "14:02",
+ "sessionTime": "14:15",
  "source": "brvm.org",
- "transactionsValue": 1966872252,
- "capitalisationActions": 17807261457804,
+ "transactionsValue": 1970528402,
+ "capitalisationActions": 17806608621554,
  "capitalisationBonds": 13416988725371,
  "advancing": 12,
  "declining": 26,
  "unchanged": 10,
- "totalVolume": 1545412,
+ "totalVolume": 1545950,
  "gainers": [
   {
    "symbol": "NSBC",
@@ -81,7 +81,7 @@
    "shortName": "Société Ivoirienne de Banque",
    "close": 7600,
    "change": -4.4,
-   "volume": 16156
+   "volume": 16604
   }
  ],
  "mostActive": [
@@ -111,7 +111,7 @@
    "shortName": "Société Ivoirienne de Banque",
    "close": 7600,
    "change": -4.4,
-   "volume": 16156
+   "volume": 16604
   },
   {
    "symbol": "BBGC",

@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-11-26T14:15:17.088Z",
+ "updatedAt": "2026-11-26T14:18:29.506Z",
  "sessionDate": "2026-11-26",
- "sessionTime": "14:02",
+ "sessionTime": "14:15",
  "source": "brvm.org",
  "items": [
   {
@@ -412,13 +412,13 @@
   {
    "symbol": "SAFC",
    "name": "SAFCA COTE D'IVOIRE",
-   "volume": 5809,
+   "volume": 5899,
    "prevClose": 2900,
-   "refPrice": 2800,
+   "refPrice": 2790,
    "open": 2700,
-   "close": 2850,
-   "change": -1.72,
-   "changeAbs": -50,
+   "close": 2795,
+   "change": -3.62,
+   "changeAbs": -105,
    "shortName": "SAFCA CI",
    "sector": "Services financiers",
    "country": "CI",
@@ -517,9 +517,9 @@
   {
    "symbol": "SIBC",
    "name": "SOCIETE IVOIRIENNE DE BANQUE COTE D'IVOIRE",
-   "volume": 16156,
+   "volume": 16604,
    "prevClose": 7950,
-   "refPrice": 7680,
+   "refPrice": 7600,
    "open": 7720,
    "close": 7600,
    "change": -4.4,

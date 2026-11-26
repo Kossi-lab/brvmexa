@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-11-26T14:15:17.088Z",
+ "updatedAt": "2026-11-26T14:18:29.506Z",
  "sessionDate": "2026-11-26",
- "sessionTime": "14:02",
+ "sessionTime": "14:15",
  "source": "brvm.org",
  "items": [
   {
@@ -9,8 +9,8 @@
    "name": "BRVM 30",
    "group": "main",
    "prevClose": 224.99,
-   "close": 219.45,
-   "change": -2.46,
+   "close": 219.44,
+   "change": -2.47,
    "ytd": 1.97
   },
   {
@@ -18,7 +18,7 @@
    "name": "BRVM Composite",
    "group": "main",
    "prevClose": 464.78,
-   "close": 454.09,
+   "close": 454.08,
    "change": -2.3,
    "ytd": 1.7
   },
@@ -36,8 +36,8 @@
    "name": "BRVM Principal",
    "group": "main",
    "prevClose": 315.2,
-   "close": 313.15,
-   "change": -0.65,
+   "close": 313.12,
+   "change": -0.66,
    "ytd": 0.78
   },
   {
@@ -81,8 +81,8 @@
    "name": "BRVM Services Financiers",
    "group": "main",
    "prevClose": 208.43,
-   "close": 206.09,
-   "change": -1.12,
+   "close": 206.08,
+   "change": -1.13,
    "ytd": 0.56
   },
   {
