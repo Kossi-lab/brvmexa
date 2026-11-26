@@ -1,7 +1,7 @@
 # BRVMexa Soir — jeudi 26 novembre 2026
 
-> Script généré automatiquement le 2026-11-26 à 10:00 GMT à partir des données publiées (source des cours : brvm.org, données différées).
-> **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 3,1 minutes (472 mots).
+> Script généré automatiquement le 2026-11-26 à 10:15 GMT à partir des données publiées (source des cours : brvm.org, données différées).
+> **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 3,7 minutes (561 mots).
 
 ## 0:00 · Générique
 
@@ -10,18 +10,25 @@
 ## 0:10 · Les titres
 
 Bonsoir et bienvenue dans BRVMexa Soir, nous sommes le jeudi 26 novembre 2026.
-Au programme ce soir : une BRVM quasiment stable.
+Au programme ce soir : une BRVM en repli, avec nettement plus de baisses que de hausses.
+BICI Côte d’Ivoire signe la meilleure performance du jour.
 Et à la une : Coris Bank International Bénin s'apprête à faire son entrée à la BRVM.
 
 ## 0:30 · La séance
 
 Commençons par le marché.
-L’indice BRVM Composite, qui regroupe toutes les actions, termine à 465 points, en baisse de 0,03 %.
-Le BRVM 30, l’indice des trente valeurs les plus actives, est en baisse de 0,04 %, et le BRVM Prestige en baisse de 0,08 %.
-Sur l’ensemble de la séance, 0 actions ont progressé, 0 ont reculé et 48 sont restées stables.
-Du côté des secteurs, meilleur score pour l’Énergie, en hausse de 0,1 %, tandis que les Services publics ferme la marche, en baisse de 0,3 %.
+L’indice BRVM Composite, qui regroupe toutes les actions, termine à 462 points, en baisse de 0,5 %.
+Le BRVM 30, l’indice des trente valeurs les plus actives, est en baisse de 0,7 %, et le BRVM Prestige en baisse de 0,8 %.
+Sur l’ensemble de la séance, 12 actions ont progressé, 22 ont reculé et 14 sont restées stables.
+Côté activité, environ 227 millions de francs CFA ont été échangés aujourd’hui.
+Du côté des secteurs, les Services financiers recule le plus, en baisse de 1,1 %.
 
 ## 1:15 · Le palmarès
+
+Dans le haut du tableau, BICI Côte d’Ivoire gagne 3,5 % à 30 000 francs CFA.
+Suivent BOA Mali, en hausse de 2,6 %, et Bridge Bank Group CI, en hausse de 1,3 %.
+En bas du tableau, SETAO CI cède 7,0 %, SAFCA CI 6,9 % et NEI-CEDA CI 6,7 %.
+La valeur la plus échangée du jour est Sonatel, avec 18 975 titres, à 3 750 francs CFA, stable.
 
 ## 2:00 · L’actualité du jour
 

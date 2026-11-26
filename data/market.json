@@ -1,16 +1,124 @@
 {
- "updatedAt": "2026-11-26T10:00:29.976Z",
+ "updatedAt": "2026-11-26T10:15:15.811Z",
  "sessionDate": "2026-11-26",
- "sessionTime": "09:45",
+ "sessionTime": "10:02",
  "source": "brvm.org",
- "transactionsValue": 0,
- "capitalisationActions": 18226419319289,
+ "transactionsValue": 227110566,
+ "capitalisationActions": 18127999375915,
  "capitalisationBonds": 13416988725371,
- "advancing": 0,
- "declining": 0,
- "unchanged": 48,
- "totalVolume": 0,
- "gainers": [],
- "losers": [],
- "mostActive": []
+ "advancing": 12,
+ "declining": 22,
+ "unchanged": 14,
+ "totalVolume": 262693,
+ "gainers": [
+  {
+   "symbol": "BICC",
+   "shortName": "BICI Côte d’Ivoire",
+   "close": 30000,
+   "change": 3.45,
+   "volume": 19
+  },
+  {
+   "symbol": "BOAM",
+   "shortName": "BOA Mali",
+   "close": 5000,
+   "change": 2.56,
+   "volume": 2640
+  },
+  {
+   "symbol": "BBGC",
+   "shortName": "Bridge Bank Group CI",
+   "close": 7900,
+   "change": 1.28,
+   "volume": 1187
+  },
+  {
+   "symbol": "BOAB",
+   "shortName": "BOA Bénin",
+   "close": 8150,
+   "change": 0.99,
+   "volume": 232
+  },
+  {
+   "symbol": "SCRC",
+   "shortName": "Sucrivoire CI",
+   "close": 1345,
+   "change": 0.75,
+   "volume": 2761
+  }
+ ],
+ "losers": [
+  {
+   "symbol": "STAC",
+   "shortName": "SETAO CI",
+   "close": 2140,
+   "change": -6.96,
+   "volume": 135
+  },
+  {
+   "symbol": "SAFC",
+   "shortName": "SAFCA CI",
+   "close": 2700,
+   "change": -6.9,
+   "volume": 765
+  },
+  {
+   "symbol": "NEIC",
+   "shortName": "NEI-CEDA CI",
+   "close": 1675,
+   "change": -6.69,
+   "volume": 61
+  },
+  {
+   "symbol": "ETIT",
+   "shortName": "Ecobank Transnational (ETI)",
+   "close": 50,
+   "change": -3.85,
+   "volume": 218709
+  },
+  {
+   "symbol": "ECOC",
+   "shortName": "Ecobank Côte d’Ivoire",
+   "close": 14000,
+   "change": -3.45,
+   "volume": 102
+  }
+ ],
+ "mostActive": [
+  {
+   "symbol": "SNTS",
+   "shortName": "Sonatel",
+   "close": 3750,
+   "change": 0,
+   "volume": 18975
+  },
+  {
+   "symbol": "ORAC",
+   "shortName": "Orange Côte d’Ivoire",
+   "close": 18495,
+   "change": -0.03,
+   "volume": 1273
+  },
+  {
+   "symbol": "BOAC",
+   "shortName": "BOA Côte d’Ivoire",
+   "close": 10600,
+   "change": -2.26,
+   "volume": 1376
+  },
+  {
+   "symbol": "BOAM",
+   "shortName": "BOA Mali",
+   "close": 5000,
+   "change": 2.56,
+   "volume": 2640
+  },
+  {
+   "symbol": "TTLS",
+   "shortName": "TotalEnergies Marketing Sénégal",
+   "close": 3500,
+   "change": 0,
+   "volume": 3394
+  }
+ ]
 }
