@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-26T13:30:33.472Z",
+ "updatedAt": "2026-11-26T13:45:25.849Z",
  "items": [
   {
    "id": "sika-65975",
@@ -111,6 +111,20 @@
    "category": "Marchés",
    "premium": true,
    "publishedAt": "2026-11-26T08:40:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "sika-65978",
+   "title": "L'Ivoirien Yacouba Diarra prend la tête de l’organisation patronale du secteur minier ouest africain",
+   "summary": "Élu à la présidence de l'organisation fédérant les chambres des mines de la CEDEAO, le Dr Yacouba Diarra e...",
+   "url": "https://www.sikafinance.com/marches/l-ivoirien-yacouba-diarra-prend-la-tete-de-lorganisation-patronale-du-secteur-minier-ouest-africain_65978",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-26T08:01:00Z",
    "symbols": [],
    "status": "done",
    "tries": 1
@@ -4298,22 +4312,6 @@
    "premium": false,
    "publishedAt": "2026-11-03T17:14:00Z",
    "symbols": [],
-   "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "sika-65471",
-   "title": "BOA Côte d’Ivoire : Après les provisions, les revenus prennent le relais au troisième trimestre 2026",
-   "summary": "Au terme des neuf premiers mois de 2026, la filiale du groupe marocain affiche un résultat net de 29,66 milliards de FC...",
-   "url": "https://www.sikafinance.com/marches/boa-cote-divoire-apres-les-provisions-les-revenus-prennent-le-relais-au-troisieme-trimestre-2026_65471",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": true,
-   "publishedAt": "2026-11-03T17:12:00Z",
-   "symbols": [
-    "BOAC"
-   ],
    "status": "done",
    "tries": 1
   }

@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-26T13:30:33.474Z",
+ "updatedAt": "2026-11-26T13:45:25.851Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -214,6 +214,30 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/brvm-la-croissance-des-benefices-plafonne-a-3-au-premier-semestre-2026_65964",
     "title": "BRVM : La croissance des bénéfices plafonne à 3 % au premier semestre 2026"
+   },
+   "rewritten": true
+  },
+  {
+   "id": "sika-65978",
+   "title": "Le Dr Yacouba Diarra élu à la présidence de la Fédération des chambres des mines de la CEDEAO",
+   "summary": "Le Dr Yacouba Diarra prend la tête de l'EFEDCOM. Il ambitionne de renforcer l'attractivité du secteur minier ouest-africain tout en favorisant une création de valeur locale durable.",
+   "body": [
+    "Le 17 novembre 2026, lors de la septième assemblée générale tenue à Abidjan, le Dr Yacouba Diarra a été désigné président de la Fédération des chambres des mines de la CEDEAO (EFEDCOM). Succédant à Adama Soro, cet ingénieur des mines expérimenté, actuel président du Groupement professionnel des miniers de Côte d'Ivoire, prend les rênes d'une organisation clé dans un contexte de compétition mondiale accrue pour les ressources.",
+    "Le nouveau dirigeant souhaite instaurer un dialogue renforcé entre les opérateurs privés et les autorités publiques afin de garantir des cadres réglementaires stables et attractifs pour les investisseurs. Parallèlement, il place la création de valeur locale au cœur de sa stratégie, visant à transformer l'industrie extractive en un levier de développement économique, de formation et de prospérité partagée pour les populations de la région."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65978",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-26T08:01:00Z",
+   "writtenAt": "2026-11-26T13:45:25.849Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/l-ivoirien-yacouba-diarra-prend-la-tete-de-lorganisation-patronale-du-secteur-minier-ouest-africain_65978",
+    "title": "L'Ivoirien Yacouba Diarra prend la tête de l’organisation patronale du secteur minier ouest africain"
    },
    "rewritten": true
   },
@@ -3775,30 +3799,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/sirexe-2026-ce-que-le-centre-danalyses-et-de-recherche-de-petroci-sapprete-a-reveler-au-public_65750",
     "title": "SIREXE 2026 : Ce que le Centre d’analyses et de recherche de PETROCI s’apprête à révéler au public"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65745",
-   "title": "Matières premières : une semaine marquée par des trajectoires divergentes",
-   "summary": "Après une période de forte correction, les cours des matières premières affichent des résultats contrastés, chaque produit réagissant désormais à ses propres fondamentaux d'offre et de demande.",
-   "body": [
-    "Le pétrole Brent a clôturé en baisse de 2,52 %, s'établissant à 95,84 dollars. Ce repli s'explique par une réduction de la prime de risque liée à l'Iran, malgré une volatilité marquée en cours de semaine. À l'inverse, le caoutchouc et l'huile de palme ont enregistré des hausses respectives de 5,21 % et 4,79 %, portés par le retour des acheteurs et un effet de rattrapage après les récentes baisses.",
-    "Les produits agricoles présentent des situations variées. Le cacao recule de 0,70 % en raison de stocks élevés, bien que les pluies en Côte d'Ivoire compliquent la logistique. Le coton perd 0,42 % sous la pression d'une récolte américaine rapide, tandis que le sucre progresse de 0,93 % grâce aux prévisions de déficit mondial. Enfin, le café affiche des résultats mitigés, l'arabica gagnant 0,68 % contre un repli de 2,26 % pour le robusta."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65745",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-16T10:13:00Z",
-   "writtenAt": "2026-11-16T10:33:57.240Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/sika-commodities-weekly-45-des-marches-contrastes-entre-repli-du-petrole-et-rebond-du-caoutchouc_65745",
-    "title": "SIKA COMMODITIES WEEKLY 45 : Des marchés contrastés, entre repli du pétrole et rebond du caoutchouc"
    },
    "rewritten": true
   }
