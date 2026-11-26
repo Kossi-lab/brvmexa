@@ -1,7 +1,7 @@
-# BRVMexa Soir — mercredi 25 novembre 2026
+# BRVMexa Soir — jeudi 26 novembre 2026
 
-> Script généré automatiquement le 2026-11-26 à 09:01 GMT à partir des données publiées (source des cours : brvm.org, données différées).
-> **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 3,2 minutes (477 mots).
+> Script généré automatiquement le 2026-11-26 à 09:15 GMT à partir des données publiées (source des cours : brvm.org, données différées).
+> **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 2,9 minutes (435 mots).
 
 ## 0:00 · Générique
 
@@ -9,36 +9,32 @@
 
 ## 0:10 · Les titres
 
-Bonsoir et bienvenue dans BRVMexa Soir, nous sommes le mercredi 25 novembre 2026.
-Au programme ce soir : une BRVM en repli, avec nettement plus de baisses que de hausses.
-BOA Niger signe la meilleure performance du jour.
-Et dans l’actualité : Sénégal : 3MD INDUSTRIES investit près de 3 milliards FCFA dans la zone de Diass.
+Bonsoir et bienvenue dans BRVMexa Soir, nous sommes le jeudi 26 novembre 2026.
+Au programme ce soir : une BRVM quasiment stable.
+Et à la une : Coris Bank International Bénin s'apprête à faire son entrée à la BRVM.
 
 ## 0:30 · La séance
 
 Commençons par le marché.
-L’indice BRVM Composite, qui regroupe toutes les actions, termine à 465 points, en baisse de 1,5 %.
-Le BRVM 30, l’indice des trente valeurs les plus actives, est en baisse de 1,6 %, et le BRVM Prestige en baisse de 1,4 %.
-Sur l’ensemble de la séance, 9 actions ont progressé, 27 ont reculé et 12 sont restées stables.
-Côté activité, environ 2,2 milliards de francs CFA ont été échangés aujourd’hui.
-Du côté des secteurs, meilleur score pour l’Énergie, en hausse de 0,9 %, tandis que les Services publics ferme la marche, en baisse de 5,8 %.
+L’indice BRVM Composite, qui regroupe toutes les actions, termine à 465 points, stable.
+Le BRVM 30, l’indice des trente valeurs les plus actives, est stable, et le BRVM Prestige stable.
+Sur l’ensemble de la séance, 0 actions ont progressé, 0 ont reculé et 48 sont restées stables.
 
 ## 1:15 · Le palmarès
 
-Dans le haut du tableau, BOA Niger gagne 6,0 % à 4 350 francs CFA.
-Suivent Vivo Energy CI, en hausse de 5,6 %, et Sucrivoire CI, en hausse de 5,5 %.
-En bas du tableau, Filtisac CI cède 7,5 %, BICI Côte d’Ivoire 6,4 % et CIE Côte d’Ivoire 5,9 %.
-La valeur la plus échangée du jour est Sonatel, avec 55 953 titres, à 3 750 francs CFA, en baisse de 3,6 %.
-
 ## 2:00 · L’actualité du jour
 
-Dans l’actualité du jour :
+Notre sujet principal ce soir : Coris Bank International Bénin s'apprête à faire son entrée à la BRVM.
+Le Groupe Coris poursuit son expansion régionale en introduisant sa filiale béninoise sur le compartiment Prestige de la BRVM. Cette opération, qui prévoit une levée de 19,19 milliards FCFA, marque une étape clé pour l'institution bancaire.
+Les investisseurs pourront souscrire à ces actions du 7 au 11 décembre 2026 au prix unitaire de 4 700 FCFA. Une mesure incitative a été prévue pour le personnel de la banque, qui bénéficiera d'un tarif préférentiel de 3 760 FCFA.
+Retrouvez l’article complet dans la rubrique À la une de BRVMexa.
+En bref :
 Sénégal : 3MD INDUSTRIES investit près de 3 milliards FCFA dans la zone de Diass. L'entreprise 3MD INDUSTRIES s'associe à l'APIX pour implanter une unité de production d'équipements électriques au sein de la Zone économique spéciale intégrée de Diass.
 BRVM : Une progression limitée des bénéfices au premier semestre 2026. Les entreprises cotées à la Bourse régionale des valeurs mobilières ont enregistré une hausse modérée de leurs profits sur les six premiers mois de l'année 2026.
 
 ## 3:15 · Le mot de la fin
 
-Le mot du jour : « ordre à cours limité ». C’est un ordre d’achat ou de vente avec un prix maximum ou minimum fixé à l’avance. Il protège du prix, mais il peut ne pas être exécuté. Vous pouvez vous entraîner gratuitement dans le simulateur BRVMexa.
+Le mot du jour : « introduction en bourse ». C’est le moment où une société met pour la première fois ses actions en vente au public, avant leur cotation. C’est une occasion de devenir actionnaire, mais le cours peut ensuite monter comme baisser.
 
 ## 3:35 · BRVMexa, partout avec vous
 
