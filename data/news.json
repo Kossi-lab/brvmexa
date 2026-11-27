@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-27T15:32:01.237Z",
+ "updatedAt": "2026-11-27T15:45:25.183Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -17,6 +17,31 @@
     "19 PAGES"
    ],
    "pinned": true
+  },
+  {
+   "id": "sika-66002",
+   "title": "AFG Assurances s'associe à Mediterrania Capital Partners pour croître",
+   "summary": "La filiale d'assurance du groupe Atlantic accueille Mediterrania Capital Partners pour doubler son réseau et accélérer son expansion régionale.",
+   "body": [
+    "La filiale spécialisée dans l'assurance du groupe Atlantic poursuit son développement géographique grâce à l'arrivée de Mediterrania Capital Partners (MCP) dans son capital. officialisée à Abidjan, cette alliance stratégique vise à propulser la compagnie vers une nouvelle étape de croissance, bien que les détails financiers et la hauteur de la prise de participation demeurent confidentiels.",
+    "L'objectif affiché des partenaires consiste à porter le nombre de filiales de sept à quatorze au cours des prochaines années. Pour atteindre cette cible, la stratégie combinera une croissance organique, des rachats ciblés et la fondation de cinq nouvelles entités, tout en consolidant les fonds propres des structures déjà opérationnelles.",
+    "Fondé par l'entrepreneur ivoirien Koné Dossongui, le groupe Atlantic renforce ainsi ses services financiers en combinant banques et assurances. Actuellement active en Afrique de l'Ouest, en Afrique centrale et dans l'océan Indien à travers sept compagnies régies par la CIMA, AFG Assurances commercialise une offre variée couvrant notamment l'automobile, la santé et l'assurance vie."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-66002",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-27T15:25:00Z",
+   "writtenAt": "2026-11-27T15:45:25.179Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/assurance-afg-assurances-accelere-son-offensive-regionale-avec-mediterrania-capital-partners_66002",
+    "title": "Assurance : AFG Assurances accélère son offensive régionale avec Mediterrania Capital Partners"
+   },
+   "rewritten": true
   },
   {
    "id": "sika-66001",
@@ -3780,31 +3805,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/avec-un-niveau-dexportations-de-9-400-milliards-fcfa-a-fin-juin-la-cote-divoire-vend-desormais-deux-fois-plus-quelle-nachete_65782",
     "title": "Avec un niveau d’exportations de 9 400 milliards FCFA à fin juin, la Côte d’Ivoire vend désormais deux fois plus qu’elle n’achète"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65781",
-   "title": "COP31 : La Banque mondiale mobilise 17,6 milliards USD pour le climat et l'emploi",
-   "summary": "À l'occasion de la COP31, la Banque mondiale a dévoilé un plan de 17,6 milliards de dollars visant à stimuler la croissance économique et l'emploi à travers des investissements climatiques stratégiques.",
-   "body": [
-    "Lors de la COP31 qui se déroule à Antalya, la Banque mondiale et ses partenaires ont annoncé un portefeuille d'investissements totalisant 17,6 milliards de dollars, soit 10 168 milliards FCFA. Ce montant se compose de 10,7 milliards de dollars de capitaux privés et de 6,9 milliards de dollars d'investissements additionnels, destinés à soutenir le développement dans des secteurs clés tels que l'agriculture, l'industrie, les infrastructures urbaines et les énergies renouvelables.",
-    "Cette stratégie vise à démontrer que la transition écologique peut servir de levier économique. En favorisant l'accès à une énergie fiable et à des infrastructures résilientes, l'institution cherche à renforcer la productivité des entreprises et les revenus agricoles. Cette dynamique s'inscrit dans un engagement global plus large : sur l'exercice 2026, la Banque mondiale a déjà consacré 48 milliards de dollars à des projets climatiques, un montant complété par 48 milliards de dollars de capitaux privés, marquant une hausse de 21 % par rapport à l'année précédente.",
-    "Plusieurs initiatives concrètes illustrent cette approche, comme le soutien aux PME turques pour leur transition numérique et écologique, ou le développement d'engrais organiques en Afghanistan. Par ailleurs, des instruments financiers innovants, tels que les obligations numériques bleues et des fonds dédiés aux fournisseurs du secteur textile, sont déployés pour faciliter l'accès aux financements durables et encourager l'économie circulaire dans les marchés émergents."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65781",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-17T11:42:00Z",
-   "writtenAt": "2026-11-17T17:35:57.526Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/cop31-la-banque-mondiale-veut-mobiliser-17-6-milliards-usd-pour-des-investissements-climatiques-createurs-demplois_65781",
-    "title": "COP31 : La Banque mondiale veut mobiliser 17,6 milliards USD pour des investissements climatiques créateurs d’emplois"
    },
    "rewritten": true
   }

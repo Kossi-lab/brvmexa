@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-27T15:32:01.235Z",
+ "updatedAt": "2026-11-27T15:45:25.180Z",
  "items": [
+  {
+   "id": "sika-66002",
+   "title": "Assurance : AFG Assurances accélère son offensive régionale avec Mediterrania Capital Partners",
+   "summary": "Le groupe Atlantic renforce ses ambitions dans l'industrie de l'assurance en Afrique francophone. Sa filiale AFG Assura...",
+   "url": "https://www.sikafinance.com/marches/assurance-afg-assurances-accelere-son-offensive-regionale-avec-mediterrania-capital-partners_66002",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-27T15:25:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-66001",
    "title": "IA : 56% des banques africaines qui collaborent avec des prestataires dépassent leurs objectifs financiers",
@@ -4298,22 +4312,6 @@
    "premium": false,
    "publishedAt": "2026-11-04T12:17:00Z",
    "symbols": [],
-   "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "sika-65491",
-   "title": "SETAO réduit ses pertes dans le sillage de la reprise des grands travaux",
-   "summary": "Dans le secteur du BTP, le calendrier d'exécution des marchés peut peser lourdement sur le rythme de l'activité et la f...",
-   "url": "https://www.sikafinance.com/marches/setao-reduit-ses-pertes-dans-le-sillage-de-la-reprise-des-grands-travaux_65491",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": true,
-   "publishedAt": "2026-11-04T11:46:00Z",
-   "symbols": [
-    "STAC"
-   ],
    "status": "done",
    "tries": 1
   }
