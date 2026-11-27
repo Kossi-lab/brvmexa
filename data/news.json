@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-27T13:30:23.503Z",
+ "updatedAt": "2026-11-27T13:45:26.719Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -17,6 +17,31 @@
     "19 PAGES"
    ],
    "pinned": true
+  },
+  {
+   "id": "sika-65997",
+   "title": "Congo : Moody’s préconise des réformes structurelles pour assainir les finances publiques",
+   "summary": "Dans son dernier examen, Moody’s souligne la nécessité pour le Congo d’améliorer sa gouvernance budgétaire afin de réduire durablement son endettement et de résorber ses arriérés de paiement.",
+   "body": [
+    "Le Congo fait face à des défis financiers persistants, marqués par un endettement élevé et des tensions de trésorerie. Selon l'analyse de Moody’s publiée le 26 novembre 2026, la résolution de ces difficultés structurelles nécessite une transparence accrue, une meilleure gestion des finances publiques et une gouvernance renforcée du secteur public. Bien que les émissions obligataires internationales aient soulagé la trésorerie immédiate, elles ne suffisent pas à corriger les faiblesses persistantes dans le suivi des dépenses et des dettes envers les fournisseurs.",
+    "Le poids des arriérés intérieurs, qui représentait 14,4 % du PIB fin 2025 avant de refluer à 12 % en juin 2026, demeure une préoccupation majeure. Si l'agence anticipe une accélération des remboursements, elle juge les progrès actuels limités. Parallèlement, le pays mise sur un futur programme avec le Fonds monétaire international, espéré avant fin 2026, pour structurer ses réformes budgétaires.",
+    "Sur le plan conjoncturel, la rente pétrolière apporte un soutien notable. Les recettes de l'État devraient atteindre environ 29 % du PIB en 2026, permettant de dégager un excédent budgétaire projeté à 2,8 % du PIB. Ces ressources financent toutefois une hausse des dépenses d'investissement. Moody’s prévoit ainsi une décrue du ratio de la dette publique, attendu à 92 % du PIB en 2026 contre 100 % l'année précédente, tout en maintenant une perspective positive sur la note souveraine Caa2."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65997",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-27T13:35:00Z",
+   "writtenAt": "2026-11-27T13:45:26.715Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/congo-moodys-identifie-les-reformes-necessaires-pour-alleger-le-poids-de-la-dette-publique_65997",
+    "title": "Congo : Moody’s identifie les réformes nécessaires pour alléger le poids de la dette publique"
+   },
+   "rewritten": true
   },
   {
    "id": "sika-65993",
@@ -3779,30 +3804,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/gabon-trois-factures-impayees-du-stade-omar-bongo-a-lorigine-dune-condamnation-de-10-6-milliards-fcfa_65779",
     "title": "Gabon : Trois factures impayées du stade Omar-Bongo à l’origine d’une condamnation de 10,6 milliards FCFA"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "gn-1r5j3uo",
-   "title": "Le directeur général de la BRVM distingué aux Global Banking & Markets Awards Africa 2026",
-   "summary": "Le dirigeant de la Bourse régionale des valeurs mobilières a été honoré par un prix de leadership lors de l'édition 2026 des Global Banking & Markets Awards Africa.",
-   "body": [
-    "Le 17 novembre 2026, le directeur général de la Bourse régionale des valeurs mobilières (BRVM) a reçu le prix de leadership africain. Cette distinction lui a été décernée dans le cadre des Global Banking & Markets Awards Africa 2026.",
-    "Ce prix vient saluer le travail accompli à la tête de l'institution boursière régionale. Cette reconnaissance souligne l'influence du dirigeant au sein du paysage financier du continent africain."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#gn-1r5j3uo",
-   "image": null,
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-11-17T09:47:00.000Z",
-   "writtenAt": "2026-11-17T18:11:08.145Z",
-   "symbols": [],
-   "origin": {
-    "name": "FratMat",
-    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPYWhUcXJET29pTGtheUpFbnc4WktjN3BhVHRLaFRfSjQ2MmZ0d2JZdjdYYVdyY05iaktMMC1TU1A4dU1rdXpzZXg1bDFIZDlPc0lZSllTYjhXcDd5dkNTd2tJWmQ3TVFsbEhFZkNocHdKYmxzR01YZE92TlJ5SGJyQVJCaVRYUk9tWkNKSHVXZ1VRX3RYdWZwVFlQUmQyZGR2MUpSa1M0OXpSS3ZPVGE1UXM1WHRiYWM4N0lsdWh0clZOSHlBc3RqMzNDQUxfOFJ1Z2cyWnVNUVRPNjFqODM2QllYZFI0R2ppT0dUOXlCNUFXNHNO?oc=5",
-    "title": "Global Banking & Markets Awards Africa 2026 : Le prix de leadership africain décerné au directeur général de la Brvm"
    },
    "rewritten": true
   }

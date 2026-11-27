@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-27T13:30:23.495Z",
+ "updatedAt": "2026-11-27T13:45:26.716Z",
  "items": [
+  {
+   "id": "sika-65997",
+   "title": "Congo : Moody’s identifie les réformes nécessaires pour alléger le poids de la dette publique",
+   "summary": "Le Congo reste confronté à un endettement élevé, à d'importants arriérés intérieurs et à des tensions de trésorerie. Da...",
+   "url": "https://www.sikafinance.com/marches/congo-moodys-identifie-les-reformes-necessaires-pour-alleger-le-poids-de-la-dette-publique_65997",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-27T13:35:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65993",
    "title": "Banque : AFG Holding mobilise 25 millions USD auprès de BluePeak pour accélérer son expansion en Afrique",
@@ -4299,20 +4313,6 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-11-04T11:03:00Z",
-   "symbols": [],
-   "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "sika-65487",
-   "title": "Paiements : Mastercard confie son développement en Afrique subsaharienne francophone à Christelle N’Guessan-Rigaud",
-   "summary": "Vice-présidente chargée du développement commercial pays pour l'Afrique subsaharienne francophone depuis juin 2026, la ...",
-   "url": "https://www.sikafinance.com/marches/paiements-mastercard-confie-son-developpement-en-afrique-subsaharienne-francophone-a-christelle-nguessan-rigaud_65487",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-04T10:44:00Z",
    "symbols": [],
    "status": "done",
    "tries": 1
