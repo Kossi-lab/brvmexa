@@ -86,3 +86,16 @@ test('fichiers sensibles : rien de privé n’est servi', async () => {
     }
   } finally { await page.close(); }
 });
+
+test('en-têtes de sécurité (Cloudflare) présents', { skip: !EN_LIGNE }, async () => {
+  const page = await browser.newPage();
+  try {
+    const h = (await page.request.get(BASE + '/')).headers();
+    assert.match(h['server'] || '', /cloudflare/i, 'le site ne passe pas par Cloudflare');
+    assert.match(h['strict-transport-security'] || '', /max-age=\d{7,}/);
+    assert.equal(h['x-content-type-options'], 'nosniff');
+    assert.equal(h['x-frame-options'], 'SAMEORIGIN');
+    assert.match(h['content-security-policy'] || '', /frame-ancestors 'self'/);
+    assert.ok(h['referrer-policy'] && h['permissions-policy'], 'Referrer-Policy / Permissions-Policy absents');
+  } finally { await page.close(); }
+});
