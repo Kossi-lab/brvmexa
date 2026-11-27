@@ -1,0 +1,7 @@
+# Pages générées par le robot et données : pas du code
+docs/actions/
+docs/actualites/
+docs/assets/data/
+docs/assets/js/vendor/
+data/
+node_modules/

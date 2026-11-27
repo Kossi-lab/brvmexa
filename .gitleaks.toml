@@ -1,0 +1,10 @@
+# Gitleaks — détection des secrets (règles par défaut + exceptions publiques)
+[extend]
+useDefault = true
+
+[allowlist]
+description = "Clés publiques par conception (pas des secrets)"
+regexes = [
+  '''sb_publishable_[A-Za-z0-9_-]+''',   # clé publique Supabase (protégée par RLS)
+  '''b7e3c1f04a9d4e6f8a2b5c7d9e1f3a60''', # clé IndexNow (doit être publique sur le site)
+]
