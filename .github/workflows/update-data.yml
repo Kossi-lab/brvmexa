@@ -118,3 +118,11 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: gh workflow run pages.yml --ref main
+
+      # Signal de vie pour Better Stack (« Robot de données BRVMexa ») : alerte si le robot ne réussit plus pendant 14 h
+      - name: Signal de vie (Better Stack)
+        if: success()
+        env:
+          HB: ${{ secrets.BETTERSTACK_HEARTBEAT_URL }}
+        run: |
+          if [ -n "$HB" ]; then curl -fsS -m 10 --retry 3 -o /dev/null "$HB" && echo "Signal envoyé."; else echo "Secret BETTERSTACK_HEARTBEAT_URL absent."; fi
