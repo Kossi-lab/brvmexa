@@ -1,7 +1,7 @@
 # BRVMexa Soir — vendredi 27 novembre 2026
 
-> Script généré automatiquement le 2026-11-27 à 15:15 GMT à partir des données publiées (source des cours : brvm.org, données différées).
-> **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 3,9 minutes (587 mots).
+> Script généré automatiquement le 2026-11-27 à 15:32 GMT à partir des données publiées (source des cours : brvm.org, données différées).
+> **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 3,9 minutes (586 mots).
 
 ## 0:00 · Générique
 
@@ -17,17 +17,17 @@ Et à la une : Double opération d'appel public à l'épargne pour Coris Bank In
 ## 0:30 · La séance
 
 Commençons par le marché.
-L’indice BRVM Composite, qui regroupe toutes les actions, termine à 454 points, en hausse de 0,01 %.
-Le BRVM 30, l’indice des trente valeurs les plus actives, est en hausse de 0,1 %, et le BRVM Prestige en baisse de 0,8 %.
-Sur l’ensemble de la séance, 20 actions ont progressé, 20 ont reculé et 8 sont restées stables.
+L’indice BRVM Composite, qui regroupe toutes les actions, termine à 453 points, en baisse de 0,05 %.
+Le BRVM 30, l’indice des trente valeurs les plus actives, est en hausse de 0,06 %, et le BRVM Prestige en baisse de 0,8 %.
+Sur l’ensemble de la séance, 21 actions ont progressé, 20 ont reculé et 7 sont restées stables.
 Côté activité, environ 1,3 milliards de francs CFA ont été échangés aujourd’hui.
-Du côté des secteurs, meilleur score pour les Services publics, en hausse de 3,0 %, tandis que la Consommation discrétionnaire ferme la marche, en baisse de 4,5 %.
+Du côté des secteurs, meilleur score pour les Services publics, en hausse de 3,0 %, tandis que la Consommation discrétionnaire ferme la marche, en baisse de 2,8 %.
 
 ## 1:15 · Le palmarès
 
 Dans le haut du tableau, BOA Burkina Faso gagne 7,5 % à 7 310 francs CFA.
 Suivent SAFCA CI, en hausse de 7,4 %, et BOA Niger, en hausse de 5,3 %.
-En bas du tableau, Société Ivoirienne de Banque cède 7,4 %, Servair Abidjan 7,3 % et Loterie Nationale du Bénin 7,1 %.
+En bas du tableau, Société Ivoirienne de Banque cède 7,4 %, Servair Abidjan 7,3 % et TotalEnergies Marketing Sénégal 5,3 %.
 La valeur la plus échangée du jour est Sonatel, avec 98 876 titres, à 3 575 francs CFA, en baisse de 3,1 %.
 À noter aussi : Société Ivoirienne de Banque, très échangée, recule de 7,4 %.
 
@@ -38,8 +38,8 @@ Coris Bank International dynamise le marché financier régional en lançant deu
 Ces initiatives visent à renforcer la présence de l'institution sur le marché financier de l'Union Économique et Monétaire Ouest-Africaine (UEMOA). Cette double opération témoigne de la volonté du groupe de poursuivre son développement stratégique à travers le levier boursier.
 Retrouvez l’article complet dans la rubrique À la une de BRVMexa.
 En bref :
+IA : le recours aux prestataires externes booste la rentabilité des banques africaines. Une étude révèle que 56% des banques africaines collaborant avec des experts externes surpassent leurs objectifs financiers, alors que 82% des établissements prévoient d'accroître leurs investissements en IA.
 Sénégal : inauguration de la mine d'or de Boto et lancement du projet de fer de la Falémé. Le Sénégal renforce son secteur minier avec l'inauguration de la mine d'or de Boto et le lancement officiel du projet d'exploitation du fer de la Falémé dans la région de Kédougou.
-Côte d'Ivoire : dix entreprises franchissent le cap des 100 milliards FCFA de revenus en 2025. Dix sociétés ivoiriennes ont atteint un palier historique en 2025 en dépassant pour la première fois la barre des 100 milliards FCFA de chiffre d'affaires.
 
 ## 3:15 · Le mot de la fin
 

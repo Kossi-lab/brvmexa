@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-27T15:15:18.457Z",
+ "updatedAt": "2026-11-27T15:32:01.235Z",
  "items": [
+  {
+   "id": "sika-66001",
+   "title": "IA : 56% des banques africaines qui collaborent avec des prestataires dépassent leurs objectifs financiers",
+   "summary": "Alors que 82% des banques africaines ne mesurant pas encore le retour sur investissement de l'IA prévoient d'accroî...",
+   "url": "https://www.sikafinance.com/marches/ia-56-des-banques-africaines-qui-collaborent-avec-des-prestataires-depassent-leurs-objectifs-financiers_66001",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-27T15:21:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-66000",
    "title": "Ghana : 1,1 milliard USD d’obligations domestiques rachetées, à 3 mois de leur échéance",
@@ -4300,20 +4314,6 @@
    "symbols": [
     "STAC"
    ],
-   "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "sika-65490",
-   "title": "Dangote va construire en Namibie un terminal pétrolier, point de départ d’un réseau de pipelines de plus de 2 600 km vers la RDC",
-   "summary": "Le groupe nigérian Dangote Industries lance, ce 4 novembre 2026, les travaux de construction d'un terminal de st...",
-   "url": "https://www.sikafinance.com/marches/dangote-va-construire-en-namibie-un-terminal-petrolier-point-de-depart-dun-reseau-de-pipelines-de-plus-de-2-600-km-vers-la-rdc_65490",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-04T11:28:00Z",
-   "symbols": [],
    "status": "done",
    "tries": 1
   }

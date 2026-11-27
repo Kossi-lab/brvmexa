@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-27T15:15:18.459Z",
+ "updatedAt": "2026-11-27T15:32:01.237Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -17,6 +17,31 @@
     "19 PAGES"
    ],
    "pinned": true
+  },
+  {
+   "id": "sika-66001",
+   "title": "IA : le recours aux prestataires externes booste la rentabilité des banques africaines",
+   "summary": "Une étude révèle que 56% des banques africaines collaborant avec des experts externes surpassent leurs objectifs financiers, alors que 82% des établissements prévoient d'accroître leurs investissements en IA.",
+   "body": [
+    "Le secteur bancaire africain connaît une accélération des investissements technologiques. Selon un rapport publié le 26 novembre 2026, 82% des institutions financières qui ne parviennent pas encore à évaluer le retour sur investissement de l'IA prévoient d'augmenter leurs dépenses dans ce domaine au cours de l'année à venir.",
+    "La performance financière varie toutefois selon le mode de déploiement. Les banques faisant appel à des fournisseurs tiers affichent de meilleurs résultats, avec 56% d'entre elles dépassant leurs prévisions, contre 33% pour celles privilégiant le développement interne. Cette tendance s'inscrit dans une transition vers l'IA agentique, capable d'exécuter des transactions de manière autonome.",
+    "L'étude identifie trois stratégies : le « bâtisseur de plateforme », qui privilégie une infrastructure propre pour intégrer des modèles externes ; l'« accélérateur », qui mise sur des solutions clés en main pour une mise en œuvre rapide ; et le « mouvement délibéré », une approche prudente limitant l'usage de l'IA aux opérations périphériques pour garantir la sécurité des données."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-66001",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-27T15:21:00Z",
+   "writtenAt": "2026-11-27T15:32:01.233Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/ia-56-des-banques-africaines-qui-collaborent-avec-des-prestataires-depassent-leurs-objectifs-financiers_66001",
+    "title": "IA : 56% des banques africaines qui collaborent avec des prestataires dépassent leurs objectifs financiers"
+   },
+   "rewritten": true
   },
   {
    "id": "sika-66000",
@@ -3780,30 +3805,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/cop31-la-banque-mondiale-veut-mobiliser-17-6-milliards-usd-pour-des-investissements-climatiques-createurs-demplois_65781",
     "title": "COP31 : La Banque mondiale veut mobiliser 17,6 milliards USD pour des investissements climatiques créateurs d’emplois"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65780",
-   "title": "Google lance son laboratoire d'IA pour propulser dix startups africaines innovantes",
-   "summary": "Le géant américain Google accompagne dix jeunes pousses africaines dans le cadre de son nouveau programme dédié à l'intelligence artificielle pour favoriser leur essor commercial.",
-   "body": [
-    "Le Google Africa Applied AI Lab a dévoilé sa première promotion composée de dix entreprises technologiques issues de tout le continent. Ce programme d'accélération offre aux fondateurs un accès privilégié aux modèles d'intelligence artificielle du groupe, tels que Gemini, Gemma et Veo, ainsi qu'un soutien technique et des crédits Google Cloud pouvant atteindre 200 000 dollars par entité.",
-    "Parmi les lauréates, on retrouve des structures variées comme le nigérian Intron, le kényan Satlyt ou encore le sénégalais Tolbi, qui développent des solutions adaptées aux besoins locaux. Si le programme ne prévoit pas d'apport en capital immédiat, il facilite la mise en relation avec des investisseurs. Le parcours s'achèvera en décembre à Accra lors d'une journée de présentation devant des fonds de capital-risque partenaires, dont 4DX Ventures, Norrsken22, Novastar Ventures et Ventures Platform."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65780",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-17T10:49:00Z",
-   "writtenAt": "2026-11-17T17:36:06.956Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/ia-google-selectionne-10-startups-africaines-innovantes-pour-accelerer-leur-deploiement-commercial_65780",
-    "title": "IA : Google sélectionne 10 startups africaines innovantes pour accélérer leur déploiement commercial"
    },
    "rewritten": true
   }
