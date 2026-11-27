@@ -1,7 +1,7 @@
 # BRVMexa Soir — vendredi 27 novembre 2026
 
-> Script généré automatiquement le 2026-11-27 à 18:15 GMT à partir des données publiées (source des cours : brvm.org, données différées).
-> **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 3,8 minutes (572 mots).
+> Script généré automatiquement le 2026-11-27 à 18:30 GMT à partir des données publiées (source des cours : brvm.org, données différées).
+> **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 3,8 minutes (567 mots).
 
 ## 0:00 · Générique
 
@@ -38,8 +38,8 @@ Coris Bank International dynamise le marché financier régional en lançant deu
 Ces initiatives visent à renforcer la présence de l'institution sur le marché financier de l'Union Économique et Monétaire Ouest-Africaine (UEMOA). Cette double opération témoigne de la volonté du groupe de poursuivre son développement stratégique à travers le levier boursier.
 Retrouvez l’article complet dans la rubrique À la une de BRVMexa.
 En bref :
+Intelligence artificielle : les défis structurels et financiers selon Moody's. Une note de Moody's souligne que les contraintes matérielles et énergétiques freinent le développement de l'IA, avec des répercussions directes sur les coûts et les investissements en Afrique.
 Évolution des principaux partenaires commerciaux de la Côte d'Ivoire sur cinq ans. La structure des échanges extérieurs ivoiriens enregistre une transformation significative, marquée par l'émergence de nouveaux acteurs dominants sur le marché international.
-Côte d'Ivoire : les exportations d'anacarde dépassent les 1 000 milliards FCFA en 2025. Le secteur ivoirien de l'anacarde a franchi un cap historique en 2025, porté par une transformation locale accrue qui propulse le pays au rang de leader mondial du secteur.
 
 ## 3:15 · Le mot de la fin
 

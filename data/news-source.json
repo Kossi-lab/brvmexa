@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-27T18:15:22.406Z",
+ "updatedAt": "2026-11-27T18:30:27.453Z",
  "items": [
+  {
+   "id": "sika-66010",
+   "title": "IA : Alertes de Moody’s sur les prix, l’électricité et les équipements, quel écho en Afrique ?",
+   "summary": "Dans une note publiée le 23 novembre 2026, l'agence Moody's Ratings montre que les limites physiques et financières ral...",
+   "url": "https://www.sikafinance.com/marches/ia-alertes-de-moodys-sur-les-prix-lelectricite-et-les-equipements-quel-echo-en-afrique-_66010",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-27T18:16:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-66009",
    "title": "Coura Sène (Wave mobile money) : ‘’Nos clients ont économisé 1 milliard de dollars en frais de transaction’’",
@@ -4300,20 +4314,6 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-11-04T15:35:00Z",
-   "symbols": [],
-   "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "sika-65502",
-   "title": "Côte d’Ivoire : Cybastion ouvre un centre régional de cybersécurité",
-   "summary": "L'entreprise technologique américaine Cybastion inaugure, ce jeudi 5 novembre 2026 à Abidjan, un centre régional de cyb...",
-   "url": "https://www.sikafinance.com/marches/cote-divoire-cybastion-ouvre-un-centre-regional-de-cybersecurite_65502",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-04T15:29:00Z",
    "symbols": [],
    "status": "done",
    "tries": 1

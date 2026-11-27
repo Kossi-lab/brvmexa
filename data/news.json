@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-27T18:15:22.408Z",
+ "updatedAt": "2026-11-27T18:30:27.456Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -17,6 +17,30 @@
     "19 PAGES"
    ],
    "pinned": true
+  },
+  {
+   "id": "sika-66010",
+   "title": "Intelligence artificielle : les défis structurels et financiers selon Moody's",
+   "summary": "Une note de Moody's souligne que les contraintes matérielles et énergétiques freinent le développement de l'IA, avec des répercussions directes sur les coûts et les investissements en Afrique.",
+   "body": [
+    "Dans une analyse publiée le 23 novembre 2026, Moody's Ratings indique que des obstacles physiques et financiers ralentissent la progression de l'intelligence artificielle. La forte demande en composants, tels que les puces et mémoires, renforce les fournisseurs spécialisés mais accroît les coûts pour les autres secteurs. En Afrique, cette dynamique se traduit par une hausse des prix des terminaux : au troisième trimestre 2026, le prix moyen des smartphones a atteint un niveau record de 222 dollars, tandis que les livraisons ont chuté de 40 % sur un an, selon des données d'Omdia.",
+    "Le déploiement des datacenters se heurte également à des difficultés d'accès à l'énergie, exacerbées en Afrique par la fragilité des réseaux électriques. Parallèlement, les investisseurs deviennent plus sélectifs face à l'explosion des dépenses d'investissement dans le secteur, qui devraient dépasser 1 100 milliards de dollars en 2027 pour les principaux acteurs du cloud. Cette prudence financière, couplée à une hausse des taux obligataires mondiaux soulignée par la Banque centrale d'Afrique du Sud, pourrait alourdir le coût de la dette des États africains et fragiliser le financement des infrastructures numériques locales."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-66010",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-27T18:16:00Z",
+   "writtenAt": "2026-11-27T18:30:27.453Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/ia-alertes-de-moodys-sur-les-prix-lelectricite-et-les-equipements-quel-echo-en-afrique-_66010",
+    "title": "IA : Alertes de Moody’s sur les prix, l’électricité et les équipements, quel écho en Afrique ?"
+   },
+   "rewritten": true
   },
   {
    "id": "sika-66009",
@@ -3783,33 +3807,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/nigeria-dangote-investit-2-2-milliards-usd-dans-les-routes-pour-securiser-la-logistique-de-son-empire-industriel_65790",
     "title": "Nigeria : Dangote investit 2,2 milliards USD dans les routes pour sécuriser la logistique de son empire industriel"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65788",
-   "title": "NSIA Asset Management prône l'investissement progressif au Salon de l'Épargne 2026",
-   "summary": "Lors du 9e Salon de l'Épargne, de l'Investissement et du Patrimoine, NSIA Asset Management a souligné l'importance de l'épargne régulière et des outils numériques pour faciliter l'accès aux placements financiers.",
-   "body": [
-    "À l'occasion de la 9e édition du SEIP, organisée les 22 et 23 octobre 2026 à Abidjan, NSIA Asset Management a mis en avant l'accessibilité de l'investissement pour les particuliers. Franck Olivier Diagou, directeur général de la société, a insisté sur le fait qu'il n'est pas nécessaire de disposer de capitaux importants pour débuter, privilégiant une approche basée sur l'épargne régulière et progressive.",
-    "Les échanges ont mis en lumière le rôle croissant des services de mobile money et des solutions numériques pour favoriser l'inclusion financière. En complément, l'utilisation des fonds communs de placement (FCP) a été présentée comme une solution efficace permettant aux épargnants de déléguer la gestion de leurs actifs à des professionnels, tout en bénéficiant d'une diversification de leur portefeuille.",
-    "La stratégie de l'épargne programmée a également été valorisée comme un levier clé pour atteindre des objectifs financiers à long terme. Par cette intervention, NSIA Asset Management encourage les ménages à adopter une discipline d'épargne constante pour mieux anticiper leurs projets futurs et se constituer un patrimoine durable."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65788",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-17T14:22:00Z",
-   "writtenAt": "2026-11-17T17:34:42.580Z",
-   "symbols": [
-    "NSBC"
-   ],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/cote-divoire-nsia-asset-management-encourage-les-particuliers-a-investir-progressivement-pour-se-constituer-un-patrimoine_65788",
-    "title": "Côte d’Ivoire : NSIA Asset Management encourage les particuliers à investir progressivement pour se constituer un patrimoine"
    },
    "rewritten": true
   }
