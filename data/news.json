@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-27T17:15:22.413Z",
+ "updatedAt": "2026-11-27T17:30:25.429Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -17,6 +17,30 @@
     "19 PAGES"
    ],
    "pinned": true
+  },
+  {
+   "id": "sika-66007",
+   "title": "Côte d'Ivoire : les exportations d'anacarde dépassent les 1 000 milliards FCFA en 2025",
+   "summary": "Le secteur ivoirien de l'anacarde a franchi un cap historique en 2025, porté par une transformation locale accrue qui propulse le pays au rang de leader mondial du secteur.",
+   "body": [
+    "Lors de la cinquième édition du SIETTA à Abidjan, le ministre de l'Agriculture, Bruno Nabagné Koné, a annoncé que les revenus à l'exportation de la filière ont excédé 1 000 milliards FCFA en 2025. Cette dynamique repose sur une industrialisation rapide : la part de la récolte traitée sur le sol ivoirien est passée de 2 % en 2011 à 43 % en 2025, soit près de 700 000 tonnes. Ces efforts placent désormais la Côte d'Ivoire comme le troisième transformateur mondial et le second exportateur d'amandes de cajou.",
+    "L'essor industriel du secteur a permis la création de 20 000 emplois directs, majoritairement occupés par des femmes. Pour l'avenir, le gouvernement mise sur une valorisation intégrale de l'anacardier, incluant les coques et les pommes de cajou. Quatre axes stratégiques ont été définis pour soutenir cette croissance, allant de la sécurisation des approvisionnements à l'amélioration de l'accès au financement pour les PME et coopératives, avec des prévisions de transformation atteignant 760 000 tonnes pour 2026."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-66007",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-27T17:11:00Z",
+   "writtenAt": "2026-11-27T17:30:25.427Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/cote-divoire-les-recettes-dexportation-de-lanacarde-franchissent-le-cap-des-1-000-milliards-fcfa-en-2025_66007",
+    "title": "Côte d’Ivoire : Les recettes d’exportation de l’anacarde franchissent le cap des 1 000 milliards FCFA en 2025"
+   },
+   "rewritten": true
   },
   {
    "id": "sika-66006",
@@ -3788,30 +3812,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/nigeria-linflation-recule-a-14-en-octobre-malgre-les-pressions-alimentaires_65786",
     "title": "Nigeria : L’inflation recule à 14 % en octobre, malgré les pressions alimentaires"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "gn-1bceobr",
-   "title": "Distinction honorifique pour Edoh Kossi Amenounve, directeur général de la BRVM",
-   "summary": "Le dirigeant de la Bourse régionale des valeurs mobilières a été mis à l'honneur pour son rôle prépondérant dans le développement des services financiers sur le continent africain.",
-   "body": [
-    "Le 17 novembre 2026, Edoh Kossi Amenounve a reçu une récompense soulignant la qualité de son leadership à la tête de la BRVM. Ce prix vient saluer son implication dans la transformation et la promotion des services financiers en Afrique.",
-    "Cette reconnaissance met en lumière le travail accompli par le directeur général pour renforcer l'influence et le dynamisme de l'institution boursière régionale au sein de l'écosystème financier continental."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#gn-1bceobr",
-   "image": null,
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-11-17T13:17:16.000Z",
-   "writtenAt": "2026-11-17T17:35:28.103Z",
-   "symbols": [],
-   "origin": {
-    "name": "LACTUACHO.COM",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZk5FTFVQcV8yTjhJR1RsdFUyWXFPdnluLXYtdTQ2Z2JWcjNEdjRmeC1BMWlac25CWjdFZnZHRnZ4LWk0TFcxY2dMNUQ0Tk1BcU9RaTRXQ29QanJmRkU4SnpXUlkxUUQyMzM5ckVnMEpiOFJaSmFtbnRBVm1vcVlJOXM3bEVvLS0zWUJXM3NSNG8xZVlUa01sdWxlaHJ1aGJYWS1kbVNjZmVXUE5HYlBScnNTeUJRaUdZUmdGemhDNGk?oc=5",
-    "title": "BRVM : Edoh Kossi Amenounve récompensé pour son leadership dans les services financiers en Afrique"
    },
    "rewritten": true
   }

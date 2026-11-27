@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-27T17:15:22.411Z",
+ "updatedAt": "2026-11-27T17:30:25.427Z",
  "items": [
+  {
+   "id": "sika-66007",
+   "title": "Côte d’Ivoire : Les recettes d’exportation de l’anacarde franchissent le cap des 1 000 milliards FCFA en 2025",
+   "summary": "La filière ivoirienne de l'anacarde confirme son poids grandissant dans l'économie nationale. Portées par la progressio...",
+   "url": "https://www.sikafinance.com/marches/cote-divoire-les-recettes-dexportation-de-lanacarde-franchissent-le-cap-des-1-000-milliards-fcfa-en-2025_66007",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-27T17:11:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-66006",
    "title": "BRVM : BOA Burkina Faso et SAFCA donnent du relief à une séance en demi-teinte",
@@ -4300,20 +4314,6 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-11-04T14:19:00Z",
-   "symbols": [],
-   "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "sika-65497",
-   "title": "Le résultat net de la SIB progresse à 46 milliards FCFA à fin septembre 2026",
-   "summary": "La capacité d'une banque à transformer la croissance de ses revenus en bénéfices constitue un indicateur essentiel de s...",
-   "url": "https://www.sikafinance.com/marches/le-resultat-net-de-la-sib-progresse-a-46-milliards-fcfa-a-fin-septembre-2026_65497",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-04T14:09:00Z",
    "symbols": [],
    "status": "done",
    "tries": 1
