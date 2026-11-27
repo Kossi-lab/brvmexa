@@ -1,7 +1,7 @@
 # BRVMexa Soir — vendredi 27 novembre 2026
 
-> Script généré automatiquement le 2026-11-27 à 12:00 GMT à partir des données publiées (source des cours : brvm.org, données différées).
-> **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 3,9 minutes (583 mots).
+> Script généré automatiquement le 2026-11-27 à 12:15 GMT à partir des données publiées (source des cours : brvm.org, données différées).
+> **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 3,8 minutes (577 mots).
 
 ## 0:00 · Générique
 
@@ -10,25 +10,25 @@
 ## 0:10 · Les titres
 
 Bonsoir et bienvenue dans BRVMexa Soir, nous sommes le vendredi 27 novembre 2026.
-Au programme ce soir : une BRVM quasiment stable, avec nettement plus de baisses que de hausses.
+Au programme ce soir : une BRVM en repli, avec nettement plus de baisses que de hausses.
 Coris Bank International signe la meilleure performance du jour.
 Et à la une : Double opération d'appel public à l'épargne pour Coris Bank International.
 
 ## 0:30 · La séance
 
 Commençons par le marché.
-L’indice BRVM Composite, qui regroupe toutes les actions, termine à 454 points, en hausse de 0,2 %.
-Le BRVM 30, l’indice des trente valeurs les plus actives, est en hausse de 0,3 %, et le BRVM Prestige en baisse de 0,2 %.
-Sur l’ensemble de la séance, 12 actions ont progressé, 28 ont reculé et 8 sont restées stables.
-Côté activité, environ 370 millions de francs CFA ont été échangés aujourd’hui.
-Du côté des secteurs, meilleur score pour les Services publics, en hausse de 4,0 %, tandis que la Consommation discrétionnaire ferme la marche, en baisse de 4,5 %.
+L’indice BRVM Composite, qui regroupe toutes les actions, termine à 451 points, en baisse de 0,5 %.
+Le BRVM 30, l’indice des trente valeurs les plus actives, est en baisse de 0,4 %, et le BRVM Prestige en baisse de 1,3 %.
+Sur l’ensemble de la séance, 12 actions ont progressé, 27 ont reculé et 9 sont restées stables.
+Côté activité, environ 521 millions de francs CFA ont été échangés aujourd’hui.
+Du côté des secteurs, meilleur score pour les Services publics, en hausse de 4,0 %, tandis que l’Énergie ferme la marche, en baisse de 4,4 %.
 
 ## 1:15 · Le palmarès
 
 Dans le haut du tableau, Coris Bank International gagne 7,5 % à 24 775 francs CFA.
-Suivent Orange Côte d’Ivoire, en hausse de 6,4 %, et CIE Côte d’Ivoire, en hausse de 4,4 %.
-En bas du tableau, Africa Global Logistics CI cède 7,5 %, Loterie Nationale du Bénin 7,5 % et Bernabé CI 6,9 %.
-La valeur la plus échangée du jour est Sonatel, avec 29 731 titres, à 3 595 francs CFA, en baisse de 2,6 %.
+Suivent BIIC Bénin, en hausse de 5,7 %, et Orange Côte d’Ivoire, en hausse de 4,7 %.
+En bas du tableau, TotalEnergies Marketing Sénégal cède 7,4 %, Bernabé CI 6,9 % et SAFCA CI 6,7 %.
+La valeur la plus échangée du jour est Sonatel, avec 64 367 titres, à 3 500 francs CFA, en baisse de 5,2 %.
 
 ## 2:00 · L’actualité du jour
 
