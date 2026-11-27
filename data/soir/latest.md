@@ -1,7 +1,7 @@
 # BRVMexa Soir — vendredi 27 novembre 2026
 
-> Script généré automatiquement le 2026-11-27 à 10:45 GMT à partir des données publiées (source des cours : brvm.org, données différées).
-> **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 2,9 minutes (435 mots).
+> Script généré automatiquement le 2026-11-27 à 11:00 GMT à partir des données publiées (source des cours : brvm.org, données différées).
+> **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 3,9 minutes (585 mots).
 
 ## 0:00 · Générique
 
@@ -10,17 +10,26 @@
 ## 0:10 · Les titres
 
 Bonsoir et bienvenue dans BRVMexa Soir, nous sommes le vendredi 27 novembre 2026.
-Au programme ce soir : une BRVM quasiment stable.
+Au programme ce soir : une BRVM en hausse.
+CIE Côte d’Ivoire signe la meilleure performance du jour.
 Et à la une : Double opération d'appel public à l'épargne pour Coris Bank International.
 
 ## 0:30 · La séance
 
 Commençons par le marché.
-L’indice BRVM Composite, qui regroupe toutes les actions, termine à 454 points, stable.
-Le BRVM 30, l’indice des trente valeurs les plus actives, est stable, et le BRVM Prestige stable.
-Sur l’ensemble de la séance, 0 actions ont progressé, 0 ont reculé et 48 sont restées stables.
+L’indice BRVM Composite, qui regroupe toutes les actions, termine à 455 points, en hausse de 0,4 %.
+Le BRVM 30, l’indice des trente valeurs les plus actives, est en hausse de 0,4 %, et le BRVM Prestige en hausse de 0,6 %.
+Sur l’ensemble de la séance, 15 actions ont progressé, 18 ont reculé et 15 sont restées stables.
+Côté activité, environ 138 millions de francs CFA ont été échangés aujourd’hui.
+Du côté des secteurs, meilleur score pour les Services publics, en hausse de 4,2 %, tandis que les Industriels ferme la marche, en baisse de 3,9 %.
 
 ## 1:15 · Le palmarès
+
+Dans le haut du tableau, CIE Côte d’Ivoire gagne 4,8 % à 4 245 francs CFA.
+Suivent Orange Côte d’Ivoire, en hausse de 4,7 %, et Sucrivoire CI, en hausse de 3,9 %.
+En bas du tableau, Vivo Energy CI cède 7,2 %, Africa Global Logistics CI 7,1 % et Bernabé CI 6,9 %.
+La valeur la plus échangée du jour est Sonatel, avec 12 322 titres, à 3 680 francs CFA, en baisse de 0,3 %.
+À noter aussi : Vivo Energy CI, très échangée, recule de 7,2 %.
 
 ## 2:00 · L’actualité du jour
 
