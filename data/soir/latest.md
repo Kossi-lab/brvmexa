@@ -1,6 +1,6 @@
 # BRVMexa Soir — vendredi 27 novembre 2026
 
-> Script généré automatiquement le 2026-11-27 à 12:30 GMT à partir des données publiées (source des cours : brvm.org, données différées).
+> Script généré automatiquement le 2026-11-27 à 12:45 GMT à partir des données publiées (source des cours : brvm.org, données différées).
 > **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 3,9 minutes (582 mots).
 
 ## 0:00 · Générique
@@ -18,17 +18,17 @@ Et à la une : Double opération d'appel public à l'épargne pour Coris Bank In
 
 Commençons par le marché.
 L’indice BRVM Composite, qui regroupe toutes les actions, termine à 450 points, en baisse de 0,8 %.
-Le BRVM 30, l’indice des trente valeurs les plus actives, est en baisse de 0,8 %, et le BRVM Prestige en baisse de 1,4 %.
-Sur l’ensemble de la séance, 12 actions ont progressé, 29 ont reculé et 7 sont restées stables.
-Côté activité, environ 583 millions de francs CFA ont été échangés aujourd’hui.
-Du côté des secteurs, meilleur score pour les Services publics, en hausse de 4,0 %, tandis que les Industriels ferme la marche, en baisse de 5,0 %.
+Le BRVM 30, l’indice des trente valeurs les plus actives, est en baisse de 0,8 %, et le BRVM Prestige en baisse de 1,3 %.
+Sur l’ensemble de la séance, 13 actions ont progressé, 28 ont reculé et 7 sont restées stables.
+Côté activité, environ 630 millions de francs CFA ont été échangés aujourd’hui.
+Du côté des secteurs, meilleur score pour les Services publics, en hausse de 3,2 %, tandis que les Industriels ferme la marche, en baisse de 4,9 %.
 
 ## 1:15 · Le palmarès
 
 Dans le haut du tableau, Coris Bank International gagne 7,5 % à 24 775 francs CFA.
 Suivent Orange Côte d’Ivoire, en hausse de 4,7 %, et CIE Côte d’Ivoire, en hausse de 4,4 %.
-En bas du tableau, Africa Global Logistics CI cède 7,5 %, NSIA Banque CI 7,4 % et TotalEnergies Marketing Sénégal 7,4 %.
-La valeur la plus échangée du jour est Sonatel, avec 73 124 titres, à 3 500 francs CFA, en baisse de 5,2 %.
+En bas du tableau, NSIA Banque CI cède 7,5 %, Africa Global Logistics CI 7,5 % et TotalEnergies Marketing Sénégal 7,4 %.
+La valeur la plus échangée du jour est Sonatel, avec 78 118 titres, à 3 500 francs CFA, en baisse de 5,2 %.
 
 ## 2:00 · L’actualité du jour
 
