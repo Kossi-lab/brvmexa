@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-27T15:00:26.892Z",
+ "updatedAt": "2026-11-27T15:15:18.459Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -17,6 +17,30 @@
     "19 PAGES"
    ],
    "pinned": true
+  },
+  {
+   "id": "sika-66000",
+   "title": "Le Ghana rachète pour 1,1 milliard USD d'obligations domestiques avant échéance",
+   "summary": "Le gouvernement ghanéen a procédé au rachat anticipé d'une partie de sa dette intérieure, une opération visant à assainir ses finances et à stimuler le financement de l'économie nationale.",
+   "body": [
+    "Le Trésor public ghanéen a finalisé le rachat anticipé de 12,6 milliards de cedis d'obligations domestiques, soit environ 1,1 milliard de dollars. Cette opération, qui concerne 44 % des titres en circulation arrivant à échéance en février 2027, s'est accompagnée du paiement de 289 millions de cedis d'intérêts courus. Le ministère des Finances a précisé que cette démarche permet de réduire le stock de la dette issue de la restructuration de 2023 tout en libérant des liquidités pour le secteur privé.",
+    "Cette initiative s'inscrit dans une stratégie plus large de redressement macroéconomique portée par le président John Dramani Mahama. Avec une inflation tombée à 5,5 % en octobre et un taux directeur ramené à 11 %, le pays affiche des indicateurs en amélioration. Le ministre des Finances, Cassiel Ato Forson, ambitionne désormais d'atteindre une croissance de 8 % d'ici 2030, en misant sur des secteurs clés comme l'agroalimentaire et les infrastructures, tout en prévoyant une nouvelle phase de rachat de titres dans deux semaines."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-66000",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-27T15:00:00Z",
+   "writtenAt": "2026-11-27T15:15:18.456Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/ghana-1-1-milliard-usd-dobligations-domestiques-rachetees-a-3-mois-de-leur-echeance_66000",
+    "title": "Ghana : 1,1 milliard USD d’obligations domestiques rachetées, à 3 mois de leur échéance"
+   },
+   "rewritten": true
   },
   {
    "id": "sika-65997",
@@ -3780,30 +3804,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/ia-google-selectionne-10-startups-africaines-innovantes-pour-accelerer-leur-deploiement-commercial_65780",
     "title": "IA : Google sélectionne 10 startups africaines innovantes pour accélérer leur déploiement commercial"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65779",
-   "title": "Le Gabon face à une condamnation judiciaire de 10,6 milliards FCFA aux États-Unis",
-   "summary": "L'État gabonais est visé par une procédure de saisie d'avoirs bancaires à New York, suite à un litige lié à la réhabilitation du stade Omar-Bongo entamée en 2009.",
-   "body": [
-    "Le contentieux trouve son origine dans des factures impayées datant de 2016 et 2017, relatives à la rénovation du stade Omar-Bongo. Initialement estimées à 7,4 milliards FCFA, ces créances ont donné lieu à une condamnation par défaut de l'État gabonais par la justice américaine en janvier 2025, portant le montant total dû à 17,9 millions de dollars, soit environ 10,6 milliards FCFA, incluant intérêts et frais d'arbitrage.",
-    "La société espagnole Eurofinsa, titulaire du marché résilié, tente désormais de recouvrer ces fonds en sollicitant la saisie d'actifs gabonais auprès de la Bank of New York Mellon. Une ordonnance du 10 novembre 2026 a acté l'examen de cette démarche par la justice fédérale new-yorkaise. Bien qu'aucun gel d'avoirs ne soit encore effectif, cette procédure illustre les risques financiers persistants liés aux anciens contrats publics du pays."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65779",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-17T10:22:00Z",
-   "writtenAt": "2026-11-17T18:10:55.542Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/gabon-trois-factures-impayees-du-stade-omar-bongo-a-lorigine-dune-condamnation-de-10-6-milliards-fcfa_65779",
-    "title": "Gabon : Trois factures impayées du stade Omar-Bongo à l’origine d’une condamnation de 10,6 milliards FCFA"
    },
    "rewritten": true
   }

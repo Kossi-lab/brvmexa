@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-27T15:00:26.890Z",
+ "updatedAt": "2026-11-27T15:15:18.457Z",
  "items": [
+  {
+   "id": "sika-66000",
+   "title": "Ghana : 1,1 milliard USD d’obligations domestiques rachetées, à 3 mois de leur échéance",
+   "summary": "Le Ghana entend tourner progressivement la page de sa crise de la dette. Dans un geste destiné à consolider le retour d...",
+   "url": "https://www.sikafinance.com/marches/ghana-1-1-milliard-usd-dobligations-domestiques-rachetees-a-3-mois-de-leur-echeance_66000",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-27T15:00:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65997",
    "title": "Congo : Moody’s identifie les réformes nécessaires pour alléger le poids de la dette publique",
@@ -4299,20 +4313,6 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-11-04T11:28:00Z",
-   "symbols": [],
-   "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "sika-65489",
-   "title": "Gabon : La TVA prend du poids dans les recettes de l'État avec 570 milliards FCFA attendus en 2027",
-   "summary": "Le gouvernement gabonais table sur 570,58 milliards FCFA de recettes issues de la taxe sur la valeur ajoutée (TVA) en 20...",
-   "url": "https://www.sikafinance.com/marches/gabon-la-tva-prend-du-poids-dans-les-recettes-de-l-etat-avec-570-milliards-fcfa-attendus-en-2027_65489",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-04T11:03:00Z",
    "symbols": [],
    "status": "done",
    "tries": 1
