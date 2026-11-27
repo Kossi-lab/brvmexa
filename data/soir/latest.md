@@ -1,7 +1,7 @@
-# BRVMexa Soir — jeudi 26 novembre 2026
+# BRVMexa Soir — vendredi 27 novembre 2026
 
-> Script généré automatiquement le 2026-11-27 à 09:00 GMT à partir des données publiées (source des cours : brvm.org, données différées).
-> **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 3,3 minutes (494 mots).
+> Script généré automatiquement le 2026-11-27 à 09:15 GMT à partir des données publiées (source des cours : brvm.org, données différées).
+> **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 3,9 minutes (579 mots).
 
 ## 0:00 · Générique
 
@@ -9,10 +9,10 @@
 
 ## 0:10 · Les titres
 
-Bonsoir et bienvenue dans BRVMexa Soir, nous sommes le jeudi 26 novembre 2026.
+Bonsoir et bienvenue dans BRVMexa Soir, nous sommes le vendredi 27 novembre 2026.
 Au programme ce soir : une BRVM en repli, avec nettement plus de baisses que de hausses.
 NSIA Banque CI signe la meilleure performance du jour.
-Et dans l’actualité : Sénégal : inauguration de la mine d'or de Boto et lancement du projet de fer de la Falémé.
+Et à la une : Double opération d'appel public à l'épargne pour Coris Bank International.
 
 ## 0:30 · La séance
 
@@ -32,13 +32,17 @@ La valeur la plus échangée du jour est Société Générale CI, avec 18 242 ti
 
 ## 2:00 · L’actualité du jour
 
-Dans l’actualité du jour :
+Notre sujet principal ce soir : Double opération d'appel public à l'épargne pour Coris Bank International.
+Coris Bank International dynamise le marché financier régional en lançant deux nouvelles introductions en bourse ce mercredi 26 novembre 2026. Une étape stratégique pour l'institution financière au sein de la BRVM.
+Ces initiatives visent à renforcer la présence de l'institution sur le marché financier de l'Union Économique et Monétaire Ouest-Africaine (UEMOA). Cette double opération témoigne de la volonté du groupe de poursuivre son développement stratégique à travers le levier boursier.
+Retrouvez l’article complet dans la rubrique À la une de BRVMexa.
+En bref :
 Sénégal : inauguration de la mine d'or de Boto et lancement du projet de fer de la Falémé. Le Sénégal renforce son secteur minier avec l'inauguration de la mine d'or de Boto et le lancement officiel du projet d'exploitation du fer de la Falémé dans la région de Kédougou.
 Côte d'Ivoire : dix entreprises franchissent le cap des 100 milliards FCFA de revenus en 2025. Dix sociétés ivoiriennes ont atteint un palier historique en 2025 en dépassant pour la première fois la barre des 100 milliards FCFA de chiffre d'affaires.
 
 ## 3:15 · Le mot de la fin
 
-Le mot du jour : « introduction en bourse ». C’est le moment où une société met pour la première fois ses actions en vente au public, avant leur cotation. C’est une occasion de devenir actionnaire, mais le cours peut ensuite monter comme baisser.
+Le mot du jour : « obligation ». C’est un prêt que vous accordez à un État ou à une entreprise, en échange d’intérêts. Le risque et le rendement sont en général plus faibles que ceux d’une action, mais pas nuls.
 
 ## 3:35 · BRVMexa, partout avec vous
 
