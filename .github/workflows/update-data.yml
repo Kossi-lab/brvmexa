@@ -126,3 +126,7 @@ jobs:
           HB: ${{ secrets.BETTERSTACK_HEARTBEAT_URL }}
         run: |
           if [ -n "$HB" ]; then curl -fsS -m 10 --retry 3 -o /dev/null "$HB" && echo "Signal envoyé."; else echo "Secret BETTERSTACK_HEARTBEAT_URL absent."; fi
+
+      - name: Signaler l'échec à Sentry
+        if: failure()
+        run: bash "$GITHUB_WORKSPACE/.github/sentry-echec.sh"

@@ -18,6 +18,10 @@ on:
         description: 'Lancer aussi le test de charge k6'
         type: boolean
         default: false
+      sentry:
+        description: 'Envoyer une erreur d’essai à Sentry (robot)'
+        type: boolean
+        default: false
 permissions:
   contents: read
 concurrency:
@@ -90,3 +94,14 @@ jobs:
           tar xzf k6.tgz && rm k6.tgz
       - name: Test de charge (30 visiteurs simultanés max, ~2 min)
         run: ./k6-v2.4.0-linux-amd64/k6 run tests-site/charge.k6.js
+
+  essai-sentry:
+    if: inputs.sentry
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
+        with:
+          persist-credentials: false
+      - name: Erreur d'essai vers Sentry
+        run: bash .github/sentry-echec.sh

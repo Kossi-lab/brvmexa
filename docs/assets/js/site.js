@@ -72,3 +72,51 @@ if (window.top !== window.self) { try { window.top.location.replace(window.locat
   }, { rootMargin: '0px 0px -8% 0px', threshold: 0.08 });
   items.forEach(function (el) { io.observe(el); });
 })();
+
+/* Détection des erreurs (Sentry, offre gratuite, données en Europe).
+   Chargé après la page pour ne pas la ralentir. Aucune donnée personnelle : pas d'IP, pas de cookies,
+   adresses nettoyées (ni paramètres, ni jetons de connexion). Uniquement sur le site en ligne. */
+(function () {
+  'use strict';
+  if (!/^(www\.)?brvmexa\.com$/.test(location.hostname)) return;
+  var DSN = 'https://87bdf823a169408f380f468add3d75ba@o4512505521766401.ingest.de.sentry.io/4512505529761872';
+  var me = document.currentScript;
+  var src = ((me && me.src) || '/assets/js/site.js').replace(/site\.js(\?.*)?$/, 'vendor/sentry.min.js');
+  var attente = [];
+  var garde = function (e) { attente.push((e && (e.error || e.reason)) || e); };
+  window.addEventListener('error', garde);
+  window.addEventListener('unhandledrejection', garde);
+  var propre = function (u) { return typeof u === 'string' ? u.split(/[?#]/)[0] : u; };
+  function charger() {
+    var s = document.createElement('script');
+    s.src = src; s.async = true;
+    s.onload = function () {
+      var S = window.BrvSentry; if (!S) return;
+      window.removeEventListener('error', garde);
+      window.removeEventListener('unhandledrejection', garde);
+      S.init({
+        dsn: DSN,
+        environment: 'production',
+        tracesSampleRate: 0,
+        sendDefaultPii: false,
+        maxBreadcrumbs: 30,
+        ignoreErrors: ['ResizeObserver loop', 'Non-Error promise rejection', 'NetworkError', 'Failed to fetch', 'Load failed', 'AbortError', 'The operation was aborted'],
+        denyUrls: [/extensions?\//i, /^(chrome|moz|safari)-?extension:/i, /googletagmanager/i, /gtag/i],
+        beforeSend: function (ev) {
+          if (ev.request) { ev.request.url = propre(ev.request.url); delete ev.request.query_string; delete ev.request.cookies; }
+          if (ev.user) delete ev.user.ip_address;
+          return ev;
+        },
+        beforeBreadcrumb: function (b) {
+          if (b.data) ['url', 'from', 'to'].forEach(function (k) { if (b.data[k]) b.data[k] = propre(b.data[k]); });
+          return b;
+        }
+      });
+      attente.forEach(function (e) { try { S.captureException(e); } catch (x) { /* rien */ } });
+      attente = [];
+    };
+    document.head.appendChild(s);
+  }
+  if (document.readyState === 'complete') setTimeout(charger, 1500);
+  else window.addEventListener('load', function () { setTimeout(charger, 1500); });
+})();

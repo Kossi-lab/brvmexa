@@ -41,3 +41,7 @@ jobs:
           SUPABASE_SECRET_KEY: ${{ secrets.SUPABASE_SECRET_KEY }}
           EXPO_ACCESS_TOKEN: ${{ secrets.EXPO_ACCESS_TOKEN }}
         run: scraper/live.sh
+
+      - name: Signaler l'échec à Sentry
+        if: failure()
+        run: bash "$GITHUB_WORKSPACE/.github/sentry-echec.sh"
