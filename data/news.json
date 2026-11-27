@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-27T16:45:21.300Z",
+ "updatedAt": "2026-11-27T17:00:31.805Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -17,6 +17,37 @@
     "19 PAGES"
    ],
    "pinned": true
+  },
+  {
+   "id": "sika-66006",
+   "title": "BRVM : Les valeurs financières soutiennent le marché dans une séance d'hésitation",
+   "summary": "La Bourse régionale affiche une tendance contrastée ce 27 novembre, marquée par le repli des grandes capitalisations compensé par la bonne tenue des titres bancaires.",
+   "body": [
+    "Le marché financier régional a connu une séance mitigée ce jeudi. Si l'indice BRVM-Composite a reculé de 0,05 % pour atteindre 453,34 points et le BRVM-Prestige a fléchi de 0,81 %, l'indice BRVM-30 a réussi à progresser de 0,06 % à 219,46 points. Avec 21 valeurs en hausse contre 20 en baisse, l'activité boursière reflète une certaine indécision des investisseurs, pour un volume total de transactions s'élevant à 1,26 milliard FCFA.",
+    "La séance a été marquée par le repli de Sonatel Sénégal, dont la capitalisation boursière a diminué de 115 milliards FCFA, pesant sur la tendance générale. Parmi les baisses les plus significatives, SIB a chuté de 7,36 %, suivie par Servair Abidjan CI (-7,34 %) et TotalEnergies Marketing Sénégal (-5,29 %). À l'inverse, le secteur financier a tiré son épingle du jeu : Bank of Africa Burkina Faso a bondi de 7,50 %, SAFCA a progressé de 7,41 % et Bank of Africa Niger a gagné 5,27 %."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-66006",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-27T16:54:00Z",
+   "writtenAt": "2026-11-27T17:00:31.802Z",
+   "symbols": [
+    "ABJC",
+    "BOABF",
+    "BOAN",
+    "SAFC",
+    "SNTS",
+    "TTLS"
+   ],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/brvm-boa-burkina-faso-et-safca-donnent-du-relief-a-une-seance-en-demi-teinte_66006",
+    "title": "BRVM : BOA Burkina Faso et SAFCA donnent du relief à une séance en demi-teinte"
+   },
+   "rewritten": true
   },
   {
    "id": "sika-66003",
@@ -3781,30 +3812,6 @@
     "name": "LACTUACHO.COM",
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZk5FTFVQcV8yTjhJR1RsdFUyWXFPdnluLXYtdTQ2Z2JWcjNEdjRmeC1BMWlac25CWjdFZnZHRnZ4LWk0TFcxY2dMNUQ0Tk1BcU9RaTRXQ29QanJmRkU4SnpXUlkxUUQyMzM5ckVnMEpiOFJaSmFtbnRBVm1vcVlJOXM3bEVvLS0zWUJXM3NSNG8xZVlUa01sdWxlaHJ1aGJYWS1kbVNjZmVXUE5HYlBScnNTeUJRaUdZUmdGemhDNGk?oc=5",
     "title": "BRVM : Edoh Kossi Amenounve récompensé pour son leadership dans les services financiers en Afrique"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "gn-43jmjm",
-   "title": "Le groupe Coris envisage une entrée en bourse pour ses filiales ivoirienne et béninoise",
-   "summary": "Le groupe bancaire Coris prévoit d'introduire ses filiales basées en Côte d'Ivoire et au Bénin sur le marché financier régional.",
-   "body": [
-    "Le groupe Coris a annoncé son intention de procéder à l'introduction en bourse de ses entités opérant en Côte d'Ivoire et au Bénin. Ce projet marque une étape stratégique pour le développement de l'institution sur le marché financier de l'UEMOA.",
-    "Cette opération, rendue publique ce 17 novembre 2026, vise à ouvrir le capital de ces deux filiales aux investisseurs de la Bourse régionale des valeurs mobilières (BRVM)."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#gn-43jmjm",
-   "image": null,
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-11-17T13:17:01.000Z",
-   "writtenAt": "2026-11-18T13:00:39.769Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNzhmU1NWRUVlWTcxV2xmWENRSWt3b2tsc1lhM1dGNWJpaDUtcGp6MFMzbHdfbXN5RUNnSHQ0RW9MZHFjTld1Z01hRklGcDZ4cXliaUZfUEtKcENOcWlnYkR6STdGakxKRTFWWW1pMkNreWVnaWJjdFdNUG8wakhjbTd5OElIRmx0NmdTcUZjNU5vc1V1MnhCc213YUp3WUk2b2pNdFlPZnRmZUlmbW5ob21BMXZlcWloeGhIQUllcEJKTFNDSE5VaTcycmxwTU5FWUVfZg?oc=5",
-    "title": "BRVM : Le groupe Coris prépare l’introduction en bourse de ses filiales de Côte d’Ivoire et du Bénin"
    },
    "rewritten": true
   }
