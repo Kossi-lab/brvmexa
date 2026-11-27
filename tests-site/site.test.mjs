@@ -3,6 +3,7 @@
 import { test, after, before } from 'node:test';
 import assert from 'node:assert/strict';
 import { chromium } from 'playwright';
+import tls from 'node:tls';
 
 const BASE = (process.env.BASE_URL || 'https://www.brvmexa.com').replace(/\/$/, '');
 const EN_LIGNE = !/localhost|127\.0\.0\.1/.test(BASE);
@@ -98,4 +99,22 @@ test('en-têtes de sécurité (Cloudflare) présents', { skip: !EN_LIGNE }, asyn
     assert.match(h['content-security-policy'] || '', /frame-ancestors 'self'/);
     assert.ok(h['referrer-policy'] && h['permissions-policy'], 'Referrer-Policy / Permissions-Policy absents');
   } finally { await page.close(); }
+});
+
+// Remplace les alertes d'expiration (payantes chez Better Stack)
+test('certificat HTTPS valide encore au moins 14 jours', { skip: !EN_LIGNE }, async () => {
+  const fin = await new Promise((ok, ko) => {
+    const s = tls.connect({ host: new URL(BASE).hostname, port: 443, servername: new URL(BASE).hostname }, () => { ok(new Date(s.getPeerCertificate().valid_to)); s.end(); });
+    s.on('error', ko);
+  });
+  const jours = (fin - Date.now()) / 864e5;
+  assert.ok(jours > 14, `le certificat expire dans ${jours.toFixed(0)} jours`);
+});
+
+test('nom de domaine renouvelé encore au moins 30 jours', { skip: !EN_LIGNE }, async () => {
+  const r = await fetch('https://rdap.verisign.com/com/v1/domain/brvmexa.com');
+  assert.equal(r.status, 200);
+  const ev = (await r.json()).events.find((e) => e.eventAction === 'expiration');
+  const jours = (Date.parse(ev.eventDate) - Date.now()) / 864e5;
+  assert.ok(jours > 30, `brvmexa.com expire dans ${jours.toFixed(0)} jours : renouvelez-le chez Hostinger`);
 });
