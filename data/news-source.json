@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-27T18:00:35.020Z",
+ "updatedAt": "2026-11-27T18:07:36.320Z",
  "items": [
+  {
+   "id": "sika-66009",
+   "title": "Coura Sène (Wave mobile money) : ‘’Nos clients ont économisé 1 milliard de dollars en frais de transaction’’",
+   "summary": "Coura Sène, Directrice régionale et des Affaires publiques de Wave Mobile Money Lors de The Fintech Event, une ren...",
+   "url": "https://www.sikafinance.com/marches/coura-sene-wave-mobile-money-nos-clients-ont-economise-1-milliard-de-dollars-en-frais-de-transaction_66009",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-27T17:57:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-66008",
    "title": "Côte d’Ivoire : Suisse, Chine, Pays-Bas… Comment évolue la carte des principaux partenaires commerciaux",
@@ -4300,20 +4314,6 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-11-04T15:29:00Z",
-   "symbols": [],
-   "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "sika-65500",
-   "title": "AFIS Awards 2026 : Wave et 5 autres acteurs récompensés pour leur rôle dans la transformation de la finance africaine",
-   "summary": "La finance africaine ne manque ni de capitaux ni d'ambitions. Son principal défi reste de transformer cette puissance f...",
-   "url": "https://www.sikafinance.com/marches/afis-awards-2026-wave-et-5-autres-acteurs-recompenses-pour-leur-role-dans-la-transformation-de-la-finance-africaine_65500",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-04T14:42:00Z",
    "symbols": [],
    "status": "done",
    "tries": 1

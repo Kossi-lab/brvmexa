@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-27T18:00:35.023Z",
+ "updatedAt": "2026-11-27T18:07:36.323Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -17,6 +17,30 @@
     "19 PAGES"
    ],
    "pinned": true
+  },
+  {
+   "id": "sika-66009",
+   "title": "Wave Mobile Money : un milliard de dollars d'économies pour ses utilisateurs",
+   "summary": "Lors de l'événement The Fintech Event à Abidjan, Wave a mis en avant l'impact socio-économique de son modèle tarifaire, permettant d'importantes économies pour ses clients à travers le continent.",
+   "body": [
+    "À l'occasion de The Fintech Event qui s'est tenu le 23 novembre 2026 à Abidjan, Coura Sène, directrice régionale de Wave Mobile Money, a souligné que la politique de tarification à 1% de l'entreprise a permis à ses utilisateurs d'économiser un milliard de dollars en frais de transaction. Cette stratégie vise à favoriser l'inclusion financière en rendant les services numériques plus abordables pour les ménages et les petits entrepreneurs.",
+    "La fintech, qui compte désormais 25 millions d'utilisateurs actifs mensuels dans 12 pays, s'appuie sur un vaste réseau de 50 000 agents et collabore avec plus de 3 millions de commerçants. Forte de cette croissance, l'entreprise insiste sur l'importance d'une collaboration étroite avec les régulateurs financiers et mise sur l'innovation tarifaire pour réduire la dépendance à l'argent liquide au sein de la zone UEMOA, où le taux d'inclusion financière a atteint près de 76% en 2026."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-66009",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-27T17:57:00Z",
+   "writtenAt": "2026-11-27T18:07:36.319Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/coura-sene-wave-mobile-money-nos-clients-ont-economise-1-milliard-de-dollars-en-frais-de-transaction_66009",
+    "title": "Coura Sène (Wave mobile money) : ‘’Nos clients ont économisé 1 milliard de dollars en frais de transaction’’"
+   },
+   "rewritten": true
   },
   {
    "id": "sika-66008",
@@ -3786,32 +3810,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/cote-divoire-nsia-asset-management-encourage-les-particuliers-a-investir-progressivement-pour-se-constituer-un-patrimoine_65788",
     "title": "Côte d’Ivoire : NSIA Asset Management encourage les particuliers à investir progressivement pour se constituer un patrimoine"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65787",
-   "title": "Coris Holding prévoit une double introduction en bourse de ses filiales ivoirienne et béninoise",
-   "summary": "Le groupe bancaire Coris s'apprête à lever 81 milliards FCFA via l'entrée en bourse de ses filiales en Côte d'Ivoire et au Bénin, prévue pour janvier 2027 sur la BRVM.",
-   "body": [
-    "Le groupe financier fondé par Idrissa Nassa franchit une étape majeure de sa stratégie de développement. Après avoir obtenu le feu vert de l'Autorité des marchés financiers de l'UMOA, Coris Holding projette de coter ses filiales ivoirienne et béninoise à la BRVM en janvier 2027. Cette opération d'envergure vise à mobiliser un total de 81 milliards FCFA, dont 62 milliards pour Coris Bank International Côte d'Ivoire et 19 milliards pour Coris Bank Bénin.",
-    "Ces deux nouvelles arrivées porteront à trois le nombre de filiales du groupe présentes sur le marché régional, après l'introduction de Coris Bank International Burkina Faso en 2016. À fin 2025, les deux banques concernées affichaient un bilan cumulé de 2 170 milliards FCFA, pour un bénéfice net global de 32,5 milliards FCFA. Les détails relatifs aux prix d'émission et aux parts de capital proposées seront dévoilés prochainement dans le cadre de la campagne de communication officielle."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65787",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-17T14:17:00Z",
-   "writtenAt": "2026-11-17T17:34:52.497Z",
-   "symbols": [
-    "CBIBF"
-   ],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/brvm-le-groupe-coris-prepare-lintroduction-en-bourse-de-ses-filiales-de-cote-divoire-et-du-benin_65787",
-    "title": "BRVM : Le groupe Coris prépare l’introduction en bourse de ses filiales de Côte d’Ivoire et du Bénin"
    },
    "rewritten": true
   }
