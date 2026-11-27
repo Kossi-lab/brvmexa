@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-27T07:45:25.038Z",
+ "updatedAt": "2026-11-27T08:00:26.849Z",
  "items": [
+  {
+   "id": "gn-1x5tkjz",
+   "title": "BRVM : 4,9 milliards $ de capitalisation perdus en dix séances de baisse",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdHF0dGlZUkt3bVhmSWl1YlBNNHlZUm9IUWxaRnhOV3Fock5IRFEtMVl3NkMtX2xKY3hOcVFPSk5MUjhHVUZiZDZMbVc5dDRLZmJ6VWtQdHFOT25tQzdxRjBSdVF5YmFGUW5FaW9VenVoS3pVdjFFcnlhV1oza3NYTldOVzdIaE01bnpLSTZSX1EySnBnNFF0S21XOFBYQVBvM3hWeXNvb3FQZ0Y0dG1tSUFZSWp4dzAxaFJoRjZuLXVtS01McHdN?oc=5",
+   "image": null,
+   "source": "AGENCE ECOFIN",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-27T07:48:00.000Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "gn-pfcddy",
    "title": "Bridge Bank Group (BBGC) — BRVM",
@@ -4302,20 +4316,6 @@
    "symbols": [
     "BOAB"
    ],
-   "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "sika-65484",
-   "title": "Côte d’Ivoire : Le gouvernement maintient le prix du coton-graine à 310 FCFA/kg pour la campagne 2026-2027",
-   "summary": "En Côte d'Ivoire, le gouvernement a maintenu à 310 FCFA le prix d'achat du kilogramme de coton-graine de premier ...",
-   "url": "https://www.sikafinance.com/marches/cote-divoire-le-gouvernement-maintient-le-prix-du-coton-graine-a-310-fcfakg-pour-la-campagne-2026-2027_65484",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-04T09:40:00Z",
-   "symbols": [],
    "status": "done",
    "tries": 1
   }

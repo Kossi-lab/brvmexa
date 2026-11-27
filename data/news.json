@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-27T07:45:25.040Z",
+ "updatedAt": "2026-11-27T08:00:26.851Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -17,6 +17,30 @@
     "19 PAGES"
    ],
    "pinned": true
+  },
+  {
+   "id": "gn-1x5tkjz",
+   "title": "BRVM : une baisse prolongée entraîne une perte de 4,9 milliards de dollars",
+   "summary": "Le marché boursier régional a enregistré une série de dix séances consécutives de repli, provoquant une érosion significative de sa capitalisation boursière totale.",
+   "body": [
+    "La Bourse régionale des valeurs mobilières (BRVM) traverse une période difficile. Sur les dix dernières séances de cotation, le marché a subi une tendance baissière continue qui pèse lourdement sur sa valorisation globale.",
+    "Cette séquence négative observée jusqu'au 27 novembre 2026 s'est traduite par une perte de 4,9 milliards de dollars de capitalisation boursière. Ce recul témoigne d'un climat actuel marqué par une pression vendeuse persistante sur le marché régional."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#gn-1x5tkjz",
+   "image": null,
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-27T07:48:00.000Z",
+   "writtenAt": "2026-11-27T08:00:26.848Z",
+   "symbols": [],
+   "origin": {
+    "name": "AGENCE ECOFIN",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdHF0dGlZUkt3bVhmSWl1YlBNNHlZUm9IUWxaRnhOV3Fock5IRFEtMVl3NkMtX2xKY3hOcVFPSk5MUjhHVUZiZDZMbVc5dDRLZmJ6VWtQdHFOT25tQzdxRjBSdVF5YmFGUW5FaW9VenVoS3pVdjFFcnlhV1oza3NYTldOVzdIaE01bnpLSTZSX1EySnBnNFF0S21XOFBYQVBvM3hWeXNvb3FQZ0Y0dG1tSUFZSWp4dzAxaFJoRjZuLXVtS01McHdN?oc=5",
+    "title": "BRVM : 4,9 milliards $ de capitalisation perdus en dix séances de baisse"
+   },
+   "rewritten": true
   },
   {
    "id": "sika-65984",
@@ -3777,30 +3801,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/marches-emergents-1-000-milliards-usd-en-jeu-pour-financer-la-prochaine-generation-de-croissance_65763",
     "title": "Marchés émergents : 1 000 milliards USD en jeu pour financer la prochaine génération de croissance"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65762",
-   "title": "Importations alimentaires : le riz et le poisson pèsent 1 260 milliards FCFA en 2025",
-   "summary": "En 2025, la Côte d'Ivoire a consacré une somme importante à l'achat de riz et de poissons congelés sur les marchés internationaux.",
-   "body": [
-    "La facture des importations ivoiriennes pour ces deux denrées de base s'est élevée à près de 1 260 milliards de francs CFA au cours de l'année 2025.",
-    "Ces achats de riz et de poissons congelés représentent une dépense totale de 1,917 milliard d'euros pour le pays sur la période concernée."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65762",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-16T16:20:00Z",
-   "writtenAt": "2026-11-16T20:41:15.838Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/cote-divoire-le-riz-et-le-poisson-ont-coute-pres-de-1-260-milliards-fcfa-dimportation-en-2025_65762",
-    "title": "Côte d’Ivoire : Le riz et le poisson ont coûté près de 1 260 milliards FCFA d’importation en 2025"
    },
    "rewritten": true
   }
