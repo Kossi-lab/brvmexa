@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-27T08:45:23.342Z",
+ "updatedAt": "2026-11-27T09:00:32.214Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -17,6 +17,30 @@
     "19 PAGES"
    ],
    "pinned": true
+  },
+  {
+   "id": "sika-65989",
+   "title": "Sénégal : inauguration de la mine d'or de Boto et lancement du projet de fer de la Falémé",
+   "summary": "Le Sénégal renforce son secteur minier avec l'inauguration de la mine d'or de Boto et le lancement officiel du projet d'exploitation du fer de la Falémé dans la région de Kédougou.",
+   "body": [
+    "Le 26 novembre 2026, le président Bassirou Diomaye Faye a inauguré le site aurifère de Boto, situé à Médina Baffé. Développé par le groupe MANAGEM, ce projet représente un investissement de 270 milliards FCFA. Il s'agit de la troisième mine industrielle d'or du pays, après celles de Sabodala et de Mako. L'infrastructure devrait créer 1 850 emplois et générer plus de 1 200 milliards FCFA de recettes pour l'État sur toute sa durée de vie.",
+    "Parallèlement, le pays a lancé le projet d'exploitation du fer de la Falémé, porté par Planet One Group et la société d'État MIFERSO. Avec un investissement de 530 milliards FCFA, ce chantier vise à valoriser les gisements de Koudékourou, Goto et Farangalia, qui concentrent 80 % des réserves locales. L'objectif est de bâtir une filière sidérurgique complète au Sénégal, capable de produire jusqu'à 12 millions de tonnes de minerai par an, tout en transformant localement l'acier pour réduire la dépendance aux importations."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65989",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-27T08:50:00Z",
+   "writtenAt": "2026-11-27T09:00:32.211Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/senegal-inauguration-de-la-3e-mine-industrielle-dor-du-pays-dotee-dun-investissement-de-270-milliards-fcfa_65989",
+    "title": "Sénégal : Inauguration de la 3e mine industrielle d’or du pays, dotée d’un investissement de 270 milliards FCFA"
+   },
+   "rewritten": true
   },
   {
    "id": "gn-1x5tkjz",
@@ -3777,30 +3801,6 @@
     "name": "Financial Afrik",
     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQLWhIYTJ0dkNiLXFwYmw4S0pMZ1FQa2p0VWF4UHY3UGMzT2ZWS3RTajJJV1RjRDU4VEFxNWhMSWRVOTJqcW1Eazk0UHNscGVqVHFCQzgwd2h0UHVBcUg4OWZjRUVfYno2b1RRb0tqcC1HWVlGNTJXUU00N0lzVWZrNllEQWxEejZERnBLalZySE13QVVpWkdlLVhiOVJWQ09tZnZ1OFlFdUtENmZKOENyUXFZek1KeUxPM19EVUdPVWQ3LUY3QmRSem1lQW1PYWk0c1g1QVlWcF9tUHBJcWg5d1BQbVVrQQ?oc=5",
     "title": "Le directeur général de la BRVM, Edoh Kossi Aménounvé, distingué aux Global Banking & Markets Awards Africa 2026"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65763",
-   "title": "Un besoin de 1 000 milliards de dollars pour stimuler la croissance des marchés émergents",
-   "summary": "Le financement de la future expansion économique des marchés émergents nécessite un apport massif de capitaux internationaux, estimé à 1 000 milliards de dollars.",
-   "body": [
-    "Les marchés émergents se positionnent comme le nouveau moteur de la rentabilité financière mondiale. Pour concrétiser ce potentiel de croissance, ces économies nécessitent un investissement global de 1 000 milliards de dollars.",
-    "Alors que les capitaux internationaux tardent encore à s'orienter vers ces zones, le déploiement de ces fonds est perçu comme une étape cruciale pour soutenir la prochaine phase de développement économique dans ces régions."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65763",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-16T17:19:00Z",
-   "writtenAt": "2026-11-16T20:41:07.463Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/marches-emergents-1-000-milliards-usd-en-jeu-pour-financer-la-prochaine-generation-de-croissance_65763",
-    "title": "Marchés émergents : 1 000 milliards USD en jeu pour financer la prochaine génération de croissance"
    },
    "rewritten": true
   }

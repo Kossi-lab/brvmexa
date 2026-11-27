@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-27T08:45:23.340Z",
+ "updatedAt": "2026-11-27T09:00:32.212Z",
  "items": [
+  {
+   "id": "sika-65989",
+   "title": "Sénégal : Inauguration de la 3e mine industrielle d’or du pays, dotée d’un investissement de 270 milliards FCFA",
+   "summary": "Le Sénégal dispose désormais de trois mines industrielles d'or. Cela, grâce à l'entrée en exploitation du site de...",
+   "url": "https://www.sikafinance.com/marches/senegal-inauguration-de-la-3e-mine-industrielle-dor-du-pays-dotee-dun-investissement-de-270-milliards-fcfa_65989",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-27T08:50:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "gn-1x5tkjz",
    "title": "BRVM : 4,9 milliards $ de capitalisation perdus en dix séances de baisse",
@@ -4300,22 +4314,6 @@
    "premium": false,
    "publishedAt": "2026-11-04T10:38:00Z",
    "symbols": [],
-   "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "sika-65486",
-   "title": "Bank Of Africa Bénin : Le résultat net se stabilise à 15 milliards FCFA sur neuf mois",
-   "summary": "L'activité de BANK OF AFRICA Bénin a évolué dans une configuration contrastée au cours des neuf premiers mois de ...",
-   "url": "https://www.sikafinance.com/marches/bank-of-africa-benin-le-resultat-net-se-stabilise-a-15-milliards-fcfa-sur-neuf-mois_65486",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": true,
-   "publishedAt": "2026-11-04T10:33:00Z",
-   "symbols": [
-    "BOAB"
-   ],
    "status": "done",
    "tries": 1
   }

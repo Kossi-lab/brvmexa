@@ -1,7 +1,7 @@
 # BRVMexa Soir — jeudi 26 novembre 2026
 
-> Script généré automatiquement le 2026-11-27 à 08:45 GMT à partir des données publiées (source des cours : brvm.org, données différées).
-> **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 3,9 minutes (579 mots).
+> Script généré automatiquement le 2026-11-27 à 09:00 GMT à partir des données publiées (source des cours : brvm.org, données différées).
+> **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 3,3 minutes (494 mots).
 
 ## 0:00 · Générique
 
@@ -12,7 +12,7 @@
 Bonsoir et bienvenue dans BRVMexa Soir, nous sommes le jeudi 26 novembre 2026.
 Au programme ce soir : une BRVM en repli, avec nettement plus de baisses que de hausses.
 NSIA Banque CI signe la meilleure performance du jour.
-Et à la une : Coris Bank International Bénin s'apprête à faire son entrée à la BRVM.
+Et dans l’actualité : Sénégal : inauguration de la mine d'or de Boto et lancement du projet de fer de la Falémé.
 
 ## 0:30 · La séance
 
@@ -32,13 +32,9 @@ La valeur la plus échangée du jour est Société Générale CI, avec 18 242 ti
 
 ## 2:00 · L’actualité du jour
 
-Notre sujet principal ce soir : Coris Bank International Bénin s'apprête à faire son entrée à la BRVM.
-Le Groupe Coris poursuit son expansion régionale en introduisant sa filiale béninoise sur le compartiment Prestige de la BRVM. Cette opération, qui prévoit une levée de 19,19 milliards FCFA, marque une étape clé pour l'institution bancaire.
-Les investisseurs pourront souscrire à ces actions du 7 au 11 décembre 2026 au prix unitaire de 4 700 FCFA. Une mesure incitative a été prévue pour le personnel de la banque, qui bénéficiera d'un tarif préférentiel de 3 760 FCFA.
-Retrouvez l’article complet dans la rubrique À la une de BRVMexa.
-En bref :
+Dans l’actualité du jour :
+Sénégal : inauguration de la mine d'or de Boto et lancement du projet de fer de la Falémé. Le Sénégal renforce son secteur minier avec l'inauguration de la mine d'or de Boto et le lancement officiel du projet d'exploitation du fer de la Falémé dans la région de Kédougou.
 Côte d'Ivoire : dix entreprises franchissent le cap des 100 milliards FCFA de revenus en 2025. Dix sociétés ivoiriennes ont atteint un palier historique en 2025 en dépassant pour la première fois la barre des 100 milliards FCFA de chiffre d'affaires.
-Sept pays africains en tête du soutien aux startups technologiques par les grandes entreprises. Un récent rapport identifie sept nations africaines où les grandes sociétés s'impliquent activement dans le développement de l'écosystème des startups technologiques.
 
 ## 3:15 · Le mot de la fin
 
