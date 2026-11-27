@@ -1,7 +1,7 @@
 # BRVMexa Soir — vendredi 27 novembre 2026
 
-> Script généré automatiquement le 2026-11-27 à 10:00 GMT à partir des données publiées (source des cours : brvm.org, données différées).
-> **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 3,9 minutes (579 mots).
+> Script généré automatiquement le 2026-11-27 à 10:15 GMT à partir des données publiées (source des cours : brvm.org, données différées).
+> **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 2,9 minutes (435 mots).
 
 ## 0:00 · Générique
 
@@ -10,25 +10,17 @@
 ## 0:10 · Les titres
 
 Bonsoir et bienvenue dans BRVMexa Soir, nous sommes le vendredi 27 novembre 2026.
-Au programme ce soir : une BRVM en repli, avec nettement plus de baisses que de hausses.
-NSIA Banque CI signe la meilleure performance du jour.
+Au programme ce soir : une BRVM quasiment stable.
 Et à la une : Double opération d'appel public à l'épargne pour Coris Bank International.
 
 ## 0:30 · La séance
 
 Commençons par le marché.
-L’indice BRVM Composite, qui regroupe toutes les actions, termine à 454 points, en baisse de 2,4 %.
-Le BRVM 30, l’indice des trente valeurs les plus actives, est en baisse de 2,5 %, et le BRVM Prestige en baisse de 2,8 %.
-Sur l’ensemble de la séance, 9 actions ont progressé, 29 ont reculé et 10 sont restées stables.
-Côté activité, environ 2,1 milliards de francs CFA ont été échangés aujourd’hui.
-Du côté des secteurs, meilleur score pour les Services publics, en hausse de 0,4 %, tandis que les Télécommunications ferme la marche, en baisse de 3,7 %.
+L’indice BRVM Composite, qui regroupe toutes les actions, termine à 454 points, stable.
+Le BRVM 30, l’indice des trente valeurs les plus actives, est stable, et le BRVM Prestige stable.
+Sur l’ensemble de la séance, 0 actions ont progressé, 0 ont reculé et 48 sont restées stables.
 
 ## 1:15 · Le palmarès
-
-Dans le haut du tableau, NSIA Banque CI gagne 7,5 % à 16 125 francs CFA.
-Suivent BOA Mali, en hausse de 5,6 %, et Sucrivoire CI, en hausse de 4,5 %.
-En bas du tableau, Unilever CI cède 7,5 %, Orange Côte d’Ivoire 7,1 % et Solibra CI 6,9 %.
-La valeur la plus échangée du jour est Société Générale CI, avec 18 242 titres, à 36 500 francs CFA, en baisse de 1,4 %.
 
 ## 2:00 · L’actualité du jour
 
