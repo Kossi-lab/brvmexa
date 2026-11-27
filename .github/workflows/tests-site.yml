@@ -1,0 +1,92 @@
+name: Tests du site (Playwright, ZAP, k6)
+# - Playwright : toutes les 6 h et après chaque changement du code du site → pages clés, erreurs JS, sécurité, fraîcheur des données
+# - OWASP ZAP : chaque lundi → analyse passive de sécurité du site en ligne (aucune attaque)
+# - k6 : test de charge léger, uniquement à la demande (« Run workflow », cocher « charge »)
+on:
+  schedule:
+    - cron: '23 */6 * * *'
+    - cron: '7 5 * * 1'
+  push:
+    paths: ['docs/assets/js/**', 'docs/*.html', 'tests-site/**', '.github/workflows/tests-site.yml']
+  workflow_dispatch:
+    inputs:
+      zap:
+        description: 'Lancer aussi OWASP ZAP'
+        type: boolean
+        default: false
+      charge:
+        description: 'Lancer aussi le test de charge k6'
+        type: boolean
+        default: false
+permissions:
+  contents: read
+concurrency:
+  group: tests-site
+  cancel-in-progress: false
+
+jobs:
+  playwright:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@a0853c24544627f65ddf259abe73b1d18a591444 # v5
+        with:
+          node-version: 22
+      - name: Installer Playwright
+        working-directory: tests-site
+        run: npm install --no-audit --no-fund && npx playwright install --with-deps chromium
+      - name: Tester le site en ligne
+        working-directory: tests-site
+        env:
+          BASE_URL: https://www.brvmexa.com
+        run: npm test
+
+  zap:
+    if: github.event.schedule == '7 5 * * 1' || inputs.zap
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
+        with:
+          persist-credentials: false
+      - name: Analyse passive OWASP ZAP (baseline)
+        run: |
+          mkdir -p zap && chmod 777 zap
+          docker run --rm -v "$PWD/zap:/zap/wrk:rw" -v "$PWD/tests-site/zap-regles.tsv:/zap/wrk/regles.tsv:ro" \
+            ghcr.io/zaproxy/zaproxy:stable zap-baseline.py \
+            -t https://www.brvmexa.com -m 3 -c regles.tsv -r rapport-zap.html -J rapport-zap.json -I
+      - name: Résumé
+        if: always()
+        run: |
+          python3 -c "
+          import json
+          d=json.load(open('zap/rapport-zap.json'))
+          for s in d['site']:
+              for a in sorted(s['alerts'], key=lambda a:-int(a['riskcode'])):
+                  print(['Info','Faible','Moyen','Élevé'][int(a['riskcode'])], '·', a['name'], '·', a['count'], 'URL')
+          "
+      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4.6.2
+        if: always()
+        with:
+          name: rapport-zap
+          path: zap/rapport-zap.*
+          retention-days: 30
+
+  charge:
+    if: inputs.charge
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
+        with:
+          persist-credentials: false
+      - name: Installer k6 2.4.0 (empreinte vérifiée)
+        run: |
+          curl -sSfL -o k6.tgz https://github.com/grafana/k6/releases/download/v2.4.0/k6-v2.4.0-linux-amd64.tar.gz
+          echo "5a5ecf23529ccf93135bc7e5b0c1cd5126ecf5f2672e22eed1556a0ab74abb87  k6.tgz" | sha256sum -c -
+          tar xzf k6.tgz && rm k6.tgz
+      - name: Test de charge (30 visiteurs simultanés max, ~2 min)
+        run: ./k6-v2.4.0-linux-amd64/k6 run tests-site/charge.k6.js

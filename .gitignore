@@ -13,3 +13,4 @@ GoogleService-Info.plist
 BRVMexaSecret/
 app/
 node_modules/
+tests-site/node_modules/

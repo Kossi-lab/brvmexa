@@ -5,3 +5,4 @@ docs/assets/data/
 docs/assets/js/vendor/
 data/
 node_modules/
+tests-site/

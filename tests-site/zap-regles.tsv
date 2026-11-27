@@ -1,0 +1,4 @@
+10020	WARN	(Anti-clickjacking : en-tête impossible sur GitHub Pages, prévu avec Cloudflare)
+10021	WARN	(X-Content-Type-Options : géré par GitHub Pages / Cloudflare)
+10038	WARN	(CSP : posée en balise meta, en-tête prévu avec Cloudflare)
+10035	WARN	(HSTS : prévu avec Cloudflare)
