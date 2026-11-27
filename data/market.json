@@ -1,15 +1,15 @@
 {
- "updatedAt": "2026-11-27T15:30:28.972Z",
+ "updatedAt": "2026-11-27T15:33:09.494Z",
  "sessionDate": "2026-11-27",
- "sessionTime": "15:15",
+ "sessionTime": "15:30",
  "source": "brvm.org",
- "transactionsValue": 1332627422,
+ "transactionsValue": 1332991572,
  "capitalisationActions": 17777922130900,
  "capitalisationBonds": 13422109672311,
  "advancing": 21,
  "declining": 20,
  "unchanged": 7,
- "totalVolume": 934717,
+ "totalVolume": 934735,
  "gainers": [
   {
    "symbol": "BOABF",
@@ -118,7 +118,7 @@
    "shortName": "Société Générale CI",
    "close": 36200,
    "change": -0.82,
-   "volume": 2031
+   "volume": 2039
   }
  ]
 }

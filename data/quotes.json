@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-11-27T15:30:28.972Z",
+ "updatedAt": "2026-11-27T15:33:09.494Z",
  "sessionDate": "2026-11-27",
- "sessionTime": "15:15",
+ "sessionTime": "15:30",
  "source": "brvm.org",
  "items": [
   {
@@ -157,7 +157,7 @@
   {
    "symbol": "BOAS",
    "name": "BANK OF AFRICA SENEGAL",
-   "volume": 5320,
+   "volume": 5330,
    "prevClose": 7405,
    "refPrice": 7400,
    "open": 7495,
@@ -487,7 +487,7 @@
   {
    "symbol": "SGBC",
    "name": "SOCIETE GENERALE COTE D'IVOIRE",
-   "volume": 2031,
+   "volume": 2039,
    "prevClose": 36500,
    "refPrice": 36500,
    "open": 36500,
