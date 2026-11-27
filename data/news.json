@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-27T10:15:18.868Z",
+ "updatedAt": "2026-11-27T10:30:28.205Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -17,6 +17,30 @@
     "19 PAGES"
    ],
    "pinned": true
+  },
+  {
+   "id": "sika-65993",
+   "title": "AFG Holding obtient 25 millions USD pour renforcer son expansion bancaire en Afrique",
+   "summary": "Le groupe AFG Holding a sécurisé un financement de 25 millions de dollars auprès de BluePeak Private Capital pour soutenir ses activités de crédit et son développement sur le continent.",
+   "body": [
+    "La holding bancaire du groupe Atlantic, basée à Abidjan, a finalisé le 17 novembre dernier une levée de fonds de 25 millions de dollars, soit environ 14,3 milliards FCFA, auprès du Fonds II de BluePeak Private Capital. Cet apport financier est destiné à accroître les capacités de prêt des sept banques commerciales du groupe, présentes au Cameroun, aux Comores, en Côte d'Ivoire, au Gabon, en Guinée, à Madagascar et au Mali.",
+    "Cette opération vise à favoriser l'inclusion financière des particuliers et des PME, dans des régions où le taux de bancarisation demeure structurellement faible. AFG Holding, qui compte plus de 880 000 clients, souhaite ainsi renforcer son soutien aux entreprises dirigées par des femmes et améliorer son offre de crédit sur ses marchés actuels. Le partenariat inclut également des engagements en matière de gouvernance, de finance verte et de gestion des risques environnementaux et sociaux."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-65993",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-27T09:53:00Z",
+   "writtenAt": "2026-11-27T10:30:28.202Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/banque-afg-holding-mobilise-25-millions-usd-aupres-de-bluepeak-pour-accelerer-son-expansion-en-afrique_65993",
+    "title": "Banque : AFG Holding mobilise 25 millions USD auprès de BluePeak pour accélérer son expansion en Afrique"
+   },
+   "rewritten": true
   },
   {
    "id": "sika-65989",
@@ -3777,30 +3801,6 @@
     "name": "Africtelegraph",
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdXlUZ2VNOVM1OUxpbGFyanhUX3ZBT0hqNUlmYVgyV1Z1ZVhFWWdxSmlkU2R2VTB0SFJsZVQzbURaRWtOTTVhQVlBcUhKLXdVMkRNTVFMdjVYZ3FobWtsQ195RU5MTXh6TEFuTDR5U1NCemh3QXNCLU5vekw3RDRDcWF3b0xISkVNd0RlZWMwS2dlVV8yWUxibzdn?oc=5",
     "title": "Casablanca capte 65 % des IPO africaines en 2025, un signal fort"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "gn-19eepi",
-   "title": "Edoh Kossi Aménounvé, directeur général de la BRVM, primé aux Global Banking & Markets Awards 2026",
-   "summary": "Le dirigeant de la Bourse régionale des valeurs mobilières a été mis à l'honneur lors de l'édition 2026 des Global Banking & Markets Awards Africa.",
-   "body": [
-    "Le 16 novembre 2026, Edoh Kossi Aménounvé, directeur général de la BRVM, a reçu une distinction prestigieuse. Il a été récompensé dans le cadre des Global Banking & Markets Awards Africa 2026.",
-    "Cette reconnaissance souligne le parcours du dirigeant à la tête de l'institution financière régionale. Ce prix s'inscrit dans le cadre de cet événement annuel dédié à l'excellence dans le secteur bancaire et financier sur le continent africain."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#gn-19eepi",
-   "image": null,
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-11-16T18:13:32.000Z",
-   "writtenAt": "2026-11-17T00:10:47.745Z",
-   "symbols": [],
-   "origin": {
-    "name": "Financial Afrik",
-    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQLWhIYTJ0dkNiLXFwYmw4S0pMZ1FQa2p0VWF4UHY3UGMzT2ZWS3RTajJJV1RjRDU4VEFxNWhMSWRVOTJqcW1Eazk0UHNscGVqVHFCQzgwd2h0UHVBcUg4OWZjRUVfYno2b1RRb0tqcC1HWVlGNTJXUU00N0lzVWZrNllEQWxEejZERnBLalZySE13QVVpWkdlLVhiOVJWQ09tZnZ1OFlFdUtENmZKOENyUXFZek1KeUxPM19EVUdPVWQ3LUY3QmRSem1lQW1PYWk0c1g1QVlWcF9tUHBJcWg5d1BQbVVrQQ?oc=5",
-    "title": "Le directeur général de la BRVM, Edoh Kossi Aménounvé, distingué aux Global Banking & Markets Awards Africa 2026"
    },
    "rewritten": true
   }

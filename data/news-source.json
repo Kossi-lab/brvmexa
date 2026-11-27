@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-27T10:15:18.866Z",
+ "updatedAt": "2026-11-27T10:30:28.203Z",
  "items": [
+  {
+   "id": "sika-65993",
+   "title": "Banque : AFG Holding mobilise 25 millions USD auprès de BluePeak pour accélérer son expansion en Afrique",
+   "summary": "AFG Holding passe un cap nouveau dans sa stratégie de développement bancaire sur le continent. En effet, la holding ban...",
+   "url": "https://www.sikafinance.com/marches/banque-afg-holding-mobilise-25-millions-usd-aupres-de-bluepeak-pour-accelerer-son-expansion-en-afrique_65993",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-27T09:53:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-65989",
    "title": "Sénégal : Inauguration de la 3e mine industrielle d’or du pays, dotée d’un investissement de 270 milliards FCFA",
@@ -4299,20 +4313,6 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-11-04T10:44:00Z",
-   "symbols": [],
-   "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "sika-65488",
-   "title": "La BAD conserve pour la 3e fois son titre de banque multilatérale la plus transparente au monde",
-   "summary": "Dans un environnement mondial où la confiance des investisseurs se construit autant sur la qualité des projets q...",
-   "url": "https://www.sikafinance.com/marches/la-bad-conserve-pour-la-3e-fois-son-titre-de-banque-multilaterale-la-plus-transparente-au-monde_65488",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-04T10:38:00Z",
    "symbols": [],
    "status": "done",
    "tries": 1
