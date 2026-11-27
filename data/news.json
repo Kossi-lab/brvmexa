@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-27T12:15:23.564Z",
+ "updatedAt": "2026-11-27T12:30:28.230Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -1900,6 +1900,32 @@
    "rewritten": true
   },
   {
+   "id": "gn-1lha5z2",
+   "title": "Le Groupe Coris cède 20% de sa filiale ivoirienne en vue d'une cotation à la BRVM",
+   "summary": "Le Groupe Coris lance la cession de 20% des parts de Coris Bank Côte d'Ivoire préalablement à son introduction sur le marché financier régional.",
+   "body": [
+    "Dans la perspective de son introduction sur le marché financier de l'Union monétaire ouest-africaine, le Groupe Coris a enclenché l'ouverture du capital de sa filiale ivoirienne. Une proportion de 20% des parts de Coris Bank Côte d'Ivoire est ainsi proposée à la vente.",
+    "Cette opération majeure constitue une étape préparatoire essentielle avant l'arrivée officielle de l'établissement bancaire sur les cotations de la Bourse Régionale des Valeurs Mobilières."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#gn-1lha5z2",
+   "image": null,
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-23T08:23:06.000Z",
+   "writtenAt": "2026-11-27T12:30:28.227Z",
+   "symbols": [
+    "CBIBF"
+   ],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQc1pCZ2NzYUhPWW9VZTJiaXI4czhoNk5rYVZtb2g5SExyM3ZTQTluSHU2TzBpbnBHeEMwaHNmT3hqZ3VFVnY0c3FlTFNzakNKdXlRRk1yNElCTEZvUHEzYmM3WEVPZ0tSNlNEa0JCMmc0YkNYSjFtVEVGVjB5RE85UUNkQ05JYmlfbHJ5TlFzRU1DWVY5NVN6cUFMaDhreHAzQ1BGNHlZOUZoeUlfay1QbGJONEVLX2xmdmthamwtb3Z4ZkJubzhlWGJjRkNmM1U2bFB1aA?oc=5",
+    "title": "Le Groupe Coris met en vente 20% du capital de Coris Bank Côte d’Ivoire avant son entrée à la BRVM"
+   },
+   "rewritten": true
+  },
+  {
    "id": "gn-1x1c30v",
    "title": "Un groupe bancaire ivoirien annonce son introduction en bourse à la BRVM",
    "summary": "Une institution bancaire basée en Côte d'Ivoire s'apprête à faire son entrée sur le marché financier régional en cédant 20 % de son capital au public.",
@@ -3777,30 +3803,6 @@
     "name": "FratMat",
     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPYWhUcXJET29pTGtheUpFbnc4WktjN3BhVHRLaFRfSjQ2MmZ0d2JZdjdYYVdyY05iaktMMC1TU1A4dU1rdXpzZXg1bDFIZDlPc0lZSllTYjhXcDd5dkNTd2tJWmQ3TVFsbEhFZkNocHdKYmxzR01YZE92TlJ5SGJyQVJCaVRYUk9tWkNKSHVXZ1VRX3RYdWZwVFlQUmQyZGR2MUpSa1M0OXpSS3ZPVGE1UXM1WHRiYWM4N0lsdWh0clZOSHlBc3RqMzNDQUxfOFJ1Z2cyWnVNUVRPNjFqODM2QllYZFI0R2ppT0dUOXlCNUFXNHNO?oc=5",
     "title": "Global Banking & Markets Awards Africa 2026 : Le prix de leadership africain décerné au directeur général de la Brvm"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "gn-1hmmpn6",
-   "title": "Marché financier : Casablanca domine les introductions en bourse en Afrique en 2025",
-   "summary": "La place financière de Casablanca s'est imposée comme le principal moteur des entrées en bourse sur le continent au cours de l'année 2025.",
-   "body": [
-    "Le marché boursier de Casablanca a concentré 65 % de l'ensemble des introductions en bourse (IPO) réalisées sur le continent africain durant l'année 2025.",
-    "Cette performance, enregistrée au 17 novembre 2026, témoigne du dynamisme de la place financière marocaine dans le paysage économique africain actuel."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#gn-1hmmpn6",
-   "image": null,
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-11-17T05:18:54.000Z",
-   "writtenAt": "2026-11-17T18:11:16.305Z",
-   "symbols": [],
-   "origin": {
-    "name": "Africtelegraph",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdXlUZ2VNOVM1OUxpbGFyanhUX3ZBT0hqNUlmYVgyV1Z1ZVhFWWdxSmlkU2R2VTB0SFJsZVQzbURaRWtOTTVhQVlBcUhKLXdVMkRNTVFMdjVYZ3FobWtsQ195RU5MTXh6TEFuTDR5U1NCemh3QXNCLU5vekw3RDRDcWF3b0xISkVNd0RlZWMwS2dlVV8yWUxibzdn?oc=5",
-    "title": "Casablanca capte 65 % des IPO africaines en 2025, un signal fort"
    },
    "rewritten": true
   }

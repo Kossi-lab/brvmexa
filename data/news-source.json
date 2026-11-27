@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-27T12:15:23.562Z",
+ "updatedAt": "2026-11-27T12:30:28.228Z",
  "items": [
   {
    "id": "sika-65993",
@@ -1182,22 +1182,6 @@
    "tries": 1
   },
   {
-   "id": "sika-65876",
-   "title": "Le Groupe Coris met en vente 20% du capital de Coris Bank Côte d’Ivoire avant son entrée à la BRVM",
-   "summary": "L'offre publique de vente porte sur 8,16 millions d'actions, proposées à 7 720 FCFA au public. Les souscriptions sont p...",
-   "url": "https://www.sikafinance.com/marches/le-groupe-coris-met-en-vente-20-du-capital-de-coris-bank-cote-divoire-avant-son-entree-a-la-brvm_65876",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-23T09:23:00Z",
-   "symbols": [
-    "CBIBF"
-   ],
-   "status": "done",
-   "tries": 1
-  },
-  {
    "id": "sika-65875",
    "title": "Le SIREXE referme ses portes avec près de 5 000 milliards FCFA d’investissements en perspective",
    "summary": "A Abidjan, le succès de la deuxième édition du SIREXE se lit dans les premiers résultats présentés lors de la cérémonie...",
@@ -1208,6 +1192,22 @@
    "premium": false,
    "publishedAt": "2026-11-23T08:56:00Z",
    "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "gn-1lha5z2",
+   "title": "Le Groupe Coris met en vente 20% du capital de Coris Bank Côte d’Ivoire avant son entrée à la BRVM",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQc1pCZ2NzYUhPWW9VZTJiaXI4czhoNk5rYVZtb2g5SExyM3ZTQTluSHU2TzBpbnBHeEMwaHNmT3hqZ3VFVnY0c3FlTFNzakNKdXlRRk1yNElCTEZvUHEzYmM3WEVPZ0tSNlNEa0JCMmc0YkNYSjFtVEVGVjB5RE85UUNkQ05JYmlfbHJ5TlFzRU1DWVY5NVN6cUFMaDhreHAzQ1BGNHlZOUZoeUlfay1QbGJONEVLX2xmdmthamwtb3Z4ZkJubzhlWGJjRkNmM1U2bFB1aA?oc=5",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-23T08:23:06.000Z",
+   "symbols": [
+    "CBIBF"
+   ],
    "status": "done",
    "tries": 1
   },
