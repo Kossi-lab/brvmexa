@@ -1,6 +1,22 @@
 {
- "updatedAt": "2026-11-27T02:45:23.475Z",
+ "updatedAt": "2026-11-27T03:00:28.693Z",
  "items": [
+  {
+   "id": "gn-pfcddy",
+   "title": "Bridge Bank Group (BBGC) — BRVM",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VWFNIS3puU1RSY09PZGRsWkVIcnh4cHM3ZXFnd2lVbmR1OGU3dFRfMG92UENpbkdnVjNnNGpvckliaWthcXBZaVBjeVVFZXBodzNCZEpSU1hBN1FXbDlLSC0yb0Nvdw?oc=5",
+   "image": null,
+   "source": "Dabafinance",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-27T00:17:49.000Z",
+   "symbols": [
+    "BBGC"
+   ],
+   "status": "new",
+   "tries": 0
+  },
   {
    "id": "sika-65984",
    "title": "Côte d’Ivoire : Ces 10 plus grandes entreprises ayant dépassé pour la 1ère fois les 100 milliards FCFA de chiffre d’affaires en 2025",
@@ -608,22 +624,6 @@
    "symbols": [],
    "status": "done",
    "tries": 1
-  },
-  {
-   "id": "gn-pfcddy",
-   "title": "Bridge Bank Group (BBGC) — BRVM",
-   "summary": null,
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VWFNIS3puU1RSY09PZGRsWkVIcnh4cHM3ZXFnd2lVbmR1OGU3dFRfMG92UENpbkdnVjNnNGpvckliaWthcXBZaVBjeVVFZXBodzNCZEpSU1hBN1FXbDlLSC0yb0Nvdw?oc=5",
-   "image": null,
-   "source": "Dabafinance",
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-11-25T06:15:45.000Z",
-   "symbols": [
-    "BBGC"
-   ],
-   "status": "new",
-   "tries": 0
   },
   {
    "id": "gn-oxc567",
