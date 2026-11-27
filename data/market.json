@@ -1,15 +1,15 @@
 {
- "updatedAt": "2026-11-27T14:45:15.570Z",
+ "updatedAt": "2026-11-27T14:48:08.736Z",
  "sessionDate": "2026-11-27",
- "sessionTime": "14:30",
+ "sessionTime": "14:45",
  "source": "brvm.org",
- "transactionsValue": 1286206152,
- "capitalisationActions": 17814078578732,
- "capitalisationBonds": 13418649671911,
- "advancing": 19,
- "declining": 20,
- "unchanged": 9,
- "totalVolume": 921643,
+ "transactionsValue": 1294261227,
+ "capitalisationActions": 17801688276132,
+ "capitalisationBonds": 13422109672311,
+ "advancing": 21,
+ "declining": 19,
+ "unchanged": 8,
+ "totalVolume": 922777,
  "gainers": [
   {
    "symbol": "BOABF",
@@ -49,18 +49,25 @@
  ],
  "losers": [
   {
+   "symbol": "SIBC",
+   "shortName": "Société Ivoirienne de Banque",
+   "close": 7105,
+   "change": -7.49,
+   "volume": 10776
+  },
+  {
+   "symbol": "ABJC",
+   "shortName": "Servair Abidjan",
+   "close": 2400,
+   "change": -7.34,
+   "volume": 3950
+  },
+  {
    "symbol": "LNBB",
    "shortName": "Loterie Nationale du Bénin",
    "close": 3620,
    "change": -7.06,
    "volume": 5427
-  },
-  {
-   "symbol": "SIBC",
-   "shortName": "Société Ivoirienne de Banque",
-   "close": 7250,
-   "change": -5.6,
-   "volume": 9656
   },
   {
    "symbol": "UNXC",
@@ -75,13 +82,6 @@
    "close": 3315,
    "change": -5.29,
    "volume": 4031
-  },
-  {
-   "symbol": "CFAC",
-   "shortName": "CFAO Motors CI",
-   "close": 1100,
-   "change": -5.17,
-   "volume": 1884
   }
  ],
  "mostActive": [
@@ -107,18 +107,18 @@
    "volume": 10693
   },
   {
+   "symbol": "SIBC",
+   "shortName": "Société Ivoirienne de Banque",
+   "close": 7105,
+   "change": -7.49,
+   "volume": 10776
+  },
+  {
    "symbol": "SGBC",
    "shortName": "Société Générale CI",
    "close": 36200,
    "change": -0.82,
    "volume": 1977
-  },
-  {
-   "symbol": "SIBC",
-   "shortName": "Société Ivoirienne de Banque",
-   "close": 7250,
-   "change": -5.6,
-   "volume": 9656
   }
  ]
 }

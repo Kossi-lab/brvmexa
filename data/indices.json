@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-11-27T14:45:15.570Z",
+ "updatedAt": "2026-11-27T14:48:08.736Z",
  "sessionDate": "2026-11-27",
- "sessionTime": "14:30",
+ "sessionTime": "14:45",
  "source": "brvm.org",
  "items": [
   {
@@ -9,8 +9,8 @@
    "name": "BRVM 30",
    "group": "main",
    "prevClose": 219.33,
-   "close": 220,
-   "change": 0.31,
+   "close": 219.79,
+   "change": 0.21,
    "ytd": 1.97
   },
   {
@@ -18,8 +18,8 @@
    "name": "BRVM Composite",
    "group": "main",
    "prevClose": 453.57,
-   "close": 454.27,
-   "change": 0.15,
+   "close": 453.95,
+   "change": 0.08,
    "ytd": 1.7
   },
   {
@@ -27,8 +27,8 @@
    "name": "BRVM Prestige",
    "group": "main",
    "prevClose": 173.43,
-   "close": 172.31,
-   "change": -0.65,
+   "close": 172.01,
+   "change": -0.82,
    "ytd": 1.47
   },
   {
@@ -36,7 +36,7 @@
    "name": "BRVM Principal",
    "group": "main",
    "prevClose": 310.38,
-   "close": 313.62,
+   "close": 313.61,
    "change": 1.04,
    "ytd": 0.78
   },
@@ -45,8 +45,8 @@
    "name": "BRVM Consommation de Base",
    "group": "main",
    "prevClose": 230.1,
-   "close": 232.62,
-   "change": 1.1,
+   "close": 232.98,
+   "change": 1.25,
    "ytd": 1.51
   },
   {
@@ -54,8 +54,8 @@
    "name": "BRVM Consommation Discrétionnaire",
    "group": "main",
    "prevClose": 154.24,
-   "close": 147.66,
-   "change": -4.27,
+   "close": 147.26,
+   "change": -4.53,
    "ytd": -0.87
   },
   {
@@ -81,8 +81,8 @@
    "name": "BRVM Services Financiers",
    "group": "main",
    "prevClose": 205.59,
-   "close": 205.87,
-   "change": 0.14,
+   "close": 205.49,
+   "change": -0.05,
    "ytd": 0.56
   },
   {
@@ -108,8 +108,8 @@
    "name": "BRVM Composite Total Return",
    "group": "total_return",
    "prevClose": 182.78,
-   "close": 183.06,
-   "change": 0.15,
+   "close": 182.94,
+   "change": 0.09,
    "ytd": 1.7
   }
  ]
