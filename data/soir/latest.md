@@ -1,7 +1,7 @@
 # BRVMexa Soir — vendredi 27 novembre 2026
 
-> Script généré automatiquement le 2026-11-27 à 11:30 GMT à partir des données publiées (source des cours : brvm.org, données différées).
-> **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 3,9 minutes (581 mots).
+> Script généré automatiquement le 2026-11-27 à 11:45 GMT à partir des données publiées (source des cours : brvm.org, données différées).
+> **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 4,0 minutes (593 mots).
 
 ## 0:00 · Générique
 
@@ -11,24 +11,25 @@
 
 Bonsoir et bienvenue dans BRVMexa Soir, nous sommes le vendredi 27 novembre 2026.
 Au programme ce soir : une BRVM quasiment stable, avec nettement plus de baisses que de hausses.
-Orange Côte d’Ivoire signe la meilleure performance du jour.
+Coris Bank International signe la meilleure performance du jour.
 Et à la une : Double opération d'appel public à l'épargne pour Coris Bank International.
 
 ## 0:30 · La séance
 
 Commençons par le marché.
-L’indice BRVM Composite, qui regroupe toutes les actions, termine à 455 points, en hausse de 0,2 %.
-Le BRVM 30, l’indice des trente valeurs les plus actives, est en hausse de 0,4 %, et le BRVM Prestige en baisse de 0,06 %.
-Sur l’ensemble de la séance, 11 actions ont progressé, 23 ont reculé et 14 sont restées stables.
-Côté activité, environ 287 millions de francs CFA ont été échangés aujourd’hui.
-Du côté des secteurs, meilleur score pour les Services publics, en hausse de 4,2 %, tandis que les Industriels ferme la marche, en baisse de 4,1 %.
+L’indice BRVM Composite, qui regroupe toutes les actions, termine à 453 points, en baisse de 0,07 %.
+Le BRVM 30, l’indice des trente valeurs les plus actives, est en baisse de 0,01 %, et le BRVM Prestige en baisse de 0,3 %.
+Sur l’ensemble de la séance, 10 actions ont progressé, 25 ont reculé et 13 sont restées stables.
+Côté activité, environ 332 millions de francs CFA ont été échangés aujourd’hui.
+Du côté des secteurs, meilleur score pour les Services publics, en hausse de 4,0 %, tandis que les Industriels ferme la marche, en baisse de 4,2 %.
 
 ## 1:15 · Le palmarès
 
-Dans le haut du tableau, Orange Côte d’Ivoire gagne 6,4 % à 18 300 francs CFA.
-Suivent Coris Bank International, en hausse de 6,3 %, et CIE Côte d’Ivoire, en hausse de 4,8 %.
-En bas du tableau, Africa Global Logistics CI cède 7,5 %, Bernabé CI 7,2 % et CFAO Motors CI 5,2 %.
-La valeur la plus échangée du jour est Sonatel, avec 23 567 titres, à 3 640 francs CFA, en baisse de 1,4 %.
+Dans le haut du tableau, Coris Bank International gagne 6,3 % à 24 510 francs CFA.
+Suivent Orange Côte d’Ivoire, en hausse de 4,7 %, et CIE Côte d’Ivoire, en hausse de 4,4 %.
+En bas du tableau, Africa Global Logistics CI cède 7,5 %, Bernabé CI 7,2 % et SAFCA CI 6,7 %.
+La valeur la plus échangée du jour est Sonatel, avec 27 136 titres, à 3 600 francs CFA, en baisse de 2,4 %.
+À noter aussi : Coris Bank International, très échangée, progresse de 6,3 %.
 
 ## 2:00 · L’actualité du jour
 
