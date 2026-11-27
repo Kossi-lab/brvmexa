@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-27T18:45:29.430Z",
+ "updatedAt": "2026-11-27T19:00:30.864Z",
  "items": [
   {
    "id": "sika-66010",
@@ -126,6 +126,20 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-11-27T15:00:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
+  {
+   "id": "sika-66011",
+   "title": "Afrique : Scanning Systems décroche la certification ISO 9001 et renforce ses ambitions dans le commerce transfrontalier",
+   "summary": "Spécialiste de la conception, du financement et de l'exploitation des postes de contrôle juxtaposés en Afrique, S...",
+   "url": "https://www.sikafinance.com/marches/afrique-scanning-systems-decroche-la-certification-iso-9001-et-renforce-ses-ambitions-dans-le-commerce-transfrontalier_66011",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-27T14:46:00Z",
    "symbols": [],
    "status": "done",
    "tries": 1
@@ -4301,20 +4315,6 @@
    "symbols": [
     "NSBC"
    ],
-   "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "sika-65503",
-   "title": "Nigeria : La fintech Bamboo facilite 99 milliards de nairas de souscriptions à l’introduction en bourse de Dangote Refinery",
-   "summary": "Lors de la récente introduction en bourse de la gigantesque raffinerie Dangote au Nigeria, la fintech Bamboo a créé la ...",
-   "url": "https://www.sikafinance.com/marches/nigeria-la-fintech-bamboo-facilite-99-milliards-de-nairas-de-souscriptions-a-lintroduction-en-bourse-de-dangote-refinery_65503",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-04T15:35:00Z",
-   "symbols": [],
    "status": "done",
    "tries": 1
   }

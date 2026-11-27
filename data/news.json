@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-27T18:45:29.432Z",
+ "updatedAt": "2026-11-27T19:00:30.866Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -240,6 +240,30 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/ghana-1-1-milliard-usd-dobligations-domestiques-rachetees-a-3-mois-de-leur-echeance_66000",
     "title": "Ghana : 1,1 milliard USD d’obligations domestiques rachetées, à 3 mois de leur échéance"
+   },
+   "rewritten": true
+  },
+  {
+   "id": "sika-66011",
+   "title": "Scanning Systems obtient la certification ISO 9001 pour ses infrastructures frontalières",
+   "summary": "L'opérateur de postes de contrôle juxtaposés Scanning Systems a reçu la certification ISO 9001:2015, renforçant sa crédibilité pour étendre son modèle logistique à l'échelle du continent africain.",
+   "body": [
+    "Basée à Abidjan, la société Scanning Systems a franchi une étape clé de sa structuration interne en obtenant, le 12 novembre 2026, la certification ISO 9001:2015. Délivrée par SGS Côte d'Ivoire, cette reconnaissance internationale valide la gestion de la qualité au sein de cette filiale de Tassec Investment Holding, dirigée par Mory Diané. Cette distinction est perçue par la direction comme un levier de compétitivité essentiel pour renforcer la confiance de ses partenaires institutionnels et financiers.",
+    "Spécialisée dans les postes de contrôle juxtaposés (PCJ), l'entreprise vise à fluidifier le commerce intra-africain en réduisant les délais de passage aux frontières. Son modèle, qui a fait ses preuves avec le poste de Cinkansé — où le temps de transit est passé de plusieurs jours à quelques heures — et celui de Laléraba, attire des investisseurs comme Africa50. Avec douze concessions en Afrique de l'Ouest et des discussions en cours avec la CEMAC, Scanning Systems ambitionne désormais de déployer ses solutions logistiques sur l'ensemble du continent, en collaboration avec le secrétariat de la ZLECAf."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-66011",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-27T14:46:00Z",
+   "writtenAt": "2026-11-27T19:00:30.863Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/afrique-scanning-systems-decroche-la-certification-iso-9001-et-renforce-ses-ambitions-dans-le-commerce-transfrontalier_66011",
+    "title": "Afrique : Scanning Systems décroche la certification ISO 9001 et renforce ses ambitions dans le commerce transfrontalier"
    },
    "rewritten": true
   },
@@ -3783,30 +3807,6 @@
     "name": "Sika Finance",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ZVUpCSkNWRzQya0t4Z0FiSDYtUVpNLUp3ZlR4UTJhcTBFREc3d0lQSlEyczNXbkp6XzFYMG5DU3pIdGZOSl9PekhCMDhya3dfZHlFWmh0dzhoYzY3bTBlckcxeElNMjRCUDU2R2t6RmY3aWtjSm5HOUh2NA?oc=5",
     "title": "BRVM : Un marché peint en rouge"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65790",
-   "title": "Nigeria : Dangote investit 2,2 milliards USD pour moderniser le réseau routier",
-   "summary": "Le groupe Dangote engage 2,2 milliards de dollars dans la réhabilitation des routes nigérianes pour optimiser sa logistique industrielle et réduire les coûts de transport liés à sa vaste flotte de camions.",
-   "body": [
-    "Le milliardaire Aliko Dangote a annoncé un investissement de 3 300 milliards de nairas, soit environ 2,2 milliards de dollars, dédié à la modernisation des infrastructures routières au Nigeria. Présenté lors du sommet Invest in Ghana le 16 novembre, ce projet vise à pallier le mauvais état de 80 % du réseau routier national, un frein majeur pour l'acheminement des marchandises. Pour le groupe, dont la flotte compte 14 000 camions, cette initiative est cruciale pour sécuriser ses opérations industrielles.",
-    "Parmi les chantiers phares figure l'autoroute en béton de 401 km reliant Lambata à Kontagora, lancée le 13 octobre pour un coût de 1,34 milliard de dollars. Le groupe intervient également sur des axes stratégiques à Lagos et Kogi pour desservir ses complexes industriels. Parallèlement, Aliko Dangote poursuit une stratégie d'expansion continentale ambitieuse, visant 70 milliards de dollars d'investissements en Afrique d'ici 2030, tout en prônant une intégration économique renforcée au sein de la CEDEAO."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65790",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-17T15:08:00Z",
-   "writtenAt": "2026-11-17T17:34:33.932Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/nigeria-dangote-investit-2-2-milliards-usd-dans-les-routes-pour-securiser-la-logistique-de-son-empire-industriel_65790",
-    "title": "Nigeria : Dangote investit 2,2 milliards USD dans les routes pour sécuriser la logistique de son empire industriel"
    },
    "rewritten": true
   }
