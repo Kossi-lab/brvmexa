@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-27T16:15:28.557Z",
+ "updatedAt": "2026-11-27T16:30:34.050Z",
  "items": [
+  {
+   "id": "sika-66003",
+   "title": "Sénégal : Planet One annonce un investissement de près d’un milliard USD pour relancer le projet de fer de la Falémé",
+   "summary": "Le Sénégal veut accélérer la valorisation de son potentiel minier et faire du minerai de fer l'un des nouveaux moteurs ...",
+   "url": "https://www.sikafinance.com/marches/senegal-planet-one-annonce-un-investissement-de-pres-dun-milliard-usd-pour-relancer-le-projet-de-fer-de-la-faleme_66003",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-27T16:14:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-66002",
    "title": "Assurance : AFG Assurances accélère son offensive régionale avec Mediterrania Capital Partners",
@@ -4297,20 +4311,6 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-11-04T13:46:00Z",
-   "symbols": [],
-   "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "sika-65494",
-   "title": "Sénégal : Le rejet du budget rectificatif fait planer des incertitudes sur les dépenses sociales et les investissements publics",
-   "summary": "L'Assemblée nationale du Sénégal a rejeté, mardi 3 novembre 2026, le projet de loi de finances rectificative (LFR) 2026...",
-   "url": "https://www.sikafinance.com/marches/senegal-le-rejet-du-budget-rectificatif-fait-planer-des-incertitudes-sur-les-depenses-sociales-et-les-investissements-publics_65494",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-04T12:17:00Z",
    "symbols": [],
    "status": "done",
    "tries": 1

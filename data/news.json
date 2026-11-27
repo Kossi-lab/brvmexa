@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-27T16:15:28.559Z",
+ "updatedAt": "2026-11-27T16:30:34.052Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -17,6 +17,30 @@
     "19 PAGES"
    ],
    "pinned": true
+  },
+  {
+   "id": "sika-66003",
+   "title": "Sénégal : Planet One investit 933 millions USD dans le projet minier de la Falémé",
+   "summary": "Le groupe émirati Planet One s'engage à financer le développement du gisement de fer de la Falémé au Sénégal, visant à transformer le secteur minier national en un pilier de l'industrialisation.",
+   "body": [
+    "Le groupe d'investissement Planet One, basé aux Émirats arabes unis, a annoncé un engagement financier de 933 millions de dollars (environ 560 milliards FCFA) pour relancer le projet de fer de la Falémé, situé dans le Sud-Est du Sénégal. La structure de l'actionnariat se compose de Planet One à hauteur de 80 %, tandis que l'État sénégalais et la Société des mines de fer du Sénégal (MIFERSO) détiennent chacun 10 % des parts.",
+    "Le déploiement se fera par étapes, débutant par une phase initiale de 200 millions de dollars consacrée aux infrastructures et aux équipements sur 12 à 18 mois. À terme, le projet ambitionne une production annuelle atteignant 10 millions de tonnes, destinée aux marchés chinois, indien et africain. Ce complexe minier et sidérurgique s'inscrit dans la volonté des autorités sénégalaises de favoriser la transformation locale des ressources pour stimuler la croissance économique à long terme."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-66003",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-27T16:14:00Z",
+   "writtenAt": "2026-11-27T16:30:34.050Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/senegal-planet-one-annonce-un-investissement-de-pres-dun-milliard-usd-pour-relancer-le-projet-de-fer-de-la-faleme_66003",
+    "title": "Sénégal : Planet One annonce un investissement de près d’un milliard USD pour relancer le projet de fer de la Falémé"
+   },
+   "rewritten": true
   },
   {
    "id": "sika-66002",
@@ -3781,30 +3805,6 @@
     "name": "Sika Finance",
     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNzhmU1NWRUVlWTcxV2xmWENRSWt3b2tsc1lhM1dGNWJpaDUtcGp6MFMzbHdfbXN5RUNnSHQ0RW9MZHFjTld1Z01hRklGcDZ4cXliaUZfUEtKcENOcWlnYkR6STdGakxKRTFWWW1pMkNreWVnaWJjdFdNUG8wakhjbTd5OElIRmx0NmdTcUZjNU5vc1V1MnhCc213YUp3WUk2b2pNdFlPZnRmZUlmbW5ob21BMXZlcWloeGhIQUllcEJKTFNDSE5VaTcycmxwTU5FWUVfZg?oc=5",
     "title": "BRVM : Le groupe Coris prépare l’introduction en bourse de ses filiales de Côte d’Ivoire et du Bénin"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65782",
-   "title": "Côte d'Ivoire : un excédent commercial marqué au premier semestre 2026",
-   "summary": "La Côte d'Ivoire affiche une performance commerciale solide à mi-année 2026, avec des exportations atteignant 9 400 milliards FCFA, soit le double du volume des importations.",
-   "body": [
-    "La balance commerciale ivoirienne montre un déséquilibre favorable à l'économie nationale. À la clôture du premier semestre 2026, le pays a enregistré un montant total d'exportations s'élevant à 9 400 milliards FCFA.",
-    "Cette dynamique commerciale se traduit par un ratio où les ventes à l'international représentent désormais le double des achats effectués à l'étranger. Cette situation témoigne d'une activité exportatrice particulièrement vigoureuse sur la période observée."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65782",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-17T12:30:00Z",
-   "writtenAt": "2026-11-17T17:35:38.135Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/avec-un-niveau-dexportations-de-9-400-milliards-fcfa-a-fin-juin-la-cote-divoire-vend-desormais-deux-fois-plus-quelle-nachete_65782",
-    "title": "Avec un niveau d’exportations de 9 400 milliards FCFA à fin juin, la Côte d’Ivoire vend désormais deux fois plus qu’elle n’achète"
    },
    "rewritten": true
   }

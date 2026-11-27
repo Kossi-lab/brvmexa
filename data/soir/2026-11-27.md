@@ -1,7 +1,7 @@
 # BRVMexa Soir — vendredi 27 novembre 2026
 
-> Script généré automatiquement le 2026-11-27 à 16:15 GMT à partir des données publiées (source des cours : brvm.org, données différées).
-> **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 3,9 minutes (586 mots).
+> Script généré automatiquement le 2026-11-27 à 16:30 GMT à partir des données publiées (source des cours : brvm.org, données différées).
+> **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 3,9 minutes (583 mots).
 
 ## 0:00 · Générique
 
@@ -38,8 +38,8 @@ Coris Bank International dynamise le marché financier régional en lançant deu
 Ces initiatives visent à renforcer la présence de l'institution sur le marché financier de l'Union Économique et Monétaire Ouest-Africaine (UEMOA). Cette double opération témoigne de la volonté du groupe de poursuivre son développement stratégique à travers le levier boursier.
 Retrouvez l’article complet dans la rubrique À la une de BRVMexa.
 En bref :
+Sénégal : Planet One investit 933 millions USD dans le projet minier de la Falémé. Le groupe émirati Planet One s'engage à financer le développement du gisement de fer de la Falémé au Sénégal, visant à transformer le secteur minier national en un pilier de l'industrialisation.
 IA : le recours aux prestataires externes booste la rentabilité des banques africaines. Une étude révèle que 56% des banques africaines collaborant avec des experts externes surpassent leurs objectifs financiers, alors que 82% des établissements prévoient d'accroître leurs investissements en IA.
-Sénégal : inauguration de la mine d'or de Boto et lancement du projet de fer de la Falémé. Le Sénégal renforce son secteur minier avec l'inauguration de la mine d'or de Boto et le lancement officiel du projet d'exploitation du fer de la Falémé dans la région de Kédougou.
 
 ## 3:15 · Le mot de la fin
 
