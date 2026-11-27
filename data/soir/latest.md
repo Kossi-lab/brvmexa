@@ -1,7 +1,7 @@
 # BRVMexa Soir — vendredi 27 novembre 2026
 
-> Script généré automatiquement le 2026-11-27 à 17:45 GMT à partir des données publiées (source des cours : brvm.org, données différées).
-> **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 3,9 minutes (585 mots).
+> Script généré automatiquement le 2026-11-27 à 18:00 GMT à partir des données publiées (source des cours : brvm.org, données différées).
+> **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 3,8 minutes (572 mots).
 
 ## 0:00 · Générique
 
@@ -38,8 +38,8 @@ Coris Bank International dynamise le marché financier régional en lançant deu
 Ces initiatives visent à renforcer la présence de l'institution sur le marché financier de l'Union Économique et Monétaire Ouest-Africaine (UEMOA). Cette double opération témoigne de la volonté du groupe de poursuivre son développement stratégique à travers le levier boursier.
 Retrouvez l’article complet dans la rubrique À la une de BRVMexa.
 En bref :
+Évolution des principaux partenaires commerciaux de la Côte d'Ivoire sur cinq ans. La structure des échanges extérieurs ivoiriens enregistre une transformation significative, marquée par l'émergence de nouveaux acteurs dominants sur le marché international.
 Côte d'Ivoire : les exportations d'anacarde dépassent les 1 000 milliards FCFA en 2025. Le secteur ivoirien de l'anacarde a franchi un cap historique en 2025, porté par une transformation locale accrue qui propulse le pays au rang de leader mondial du secteur.
-Sénégal : Planet One investit 933 millions USD dans le projet minier de la Falémé. Le groupe émirati Planet One s'engage à financer le développement du gisement de fer de la Falémé au Sénégal, visant à transformer le secteur minier national en un pilier de l'industrialisation.
 
 ## 3:15 · Le mot de la fin
 

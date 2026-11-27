@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-27T17:45:21.365Z",
+ "updatedAt": "2026-11-27T18:00:35.023Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -17,6 +17,30 @@
     "19 PAGES"
    ],
    "pinned": true
+  },
+  {
+   "id": "sika-66008",
+   "title": "Évolution des principaux partenaires commerciaux de la Côte d'Ivoire sur cinq ans",
+   "summary": "La structure des échanges extérieurs ivoiriens enregistre une transformation significative, marquée par l'émergence de nouveaux acteurs dominants sur le marché international.",
+   "body": [
+    "Le paysage des relations commerciales de la Côte d'Ivoire a connu des changements profonds au cours des cinq dernières années. Cette période a été marquée par une redistribution des rôles entre les nations partenaires, redessinant ainsi la carte des flux d'exportation et d'importation du pays.",
+    "Parmi les évolutions les plus marquantes, la Suisse a consolidé sa position pour devenir un acteur central dans les échanges ivoiriens. Cette dynamique s'inscrit dans une recomposition globale impliquant également la Chine et les Pays-Bas, confirmant la diversification des débouchés économiques du pays."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#sika-66008",
+   "image": null,
+   "category": "Marchés",
+   "premium": false,
+   "publishedAt": "2026-11-27T17:52:00Z",
+   "writtenAt": "2026-11-27T18:00:35.019Z",
+   "symbols": [],
+   "origin": {
+    "name": "Sika Finance",
+    "url": "https://www.sikafinance.com/marches/cote-divoire-suisse-chine-pays-bas-comment-evolue-la-carte-des-principaux-partenaires-commerciaux_66008",
+    "title": "Côte d’Ivoire : Suisse, Chine, Pays-Bas… Comment évolue la carte des principaux partenaires commerciaux"
+   },
+   "rewritten": true
   },
   {
    "id": "sika-66007",
@@ -3788,30 +3812,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/brvm-le-groupe-coris-prepare-lintroduction-en-bourse-de-ses-filiales-de-cote-divoire-et-du-benin_65787",
     "title": "BRVM : Le groupe Coris prépare l’introduction en bourse de ses filiales de Côte d’Ivoire et du Bénin"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65786",
-   "title": "Nigeria : Le ralentissement de l'inflation se confirme en octobre 2026",
-   "summary": "Le taux d'inflation annuel au Nigeria a reculé à 14,06 % en octobre, marquant une décélération continue malgré des pressions persistantes sur les prix alimentaires et le coût de la vie.",
-   "body": [
-    "D'après les données communiquées le 16 novembre par le Bureau national des statistiques, la hausse des prix à la consommation s'est établie à 14,06 % en octobre 2026, contre 14,63 % en septembre. Ce chiffre confirme une tendance baissière notable sur un an, le taux s'élevant à 18,97 % en octobre 2025. Bien que l'inflation des produits alimentaires ait également ralenti, passant de 19,59 % à 19,13 % sur un mois, elle demeure un poids important pour le budget des ménages nigérians.",
-    "Cependant, l'analyse mensuelle apporte une nuance : l'inflation globale a légèrement progressé à 0,43 % en octobre, contre 0,06 % le mois précédent. Ce contexte économique est marqué par les réformes structurelles initiées par le président Bola Tinubu depuis 2023, incluant la fin des subventions aux carburants. Alors que la Banque centrale a ramené son taux directeur à 23 % en septembre dernier, la gestion du coût de la vie demeure un enjeu politique central à l'approche des élections de janvier 2027."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65786",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-17T13:23:00Z",
-   "writtenAt": "2026-11-17T17:35:17.749Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/nigeria-linflation-recule-a-14-en-octobre-malgre-les-pressions-alimentaires_65786",
-    "title": "Nigeria : L’inflation recule à 14 % en octobre, malgré les pressions alimentaires"
    },
    "rewritten": true
   }

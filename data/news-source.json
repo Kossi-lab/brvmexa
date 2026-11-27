@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-27T17:45:21.363Z",
+ "updatedAt": "2026-11-27T18:00:35.020Z",
  "items": [
+  {
+   "id": "sika-66008",
+   "title": "Côte d’Ivoire : Suisse, Chine, Pays-Bas… Comment évolue la carte des principaux partenaires commerciaux",
+   "summary": "La géographie commerciale ivoirienne connaît une recomposition notable. En 5 ans, la Suisse s'est imposée comme le...",
+   "url": "https://www.sikafinance.com/marches/cote-divoire-suisse-chine-pays-bas-comment-evolue-la-carte-des-principaux-partenaires-commerciaux_66008",
+   "image": null,
+   "source": "Sika Finance",
+   "category": "Marchés",
+   "premium": true,
+   "publishedAt": "2026-11-27T17:52:00Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-66007",
    "title": "Côte d’Ivoire : Les recettes d’exportation de l’anacarde franchissent le cap des 1 000 milliards FCFA en 2025",
@@ -4300,20 +4314,6 @@
    "category": "Marchés",
    "premium": false,
    "publishedAt": "2026-11-04T14:42:00Z",
-   "symbols": [],
-   "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "sika-65498",
-   "title": "Afrique : La BAD veut mobiliser le capital de la diaspora pour financer le développement du continent",
-   "summary": "Les transferts d'argent des Africains établis à l'étranger constituent déjà une source importante de financement pour l...",
-   "url": "https://www.sikafinance.com/marches/afrique-la-bad-veut-mobiliser-le-capital-de-la-diaspora-pour-financer-le-developpement-du-continent_65498",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-04T14:19:00Z",
    "symbols": [],
    "status": "done",
    "tries": 1
