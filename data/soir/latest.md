@@ -1,7 +1,7 @@
 # BRVMexa Soir — vendredi 27 novembre 2026
 
-> Script généré automatiquement le 2026-11-27 à 13:45 GMT à partir des données publiées (source des cours : brvm.org, données différées).
-> **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 3,9 minutes (588 mots).
+> Script généré automatiquement le 2026-11-27 à 14:00 GMT à partir des données publiées (source des cours : brvm.org, données différées).
+> **À relire et à vérifier avant l’enregistrement.** Durée de lecture estimée : 3,9 minutes (582 mots).
 
 ## 0:00 · Générique
 
@@ -17,18 +17,18 @@ Et à la une : Double opération d'appel public à l'épargne pour Coris Bank In
 ## 0:30 · La séance
 
 Commençons par le marché.
-L’indice BRVM Composite, qui regroupe toutes les actions, termine à 454 points, en hausse de 0,04 %.
-Le BRVM 30, l’indice des trente valeurs les plus actives, est en hausse de 0,1 %, et le BRVM Prestige en baisse de 0,6 %.
-Sur l’ensemble de la séance, 18 actions ont progressé, 22 ont reculé et 8 sont restées stables.
-Côté activité, environ 907 millions de francs CFA ont été échangés aujourd’hui.
-Du côté des secteurs, meilleur score pour les Services publics, en hausse de 2,5 %, tandis que la Consommation discrétionnaire ferme la marche, en baisse de 3,2 %.
+L’indice BRVM Composite, qui regroupe toutes les actions, termine à 454 points, stable.
+Le BRVM 30, l’indice des trente valeurs les plus actives, est en hausse de 0,2 %, et le BRVM Prestige en baisse de 0,7 %.
+Sur l’ensemble de la séance, 17 actions ont progressé, 23 ont reculé et 8 sont restées stables.
+Côté activité, environ 1,0 milliards de francs CFA ont été échangés aujourd’hui.
+Du côté des secteurs, meilleur score pour les Services publics, en hausse de 3,0 %, tandis que la Consommation discrétionnaire ferme la marche, en baisse de 3,2 %.
 
 ## 1:15 · Le palmarès
 
 Dans le haut du tableau, Coris Bank International gagne 7,5 % à 24 775 francs CFA.
-Suivent Orange Côte d’Ivoire, en hausse de 4,7 %, et CIE Côte d’Ivoire, en hausse de 4,0 %.
-En bas du tableau, Bernabé CI cède 7,2 %, Société Ivoirienne de Banque 5,6 % et TotalEnergies Marketing Sénégal 5,3 %.
-La valeur la plus échangée du jour est Sonatel, avec 88 142 titres, à 3 575 francs CFA, en baisse de 3,1 %.
+Suivent BOA Burkina Faso, en hausse de 5,9 %, et BOA Niger, en hausse de 5,2 %.
+En bas du tableau, Bernabé CI cède 7,2 %, SETAO CI 5,9 % et Société Ivoirienne de Banque 5,6 %.
+La valeur la plus échangée du jour est Sonatel, avec 89 730 titres, à 3 575 francs CFA, en baisse de 3,1 %.
 À noter aussi : Société Ivoirienne de Banque, très échangée, recule de 5,6 %.
 
 ## 2:00 · L’actualité du jour
