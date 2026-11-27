@@ -25,12 +25,12 @@ jobs:
       - name: Installer Semgrep
         run: pip install --quiet semgrep==1.187.0
       - name: Analyser (rapport complet)
-        run: semgrep scan --config p/javascript --config p/github-actions --config p/secrets --config p/xss --metrics=off --sarif -o semgrep.sarif .
+        run: semgrep scan --config p/javascript --config p/github-actions --config p/secrets --config p/xss --metrics=off --sarif -o "$RUNNER_TEMP/semgrep.sarif" .
       - name: Envoyer le rapport dans l'onglet Sécurité
         if: always()
         uses: github/codeql-action/upload-sarif@915412ff23e8b7659517e607487dbeae018f2934 # v4.39.5
         with:
-          sarif_file: semgrep.sarif
+          sarif_file: ${{ runner.temp }}/semgrep.sarif
           category: semgrep
       - name: Bloquer sur les problèmes graves
         # innerHTML du site : revu le 27/11/2026, tout contenu externe passe par esc()
