@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-28T12:30:17.503Z",
+ "updatedAt": "2026-11-28T12:45:29.640Z",
  "items": [
+  {
+   "id": "gn-3fes47",
+   "title": "L'hebdo des marchés financiers : unis et Johannesburg rebondissent, la BRVM décroche, les grandes IPO animent la cote",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNeUlOaHhpbnZrS0NlQlVqMGNMUGlXekNTcE05b0Zfam11STRjVHcyV09oYzNXUU5zU1BBQWE2YS14UDhRaGJEemhYQnNIbWdaZGY4Z193bGlWWXNUeHRsbmQwSG81b3hYRnB2NVFnTUF6MVNCclVwQWwwVVdVZVNmY1NsX2owVV9qcURFQk9TNmlyd0Z5RVVHNXFpYmFwdjhHc0gyNE5obU94bTBLNVdGRTlqcnhDUUJSX2U2bjVOYmY0N2hjUG1xdnNCT05iZWJuNV9udjRBXzJuSE9jcjBST2o2bnBvdDRtb184?oc=5",
+   "image": null,
+   "source": "Financial Afrik",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-28T12:37:05.000Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "gn-1vmldg8",
    "title": "​BRVM : plus de 2 milliards de FCFA échangés le jeudi malgré le repli des indices",
@@ -4296,22 +4310,6 @@
    "publishedAt": "2026-11-04T16:59:00Z",
    "symbols": [
     "NEIC"
-   ],
-   "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "sika-65505",
-   "title": "FILTISAC CI : les ventes bondissent de 40 %, mais le résultat reste sous pression",
-   "summary": "Avec 25,69 milliards FCFA de chiffre d'affaires sur neuf mois, FILTISAC CI affiche une forte accélération commerciale, ...",
-   "url": "https://www.sikafinance.com/marches/filtisac-ci-les-ventes-bondissent-de-40--mais-le-resultat-reste-sous-pression_65505",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": true,
-   "publishedAt": "2026-11-04T16:35:00Z",
-   "symbols": [
-    "FTSC"
    ],
    "status": "done",
    "tries": 1

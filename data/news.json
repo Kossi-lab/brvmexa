@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-28T12:30:17.505Z",
+ "updatedAt": "2026-11-28T12:45:29.642Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -17,6 +17,30 @@
     "19 PAGES"
    ],
    "pinned": true
+  },
+  {
+   "id": "gn-3fes47",
+   "title": "Bilan hebdomadaire : contrastes entre la BRVM et les places financières internationales",
+   "summary": "Alors que les bourses d'Unis et de Johannesburg affichent une dynamique positive, la BRVM clôture la semaine sur une note de repli dans un contexte marqué par des introductions en bourse significatives.",
+   "body": [
+    "Le paysage boursier de cette fin de semaine, au 28 novembre 2026, révèle des trajectoires divergentes. Tandis que les places financières d'Unis et de Johannesburg profitent d'un rebond de leurs indices, la Bourse Régionale des Valeurs Mobilières (BRVM) subit une tendance baissière.",
+    "Cette période est également rythmée par l'actualité des grandes introductions en bourse (IPO), qui jouent un rôle moteur dans l'animation des échanges sur les différents marchés financiers observés."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#gn-3fes47",
+   "image": null,
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-28T12:37:05.000Z",
+   "writtenAt": "2026-11-28T12:45:29.640Z",
+   "symbols": [],
+   "origin": {
+    "name": "Financial Afrik",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNeUlOaHhpbnZrS0NlQlVqMGNMUGlXekNTcE05b0Zfam11STRjVHcyV09oYzNXUU5zU1BBQWE2YS14UDhRaGJEemhYQnNIbWdaZGY4Z193bGlWWXNUeHRsbmQwSG81b3hYRnB2NVFnTUF6MVNCclVwQWwwVVdVZVNmY1NsX2owVV9qcURFQk9TNmlyd0Z5RVVHNXFpYmFwdjhHc0gyNE5obU94bTBLNVdGRTlqcnhDUUJSX2U2bjVOYmY0N2hjUG1xdnNCT05iZWJuNV9udjRBXzJuSE9jcjBST2o2bnBvdDRtb184?oc=5",
+    "title": "L'hebdo des marchés financiers : unis et Johannesburg rebondissent, la BRVM décroche, les grandes IPO animent la cote"
+   },
+   "rewritten": true
   },
   {
    "id": "gn-1vmldg8",
@@ -3772,41 +3796,6 @@
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/afrique-la-bad-rehausse-a-4-6-la-prevision-de-croissance-en-2026-mais-3-defis-conditionnent-la-prosperite_65795",
     "title": "Afrique : La BAD rehausse à 4,6% la prévision de croissance en 2026, mais 3 défis conditionnent la prospérité"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "sika-65794",
-   "title": "La BRVM termine la séance du 17 novembre dans le rouge vif",
-   "summary": "La séance boursière du 17 novembre a été marquée par un repli généralisé des indices, sans aucune valeur en hausse, dans un contexte de réorganisation des portefeuilles des investisseurs.",
-   "body": [
-    "La journée du mardi 17 novembre a été difficile pour la Bourse régionale des valeurs mobilières. Aucun titre n'a progressé, avec 39 valeurs en recul et 9 restées inchangées. Cette tendance baissière a pesé sur les indices : le BRVM-Composite a perdu 1,98 % (502,68 points), le BRVM-30 a reculé de 1,93 % (243,13 points), le BRVM-Prestige a cédé 1,41 % (188,19 points) et le BRVM-Principal a chuté de 2,67 % (350,14 points).",
-    "Ce mouvement de vente pourrait s'expliquer par une volonté des investisseurs de libérer des liquidités en vue des prochaines introductions en Bourse des filiales ivoirienne et béninoise de Coris Bank. Les grandes capitalisations ont été les plus touchées, Orange CI, Solibra CI et Sonatel Sénégal enregistrant à elles seules une perte cumulée de 157 milliards FCFA de capitalisation.",
-    "Au niveau des performances individuelles, BOA Niger a subi la plus forte baisse (-7,42 % à 4 490 FCFA), suivie par Sucrivoire CI (-7,19 %), Solibra CI (-6,61 %), BOA Sénégal (-6,59 %) et SMB CI (-6,56 %). Le volume total des échanges s'est élevé à 2,3 milliards FCFA, avec Bridge Bank Group CI en tête des transactions, totalisant 446,6 millions FCFA."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#sika-65794",
-   "image": null,
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-17T16:49:00Z",
-   "writtenAt": "2026-11-17T17:34:21.859Z",
-   "symbols": [
-    "BBGC",
-    "BOAN",
-    "BOAS",
-    "CBIBF",
-    "ORAC",
-    "SCRC",
-    "SLBC",
-    "SMBC",
-    "SNTS"
-   ],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://www.sikafinance.com/marches/brvm-un-marche-peint-en-rouge_65794",
-    "title": "BRVM : Un marché peint en rouge"
    },
    "rewritten": true
   }
