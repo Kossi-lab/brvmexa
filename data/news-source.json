@@ -1,6 +1,20 @@
 {
- "updatedAt": "2026-11-28T05:45:16.210Z",
+ "updatedAt": "2026-11-28T06:00:20.402Z",
  "items": [
+  {
+   "id": "gn-1vmldg8",
+   "title": "​BRVM : plus de 2 milliards de FCFA échangés le jeudi malgré le repli des indices",
+   "summary": null,
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSi1LOERHajlJT0p4VHgwUG5FekpOMDRwekpNSWdibTR1T0JZd3NoRUMwWGFUbE90bmZ2RGNQWTR5Y0p0cXdwYk54b1R3OHlZRGY2eHhZakxxZ1dVTnhSVGJSSmdUWFR3UWZTOHkxVGJqQXdRODMySThnU1U1ZW4xandiUDZOVkdkTjM4cjduUTJQQS1jQ1UyVTJEU21hazR0Tnk0c2FOTzZfZzFEaVVtWEhWQVN6MjFzbEdzRFdVZ2xQV3Rmbnc?oc=5",
+   "image": null,
+   "source": "Pressafrik",
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-27T22:05:00.000Z",
+   "symbols": [],
+   "status": "done",
+   "tries": 1
+  },
   {
    "id": "sika-66010",
    "title": "IA : Alertes de Moody’s sur les prix, l’électricité et les équipements, quel écho en Afrique ?",
@@ -4298,22 +4312,6 @@
    "publishedAt": "2026-11-04T16:35:00Z",
    "symbols": [
     "FTSC"
-   ],
-   "status": "done",
-   "tries": 1
-  },
-  {
-   "id": "sika-65504",
-   "title": "Easy leasing : NSIA Banque Côte d’Ivoire et Rimco motors facilitent l’accès aux véhicules neufs",
-   "summary": "Jusqu'à 100 % du véhicule financé, sans apport initial exigé sous conditions &nb...",
-   "url": "https://www.sikafinance.com/marches/easy-leasing-nsia-banque-cote-divoire-et-rimco-motors-facilitent-lacces-aux-vehicules-neufs_65504",
-   "image": null,
-   "source": "Sika Finance",
-   "category": "Marchés",
-   "premium": false,
-   "publishedAt": "2026-11-04T15:49:00Z",
-   "symbols": [
-    "NSBC"
    ],
    "status": "done",
    "tries": 1

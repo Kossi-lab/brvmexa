@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-28T05:45:16.213Z",
+ "updatedAt": "2026-11-28T06:00:20.405Z",
  "items": [
   {
    "id": "pin-lemag-n1",
@@ -17,6 +17,30 @@
     "19 PAGES"
    ],
    "pinned": true
+  },
+  {
+   "id": "gn-1vmldg8",
+   "title": "BRVM : une activité de plus de 2 milliards FCFA malgré une séance dans le rouge",
+   "summary": "La Bourse régionale des valeurs mobilières a enregistré un volume de transactions supérieur à 2 milliards de FCFA ce jeudi, en dépit d'une tendance baissière des indices boursiers.",
+   "body": [
+    "La séance de cotation du jeudi 27 novembre 2026 a été marquée par une activité soutenue sur le marché financier régional. Les échanges ont en effet franchi la barre des 2 milliards de FCFA.",
+    "Cette performance financière notable s'est déroulée dans un contexte de repli pour les indices de la BRVM, illustrant une journée contrastée entre le volume des transactions et la dynamique des cours."
+   ],
+   "author": "La Rédaction, BRVMexa",
+   "source": "La Rédaction, BRVMexa",
+   "url": "https://www.brvmexa.com/actualites/#gn-1vmldg8",
+   "image": null,
+   "category": "Presse",
+   "premium": false,
+   "publishedAt": "2026-11-27T22:05:00.000Z",
+   "writtenAt": "2026-11-28T06:00:20.402Z",
+   "symbols": [],
+   "origin": {
+    "name": "Pressafrik",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSi1LOERHajlJT0p4VHgwUG5FekpOMDRwekpNSWdibTR1T0JZd3NoRUMwWGFUbE90bmZ2RGNQWTR5Y0p0cXdwYk54b1R3OHlZRGY2eHhZakxxZ1dVTnhSVGJSSmdUWFR3UWZTOHkxVGJqQXdRODMySThnU1U1ZW4xandiUDZOVkdkTjM4cjduUTJQQS1jQ1UyVTJEU21hazR0Tnk0c2FOTzZfZzFEaVVtWEhWQVN6MjFzbEdzRFdVZ2xQV3Rmbnc?oc=5",
+    "title": "​BRVM : plus de 2 milliards de FCFA échangés le jeudi malgré le repli des indices"
+   },
+   "rewritten": true
   },
   {
    "id": "sika-66010",
@@ -3782,30 +3806,6 @@
    "origin": {
     "name": "Sika Finance",
     "url": "https://www.sikafinance.com/marches/brvm-un-marche-peint-en-rouge_65794",
-    "title": "BRVM : Un marché peint en rouge"
-   },
-   "rewritten": true
-  },
-  {
-   "id": "gn-1g0dx72",
-   "title": "BRVM : Une séance marquée par une tendance baissière ce 17 novembre 2026",
-   "summary": "La Bourse Régionale des Valeurs Mobilières a achevé sa séance du 17 novembre 2026 sur une note négative.",
-   "body": [
-    "La Bourse Régionale des Valeurs Mobilières a connu une orientation générale à la baisse au cours de la séance de cotation du 17 novembre 2026.",
-    "Les investisseurs présents sur le marché financier régional ont ainsi assisté à une clôture globalement orientée dans le rouge pour cette journée."
-   ],
-   "author": "La Rédaction, BRVMexa",
-   "source": "La Rédaction, BRVMexa",
-   "url": "https://www.brvmexa.com/actualites/#gn-1g0dx72",
-   "image": null,
-   "category": "Presse",
-   "premium": false,
-   "publishedAt": "2026-11-17T15:49:44.000Z",
-   "writtenAt": "2026-11-18T17:00:48.912Z",
-   "symbols": [],
-   "origin": {
-    "name": "Sika Finance",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ZVUpCSkNWRzQya0t4Z0FiSDYtUVpNLUp3ZlR4UTJhcTBFREc3d0lQSlEyczNXbkp6XzFYMG5DU3pIdGZOSl9PekhCMDhya3dfZHlFWmh0dzhoYzY3bTBlckcxeElNMjRCUDU2R2t6RmY3aWtjSm5HOUh2NA?oc=5",
     "title": "BRVM : Un marché peint en rouge"
    },
    "rewritten": true
